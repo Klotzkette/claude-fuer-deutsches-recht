@@ -7,7 +7,7 @@ description: "Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwä
 
 ## Arbeitsbereich
 
-Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

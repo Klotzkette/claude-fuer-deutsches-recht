@@ -7,7 +7,7 @@ description: "Prüft Möglichkeiten einer übergreifenden Beurteilung gleicharti
 
 ## Arbeitsbereich
 
-Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

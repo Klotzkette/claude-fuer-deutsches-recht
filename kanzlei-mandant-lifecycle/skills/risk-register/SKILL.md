@@ -7,7 +7,7 @@ description: "Risk Register: steuert rechtliche, wirtschaftliche, prozessuale un
 
 ## Arbeitsbereich
 
-Risk Register: steuert rechtliche, wirtschaftliche, prozessuale und Beziehungssrisiken in einem Register führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Risk Register: steuert rechtliche, wirtschaftliche, prozessuale und Beziehungssrisiken in einem Register führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

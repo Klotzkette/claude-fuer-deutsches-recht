@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: prüft Gewerbe, Handwerksrolle, VOB/B, Mäng
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: prüft Gewerbe, Handwerksrolle, VOB/B, Mängel und Arbeitsschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: prüft Gewerbe, Handwerksrolle, VOB/B, Mängel und Arbeitsschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

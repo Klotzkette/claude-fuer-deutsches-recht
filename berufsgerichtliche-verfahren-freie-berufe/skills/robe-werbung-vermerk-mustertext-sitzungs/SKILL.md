@@ -7,7 +7,7 @@ description: "Robe, Werbung und Sachlichkeit: prüft Werberecht, Sachlichkeitsge
 
 ## Arbeitsbereich
 
-Robe, Werbung und Sachlichkeit: prüft Werberecht, Sachlichkeitsgebot, Auftritt vor Gericht und Berufsbild in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Robe, Werbung und Sachlichkeit: prüft Werberecht, Sachlichkeitsgebot, Auftritt vor Gericht und Berufsbild in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

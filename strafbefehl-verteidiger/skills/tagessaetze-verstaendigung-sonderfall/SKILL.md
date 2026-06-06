@@ -7,7 +7,7 @@ description: "Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin str
 
 ## Arbeitsbereich
 
-Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

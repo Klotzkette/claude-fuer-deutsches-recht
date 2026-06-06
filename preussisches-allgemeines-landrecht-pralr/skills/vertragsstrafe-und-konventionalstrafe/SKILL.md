@@ -7,7 +7,7 @@ description: "Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR 
 
 ## Arbeitsbereich
 
-Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhaeltnis zu §§ 339-345 BGB. Liefert Pruefraster. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhaeltnis zu §§ 339-345 BGB. Liefert Pruefraster. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

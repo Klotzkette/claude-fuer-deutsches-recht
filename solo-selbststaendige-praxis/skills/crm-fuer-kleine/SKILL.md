@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: ordnet Leads, Kundenstatus, Folgeaktionen un
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: ordnet Leads, Kundenstatus, Folgeaktionen und Datenschutz im Mini-CRM; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: ordnet Leads, Kundenstatus, Folgeaktionen und Datenschutz im Mini-CRM; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

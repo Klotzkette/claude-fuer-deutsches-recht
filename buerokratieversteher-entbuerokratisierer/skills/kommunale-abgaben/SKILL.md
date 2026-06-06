@@ -7,7 +7,7 @@ description: "Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, M
 
 ## Arbeitsbereich
 
-Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

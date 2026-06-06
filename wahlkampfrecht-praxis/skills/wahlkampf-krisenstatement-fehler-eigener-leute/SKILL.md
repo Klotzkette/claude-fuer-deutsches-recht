@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder 
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

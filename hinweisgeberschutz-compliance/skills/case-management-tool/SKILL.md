@@ -7,7 +7,7 @@ description: "Prüft technisches Case-Management für Hinweisfälle im Hinweisge
 
 ## Arbeitsbereich
 
-Prüft technisches Case-Management für Hinweisfälle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft technisches Case-Management für Hinweisfälle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

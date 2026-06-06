@@ -7,10 +7,10 @@ description: "Unrecht Grenzen Verwaltungsaufgaben Versus im Rechtstheorie und Re
 
 ## Arbeitsbereich
 
-**Unrecht Grenzen Verwaltungsaufgaben Versus** ordnet den Fall über die tragenden Prüffelder: Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Unrecht Grenzen Verwaltungsaufgaben Versus** führt durch die falltragenden Prüfungslinien: Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `unrecht-und-grenzen-des-gehorsams` | Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
@@ -23,7 +23,7 @@ description: "Unrecht Grenzen Verwaltungsaufgaben Versus im Rechtstheorie und Re
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `unrecht-und-grenzen-des-gehorsams`
 

@@ -7,7 +7,7 @@ description: "Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrec
 
 ## Arbeitsbereich
 
-Prüft Immatrikulation, Rückmeldung und Gebühren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Immatrikulation, Rückmeldung und Gebühren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

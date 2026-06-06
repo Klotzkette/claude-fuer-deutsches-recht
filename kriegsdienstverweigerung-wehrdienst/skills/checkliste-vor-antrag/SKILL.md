@@ -7,7 +7,7 @@ description: "Letztes Qualitätsgate vor Absendung des KDV-Antrags im Kriegsdien
 
 ## Arbeitsbereich
 
-Letztes Qualitätsgate vor Absendung des KDV-Antrags. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Letztes Qualitätsgate vor Absendung des KDV-Antrags. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche K
 
 ## Arbeitsbereich
 
-Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transparenzpflichten Art. 50 GPAI-Pflichten Art. 53 KI-Kompetenz Art. 4 Sanktionen bei Verstoss. Output: Dokumentationspaket Negativ-Diagnose und Restpflichten-Checkliste. Abgrenzung zu hochrisiko-bestätigt-end-to-end-roadmap (Hochrisiko-Roadmap) und risikoklassen-uebersicht-und-triage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transparenzpflichten Art. 50 GPAI-Pflichten Art. 53 KI-Kompetenz Art. 4 Sanktionen bei Verstoss. Output: Dokumentationspaket Negativ-Diagnose und Restpflichten-Checkliste. Abgrenzung zu hochrisiko-bestätigt-end-to-end-roadmap (Hochrisiko-Roadmap) und risikoklassen-uebersicht-und-triage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

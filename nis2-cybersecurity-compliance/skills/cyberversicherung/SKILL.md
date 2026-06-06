@@ -7,7 +7,7 @@ description: "Prüft Cyberversicherung aus Compliance-Sicht im Nis2 Cybersecurit
 
 ## Arbeitsbereich
 
-Prüft Cyberversicherung aus Compliance-Sicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cyberversicherung aus Compliance-Sicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

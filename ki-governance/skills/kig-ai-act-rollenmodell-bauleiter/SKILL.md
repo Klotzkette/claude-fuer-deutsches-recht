@@ -7,7 +7,7 @@ description: "Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Ver
 
 ## Arbeitsbereich
 
-Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster fuer Identifikation und Pflichtenkatalog je Rolle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster fuer Identifikation und Pflichtenkatalog je Rolle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation:
 
 ## Arbeitsbereich
 
-HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

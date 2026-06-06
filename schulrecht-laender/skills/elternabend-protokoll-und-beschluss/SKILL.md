@@ -7,7 +7,7 @@ description: "Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Be
 
 ## Arbeitsbereich
 
-Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

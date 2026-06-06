@@ -7,7 +7,7 @@ description: "Formuliert Kommunikation an beschuldigte und betroffene Personen i
 
 ## Arbeitsbereich
 
-Formuliert Kommunikation an beschuldigte und betroffene Personen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Kommunikation an beschuldigte und betroffene Personen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

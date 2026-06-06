@@ -7,7 +7,7 @@ description: "Prueft bankruptcy remoteness, true sale, SPE separateness, substan
 
 ## Arbeitsbereich
 
-Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenr
 
 ## Arbeitsbereich
 
-Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

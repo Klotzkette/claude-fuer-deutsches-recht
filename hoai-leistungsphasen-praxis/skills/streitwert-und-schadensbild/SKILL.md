@@ -7,7 +7,7 @@ description: "HOAI-Praxis: ordnet Honorarstreit, Mängelschaden, Bauzeit, Kosten
 
 ## Arbeitsbereich
 
-HOAI-Praxis: ordnet Honorarstreit, Mängelschaden, Bauzeit, Kostenüberschreitung und Regress; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: ordnet Honorarstreit, Mängelschaden, Bauzeit, Kostenüberschreitung und Regress; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

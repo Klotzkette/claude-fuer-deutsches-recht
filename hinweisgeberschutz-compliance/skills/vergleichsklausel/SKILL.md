@@ -7,7 +7,7 @@ description: "Entwirft Vergleichsklauseln hinweisgeberfest im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Entwirft Vergleichsklauseln hinweisgeberfest. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft Vergleichsklauseln hinweisgeberfest. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

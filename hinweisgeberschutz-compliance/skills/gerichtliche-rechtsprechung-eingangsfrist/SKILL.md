@@ -7,7 +7,7 @@ description: "Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate im Hinw
 
 ## Arbeitsbereich
 
-Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

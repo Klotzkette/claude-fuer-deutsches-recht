@@ -7,7 +7,7 @@ description: "Prüft VPN, Zero Trust und Remote Access im Nis2 Cybersecurity Com
 
 ## Arbeitsbereich
 
-Prüft VPN, Zero Trust und Remote Access. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft VPN, Zero Trust und Remote Access. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

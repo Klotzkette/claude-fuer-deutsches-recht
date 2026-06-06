@@ -7,7 +7,7 @@ description: "Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügu
 
 ## Arbeitsbereich
 
-Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügung, Verfahrensrechte, Beweisführung und Berufung. Norm-/Quellenanker: WDO §§ 58–106. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

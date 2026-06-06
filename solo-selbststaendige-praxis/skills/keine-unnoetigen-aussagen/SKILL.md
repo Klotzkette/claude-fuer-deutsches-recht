@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, 
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, nur Erforderliches sauber mitzuteilen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, nur Erforderliches sauber mitzuteilen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

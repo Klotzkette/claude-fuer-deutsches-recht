@@ -7,7 +7,7 @@ description: "Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und 
 
 ## Arbeitsbereich
 
-Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

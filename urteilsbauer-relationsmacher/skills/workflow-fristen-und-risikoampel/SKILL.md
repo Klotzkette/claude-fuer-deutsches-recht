@@ -7,7 +7,7 @@ description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zust�
 
 ## Arbeitsbereich
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haf
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
+Dieser Prüfungslinie markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
 
 ## Fristen Urteilsabsetzung (Zivilprozess)
 - **Urteilsfrist § 315 ZPO:** Urteil ist binnen 3 Wochen nach Verkündung zur Geschäftsstelle zu übergeben (Aktenlauf); ohne vollständige Niederschrift kann Berufung erfolgreich rügen.

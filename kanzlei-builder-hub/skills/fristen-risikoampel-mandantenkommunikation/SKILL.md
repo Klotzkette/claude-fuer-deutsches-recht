@@ -7,7 +7,7 @@ description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zust�
 
 ## Arbeitsbereich
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haf
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch, Datenschutz-Konzept, Geldwäsche-Risikoanalyse, Mandatsvertrag, Honorarvereinbarung, Versicherungspolice, Sozietätsvertrag, beA-Konfiguration — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld markiert beim Skill-/Plugin-Bau die typischen Risiken: Validator-Fehler, Versionsdrift, Halluzinations-Pfade, Mandantengeheimnis-Konformität, Update-Frist für Rechtsprechungs- und Norm-Änderungen.
+Dieser Prüfungslinie markiert beim Skill-/Plugin-Bau die typischen Risiken: Validator-Fehler, Versionsdrift, Halluzinations-Pfade, Mandantengeheimnis-Konformität, Update-Frist für Rechtsprechungs- und Norm-Änderungen.
 
 ## Risikoampel Builder-Hub
 - **Rot:** `validate-yaml-frontmatter.py` oder `validate-plugin-structure.mjs` schlägt fehl -- darf nicht ausgeliefert werden.

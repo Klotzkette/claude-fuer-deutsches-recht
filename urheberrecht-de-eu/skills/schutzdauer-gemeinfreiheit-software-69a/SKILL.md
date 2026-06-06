@@ -7,7 +7,7 @@ description: "Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschu
 
 ## Arbeitsbereich
 
-Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

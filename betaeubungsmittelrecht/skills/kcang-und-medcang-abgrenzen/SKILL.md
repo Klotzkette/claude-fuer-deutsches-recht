@@ -7,7 +7,7 @@ description: "Betäubungsmittelrecht: KCanG und MedCanG abgrenzen. KCanG und Med
 
 ## Arbeitsbereich
 
-Betäubungsmittelrecht: KCanG und MedCanG abgrenzen. KCanG und MedCanG abgrenzen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betäubungsmittelrecht: KCanG und MedCanG abgrenzen. KCanG und MedCanG abgrenzen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

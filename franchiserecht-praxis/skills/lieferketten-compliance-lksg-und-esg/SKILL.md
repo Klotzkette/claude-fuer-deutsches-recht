@@ -7,7 +7,7 @@ description: "Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüf
 
 ## Arbeitsbereich
 
-Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

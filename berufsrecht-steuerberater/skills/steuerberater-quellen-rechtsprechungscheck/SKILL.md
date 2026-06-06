@@ -7,7 +7,7 @@ description: "Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill f
 
 ## Arbeitsbereich
 
-Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Steuerberater; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Steuerberater; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

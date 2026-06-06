@@ -7,7 +7,7 @@ description: "Prueft preferential transfers, 90-day/insider period, antecedent d
 
 ## Arbeitsbereich
 
-Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

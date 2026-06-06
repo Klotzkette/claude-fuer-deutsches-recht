@@ -7,7 +7,7 @@ description: "Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behoerden
 
 ## Arbeitsbereich
 
-Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behoerdenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behoerdenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

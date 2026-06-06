@@ -7,7 +7,7 @@ description: "Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die histo
 
 ## Arbeitsbereich
 
-Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

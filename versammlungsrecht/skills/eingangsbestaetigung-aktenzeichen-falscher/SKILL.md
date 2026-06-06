@@ -7,7 +7,7 @@ description: "Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlic
 
 ## Arbeitsbereich
 
-Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

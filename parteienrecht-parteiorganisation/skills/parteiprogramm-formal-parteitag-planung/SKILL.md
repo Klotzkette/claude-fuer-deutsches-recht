@@ -7,7 +7,7 @@ description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne poli
 
 ## Arbeitsbereich
 
-Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,10 +7,10 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 
 ## Arbeitsbereich
 
-**Kodifikationsalterung Lueckendisziplin** ordnet den Fall über die tragenden Prüffelder: Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kodifikationsalterung Lueckendisziplin** führt durch die falltragenden Prüfungslinien: Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `kodifikationsalterung-und-lueckendisziplin` | Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist. |
 | `konservative-methodenkritik-gesetzesbindung` | Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen. |
@@ -25,7 +25,7 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `kodifikationsalterung-und-lueckendisziplin`
 

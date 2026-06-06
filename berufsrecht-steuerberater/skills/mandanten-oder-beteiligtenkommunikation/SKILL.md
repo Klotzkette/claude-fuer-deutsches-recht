@@ -7,7 +7,7 @@ description: "Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Steue
 
 ## Arbeitsbereich
 
-Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Steuerberater; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Steuerberater; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

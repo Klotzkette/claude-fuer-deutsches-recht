@@ -7,7 +7,7 @@ description: "Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangs
 
 ## Arbeitsbereich
 
-Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Anwendungsfall Grundsteuer Erschließungsgebuhren oder Beitraege werden fällig und Zwangsverwalter muss prüfen ob und in welchem Rang zu zahlen ist. Normen § 10 ZVG Rangklassen § 12 GrStG Grundsteuerschuldner § 155 ZVG Ausgaben. Prüfraster Grundsteuer Abgaben Rang Fälligkeiten Zahlung Nachweis Belegpflicht. Output Lasten-Übersicht mit Rangfolge Zahlungsplan und Nachweis für Gerichtsbericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Anwendungsfall Grundsteuer Erschließungsgebuhren oder Beitraege werden fällig und Zwangsverwalter muss prüfen ob und in welchem Rang zu zahlen ist. Normen § 10 ZVG Rangklassen § 12 GrStG Grundsteuerschuldner § 155 ZVG Ausgaben. Prüfraster Grundsteuer Abgaben Rang Fälligkeiten Zahlung Nachweis Belegpflicht. Output Lasten-Übersicht mit Rangfolge Zahlungsplan und Nachweis für Gerichtsbericht. Abgrenzung zu zvg-konten-kassenführung und zvg-rechnungslegung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

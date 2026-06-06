@@ -7,7 +7,7 @@ description: "Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und
 
 ## Arbeitsbereich
 
-Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

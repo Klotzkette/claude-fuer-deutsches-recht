@@ -7,7 +7,7 @@ description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die pas
 
 ## Arbeitsbereich
 
-Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmod
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld leitet nach erster Sichtung in den passenden kartellrechtlichen Fachmodul: Marktabgrenzung sachlich/räumlich, Marktbeherrschung, Missbrauchsprüfung, Fusionskontrolle, vertikale Beschränkungen.
+Dieser Prüfungslinie leitet nach erster Sichtung in den passenden kartellrechtlichen Fachmodul: Marktabgrenzung sachlich/räumlich, Marktbeherrschung, Missbrauchsprüfung, Fusionskontrolle, vertikale Beschränkungen.
 
 ## Routing nach Kartell-Fragestellung
 - **Sachliche Marktabgrenzung:** Bedarfsmarktkonzept (Sicht der Marktgegenseite), SSNIP-Test, Substitutionsanalyse.

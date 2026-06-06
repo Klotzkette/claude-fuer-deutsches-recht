@@ -7,7 +7,7 @@ description: "Vergleicht Vertragstext und tatsächliche Durchführung als Kern d
 
 ## Arbeitsbereich
 
-Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

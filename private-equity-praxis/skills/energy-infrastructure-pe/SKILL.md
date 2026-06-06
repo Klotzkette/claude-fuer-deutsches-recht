@@ -7,7 +7,7 @@ description: "Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Was
 
 ## Arbeitsbereich
 
-Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

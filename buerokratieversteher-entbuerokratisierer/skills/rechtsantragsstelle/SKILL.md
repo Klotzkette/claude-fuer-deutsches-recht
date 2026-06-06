@@ -7,7 +7,7 @@ description: "Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leis
 
 ## Arbeitsbereich
 
-Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antr
 
 ## Arbeitsbereich
 
-Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

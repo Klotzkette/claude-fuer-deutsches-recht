@@ -7,7 +7,7 @@ description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallver
 
 ## Arbeitsbereich
 
-Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

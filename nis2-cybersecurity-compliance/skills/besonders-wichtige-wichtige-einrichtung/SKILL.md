@@ -7,7 +7,7 @@ description: "Unterscheidet besonders wichtige und wichtige Einrichtungen und le
 
 ## Arbeitsbereich
 
-Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

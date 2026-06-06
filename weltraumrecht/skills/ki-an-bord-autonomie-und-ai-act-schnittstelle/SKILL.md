@@ -7,7 +7,7 @@ description: "Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Auto
 
 ## Arbeitsbereich
 
-Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

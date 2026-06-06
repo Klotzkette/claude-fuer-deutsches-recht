@@ -7,7 +7,7 @@ description: "Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversi
 
 ## Arbeitsbereich
 
-Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

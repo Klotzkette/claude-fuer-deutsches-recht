@@ -7,7 +7,7 @@ description: "Prüft internationale Tochtergesellschaften und mehrsprachige Kan�
 
 ## Arbeitsbereich
 
-Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Stu
 
 ## Arbeitsbereich
 
-Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

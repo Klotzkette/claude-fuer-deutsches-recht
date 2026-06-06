@@ -7,7 +7,7 @@ description: "Prüft Steuerhinweise und Grenzen interner Aufklärung im Hinweisg
 
 ## Arbeitsbereich
 
-Prüft Steuerhinweise und Grenzen interner Aufklärung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Steuerhinweise und Grenzen interner Aufklärung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

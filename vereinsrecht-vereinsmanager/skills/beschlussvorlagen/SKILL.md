@@ -7,7 +7,7 @@ description: "Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vo
 
 ## Arbeitsbereich
 
-Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

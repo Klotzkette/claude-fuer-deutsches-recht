@@ -7,7 +7,7 @@ description: "Prüft USB-Sticks, externe Platten und Wechseldatenträger im Nis2
 
 ## Arbeitsbereich
 
-Prüft USB-Sticks, externe Platten und Wechseldatenträger. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft USB-Sticks, externe Platten und Wechseldatenträger. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

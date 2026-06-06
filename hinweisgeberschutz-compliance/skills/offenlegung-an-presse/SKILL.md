@@ -7,7 +7,7 @@ description: "Prüft Offenlegung an Öffentlichkeit oder Presse im Hinweisgebers
 
 ## Arbeitsbereich
 
-Prüft Offenlegung an Öffentlichkeit oder Presse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Offenlegung an Öffentlichkeit oder Presse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

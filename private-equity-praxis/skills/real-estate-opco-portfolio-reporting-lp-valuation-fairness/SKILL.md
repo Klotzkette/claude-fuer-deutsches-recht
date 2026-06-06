@@ -7,7 +7,7 @@ description: "Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struk
 
 ## Arbeitsbereich
 
-Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Immobilien, Mietverträge, Sale-and-Leaseback, PropCo-Struktur, GrESt und Betriebsimmobilien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

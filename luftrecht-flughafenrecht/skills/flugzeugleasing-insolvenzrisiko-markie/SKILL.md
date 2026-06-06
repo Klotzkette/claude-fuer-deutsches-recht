@@ -7,7 +7,7 @@ description: "Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft Ins
 
 ## Arbeitsbereich
 
-Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien fuer Leasinggeber. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien fuer Leasinggeber. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

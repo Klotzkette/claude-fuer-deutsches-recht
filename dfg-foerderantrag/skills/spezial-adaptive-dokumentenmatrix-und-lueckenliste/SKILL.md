@@ -7,7 +7,7 @@ description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im Plug
 
 ## Arbeitsbereich
 
-Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

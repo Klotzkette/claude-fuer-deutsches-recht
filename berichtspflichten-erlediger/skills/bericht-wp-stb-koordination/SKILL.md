@@ -7,7 +7,7 @@ description: "Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und 
 
 ## Arbeitsbereich
 
-Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

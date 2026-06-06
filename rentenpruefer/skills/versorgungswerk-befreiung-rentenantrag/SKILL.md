@@ -7,7 +7,7 @@ description: "Befreiung von der gesetzlichen Rentenversicherungspflicht zugunste
 
 ## Arbeitsbereich
 
-Befreiung von der gesetzlichen Rentenversicherungspflicht zugunsten eines berufsständischen Versorgungswerks nach § 6 SGB VI. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Befreiung von der gesetzlichen Rentenversicherungspflicht zugunsten eines berufsständischen Versorgungswerks nach § 6 SGB VI. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

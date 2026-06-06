@@ -7,7 +7,7 @@ description: "Hotelmängel und Bewertung: führt Laien durch Mängel im Hotel, R
 
 ## Arbeitsbereich
 
-Hotelmängel und Bewertung: führt Laien durch Mängel im Hotel, Reklamation vor Ort, Minderung und spätere Online-Bewertung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hotelmängel und Bewertung: führt Laien durch Mängel im Hotel, Reklamation vor Ort, Minderung und spätere Online-Bewertung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

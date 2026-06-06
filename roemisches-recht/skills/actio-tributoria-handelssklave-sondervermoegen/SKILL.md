@@ -7,7 +7,7 @@ description: "Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten a
 
 ## Arbeitsbereich
 
-Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

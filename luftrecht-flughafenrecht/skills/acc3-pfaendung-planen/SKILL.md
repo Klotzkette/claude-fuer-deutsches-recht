@@ -7,7 +7,7 @@ description: "Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prue
 
 ## Arbeitsbereich
 
-Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prueft ZPO §§ 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan fuer ACC3-Frachtflotte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prueft ZPO §§ 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan fuer ACC3-Frachtflotte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

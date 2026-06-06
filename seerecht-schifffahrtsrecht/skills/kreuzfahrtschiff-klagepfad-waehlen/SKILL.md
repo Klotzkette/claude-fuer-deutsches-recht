@@ -7,7 +7,7 @@ description: "Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Stre
 
 ## Arbeitsbereich
 
-Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Kreuzfahrtschiff oder grosses Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Kreuzfahrtschiff oder grosses Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

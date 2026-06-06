@@ -7,7 +7,7 @@ description: "Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, be
 
 ## Arbeitsbereich
 
-Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civi
 
 ## Arbeitsbereich
 
-Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Klauselgestaltungs-Leitfaden und Vertragsanpassungsmuster. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Klauselgestaltungs-Leitfaden und Vertragsanpassungsmuster. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

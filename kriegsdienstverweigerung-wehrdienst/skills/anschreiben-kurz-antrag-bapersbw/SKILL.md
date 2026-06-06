@@ -7,7 +7,7 @@ description: "Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenlis
 
 ## Arbeitsbereich
 
-Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Press and Litigation Comms: steuert Litigation-PR, Ad-hoc-Fragen, 
 
 ## Arbeitsbereich
 
-Press and Litigation Comms: steuert Litigation-PR, Ad-hoc-Fragen, Social Media und Mandatsstrategie abstimmen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Press and Litigation Comms: steuert Litigation-PR, Ad-hoc-Fragen, Social Media und Mandatsstrategie abstimmen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

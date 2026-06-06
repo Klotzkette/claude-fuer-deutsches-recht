@@ -7,7 +7,7 @@ description: "Prueft SARE designation, timelines, stay relief pressure, plan fil
 
 ## Arbeitsbereich
 
-Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

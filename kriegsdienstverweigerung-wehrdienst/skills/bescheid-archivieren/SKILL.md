@@ -7,7 +7,7 @@ description: "Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide 
 
 ## Arbeitsbereich
 
-Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

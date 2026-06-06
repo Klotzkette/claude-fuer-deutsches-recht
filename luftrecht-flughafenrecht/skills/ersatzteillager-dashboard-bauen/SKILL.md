@@ -7,7 +7,7 @@ description: "MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersa
 
 ## Arbeitsbereich
 
-MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

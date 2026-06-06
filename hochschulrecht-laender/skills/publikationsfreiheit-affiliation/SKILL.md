@@ -7,7 +7,7 @@ description: "Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und W
 
 ## Arbeitsbereich
 
-Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

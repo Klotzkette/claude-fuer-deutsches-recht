@@ -7,7 +7,7 @@ description: "Hilft bei Zulassung, Stilllegung, Halterdaten, Versicherung, Steue
 
 ## Arbeitsbereich
 
-Hilft bei Zulassung, Stilllegung, Halterdaten, Versicherung, Steuer, Gebühren und Behördenkommunikation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Zulassung, Stilllegung, Halterdaten, Versicherung, Steuer, Gebühren und Behördenkommunikation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

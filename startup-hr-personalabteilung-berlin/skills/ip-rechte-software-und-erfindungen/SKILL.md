@@ -7,7 +7,7 @@ description: "Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Op
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

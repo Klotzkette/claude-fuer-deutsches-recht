@@ -7,7 +7,7 @@ description: "Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht 
 
 ## Arbeitsbereich
 
-Prüft Versetzung, Nichtversetzung und Nachprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Versetzung, Nichtversetzung und Nachprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

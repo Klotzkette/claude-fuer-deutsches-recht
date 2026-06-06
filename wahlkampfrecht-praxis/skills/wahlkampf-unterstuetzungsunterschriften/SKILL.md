@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften 
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

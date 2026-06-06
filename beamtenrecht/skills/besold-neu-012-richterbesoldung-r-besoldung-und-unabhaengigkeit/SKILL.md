@@ -7,7 +7,7 @@ description: "Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im 
 
 ## Arbeitsbereich
 
-Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

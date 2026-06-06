@@ -7,7 +7,7 @@ description: "Konkurrentenschutz bei Richtern, Professoren und Führungsämtern:
 
 ## Arbeitsbereich
 
-Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

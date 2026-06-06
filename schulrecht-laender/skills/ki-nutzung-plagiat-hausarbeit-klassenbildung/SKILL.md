@@ -7,7 +7,7 @@ description: "Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen im Sc
 
 ## Arbeitsbereich
 
-Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

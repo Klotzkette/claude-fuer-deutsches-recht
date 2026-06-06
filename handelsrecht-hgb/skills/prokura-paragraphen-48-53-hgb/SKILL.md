@@ -7,7 +7,7 @@ description: "Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura un
 
 ## Arbeitsbereich
 
-Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

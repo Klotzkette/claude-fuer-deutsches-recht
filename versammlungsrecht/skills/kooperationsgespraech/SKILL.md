@@ -7,7 +7,7 @@ description: "Bereitet Kooperationsgespräche mit Versammlungsbehörde und Poliz
 
 ## Arbeitsbereich
 
-Bereitet Kooperationsgespräche mit Versammlungsbehörde und Polizei vor und protokolliert sie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Kooperationsgespräche mit Versammlungsbehörde und Polizei vor und protokolliert sie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

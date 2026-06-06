@@ -7,7 +7,7 @@ description: "Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführer
 
 ## Arbeitsbereich
 
-Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

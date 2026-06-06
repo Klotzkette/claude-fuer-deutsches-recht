@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Community Manager fuer Kommentare, Beleidig
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Community Manager fuer Kommentare, Beleidigungen und Fragen briefen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Community Manager fuer Kommentare, Beleidigungen und Fragen briefen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

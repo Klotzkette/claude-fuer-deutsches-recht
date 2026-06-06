@@ -7,7 +7,7 @@ description: "Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und
 
 ## Arbeitsbereich
 
-Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

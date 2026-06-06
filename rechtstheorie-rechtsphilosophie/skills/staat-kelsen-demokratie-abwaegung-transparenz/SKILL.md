@@ -7,10 +7,10 @@ description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und
 
 ## Arbeitsbereich
 
-**Staat Kelsen Demokratie Abwaegung Transparenz** ordnet den Fall über die tragenden Prüffelder: Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Staat Kelsen Demokratie Abwaegung Transparenz** führt durch die falltragenden Prüfungslinien: Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `staat-als-ordnungsmacht-anti-autoritaerer-check` | Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz. |
 | `kelsen-demokratie-verfahren-minderheitenschutz` | Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation. |
@@ -23,7 +23,7 @@ description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `staat-als-ordnungsmacht-anti-autoritaerer-check`
 

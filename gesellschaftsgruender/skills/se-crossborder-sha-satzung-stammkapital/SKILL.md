@@ -7,7 +7,7 @@ description: "Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf 
 
 ## Arbeitsbereich
 
-Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

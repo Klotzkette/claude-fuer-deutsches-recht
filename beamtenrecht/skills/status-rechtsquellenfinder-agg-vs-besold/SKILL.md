@@ -7,7 +7,7 @@ description: "Statusklärung und Rechtsquellenfinder für Bund, Länder, Kommune
 
 ## Arbeitsbereich
 
-Statusklärung und Rechtsquellenfinder für Bund, Länder, Kommunen, Richterdienst, Professoren, Anwärter, Wahlbeamte und Tarifbeschäftigte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Statusklärung und Rechtsquellenfinder für Bund, Länder, Kommunen, Richterdienst, Professoren, Anwärter, Wahlbeamte und Tarifbeschäftigte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

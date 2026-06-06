@@ -7,7 +7,7 @@ description: "Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced
 
 ## Arbeitsbereich
 
-Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht fuer Krypto-Assets und Marktmanipulationsverbote. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht fuer Krypto-Assets und Marktmanipulationsverbote. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorgan
 
 ## Arbeitsbereich
 
-PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

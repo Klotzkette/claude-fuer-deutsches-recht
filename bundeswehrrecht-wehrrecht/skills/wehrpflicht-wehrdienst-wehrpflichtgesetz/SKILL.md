@@ -7,7 +7,7 @@ description: "Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing
 
 ## Arbeitsbereich
 
-Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing zu spezifischen Verfahren. Norm-/Quellenanker: WPflG, SG, UhSiG, ArbPlSchG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

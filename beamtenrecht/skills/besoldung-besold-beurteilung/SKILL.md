@@ -7,7 +7,7 @@ description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung 
 
 ## Arbeitsbereich
 
-Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

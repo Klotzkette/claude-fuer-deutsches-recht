@@ -7,7 +7,7 @@ description: "Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastr
 
 ## Arbeitsbereich
 
-Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

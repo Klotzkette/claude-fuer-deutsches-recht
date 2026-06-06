@@ -7,7 +7,7 @@ description: "Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schu
 
 ## Arbeitsbereich
 
-Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schulische Öffentlichkeitsarbeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schulische Öffentlichkeitsarbeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

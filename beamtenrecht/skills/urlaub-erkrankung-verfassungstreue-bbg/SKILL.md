@@ -7,7 +7,7 @@ description: "Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkran
 
 ## Arbeitsbereich
 
-Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

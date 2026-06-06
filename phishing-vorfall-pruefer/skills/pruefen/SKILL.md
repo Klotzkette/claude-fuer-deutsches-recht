@@ -7,7 +7,7 @@ description: "Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf
 
 ## Arbeitsbereich
 
-Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

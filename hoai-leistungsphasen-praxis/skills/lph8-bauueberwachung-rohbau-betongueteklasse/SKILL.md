@@ -7,7 +7,7 @@ description: "Bauueberwachung HOAI LPH 8 fuer den Rohbau mit Schwerpunkt Betongu
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 fuer den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

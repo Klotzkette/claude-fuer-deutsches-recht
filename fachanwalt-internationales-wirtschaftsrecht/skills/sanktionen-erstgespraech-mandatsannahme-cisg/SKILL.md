@@ -1,20 +1,20 @@
 ---
 name: sanktionen-erstgespraech-mandatsannahme-cisg
-description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wirtschaftsrecht: prüft konkret Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüffeld für fachanwalt internationales wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wirtschaftsrecht: prüft konkret Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Sanktionen Erstgespraech Mandatsannahme CISG
 
 ## Arbeitsbereich
 
-**Sanktionen Erstgespraech Mandatsannahme CISG** ordnet den Fall über die tragenden Prüffelder: Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüffeld für fachanwalt internationales wirtschaftsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Sanktionen Erstgespraech Mandatsannahme CISG** führt durch die falltragenden Prüfungslinien: Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage` | Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Prüffeld für fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Prüfungslinie für fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wi
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage`
 
@@ -285,7 +285,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=1
 
 ## 3. `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung`
 
-**Fokus:** Prüffeld für fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Mandantenfragen beim Kaltstart
 

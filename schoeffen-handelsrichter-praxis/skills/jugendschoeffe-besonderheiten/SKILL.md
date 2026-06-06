@@ -7,7 +7,7 @@ description: "Jugendschöffe Besonderheiten: erklärt Erziehungsgedanke, Jugendg
 
 ## Arbeitsbereich
 
-Jugendschöffe Besonderheiten: erklärt Erziehungsgedanke, Jugendgerichtshilfe und Schutz junger Beteiligter für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jugendschöffe Besonderheiten: erklärt Erziehungsgedanke, Jugendgerichtshilfe und Schutz junger Beteiligter für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

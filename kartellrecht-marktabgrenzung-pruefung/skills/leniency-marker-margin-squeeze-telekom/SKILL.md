@@ -7,7 +7,7 @@ description: "Leniency und Marker global: Fachmodul für großes Kartellrecht mi
 
 ## Arbeitsbereich
 
-Leniency und Marker global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leniency und Marker global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

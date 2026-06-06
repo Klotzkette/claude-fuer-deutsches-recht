@@ -7,7 +7,7 @@ description: "Prueft Games als Bündel aus Code, Audio, Grafik, Story, Character
 
 ## Arbeitsbereich
 
-Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

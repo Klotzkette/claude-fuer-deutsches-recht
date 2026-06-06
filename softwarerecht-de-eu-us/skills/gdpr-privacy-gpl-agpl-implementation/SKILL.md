@@ -7,7 +7,7 @@ description: "Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Lo
 
 ## Arbeitsbereich
 
-Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

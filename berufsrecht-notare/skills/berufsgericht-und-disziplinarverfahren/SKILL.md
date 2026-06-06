@@ -7,7 +7,7 @@ description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Sk
 
 ## Arbeitsbereich
 
-Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Notare; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Notare; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, S
 
 ## Arbeitsbereich
 
-Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, Straftatbestände, Compliance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, Straftatbestände, Compliance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

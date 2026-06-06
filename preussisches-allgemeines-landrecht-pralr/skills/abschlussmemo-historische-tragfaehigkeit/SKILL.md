@@ -7,7 +7,7 @@ description: "PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten
 
 ## Arbeitsbereich
 
-PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, 
 
 ## Arbeitsbereich
 
-Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, Value Story, Kulanz, Nachlass und künftiger Prozess zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, Value Story, Kulanz, Nachlass und künftiger Prozess zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

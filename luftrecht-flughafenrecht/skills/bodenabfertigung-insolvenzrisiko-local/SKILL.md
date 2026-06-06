@@ -7,7 +7,7 @@ description: "Bodenabfertigungsunternehmen zeigt Insolvenzzeichen. Prueft InsO �
 
 ## Arbeitsbereich
 
-Bodenabfertigungsunternehmen zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Auswirkungen auf Flughafenvertrag BADV-Zulassung und Airline-Vertretung und liefert Risikoampel fuer Flughafenbetreiber Glaeubiger und Airlines. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bodenabfertigungsunternehmen zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Auswirkungen auf Flughafenvertrag BADV-Zulassung und Airline-Vertretung und liefert Risikoampel fuer Flughafenbetreiber Glaeubiger und Airlines. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

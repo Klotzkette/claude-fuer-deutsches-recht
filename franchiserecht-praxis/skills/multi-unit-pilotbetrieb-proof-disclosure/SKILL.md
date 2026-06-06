@@ -7,7 +7,7 @@ description: "Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gesta
 
 ## Arbeitsbereich
 
-Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

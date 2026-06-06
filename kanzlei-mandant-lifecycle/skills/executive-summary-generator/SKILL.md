@@ -7,7 +7,7 @@ description: "Executive Summary Generator: steuert eine Seite für GC/Vorstand: 
 
 ## Arbeitsbereich
 
-Executive Summary Generator: steuert eine Seite für GC/Vorstand: Lage, Risiko, Entscheidung, Kosten, Timing zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Executive Summary Generator: steuert eine Seite für GC/Vorstand: Lage, Risiko, Entscheidung, Kosten, Timing zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

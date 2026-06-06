@@ -7,7 +7,7 @@ description: "Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung u
 
 ## Arbeitsbereich
 
-Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

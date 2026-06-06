@@ -7,7 +7,7 @@ description: "Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law
 
 ## Arbeitsbereich
 
-Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklärung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklärung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung b
 
 ## Arbeitsbereich
 
-Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

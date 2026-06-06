@@ -7,7 +7,7 @@ description: "Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus 
 
 ## Arbeitsbereich
 
-Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Procurement Legal Interface: steuert Einkauf will Kanzleikosten dr
 
 ## Arbeitsbereich
 
-Procurement Legal Interface: steuert Einkauf will Kanzleikosten drücken; Legal will Qualität, Privilege und Geschwindigkeit sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Procurement Legal Interface: steuert Einkauf will Kanzleikosten drücken; Legal will Qualität, Privilege und Geschwindigkeit sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

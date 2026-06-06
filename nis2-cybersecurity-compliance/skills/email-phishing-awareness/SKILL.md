@@ -7,7 +7,7 @@ description: "Prüft Phishing-Abwehr und E-Mail-Sicherheit im Nis2 Cybersecurity
 
 ## Arbeitsbereich
 
-Prüft Phishing-Abwehr und E-Mail-Sicherheit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Phishing-Abwehr und E-Mail-Sicherheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

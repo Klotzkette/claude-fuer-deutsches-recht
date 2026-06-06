@@ -7,7 +7,7 @@ description: "Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verläng
 
 ## Arbeitsbereich
 
-Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierend
 
 ## Arbeitsbereich
 
-Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

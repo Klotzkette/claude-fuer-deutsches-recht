@@ -7,7 +7,7 @@ description: "Prueft Copyright-Preemption, contract claims, unfair competition, 
 
 ## Arbeitsbereich
 
-Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizini
 
 ## Arbeitsbereich
 
-Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Vertragssprache und anwendbares Recht bei China-Verträgen: Chines
 
 ## Arbeitsbereich
 
-Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

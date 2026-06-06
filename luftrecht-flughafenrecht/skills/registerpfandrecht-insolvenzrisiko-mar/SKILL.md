@@ -7,7 +7,7 @@ description: "Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu siche
 
 ## Arbeitsbereich
 
-Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu sichern. Prueft InsO §§ 21 50 89 Absonderungsrecht Vollstreckungssperre Cape-Town-Art. 30 Insolvenzschutz und liefert Risikoampel fuer Pfandglaeubiger und Reaktionsplan. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu sichern. Prueft InsO §§ 21 50 89 Absonderungsrecht Vollstreckungssperre Cape-Town-Art. 30 Insolvenzschutz und liefert Risikoampel fuer Pfandglaeubiger und Reaktionsplan. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

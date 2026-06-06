@@ -7,7 +7,7 @@ description: "Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertr
 
 ## Arbeitsbereich
 
-Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

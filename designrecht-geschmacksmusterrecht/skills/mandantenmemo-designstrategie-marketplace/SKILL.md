@@ -7,7 +7,7 @@ description: "Mandantenmemo zur Designstrategie erstellen: kurze Executive Summa
 
 ## Arbeitsbereich
 
-Mandantenmemo zur Designstrategie erstellen: kurze Executive Summary, Schutzoptionen, Kosten, Zeitplan, Risiken, nächste Schritte und Entscheidungsfragen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenmemo zur Designstrategie erstellen: kurze Executive Summary, Schutzoptionen, Kosten, Zeitplan, Risiken, nächste Schritte und Entscheidungsfragen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

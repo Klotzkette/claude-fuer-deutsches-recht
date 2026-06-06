@@ -7,7 +7,7 @@ description: "Prüft Kündigung oder Abmahnung nach Hinweis im Hinweisgeberschut
 
 ## Arbeitsbereich
 
-Prüft Kündigung oder Abmahnung nach Hinweis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kündigung oder Abmahnung nach Hinweis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen
 
 ## Arbeitsbereich
 
-Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

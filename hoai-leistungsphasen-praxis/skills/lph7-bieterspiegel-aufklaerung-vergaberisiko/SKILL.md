@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung, ungewöhnlich niedrige Preise, Nebenangebote, Vergabevorschlag und Haftungsrisiko der Mitwirkung bei der Vergabe prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 7: Bieterspiegel, Angebotsprüfung, Aufklärung, ungewöhnlich niedrige Preise, Nebenangebote, Vergabevorschlag und Haftungsrisiko der Mitwirkung bei der Vergabe prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

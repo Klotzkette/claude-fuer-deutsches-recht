@@ -7,7 +7,7 @@ description: "Prüft UK-Softwareverträge aus deutscher Sicht: governing law, IP
 
 ## Arbeitsbereich
 
-Prüft UK-Softwareverträge aus deutscher Sicht: governing law, IP assignment, liability, data protection und warranties. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft UK-Softwareverträge aus deutscher Sicht: governing law, IP assignment, liability, data protection und warranties. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

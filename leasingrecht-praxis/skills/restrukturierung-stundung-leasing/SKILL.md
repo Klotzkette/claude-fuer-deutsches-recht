@@ -7,7 +7,7 @@ description: "Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinb
 
 ## Arbeitsbereich
 
-Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

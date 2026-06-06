@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Tre
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Trennung, Belegverknüpfung und Zahlungsroutine; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Trennung, Belegverknüpfung und Zahlungsroutine; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlok
 
 ## Arbeitsbereich
 
-Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

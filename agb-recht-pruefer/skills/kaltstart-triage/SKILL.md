@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstiegs- und Prüffeld für Allgemein: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüfungslinie für Allgemein: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # AGB-Recht Kommandocenter

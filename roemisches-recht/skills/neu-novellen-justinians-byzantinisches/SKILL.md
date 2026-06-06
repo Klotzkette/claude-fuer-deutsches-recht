@@ -7,7 +7,7 @@ description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrech
 
 ## Arbeitsbereich
 
-Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

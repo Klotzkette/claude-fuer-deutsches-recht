@@ -7,7 +7,7 @@ description: "Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorw
 
 ## Arbeitsbereich
 
-Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

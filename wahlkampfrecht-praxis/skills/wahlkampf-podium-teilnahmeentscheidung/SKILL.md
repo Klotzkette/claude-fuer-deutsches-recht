@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mit
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

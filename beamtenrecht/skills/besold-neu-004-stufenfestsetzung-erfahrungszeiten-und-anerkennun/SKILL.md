@@ -7,7 +7,7 @@ description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung i
 
 ## Arbeitsbereich
 
-Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

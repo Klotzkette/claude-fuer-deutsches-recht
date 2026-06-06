@@ -7,7 +7,7 @@ description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Steuerberater;
 
 ## Arbeitsbereich
 
-Rechnungseinzug: vertiefter Berufsrechts-Skill für Steuerberater; prüft Rechnungseinzug im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechnungseinzug: vertiefter Berufsrechts-Skill für Steuerberater; prüft Rechnungseinzug im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

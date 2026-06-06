@@ -7,7 +7,7 @@ description: "Spezialfall Restrukturierungsbeauftragter §§ 73 ff. StaRUG: Best
 
 ## Arbeitsbereich
 
-Spezialfall Restrukturierungsbeauftragter §§ 73 ff. StaRUG: Bestellung, Aufgaben, Haftung, Kosten. Pruefraster fuer Geschaeftsleitung und Glaeubigerausschuss. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Restrukturierungsbeauftragter §§ 73 ff. StaRUG: Bestellung, Aufgaben, Haftung, Kosten. Pruefraster fuer Geschaeftsleitung und Glaeubigerausschuss. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

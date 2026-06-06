@@ -7,7 +7,7 @@ description: "HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI
 
 ## Arbeitsbereich
 
-HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

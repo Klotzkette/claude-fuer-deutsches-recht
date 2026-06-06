@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehri
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger pruefen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger pruefen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

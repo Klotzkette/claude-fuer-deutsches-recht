@@ -7,7 +7,7 @@ description: "Sanierung bestehender Risikomodelle durch echte Änderung von Vert
 
 ## Arbeitsbereich
 
-Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

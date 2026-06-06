@@ -7,7 +7,7 @@ description: "Prueft asbestos-specific trust/channeling structure, voting, futur
 
 ## Arbeitsbereich
 
-Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

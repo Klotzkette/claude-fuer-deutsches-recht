@@ -7,7 +7,7 @@ description: "Prueft MLC-Prozesse, blanket license, unmatched royalties, claimin
 
 ## Arbeitsbereich
 
-Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,10 +7,10 @@ description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-**Cannabis Medizinisch Combined Atmp Companion** ordnet den Fall über die tragenden Prüffelder: Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Cannabis Medizinisch Combined Atmp Companion** führt durch die falltragenden Prüfungslinien: Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `cannabis-medizinisch-verordnung` | Medizinisches Cannabis Verordnung: moderner Medizinrechts-Skill für Cannabis als Medizin, Verordnung, Kostenübernahme, Fahrtüchtigkeit und Berufspflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `combined-atmp-device-mdr` | Kombiniertes ATMP mit Medizinprodukt: moderner Medizinrechts-Skill für ATMP mit Scaffold, Implantat, Katheter, Software oder Applikationsgerät und doppelter Regulierungslogik. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
@@ -24,7 +24,7 @@ description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prü
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `cannabis-medizinisch-verordnung`
 

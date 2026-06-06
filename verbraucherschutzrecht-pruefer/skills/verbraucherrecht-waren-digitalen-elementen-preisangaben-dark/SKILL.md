@@ -7,7 +7,7 @@ description: "Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. War
 
 ## Arbeitsbereich
 
-Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

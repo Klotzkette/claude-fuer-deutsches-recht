@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Infostaende auf oeffentlichen Flaechen plan
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Infostaende auf oeffentlichen Flaechen planen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Infostaende auf oeffentlichen Flaechen planen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

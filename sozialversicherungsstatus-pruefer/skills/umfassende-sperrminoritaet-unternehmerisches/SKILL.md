@@ -7,7 +7,7 @@ description: "Vertieft die Anforderungen an eine umfassende statusrelevante Sper
 
 ## Arbeitsbereich
 
-Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

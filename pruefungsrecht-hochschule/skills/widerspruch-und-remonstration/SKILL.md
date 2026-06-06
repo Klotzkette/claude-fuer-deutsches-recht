@@ -7,7 +7,7 @@ description: "Baut Widerspruch, Remonstration oder Gegenvorstellung im Pruefungs
 
 ## Arbeitsbereich
 
-Baut Widerspruch, Remonstration oder Gegenvorstellung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Widerspruch, Remonstration oder Gegenvorstellung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

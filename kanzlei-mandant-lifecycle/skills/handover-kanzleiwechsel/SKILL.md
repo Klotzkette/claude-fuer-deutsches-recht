@@ -7,7 +7,7 @@ description: "Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, 
 
 ## Arbeitsbereich
 
-Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

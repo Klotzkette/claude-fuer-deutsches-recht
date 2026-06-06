@@ -7,7 +7,7 @@ description: "Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Impor
 
 ## Arbeitsbereich
 
-Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

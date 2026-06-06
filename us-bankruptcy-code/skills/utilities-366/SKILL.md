@@ -7,7 +7,7 @@ description: "Prueft utility service, adequate assurance, deposits, objections a
 
 ## Arbeitsbereich
 
-Prueft utility service, adequate assurance, deposits, objections and first-day relief. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft utility service, adequate assurance, deposits, objections and first-day relief. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

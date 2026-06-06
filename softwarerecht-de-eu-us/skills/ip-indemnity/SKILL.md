@@ -7,7 +7,7 @@ description: "Prüft Freistellungen für IP Claims, Open Source, Patente, Third-
 
 ## Arbeitsbereich
 
-Prüft Freistellungen für IP Claims, Open Source, Patente, Third-Party-Code, Remedies und Kontrolle der Verteidigung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Freistellungen für IP Claims, Open Source, Patente, Third-Party-Code, Remedies und Kontrolle der Verteidigung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

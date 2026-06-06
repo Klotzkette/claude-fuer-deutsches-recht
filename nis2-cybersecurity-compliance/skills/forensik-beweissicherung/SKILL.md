@@ -7,7 +7,7 @@ description: "Sichert digitale Beweise ohne Beweiswertverlust im Nis2 Cybersecur
 
 ## Arbeitsbereich
 
-Sichert digitale Beweise ohne Beweiswertverlust. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert digitale Beweise ohne Beweiswertverlust. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

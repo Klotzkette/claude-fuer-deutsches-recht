@@ -7,7 +7,7 @@ description: "Prueft Anspruchsaufbau, standing, remedies, injunction, damages, p
 
 ## Arbeitsbereich
 
-Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

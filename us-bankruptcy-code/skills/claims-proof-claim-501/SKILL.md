@@ -7,7 +7,7 @@ description: "Prueft claim filing, bar date, secured/unsecured/priority status, 
 
 ## Arbeitsbereich
 
-Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

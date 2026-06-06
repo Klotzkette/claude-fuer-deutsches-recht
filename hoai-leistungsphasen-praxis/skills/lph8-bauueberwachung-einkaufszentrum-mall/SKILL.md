@@ -7,7 +7,7 @@ description: "Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls —
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme fuer verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM fuer Betreibergesellschaft. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme fuer verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM fuer Betreibergesellschaft. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

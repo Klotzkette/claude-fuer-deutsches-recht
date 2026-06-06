@@ -7,7 +7,7 @@ description: "Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochs
 
 ## Arbeitsbereich
 
-Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

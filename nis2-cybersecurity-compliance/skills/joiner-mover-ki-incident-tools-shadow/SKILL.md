@@ -7,7 +7,7 @@ description: "Baut Joiner-Mover-Leaver-Kontrollen im Nis2 Cybersecurity Complian
 
 ## Arbeitsbereich
 
-Baut Joiner-Mover-Leaver-Kontrollen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Joiner-Mover-Leaver-Kontrollen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

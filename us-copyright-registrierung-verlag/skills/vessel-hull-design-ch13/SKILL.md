@@ -7,7 +7,7 @@ description: "Prueft Schutz von Original Vessel Hull Designs, registration, term
 
 ## Arbeitsbereich
 
-Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

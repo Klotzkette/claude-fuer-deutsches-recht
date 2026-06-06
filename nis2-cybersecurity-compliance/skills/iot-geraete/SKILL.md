@@ -7,7 +7,7 @@ description: "Prüft IoT-Geräte im Unternehmen und Produktkontext im Nis2 Cyber
 
 ## Arbeitsbereich
 
-Prüft IoT-Geräte im Unternehmen und Produktkontext. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft IoT-Geräte im Unternehmen und Produktkontext. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

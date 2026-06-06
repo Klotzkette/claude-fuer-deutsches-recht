@@ -7,7 +7,7 @@ description: "Prüft geeignete Zeugen für persönliche Entwicklung und Lebensf�
 
 ## Arbeitsbereich
 
-Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft classification of claims and interests, impairment, gerryma
 
 ## Arbeitsbereich
 
-Prueft classification of claims and interests, impairment, gerrymandering risk and voting strategy. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft classification of claims and interests, impairment, gerrymandering risk and voting strategy. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

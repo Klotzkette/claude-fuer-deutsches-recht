@@ -7,7 +7,7 @@ description: "Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Aud
 
 ## Arbeitsbereich
 
-Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

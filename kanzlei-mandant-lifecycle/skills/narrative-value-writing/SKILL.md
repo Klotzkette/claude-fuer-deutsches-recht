@@ -7,7 +7,7 @@ description: "Narrative Value Writing: steuert Tätigkeitsbeschreibungen so schr
 
 ## Arbeitsbereich
 
-Narrative Value Writing: steuert Tätigkeitsbeschreibungen so schreiben, dass der Mandant Wert und Zweck erkennt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Narrative Value Writing: steuert Tätigkeitsbeschreibungen so schreiben, dass der Mandant Wert und Zweck erkennt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

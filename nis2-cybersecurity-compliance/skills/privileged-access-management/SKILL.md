@@ -7,7 +7,7 @@ description: "Prüft privilegierte Zugänge, Admin-Sessions und Break-glass im N
 
 ## Arbeitsbereich
 
-Prüft privilegierte Zugänge, Admin-Sessions und Break-glass. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft privilegierte Zugänge, Admin-Sessions und Break-glass. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

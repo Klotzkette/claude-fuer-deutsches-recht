@@ -7,7 +7,7 @@ description: "Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, B
 
 ## Arbeitsbereich
 
-Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

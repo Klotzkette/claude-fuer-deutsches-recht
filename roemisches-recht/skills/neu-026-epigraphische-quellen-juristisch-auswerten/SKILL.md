@@ -7,7 +7,7 @@ description: "Römisches Recht: Epigraphische Quellen juristisch auswerten im R�
 
 ## Arbeitsbereich
 
-Römisches Recht: Epigraphische Quellen juristisch auswerten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Epigraphische Quellen juristisch auswerten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

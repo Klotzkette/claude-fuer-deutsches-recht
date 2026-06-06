@@ -7,7 +7,7 @@ description: "Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder 
 
 ## Arbeitsbereich
 
-Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu prüfen. Prüft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SSNIP-Test § 18 GWB Art. 102 AEUV. Prüfraster oekonometrische Methodik Datenbasis Endogenitaet Schwellenwerte Cellophane-Fallacy. Output Methodenbewertungs-Memo mit Staerken Schwaechen und prozessualer Angreifbarkeit. Abgrenzung: ssnip-test-anwendung für den SSNIP-Test selbst. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu prüfen. Prüft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SSNIP-Test § 18 GWB Art. 102 AEUV. Prüfraster oekonometrische Methodik Datenbasis Endogenitaet Schwellenwerte Cellophane-Fallacy. Output Methodenbewertungs-Memo mit Staerken Schwaechen und prozessualer Angreifbarkeit. Abgrenzung: ssnip-test-anwendung für den SSNIP-Test selbst. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

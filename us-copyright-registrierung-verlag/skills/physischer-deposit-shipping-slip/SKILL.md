@@ -7,7 +7,7 @@ description: "Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, si
 
 ## Arbeitsbereich
 
-Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

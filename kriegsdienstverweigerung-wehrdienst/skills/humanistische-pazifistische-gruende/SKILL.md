@@ -7,7 +7,7 @@ description: "Formt säkulare Ethik in eine persönliche KDV-Begründung im Krie
 
 ## Arbeitsbereich
 
-Formt säkulare Ethik in eine persönliche KDV-Begründung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formt säkulare Ethik in eine persönliche KDV-Begründung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

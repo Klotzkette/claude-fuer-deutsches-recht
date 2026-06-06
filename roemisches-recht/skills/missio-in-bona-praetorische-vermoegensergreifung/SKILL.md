@@ -7,7 +7,7 @@ description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Ver
 
 ## Arbeitsbereich
 
-Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

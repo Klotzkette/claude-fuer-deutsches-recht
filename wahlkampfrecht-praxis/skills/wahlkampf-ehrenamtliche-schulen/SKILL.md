@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kam
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

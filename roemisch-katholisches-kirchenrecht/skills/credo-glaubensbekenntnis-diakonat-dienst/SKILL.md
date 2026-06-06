@@ -7,7 +7,7 @@ description: "Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht
 
 ## Arbeitsbereich
 
-Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

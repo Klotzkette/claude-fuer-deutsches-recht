@@ -7,7 +7,7 @@ description: "Berichtet Hinweisfälle an Aufsichtsrat oder Beirat im Hinweisgebe
 
 ## Arbeitsbereich
 
-Berichtet Hinweisfälle an Aufsichtsrat oder Beirat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berichtet Hinweisfälle an Aufsichtsrat oder Beirat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

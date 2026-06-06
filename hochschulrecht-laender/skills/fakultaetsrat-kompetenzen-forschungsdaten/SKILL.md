@@ -7,7 +7,7 @@ description: "Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsi
 
 ## Arbeitsbereich
 
-Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Expert Management: steuert Sachverständige, Privatgutachten, Guta
 
 ## Arbeitsbereich
 
-Expert Management: steuert Sachverständige, Privatgutachten, Gutachterbudget, Briefing und Unabhängigkeit steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Expert Management: steuert Sachverständige, Privatgutachten, Gutachterbudget, Briefing und Unabhängigkeit steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

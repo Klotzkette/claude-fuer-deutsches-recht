@@ -7,7 +7,7 @@ description: "Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastba
 
 ## Arbeitsbereich
 
-Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schriftsatz, Vermerk und Mustertext: prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

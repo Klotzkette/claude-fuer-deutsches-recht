@@ -7,7 +7,7 @@ description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zustaendige 
 
 ## Arbeitsbereich
 
-Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zustaendige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte fuer Behoerdenkommunikation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zustaendige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte fuer Behoerdenkommunikation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

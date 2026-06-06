@@ -7,7 +7,7 @@ description: "Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Ausku
 
 ## Arbeitsbereich
 
-Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

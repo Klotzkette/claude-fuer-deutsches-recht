@@ -7,7 +7,7 @@ description: "Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Wer
 
 ## Arbeitsbereich
 
-Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

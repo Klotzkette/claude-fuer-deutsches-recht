@@ -7,7 +7,7 @@ description: "Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaft
 
 ## Arbeitsbereich
 
-Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

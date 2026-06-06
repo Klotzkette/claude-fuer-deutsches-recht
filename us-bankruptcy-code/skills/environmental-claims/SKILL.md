@@ -7,7 +7,7 @@ description: "Prueft environmental obligations, cleanup orders, police-power exc
 
 ## Arbeitsbereich
 
-Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen be
 
 ## Arbeitsbereich
 
-Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

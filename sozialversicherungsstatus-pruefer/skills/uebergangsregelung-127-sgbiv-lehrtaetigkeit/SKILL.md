@@ -7,7 +7,7 @@ description: "Prüft die befristete Übergangsregelung für Lehrtätigkeiten und
 
 ## Arbeitsbereich
 
-Prüft die befristete Übergangsregelung für Lehrtätigkeiten und ihre engen Voraussetzungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft die befristete Übergangsregelung für Lehrtätigkeiten und ihre engen Voraussetzungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

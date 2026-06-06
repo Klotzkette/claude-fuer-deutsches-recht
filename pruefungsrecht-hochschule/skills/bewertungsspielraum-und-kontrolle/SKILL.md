@@ -7,7 +7,7 @@ description: "Prüft Bewertungsspielraum und gerichtliche Kontrolle im Pruefungs
 
 ## Arbeitsbereich
 
-Prüft Bewertungsspielraum und gerichtliche Kontrolle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bewertungsspielraum und gerichtliche Kontrolle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

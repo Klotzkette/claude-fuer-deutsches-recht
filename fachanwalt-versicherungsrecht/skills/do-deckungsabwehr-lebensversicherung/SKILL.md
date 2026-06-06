@@ -1,19 +1,19 @@
 ---
 name: do-deckungsabwehr-lebensversicherung
-description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüffeld für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # DO Deckungsabwehr Lebensversicherung
 
 ## Arbeitsbereich
 
-**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüffelder: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüffeld für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**DO Deckungsabwehr Lebensversicherung** führt durch die falltragenden Prüfungslinien: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-do-deckungsabwehr` | D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen. |
-| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Prüffeld für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Prüfungslinie für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen` | Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage. |
 
 ## Arbeitsweg
@@ -23,7 +23,7 @@ description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versiche
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-do-deckungsabwehr`
 
@@ -282,7 +282,7 @@ BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert be
 
 ## 2. `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`
 
-**Fokus:** Prüffeld für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Lebensversicherung Rückkauf
 

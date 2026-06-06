@@ -7,7 +7,7 @@ description: "Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaf
 
 ## Arbeitsbereich
 
-Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

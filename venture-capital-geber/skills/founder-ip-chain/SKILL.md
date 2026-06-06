@@ -7,7 +7,7 @@ description: "Prüft, ob Software, Patente, Designs, Marken, Domains und Know-ho
 
 ## Arbeitsbereich
 
-Prüft, ob Software, Patente, Designs, Marken, Domains und Know-how wirklich bei der Gesellschaft liegen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Software, Patente, Designs, Marken, Domains und Know-how wirklich bei der Gesellschaft liegen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

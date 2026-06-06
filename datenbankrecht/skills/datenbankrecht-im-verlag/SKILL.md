@@ -7,7 +7,7 @@ description: "Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenb
 
 ## Arbeitsbereich
 
-Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregatoren und Bibliotheken sowie EuGH-relevante Fälle. Erstellt Schutzstrategie und Lizenzmodell für Fach- und Wissenschaftsverlage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregatoren und Bibliotheken sowie EuGH-relevante Fälle. Erstellt Schutzstrategie und Lizenzmodell für Fach- und Wissenschaftsverlage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

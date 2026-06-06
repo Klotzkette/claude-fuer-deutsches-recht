@@ -7,7 +7,7 @@ description: "Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts
 
 ## Arbeitsbereich
 
-Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts, Kunden, strategische Käufer und Konflikte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts, Kunden, strategische Käufer und Konflikte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

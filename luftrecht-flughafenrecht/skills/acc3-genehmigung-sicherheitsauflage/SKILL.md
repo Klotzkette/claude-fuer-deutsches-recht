@@ -7,7 +7,7 @@ description: "ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen
 
 ## Arbeitsbereich
 
-ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen fuer Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen fuer Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

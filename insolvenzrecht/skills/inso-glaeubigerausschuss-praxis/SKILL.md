@@ -7,7 +7,7 @@ description: "Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeuf
 
 ## Arbeitsbereich
 
-Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

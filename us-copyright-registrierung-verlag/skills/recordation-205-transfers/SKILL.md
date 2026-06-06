@@ -7,7 +7,7 @@ description: "Prueft Recordation von Transfers, Priority, constructive notice, b
 
 ## Arbeitsbereich
 
-Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

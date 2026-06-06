@@ -7,7 +7,7 @@ description: "Übersetzt Cyberrisiken in Budget und Roadmap im Nis2 Cybersecurit
 
 ## Arbeitsbereich
 
-Übersetzt Cyberrisiken in Budget und Roadmap. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt Cyberrisiken in Budget und Roadmap. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

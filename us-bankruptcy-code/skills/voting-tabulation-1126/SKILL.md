@@ -7,7 +7,7 @@ description: "Prueft acceptance, impaired classes, ballots, designation, numeros
 
 ## Arbeitsbereich
 
-Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

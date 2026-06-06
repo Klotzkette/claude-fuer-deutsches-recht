@@ -7,7 +7,7 @@ description: "Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschut
 
 ## Arbeitsbereich
 
-Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschutz und FFH im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschutz und FFH im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

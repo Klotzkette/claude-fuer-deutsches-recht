@@ -7,7 +7,7 @@ description: "Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datensch
 
 ## Arbeitsbereich
 
-Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

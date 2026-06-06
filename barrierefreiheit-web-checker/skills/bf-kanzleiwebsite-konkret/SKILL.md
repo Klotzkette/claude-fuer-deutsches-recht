@@ -7,7 +7,7 @@ description: "Kanzleiwebsite konkret pruefen: Pflicht ab BFSG 28.06.2025 fuer ak
 
 ## Arbeitsbereich
 
-Kanzleiwebsite konkret pruefen: Pflicht ab BFSG 28.06.2025 fuer aktive E-Commerce-Aktivitaeten, fuer reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Designer und Entwickler. Konkrete Fix-Liste fuer typische Kanzleiseite. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzleiwebsite konkret pruefen: Pflicht ab BFSG 28.06.2025 fuer aktive E-Commerce-Aktivitaeten, fuer reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Designer und Entwickler. Konkrete Fix-Liste fuer typische Kanzleiseite. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

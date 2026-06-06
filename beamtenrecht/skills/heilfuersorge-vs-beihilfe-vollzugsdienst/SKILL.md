@@ -7,7 +7,7 @@ description: "Skill zur Abgrenzung Heilfuersorge und Beihilfe im Vollzugsdienst.
 
 ## Arbeitsbereich
 
-Skill zur Abgrenzung Heilfuersorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfuersorge fuer Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Abgrenzung Heilfuersorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfuersorge fuer Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Abgabe, Frist, Upload und Zugang im Pruefungsrecht Hochschu
 
 ## Arbeitsbereich
 
-Prüft Abgabe, Frist, Upload und Zugang. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Abgabe, Frist, Upload und Zugang. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

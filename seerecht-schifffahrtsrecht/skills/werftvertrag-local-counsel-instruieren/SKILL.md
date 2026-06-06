@@ -7,7 +7,7 @@ description: "Werftvertrag: Auslaendischen Anwalt fuer Arrest; Vollstreckung ode
 
 ## Arbeitsbereich
 
-Werftvertrag: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werftvertrag: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

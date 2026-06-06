@@ -7,7 +7,7 @@ description: "Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vert
 
 ## Arbeitsbereich
 
-Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

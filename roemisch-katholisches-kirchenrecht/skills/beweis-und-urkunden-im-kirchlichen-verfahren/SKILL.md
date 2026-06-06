@@ -7,7 +7,7 @@ description: "Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, In
 
 ## Arbeitsbereich
 
-Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

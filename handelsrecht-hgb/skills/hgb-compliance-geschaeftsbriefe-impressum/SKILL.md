@@ -7,7 +7,7 @@ description: "Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen u
 
 ## Arbeitsbereich
 
-Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

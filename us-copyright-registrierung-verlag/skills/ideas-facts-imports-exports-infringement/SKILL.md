@@ -7,7 +7,7 @@ description: "Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein u
 
 ## Arbeitsbereich
 
-Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlag
 
 ## Arbeitsbereich
 
-Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

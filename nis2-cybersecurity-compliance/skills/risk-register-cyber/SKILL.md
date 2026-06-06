@@ -7,7 +7,7 @@ description: "Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht 
 
 ## Arbeitsbereich
 
-Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die n�
 
 ## Arbeitsbereich
 
-HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

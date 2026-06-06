@@ -7,7 +7,7 @@ description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die pas
 
 ## Arbeitsbereich
 
-Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmod
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch, Datenschutz-Konzept, Geldwäsche-Risikoanalyse, Mandatsvertrag, Honorarvereinbarung, Versicherungspolice, Sozietätsvertrag, beA-Konfiguration — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld leitet im Plugin `kanzlei-builder-hub` nach Klärung der Aufgabe in den richtigen Builder-Skill weiter: Neues Plugin anlegen, Skill erweitern, Frontmatter reparieren, Bibliothek erweitern, Tests schreiben.
+Dieser Prüfungslinie leitet im Plugin `kanzlei-builder-hub` nach Klärung der Aufgabe in den richtigen Builder-Skill weiter: Neues Plugin anlegen, Skill erweitern, Frontmatter reparieren, Bibliothek erweitern, Tests schreiben.
 
 ## Routing nach Bauaufgabe
 - **Neues Plugin:** Skeleton mit `plugin.json` (`name`, `version`, `description`), `README.md`, `skills/`-Verzeichnis. Kein Komma in Zahlen in `description`.

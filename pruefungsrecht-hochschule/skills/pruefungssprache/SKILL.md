@@ -7,7 +7,7 @@ description: "Prüft Sprache der Prüfung, Übersetzungen, internationale Studie
 
 ## Arbeitsbereich
 
-Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

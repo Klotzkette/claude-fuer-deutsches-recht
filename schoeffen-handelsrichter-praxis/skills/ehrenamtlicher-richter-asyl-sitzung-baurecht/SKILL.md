@@ -7,7 +7,7 @@ description: "Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen R
 
 ## Arbeitsbereich
 
-Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

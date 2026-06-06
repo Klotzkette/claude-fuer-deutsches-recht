@@ -7,10 +7,10 @@ description: "WEG Baumaengel Gemeinschaft im Miet- und Wohnungseigentumsrecht: p
 
 ## Arbeitsbereich
 
-**WEG Baumaengel Gemeinschaft** ordnet den Fall über die tragenden Prüffelder: WEG Baumängel/Gemeinschaft, WEG-Beschlusskompetenz, Beschlusssammlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**WEG Baumaengel Gemeinschaft** führt durch die falltragenden Prüfungslinien: WEG Baumängel/Gemeinschaft, WEG-Beschlusskompetenz, Beschlusssammlung. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-weg-baumaengel-gemeinschaft` | WEG Baumängel/Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vergemeinschaftung, Ansprüche, Beweissicherung, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-weg-beschlusskompetenz` | WEG-Beschlusskompetenz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kompetenz, Bestimmtheit, ordnungsmäßige Verwaltung, Nichtigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -30,7 +30,7 @@ description: "WEG Baumaengel Gemeinschaft im Miet- und Wohnungseigentumsrecht: p
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-weg-baumaengel-gemeinschaft`
 
@@ -47,7 +47,7 @@ description: "WEG Baumaengel Gemeinschaft im Miet- und Wohnungseigentumsrecht: p
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Vergemeinschaftung, Ansprüche, Beweissicherung, Verjährung.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Vergemeinschaftung, Ansprüche, Beweissicherung, Verjährung.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -91,7 +91,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kompetenz, Bestimmtheit, ordnungsmäßige Verwaltung, Nichtigkeit.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Kompetenz, Bestimmtheit, ordnungsmäßige Verwaltung, Nichtigkeit.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -135,7 +135,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Eintrag, Fehler, Einsicht, Beweiswert, Verwalterpflicht.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Eintrag, Fehler, Einsicht, Beweiswert, Verwalterpflicht.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -179,7 +179,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Zweck, Rechtsgrundlage, Beschluss, Hinweisschilder, Speicherfrist.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Zweck, Rechtsgrundlage, Beschluss, Hinweisschilder, Speicherfrist.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -223,7 +223,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Frist, Form, TOP-Bestimmtheit, Unterlagen, Vollmachten.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Frist, Form, TOP-Bestimmtheit, Unterlagen, Vollmachten.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -267,7 +267,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Verkehrssicherung, Kameras, Schlösser, Beschluss und Datenschutz.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Verkehrssicherung, Kameras, Schlösser, Beschluss und Datenschutz.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -311,7 +311,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Angebotseinholung, Vergleichbarkeit, Eilmaßnahme, Interessenkonflikt.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Angebotseinholung, Vergleichbarkeit, Eilmaßnahme, Interessenkonflikt.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -355,7 +355,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beschlusskompetenz, Gebrauch, Ruhezeiten, Kinder, Tiere, Grillen.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Beschlusskompetenz, Gebrauch, Ruhezeiten, Kinder, Tiere, Grillen.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -399,7 +399,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Angemessenheit, Finanzierung, Zweckbindung, Darstellung.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Angemessenheit, Finanzierung, Zweckbindung, Darstellung.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -443,7 +443,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Abrechnungsspitze, Einzel-/Gesamtabrechnung, Vermögensbericht.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Abrechnungsspitze, Einzel-/Gesamtabrechnung, Vermögensbericht.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?

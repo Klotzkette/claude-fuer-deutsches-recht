@@ -7,7 +7,7 @@ description: "Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Wo
 
 ## Arbeitsbereich
 
-Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

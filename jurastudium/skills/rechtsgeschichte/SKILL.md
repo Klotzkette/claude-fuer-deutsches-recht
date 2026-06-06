@@ -1,13 +1,13 @@
 ---
 name: rechtsgeschichte
-description: "Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum Vertrag von Lissabon. Lädt, wenn der Nutzer \'Rechtsgeschichte\', \'BGB Entstehung\', \'NS-Justiz\', \'SED-Unrecht\', \'Radbruchsche Formel\', \'GG Genese\' oder \'EU-Recht Entwicklung\' sagt im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum Vertrag von Lissabon. Lädt, wenn der Nutzer 'Rechtsgeschichte', 'BGB Entstehung', 'NS-Justiz', 'SED-Unrecht', 'Radbruchsche Formel', 'GG Genese' oder 'EU-Recht Entwicklung' sagt im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsgeschichte für Juristen
 
 ## Arbeitsbereich
 
-Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum Vertrag von Lissabon. Lädt, wenn der Nutzer "Rechtsgeschichte", "BGB Entstehung", "NS-Justiz", "SED-Unrecht", "Radbruchsche Formel", "GG Genese" oder "EU-Recht Entwicklung" sagt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes nach 1948, Entwicklung des Unionsrechts von der EWG bis zum Vertrag von Lissabon. Lädt, wenn der Nutzer "Rechtsgeschichte", "BGB Entstehung", "NS-Justiz", "SED-Unrecht", "Radbruchsche Formel", "GG Genese" oder "EU-Recht Entwicklung" sagt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

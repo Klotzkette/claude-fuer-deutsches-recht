@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan fuer Social M
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan fuer Social Media bauen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan fuer Social Media bauen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

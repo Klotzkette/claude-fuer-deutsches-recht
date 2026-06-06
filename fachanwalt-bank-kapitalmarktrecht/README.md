@@ -53,8 +53,8 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anlageberatung-fehlerhaft-cybertrading` | Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüffeld für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-Pinpo... |
-| `anlageberatungsfehler-bankrecht-akkreditiv` | Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüffeld für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Ba... |
+| `anlageberatung-fehlerhaft-cybertrading` | Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-... |
+| `anlageberatungsfehler-bankrecht-akkreditiv` | Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft od... |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `bankaufsicht-erlaubnis-emissionsprospekt` | Bankaufsicht Erlaubnis Emissionsprospekt im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken, Emissionsprospekt, Fachanwalt. Liefert priorisierten Output mit Norm-P... |
 | `bankrecht-buergschaft-aval-garantieabruf` | Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf er... |
@@ -71,13 +71,13 @@ Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschrei
 | `immobiliendarlehen-fehlerkatalog` | Immobiliendarlehen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `kreditkuendigung-bgb-mica-stablecoin` | Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Bank kündigt Kredit nach § 490 BGB wegen wesentlicher, Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin, Mandant will vor Klage Bank-S... |
 | `mandat-triage-schriftsatzkern-substantiierung` | Mandat Triage Schriftsatzkern Substantiierung im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss, Substantiierter Schriftsatzkern für Klage auf, Bank. Liefert priorisierten... |
-| `orientierung-schufa-eintrag` | Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüffeld für fachanwalt bank kapitalmarktrecht schufa. Liefert priorisierten Output mit Norm-Pinp... |
+| `orientierung-schufa-eintrag` | Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Liefert priorisierten Output mit Norm... |
 | `output-waehlen` | Output wählen im Plugin Fachanwalt Bank Kapitalmarktrecht: Diese Output-Weiche für Fachanwalt Bank Kapitalmarktrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Sc... |
 | `prip-sonderfall-regulatorisches` | Prip Sonderfall Regulatorisches im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prip, Regulatorisches, Schnittstellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `verbraucherkredit-widerrufsjoker-wphg` | Verbraucherkredit Widerrufsjoker Wphg im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Verbraucherkredit, Widerrufsjoker, Wphg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `vermoegensanlage-quellenkarte` | Vermoegensanlage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `wpig-vergleichsverhandlung-strategie` | Wpig Vergleichsverhandlung Strategie im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Wpig, Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht, Prüffeld für widerrufsjoker immobiliendarlehen. Liefert... |
+| `wpig-vergleichsverhandlung-strategie` | Wpig Vergleichsverhandlung Strategie im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Wpig, Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht, Prüfungslinie für widerrufsjoker immobiliendarlehen. Lie... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

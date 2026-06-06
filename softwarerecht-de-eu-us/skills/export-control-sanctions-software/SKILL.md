@@ -7,7 +7,7 @@ description: "Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, 
 
 ## Arbeitsbereich
 
-Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

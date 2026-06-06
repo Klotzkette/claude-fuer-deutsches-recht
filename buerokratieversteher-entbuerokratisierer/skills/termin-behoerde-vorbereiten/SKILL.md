@@ -7,7 +7,7 @@ description: "Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmet
 
 ## Arbeitsbereich
 
-Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

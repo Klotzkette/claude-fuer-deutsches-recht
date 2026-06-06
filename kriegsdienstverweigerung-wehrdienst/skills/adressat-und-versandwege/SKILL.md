@@ -7,7 +7,7 @@ description: "Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis im Krie
 
 ## Arbeitsbereich
 
-Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

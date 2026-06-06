@@ -7,7 +7,7 @@ description: "Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlus
 
 ## Arbeitsbereich
 
-Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

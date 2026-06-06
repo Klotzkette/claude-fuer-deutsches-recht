@@ -7,7 +7,7 @@ description: "Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphon
 
 ## Arbeitsbereich
 
-Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphones, Übersetzungstools, Diktat, Recherche und Dokumenten-Uploads erfassen; § 43 BRAO, § 43a BRAO, § 2 BORA, § 203 StGB, Art. 4 KI-VO und Team-Policy verbinden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

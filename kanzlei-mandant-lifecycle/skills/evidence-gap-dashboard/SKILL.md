@@ -7,7 +7,7 @@ description: "Evidence Gap Dashboard: steuert fehlende Beweise, Owner, Quelle, F
 
 ## Arbeitsbereich
 
-Evidence Gap Dashboard: steuert fehlende Beweise, Owner, Quelle, Frist und Risiko in einer Lückenmatrix steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Evidence Gap Dashboard: steuert fehlende Beweise, Owner, Quelle, Frist und Risiko in einer Lückenmatrix steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

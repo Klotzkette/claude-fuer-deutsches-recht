@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkr
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

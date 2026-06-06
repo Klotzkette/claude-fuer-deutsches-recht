@@ -7,7 +7,7 @@ description: "Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-
 
 ## Arbeitsbereich
 
-Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

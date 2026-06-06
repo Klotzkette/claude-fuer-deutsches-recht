@@ -7,7 +7,7 @@ description: "Beweiswürdigung von Zeugen: erklärt Wahrnehmung, Erinnerung, Aus
 
 ## Arbeitsbereich
 
-Beweiswürdigung von Zeugen: erklärt Wahrnehmung, Erinnerung, Aussagekonstanz und Vorsicht vor Bauchgefühl für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweiswürdigung von Zeugen: erklärt Wahrnehmung, Erinnerung, Aussagekonstanz und Vorsicht vor Bauchgefühl für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

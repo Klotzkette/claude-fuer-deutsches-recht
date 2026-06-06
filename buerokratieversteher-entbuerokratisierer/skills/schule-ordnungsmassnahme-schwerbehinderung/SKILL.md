@@ -7,7 +7,7 @@ description: "Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, A
 
 ## Arbeitsbereich
 
-Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

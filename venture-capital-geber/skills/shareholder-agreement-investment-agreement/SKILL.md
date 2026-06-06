@@ -7,7 +7,7 @@ description: "Prüft Gesellschaftervereinbarung, Investment Agreement, Covenants
 
 ## Arbeitsbereich
 
-Prüft Gesellschaftervereinbarung, Investment Agreement, Covenants, Garantien, Conditions Precedent und Enforcement. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gesellschaftervereinbarung, Investment Agreement, Covenants, Garantien, Conditions Precedent und Enforcement. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

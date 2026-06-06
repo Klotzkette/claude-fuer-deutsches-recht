@@ -7,7 +7,7 @@ description: "Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzung
 
 ## Arbeitsbereich
 
-Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

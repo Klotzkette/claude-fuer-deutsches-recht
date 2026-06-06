@@ -7,7 +7,7 @@ description: "Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Pla
 
 ## Arbeitsbereich
 
-Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Planfeststellung angreifen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Planfeststellung angreifen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

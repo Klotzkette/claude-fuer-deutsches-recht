@@ -7,7 +7,7 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaef
 
 ## Arbeitsbereich
 
-NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

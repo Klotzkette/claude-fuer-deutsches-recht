@@ -7,7 +7,7 @@ description: "Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC
 
 ## Arbeitsbereich
 
-Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC, Anwälten und Foundern. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC, Anwälten und Foundern. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

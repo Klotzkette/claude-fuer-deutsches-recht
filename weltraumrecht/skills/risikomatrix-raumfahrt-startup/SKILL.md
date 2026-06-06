@@ -7,7 +7,7 @@ description: "Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exp
 
 ## Arbeitsbereich
 
-Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

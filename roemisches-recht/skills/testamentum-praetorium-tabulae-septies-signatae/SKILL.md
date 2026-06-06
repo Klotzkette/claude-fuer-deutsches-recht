@@ -7,7 +7,7 @@ description: "Testamentum praetorium: praetorische Form des Tabula-Testaments mi
 
 ## Arbeitsbereich
 
-Testamentum praetorium: praetorische Form des Tabula-Testaments mit 7 Siegelzeugen. Skill behandelt die Voraussetzungen die Verbesserung gegenueber dem Mancipationstestament und die Folgen fuer die bonorum possessio secundum tabulas. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Testamentum praetorium: praetorische Form des Tabula-Testaments mit 7 Siegelzeugen. Skill behandelt die Voraussetzungen die Verbesserung gegenueber dem Mancipationstestament und die Folgen fuer die bonorum possessio secundum tabulas. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

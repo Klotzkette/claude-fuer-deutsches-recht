@@ -7,7 +7,7 @@ description: "Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität 
 
 ## Arbeitsbereich
 
-Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität und Kulturwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität und Kulturwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

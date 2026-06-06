@@ -7,7 +7,7 @@ description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrec
 
 ## Arbeitsbereich
 
-Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

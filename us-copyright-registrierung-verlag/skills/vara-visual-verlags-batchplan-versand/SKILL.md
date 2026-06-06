@@ -7,7 +7,7 @@ description: "Prueft attribution, integrity, works of visual art, waiver, murals
 
 ## Arbeitsbereich
 
-Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

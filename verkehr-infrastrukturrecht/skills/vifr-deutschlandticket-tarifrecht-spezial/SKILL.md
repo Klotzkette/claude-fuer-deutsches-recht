@@ -7,7 +7,7 @@ description: "Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsv
 
 ## Arbeitsbereich
 
-Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Laender, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster fuer Verbraucherzentrale und Verkehrsverbund. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Laender, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster fuer Verbraucherzentrale und Verkehrsverbund. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

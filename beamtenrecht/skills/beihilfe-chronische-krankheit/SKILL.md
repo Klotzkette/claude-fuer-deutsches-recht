@@ -7,7 +7,7 @@ description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Bei
 
 ## Arbeitsbereich
 
-Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Laender. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Laender. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

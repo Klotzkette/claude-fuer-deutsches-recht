@@ -7,7 +7,7 @@ description: "Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, 
 
 ## Arbeitsbereich
 
-Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

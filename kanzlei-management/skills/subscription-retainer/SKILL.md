@@ -7,7 +7,7 @@ description: "Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Mode
 
 ## Arbeitsbereich
 
-Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

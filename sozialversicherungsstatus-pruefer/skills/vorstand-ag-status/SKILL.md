@@ -7,7 +7,7 @@ description: "Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausn
 
 ## Arbeitsbereich
 
-Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausnahmen und Sozialversicherungspflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausnahmen und Sozialversicherungspflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

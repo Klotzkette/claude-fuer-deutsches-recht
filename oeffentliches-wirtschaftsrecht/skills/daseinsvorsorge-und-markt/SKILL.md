@@ -7,7 +7,7 @@ description: "Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseins
 
 ## Arbeitsbereich
 
-Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

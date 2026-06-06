@@ -7,7 +7,7 @@ description: "Formular- und Textgenerator für Widerspruch, Akteneinsicht, Beihi
 
 ## Arbeitsbereich
 
-Formular- und Textgenerator für Widerspruch, Akteneinsicht, Beihilfe, Personalakte, Dienstunfall, Remonstration und Eilantrag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formular- und Textgenerator für Widerspruch, Akteneinsicht, Beihilfe, Personalakte, Dienstunfall, Remonstration und Eilantrag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Mandant Self Service: steuert Mandant lädt Dokumente, prüft Stat
 
 ## Arbeitsbereich
 
-Mandant Self Service: steuert Mandant lädt Dokumente, prüft Status, beantwortet Fragen und sieht nächste Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant Self Service: steuert Mandant lädt Dokumente, prüft Status, beantwortet Fragen und sieht nächste Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. §
 
 ## Arbeitsbereich
 
-Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjaehrung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz fuer Verguetungsklage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjaehrung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz fuer Verguetungsklage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

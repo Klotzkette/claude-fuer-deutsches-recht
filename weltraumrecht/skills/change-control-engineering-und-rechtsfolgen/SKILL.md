@@ -7,7 +7,7 @@ description: "Change Control Board – technische Änderungen und Vertragsrechts
 
 ## Arbeitsbereich
 
-Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen
 
 ## Arbeitsbereich
 
-Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

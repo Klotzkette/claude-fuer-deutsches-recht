@@ -7,7 +7,7 @@ description: "Prüft EDR/XDR auf Endpoints und Servern im Nis2 Cybersecurity Com
 
 ## Arbeitsbereich
 
-Prüft EDR/XDR auf Endpoints und Servern. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft EDR/XDR auf Endpoints und Servern. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

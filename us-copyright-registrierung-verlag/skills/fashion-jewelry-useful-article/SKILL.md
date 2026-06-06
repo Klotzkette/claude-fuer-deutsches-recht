@@ -7,7 +7,7 @@ description: "Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful art
 
 ## Arbeitsbereich
 
-Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

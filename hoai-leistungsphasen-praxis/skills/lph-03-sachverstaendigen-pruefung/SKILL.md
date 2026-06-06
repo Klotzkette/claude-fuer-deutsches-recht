@@ -7,7 +7,7 @@ description: "HOAI LPH 3 Entwurfsplanung: übersetzt den LPH-Stand in Gutachterf
 
 ## Arbeitsbereich
 
-HOAI LPH 3 Entwurfsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 3 Entwurfsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

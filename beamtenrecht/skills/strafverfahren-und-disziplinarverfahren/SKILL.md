@@ -7,7 +7,7 @@ description: "Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverh
 
 ## Arbeitsbereich
 
-Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

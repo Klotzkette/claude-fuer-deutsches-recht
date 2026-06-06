@@ -1,13 +1,13 @@
 ---
 name: stakeholder-zusammenfassung
-description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer \'Zusammenfassung für Geschäftsführung\', \'für den Vorstand aufbereiten\', \'Managementzusammenfassung\', \'für Einkauf erklären\' oder \'nicht-juristische Zusammenfassung\' sagt im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer 'Zusammenfassung für Geschäftsführung', 'für den Vorstand aufbereiten', 'Managementzusammenfassung', 'für Einkauf erklären' oder 'nicht-juristische Zusammenfassung' sagt im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Mandantenzusammenfassung Vertragsrecht
 
 ## Arbeitsbereich
 
-Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer "Zusammenfassung für Geschäftsführung", "für den Vorstand aufbereiten", "Managementzusammenfassung", "für Einkauf erklären" oder "nicht-juristische Zusammenfassung" sagt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer "Zusammenfassung für Geschäftsführung", "für den Vorstand aufbereiten", "Managementzusammenfassung", "für Einkauf erklären" oder "nicht-juristische Zusammenfassung" sagt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

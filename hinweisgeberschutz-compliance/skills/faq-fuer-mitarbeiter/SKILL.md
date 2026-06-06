@@ -7,7 +7,7 @@ description: "Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Comp
 
 ## Arbeitsbereich
 
-Schreibt verständliche Mitarbeiter-FAQ. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schreibt verständliche Mitarbeiter-FAQ. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

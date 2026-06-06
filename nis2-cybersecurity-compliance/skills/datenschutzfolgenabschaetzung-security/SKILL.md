@@ -7,7 +7,7 @@ description: "Erstellt DSFA für Security-Systeme mit hohem Risiko im Nis2 Cyber
 
 ## Arbeitsbereich
 
-Erstellt DSFA für Security-Systeme mit hohem Risiko. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt DSFA für Security-Systeme mit hohem Risiko. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

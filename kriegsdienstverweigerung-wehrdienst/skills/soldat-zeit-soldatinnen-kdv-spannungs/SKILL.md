@@ -7,7 +7,7 @@ description: "Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit im Krie
 
 ## Arbeitsbereich
 
-Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

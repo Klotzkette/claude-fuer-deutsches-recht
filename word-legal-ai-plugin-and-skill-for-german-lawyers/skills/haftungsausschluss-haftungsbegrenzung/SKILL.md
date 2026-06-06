@@ -7,7 +7,7 @@ description: "Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen �
 
 ## Arbeitsbereich
 
-Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen.
 
 ## Arbeitsbereich
 
-Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwaiger Sanierungsgewinn mangels Koerperschaftsteuersubjekt noch festsetzbar ist. Adressat ist der Steuerberater oder Rechtsanwalt, der eine GmbH ohne Insolvenz nur per Liquidation abwickeln will und ein hohes Gesellschafterdarlehen mit qualifiziertem Rangruecktritt im Bestand hat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwaiger Sanierungsgewinn mangels Koerperschaftsteuersubjekt noch festsetzbar ist. Adressat ist der Steuerberater oder Rechtsanwalt, der eine GmbH ohne Insolvenz nur per Liquidation abwickeln will und ein hohes Gesellschafterdarlehen mit qualifiziertem Rangruecktritt im Bestand hat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

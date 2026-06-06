@@ -7,7 +7,7 @@ description: "Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform u
 
 ## Arbeitsbereich
 
-Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

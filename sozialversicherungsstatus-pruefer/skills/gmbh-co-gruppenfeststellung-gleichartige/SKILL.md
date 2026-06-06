@@ -7,7 +7,7 @@ description: "Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kom
 
 ## Arbeitsbereich
 
-Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

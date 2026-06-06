@@ -7,7 +7,7 @@ description: "Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrech
 
 ## Arbeitsbereich
 
-Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

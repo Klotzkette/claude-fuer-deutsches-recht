@@ -7,7 +7,7 @@ description: "Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Sch
 
 ## Arbeitsbereich
 
-Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernis
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instandsetzung und Bestand nach § 2 Abs. 7 und § 4 Abs. 3 HOAI mit Textform, Wertansatz, Beweis und Honorarfolge prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

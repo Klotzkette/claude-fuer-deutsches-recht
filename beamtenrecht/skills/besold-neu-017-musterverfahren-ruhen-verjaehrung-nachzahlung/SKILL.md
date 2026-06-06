@@ -7,7 +7,7 @@ description: "Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Bea
 
 ## Arbeitsbereich
 
-Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

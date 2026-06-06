@@ -7,7 +7,7 @@ description: "Spezialfall Konfliktcheck im Konzern: Mandat fuer Tochter eines be
 
 ## Arbeitsbereich
 
-Spezialfall Konfliktcheck im Konzern: Mandat fuer Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte fuer Einwilligungen und Hinweis an Mandant. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Konfliktcheck im Konzern: Mandat fuer Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte fuer Einwilligungen und Hinweis an Mandant. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

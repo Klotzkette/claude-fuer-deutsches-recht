@@ -7,7 +7,7 @@ description: "Kontrolliert TLS, PKI und Zertifikatslebenszyklen im Nis2 Cybersec
 
 ## Arbeitsbereich
 
-Kontrolliert TLS, PKI und Zertifikatslebenszyklen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kontrolliert TLS, PKI und Zertifikatslebenszyklen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

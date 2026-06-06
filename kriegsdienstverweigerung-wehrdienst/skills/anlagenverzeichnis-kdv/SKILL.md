@@ -7,7 +7,7 @@ description: "Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Ant
 
 ## Arbeitsbereich
 
-Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

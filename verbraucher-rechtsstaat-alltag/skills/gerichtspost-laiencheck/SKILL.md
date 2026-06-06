@@ -7,7 +7,7 @@ description: "Gerichtspost Laiencheck: erklärt erkennen ob Zeuge, Beklagter, Sc
 
 ## Arbeitsbereich
 
-Gerichtspost Laiencheck: erklärt erkennen ob Zeuge, Beklagter, Schuldner, Kläger oder Betroffener in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gerichtspost Laiencheck: erklärt erkennen ob Zeuge, Beklagter, Schuldner, Kläger oder Betroffener in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

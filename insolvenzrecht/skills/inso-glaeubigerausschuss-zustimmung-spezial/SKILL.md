@@ -7,7 +7,7 @@ description: "Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 
 
 ## Arbeitsbereich
 
-Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorlaeufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster fuer Mitglieder. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorlaeufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster fuer Mitglieder. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

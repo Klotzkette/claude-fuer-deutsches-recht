@@ -7,7 +7,7 @@ description: "Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflich
 
 ## Arbeitsbereich
 
-Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anmeldung, Steuerbescheid, gefährlicher Hund, Leinenpflicht, Maulkorb, Nachweis und Widerspruch. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

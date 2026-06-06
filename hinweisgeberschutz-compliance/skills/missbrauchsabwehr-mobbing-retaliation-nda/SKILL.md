@@ -7,7 +7,7 @@ description: "Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise im Hinwei
 
 ## Arbeitsbereich
 
-Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

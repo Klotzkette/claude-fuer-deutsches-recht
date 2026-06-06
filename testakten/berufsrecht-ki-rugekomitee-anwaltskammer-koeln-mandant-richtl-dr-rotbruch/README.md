@@ -152,9 +152,9 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 | Datei | Inhalt |
 |---|---|
-| [`jpg/ki_workflow_juristassist_pro_screenshot.jpg`](jpg/ki_workflow_juristassist_pro_screenshot.jpg) | Interface-Simulation JuristAssist Pro 5 (Platzhalterbild) |
-| [`jpg/vertragspruefung_output_juristassist.jpg`](jpg/vertragspruefung_output_juristassist.jpg) | Analyse-Output mit Warnhinweis (Platzhalterbild) |
-| [`jpg/avv_ki_anbieter_vertragsstruktur_diagramm.jpg`](jpg/avv_ki_anbieter_vertragsstruktur_diagramm.jpg) | Schematische Darstellung AVV-Struktur nach Art. 28 DSGVO (Platzhalterbild) |
+| [`jpg/ki_workflow_juristassist_pro_screenshot.jpg`](jpg/ki_workflow_juristassist_pro_screenshot.jpg) | Interface-Simulation JuristAssist Pro 5 (schematische Visualisierung) |
+| [`jpg/vertragspruefung_output_juristassist.jpg`](jpg/vertragspruefung_output_juristassist.jpg) | Analyse-Output mit Warnhinweis (schematische Visualisierung) |
+| [`jpg/avv_ki_anbieter_vertragsstruktur_diagramm.jpg`](jpg/avv_ki_anbieter_vertragsstruktur_diagramm.jpg) | Schematische Darstellung AVV-Struktur nach Art. 28 DSGVO (schematische Visualisierung) |
 
 ---
 

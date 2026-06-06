@@ -7,7 +7,7 @@ description: "Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Routet Sanktions- und Exportkontrollhinweise. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Sanktions- und Exportkontrollhinweise. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktrit
 
 ## Arbeitsbereich
 
-Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

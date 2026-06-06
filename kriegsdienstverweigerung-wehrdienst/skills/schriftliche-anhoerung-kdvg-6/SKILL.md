@@ -7,7 +7,7 @@ description: "Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar im 
 
 ## Arbeitsbereich
 
-Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

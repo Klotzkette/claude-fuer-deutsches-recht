@@ -7,7 +7,7 @@ description: "Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanf
 
 ## Arbeitsbereich
 
-Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext fuer Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext fuer Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

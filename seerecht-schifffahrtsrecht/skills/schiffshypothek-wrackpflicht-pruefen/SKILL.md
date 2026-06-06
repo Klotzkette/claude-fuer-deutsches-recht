@@ -7,7 +7,7 @@ description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubige
 
 ## Arbeitsbereich
 
-Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes hypothekenbelastetes Seeschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Skills kanzleiweit unter QA-Kontrolle halten: zentrale Skill-Bibli
 
 ## Arbeitsbereich
 
-Skills kanzleiweit unter QA-Kontrolle halten: zentrale Skill-Bibliothek, Versionsverwaltung, Aenderungsfreigaben, Validatoren, Tests. Pruefraster fuer ausreichende Qualitaet bevor ein Skill in Produktion geht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skills kanzleiweit unter QA-Kontrolle halten: zentrale Skill-Bibliothek, Versionsverwaltung, Aenderungsfreigaben, Validatoren, Tests. Pruefraster fuer ausreichende Qualitaet bevor ein Skill in Produktion geht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

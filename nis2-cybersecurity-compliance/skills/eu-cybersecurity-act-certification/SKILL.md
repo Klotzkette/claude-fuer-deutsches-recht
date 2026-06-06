@@ -7,7 +7,7 @@ description: "Prüft EU-Cybersecurity-Act und Zertifizierung im Nis2 Cybersecuri
 
 ## Arbeitsbereich
 
-Prüft EU-Cybersecurity-Act und Zertifizierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft EU-Cybersecurity-Act und Zertifizierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

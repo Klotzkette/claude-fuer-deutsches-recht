@@ -7,7 +7,7 @@ description: "HOAI-Praxis: vergleicht Kostenermittlungsstufen und Warnpflichten;
 
 ## Arbeitsbereich
 
-HOAI-Praxis: vergleicht Kostenermittlungsstufen und Warnpflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: vergleicht Kostenermittlungsstufen und Warnpflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

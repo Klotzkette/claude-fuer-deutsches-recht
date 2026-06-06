@@ -7,7 +7,7 @@ description: "Erstellt Security-Fragebögen, die nicht nur Papier produzieren im
 
 ## Arbeitsbereich
 
-Erstellt Security-Fragebögen, die nicht nur Papier produzieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Security-Fragebögen, die nicht nur Papier produzieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

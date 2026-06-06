@@ -7,7 +7,7 @@ description: "Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlau
 
 ## Arbeitsbereich
 
-Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

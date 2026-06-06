@@ -7,7 +7,7 @@ description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Q
 
 ## Arbeitsbereich
 
-Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

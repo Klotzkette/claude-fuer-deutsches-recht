@@ -7,7 +7,7 @@ description: "Organisiert voluntary filing, petition package, schedules, stateme
 
 ## Arbeitsbereich
 
-Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

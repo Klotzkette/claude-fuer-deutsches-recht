@@ -7,7 +7,7 @@ description: "Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill be
 
 ## Arbeitsbereich
 
-Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill behandelt die ALR-Regelungen zur Unmoeglichkeit Verschulden Verzug und das Verhaeltnis zur modernen Pflichtverletzungsregel § 280 BGB. Liefert Pruefraster. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill behandelt die ALR-Regelungen zur Unmoeglichkeit Verschulden Verzug und das Verhaeltnis zur modernen Pflichtverletzungsregel § 280 BGB. Liefert Pruefraster. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

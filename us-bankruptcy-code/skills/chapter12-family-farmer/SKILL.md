@@ -7,7 +7,7 @@ description: "Prueft Chapter 12 eligibility, seasonal income, plan treatment, se
 
 ## Arbeitsbereich
 
-Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

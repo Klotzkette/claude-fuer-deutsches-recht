@@ -7,7 +7,7 @@ description: "Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Theme
 
 ## Arbeitsbereich
 
-Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

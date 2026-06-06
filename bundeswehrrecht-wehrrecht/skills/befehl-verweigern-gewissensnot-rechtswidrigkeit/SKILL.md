@@ -7,7 +7,7 @@ description: "Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 1
 
 ## Arbeitsbereich
 
-Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

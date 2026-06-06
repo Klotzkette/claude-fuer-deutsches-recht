@@ -7,7 +7,7 @@ description: "Schweinehaltung: Strafrisiko bewerten im Tierschutzrecht: prüft k
 
 ## Arbeitsbereich
 
-Spezialthema **Schweinehaltung Strafrisiko Bewerten** im Tierschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Schweinehaltung Strafrisiko Bewerten** im Tierschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

@@ -7,7 +7,7 @@ description: "Gebäudeenergie: Energieausweis, Nachrüstpflichten, Heizungsdaten
 
 ## Arbeitsbereich
 
-Gebäudeenergie: Energieausweis, Nachrüstpflichten, Heizungsdaten, Förder-/Meldeunterlagen und Vermieter-/Eigentümerpflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gebäudeenergie: Energieausweis, Nachrüstpflichten, Heizungsdaten, Förder-/Meldeunterlagen und Vermieter-/Eigentümerpflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht 
 
 ## Arbeitsbereich
 
-Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call
 
 ## Arbeitsbereich
 
-Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

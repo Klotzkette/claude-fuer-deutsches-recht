@@ -7,7 +7,7 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktis
 
 ## Arbeitsbereich
 
-Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktisch anwenden. BHO § 114 Entlastung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktisch anwenden. BHO § 114 Entlastung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

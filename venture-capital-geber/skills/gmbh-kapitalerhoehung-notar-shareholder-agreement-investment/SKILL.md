@@ -7,7 +7,7 @@ description: "Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung, Notar, 
 
 ## Arbeitsbereich
 
-Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung, Notar, Register, Gesellschafterliste und Closing Deliverables. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung, Notar, Register, Gesellschafterliste und Closing Deliverables. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

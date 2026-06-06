@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Geruechtekontrolle fuer Teams und Kandidier
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Geruechtekontrolle fuer Teams und Kandidierende einrichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Geruechtekontrolle fuer Teams und Kandidierende einrichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

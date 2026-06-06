@@ -7,7 +7,7 @@ description: "Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspf
 
 ## Arbeitsbereich
 
-Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspflichten und Richter-Sonderregeln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspflichten und Richter-Sonderregeln. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

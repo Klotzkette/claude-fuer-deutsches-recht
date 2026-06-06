@@ -7,7 +7,7 @@ description: "Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Ma
 
 ## Arbeitsbereich
 
-Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

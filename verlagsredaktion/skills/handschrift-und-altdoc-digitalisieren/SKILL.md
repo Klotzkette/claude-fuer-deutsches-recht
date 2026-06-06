@@ -7,7 +7,7 @@ description: "Digitalisiert handschriftliche Originalvorlagen und alte Dokumente
 
 ## Arbeitsbereich
 
-Digitalisiert handschriftliche Originalvorlagen und alte Dokumente fuer die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digitalisiert handschriftliche Originalvorlagen und alte Dokumente fuer die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

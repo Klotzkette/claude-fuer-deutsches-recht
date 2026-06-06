@@ -7,7 +7,7 @@ description: "Prueft statutory damages, actual damages, profits, election, timel
 
 ## Arbeitsbereich
 
-Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

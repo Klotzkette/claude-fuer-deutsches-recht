@@ -7,7 +7,7 @@ description: "Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und
 
 ## Arbeitsbereich
 
-Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

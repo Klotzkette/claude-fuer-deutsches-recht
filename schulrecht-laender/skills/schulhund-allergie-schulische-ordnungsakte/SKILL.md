@@ -7,7 +7,7 @@ description: "Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung 
 
 ## Arbeitsbereich
 
-Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

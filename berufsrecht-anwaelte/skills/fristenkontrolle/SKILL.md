@@ -7,7 +7,7 @@ description: "Fristenkontrolle: vertiefter Berufsrechts-Skill für Anwälte; pr�
 
 ## Arbeitsbereich
 
-Fristenkontrolle: vertiefter Berufsrechts-Skill für Anwälte; prüft Fristenkontrolle im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristenkontrolle: vertiefter Berufsrechts-Skill für Anwälte; prüft Fristenkontrolle im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

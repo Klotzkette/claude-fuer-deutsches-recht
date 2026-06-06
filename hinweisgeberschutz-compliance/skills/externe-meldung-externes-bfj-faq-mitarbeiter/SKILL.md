@@ -7,7 +7,7 @@ description: "Prüft externe Meldung beim Bundesamt für Justiz und andere Stell
 
 ## Arbeitsbereich
 
-Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

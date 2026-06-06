@@ -7,7 +7,7 @@ description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdie
 
 ## Arbeitsbereich
 
-Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

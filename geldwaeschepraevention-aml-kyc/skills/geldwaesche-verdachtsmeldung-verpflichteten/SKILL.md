@@ -7,7 +7,7 @@ description: "Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG
 
 ## Arbeitsbereich
 
-Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Normen § 43 GwG Meldepflicht § 44 GwG Meldeinhalte § 47 GwG Tipping-off-Verbot goAML-Merkblatt FIU. Prüfraster Sachverhaltskern Beteiligte Konten Transaktionen goAML-Felder Anlagen Dokumentationsentscheidung. Output Vollständige goAML-Verdachtsmeldung mit Sachverhaltsbeschreibung Anhalt-Tabelle und Meldungsprotokoll. Abgrenzung zu geldwäsche-transaktionsstopp-freeze und geldwäsche-transaktionsmonitoring. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Normen § 43 GwG Meldepflicht § 44 GwG Meldeinhalte § 47 GwG Tipping-off-Verbot goAML-Merkblatt FIU. Prüfraster Sachverhaltskern Beteiligte Konten Transaktionen goAML-Felder Anlagen Dokumentationsentscheidung. Output Vollständige goAML-Verdachtsmeldung mit Sachverhaltsbeschreibung Anhalt-Tabelle und Meldungsprotokoll. Abgrenzung zu geldwäsche-transaktionsstopp-freeze und geldwäsche-transaktionsmonitoring. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

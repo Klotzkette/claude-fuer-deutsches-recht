@@ -7,7 +7,7 @@ description: "Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren
 
 ## Arbeitsbereich
 
-Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

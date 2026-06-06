@@ -7,7 +7,7 @@ description: "Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminv
 
 ## Arbeitsbereich
 
-Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

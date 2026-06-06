@@ -7,7 +7,7 @@ description: "Erkennt Erlaubnispflichten vor Gründung: Finanzen, Versicherung, 
 
 ## Arbeitsbereich
 
-Erkennt Erlaubnispflichten vor Gründung: Finanzen, Versicherung, Medizin, Makler, Bewachung, Handwerk, Güterverkehr, Lebensmittel. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erkennt Erlaubnispflichten vor Gründung: Finanzen, Versicherung, Medizin, Makler, Bewachung, Handwerk, Güterverkehr, Lebensmittel. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft fehlende, knappe oder widersprüchliche Protokolle und Rech
 
 ## Arbeitsbereich
 
-Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

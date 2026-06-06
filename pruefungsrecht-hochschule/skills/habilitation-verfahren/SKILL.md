@@ -7,7 +7,7 @@ description: "Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen
 
 ## Arbeitsbereich
 
-Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

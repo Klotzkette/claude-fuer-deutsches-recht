@@ -7,7 +7,7 @@ description: "Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Re
 
 ## Arbeitsbereich
 
-Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

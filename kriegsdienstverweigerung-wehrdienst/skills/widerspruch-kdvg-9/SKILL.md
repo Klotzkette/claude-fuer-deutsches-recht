@@ -7,7 +7,7 @@ description: "Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Ents
 
 ## Arbeitsbereich
 
-Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Widerspruch gegen Ablehnung oder verfahrensrelevante Entscheidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Vers
 
 ## Arbeitsbereich
 
-Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Logging, SIEM und SOC-Betrieb im Nis2 Cybersecurity Complia
 
 ## Arbeitsbereich
 
-Prüft Logging, SIEM und SOC-Betrieb. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Logging, SIEM und SOC-Betrieb. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

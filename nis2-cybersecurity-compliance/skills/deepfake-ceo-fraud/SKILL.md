@@ -7,7 +7,7 @@ description: "Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr im Nis2 Cybe
 
 ## Arbeitsbereich
 
-Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

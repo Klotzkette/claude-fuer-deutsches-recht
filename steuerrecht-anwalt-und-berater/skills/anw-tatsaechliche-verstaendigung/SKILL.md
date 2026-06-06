@@ -1,6 +1,6 @@
 ---
 name: anw-tatsaechliche-verstaendigung
-description: "Prüffeld für anw tatsaechliche verstaendigung schlussbesprechung im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für anw tatsaechliche verstaendigung schlussbesprechung im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anw Tatsaechliche Verstaendigung

@@ -7,7 +7,7 @@ description: "Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinu
 
 ## Arbeitsbereich
 
-Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugn
 
 ## Arbeitsbereich
 
-Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

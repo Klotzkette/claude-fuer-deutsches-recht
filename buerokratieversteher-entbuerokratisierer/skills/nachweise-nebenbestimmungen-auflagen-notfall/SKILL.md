@@ -7,7 +7,7 @@ description: "Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie 
 
 ## Arbeitsbereich
 
-Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

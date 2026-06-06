@@ -7,7 +7,7 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fu
 
 ## Arbeitsbereich
 
-Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

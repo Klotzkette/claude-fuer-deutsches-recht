@@ -7,7 +7,7 @@ description: "Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrec
 
 ## Arbeitsbereich
 
-Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

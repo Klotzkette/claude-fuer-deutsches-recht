@@ -7,7 +7,7 @@ description: "Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues 
 
 ## Arbeitsbereich
 
-Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

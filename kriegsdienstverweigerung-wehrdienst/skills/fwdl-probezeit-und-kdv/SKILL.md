@@ -7,7 +7,7 @@ description: "Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdi
 
 ## Arbeitsbereich
 
-Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation e
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

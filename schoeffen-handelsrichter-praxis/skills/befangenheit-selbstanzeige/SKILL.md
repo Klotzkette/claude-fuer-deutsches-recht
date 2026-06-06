@@ -7,7 +7,7 @@ description: "Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Ri
 
 ## Arbeitsbereich
 
-Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

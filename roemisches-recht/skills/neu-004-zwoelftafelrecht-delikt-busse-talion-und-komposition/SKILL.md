@@ -7,7 +7,7 @@ description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposi
 
 ## Arbeitsbereich
 
-Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

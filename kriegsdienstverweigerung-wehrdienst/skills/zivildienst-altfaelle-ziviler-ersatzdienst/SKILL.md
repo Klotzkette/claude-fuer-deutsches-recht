@@ -7,7 +7,7 @@ description: "Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem 
 
 ## Arbeitsbereich
 
-Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

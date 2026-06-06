@@ -7,7 +7,7 @@ description: "Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungsl
 
 ## Arbeitsbereich
 
-Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

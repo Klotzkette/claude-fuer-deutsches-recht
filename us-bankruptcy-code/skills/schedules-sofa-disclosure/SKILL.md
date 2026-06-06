@@ -7,7 +7,7 @@ description: "Prueft schedules, statement of financial affairs, assets, liabilit
 
 ## Arbeitsbereich
 
-Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

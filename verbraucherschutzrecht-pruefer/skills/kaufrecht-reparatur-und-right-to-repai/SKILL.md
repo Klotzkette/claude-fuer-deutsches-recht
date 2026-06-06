@@ -7,7 +7,7 @@ description: "Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to R
 
 ## Arbeitsbereich
 
-Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to Repair. Kaufrecht Reparatur und Right to Repair im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to Repair. Kaufrecht Reparatur und Right to Repair im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Schadensfälle durch Raketenstufen – LIAB Art. II, nationales De
 
 ## Arbeitsbereich
 
-Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Mandant will eine engere Marktabgrenzung argumentieren um niedrige
 
 ## Arbeitsbereich
 
-Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begründung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begründungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit für die andere Richtung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begründung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begründungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit für die andere Richtung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

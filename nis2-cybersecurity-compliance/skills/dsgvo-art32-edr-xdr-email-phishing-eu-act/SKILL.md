@@ -7,7 +7,7 @@ description: "Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO im Nis2
 
 ## Arbeitsbereich
 
-Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Plant Compliance-Untersuchung nach Hinweis im Hinweisgeberschutz C
 
 ## Arbeitsbereich
 
-Plant Compliance-Untersuchung nach Hinweis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Compliance-Untersuchung nach Hinweis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Täuschung, Plagiat und Sanktionen im Pruefungsrecht Hochsc
 
 ## Arbeitsbereich
 
-Prüft Täuschung, Plagiat und Sanktionen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Täuschung, Plagiat und Sanktionen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Govern
 
 ## Arbeitsbereich
 
-Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

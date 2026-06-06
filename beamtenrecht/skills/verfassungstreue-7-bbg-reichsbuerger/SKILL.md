@@ -7,7 +7,7 @@ description: "Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. �
 
 ## Arbeitsbereich
 
-Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. § 33 BeamtStG insbesondere in Fallgestaltungen Reichsbuerger Extremismus und der Verfassungsschutzbeobachteten Parteien. Klaert die Anforderungen an die Feststellung mangelnder Verfassungstreue im Eignungsverfahren und im Disziplinarverfahren das Verhaeltnis zur freiheitlichen demokratischen Grundordnung und das Pruefraster zwischen Mitgliedschaft Aeusserung und Handlung. Liefert Verteidigungsbausteine und Schriftsatzmuster. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. § 33 BeamtStG insbesondere in Fallgestaltungen Reichsbuerger Extremismus und der Verfassungsschutzbeobachteten Parteien. Klaert die Anforderungen an die Feststellung mangelnder Verfassungstreue im Eignungsverfahren und im Disziplinarverfahren das Verhaeltnis zur freiheitlichen demokratischen Grundordnung und das Pruefraster zwischen Mitgliedschaft Aeusserung und Handlung. Liefert Verteidigungsbausteine und Schriftsatzmuster. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

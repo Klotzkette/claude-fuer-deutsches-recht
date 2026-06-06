@@ -7,7 +7,7 @@ description: "Prueft assignment/transfer of claims, notice, evidence, objections
 
 ## Arbeitsbereich
 
-Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

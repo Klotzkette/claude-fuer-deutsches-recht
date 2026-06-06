@@ -7,7 +7,7 @@ description: "Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen im Hinw
 
 ## Arbeitsbereich
 
-Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

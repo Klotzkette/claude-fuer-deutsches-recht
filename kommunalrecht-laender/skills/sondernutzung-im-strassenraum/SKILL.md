@@ -7,7 +7,7 @@ description: "Kommunalrecht der Länder: Sondernutzung im Straßenraum. Sondernu
 
 ## Arbeitsbereich
 
-Kommunalrecht der Länder: Sondernutzung im Straßenraum. Sondernutzung im Straßenraum im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunalrecht der Länder: Sondernutzung im Straßenraum. Sondernutzung im Straßenraum im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

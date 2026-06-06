@@ -1,20 +1,20 @@
 ---
 name: drittanfechtung
-description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs, Prüffeld für fachanwalt verwaltungsrecht klimaklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs, Prüfungslinie für fachanwalt verwaltungsrecht klimaklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Drittanfechtung
 
 ## Arbeitsbereich
 
-**Drittanfechtung** ordnet den Fall über die tragenden Prüffelder: Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Drittanfechtung** führt durch die falltragenden Prüfungslinien: Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` | Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
 | `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` | Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
-| `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg` | Prüffeld für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg` | Prüfungslinie für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konk
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`
 
@@ -503,13 +503,13 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 
 ## 3. `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`
 
-**Fokus:** Prüffeld für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
 ## Fachkern: Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
-- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Prüffeld für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Prüfungslinie für fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 ## Zweck

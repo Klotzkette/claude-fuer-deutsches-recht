@@ -7,7 +7,7 @@ description: "Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planf
 
 ## Arbeitsbereich
 
-Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planfeststellungsbehoerde zustaendig. Prueft LuftVG §§ 6 8 29 Behoerdenabgrenzung Planfeststellungspflicht Landesrecht und liefert Zustaendigkeits-Vermerk fuer Flughafen-Bescheid oder Planfeststellungsverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planfeststellungsbehoerde zustaendig. Prueft LuftVG §§ 6 8 29 Behoerdenabgrenzung Planfeststellungspflicht Landesrecht und liefert Zustaendigkeits-Vermerk fuer Flughafen-Bescheid oder Planfeststellungsverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

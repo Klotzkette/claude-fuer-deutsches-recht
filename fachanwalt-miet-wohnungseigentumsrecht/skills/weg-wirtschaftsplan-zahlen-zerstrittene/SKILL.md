@@ -7,13 +7,13 @@ description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnu
 
 ## Arbeitsbereich
 
-**Spezial WEG Wirtschaftsplan Zahlen Zerstrittene** ordnet den Fall über die tragenden Prüffelder: WEG Wirtschaftsplan, WEG, Zerstrittene Gemeinschaft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Spezial WEG Wirtschaftsplan Zahlen Zerstrittene** führt durch die falltragenden Prüfungslinien: WEG Wirtschaftsplan, WEG, Zerstrittene Gemeinschaft. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-weg-wirtschaftsplan` | WEG Wirtschaftsplan: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vorschüsse, Rücklage, Sonderumlage, Liquidität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-zahlen-schwellen-und-berechnung` | WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-weg-zahlen-schwellen-und-berechnung` | WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-weg-zerstrittene-gemeinschaft` | Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht; entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-werkmietwohnung` | Werkmietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Dienstverhältnis, Kündigung, Sozialschutz, Räumung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-wohnflaechenabweichung` | Wohnflächenabweichung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Berechnung, Toleranz, Minderung, Mieterhöhung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -25,7 +25,7 @@ description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnu
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-weg-wirtschaftsplan`
 
@@ -42,7 +42,7 @@ description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnu
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Vorschüsse, Rücklage, Sonderumlage, Liquidität.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Vorschüsse, Rücklage, Sonderumlage, Liquidität.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -73,7 +73,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 ## 2. `spezial-weg-zahlen-schwellen-und-berechnung`
 
-**Fokus:** WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # WEG: Zahlen, Schwellenwerte und Berechnung
 
@@ -131,7 +131,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -175,7 +175,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: ent
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Dienstverhältnis, Kündigung, Sozialschutz, Räumung.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Dienstverhältnis, Kündigung, Sozialschutz, Räumung.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -219,7 +219,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Berechnung, Toleranz, Minderung, Mieterhöhung, Betriebskosten.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft Berechnung, Toleranz, Minderung, Mieterhöhung, Betriebskosten.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?

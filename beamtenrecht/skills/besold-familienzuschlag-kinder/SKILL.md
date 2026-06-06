@@ -7,7 +7,7 @@ description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im B
 
 ## Arbeitsbereich
 
-Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

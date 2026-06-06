@@ -7,7 +7,7 @@ description: "Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rech
 
 ## Arbeitsbereich
 
-Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

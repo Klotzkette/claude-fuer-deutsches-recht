@@ -7,7 +7,7 @@ description: "Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Ausland
 
 ## Arbeitsbereich
 
-Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

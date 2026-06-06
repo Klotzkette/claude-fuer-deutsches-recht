@@ -7,7 +7,7 @@ description: "Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten 
 
 ## Arbeitsbereich
 
-Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

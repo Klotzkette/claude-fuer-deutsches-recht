@@ -7,7 +7,7 @@ description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Comp
 
 ## Arbeitsbereich
 
-Verbindet Hinweis mit GwG/FIU-Pflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindet Hinweis mit GwG/FIU-Pflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Launch Readiness Legal Review – Checkliste vor dem Start: Genehm
 
 ## Arbeitsbereich
 
-Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

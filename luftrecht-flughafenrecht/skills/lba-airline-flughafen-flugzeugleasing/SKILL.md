@@ -7,7 +7,7 @@ description: "Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde
 
 ## Arbeitsbereich
 
-Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

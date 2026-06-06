@@ -7,7 +7,7 @@ description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnun
 
 ## Arbeitsbereich
 
-Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

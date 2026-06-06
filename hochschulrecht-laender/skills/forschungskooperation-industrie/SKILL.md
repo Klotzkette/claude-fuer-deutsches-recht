@@ -7,7 +7,7 @@ description: "Prüft Forschungskooperation, Publikationssperre, IP, Interessenko
 
 ## Arbeitsbereich
 
-Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

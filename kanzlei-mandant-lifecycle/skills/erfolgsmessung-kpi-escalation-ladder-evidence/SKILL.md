@@ -7,7 +7,7 @@ description: "Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, 
 
 ## Arbeitsbereich
 
-Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

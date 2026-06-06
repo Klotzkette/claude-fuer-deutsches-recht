@@ -7,7 +7,7 @@ description: "Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill pr
 
 ## Arbeitsbereich
 
-Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill prueft VO EWG 95/93 Slot-Nicht-Uebertragbarkeit EuGH-Rechtsprechung und alternative Sicherheiten fuer Airline-Finanzierung und liefert Sicherungs-Alternativen-Vermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill prueft VO EWG 95/93 Slot-Nicht-Uebertragbarkeit EuGH-Rechtsprechung und alternative Sicherheiten fuer Airline-Finanzierung und liefert Sicherungs-Alternativen-Vermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

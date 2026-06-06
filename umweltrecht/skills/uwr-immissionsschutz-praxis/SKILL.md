@@ -7,7 +7,7 @@ description: "Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige
 
 ## Arbeitsbereich
 
-Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhoerung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster fuer Anlagenbetreiber und Anwohner. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhoerung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster fuer Anlagenbetreiber und Anwohner. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

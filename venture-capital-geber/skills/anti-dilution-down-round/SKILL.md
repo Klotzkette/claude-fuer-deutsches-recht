@@ -7,7 +7,7 @@ description: "Prüft weighted average, full ratchet, pay-to-play, Down-Round-Fol
 
 ## Arbeitsbereich
 
-Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbar
 
 ## Arbeitsbereich
 
-NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbarkeit 23 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbarkeit 23 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

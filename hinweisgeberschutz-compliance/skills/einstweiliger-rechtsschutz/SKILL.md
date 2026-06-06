@@ -7,7 +7,7 @@ description: "Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Co
 
 ## Arbeitsbereich
 
-Prüft Eilrechtsschutz gegen Repressalien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Eilrechtsschutz gegen Repressalien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

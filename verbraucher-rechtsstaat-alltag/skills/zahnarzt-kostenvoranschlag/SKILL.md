@@ -7,7 +7,7 @@ description: "Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenpla
 
 ## Arbeitsbereich
 
-Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

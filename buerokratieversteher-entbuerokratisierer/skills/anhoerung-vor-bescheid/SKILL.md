@@ -7,7 +7,7 @@ description: "Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausna
 
 ## Arbeitsbereich
 
-Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

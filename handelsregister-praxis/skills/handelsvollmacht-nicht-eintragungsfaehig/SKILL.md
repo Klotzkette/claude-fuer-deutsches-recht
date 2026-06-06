@@ -7,7 +7,7 @@ description: "Erklärt, was nicht ins Register gehört und wie interne Vollmacht
 
 ## Arbeitsbereich
 
-Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

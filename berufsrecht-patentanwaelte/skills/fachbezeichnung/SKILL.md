@@ -7,7 +7,7 @@ description: "Fachbezeichnung: vertiefter Berufsrechts-Skill für Patentanwälte
 
 ## Arbeitsbereich
 
-Fachbezeichnung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Fachbezeichnung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fachbezeichnung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Fachbezeichnung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders 
 
 ## Arbeitsbereich
 
-Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

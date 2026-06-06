@@ -7,7 +7,7 @@ description: "Offshore-Schiff: Gesamtrisikobewertung fuer Energiekonzern; Offsho
 
 ## Arbeitsbereich
 
-Offshore-Schiff: Gesamtrisikobewertung fuer Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Offshore-Schiff: Gesamtrisikobewertung fuer Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Risiko-Memo und Empfehlungsmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

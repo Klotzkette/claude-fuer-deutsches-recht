@@ -7,7 +7,7 @@ description: "Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Tr
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Treuhandauftrag. Abstimmung von Kaufvertragsvollzug und Bankfinanzierung, Sicherungsabrede, Bankauflagen und treuhänderische Koordination durch den Notar. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Treuhandauftrag. Abstimmung von Kaufvertragsvollzug und Bankfinanzierung, Sicherungsabrede, Bankauflagen und treuhänderische Koordination durch den Notar. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-M
 
 ## Arbeitsbereich
 
-Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

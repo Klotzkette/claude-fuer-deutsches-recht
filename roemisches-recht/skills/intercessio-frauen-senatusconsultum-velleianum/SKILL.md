@@ -7,7 +7,7 @@ description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot
 
 ## Arbeitsbereich
 
-Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen fuer fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen fuer fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

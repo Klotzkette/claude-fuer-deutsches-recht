@@ -7,7 +7,7 @@ description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußis
 
 ## Arbeitsbereich
 
-PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

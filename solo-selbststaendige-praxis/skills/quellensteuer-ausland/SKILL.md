@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung u
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

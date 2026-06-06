@@ -7,7 +7,7 @@ description: "Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, S
 
 ## Arbeitsbereich
 
-Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

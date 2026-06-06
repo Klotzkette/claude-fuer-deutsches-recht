@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Pr
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektr
 
 ## Arbeitsbereich
 
-Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug fuer Stahl/Schienen-Lieferungen. Compliance-Roadmap fuer DB-Auftraggeber und Bauunternehmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug fuer Stahl/Schienen-Lieferungen. Compliance-Roadmap fuer DB-Auftraggeber und Bauunternehmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

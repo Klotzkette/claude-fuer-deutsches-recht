@@ -7,7 +7,7 @@ description: "Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher e
 
 ## Arbeitsbereich
 
-Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

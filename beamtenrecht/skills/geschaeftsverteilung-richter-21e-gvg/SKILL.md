@@ -7,7 +7,7 @@ description: "Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und z
 
 ## Arbeitsbereich
 
-Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschaeftsverteilungsplans zu Beginn des Geschaeftsjahres die Aenderung waehrend des Jahres und die Anforderungen an die Bestimmtheit. Behandelt die Konstellation Belastungssituation Kammerwechsel Vertretungsregelungen sowie unzulaessige Umverteilung anhaengiger Verfahren. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschaeftsverteilungsplans zu Beginn des Geschaeftsjahres die Aenderung waehrend des Jahres und die Anforderungen an die Bestimmtheit. Behandelt die Konstellation Belastungssituation Kammerwechsel Vertretungsregelungen sowie unzulaessige Umverteilung anhaengiger Verfahren. Liefert Pruefraster und Schriftsatzbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

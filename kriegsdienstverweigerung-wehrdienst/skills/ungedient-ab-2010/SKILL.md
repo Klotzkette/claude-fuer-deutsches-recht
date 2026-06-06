@@ -7,7 +7,7 @@ description: "Prüft jüngere ungediente Personen, Antragstermin und fehlendes a
 
 ## Arbeitsbereich
 
-Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

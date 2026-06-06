@@ -7,7 +7,7 @@ description: "Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder 
 
 ## Arbeitsbereich
 
-Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

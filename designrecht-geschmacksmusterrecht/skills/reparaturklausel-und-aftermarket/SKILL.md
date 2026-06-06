@@ -7,7 +7,7 @@ description: "Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Refor
 
 ## Arbeitsbereich
 
-Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reparaturklausel und Ersatzteilmarkt nach Designrecht und EU-Reform prüfen: Sichtbarkeit, Reparatur, Herkunftshinweise, Produktaufmachung und nationale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

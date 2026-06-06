@@ -7,7 +7,7 @@ description: "Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzve
 
 ## Arbeitsbereich
 
-Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzvermögen. Volksvermögen oder Finanzvermögen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzvermögen. Volksvermögen oder Finanzvermögen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

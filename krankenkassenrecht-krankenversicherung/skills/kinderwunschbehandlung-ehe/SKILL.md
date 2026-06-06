@@ -7,7 +7,7 @@ description: "GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfo
 
 ## Arbeitsbereich
 
-GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

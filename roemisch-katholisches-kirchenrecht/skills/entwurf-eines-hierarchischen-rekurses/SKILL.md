@@ -7,7 +7,7 @@ description: "Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Be
 
 ## Arbeitsbereich
 
-Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

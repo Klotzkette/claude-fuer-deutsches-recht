@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Schutzkonzept fuer Kandidierende und Wahlka
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Schutzkonzept fuer Kandidierende und Wahlkampfteams erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Schutzkonzept fuer Kandidierende und Wahlkampfteams erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

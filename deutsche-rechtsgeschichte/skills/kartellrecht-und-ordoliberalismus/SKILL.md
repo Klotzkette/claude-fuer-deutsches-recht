@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kart
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kartellrecht im Kaiserreich (Kohlen-Kartell-Entscheidung RG 1897), GWB 1957, Bundeskartellamt und EU-Kartellrecht Art. 101-102 AEUV. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kartellrecht im Kaiserreich (Kohlen-Kartell-Entscheidung RG 1897), GWB 1957, Bundeskartellamt und EU-Kartellrecht Art. 101-102 AEUV. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

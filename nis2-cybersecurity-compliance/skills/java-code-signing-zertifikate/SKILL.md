@@ -7,7 +7,7 @@ description: "Prüft Java-Code-Signing und Zertifikatsmanagement im Nis2 Cyberse
 
 ## Arbeitsbereich
 
-Prüft Java-Code-Signing und Zertifikatsmanagement. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Java-Code-Signing und Zertifikatsmanagement. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

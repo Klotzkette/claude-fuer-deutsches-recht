@@ -7,7 +7,7 @@ description: "HOAI LPH 1 Grundlagenermittlung: baut Risiko-, Annahmen- und Entsc
 
 ## Arbeitsbereich
 
-HOAI LPH 1 Grundlagenermittlung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 1 Grundlagenermittlung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

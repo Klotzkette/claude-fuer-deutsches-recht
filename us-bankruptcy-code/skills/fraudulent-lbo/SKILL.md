@@ -7,7 +7,7 @@ description: "Prueft leveraged buyout fraudulent-transfer exposure, solvency, re
 
 ## Arbeitsbereich
 
-Prueft leveraged buyout fraudulent-transfer exposure, solvency, reasonably equivalent value and lender/recipient targets. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft leveraged buyout fraudulent-transfer exposure, solvency, reasonably equivalent value and lender/recipient targets. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

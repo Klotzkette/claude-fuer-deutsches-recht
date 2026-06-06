@@ -7,7 +7,7 @@ description: "Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folge
 
 ## Arbeitsbereich
 
-Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit 
 
 ## Arbeitsbereich
 
-Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

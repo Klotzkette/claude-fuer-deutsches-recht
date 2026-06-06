@@ -7,7 +7,7 @@ description: "Prueft Datensammlungen, Auswahl/Anordnung, factual data, database 
 
 ## Arbeitsbereich
 
-Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

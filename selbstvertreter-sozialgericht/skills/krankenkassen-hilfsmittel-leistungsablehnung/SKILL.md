@@ -7,10 +7,10 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Krankenkassen Hilfsmittel Leistungsablehnung** ordnet den Fall über die tragenden Prüffelder: Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Krankenkassen Hilfsmittel Leistungsablehnung** führt durch die falltragenden Prüfungslinien: Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `krankenkassen-hilfsmittel-33-sgb-v` | Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage. |
 | `krankenkassen-leistungsablehnung-sgb-v` | Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage. |
@@ -25,7 +25,7 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `krankenkassen-hilfsmittel-33-sgb-v`
 

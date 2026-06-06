@@ -7,7 +7,7 @@ description: "Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Diszi
 
 ## Arbeitsbereich
 
-Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Instant Payments und SEPA-Echtzeitüberweisungen prüfen: Verfügb
 
 ## Arbeitsbereich
 
-Instant Payments und SEPA-Echtzeitüberweisungen prüfen: Verfügbarkeit, Gebühren, Sanktionsscreening, Verification of Payee, Betrugsprävention, Kundenkommunikation und technische Umsetzungsrisiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Instant Payments und SEPA-Echtzeitüberweisungen prüfen: Verfügbarkeit, Gebühren, Sanktionsscreening, Verification of Payee, Betrugsprävention, Kundenkommunikation und technische Umsetzungsrisiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

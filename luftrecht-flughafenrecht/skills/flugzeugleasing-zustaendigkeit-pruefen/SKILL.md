@@ -7,7 +7,7 @@ description: "Flugzeugleasing-Mandat: unklar welche Behoerde zustaendig ist LBA 
 
 ## Arbeitsbereich
 
-Flugzeugleasing-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zustaendigkeits-Vermerk fuer Wet-Dry-Finance-Lease-Situationen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Flugzeugleasing-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zustaendigkeits-Vermerk fuer Wet-Dry-Finance-Lease-Situationen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

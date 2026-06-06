@@ -7,7 +7,7 @@ description: "Datenschutz und Telematik im Fahrzeugleasing: DSGVO, Verarbeitungs
 
 ## Arbeitsbereich
 
-Datenschutz und Telematik im Fahrzeugleasing: DSGVO, Verarbeitungszwecke, Beschäftigtendatenschutz § 26 BDSG, Nutzungsprofile und Betriebsvereinbarung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenschutz und Telematik im Fahrzeugleasing: DSGVO, Verarbeitungszwecke, Beschäftigtendatenschutz § 26 BDSG, Nutzungsprofile und Betriebsvereinbarung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

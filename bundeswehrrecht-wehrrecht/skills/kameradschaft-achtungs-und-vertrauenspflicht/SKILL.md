@@ -7,7 +7,7 @@ description: "Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und
 
 ## Arbeitsbereich
 
-Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und 17 SG, Mobbing, Disziplinarrecht und Rechtsbehelfe. Norm-/Quellenanker: §§ 12 und 17 SG, WBO, WDO. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und 17 SG, Mobbing, Disziplinarrecht und Rechtsbehelfe. Norm-/Quellenanker: §§ 12 und 17 SG, WBO, WDO. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

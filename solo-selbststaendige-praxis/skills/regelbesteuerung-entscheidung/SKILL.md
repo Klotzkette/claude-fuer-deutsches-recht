@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: vergleicht Kleinunternehmerstatus und Regelb
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: vergleicht Kleinunternehmerstatus und Regelbesteuerung mit Kundenstruktur und Vorsteuer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: vergleicht Kleinunternehmerstatus und Regelbesteuerung mit Kundenstruktur und Vorsteuer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

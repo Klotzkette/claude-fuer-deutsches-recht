@@ -7,7 +7,7 @@ description: "Bodenabfertigungs-Mandat: unklar welche Behoerde zustaendig ist La
 
 ## Arbeitsbereich
 
-Bodenabfertigungs-Mandat: unklar welche Behoerde zustaendig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zustaendigkeits-Vermerk fuer Bodenabfertigungs-Streit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bodenabfertigungs-Mandat: unklar welche Behoerde zustaendig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zustaendigkeits-Vermerk fuer Bodenabfertigungs-Streit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einsc
 
 ## Arbeitsbereich
 
-Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

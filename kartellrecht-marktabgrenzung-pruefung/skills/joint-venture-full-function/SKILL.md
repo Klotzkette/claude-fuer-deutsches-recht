@@ -7,7 +7,7 @@ description: "Joint Venture Full Function: Fachmodul für großes Kartellrecht m
 
 ## Arbeitsbereich
 
-Joint Venture Full Function: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Joint Venture Full Function: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

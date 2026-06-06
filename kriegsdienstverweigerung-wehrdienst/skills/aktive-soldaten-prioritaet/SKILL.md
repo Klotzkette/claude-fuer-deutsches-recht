@@ -7,7 +7,7 @@ description: "Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst 
 
 ## Arbeitsbereich
 
-Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin 
 
 ## Arbeitsbereich
 
-Gegen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gegen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll 
 
 ## Arbeitsbereich
 
-Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

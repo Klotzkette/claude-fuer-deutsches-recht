@@ -7,7 +7,7 @@ description: "Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, 
 
 ## Arbeitsbereich
 
-Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, Verletzergewinn, Lizenzanalogie und Zuschläge. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, Verletzergewinn, Lizenzanalogie und Zuschläge. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

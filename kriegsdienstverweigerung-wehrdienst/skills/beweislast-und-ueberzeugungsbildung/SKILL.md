@@ -7,7 +7,7 @@ description: "Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbil
 
 ## Arbeitsbereich
 
-Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

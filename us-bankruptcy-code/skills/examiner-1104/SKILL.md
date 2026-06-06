@@ -7,7 +7,7 @@ description: "Prueft appointment of examiner, investigation scope, trustee alter
 
 ## Arbeitsbereich
 
-Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

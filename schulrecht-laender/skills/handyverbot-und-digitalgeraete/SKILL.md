@@ -7,7 +7,7 @@ description: "Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte im Sc
 
 ## Arbeitsbereich
 
-Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

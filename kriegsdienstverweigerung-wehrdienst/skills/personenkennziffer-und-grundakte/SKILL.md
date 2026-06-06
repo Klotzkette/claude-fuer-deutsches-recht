@@ -7,7 +7,7 @@ description: "Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Ve
 
 ## Arbeitsbereich
 
-Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

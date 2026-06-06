@@ -7,7 +7,7 @@ description: "Prueft municipal plan, limited court power, special revenues, bond
 
 ## Arbeitsbereich
 
-Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

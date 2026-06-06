@@ -7,7 +7,7 @@ description: "Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstands
 
 ## Arbeitsbereich
 
-Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstandsdruck, Fachbereich, Compliance und externer Kanzlei zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstandsdruck, Fachbereich, Compliance und externer Kanzlei zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

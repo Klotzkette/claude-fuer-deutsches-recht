@@ -7,7 +7,7 @@ description: "Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Rich
 
 ## Arbeitsbereich
 
-Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

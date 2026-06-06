@@ -7,7 +7,7 @@ description: "Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB 
 
 ## Arbeitsbereich
 
-Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderung der Geschäftsgrundlage, kein vertraglich allokiertes Risiko, Vorrang der Anpassung vor Rücktritt) und grenzt COVID-Sonderkonstellationen von der allgemeinen Lage ab. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderung der Geschäftsgrundlage, kein vertraglich allokiertes Risiko, Vorrang der Anpassung vor Rücktritt) und grenzt COVID-Sonderkonstellationen von der allgemeinen Lage ab. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

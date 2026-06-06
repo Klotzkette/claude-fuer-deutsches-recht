@@ -7,7 +7,7 @@ description: "Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hoc
 
 ## Arbeitsbereich
 
-Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

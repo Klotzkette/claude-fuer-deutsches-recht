@@ -7,7 +7,7 @@ description: "Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot �
 
 ## Arbeitsbereich
 
-Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

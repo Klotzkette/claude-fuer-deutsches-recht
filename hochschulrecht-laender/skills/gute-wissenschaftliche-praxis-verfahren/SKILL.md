@@ -7,7 +7,7 @@ description: "Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fai
 
 ## Arbeitsbereich
 
-Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fairness. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fairness. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

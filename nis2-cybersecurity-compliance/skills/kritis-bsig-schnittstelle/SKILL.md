@@ -7,7 +7,7 @@ description: "Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten im Nis2 
 
 ## Arbeitsbereich
 
-Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

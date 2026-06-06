@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne sel
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

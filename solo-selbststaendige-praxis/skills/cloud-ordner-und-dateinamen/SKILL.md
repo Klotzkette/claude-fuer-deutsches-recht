@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenl
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

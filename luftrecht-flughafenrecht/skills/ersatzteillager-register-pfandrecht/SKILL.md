@@ -7,7 +7,7 @@ description: "Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatztei
 
 ## Arbeitsbereich
 
-Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatzteile auswerten. Prueft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention fuer Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatzteile auswerten. Prueft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention fuer Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

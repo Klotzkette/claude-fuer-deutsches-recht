@@ -7,7 +7,7 @@ description: "HOAI-Praxis: fragt anwaltlich alle Unterlagen für HOAI-/Bauprojek
 
 ## Arbeitsbereich
 
-HOAI-Praxis: fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

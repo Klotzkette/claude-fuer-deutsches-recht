@@ -7,7 +7,7 @@ description: "Prueft Notice-and-Takedown, designated agent, expeditious removal,
 
 ## Arbeitsbereich
 
-Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

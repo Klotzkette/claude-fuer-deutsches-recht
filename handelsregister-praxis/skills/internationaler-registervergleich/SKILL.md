@@ -7,7 +7,7 @@ description: "Vergleicht Companies House, irische/österreichische/schweizer Reg
 
 ## Arbeitsbereich
 
-Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht Companies House, irische/österreichische/schweizer Register und deutsche Nachweisanforderungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

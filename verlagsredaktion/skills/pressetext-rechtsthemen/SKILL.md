@@ -7,7 +7,7 @@ description: "Pressetext zu Rechtsthemen: Schreibanleitung fuer Verlagspressemit
 
 ## Arbeitsbereich
 
-Pressetext zu Rechtsthemen: Schreibanleitung fuer Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte fuer Fachpresse und allgemeine Medien mit Sperrfrist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pressetext zu Rechtsthemen: Schreibanleitung fuer Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte fuer Fachpresse und allgemeine Medien mit Sperrfrist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

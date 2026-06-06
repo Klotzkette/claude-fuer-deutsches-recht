@@ -7,7 +7,7 @@ description: "Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen
 
 ## Arbeitsbereich
 
-Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

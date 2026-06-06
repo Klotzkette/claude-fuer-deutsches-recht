@@ -7,7 +7,7 @@ description: "Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest:
 
 ## Arbeitsbereich
 
-Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

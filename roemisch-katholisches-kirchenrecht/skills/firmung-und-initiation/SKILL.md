@@ -7,7 +7,7 @@ description: "Firmung und Initiation: Firmspender, Alter, Vorbereitung, Nachweis
 
 ## Arbeitsbereich
 
-Firmung und Initiation: Firmspender, Alter, Vorbereitung, Nachweis und Nachholung; CIC can. 879-896; KKK 1285-1321; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Firmung und Initiation: Firmspender, Alter, Vorbereitung, Nachweis und Nachholung; CIC can. 879-896; KKK 1285-1321; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

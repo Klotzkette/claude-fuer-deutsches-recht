@@ -7,7 +7,7 @@ description: "Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straß
 
 ## Arbeitsbereich
 
-Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straße. Kreuzungsrecht Bahn Wasser Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straße. Kreuzungsrecht Bahn Wasser Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

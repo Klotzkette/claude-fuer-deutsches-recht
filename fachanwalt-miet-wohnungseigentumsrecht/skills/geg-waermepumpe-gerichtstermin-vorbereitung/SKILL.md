@@ -7,16 +7,16 @@ description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungse
 
 ## Arbeitsbereich
 
-**GEG Waermepumpe Gerichtstermin Vorbereitung** ordnet den Fall über die tragenden Prüffelder: GEG/Wärmepumpe-Routing, Gerichtstermin Vorbereitung, Gewerberaum-Intake. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**GEG Waermepumpe Gerichtstermin Vorbereitung** führt durch die falltragenden Prüfungslinien: GEG/Wärmepumpe-Routing, Gerichtstermin Vorbereitung, Gewerberaum-Intake. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-geg-waermepumpe-routing` | GEG/Wärmepumpe-Routing: Prüffeld für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-gerichtstermin-vorbereitung` | Gerichtstermin Vorbereitung: Prüffeld für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-gewerberaum-intake` | Gewerberaum-Intake: Prüffeld für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-haustier-nachbar-konflikt` | Haustier-/Nachbarkonflikt: Prüffeld für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-hausverwaltung-intake` | Hausverwaltungs-Intake: Prüffeld für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-geg-waermepumpe-routing` | GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-gerichtstermin-vorbereitung` | Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-gewerberaum-intake` | Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-haustier-nachbar-konflikt` | Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-hausverwaltung-intake` | Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,11 +25,11 @@ description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungse
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-geg-waermepumpe-routing`
 
-**Fokus:** GEG/Wärmepumpe-Routing: Prüffeld für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # GEG/Wärmepumpe-Routing
 
@@ -42,7 +42,7 @@ description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungse
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-gerichtstermin-vorbereitung`
 
-**Fokus:** Gerichtstermin Vorbereitung: Prüffeld für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Gerichtstermin Vorbereitung
 
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -117,7 +117,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-gewerberaum-intake`
 
-**Fokus:** Gewerberaum-Intake: Prüffeld für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Gewerberaum-Intake
 
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -161,7 +161,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-haustier-nachbar-konflikt`
 
-**Fokus:** Haustier-/Nachbarkonflikt: Prüffeld für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Haustier-/Nachbarkonflikt
 
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -205,7 +205,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-hausverwaltung-intake`
 
-**Fokus:** Hausverwaltungs-Intake: Prüffeld für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Hausverwaltungs-Intake
 
@@ -218,7 +218,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

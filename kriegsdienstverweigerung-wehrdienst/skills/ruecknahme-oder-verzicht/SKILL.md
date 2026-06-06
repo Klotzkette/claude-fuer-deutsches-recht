@@ -7,7 +7,7 @@ description: "Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung im
 
 ## Arbeitsbereich
 
-Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

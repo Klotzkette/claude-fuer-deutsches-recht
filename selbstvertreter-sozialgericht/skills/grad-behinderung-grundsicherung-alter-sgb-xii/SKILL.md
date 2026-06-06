@@ -7,10 +7,10 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Grad Behinderung Grundsicherung Alter SGB XII** ordnet den Fall über die tragenden Prüffelder: Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Grad Behinderung Grundsicherung Alter SGB XII** führt durch die falltragenden Prüfungslinien: Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `grad-der-behinderung-gdb-sgb-ix` | Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger. |
 | `grundsicherung-alter-sgb-xii-41` | Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage. |
@@ -25,7 +25,7 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `grad-der-behinderung-gdb-sgb-ix`
 

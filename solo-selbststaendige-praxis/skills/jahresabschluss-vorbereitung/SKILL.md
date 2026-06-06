@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lücke
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Digitale Beweise verstehen (Orientierung): hilft ehrenamtlichen Ri
 
 ## Arbeitsbereich
 
-Digitale Beweise verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Chats, Screenshots, EncroChat, Standortdaten, Hashwerte und Beweisverwertung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digitale Beweise verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Chats, Screenshots, EncroChat, Standortdaten, Hashwerte und Beweisverwertung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeb
 
 ## Arbeitsbereich
 
-Steuert Löschung und Archivierung von HinSchG-Akten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Löschung und Archivierung von HinSchG-Akten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

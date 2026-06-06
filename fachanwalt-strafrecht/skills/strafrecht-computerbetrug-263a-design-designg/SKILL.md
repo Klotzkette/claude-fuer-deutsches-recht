@@ -7,10 +7,10 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 
 ## Arbeitsbereich
 
-**Computerbetrug 263a Design Designg** ordnet den Fall über die tragenden Prüffelder: Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Computerbetrug 263a Design Designg** führt durch die falltragenden Prüfungslinien: Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-computerbetrug-263a-stgb` | Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off. |
 | `strafrecht-spezial-design-strafrecht-51-designg` | Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht. |
@@ -30,7 +30,7 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-computerbetrug-263a-stgb`
 

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Ver
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

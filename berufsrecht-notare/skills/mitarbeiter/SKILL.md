@@ -7,7 +7,7 @@ description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Notare; prüft Mit
 
 ## Arbeitsbereich
 
-Mitarbeiter: vertiefter Berufsrechts-Skill für Notare; prüft Mitarbeiter im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mitarbeiter: vertiefter Berufsrechts-Skill für Notare; prüft Mitarbeiter im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

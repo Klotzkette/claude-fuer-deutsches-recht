@@ -7,7 +7,7 @@ description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: e
 
 ## Arbeitsbereich
 
-Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

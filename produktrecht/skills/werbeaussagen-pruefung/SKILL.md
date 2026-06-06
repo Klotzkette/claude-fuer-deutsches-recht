@@ -1,13 +1,13 @@
 ---
 name: werbeaussagen-pruefung
-description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer \'Werbetext prüfen\', \'Marketingaussagen freigeben\', \'UWG-Prüfung\', \'Health Claims\', \'klimaneutral prüfen\' oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer 'Werbetext prüfen', 'Marketingaussagen freigeben', 'UWG-Prüfung', 'Health Claims', 'klimaneutral prüfen' oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)
 
 ## Arbeitsbereich
 
-Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen", "Marketingaussagen freigeben", "UWG-Prüfung", "Health Claims", "klimaneutral prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen", "Marketingaussagen freigeben", "UWG-Prüfung", "Health Claims", "klimaneutral prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

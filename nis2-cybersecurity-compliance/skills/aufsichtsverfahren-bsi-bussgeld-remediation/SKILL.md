@@ -7,7 +7,7 @@ description: "Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen im Nis2 Cyb
 
 ## Arbeitsbereich
 
-Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

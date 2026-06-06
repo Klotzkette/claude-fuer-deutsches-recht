@@ -7,7 +7,7 @@ description: "Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienst
 
 ## Arbeitsbereich
 
-Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

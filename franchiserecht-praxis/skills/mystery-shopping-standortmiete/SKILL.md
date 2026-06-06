@@ -7,7 +7,7 @@ description: "Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisver
 
 ## Arbeitsbereich
 
-Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

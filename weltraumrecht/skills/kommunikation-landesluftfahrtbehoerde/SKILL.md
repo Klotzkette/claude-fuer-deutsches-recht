@@ -7,7 +7,7 @@ description: "Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren
 
 ## Arbeitsbereich
 
-Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

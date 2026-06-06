@@ -7,7 +7,7 @@ description: "Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility un
 
 ## Arbeitsbereich
 
-Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

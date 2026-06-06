@@ -7,10 +7,10 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-**Klage Vereinfachtes Klageerwiderung ZPO** ordnet den Fall über die tragenden Prüffelder: Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Klage Vereinfachtes Klageerwiderung ZPO** führt durch die falltragenden Prüfungslinien: Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `klage-vereinfachtes-verfahren-495a-zpo` | Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt. |
 | `klageerwiderung-fristen-274-zpo` | Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts. |
@@ -23,7 +23,7 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `klage-vereinfachtes-verfahren-495a-zpo`
 

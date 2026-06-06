@@ -7,7 +7,7 @@ description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des 
 
 ## Arbeitsbereich
 
-Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hin
 
 ## Arbeitsbereich
 
-Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

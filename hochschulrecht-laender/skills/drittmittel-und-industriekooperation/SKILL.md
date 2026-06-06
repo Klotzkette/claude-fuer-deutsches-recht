@@ -7,7 +7,7 @@ description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im
 
 ## Arbeitsbereich
 
-Prüft Drittmittel, Forschungskooperation und Industrieeinfluss. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Drittmittel, Forschungskooperation und Industrieeinfluss. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

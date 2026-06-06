@@ -7,7 +7,7 @@ description: "Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache 
 
 ## Arbeitsbereich
 
-Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

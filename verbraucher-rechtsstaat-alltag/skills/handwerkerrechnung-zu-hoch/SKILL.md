@@ -7,7 +7,7 @@ description: "Handwerkerrechnung zu hoch: führt Laien durch Werkvertrag, Kosten
 
 ## Arbeitsbereich
 
-Handwerkerrechnung zu hoch: führt Laien durch Werkvertrag, Kostenvoranschlag, Stundenlohnzettel, Nachtrag und mangelhafte Ausführung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handwerkerrechnung zu hoch: führt Laien durch Werkvertrag, Kostenvoranschlag, Stundenlohnzettel, Nachtrag und mangelhafte Ausführung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

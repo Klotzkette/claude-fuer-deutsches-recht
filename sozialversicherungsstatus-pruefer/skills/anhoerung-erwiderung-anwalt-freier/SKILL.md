@@ -7,7 +7,7 @@ description: "Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beit
 
 ## Arbeitsbereich
 
-Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

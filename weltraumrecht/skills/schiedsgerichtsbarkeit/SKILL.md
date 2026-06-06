@@ -7,7 +7,7 @@ description: "Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA,
 
 ## Arbeitsbereich
 
-Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

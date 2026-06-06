@@ -7,7 +7,7 @@ description: "Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgebe
 
 ## Arbeitsbereich
 
-Prüft E-Discovery und Forensik im deutschen Rahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft E-Discovery und Forensik im deutschen Rahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

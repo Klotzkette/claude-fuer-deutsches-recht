@@ -7,7 +7,7 @@ description: "Prueft post-recognition relief, cooperation, entrustment, asset tu
 
 ## Arbeitsbereich
 
-Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

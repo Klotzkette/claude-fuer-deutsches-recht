@@ -7,7 +7,7 @@ description: "Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, L�
 
 ## Arbeitsbereich
 
-Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

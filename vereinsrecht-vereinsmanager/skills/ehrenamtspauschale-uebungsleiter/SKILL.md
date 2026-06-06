@@ -7,7 +7,7 @@ description: "Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, K
 
 ## Arbeitsbereich
 
-Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

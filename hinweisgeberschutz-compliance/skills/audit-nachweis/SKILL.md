@@ -7,7 +7,7 @@ description: "Baut Audit-Nachweis für das Hinweisgebersystem im Hinweisgebersch
 
 ## Arbeitsbereich
 
-Baut Audit-Nachweis für das Hinweisgebersystem. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Audit-Nachweis für das Hinweisgebersystem. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

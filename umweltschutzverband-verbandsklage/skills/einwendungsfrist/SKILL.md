@@ -7,7 +7,7 @@ description: "Umweltschutzverband Verbandsklage: Einwendungsfrist und Präklusio
 
 ## Arbeitsbereich
 
-Umweltschutzverband Verbandsklage: Einwendungsfrist und Präklusion. Einwendungsfrist und Präklusion im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltschutzverband Verbandsklage: Einwendungsfrist und Präklusion. Einwendungsfrist und Präklusion im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung 
 
 ## Arbeitsbereich
 
-Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

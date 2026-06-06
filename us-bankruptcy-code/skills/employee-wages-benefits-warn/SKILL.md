@@ -7,7 +7,7 @@ description: "Prueft wage priority, benefits, WARN Act exposure, employee claims
 
 ## Arbeitsbereich
 
-Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

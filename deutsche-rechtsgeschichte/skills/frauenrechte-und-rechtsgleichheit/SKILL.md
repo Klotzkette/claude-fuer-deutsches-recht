@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rech
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

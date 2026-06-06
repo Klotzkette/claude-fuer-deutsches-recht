@@ -7,7 +7,7 @@ description: "Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume u
 
 ## Arbeitsbereich
 
-Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

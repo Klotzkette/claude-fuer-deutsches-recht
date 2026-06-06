@@ -7,7 +7,7 @@ description: "Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspr
 
 ## Arbeitsbereich
 
-Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

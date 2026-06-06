@@ -7,7 +7,7 @@ description: "Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63
 
 ## Arbeitsbereich
 
-Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63 BDG, Prognose der Entfernung, Härteprüfung, Anhörung, Eilrechtsschutz und Nachzahlungsrisiko. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorläufige Dienstenthebung und Bezügeeinbehalt: § 38 BDG, § 63 BDG, Prognose der Entfernung, Härteprüfung, Anhörung, Eilrechtsschutz und Nachzahlungsrisiko. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

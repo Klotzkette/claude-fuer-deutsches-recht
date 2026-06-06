@@ -7,7 +7,7 @@ description: "Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI 
 
 ## Arbeitsbereich
 
-Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

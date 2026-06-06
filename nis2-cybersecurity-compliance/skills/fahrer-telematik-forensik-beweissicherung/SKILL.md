@@ -7,7 +7,7 @@ description: "Prüft Telematik in Fuhrpark und Logistik im Nis2 Cybersecurity Co
 
 ## Arbeitsbereich
 
-Prüft Telematik in Fuhrpark und Logistik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Telematik in Fuhrpark und Logistik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

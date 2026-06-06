@@ -7,7 +7,7 @@ description: "Prueft Chapter 13 discharge, hardship discharge, exceptions, plan 
 
 ## Arbeitsbereich
 
-Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

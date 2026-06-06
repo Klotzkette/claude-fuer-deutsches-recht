@@ -7,7 +7,7 @@ description: "Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.202
 
 ## Arbeitsbereich
 
-Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

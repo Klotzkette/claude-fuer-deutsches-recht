@@ -7,7 +7,7 @@ description: "Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behör
 
 ## Arbeitsbereich
 
-Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behörden, Händler, Kundenkommunikation, Presse, Plattformen und Lessons Learned. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behörden, Händler, Kundenkommunikation, Presse, Plattformen und Lessons Learned. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreib
 
 ## Arbeitsbereich
 
-Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

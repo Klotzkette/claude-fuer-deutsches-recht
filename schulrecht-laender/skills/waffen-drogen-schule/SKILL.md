@@ -7,7 +7,7 @@ description: "Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei u
 
 ## Arbeitsbereich
 
-Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

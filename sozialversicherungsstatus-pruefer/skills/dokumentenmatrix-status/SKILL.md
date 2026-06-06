@@ -7,7 +7,7 @@ description: "Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung,
 
 ## Arbeitsbereich
 
-Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

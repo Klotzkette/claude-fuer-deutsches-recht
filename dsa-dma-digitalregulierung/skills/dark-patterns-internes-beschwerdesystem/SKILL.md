@@ -7,7 +7,7 @@ description: "Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrend
 
 ## Arbeitsbereich
 
-Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review fuer Plattformen mit konkreten Aenderungsvorschlaegen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review fuer Plattformen mit konkreten Aenderungsvorschlaegen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

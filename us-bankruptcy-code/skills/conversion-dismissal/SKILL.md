@@ -7,7 +7,7 @@ description: "Prueft conversion/dismissal across chapters, cause, best interests
 
 ## Arbeitsbereich
 
-Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

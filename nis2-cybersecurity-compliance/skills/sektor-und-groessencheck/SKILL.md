@@ -7,7 +7,7 @@ description: "Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein
 
 ## Arbeitsbereich
 
-Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft allowance/disallowance, objections, estimation, contingent/
 
 ## Arbeitsbereich
 
-Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

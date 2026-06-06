@@ -7,7 +7,7 @@ description: "Vertragspartner bestreitet Schriftform wegen fehlender oder unzure
 
 ## Arbeitsbereich
 
-Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift unter dem Text. BGH-Linie. Output: Schriftform-Prüfung und Empfehlung für Vertragspartner. Abgrenzung zu elektronische-form-paragraph-126a-bgb-qes (qES) und textform-paragraph-126b-bgb-dauerhafter-datentraeger. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift unter dem Text. BGH-Linie. Output: Schriftform-Prüfung und Empfehlung für Vertragspartner. Abgrenzung zu elektronische-form-paragraph-126a-bgb-qes (qES) und textform-paragraph-126b-bgb-dauerhafter-datentraeger. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

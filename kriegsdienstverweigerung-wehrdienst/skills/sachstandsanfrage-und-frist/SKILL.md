@@ -7,7 +7,7 @@ description: "Formuliert gezielte Sachstandsanfragen vor Eskalation in § 75 VwG
 
 ## Arbeitsbereich
 
-Formuliert gezielte Sachstandsanfragen vor Eskalation in § 75 VwGO. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert gezielte Sachstandsanfragen vor Eskalation in § 75 VwGO. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

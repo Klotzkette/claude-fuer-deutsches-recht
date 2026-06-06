@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewe
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

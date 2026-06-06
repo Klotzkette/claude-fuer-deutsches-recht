@@ -7,7 +7,7 @@ description: "Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, n
 
 ## Arbeitsbereich
 
-Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

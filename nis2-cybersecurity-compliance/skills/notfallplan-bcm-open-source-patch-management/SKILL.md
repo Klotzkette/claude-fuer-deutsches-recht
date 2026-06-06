@@ -7,7 +7,7 @@ description: "Prüft Notfallmanagement und Business Continuity für echte Betrie
 
 ## Arbeitsbereich
 
-Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft first-day relief: cash management, wages, taxes, insurance,
 
 ## Arbeitsbereich
 
-Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

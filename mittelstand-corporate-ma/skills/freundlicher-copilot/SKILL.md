@@ -7,7 +7,7 @@ description: "Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begle
 
 ## Arbeitsbereich
 
-Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

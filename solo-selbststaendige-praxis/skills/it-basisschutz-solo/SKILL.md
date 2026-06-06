@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: erstellt Mindeststandard für Passwortmanage
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

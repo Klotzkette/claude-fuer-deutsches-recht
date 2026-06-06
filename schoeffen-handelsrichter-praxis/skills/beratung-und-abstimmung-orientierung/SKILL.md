@@ -7,7 +7,7 @@ description: "Beratung und Abstimmung (Orientierung): hilft ehrenamtlichen Richt
 
 ## Arbeitsbereich
 
-Beratung und Abstimmung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beratung und Abstimmung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

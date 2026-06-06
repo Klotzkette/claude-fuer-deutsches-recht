@@ -7,7 +7,7 @@ description: "Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendi
 
 ## Arbeitsbereich
 
-Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendig ist fuer Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zustaendigkeits-Vermerk fuer Slot-Rechtsstreit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendig ist fuer Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zustaendigkeits-Vermerk fuer Slot-Rechtsstreit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

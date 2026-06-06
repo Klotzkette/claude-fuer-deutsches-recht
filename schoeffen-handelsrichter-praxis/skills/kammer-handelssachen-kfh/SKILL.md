@@ -7,7 +7,7 @@ description: "Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zust
 
 ## Arbeitsbereich
 
-Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zuständigkeit, wirtschaftliche Expertise, Beratung und Vergleichsdynamik für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter in der Kammer für Handelssachen: erklärt KfH-Zuständigkeit, wirtschaftliche Expertise, Beratung und Vergleichsdynamik für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

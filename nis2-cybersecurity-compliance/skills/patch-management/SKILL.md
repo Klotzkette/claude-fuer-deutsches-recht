@@ -7,7 +7,7 @@ description: "Prüft Patch-Management bei Servern, Clients, Cloud und OT im Nis2
 
 ## Arbeitsbereich
 
-Prüft Patch-Management bei Servern, Clients, Cloud und OT. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Patch-Management bei Servern, Clients, Cloud und OT. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

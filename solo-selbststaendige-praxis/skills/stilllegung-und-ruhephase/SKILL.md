@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versi
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

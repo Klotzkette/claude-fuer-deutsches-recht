@@ -7,7 +7,7 @@ description: "First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Sc
 
 ## Arbeitsbereich
 
-First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

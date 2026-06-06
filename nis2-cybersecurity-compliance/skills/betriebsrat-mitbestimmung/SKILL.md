@@ -7,7 +7,7 @@ description: "Prüft Betriebsrat bei Security-Tools und Überwachung im Nis2 Cyb
 
 ## Arbeitsbereich
 
-Prüft Betriebsrat bei Security-Tools und Überwachung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Betriebsrat bei Security-Tools und Überwachung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

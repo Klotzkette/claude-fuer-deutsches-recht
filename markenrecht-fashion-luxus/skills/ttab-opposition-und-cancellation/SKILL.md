@@ -7,7 +7,7 @@ description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke
 
 ## Arbeitsbereich
 
-TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

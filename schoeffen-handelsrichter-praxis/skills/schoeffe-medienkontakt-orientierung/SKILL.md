@@ -7,7 +7,7 @@ description: "Schöffe und Medienkontakt (Orientierung): hilft ehrenamtlichen Ri
 
 ## Arbeitsbereich
 
-Schöffe und Medienkontakt (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schöffe und Medienkontakt (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

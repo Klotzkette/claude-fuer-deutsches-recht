@@ -7,7 +7,7 @@ description: "Skill zur Anerkennung der posttraumatischen Belastungsstoerung als
 
 ## Arbeitsbereich
 
-Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Anerkennung der posttraumatischen Belastungsstoerung als Dienstunfall bei Polizei Justizvollzug Feuerwehr und Soldaten. Klaert die Anforderungen an die Glaubhaftmachung eines auslosenden Ereignisses die Anforderungen an den Kausalitaetsnachweis bei psychiatrischer Diagnose nach ICD-10 oder DSM-5 sowie die Konstellation Mehrfachbelastung durch wiederkehrende Einsaetze. Behandelt das Verhaeltnis zur Berufskrankheit nach § 31 BeamtVG und den Sonderfall Einsatzunfall bei Auslandsverwendung. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

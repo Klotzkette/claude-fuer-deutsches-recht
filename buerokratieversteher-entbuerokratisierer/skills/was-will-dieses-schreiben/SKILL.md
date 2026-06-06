@@ -7,7 +7,7 @@ description: "Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bi
 
 ## Arbeitsbereich
 
-Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst?. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst?. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

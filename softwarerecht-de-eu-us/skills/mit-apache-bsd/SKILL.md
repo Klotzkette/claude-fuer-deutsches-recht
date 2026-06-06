@@ -7,7 +7,7 @@ description: "Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Att
 
 ## Arbeitsbereich
 
-Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Attribution und Haftungsausschlüsse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Attribution und Haftungsausschlüsse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

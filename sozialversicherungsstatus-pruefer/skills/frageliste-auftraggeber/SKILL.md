@@ -7,7 +7,7 @@ description: "Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statuspr
 
 ## Arbeitsbereich
 
-Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

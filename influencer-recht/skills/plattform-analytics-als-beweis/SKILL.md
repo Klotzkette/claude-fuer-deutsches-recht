@@ -7,7 +7,7 @@ description: "Influencer-Recht: Plattform-Analytics als Beweismittel – Reichwe
 
 ## Arbeitsbereich
 
-Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

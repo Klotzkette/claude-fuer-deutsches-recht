@@ -7,7 +7,7 @@ description: "Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbar
 
 ## Arbeitsbereich
 
-Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

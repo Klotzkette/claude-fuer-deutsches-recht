@@ -7,7 +7,7 @@ description: "Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular ode
 
 ## Arbeitsbereich
 
-Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

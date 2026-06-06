@@ -7,7 +7,7 @@ description: "Prueft individual debtor exemptions, state opt-out, federal exempt
 
 ## Arbeitsbereich
 
-Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

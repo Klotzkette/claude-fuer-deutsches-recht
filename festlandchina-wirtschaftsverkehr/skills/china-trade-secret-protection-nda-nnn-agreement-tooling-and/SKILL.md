@@ -7,7 +7,7 @@ description: "Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (
 
 ## Arbeitsbereich
 
-Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

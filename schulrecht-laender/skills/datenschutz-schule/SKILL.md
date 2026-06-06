@@ -7,7 +7,7 @@ description: "Prüft Datenschutz in Schule, Lernplattform und Elternkommunikatio
 
 ## Arbeitsbereich
 
-Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

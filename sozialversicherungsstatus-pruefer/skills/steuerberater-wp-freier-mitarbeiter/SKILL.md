@@ -7,7 +7,7 @@ description: "Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferka
 
 ## Arbeitsbereich
 
-Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

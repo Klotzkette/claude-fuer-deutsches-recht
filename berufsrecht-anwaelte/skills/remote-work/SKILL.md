@@ -7,7 +7,7 @@ description: "Remote Work: vertiefter Berufsrechts-Skill für Anwälte; prüft R
 
 ## Arbeitsbereich
 
-Remote Work: vertiefter Berufsrechts-Skill für Anwälte; prüft Remote Work im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Remote Work: vertiefter Berufsrechts-Skill für Anwälte; prüft Remote Work im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

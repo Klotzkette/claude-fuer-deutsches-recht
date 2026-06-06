@@ -7,7 +7,7 @@ description: "Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlamen
 
 ## Arbeitsbereich
 
-Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

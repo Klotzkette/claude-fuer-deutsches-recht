@@ -7,7 +7,7 @@ description: "Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen im
 
 ## Arbeitsbereich
 
-Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Rö
 
 ## Arbeitsbereich
 
-Römisches Recht: Pontifikalrecht Kalender und Rechtszugang. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Pontifikalrecht Kalender und Rechtszugang. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

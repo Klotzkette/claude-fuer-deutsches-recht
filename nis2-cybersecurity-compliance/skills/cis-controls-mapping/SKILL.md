@@ -7,7 +7,7 @@ description: "Mappt CIS Controls auf umsetzbare technische Maßnahmen im Nis2 Cy
 
 ## Arbeitsbereich
 
-Mappt CIS Controls auf umsetzbare technische Maßnahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mappt CIS Controls auf umsetzbare technische Maßnahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

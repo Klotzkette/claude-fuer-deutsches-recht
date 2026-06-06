@@ -7,7 +7,7 @@ description: "Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung 
 
 ## Arbeitsbereich
 
-Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des oeffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des oeffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

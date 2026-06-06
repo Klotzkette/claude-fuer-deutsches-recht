@@ -7,7 +7,7 @@ description: "Phishing am Arbeitsplatz: Arbeitnehmer-Haftung fuer durch Phishing
 
 ## Arbeitsbereich
 
-Phishing am Arbeitsplatz: Arbeitnehmer-Haftung fuer durch Phishing verursachten Schaden. Innerbetriebliche Schadensausgleichung (BAG-Rechtsprechung), gestufte Haftung. Empfehlung Schulungspflichten Arbeitgeber. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Phishing am Arbeitsplatz: Arbeitnehmer-Haftung fuer durch Phishing verursachten Schaden. Innerbetriebliche Schadensausgleichung (BAG-Rechtsprechung), gestufte Haftung. Empfehlung Schulungspflichten Arbeitgeber. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

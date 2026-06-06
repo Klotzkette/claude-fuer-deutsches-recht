@@ -7,7 +7,7 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen 
 
 ## Arbeitsbereich
 
-Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

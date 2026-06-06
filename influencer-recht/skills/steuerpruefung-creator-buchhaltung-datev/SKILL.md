@@ -7,7 +7,7 @@ description: "Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator,
 
 ## Arbeitsbereich
 
-Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -30,7 +30,7 @@ Betriebsprüfungen bei Creator richten sich auf typische Schwachstellen:
 
 ### Typische Prüfungsschwerpunkte bei Creator
 
-| Prüffeld | Unterlagen |
+| Prüfungslinie | Unterlagen |
 |----------|-----------|
 | Sachleistungen / PR-Samples | EÜR-Erfassung, Wertbelege |
 | Reisekosten (gemischt) | Reisetagebuch, Aufteilungsrechnung |

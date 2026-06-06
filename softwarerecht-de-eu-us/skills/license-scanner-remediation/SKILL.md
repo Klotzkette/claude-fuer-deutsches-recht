@@ -7,7 +7,7 @@ description: "Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review
 
 ## Arbeitsbereich
 
-Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

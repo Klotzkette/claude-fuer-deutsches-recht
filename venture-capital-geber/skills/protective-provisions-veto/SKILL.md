@@ -7,7 +7,7 @@ description: "Prüft Zustimmungsvorbehalte, Reserved Matters, Budget, Hiring, M&
 
 ## Arbeitsbereich
 
-Prüft Zustimmungsvorbehalte, Reserved Matters, Budget, Hiring, M&A, Debt, IP, Related-Party und Deadlock. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zustimmungsvorbehalte, Reserved Matters, Budget, Hiring, M&A, Debt, IP, Related-Party und Deadlock. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

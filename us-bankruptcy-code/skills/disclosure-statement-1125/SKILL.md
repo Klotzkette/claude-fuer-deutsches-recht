@@ -7,7 +7,7 @@ description: "Prueft adequacy of information, solicitation, plan summary, risk f
 
 ## Arbeitsbereich
 
-Prueft adequacy of information, solicitation, plan summary, risk factors and voting package. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft adequacy of information, solicitation, plan summary, risk factors and voting package. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

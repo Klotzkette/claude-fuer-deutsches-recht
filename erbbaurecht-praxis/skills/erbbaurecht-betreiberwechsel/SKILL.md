@@ -7,7 +7,7 @@ description: "Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung un
 
 ## Arbeitsbereich
 
-Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

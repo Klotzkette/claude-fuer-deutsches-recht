@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: erstellt eine Lagekarte vom Gedankenchaos bi
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: erstellt eine Lagekarte vom Gedankenchaos bis zum konkreten nächsten Schritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: erstellt eine Lagekarte vom Gedankenchaos bis zum konkreten nächsten Schritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Cloudhosting für Meldekanal im Hinweisgeberschutz Complian
 
 ## Arbeitsbereich
 
-Prüft Cloudhosting für Meldekanal. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cloudhosting für Meldekanal. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

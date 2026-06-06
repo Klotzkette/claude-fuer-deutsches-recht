@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Sprachregelungen fuer Kandidierende, Presse
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Sprachregelungen fuer Kandidierende, Presse und Ehrenamt erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Sprachregelungen fuer Kandidierende, Presse und Ehrenamt erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

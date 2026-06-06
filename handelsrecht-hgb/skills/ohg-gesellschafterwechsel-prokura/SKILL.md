@@ -7,7 +7,7 @@ description: "Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registere
 
 ## Arbeitsbereich
 
-Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

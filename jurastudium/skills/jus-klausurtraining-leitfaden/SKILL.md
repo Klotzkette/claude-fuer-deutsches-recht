@@ -7,7 +7,7 @@ description: "Leitfaden Klausurtraining: Sachverhaltsanalyse, Aufbau, Zeitmanage
 
 ## Arbeitsbereich
 
-Leitfaden Klausurtraining: Sachverhaltsanalyse, Aufbau, Zeitmanagement, typische Fehler. Pruefraster fuer Klausurenkurs Z1 / Z2 / Examen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Klausurtraining: Sachverhaltsanalyse, Aufbau, Zeitmanagement, typische Fehler. Pruefraster fuer Klausurenkurs Z1 / Z2 / Examen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

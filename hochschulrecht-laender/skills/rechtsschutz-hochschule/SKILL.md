@@ -7,7 +7,7 @@ description: "Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht im Hoch
 
 ## Arbeitsbereich
 
-Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

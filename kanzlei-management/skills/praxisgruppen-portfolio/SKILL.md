@@ -7,7 +7,7 @@ description: "Bewertet Praxisgruppen nach Wachstum, Marge, Risiko, Reputation un
 
 ## Arbeitsbereich
 
-Bewertet Praxisgruppen nach Wachstum, Marge, Risiko, Reputation und Nachfolge. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet Praxisgruppen nach Wachstum, Marge, Risiko, Reputation und Nachfolge. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Kris
 
 ## Arbeitsbereich
 
-Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behoerde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Pruefraster nach Schwere und Verbreitung. Routet in marktueberwachung-kommunikation und produktrecht-mandat-arbeitsbereich. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behoerde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung. Pruefraster nach Schwere und Verbreitung. Routet in marktueberwachung-kommunikation und produktrecht-mandat-arbeitsbereich. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

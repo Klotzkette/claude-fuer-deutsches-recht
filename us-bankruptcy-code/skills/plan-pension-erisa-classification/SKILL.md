@@ -7,7 +7,7 @@ description: "Prueft pension obligations, PBGC claims, retiree benefits, collect
 
 ## Arbeitsbereich
 
-Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

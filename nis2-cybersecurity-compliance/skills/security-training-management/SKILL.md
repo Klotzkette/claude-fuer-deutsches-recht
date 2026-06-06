@@ -7,7 +7,7 @@ description: "Prüft Security-Schulung der Leitung und Mitarbeitenden im Nis2 Cy
 
 ## Arbeitsbereich
 
-Prüft Security-Schulung der Leitung und Mitarbeitenden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Security-Schulung der Leitung und Mitarbeitenden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

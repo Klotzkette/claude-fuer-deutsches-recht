@@ -7,7 +7,7 @@ description: "PrALR: Normkarte Polizeirecht ohne Anachronismus im Preußisches A
 
 ## Arbeitsbereich
 
-PrALR: Normkarte Polizeirecht ohne Anachronismus. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Normkarte Polizeirecht ohne Anachronismus. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

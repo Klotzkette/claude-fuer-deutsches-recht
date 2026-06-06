@@ -7,7 +7,7 @@ description: "Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne f
 
 ## Arbeitsbereich
 
-Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

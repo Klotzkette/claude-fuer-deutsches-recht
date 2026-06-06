@@ -7,7 +7,7 @@ description: "Informationsaustausch Safe Harbor: Fachmodul für großes Kartellr
 
 ## Arbeitsbereich
 
-Informationsaustausch Safe Harbor: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Informationsaustausch Safe Harbor: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

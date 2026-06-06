@@ -7,7 +7,7 @@ description: "Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktrit
 
 ## Arbeitsbereich
 
-Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktritt und Prüfungsämter. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktritt und Prüfungsämter. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

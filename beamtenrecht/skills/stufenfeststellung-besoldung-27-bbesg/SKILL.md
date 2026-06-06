@@ -7,7 +7,7 @@ description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe n
 
 ## Arbeitsbereich
 
-Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine fuer Widerspruch und Klage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine fuer Widerspruch und Klage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

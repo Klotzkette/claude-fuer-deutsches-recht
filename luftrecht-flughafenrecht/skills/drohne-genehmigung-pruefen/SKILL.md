@@ -7,7 +7,7 @@ description: "Drohnenbetreiber braucht Genehmigung fuer Spezialoperationen oder 
 
 ## Arbeitsbereich
 
-Drohnenbetreiber braucht Genehmigung fuer Spezialoperationen oder hat Betriebsgenehmigung verloren. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a LBA-Genehmigungsverfahren und Specific Category Operational Authorization und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drohnenbetreiber braucht Genehmigung fuer Spezialoperationen oder hat Betriebsgenehmigung verloren. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a LBA-Genehmigungsverfahren und Specific Category Operational Authorization und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

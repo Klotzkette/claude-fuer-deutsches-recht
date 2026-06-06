@@ -7,7 +7,7 @@ description: "Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare 
 
 ## Arbeitsbereich
 
-Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare Partner-/Mandantenmails. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare Partner-/Mandantenmails. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

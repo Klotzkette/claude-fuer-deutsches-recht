@@ -7,7 +7,7 @@ description: "Prüft AirTags und Tracker an LKW, Werkzeugen und Assets im Nis2 C
 
 ## Arbeitsbereich
 
-Prüft AirTags und Tracker an LKW, Werkzeugen und Assets. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft AirTags und Tracker an LKW, Werkzeugen und Assets. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

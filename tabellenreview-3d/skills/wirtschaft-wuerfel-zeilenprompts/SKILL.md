@@ -7,7 +7,7 @@ description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung im Plugin tabell
 
 ## Arbeitsbereich
 
-Wirtschaft: Zahlen, Schwellenwerte und Berechnung im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wirtschaft: Zahlen, Schwellenwerte und Berechnung im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

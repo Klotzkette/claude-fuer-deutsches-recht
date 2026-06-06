@@ -7,7 +7,7 @@ description: "Prüft Netzsegmentierung und Trennung kritischer Systeme im Nis2 C
 
 ## Arbeitsbereich
 
-Prüft Netzsegmentierung und Trennung kritischer Systeme. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Netzsegmentierung und Trennung kritischer Systeme. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

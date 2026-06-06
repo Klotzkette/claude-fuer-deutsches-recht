@@ -7,7 +7,7 @@ description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Rit
 
 ## Arbeitsbereich
 
-Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

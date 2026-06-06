@@ -7,7 +7,7 @@ description: "Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte 
 
 ## Arbeitsbereich
 
-Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

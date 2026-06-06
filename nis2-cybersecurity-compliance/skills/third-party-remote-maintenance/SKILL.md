@@ -7,7 +7,7 @@ description: "Prüft Fernwartung durch Lieferanten und Dienstleister im Nis2 Cyb
 
 ## Arbeitsbereich
 
-Prüft Fernwartung durch Lieferanten und Dienstleister. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Fernwartung durch Lieferanten und Dienstleister. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

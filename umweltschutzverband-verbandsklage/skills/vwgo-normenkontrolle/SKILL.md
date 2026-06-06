@@ -7,7 +7,7 @@ description: "Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 
 
 ## Arbeitsbereich
 
-Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

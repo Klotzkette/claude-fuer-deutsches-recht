@@ -7,7 +7,7 @@ description: "Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren 
 
 ## Arbeitsbereich
 
-Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Gesellschaftsrechtliche Treuepflicht: Gbr Mopeg Treuepflicht; konk
 
 ## Arbeitsbereich
 
-Gesellschaftsrechtliche Treuepflicht: Gbr Mopeg Treuepflicht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschaftsrechtliche Treuepflicht: Gbr Mopeg Treuepflicht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

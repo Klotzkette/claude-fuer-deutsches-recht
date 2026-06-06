@@ -7,7 +7,7 @@ description: "Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Bas
 
 ## Arbeitsbereich
 
-Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gewährleistungsansprüche, Notice-Fristen, De-minimis, Basket, Cap, W&I und Beweisunterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

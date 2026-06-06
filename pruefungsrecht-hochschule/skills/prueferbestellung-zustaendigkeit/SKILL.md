@@ -7,7 +7,7 @@ description: "Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehle
 
 ## Arbeitsbereich
 
-Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Art
 
 ## Arbeitsbereich
 
-Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit fuer Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit fuer Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

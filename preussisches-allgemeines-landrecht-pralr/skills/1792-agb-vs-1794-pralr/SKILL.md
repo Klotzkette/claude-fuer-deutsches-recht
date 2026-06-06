@@ -7,7 +7,7 @@ description: "PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 
 
 ## Arbeitsbereich
 
-PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

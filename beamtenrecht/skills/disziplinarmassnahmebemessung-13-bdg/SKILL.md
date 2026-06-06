@@ -7,7 +7,7 @@ description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und de
 
 ## Arbeitsbereich
 
-Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertrauensverlust Persoenlichkeitsdiagnose und Milderungsgruende. Behandelt die Konstellation Indizwirkung eines Strafurteils und das Verhaeltnis der innerdienstlichen zur ausserdienstlichen Pflichtverletzung. Liefert Bemessungsraster und Verteidigerstrategien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

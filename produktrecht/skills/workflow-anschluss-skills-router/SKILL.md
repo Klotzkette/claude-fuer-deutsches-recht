@@ -7,7 +7,7 @@ description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die pas
 
 ## Arbeitsbereich
 
-Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmod
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld leitet nach Sichtung in passende Produktrechts-Fachmodule weiter: CE-Konformität, Marktüberwachung, Rückruf, Produkthaftungsklage, Lieferketten-Audit.
+Dieser Prüfungslinie leitet nach Sichtung in passende Produktrechts-Fachmodule weiter: CE-Konformität, Marktüberwachung, Rückruf, Produkthaftungsklage, Lieferketten-Audit.
 
 ## Routing nach Fragestellung
 - **CE-Markierung / Konformitätsbewertung:** anwendbare Richtlinien/VO bestimmen, harmonisierte Normen finden (`single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards_en`), Modul (A, B+C, H usw.) nach jeweiliger Richtlinie.

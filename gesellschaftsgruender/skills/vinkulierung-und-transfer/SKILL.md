@@ -7,7 +7,7 @@ description: "Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Jo
 
 ## Arbeitsbereich
 
-Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

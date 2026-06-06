@@ -7,7 +7,7 @@ description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zust�
 
 ## Arbeitsbereich
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haf
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld markiert prozessuale Fristen nach ZPO/FamFG/VwGO/SGG/FGO/StPO und ordnet Risiken nach Eskalationsbedarf (Rot/Gelb/Grün) für die Mandatsakte.
+Dieser Prüfungslinie markiert prozessuale Fristen nach ZPO/FamFG/VwGO/SGG/FGO/StPO und ordnet Risiken nach Eskalationsbedarf (Rot/Gelb/Grün) für die Mandatsakte.
 
 ## Wichtige Fristen ZPO
 - **Klageerwiderung:** Frist durch Gericht gesetzt (§ 277 ZPO), regelmäßig 2-4 Wochen.

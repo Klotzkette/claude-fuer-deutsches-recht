@@ -7,7 +7,7 @@ description: "Ersatzteillager fuer Luftfahrzeuge: unklar welche Behoerde zustaen
 
 ## Arbeitsbereich
 
-Ersatzteillager fuer Luftfahrzeuge: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zustaendigkeits-Vermerk fuer Lager-Genehmigung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ersatzteillager fuer Luftfahrzeuge: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zustaendigkeits-Vermerk fuer Lager-Genehmigung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Gestaltet Meldesystem sprachlich verständlich im Hinweisgeberschu
 
 ## Arbeitsbereich
 
-Gestaltet Meldesystem sprachlich verständlich. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Meldesystem sprachlich verständlich. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

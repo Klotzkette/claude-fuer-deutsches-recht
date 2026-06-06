@@ -7,7 +7,7 @@ description: "Priorisiert Verbesserungen am HinSchG-System im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Priorisiert Verbesserungen am HinSchG-System. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Priorisiert Verbesserungen am HinSchG-System. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

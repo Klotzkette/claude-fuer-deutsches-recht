@@ -7,7 +7,7 @@ description: "Routet deutsche KDV und ausländische Wehrpflichten ohne falsche A
 
 ## Arbeitsbereich
 
-Routet deutsche KDV und ausländische Wehrpflichten ohne falsche Auslandsversprechen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet deutsche KDV und ausländische Wehrpflichten ohne falsche Auslandsversprechen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

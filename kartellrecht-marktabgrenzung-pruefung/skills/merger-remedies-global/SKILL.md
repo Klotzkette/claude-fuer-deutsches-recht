@@ -7,7 +7,7 @@ description: "Merger Remedies global: Fachmodul für großes Kartellrecht mit BK
 
 ## Arbeitsbereich
 
-Merger Remedies global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Merger Remedies global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,10 +7,10 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 
 ## Arbeitsbereich
 
-**Datenschutz Auskunftsersuchen ART Bank** ordnet den Fall über die tragenden Prüffelder: Auskunftsersuchen nach Art, Beweis- und Anspruchsplan bei Konto-, Kredit-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Auskunftsersuchen ART Bank** führt durch die falltragenden Prüfungslinien: Auskunftsersuchen nach Art, Beweis- und Anspruchsplan bei Konto-, Kredit-. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `datenschutz-auskunftsersuchen-art-15-praxis` | Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-fuer-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte fuer Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit). |
 | `datenschutz-bank-ablehnung-score-beweisplan` | Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten. |
@@ -25,7 +25,7 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `datenschutz-auskunftsersuchen-art-15-praxis`
 

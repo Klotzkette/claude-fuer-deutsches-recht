@@ -7,7 +7,7 @@ description: "Prueft asset liquidation, sale, abandoned property, claims waterfa
 
 ## Arbeitsbereich
 
-Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

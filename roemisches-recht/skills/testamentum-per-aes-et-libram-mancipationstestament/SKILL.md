@@ -7,7 +7,7 @@ description: "Testamentum per aes et libram: das mancipationstestament als klass
 
 ## Arbeitsbereich
 
-Testamentum per aes et libram: das mancipationstestament als klassische Form. Skill behandelt das Mancipationsritual familiae emptor heredis institutio Nuncupatio und Verdraengung durch das praetorische Tabula-Testament. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Testamentum per aes et libram: das mancipationstestament als klassische Form. Skill behandelt das Mancipationsritual familiae emptor heredis institutio Nuncupatio und Verdraengung durch das praetorische Tabula-Testament. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

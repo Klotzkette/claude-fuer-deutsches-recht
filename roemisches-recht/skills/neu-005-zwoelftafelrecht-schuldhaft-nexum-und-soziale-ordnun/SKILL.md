@@ -7,7 +7,7 @@ description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Or
 
 ## Arbeitsbereich
 
-Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

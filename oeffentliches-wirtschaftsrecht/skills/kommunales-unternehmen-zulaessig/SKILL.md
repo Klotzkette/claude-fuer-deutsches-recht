@@ -7,7 +7,7 @@ description: "Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. 
 
 ## Arbeitsbereich
 
-Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

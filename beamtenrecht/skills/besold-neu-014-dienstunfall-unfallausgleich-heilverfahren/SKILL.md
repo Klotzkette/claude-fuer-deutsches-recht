@@ -7,7 +7,7 @@ description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamte
 
 ## Arbeitsbereich
 
-Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

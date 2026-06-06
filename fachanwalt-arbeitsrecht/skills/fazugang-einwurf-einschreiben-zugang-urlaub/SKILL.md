@@ -7,10 +7,10 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 
 ## Arbeitsbereich
 
-**Fazugang Einwurf Einschreiben Zugang Urlaub** ordnet den Fall über die tragenden Prüffelder: Einschreiben-Zustellung bei Kündigung, Zugang bei Abwesenheit, Bestreiten des Inhalts eines zugestellten Umschlags. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Fazugang Einwurf Einschreiben Zugang Urlaub** führt durch die falltragenden Prüfungslinien: Einschreiben-Zustellung bei Kündigung, Zugang bei Abwesenheit, Bestreiten des Inhalts eines zugestellten Umschlags. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag` | Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen. |
 | `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands` | Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung. |
@@ -23,7 +23,7 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag`
 

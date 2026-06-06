@@ -7,7 +7,7 @@ description: "Prueft mutuality, prepetition debts, stay implications, recoupment
 
 ## Arbeitsbereich
 
-Prueft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zu
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

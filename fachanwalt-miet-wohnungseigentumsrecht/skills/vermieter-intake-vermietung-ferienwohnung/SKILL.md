@@ -7,16 +7,16 @@ description: "Vermieter Intake Vermietung Ferienwohnung im Miet- und Wohnungseig
 
 ## Arbeitsbereich
 
-**Vermieter Intake Vermietung Ferienwohnung** ordnet den Fall über die tragenden Prüffelder: Vermieter-Intake, Ferienwohnung/Zweckentfremdung, Versicherungen Miete/WEG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vermieter Intake Vermietung Ferienwohnung** führt durch die falltragenden Prüfungslinien: Vermieter-Intake, Ferienwohnung/Zweckentfremdung, Versicherungen Miete/WEG. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-vermieter-intake` | Vermieter-Intake: Prüffeld für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-vermietung-ferienwohnung-routing` | Ferienwohnung/Zweckentfremdung: Prüffeld für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-versicherungen-weg-miete` | Versicherungen Miete/WEG: Prüffeld für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-verwalterhaftung-start` | Verwalterhaftung-Start: Prüffeld für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-wasserschaden-sofort` | Wasserschaden sofort: Prüffeld für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-vermieter-intake` | Vermieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-vermietung-ferienwohnung-routing` | Ferienwohnung/Zweckentfremdung: Prüfungslinie für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-versicherungen-weg-miete` | Versicherungen Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-verwalterhaftung-start` | Verwalterhaftung-Start: Prüfungslinie für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-wasserschaden-sofort` | Wasserschaden sofort: Prüfungslinie für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,11 +25,11 @@ description: "Vermieter Intake Vermietung Ferienwohnung im Miet- und Wohnungseig
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-vermieter-intake`
 
-**Fokus:** Vermieter-Intake: Prüffeld für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Vermieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Vermieter-Intake
 
@@ -42,7 +42,7 @@ description: "Vermieter Intake Vermietung Ferienwohnung im Miet- und Wohnungseig
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-vermietung-ferienwohnung-routing`
 
-**Fokus:** Ferienwohnung/Zweckentfremdung: Prüffeld für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Ferienwohnung/Zweckentfremdung: Prüfungslinie für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Ferienwohnung/Zweckentfremdung
 
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -117,7 +117,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-versicherungen-weg-miete`
 
-**Fokus:** Versicherungen Miete/WEG: Prüffeld für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Versicherungen Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Versicherungen Miete/WEG
 
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -161,7 +161,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-verwalterhaftung-start`
 
-**Fokus:** Verwalterhaftung-Start: Prüffeld für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Verwalterhaftung-Start: Prüfungslinie für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Verwalterhaftung-Start
 
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -205,7 +205,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-wasserschaden-sofort`
 
-**Fokus:** Wasserschaden sofort: Prüffeld für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Wasserschaden sofort: Prüfungslinie für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Wasserschaden sofort
 
@@ -218,7 +218,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

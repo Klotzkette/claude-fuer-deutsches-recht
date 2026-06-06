@@ -7,7 +7,7 @@ description: "Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annul
 
 ## Arbeitsbereich
 
-Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

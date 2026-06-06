@@ -7,7 +7,7 @@ description: "Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verk
 
 ## Arbeitsbereich
 
-Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

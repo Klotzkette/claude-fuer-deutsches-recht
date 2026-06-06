@@ -7,7 +7,7 @@ description: "Routet jeden Schulfall zuerst in das richtige Bundesland und die r
 
 ## Arbeitsbereich
 
-Routet jeden Schulfall zuerst in das richtige Bundesland und die richtige Normebene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet jeden Schulfall zuerst in das richtige Bundesland und die richtige Normebene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

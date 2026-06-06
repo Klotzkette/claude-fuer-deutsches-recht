@@ -7,7 +7,7 @@ description: "Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abge
 
 ## Arbeitsbereich
 
-Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persoenlichen Haftungsbescheid des Finanzamts für Steuerschulden der Gesellschaft in der Krise. Prüfung vorsaetzliche oder grob fahrlässige Pflichtverletzung Kausalität Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persoenlichen Haftungsbescheid des Finanzamts für Steuerschulden der Gesellschaft in der Krise. Prüfung vorsaetzliche oder grob fahrlässige Pflichtverletzung Kausalität Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

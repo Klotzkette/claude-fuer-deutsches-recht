@@ -7,7 +7,7 @@ description: "Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Da
 
 ## Arbeitsbereich
 
-Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

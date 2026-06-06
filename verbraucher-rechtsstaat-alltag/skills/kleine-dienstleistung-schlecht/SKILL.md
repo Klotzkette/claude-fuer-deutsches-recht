@@ -7,7 +7,7 @@ description: "Kleine Dienstleistung schlecht: führt Laien durch Friseur, Reinig
 
 ## Arbeitsbereich
 
-Kleine Dienstleistung schlecht: führt Laien durch Friseur, Reinigung, Coaching, Nachhilfe, Fotoauftrag oder Umzug als kleiner Dienst-/Werkvertrag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kleine Dienstleistung schlecht: führt Laien durch Friseur, Reinigung, Coaching, Nachhilfe, Fotoauftrag oder Umzug als kleiner Dienst-/Werkvertrag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

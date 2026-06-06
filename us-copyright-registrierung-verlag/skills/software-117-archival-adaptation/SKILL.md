@@ -7,7 +7,7 @@ description: "Prueft Computerprogrammkopien, essential step, archival copy, main
 
 ## Arbeitsbereich
 
-Prueft Computerprogrammkopien, essential step, archival copy, maintenance, migration, SaaS und Lizenzgrenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Computerprogrammkopien, essential step, archival copy, maintenance, migration, SaaS und Lizenzgrenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

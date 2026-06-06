@@ -7,7 +7,7 @@ description: "Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksam
 
 ## Arbeitsbereich
 
-Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen fuer Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verzahnt einzelne NKR-Stellungnahmen mit der oeffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen fuer Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

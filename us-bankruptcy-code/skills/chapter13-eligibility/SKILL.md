@@ -7,7 +7,7 @@ description: "Prueft Chapter 13 debt limits, regular income, individual-only req
 
 ## Arbeitsbereich
 
-Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

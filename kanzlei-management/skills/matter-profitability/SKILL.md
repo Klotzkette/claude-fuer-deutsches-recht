@@ -7,7 +7,7 @@ description: "Berechnet Mandatsprofitabilität aus Rate, Staffing, Realization u
 
 ## Arbeitsbereich
 
-Berechnet Mandatsprofitabilität aus Rate, Staffing, Realization und Write-offs. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berechnet Mandatsprofitabilität aus Rate, Staffing, Realization und Write-offs. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

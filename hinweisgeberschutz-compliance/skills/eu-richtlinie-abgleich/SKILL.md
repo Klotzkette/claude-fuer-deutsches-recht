@@ -7,7 +7,7 @@ description: "Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hi
 
 ## Arbeitsbereich
 
-Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

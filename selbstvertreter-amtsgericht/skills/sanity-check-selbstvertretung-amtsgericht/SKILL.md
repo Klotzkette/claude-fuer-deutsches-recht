@@ -20,7 +20,7 @@ Dieser Skill ist die letzte Kontrolle, bevor ein Bürger ohne Anwalt etwas beim 
 
 ## Prüfmatrix
 
-| Prüffeld | Kernfrage | Ampel |
+| Prüfungslinie | Kernfrage | Ampel |
 |---|---|---|
 | Frist | Gibt es eine Notfrist, gerichtliche Frist, Verjährung oder Zustellungsfrage? | Rot/Gelb/Grün |
 | Gericht | Ist das Amtsgericht sachlich und örtlich zuständig? | Rot/Gelb/Grün |

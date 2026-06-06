@@ -7,7 +7,7 @@ description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrech
 
 ## Arbeitsbereich
 
-Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

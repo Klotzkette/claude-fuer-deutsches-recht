@@ -7,7 +7,7 @@ description: "Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Date
 
 ## Arbeitsbereich
 
-Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

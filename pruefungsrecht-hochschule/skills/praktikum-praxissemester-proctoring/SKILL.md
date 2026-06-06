@@ -7,7 +7,7 @@ description: "Prüft Praktikum, Praxissemester und Anerkennung im Pruefungsrecht
 
 ## Arbeitsbereich
 
-Prüft Praktikum, Praxissemester und Anerkennung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Praktikum, Praxissemester und Anerkennung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

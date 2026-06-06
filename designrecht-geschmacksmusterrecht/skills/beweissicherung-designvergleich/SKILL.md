@@ -7,7 +7,7 @@ description: "Beweissicherung für Designvergleich organisieren: Testkauf, Fotos
 
 ## Arbeitsbereich
 
-Beweissicherung für Designvergleich organisieren: Testkauf, Fotos, Maßstab, Winkel, Zeuge, Hash, Screenshot, Zeitstempel und Produktaufbewahrung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beweissicherung für Designvergleich organisieren: Testkauf, Fotos, Maßstab, Winkel, Zeuge, Hash, Screenshot, Zeitstempel und Produktaufbewahrung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

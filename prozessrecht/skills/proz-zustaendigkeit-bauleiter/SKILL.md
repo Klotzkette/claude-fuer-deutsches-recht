@@ -7,7 +7,7 @@ description: "Bauleiter Zustaendigkeit ZPO: sachlich, oertlich, funktionell, int
 
 ## Arbeitsbereich
 
-Bauleiter Zustaendigkeit ZPO: sachlich, oertlich, funktionell, internationale Zustaendigkeit. Pruefraster typische Klagearten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Zustaendigkeit ZPO: sachlich, oertlich, funktionell, internationale Zustaendigkeit. Pruefraster typische Klagearten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs
 
 ## Arbeitsbereich
 
-Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

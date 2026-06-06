@@ -7,7 +7,7 @@ description: "Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitsc
 
 ## Arbeitsbereich
 
-Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

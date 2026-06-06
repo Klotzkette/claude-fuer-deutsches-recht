@@ -7,7 +7,7 @@ description: "Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem 
 
 ## Arbeitsbereich
 
-Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

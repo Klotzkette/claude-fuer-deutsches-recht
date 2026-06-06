@@ -7,10 +7,10 @@ description: "Unternehmerversorgung Gesellschafter im Plugin Fachanwalt Familien
 
 ## Arbeitsbereich
 
-**Unternehmerversorgung Gesellschafter** ordnet den Fall über die tragenden Prüffelder: Unternehmerversorgung Gesellschafter-Geschäftsführer, Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzliche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Unternehmerversorgung Gesellschafter** führt durch die falltragenden Prüfungslinien: Unternehmerversorgung Gesellschafter-Geschäftsführer, Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzliche. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `unternehmerversorgung-gesellschafter-geschaeftsfuehrer` | Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `versorgungsausgleich-totalrevision-und-tod` | Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur. |
@@ -25,7 +25,7 @@ description: "Unternehmerversorgung Gesellschafter im Plugin Fachanwalt Familien
 - Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `unternehmerversorgung-gesellschafter-geschaeftsfuehrer`
 

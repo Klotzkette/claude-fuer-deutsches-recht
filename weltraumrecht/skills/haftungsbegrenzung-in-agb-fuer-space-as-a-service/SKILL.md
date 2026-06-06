@@ -7,7 +7,7 @@ description: "Space-as-a-Service-AGB – Haftungsbegrenzung, Inhaltskontrolle, B
 
 ## Arbeitsbereich
 
-Space-as-a-Service-AGB – Haftungsbegrenzung, Inhaltskontrolle, B2B vs. B2C. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Space-as-a-Service-AGB – Haftungsbegrenzung, Inhaltskontrolle, B2B vs. B2C. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Gewerberecht: Beweis rügen im Ordnungswidrigkeitenrecht: prüft k
 
 ## Arbeitsbereich
 
-Spezialthema **Gewerberecht Beweis Ruegen** im Ordnungswidrigkeitenrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Gewerberecht Beweis Ruegen** im Ordnungswidrigkeitenrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

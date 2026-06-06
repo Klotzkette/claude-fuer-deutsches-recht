@@ -7,7 +7,7 @@ description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht 
 
 ## Arbeitsbereich
 
-Prüft Promotion, Annahme, Betreuung und Entzug. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Promotion, Annahme, Betreuung und Entzug. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

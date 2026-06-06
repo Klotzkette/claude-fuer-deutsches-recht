@@ -7,7 +7,7 @@ description: "Prüft technische Fehler in Online-Prüfungen im Pruefungsrecht Ho
 
 ## Arbeitsbereich
 
-Prüft technische Fehler in Online-Prüfungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft technische Fehler in Online-Prüfungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

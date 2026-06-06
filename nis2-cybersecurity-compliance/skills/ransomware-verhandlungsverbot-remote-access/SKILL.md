@@ -7,7 +7,7 @@ description: "Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen im Nis2
 
 ## Arbeitsbereich
 
-Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

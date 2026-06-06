@@ -7,7 +7,7 @@ description: "Überarbeitet persönliche Begründung sprachlich, ohne sie zu sta
 
 ## Arbeitsbereich
 
-Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

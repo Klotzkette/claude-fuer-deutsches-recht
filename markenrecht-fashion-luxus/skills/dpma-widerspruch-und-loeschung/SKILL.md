@@ -7,7 +7,7 @@ description: "DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen
 
 ## Arbeitsbereich
 
-DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Prüfraster: Widerspruchsgrund, Benutzungsnachweis, Verwechslungsgefahr-Prüfung, Frist 3 Monate ab Eintragung. Output Widerspruchsschrift oder Löschungsantrag mit Begründung. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; Verletzungsabmahnung siehe abmahnung-markenrecht-uwg. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Prüfraster: Widerspruchsgrund, Benutzungsnachweis, Verwechslungsgefahr-Prüfung, Frist 3 Monate ab Eintragung. Output Widerspruchsschrift oder Löschungsantrag mit Begründung. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; Verletzungsabmahnung siehe abmahnung-markenrecht-uwg. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahm
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

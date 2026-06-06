@@ -7,7 +7,7 @@ description: "Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulre
 
 ## Arbeitsbereich
 
-Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

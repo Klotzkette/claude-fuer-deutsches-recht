@@ -7,7 +7,7 @@ description: "Prüft, ob eine eG statt GmbH/GbR sinnvoll ist im Gesellschaftsgru
 
 ## Arbeitsbereich
 
-Prüft, ob eine eG statt GmbH/GbR sinnvoll ist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob eine eG statt GmbH/GbR sinnvoll ist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

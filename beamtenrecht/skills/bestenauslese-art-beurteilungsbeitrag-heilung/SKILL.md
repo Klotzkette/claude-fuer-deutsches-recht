@@ -7,7 +7,7 @@ description: "Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachli
 
 ## Arbeitsbereich
 
-Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestenauslese nach Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung, Anforderungsprofil und Auswahlvermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

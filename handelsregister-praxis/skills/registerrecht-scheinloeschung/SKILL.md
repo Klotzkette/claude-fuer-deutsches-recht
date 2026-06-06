@@ -7,7 +7,7 @@ description: "Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliqui
 
 ## Arbeitsbereich
 
-Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvol
 
 ## Arbeitsbereich
 
-Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

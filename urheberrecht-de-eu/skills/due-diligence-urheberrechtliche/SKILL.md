@@ -7,7 +7,7 @@ description: "Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform,
 
 ## Arbeitsbereich
 
-Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

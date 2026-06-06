@@ -7,7 +7,7 @@ description: "Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung 
 
 ## Arbeitsbereich
 
-Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

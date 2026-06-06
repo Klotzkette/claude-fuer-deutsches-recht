@@ -7,7 +7,7 @@ description: "Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, 
 
 ## Arbeitsbereich
 
-Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,10 +7,10 @@ description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft 
 
 ## Arbeitsbereich
 
-**Orphan Atmp Pathologie Probenverwechslung** ordnet den Fall über die tragenden Prüffelder: Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Orphan Atmp Pathologie Probenverwechslung** führt durch die falltragenden Prüfungslinien: Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `orphan-atmp-zugang` | Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerdaten und Kostenträgerstrategie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `pathologie-probenverwechslung` | Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custody und falsche Krebsdiagnose. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
@@ -24,7 +24,7 @@ description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft 
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `orphan-atmp-zugang`
 

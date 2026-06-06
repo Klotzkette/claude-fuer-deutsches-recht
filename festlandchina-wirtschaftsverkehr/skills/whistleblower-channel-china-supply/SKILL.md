@@ -7,7 +7,7 @@ description: "Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindes
 
 ## Arbeitsbereich
 
-Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

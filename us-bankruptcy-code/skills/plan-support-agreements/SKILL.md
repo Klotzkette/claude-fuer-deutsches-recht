@@ -7,7 +7,7 @@ description: "Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, so
 
 ## Arbeitsbereich
 
-Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

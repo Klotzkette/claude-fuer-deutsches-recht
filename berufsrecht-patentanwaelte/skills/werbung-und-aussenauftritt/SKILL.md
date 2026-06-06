@@ -7,7 +7,7 @@ description: "Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Pat
 
 ## Arbeitsbereich
 
-Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

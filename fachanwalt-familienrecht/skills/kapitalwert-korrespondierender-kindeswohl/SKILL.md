@@ -7,10 +7,10 @@ description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Fam
 
 ## Arbeitsbereich
 
-**Kapitalwert Korrespondierender Kindeswohl** ordnet den Fall über die tragenden Prüffelder: Kapitalwert korrespondierender Kapitalwert prüfen, Hochkonflikt und Wechselmodell, Kirchliche Zusatzversorgung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kapitalwert Korrespondierender Kindeswohl** führt durch die falltragenden Prüfungslinien: Kapitalwert korrespondierender Kapitalwert prüfen, Hochkonflikt und Wechselmodell, Kirchliche Zusatzversorgung. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `kapitalwert-korrespondierender-kapitalwert-pruefen` | Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `kindeswohl-hochkonflikt-wechselmodell` | Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
@@ -25,7 +25,7 @@ description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Fam
 - Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `kapitalwert-korrespondierender-kapitalwert-pruefen`
 

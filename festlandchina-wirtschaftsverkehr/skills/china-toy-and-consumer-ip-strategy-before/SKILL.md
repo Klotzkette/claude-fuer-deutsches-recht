@@ -7,7 +7,7 @@ description: "Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/
 
 ## Arbeitsbereich
 
-Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China und Muster-Konformitätserklärung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China und Muster-Konformitätserklärung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

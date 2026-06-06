@@ -7,7 +7,7 @@ description: "Gestaltet Projektbeschreibungen, Deliverables und Abnahme so, dass
 
 ## Arbeitsbereich
 
-Gestaltet Projektbeschreibungen, Deliverables und Abnahme so, dass echte Selbständigkeit belegbar wird. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Projektbeschreibungen, Deliverables und Abnahme so, dass echte Selbständigkeit belegbar wird. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Template Library Governance: steuert Mustertexte, Klauseln, Schrif
 
 ## Arbeitsbereich
 
-Template Library Governance: steuert Mustertexte, Klauseln, Schriftsatzbausteine, Freigaben und Aktualitätscheck verwalten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Template Library Governance: steuert Mustertexte, Klauseln, Schriftsatzbausteine, Freigaben und Aktualitätscheck verwalten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

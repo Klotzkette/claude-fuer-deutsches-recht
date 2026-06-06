@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsve
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsvergleich, Kostenschätzung, Bedarfsplanung, Förderfähigkeit und Entscheidungsvorlage für Bauherrn oder öffentlichen Auftraggeber prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsvergleich, Kostenschätzung, Bedarfsplanung, Förderfähigkeit und Entscheidungsvorlage für Bauherrn oder öffentlichen Auftraggeber prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Hilft bei Zwischenverfügung/Registerbeanstandung nach Gründung o
 
 ## Arbeitsbereich
 
-Hilft bei Zwischenverfügung/Registerbeanstandung nach Gründung oder Änderung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Zwischenverfügung/Registerbeanstandung nach Gründung oder Änderung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

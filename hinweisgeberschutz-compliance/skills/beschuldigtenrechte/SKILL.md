@@ -7,7 +7,7 @@ description: "Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen im
 
 ## Arbeitsbereich
 
-Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

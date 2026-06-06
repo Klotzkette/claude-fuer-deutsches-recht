@@ -7,7 +7,7 @@ description: "Prueft effective date conditions, funding, releases, corporate act
 
 ## Arbeitsbereich
 
-Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Spezialwerkstatt für Reservisten mit früherem Dienst und aktuell
 
 ## Arbeitsbereich
 
-Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

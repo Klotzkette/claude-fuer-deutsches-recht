@@ -7,7 +7,7 @@ description: "Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise un
 
 ## Arbeitsbereich
 
-Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

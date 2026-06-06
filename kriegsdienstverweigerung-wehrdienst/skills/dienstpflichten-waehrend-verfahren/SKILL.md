@@ -7,7 +7,7 @@ description: "Minimiert Disziplinarrisiken während laufendem KDV-Antrag im Krie
 
 ## Arbeitsbereich
 
-Minimiert Disziplinarrisiken während laufendem KDV-Antrag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Minimiert Disziplinarrisiken während laufendem KDV-Antrag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

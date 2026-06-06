@@ -7,7 +7,7 @@ description: "Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folge
 
 ## Arbeitsbereich
 
-Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abgrenzung Beamte zu Tarifbeschäftigten nach TVöD/TV-L und Folgen für Rechtsschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

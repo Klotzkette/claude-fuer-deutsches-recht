@@ -7,7 +7,7 @@ description: "Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und 
 
 ## Arbeitsbereich
 
-Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

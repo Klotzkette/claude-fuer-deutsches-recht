@@ -7,7 +7,7 @@ description: "Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preiss
 
 ## Arbeitsbereich
 
-Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preissteuerung und Rentenversicherungspflicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preissteuerung und Rentenversicherungspflicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

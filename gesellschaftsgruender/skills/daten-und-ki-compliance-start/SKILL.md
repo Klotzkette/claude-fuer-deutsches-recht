@@ -7,7 +7,7 @@ description: "Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Grün
 
 ## Arbeitsbereich
 
-Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Bauleiter Patentrecherche-Strategie: Stichwort- und Klassifikation
 
 ## Arbeitsbereich
 
-Bauleiter Patentrecherche-Strategie: Stichwort- und Klassifikationssuche, IPC und CPC, Volltext und Familien. Pruefraster fuer Neuheits- und Freedom-to-Operate-Recherche. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Patentrecherche-Strategie: Stichwort- und Klassifikationssuche, IPC und CPC, Volltext und Familien. Pruefraster fuer Neuheits- und Freedom-to-Operate-Recherche. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

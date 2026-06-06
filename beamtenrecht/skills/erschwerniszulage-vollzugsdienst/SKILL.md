@@ -7,7 +7,7 @@ description: "Skill zu Erschwerniszulagen fuer Polizei Justizvollzug Feuerwehr B
 
 ## Arbeitsbereich
 
-Skill zu Erschwerniszulagen fuer Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zu Erschwerniszulagen fuer Polizei Justizvollzug Feuerwehr Bundeswehr und Zoll nach der Erschwerniszulagenverordnung und den Landesvorschriften. Klaert Anspruchsvoraussetzungen Schichtdienst Wechselschichtdienst Nachtdienst Sonn- und Feiertagsdienst Tauchen Hoehenarbeit Sprengstoffumgang und Dienst zu ungewoehnlichen Zeiten. Behandelt die Konstellation reduzierter Stundenanspruch durch Erkrankung und Urlaubsausgleich von Schichtzulagen. Liefert Pruefraster und Antragsschriftbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

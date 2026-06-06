@@ -7,7 +7,7 @@ description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwen
 
 ## Arbeitsbereich
 
-Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Prüfraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Prüfraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

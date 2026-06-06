@@ -7,7 +7,7 @@ description: "Trennt externe Erwartungen von der eigenen Gewissensentscheidung i
 
 ## Arbeitsbereich
 
-Trennt externe Erwartungen von der eigenen Gewissensentscheidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt externe Erwartungen von der eigenen Gewissensentscheidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

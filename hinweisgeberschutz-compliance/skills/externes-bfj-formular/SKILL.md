@@ -7,7 +7,7 @@ description: "Bereitet Kommunikation mit externer Meldestelle vor im Hinweisgebe
 
 ## Arbeitsbereich
 
-Bereitet Kommunikation mit externer Meldestelle vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Kommunikation mit externer Meldestelle vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

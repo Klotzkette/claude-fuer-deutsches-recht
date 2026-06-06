@@ -7,7 +7,7 @@ description: "Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprac
 
 ## Arbeitsbereich
 
-Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

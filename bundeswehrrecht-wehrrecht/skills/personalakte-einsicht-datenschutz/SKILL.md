@@ -7,7 +7,7 @@ description: "Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerech
 
 ## Arbeitsbereich
 
-Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerecht, Löschungsansprüche und DSGVO-Rechte. Norm-/Quellenanker: § 17 SG, DSGVO, BDSG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerecht, Löschungsansprüche und DSGVO-Rechte. Norm-/Quellenanker: § 17 SG, DSGVO, BDSG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

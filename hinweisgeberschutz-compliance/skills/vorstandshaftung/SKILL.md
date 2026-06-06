@@ -7,7 +7,7 @@ description: "Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschut
 
 ## Arbeitsbereich
 
-Prüft Organhaftung bei ignorierten Hinweisen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Organhaftung bei ignorierten Hinweisen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

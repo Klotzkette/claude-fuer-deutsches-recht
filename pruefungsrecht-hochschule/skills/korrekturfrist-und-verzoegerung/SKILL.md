@@ -7,7 +7,7 @@ description: "Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung 
 
 ## Arbeitsbereich
 
-Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

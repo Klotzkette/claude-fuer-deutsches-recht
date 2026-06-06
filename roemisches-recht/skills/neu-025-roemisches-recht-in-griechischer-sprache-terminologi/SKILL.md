@@ -7,7 +7,7 @@ description: "Römisches Recht: Römisches Recht in griechischer Sprache Termino
 
 ## Arbeitsbereich
 
-Römisches Recht: Römisches Recht in griechischer Sprache Terminologie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Römisches Recht in griechischer Sprache Terminologie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

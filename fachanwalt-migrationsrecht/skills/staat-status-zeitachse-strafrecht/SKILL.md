@@ -7,17 +7,17 @@ description: "Staat Status Zeitachse Strafrecht im Migrationsrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Staat Status Zeitachse Strafrecht** ordnet den Fall über die tragenden Prüffelder: Status-Zeitachse, Strafrecht-Schnittstelle, Studium/Ausbildung Start. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Staat Status Zeitachse Strafrecht** führt durch die falltragenden Prüfungslinien: Status-Zeitachse, Strafrecht-Schnittstelle, Studium/Ausbildung Start. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-status-zeitachse` | Status-Zeitachse: Prüffeld für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-strafrecht-schnittstelle` | Strafrecht-Schnittstelle: Prüffeld für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-studium-ausbildung-start` | Studium/Ausbildung Start: Prüffeld für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-unternehmensgruendung-migration` | Unternehmensgründung Migration: Prüffeld für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-urkundennachweis` | Urkundennachweis: Prüffeld für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-vulnerabilitaet-atteste` | Vulnerabilität/Atteste: Prüffeld für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-status-zeitachse` | Status-Zeitachse: Prüfungslinie für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-strafrecht-schnittstelle` | Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-studium-ausbildung-start` | Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-unternehmensgruendung-migration` | Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-urkundennachweis` | Urkundennachweis: Prüfungslinie für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-vulnerabilitaet-atteste` | Vulnerabilität/Atteste: Prüfungslinie für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `staat-aegypten-migrationscheck` | Staaten- und Gebietscheck Ägypten: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 | `staat-aequatorialguinea-migrationscheck` | Staaten- und Gebietscheck Äquatorialguinea: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 | `staat-aethiopien-migrationscheck` | Staaten- und Gebietscheck Äthiopien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
@@ -37,16 +37,16 @@ description: "Staat Status Zeitachse Strafrecht im Migrationsrecht: prüft konkr
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-status-zeitachse`
 
-**Fokus:** Status-Zeitachse: Prüffeld für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Status-Zeitachse: Prüfungslinie für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Status-Zeitachse
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -75,12 +75,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-strafrecht-schnittstelle`
 
-**Fokus:** Strafrecht-Schnittstelle: Prüffeld für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Strafrecht-Schnittstelle
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -109,12 +109,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-studium-ausbildung-start`
 
-**Fokus:** Studium/Ausbildung Start: Prüffeld für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Studium/Ausbildung Start
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -143,12 +143,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-unternehmensgruendung-migration`
 
-**Fokus:** Unternehmensgründung Migration: Prüffeld für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Unternehmensgründung Migration
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -177,12 +177,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-urkundennachweis`
 
-**Fokus:** Urkundennachweis: Prüffeld für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Urkundennachweis: Prüfungslinie für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Urkundennachweis
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -211,12 +211,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 6. `workflow-vulnerabilitaet-atteste`
 
-**Fokus:** Vulnerabilität/Atteste: Prüffeld für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Vulnerabilität/Atteste: Prüfungslinie für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Vulnerabilität/Atteste
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:

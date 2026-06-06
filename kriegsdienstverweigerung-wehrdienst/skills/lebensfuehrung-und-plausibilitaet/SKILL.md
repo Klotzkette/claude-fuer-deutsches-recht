@@ -7,7 +7,7 @@ description: "Prüft, welche Lebensstationen die Gewissensentscheidung stützen 
 
 ## Arbeitsbereich
 
-Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

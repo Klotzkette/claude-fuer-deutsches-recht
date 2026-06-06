@@ -7,7 +7,7 @@ description: "Prüft Übertragung von Kreditanteilen in syndizierten Finanzierun
 
 ## Arbeitsbereich
 
-Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Strategische Bewertung von Vergleichsangeboten der GKV im Widerspr
 
 ## Arbeitsbereich
 
-Strategische Bewertung von Vergleichsangeboten der GKV im Widerspruchs- oder Klageverfahren: Risiko-Nutzen-Analyse, Formulierungshinweise und Abgeltungsklauseln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strategische Bewertung von Vergleichsangeboten der GKV im Widerspruchs- oder Klageverfahren: Risiko-Nutzen-Analyse, Formulierungshinweise und Abgeltungsklauseln. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

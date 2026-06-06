@@ -7,7 +7,7 @@ description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk im
 
 ## Arbeitsbereich
 
-Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

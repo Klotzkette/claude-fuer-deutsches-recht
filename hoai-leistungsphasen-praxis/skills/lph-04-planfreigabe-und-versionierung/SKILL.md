@@ -7,7 +7,7 @@ description: "HOAI LPH 4 Genehmigungsplanung: prüft Planindex, Freigaben, Verte
 
 ## Arbeitsbereich
 
-HOAI LPH 4 Genehmigungsplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 4 Genehmigungsplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

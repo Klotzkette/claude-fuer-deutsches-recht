@@ -7,7 +7,7 @@ description: "Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeiten
 
 ## Arbeitsbereich
 
-Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeitende. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Kommunikation an Kunden, Presse, Behörden und Mitarbeitende. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

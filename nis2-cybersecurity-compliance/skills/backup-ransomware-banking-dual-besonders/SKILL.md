@@ -7,7 +7,7 @@ description: "Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Com
 
 ## Arbeitsbereich
 
-Prüft Backup-Strategie gegen Ransomware. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Backup-Strategie gegen Ransomware. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

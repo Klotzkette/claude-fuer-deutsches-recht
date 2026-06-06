@@ -7,7 +7,7 @@ description: "Länderdisziplinarrecht: landesspezifische Verfahren, Maßnahmen u
 
 ## Arbeitsbereich
 
-Länderdisziplinarrecht: landesspezifische Verfahren, Maßnahmen und Rechtsschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Länderdisziplinarrecht: landesspezifische Verfahren, Maßnahmen und Rechtsschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

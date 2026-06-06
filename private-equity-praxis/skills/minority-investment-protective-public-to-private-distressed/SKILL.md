@@ -7,7 +7,7 @@ description: "Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Ve
 
 ## Arbeitsbereich
 
-Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

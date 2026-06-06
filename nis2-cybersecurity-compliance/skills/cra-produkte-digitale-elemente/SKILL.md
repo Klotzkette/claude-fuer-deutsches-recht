@@ -7,7 +7,7 @@ description: "Verbindet NIS-2-Betriebspflichten mit Cyber Resilience Act für Pr
 
 ## Arbeitsbereich
 
-Verbindet NIS-2-Betriebspflichten mit Cyber Resilience Act für Produkte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbindet NIS-2-Betriebspflichten mit Cyber Resilience Act für Produkte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

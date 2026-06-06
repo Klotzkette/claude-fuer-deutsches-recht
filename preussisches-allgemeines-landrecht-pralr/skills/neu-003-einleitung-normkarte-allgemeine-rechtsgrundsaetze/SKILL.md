@@ -7,7 +7,7 @@ description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze im Preuß
 
 ## Arbeitsbereich
 
-PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

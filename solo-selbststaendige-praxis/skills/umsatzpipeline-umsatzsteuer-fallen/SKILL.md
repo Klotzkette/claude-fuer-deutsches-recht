@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinl
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinlichkeit und Monatsziel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinlichkeit und Monatsziel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

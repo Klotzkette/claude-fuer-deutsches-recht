@@ -7,7 +7,7 @@ description: "Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen
 
 ## Arbeitsbereich
 
-Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk fuer Flughafen-Finanzierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk fuer Flughafen-Finanzierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

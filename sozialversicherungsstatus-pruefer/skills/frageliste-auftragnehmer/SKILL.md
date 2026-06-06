@@ -7,7 +7,7 @@ description: "Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsfü
 
 ## Arbeitsbereich
 
-Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

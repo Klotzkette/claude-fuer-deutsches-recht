@@ -7,7 +7,7 @@ description: "Chronologie und Belegmatrix: macht aus unordentlichem Material ein
 
 ## Arbeitsbereich
 
-Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld ordnet alle markenrechtlich relevanten Daten (Anmeldetage, Benutzungsdokumente, Registerstand, Kampagnen, Abmahnungen, Lieferketten-Vertragsdaten) in eine Timeline mit Belegmatrix.
+Dieser Prüfungslinie ordnet alle markenrechtlich relevanten Daten (Anmeldetage, Benutzungsdokumente, Registerstand, Kampagnen, Abmahnungen, Lieferketten-Vertragsdaten) in eine Timeline mit Belegmatrix.
 
 ## Pflichtdaten Markenrecht (Timeline)
 - **Prioritätsdatum / Anmeldetag** der eigenen und der Gegenmarke (für Verwechslungsgefahrs-Prüfung und älteres Recht).

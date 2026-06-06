@@ -7,7 +7,7 @@ description: "Prüft Secure Development Lifecycle für eigene Software im Nis2 C
 
 ## Arbeitsbereich
 
-Prüft Secure Development Lifecycle für eigene Software. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Secure Development Lifecycle für eigene Software. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

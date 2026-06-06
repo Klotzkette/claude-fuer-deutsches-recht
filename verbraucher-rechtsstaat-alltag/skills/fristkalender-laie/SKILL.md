@@ -7,7 +7,7 @@ description: "Fristkalender für Laien: führt Laien durch Fristen aus Bescheide
 
 ## Arbeitsbereich
 
-Fristkalender für Laien: führt Laien durch Fristen aus Bescheiden, Mahnungen, Gerichtspost und Verträgen sicher erfassen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristkalender für Laien: führt Laien durch Fristen aus Bescheiden, Mahnungen, Gerichtspost und Verträgen sicher erfassen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

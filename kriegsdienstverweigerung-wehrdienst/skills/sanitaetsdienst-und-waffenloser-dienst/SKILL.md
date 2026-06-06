@@ -7,7 +7,7 @@ description: "Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um im 
 
 ## Arbeitsbereich
 
-Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

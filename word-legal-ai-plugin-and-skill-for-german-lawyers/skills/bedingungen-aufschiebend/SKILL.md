@@ -7,7 +7,7 @@ description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zust�
 
 ## Arbeitsbereich
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haf
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
+Dieser Prüfungslinie markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
 
 ## Risikoampel Word-Dokumente
 - **Rot:** Tracked Changes nicht angenommen/abgelehnt -> versehentlicher Versand mit Markup; Kommentare an Mandant/Gegenseite. Vor Versand "Endgültig (mit Markup)" prüfen; "Dokument prüfen" (Inspect Document).

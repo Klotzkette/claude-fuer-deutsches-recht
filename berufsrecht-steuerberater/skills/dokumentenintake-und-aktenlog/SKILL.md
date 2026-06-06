@@ -7,7 +7,7 @@ description: "Dokumentenintake und Aktenlog: vertiefter Berufsrechts-Skill für 
 
 ## Arbeitsbereich
 
-Dokumentenintake und Aktenlog: vertiefter Berufsrechts-Skill für Steuerberater; prüft ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dokumentenintake und Aktenlog: vertiefter Berufsrechts-Skill für Steuerberater; prüft ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

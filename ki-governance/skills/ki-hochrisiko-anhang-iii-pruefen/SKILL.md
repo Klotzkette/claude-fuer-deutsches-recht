@@ -7,7 +7,7 @@ description: "Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische 
 
 ## Arbeitsbereich
 
-Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt fuer Schritt mit Belegen aus dem konkreten Einsatzfall. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt fuer Schritt mit Belegen aus dem konkreten Einsatzfall. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

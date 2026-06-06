@@ -7,7 +7,7 @@ description: "Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Wi
 
 ## Arbeitsbereich
 
-Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

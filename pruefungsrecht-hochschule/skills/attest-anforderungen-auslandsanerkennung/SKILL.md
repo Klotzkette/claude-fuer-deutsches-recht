@@ -7,7 +7,7 @@ description: "Prüft formale und materielle Anforderungen an Atteste in Prüfung
 
 ## Arbeitsbereich
 
-Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

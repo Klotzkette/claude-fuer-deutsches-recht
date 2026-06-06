@@ -7,7 +7,7 @@ description: "Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgel
 
 ## Arbeitsbereich
 
-Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgelt, Freiheit und Wiederholungsbeauftragungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgelt, Freiheit und Wiederholungsbeauftragungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

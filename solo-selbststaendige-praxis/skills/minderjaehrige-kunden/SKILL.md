@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Dat
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Datenschutz und Zahlung mit Minderjährigen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Datenschutz und Zahlung mit Minderjährigen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

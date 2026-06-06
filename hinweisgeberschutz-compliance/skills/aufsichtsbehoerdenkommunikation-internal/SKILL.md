@@ -7,7 +7,7 @@ description: "Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Steuert Kommunikation mit Aufsichtsbehörden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Kommunikation mit Aufsichtsbehörden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

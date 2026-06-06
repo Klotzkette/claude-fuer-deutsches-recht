@@ -7,7 +7,7 @@ description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehn
 
 ## Arbeitsbereich
 
-Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

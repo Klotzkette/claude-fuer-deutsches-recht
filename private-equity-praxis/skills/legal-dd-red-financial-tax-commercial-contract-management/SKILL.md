@@ -7,7 +7,7 @@ description: "Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und
 
 ## Arbeitsbereich
 
-Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrente
 
 ## Arbeitsbereich
 
-Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest fuer Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist. Behandelt Anordnungsanspruch Bestenauslese Anordnungsgrund Aemterstabilitaet sowie Konkurrenz zu § 80 V VwGO. Klaert Fristenlage nach Mitteilung der Auswahlentscheidung und das Zusammenspiel mit dem Schwester-Skill konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest fuer Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die Bewerbung des Antragstellers rechtsfehlerfrei entschieden ist. Behandelt Anordnungsanspruch Bestenauslese Anordnungsgrund Aemterstabilitaet sowie Konkurrenz zu § 80 V VwGO. Klaert Fristenlage nach Mitteilung der Auswahlentscheidung und das Zusammenspiel mit dem Schwester-Skill konkurrentenschutz-bestenauslese-art-33-ii-gg. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

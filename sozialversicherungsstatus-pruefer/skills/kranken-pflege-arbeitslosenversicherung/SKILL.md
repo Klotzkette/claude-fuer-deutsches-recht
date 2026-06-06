@@ -7,7 +7,7 @@ description: "Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetz
 
 ## Arbeitsbereich
 
-Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

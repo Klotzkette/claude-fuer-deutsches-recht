@@ -7,7 +7,7 @@ description: "Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Pru
 
 ## Arbeitsbereich
 
-Prüft Prüfungsangst, psychische Erkrankung und Rücktritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüfungsangst, psychische Erkrankung und Rücktritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

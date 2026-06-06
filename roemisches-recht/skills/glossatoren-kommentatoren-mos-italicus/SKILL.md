@@ -7,7 +7,7 @@ description: "Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Komm
 
 ## Arbeitsbereich
 
-Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

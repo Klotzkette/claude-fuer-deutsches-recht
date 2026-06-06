@@ -7,7 +7,7 @@ description: "Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie
 
 ## Arbeitsbereich
 
-Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

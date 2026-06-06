@@ -7,7 +7,7 @@ description: "Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld im 
 
 ## Arbeitsbereich
 
-Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

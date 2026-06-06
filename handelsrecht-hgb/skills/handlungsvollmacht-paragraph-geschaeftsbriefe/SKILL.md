@@ -7,7 +7,7 @@ description: "Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenz
 
 ## Arbeitsbereich
 
-Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

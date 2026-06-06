@@ -7,7 +7,7 @@ description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Ho
 
 ## Arbeitsbereich
 
-Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

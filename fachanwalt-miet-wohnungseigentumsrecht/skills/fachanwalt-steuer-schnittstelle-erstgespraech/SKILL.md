@@ -7,16 +7,16 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 
 ## Arbeitsbereich
 
-**Steuer Schnittstelle Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Steuer Schnittstelle Erstgespraech** führt durch die falltragenden Prüfungslinien: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-steuer-schnittstelle-vermietung` | Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung. |
 | `fachanwalt-miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Foerderung BAFA BEG-EM. |
-| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Prüffeld für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-steuer-schnittstelle-vermietung`
 
@@ -42,7 +42,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
@@ -649,7 +649,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung`
 
-**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
 

@@ -7,7 +7,7 @@ description: "Online-Bewertungen im Franchisesystem managen: Löschungsansprüch
 
 ## Arbeitsbereich
 
-Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwa
 
 ## Arbeitsbereich
 
-Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

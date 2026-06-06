@@ -7,7 +7,7 @@ description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und 
 
 ## Arbeitsbereich
 
-Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

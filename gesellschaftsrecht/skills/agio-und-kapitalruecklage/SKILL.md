@@ -7,7 +7,7 @@ description: "Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der
 
 ## Arbeitsbereich
 
-Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; § 3 Abs. 2 GmbHG als Anker; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach § 21 UmwStG; steuerliches Einlagekonto § 27 KStG; Differenzierung nach Fälligkeit bei Kapitalerhöhung; Eintragungshindernis vs. Unwirksamkeit. Lädt bei Mandaten zu VC-Finanzierungsrunden Holding-Strukturierungen Sachagio-Einbringungen und Satzungsformulierungen mit Aufgeld. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; § 3 Abs. 2 GmbHG als Anker; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach § 21 UmwStG; steuerliches Einlagekonto § 27 KStG; Differenzierung nach Fälligkeit bei Kapitalerhöhung; Eintragungshindernis vs. Unwirksamkeit. Lädt bei Mandaten zu VC-Finanzierungsrunden Holding-Strukturierungen Sachagio-Einbringungen und Satzungsformulierungen mit Aufgeld. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

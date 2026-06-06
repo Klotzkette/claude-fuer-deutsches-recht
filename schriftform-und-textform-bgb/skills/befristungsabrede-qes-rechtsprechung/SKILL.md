@@ -7,7 +7,7 @@ description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fri
 
 ## Arbeitsbereich
 
-Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zu
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld stresst formrechtliche Ergebnisse gegen typische Fehler: Verwechslung Schrift-/Text-/elektronische Form, falsche Bewertung qualifizierter Signaturen, Übersehen von Heilungstatbeständen.
+Dieser Prüfungslinie stresst formrechtliche Ergebnisse gegen typische Fehler: Verwechslung Schrift-/Text-/elektronische Form, falsche Bewertung qualifizierter Signaturen, Übersehen von Heilungstatbeständen.
 
 ## Formenkanon prüfen
 - **Schriftform (§ 126 BGB):** eigenhändige Namensunterschrift unter der Urkunde; gewillkürte Schriftform (§ 127 BGB) lässt Telekommunikationsformen zu, soweit nicht anders bestimmt.

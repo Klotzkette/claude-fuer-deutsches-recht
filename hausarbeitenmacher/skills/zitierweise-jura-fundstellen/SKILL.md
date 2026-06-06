@@ -7,7 +7,7 @@ description: "Zitierweise für juristische Hausarbeiten mit strikter Quellenprü
 
 ## Arbeitsbereich
 
-Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

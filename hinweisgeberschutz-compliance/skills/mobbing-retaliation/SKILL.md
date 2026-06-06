@@ -7,7 +7,7 @@ description: "Erkennt informelle Repressalien und Mobbing im Hinweisgeberschutz 
 
 ## Arbeitsbereich
 
-Erkennt informelle Repressalien und Mobbing. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erkennt informelle Repressalien und Mobbing. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

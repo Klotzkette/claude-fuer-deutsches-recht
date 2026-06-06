@@ -7,7 +7,7 @@ description: "Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer D
 
 ## Arbeitsbereich
 
-Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberw
 
 ## Arbeitsbereich
 
-Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

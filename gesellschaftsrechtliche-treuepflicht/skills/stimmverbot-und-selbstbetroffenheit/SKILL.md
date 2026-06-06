@@ -7,7 +7,7 @@ description: "Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetrof
 
 ## Arbeitsbereich
 
-Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

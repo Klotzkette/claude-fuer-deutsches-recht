@@ -7,7 +7,7 @@ description: "Straßenverkehrsrecht StVO: Radverkehr und Schutzstreifen. Radverk
 
 ## Arbeitsbereich
 
-Straßenverkehrsrecht StVO: Radverkehr und Schutzstreifen. Radverkehr und Schutzstreifen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Straßenverkehrsrecht StVO: Radverkehr und Schutzstreifen. Radverkehr und Schutzstreifen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

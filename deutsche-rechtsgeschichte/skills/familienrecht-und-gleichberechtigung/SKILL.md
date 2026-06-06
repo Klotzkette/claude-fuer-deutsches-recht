@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. B
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

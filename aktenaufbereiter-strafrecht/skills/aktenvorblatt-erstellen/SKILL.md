@@ -7,7 +7,7 @@ description: "Erstes Aktenvorblatt fuer eine Strafakte erstellen: Mandant, Vorwu
 
 ## Arbeitsbereich
 
-Erstes Aktenvorblatt fuer eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zustaendiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf fuer die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstes Aktenvorblatt fuer eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zustaendiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf fuer die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

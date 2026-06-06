@@ -7,7 +7,7 @@ description: "Prüft Vergleichslösungen im Prüfungsrecht im Pruefungsrecht Hoc
 
 ## Arbeitsbereich
 
-Prüft Vergleichslösungen im Prüfungsrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vergleichslösungen im Prüfungsrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

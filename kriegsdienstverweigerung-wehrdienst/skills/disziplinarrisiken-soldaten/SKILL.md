@@ -7,7 +7,7 @@ description: "Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhal
 
 ## Arbeitsbereich
 
-Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

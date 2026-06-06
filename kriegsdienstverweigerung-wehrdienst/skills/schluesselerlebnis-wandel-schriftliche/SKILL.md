@@ -7,7 +7,7 @@ description: "Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wa
 
 ## Arbeitsbereich
 
-Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wandelungsprozesse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wandelungsprozesse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

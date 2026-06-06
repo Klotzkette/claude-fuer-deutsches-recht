@@ -7,7 +7,7 @@ description: "Prueft ordinary/nonordinary use, sale or lease of estate property,
 
 ## Arbeitsbereich
 
-Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

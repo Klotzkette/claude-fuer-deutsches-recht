@@ -7,7 +7,7 @@ description: "Prüft schulische Mitwirkungsgremien im Schulrecht Laender: prüft
 
 ## Arbeitsbereich
 
-Prüft schulische Mitwirkungsgremien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft schulische Mitwirkungsgremien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

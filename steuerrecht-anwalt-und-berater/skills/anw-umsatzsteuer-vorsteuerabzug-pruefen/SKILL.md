@@ -1,6 +1,6 @@
 ---
 name: anw-umsatzsteuer-vorsteuerabzug-pruefen
-description: "Prüffeld für anw umsatzsteuer vorsteuerabzug pruefen im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für anw umsatzsteuer vorsteuerabzug pruefen im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen

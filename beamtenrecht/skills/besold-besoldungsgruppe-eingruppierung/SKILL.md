@@ -7,7 +7,7 @@ description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im 
 
 ## Arbeitsbereich
 
-Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

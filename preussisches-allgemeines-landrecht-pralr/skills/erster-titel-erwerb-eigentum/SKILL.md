@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgun
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

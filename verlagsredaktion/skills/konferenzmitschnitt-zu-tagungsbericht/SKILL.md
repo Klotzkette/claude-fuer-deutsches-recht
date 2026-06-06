@@ -7,7 +7,7 @@ description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsber
 
 ## Arbeitsbereich
 
-Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht fuer Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht fuer Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

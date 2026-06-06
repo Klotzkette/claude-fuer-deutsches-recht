@@ -7,7 +7,7 @@ description: "Prueft Subchapter V small business reorganization: eligibility, tr
 
 ## Arbeitsbereich
 
-Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

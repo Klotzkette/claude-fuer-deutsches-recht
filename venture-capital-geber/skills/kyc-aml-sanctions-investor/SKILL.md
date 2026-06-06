@@ -7,7 +7,7 @@ description: "Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische
 
 ## Arbeitsbereich
 
-Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

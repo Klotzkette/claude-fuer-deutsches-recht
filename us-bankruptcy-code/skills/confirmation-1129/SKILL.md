@@ -7,7 +7,7 @@ description: "Prueft Chapter 11 confirmation requirements: good faith, feasibili
 
 ## Arbeitsbereich
 
-Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

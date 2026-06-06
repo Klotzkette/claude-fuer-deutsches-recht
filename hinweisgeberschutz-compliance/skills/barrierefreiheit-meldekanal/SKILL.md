@@ -7,7 +7,7 @@ description: "Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Comp
 
 ## Arbeitsbereich
 
-Prüft Barrierefreiheit des Meldekanals. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Barrierefreiheit des Meldekanals. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

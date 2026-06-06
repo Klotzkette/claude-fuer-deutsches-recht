@@ -7,7 +7,7 @@ description: "Prüft Minderjährige in Gesellschaften: Vertretung, Familiengeric
 
 ## Arbeitsbereich
 
-Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

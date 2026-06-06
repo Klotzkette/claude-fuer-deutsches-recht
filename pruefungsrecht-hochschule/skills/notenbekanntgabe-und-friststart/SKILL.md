@@ -7,7 +7,7 @@ description: "Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und 
 
 ## Arbeitsbereich
 
-Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

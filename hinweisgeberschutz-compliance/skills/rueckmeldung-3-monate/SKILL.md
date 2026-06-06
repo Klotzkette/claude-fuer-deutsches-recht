@@ -7,7 +7,7 @@ description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hi
 
 ## Arbeitsbereich
 
-Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

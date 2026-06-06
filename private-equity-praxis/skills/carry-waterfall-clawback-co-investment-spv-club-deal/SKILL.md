@@ -7,7 +7,7 @@ description: "Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, Eu
 
 ## Arbeitsbereich
 
-Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

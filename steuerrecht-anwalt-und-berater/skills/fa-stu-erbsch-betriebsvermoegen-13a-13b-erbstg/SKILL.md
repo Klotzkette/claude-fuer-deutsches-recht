@@ -7,7 +7,7 @@ description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betrieb
 
 ## Arbeitsbereich
 
-Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermoegenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermoegenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

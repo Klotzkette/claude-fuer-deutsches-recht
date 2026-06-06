@@ -7,10 +7,10 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 
 ## Arbeitsbereich
 
-**Spezial Raub Rechtsbeugung** ordnet den Fall über die tragenden Prüffelder: Raub nach § 249 StGB, Raub mit Todesfolge nach § 251 StGB, Rechtsbeugung nach Paragraph 339 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Spezial Raub Rechtsbeugung** führt durch die falltragenden Prüfungslinien: Raub nach § 249 StGB, Raub mit Todesfolge nach § 251 StGB, Rechtsbeugung nach Paragraph 339 StGB. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-raub-249-stgb` | Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB. |
 | `strafrecht-spezial-raub-mit-todesfolge-251-stgb` | Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB. |
@@ -30,7 +30,7 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-raub-249-stgb`
 

@@ -7,7 +7,7 @@ description: "Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteh
 
 ## Arbeitsbereich
 
-Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

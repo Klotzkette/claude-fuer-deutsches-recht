@@ -7,7 +7,7 @@ description: "Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebü
 
 ## Arbeitsbereich
 
-Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebühren, Mandatsumfang, Erwartungsmanagement und Haftung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebühren, Mandatsumfang, Erwartungsmanagement und Haftung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

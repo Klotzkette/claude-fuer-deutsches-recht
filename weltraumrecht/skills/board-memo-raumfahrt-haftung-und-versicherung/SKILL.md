@@ -7,7 +7,7 @@ description: "Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung
 
 ## Arbeitsbereich
 
-Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

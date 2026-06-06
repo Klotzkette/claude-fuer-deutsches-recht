@@ -7,7 +7,7 @@ description: "Prueft Public-Domain-Behauptungen, orphan works, alte Formalitäte
 
 ## Arbeitsbereich
 
-Prueft Public-Domain-Behauptungen, orphan works, alte Formalitäten, renewals, restorations und Risiko bei Backlist/Archive. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Public-Domain-Behauptungen, orphan works, alte Formalitäten, renewals, restorations und Risiko bei Backlist/Archive. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

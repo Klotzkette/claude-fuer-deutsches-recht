@@ -7,7 +7,7 @@ description: "Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundsch
 
 ## Arbeitsbereich
 
-Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

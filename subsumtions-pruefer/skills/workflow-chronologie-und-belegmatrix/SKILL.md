@@ -7,7 +7,7 @@ description: "Chronologie und Belegmatrix: macht aus unordentlichem Material ein
 
 ## Arbeitsbereich
 
-Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit
 
 ## Aufgabe
 
-Dieser Prüffeld ordnet zu jedem Tatbestandsmerkmal einer Subsumtion die konkreten Tatsachen aus dem Sachverhalt und die Belege (Anlagen, Korrespondenz, Zeugen) zu. Ergebnis ist eine Belegmatrix, die die Subsumtion auditierbar macht.
+Dieser Prüfungslinie ordnet zu jedem Tatbestandsmerkmal einer Subsumtion die konkreten Tatsachen aus dem Sachverhalt und die Belege (Anlagen, Korrespondenz, Zeugen) zu. Ergebnis ist eine Belegmatrix, die die Subsumtion auditierbar macht.
 
 ## Subsumtions-Belegmatrix
 

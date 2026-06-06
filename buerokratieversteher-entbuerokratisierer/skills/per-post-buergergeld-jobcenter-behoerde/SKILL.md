@@ -7,7 +7,7 @@ description: "Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-
 
 ## Arbeitsbereich
 
-Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

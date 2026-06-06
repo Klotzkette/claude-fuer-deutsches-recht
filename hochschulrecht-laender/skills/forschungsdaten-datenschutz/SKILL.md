@@ -7,7 +7,7 @@ description: "Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zwe
 
 ## Arbeitsbereich
 
-Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

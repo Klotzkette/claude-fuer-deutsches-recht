@@ -7,7 +7,7 @@ description: "Prüft, ob die Person persönlich leisten muss oder echte Vertretu
 
 ## Arbeitsbereich
 
-Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

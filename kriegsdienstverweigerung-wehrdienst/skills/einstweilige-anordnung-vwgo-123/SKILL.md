@@ -7,7 +7,7 @@ description: "Prüft vorläufige Regelung ohne passenden §80-Fall im Kriegsdien
 
 ## Arbeitsbereich
 
-Prüft vorläufige Regelung ohne passenden §80-Fall. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft vorläufige Regelung ohne passenden §80-Fall. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

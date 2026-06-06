@@ -7,7 +7,7 @@ description: "Mappt NIST CSF auf deutsche und EU-Anforderungen im Nis2 Cybersecu
 
 ## Arbeitsbereich
 
-Mappt NIST CSF auf deutsche und EU-Anforderungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mappt NIST CSF auf deutsche und EU-Anforderungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

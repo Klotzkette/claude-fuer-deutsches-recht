@@ -7,7 +7,7 @@ description: "Prüft negative und positive Publizität des Handelsregisters im H
 
 ## Arbeitsbereich
 
-Prüft negative und positive Publizität des Handelsregisters. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft negative und positive Publizität des Handelsregisters. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

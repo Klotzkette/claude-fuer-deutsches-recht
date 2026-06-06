@@ -7,10 +7,10 @@ description: "Datenschutz EN SIX Step EU US Data Laender Bewertung China im Date
 
 ## Arbeitsbereich
 
-**Datenschutz EN SIX Step EU US Data Laender Bewertung China** ordnet den Fall über die tragenden Prüffelder: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Laenderbewertung jenseits der USA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz EN SIX Step EU US Data Laender Bewertung China** führt durch die falltragenden Prüfungslinien: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Laenderbewertung jenseits der USA. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `tia-en-six-step-roadmap` | English-language version of the EDPB Recommendation 01/2020 six-step roadmap for Transfer Impact Assessment. Step 1 know your transfers; Step 2 identify transfer tool; Step 3 assess law and practice; Step 4 adopt supplementary measures; Step 5 procedural steps; Step 6 re-evaluate. With checklists and sample entries for use with international counsel. |
 | `tia-eu-us-data-privacy-framework-aktueller-stand` | Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien fuer DPF-Tragfaehigkeit und Restrisiko. |
@@ -25,7 +25,7 @@ description: "Datenschutz EN SIX Step EU US Data Laender Bewertung China im Date
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `tia-en-six-step-roadmap`
 

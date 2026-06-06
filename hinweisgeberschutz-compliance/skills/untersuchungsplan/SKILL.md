@@ -7,7 +7,7 @@ description: "Baut Untersuchungsplan mit Hypothesen und Beweisen im Hinweisgeber
 
 ## Arbeitsbereich
 
-Baut Untersuchungsplan mit Hypothesen und Beweisen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Untersuchungsplan mit Hypothesen und Beweisen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

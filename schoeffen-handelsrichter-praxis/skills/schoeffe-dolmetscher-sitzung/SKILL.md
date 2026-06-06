@@ -7,7 +7,7 @@ description: "Schöffe und Dolmetscher (Sitzungspraxis): hilft ehrenamtlichen Ri
 
 ## Arbeitsbereich
 
-Schöffe und Dolmetscher (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Verdolmetschung, Verständnisprobleme, Nachfragen und Protokollklarheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schöffe und Dolmetscher (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Verdolmetschung, Verständnisprobleme, Nachfragen und Protokollklarheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

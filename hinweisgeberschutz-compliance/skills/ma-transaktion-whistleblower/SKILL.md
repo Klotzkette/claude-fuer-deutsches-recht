@@ -7,7 +7,7 @@ description: "Steuert Whistleblower-Risiken in Transaktionen im Hinweisgeberschu
 
 ## Arbeitsbereich
 
-Steuert Whistleblower-Risiken in Transaktionen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Whistleblower-Risiken in Transaktionen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

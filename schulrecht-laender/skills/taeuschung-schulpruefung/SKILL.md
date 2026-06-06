@@ -7,7 +7,7 @@ description: "Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur 
 
 ## Arbeitsbereich
 
-Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

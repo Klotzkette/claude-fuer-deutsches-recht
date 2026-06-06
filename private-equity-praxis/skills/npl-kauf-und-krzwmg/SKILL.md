@@ -7,7 +7,7 @@ description: "Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstlei
 
 ## Arbeitsbereich
 
-Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

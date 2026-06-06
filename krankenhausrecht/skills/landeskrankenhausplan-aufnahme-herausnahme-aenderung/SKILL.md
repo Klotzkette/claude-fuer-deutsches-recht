@@ -7,7 +7,7 @@ description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Pl
 
 ## Arbeitsbereich
 
-Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhoerungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhoerungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

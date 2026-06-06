@@ -7,7 +7,7 @@ description: "Erzeugt Fristenkalender für Hinweisfälle im Hinweisgeberschutz C
 
 ## Arbeitsbereich
 
-Erzeugt Fristenkalender für Hinweisfälle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt Fristenkalender für Hinweisfälle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

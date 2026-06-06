@@ -7,7 +7,7 @@ description: "Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteil
 
 ## Arbeitsbereich
 
-Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

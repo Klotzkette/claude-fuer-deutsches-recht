@@ -7,7 +7,7 @@ description: "Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe i
 
 ## Arbeitsbereich
 
-Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsyst
 
 ## Arbeitsbereich
 
-Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut oder prüft ein ISMS als juristisch verwertbares Kontrollsystem. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und verei
 
 ## Arbeitsbereich
 
-Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

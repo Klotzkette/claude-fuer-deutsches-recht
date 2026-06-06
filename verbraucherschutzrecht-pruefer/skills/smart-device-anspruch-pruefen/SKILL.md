@@ -7,7 +7,7 @@ description: "Prüfer: Smart Device: Anspruch prüfen im Verbraucherschutzrecht:
 
 ## Arbeitsbereich
 
-Spezialthema **Smart Device Anspruch Pruefen** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Smart Device Anspruch Pruefen** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

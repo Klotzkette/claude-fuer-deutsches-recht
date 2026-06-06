@@ -7,7 +7,7 @@ description: "PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und hi
 
 ## Arbeitsbereich
 
-PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

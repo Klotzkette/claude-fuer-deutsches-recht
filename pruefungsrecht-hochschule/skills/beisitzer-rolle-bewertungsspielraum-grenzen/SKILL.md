@@ -7,7 +7,7 @@ description: "Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewert
 
 ## Arbeitsbereich
 
-Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

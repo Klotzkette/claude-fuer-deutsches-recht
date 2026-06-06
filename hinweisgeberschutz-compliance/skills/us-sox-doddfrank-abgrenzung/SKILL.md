@@ -7,7 +7,7 @@ description: "Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab im Hinweisgeber
 
 ## Arbeitsbereich
 
-Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

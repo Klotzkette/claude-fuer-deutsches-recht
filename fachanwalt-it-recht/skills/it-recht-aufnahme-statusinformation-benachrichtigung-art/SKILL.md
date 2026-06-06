@@ -7,10 +7,10 @@ description: "Aufnahme Statusinformation Benachrichtigung ART im Plugin Fachanwa
 
 ## Arbeitsbereich
 
-**Aufnahme Statusinformation Benachrichtigung ART** ordnet den Fall über die tragenden Prüffelder: Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigungsschreiben an die von einer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Aufnahme Statusinformation Benachrichtigung ART** führt durch die falltragenden Prüfungslinien: Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigungsschreiben an die von einer. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `dsv-aufnahme-statusinformation` | Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne. |
 | `dsv-benachrichtigung-art-34-ausnahmen` | Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung. |
@@ -25,7 +25,7 @@ description: "Aufnahme Statusinformation Benachrichtigung ART im Plugin Fachanwa
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `dsv-aufnahme-statusinformation`
 

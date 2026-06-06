@@ -7,7 +7,7 @@ description: "Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar
 
 ## Arbeitsbereich
 
-Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

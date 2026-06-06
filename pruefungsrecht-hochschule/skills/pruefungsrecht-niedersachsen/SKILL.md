@@ -7,7 +7,7 @@ description: "Prüft Hochschulprüfungsrecht in Niedersachsen mit Hochschulgeset
 
 ## Arbeitsbereich
 
-Prüft Hochschulprüfungsrecht in Niedersachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulprüfungsrecht in Niedersachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

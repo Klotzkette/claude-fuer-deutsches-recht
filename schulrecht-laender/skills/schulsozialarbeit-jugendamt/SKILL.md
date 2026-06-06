@@ -7,7 +7,7 @@ description: "Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl i
 
 ## Arbeitsbereich
 
-Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

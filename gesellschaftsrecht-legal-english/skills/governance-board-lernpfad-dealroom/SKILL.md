@@ -7,7 +7,7 @@ description: "Erklaert Board, Advisory Board, Management Board, Supervisory Boar
 
 ## Arbeitsbereich
 
-Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik fuer GmbH, AG und Beirat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik fuer GmbH, AG und Beirat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

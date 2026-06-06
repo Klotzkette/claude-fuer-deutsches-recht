@@ -7,7 +7,7 @@ description: "Prueft fee applications, reasonableness, lodestar, expense reimbur
 
 ## Arbeitsbereich
 
-Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

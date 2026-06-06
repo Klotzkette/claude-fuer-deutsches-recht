@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagne
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

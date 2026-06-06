@@ -7,7 +7,7 @@ description: "Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, M
 
 ## Arbeitsbereich
 
-Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster fuer Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster fuer Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

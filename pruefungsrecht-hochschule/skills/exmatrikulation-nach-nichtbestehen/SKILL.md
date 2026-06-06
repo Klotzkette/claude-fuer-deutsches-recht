@@ -7,7 +7,7 @@ description: "Prüft Exmatrikulation nach Prüfungsversagen im Pruefungsrecht Ho
 
 ## Arbeitsbereich
 
-Prüft Exmatrikulation nach Prüfungsversagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Exmatrikulation nach Prüfungsversagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

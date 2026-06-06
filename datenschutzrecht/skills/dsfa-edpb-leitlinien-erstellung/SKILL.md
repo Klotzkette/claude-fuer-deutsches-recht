@@ -7,10 +7,10 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüffelder: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüfungslinieer: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `dsfa-edpb-leitlinien-9-19-anwendung` | Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien fuer voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis. |
 | `dsfa-erstellung` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko. |
@@ -25,7 +25,7 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `dsfa-edpb-leitlinien-9-19-anwendung`
 

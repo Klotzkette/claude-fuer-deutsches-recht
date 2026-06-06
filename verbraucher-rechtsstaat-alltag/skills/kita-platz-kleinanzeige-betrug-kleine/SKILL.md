@@ -7,7 +7,7 @@ description: "Kita-Platz abgelehnt: führt Laien durch Anspruch auf Betreuung, E
 
 ## Arbeitsbereich
 
-Kita-Platz abgelehnt: führt Laien durch Anspruch auf Betreuung, Eilverfahren, Schadensersatz und kommunale Zuständigkeit. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kita-Platz abgelehnt: führt Laien durch Anspruch auf Betreuung, Eilverfahren, Schadensersatz und kommunale Zuständigkeit. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Repa
 
 ## Arbeitsbereich
 
-Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

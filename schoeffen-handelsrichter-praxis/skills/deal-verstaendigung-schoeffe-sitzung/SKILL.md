@@ -7,7 +7,7 @@ description: "Verständigung im Strafverfahren (Sitzungspraxis): hilft ehrenamtl
 
 ## Arbeitsbereich
 
-Verständigung im Strafverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verständigung im Strafverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Hardening und sichere Konfiguration im Nis2 Cybersecurity C
 
 ## Arbeitsbereich
 
-Prüft Hardening und sichere Konfiguration. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hardening und sichere Konfiguration. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

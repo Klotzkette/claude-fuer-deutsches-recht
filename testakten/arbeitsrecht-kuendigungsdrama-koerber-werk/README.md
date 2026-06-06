@@ -99,8 +99,8 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 - `entgelttransparenz_antwort_steinhoff_2024.pdf` — Formelles Antwortschreiben Branitz auf § 10 EntgTranspG-Anfrage
 
 ### `jpg/`
-- `werk_eberswalde_aussenansicht.jpg` — Platzhalter-Foto Werksgelände mit Bildunterschrift (1200×800 px)
-- `organigramm_steinhoff_se_screenshot.jpg` — Screenshot-Platzhalter HR-System mit Organigramm-Struktur
+- `werk_eberswalde_aussenansicht.jpg` — schematisches Aktenfoto Werksgelände mit Bildunterschrift (1200×800 px)
+- `organigramm_steinhoff_se_screenshot.jpg` — schematischer Screenshot HR-System mit Organigramm-Struktur
 - `aushang_schwarzes_brett_betriebsversammlung.jpg` — Foto des Aushangfotos zur Betriebsversammlung April 2025
 
 ## Verfahrensstand

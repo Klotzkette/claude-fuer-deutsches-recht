@@ -7,7 +7,7 @@ description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezep
 
 ## Arbeitsbereich
 
-Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

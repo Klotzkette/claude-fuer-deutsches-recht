@@ -7,7 +7,7 @@ description: "Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamt
 
 ## Arbeitsbereich
 
-Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

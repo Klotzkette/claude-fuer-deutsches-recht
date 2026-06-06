@@ -7,7 +7,7 @@ description: "Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copy
 
 ## Arbeitsbereich
 
-Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copyright-/Contract-Law. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copyright-/Contract-Law. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

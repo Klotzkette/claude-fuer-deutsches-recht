@@ -7,7 +7,7 @@ description: "Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung g
 
 ## Arbeitsbereich
 
-Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

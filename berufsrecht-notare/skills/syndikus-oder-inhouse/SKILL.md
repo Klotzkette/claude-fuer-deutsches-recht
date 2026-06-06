@@ -7,7 +7,7 @@ description: "Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Notare; 
 
 ## Arbeitsbereich
 
-Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Notare; prüft Syndikus oder Inhouse im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Notare; prüft Syndikus oder Inhouse im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

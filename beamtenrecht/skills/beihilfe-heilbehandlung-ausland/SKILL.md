@@ -7,7 +7,7 @@ description: "Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung
 
 ## Arbeitsbereich
 
-Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnungen. Klaert die Konstellationen geplante Behandlung im EU-Ausland Notfallbehandlung Beihilfehoehe und Begrenzung auf das Inlandsniveau Beihilfe bei Reha im Ausland und Auslandsdienstbezuege. Behandelt das unionsrechtliche Erfordernis der Anerkennung grenzueberschreitender Gesundheitsleistungen nach EU-Patientenrichtlinie. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnungen. Klaert die Konstellationen geplante Behandlung im EU-Ausland Notfallbehandlung Beihilfehoehe und Begrenzung auf das Inlandsniveau Beihilfe bei Reha im Ausland und Auslandsdienstbezuege. Behandelt das unionsrechtliche Erfordernis der Anerkennung grenzueberschreitender Gesundheitsleistungen nach EU-Patientenrichtlinie. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

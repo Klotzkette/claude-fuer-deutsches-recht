@@ -7,7 +7,7 @@ description: "Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinsch�
 
 ## Arbeitsbereich
 
-Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinschätzung, Mitwirkung und Grenzen freiwilliger Angaben. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinschätzung, Mitwirkung und Grenzen freiwilliger Angaben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

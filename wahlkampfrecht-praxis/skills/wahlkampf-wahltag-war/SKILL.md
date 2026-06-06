@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Krisenkarte fuer Wahlsonntag erstellen im W
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Krisenkarte fuer Wahlsonntag erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Krisenkarte fuer Wahlsonntag erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

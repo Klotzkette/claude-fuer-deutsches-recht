@@ -7,7 +7,7 @@ description: "Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down u
 
 ## Arbeitsbereich
 
-Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

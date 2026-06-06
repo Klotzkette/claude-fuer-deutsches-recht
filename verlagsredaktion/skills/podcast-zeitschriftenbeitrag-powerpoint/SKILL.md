@@ -7,7 +7,7 @@ description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle fuer
 
 ## Arbeitsbereich
 
-Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle fuer einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle fuer einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

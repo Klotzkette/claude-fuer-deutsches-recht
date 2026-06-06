@@ -7,7 +7,7 @@ description: "Essential Facilities und Refusal to Deal: Fachmodul für großes K
 
 ## Arbeitsbereich
 
-Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

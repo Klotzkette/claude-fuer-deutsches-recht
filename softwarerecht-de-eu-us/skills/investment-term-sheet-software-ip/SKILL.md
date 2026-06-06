@@ -7,7 +7,7 @@ description: "Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, 
 
 ## Arbeitsbereich
 
-Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

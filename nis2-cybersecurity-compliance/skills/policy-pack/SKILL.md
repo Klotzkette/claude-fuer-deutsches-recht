@@ -7,7 +7,7 @@ description: "Erzeugt ein schlankes Policy-Paket statt Papierfriedhof im Nis2 Cy
 
 ## Arbeitsbereich
 
-Erzeugt ein schlankes Policy-Paket statt Papierfriedhof. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt ein schlankes Policy-Paket statt Papierfriedhof. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

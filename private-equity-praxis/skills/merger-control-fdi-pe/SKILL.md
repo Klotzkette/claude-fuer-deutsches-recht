@@ -7,7 +7,7 @@ description: "Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping 
 
 ## Arbeitsbereich
 
-Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

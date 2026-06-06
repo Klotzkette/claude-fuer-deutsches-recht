@@ -7,7 +7,7 @@ description: "Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit:
 
 ## Arbeitsbereich
 
-Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

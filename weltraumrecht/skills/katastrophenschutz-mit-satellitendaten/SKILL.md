@@ -7,7 +7,7 @@ description: "Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzug
 
 ## Arbeitsbereich
 
-Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

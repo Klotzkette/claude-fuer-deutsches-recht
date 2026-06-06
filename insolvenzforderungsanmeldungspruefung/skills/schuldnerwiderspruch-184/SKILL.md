@@ -7,7 +7,7 @@ description: "Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalte
 
 ## Arbeitsbereich
 
-Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Prüfraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Prüfungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Prüfraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Prüfungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

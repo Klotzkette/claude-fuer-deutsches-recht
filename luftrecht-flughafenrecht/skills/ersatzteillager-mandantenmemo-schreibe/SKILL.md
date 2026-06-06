@@ -7,7 +7,7 @@ description: "Anwalt schreibt Mandantenmemo fuer MRO-Betrieb oder Airline zu Ers
 
 ## Arbeitsbereich
 
-Anwalt schreibt Mandantenmemo fuer MRO-Betrieb oder Airline zu Ersatzteillager-Rechtsfragen: EASA-Compliance Pfandrecht Insolvenz oder Gefahrgut-Auflage. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt schreibt Mandantenmemo fuer MRO-Betrieb oder Airline zu Ersatzteillager-Rechtsfragen: EASA-Compliance Pfandrecht Insolvenz oder Gefahrgut-Auflage. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, 
 
 ## Arbeitsbereich
 
-Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, eBilling, Dashboards und Wissensspeicher zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, eBilling, Dashboards und Wissensspeicher zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Verbraucherschlichtung: erklärt Schlichtungsstelle, Ombudsmann, K
 
 ## Arbeitsbereich
 
-Verbraucherschlichtung: erklärt Schlichtungsstelle, Ombudsmann, Kosten und Erfolgsaussichten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherschlichtung: erklärt Schlichtungsstelle, Ombudsmann, Kosten und Erfolgsaussichten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

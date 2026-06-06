@@ -7,7 +7,7 @@ description: "Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshy
 
 ## Arbeitsbereich
 
-Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

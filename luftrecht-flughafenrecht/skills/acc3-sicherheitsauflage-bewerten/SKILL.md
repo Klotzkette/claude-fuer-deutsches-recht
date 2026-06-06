@@ -7,7 +7,7 @@ description: "ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-In
 
 ## Arbeitsbereich
 
-ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prueft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan fuer ACC3-Betrieb. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prueft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan fuer ACC3-Betrieb. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Ge
 
 ## Arbeitsbereich
 
-Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

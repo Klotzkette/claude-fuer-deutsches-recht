@@ -7,7 +7,7 @@ description: "Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann im Kri
 
 ## Arbeitsbereich
 
-Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

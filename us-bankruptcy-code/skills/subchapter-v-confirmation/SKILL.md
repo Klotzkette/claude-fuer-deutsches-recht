@@ -7,7 +7,7 @@ description: "Prueft consensual and nonconsensual Subchapter V confirmation, dis
 
 ## Arbeitsbereich
 
-Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

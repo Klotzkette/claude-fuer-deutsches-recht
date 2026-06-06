@@ -7,7 +7,7 @@ description: "Prüft Physio-, Ergo-, Logo- und Psychotherapie-Praxen mit Raum-/G
 
 ## Arbeitsbereich
 
-Prüft Physio-, Ergo-, Logo- und Psychotherapie-Praxen mit Raum-/Gerätenutzung, Patientensteuerung und Abrechnung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Physio-, Ergo-, Logo- und Psychotherapie-Praxen mit Raum-/Gerätenutzung, Patientensteuerung und Abrechnung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

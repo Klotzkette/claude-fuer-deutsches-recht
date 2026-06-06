@@ -7,7 +7,7 @@ description: "Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwe
 
 ## Arbeitsbereich
 
-Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

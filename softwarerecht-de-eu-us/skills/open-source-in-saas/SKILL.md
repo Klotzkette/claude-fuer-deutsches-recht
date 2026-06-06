@@ -7,7 +7,7 @@ description: "Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, ma
 
 ## Arbeitsbereich
 
-Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

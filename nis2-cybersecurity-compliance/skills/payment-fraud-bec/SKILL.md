@@ -7,7 +7,7 @@ description: "Prüft Business Email Compromise und Zahlungsprozesskontrollen im 
 
 ## Arbeitsbereich
 
-Prüft Business Email Compromise und Zahlungsprozesskontrollen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Business Email Compromise und Zahlungsprozesskontrollen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

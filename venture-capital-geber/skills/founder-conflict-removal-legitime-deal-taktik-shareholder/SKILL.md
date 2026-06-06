@@ -7,7 +7,7 @@ description: "Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufu
 
 ## Arbeitsbereich
 
-Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

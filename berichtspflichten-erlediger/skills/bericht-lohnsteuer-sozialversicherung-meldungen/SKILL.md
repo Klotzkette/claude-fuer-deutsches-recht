@@ -7,7 +7,7 @@ description: "Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmel
 
 ## Arbeitsbereich
 
-Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

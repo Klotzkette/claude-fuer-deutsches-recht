@@ -7,7 +7,7 @@ description: "Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungs
 
 ## Arbeitsbereich
 
-Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Folgeansprüche nach Designverletzung prüfen: Auskunft, Rechnungslegung, Vernichtung, Rückruf, Schadensersatzmethoden und Vergleichswert. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

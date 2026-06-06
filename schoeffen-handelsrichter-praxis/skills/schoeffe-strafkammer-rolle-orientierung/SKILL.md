@@ -7,7 +7,7 @@ description: "Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen R
 
 ## Arbeitsbereich
 
-Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schöffe in der Strafkammer (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle, Rechte, Pflichten, Fragerecht, Aktenkenntnis und richterliche Unabhängigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Ordnungswidrigkeitenrecht: OWiG in einfacher Sprache. OWiG in einf
 
 ## Arbeitsbereich
 
-Ordnungswidrigkeitenrecht: OWiG in einfacher Sprache. OWiG in einfacher Sprache im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnungswidrigkeitenrecht: OWiG in einfacher Sprache. OWiG in einfacher Sprache im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

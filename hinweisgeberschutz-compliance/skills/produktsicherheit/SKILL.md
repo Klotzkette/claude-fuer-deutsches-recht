@@ -7,7 +7,7 @@ description: "Prüft Produkt- und Sicherheitsverstöße aus Hinweisen im Hinweis
 
 ## Arbeitsbereich
 
-Prüft Produkt- und Sicherheitsverstöße aus Hinweisen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Produkt- und Sicherheitsverstöße aus Hinweisen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht im
 
 ## Arbeitsbereich
 
-Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versic
 
 ## Arbeitsbereich
 
-Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

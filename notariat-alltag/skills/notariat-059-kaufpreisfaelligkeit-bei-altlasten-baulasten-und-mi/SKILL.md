@@ -7,7 +7,7 @@ description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten 
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

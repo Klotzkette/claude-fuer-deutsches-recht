@@ -7,7 +7,7 @@ description: "Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und
 
 ## Arbeitsbereich
 
-Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

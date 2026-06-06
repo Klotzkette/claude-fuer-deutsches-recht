@@ -7,7 +7,7 @@ description: "Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gr
 
 ## Arbeitsbereich
 
-Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

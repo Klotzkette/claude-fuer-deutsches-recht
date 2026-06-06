@@ -7,7 +7,7 @@ description: "Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgebers
 
 ## Arbeitsbereich
 
-Prüft Hinweisgeberschutz im öffentlichen Dienst. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hinweisgeberschutz im öffentlichen Dienst. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

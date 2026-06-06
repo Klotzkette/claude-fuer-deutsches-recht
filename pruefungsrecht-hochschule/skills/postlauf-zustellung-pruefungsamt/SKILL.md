@@ -7,7 +7,7 @@ description: "Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobl
 
 ## Arbeitsbereich
 
-Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und 
 
 ## Arbeitsbereich
 
-Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

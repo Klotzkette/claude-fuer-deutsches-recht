@@ -7,7 +7,7 @@ description: "Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette 
 
 ## Arbeitsbereich
 
-Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

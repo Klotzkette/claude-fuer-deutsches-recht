@@ -7,7 +7,7 @@ description: "Prueft critical-vendor payments, necessity doctrine, § 503(b)(9),
 
 ## Arbeitsbereich
 
-Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfol
 
 ## Arbeitsbereich
 
-Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

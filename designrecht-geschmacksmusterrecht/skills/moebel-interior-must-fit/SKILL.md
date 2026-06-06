@@ -7,7 +7,7 @@ description: "Möbel-, Interior- und Produktdesign prüfen: Gesamteindruck, Gest
 
 ## Arbeitsbereich
 
-Möbel-, Interior- und Produktdesign prüfen: Gesamteindruck, Gestaltungsfreiheit, technische Vorgaben, Katalogoffenbarung und Messebeweise. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Möbel-, Interior- und Produktdesign prüfen: Gesamteindruck, Gestaltungsfreiheit, technische Vorgaben, Katalogoffenbarung und Messebeweise. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

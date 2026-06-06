@@ -7,7 +7,7 @@ description: "Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbesti
 
 ## Arbeitsbereich
 
-Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbestimmungsfreiheit der SE. Pruefraster fuer Family Office und boersennotierte Gruppe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbestimmungsfreiheit der SE. Pruefraster fuer Family Office und boersennotierte Gruppe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

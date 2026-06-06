@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Tracking
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Trackings richtig verwenden. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Trackings richtig verwenden. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

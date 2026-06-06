@@ -7,7 +7,7 @@ description: "Grenzt UK Whistleblowing bei Niederlassungen ab im Hinweisgebersch
 
 ## Arbeitsbereich
 
-Grenzt UK Whistleblowing bei Niederlassungen ab. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Grenzt UK Whistleblowing bei Niederlassungen ab. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

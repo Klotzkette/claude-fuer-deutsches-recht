@@ -7,7 +7,7 @@ description: "Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, S
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

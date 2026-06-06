@@ -7,7 +7,7 @@ description: "Bauueberwachung nach HOAI LPH 8 fuer Pflegeheime und Seniorenresid
 
 ## Arbeitsbereich
 
-Bauueberwachung nach HOAI LPH 8 fuer Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM fuer Pflegeheimbetreiber. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung nach HOAI LPH 8 fuer Pflegeheime und Seniorenresidenzen — Brandabschnitte und Fluchtwegebeschaffenheit nach LBO und Pflege-Richtlinie, Schallschutz Pflegezimmer nach DIN 4109, barrierefreie Ausgestaltung nach DIN 18040-2, Rauch- und Brandmeldeanlage nach DIN 14675 sowie hygienische Anforderungen nach TRBA 100. Praxisnahe Dokumentation mit PlanRadar und SAP PM fuer Pflegeheimbetreiber. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht a
 
 ## Arbeitsbereich
 
-Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht auf Chancen, Risiken, Bauchgefühl und Business-Ziel abgleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht auf Chancen, Risiken, Bauchgefühl und Business-Ziel abgleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

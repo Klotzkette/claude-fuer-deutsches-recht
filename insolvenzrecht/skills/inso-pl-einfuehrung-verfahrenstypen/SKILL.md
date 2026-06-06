@@ -7,7 +7,7 @@ description: "Insolvenzrechtsverfahren einfuehrend: Regelinsolvenz, Eigenverwalt
 
 ## Arbeitsbereich
 
-Insolvenzrechtsverfahren einfuehrend: Regelinsolvenz, Eigenverwaltung mit und ohne Schutzschirm, Verbraucher-Insolvenz, StaRUG-Restrukturierung. Pro Verfahrenstyp Schwelle, Antrag, Verlauf. Entscheidungstabelle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenzrechtsverfahren einfuehrend: Regelinsolvenz, Eigenverwaltung mit und ohne Schutzschirm, Verbraucher-Insolvenz, StaRUG-Restrukturierung. Pro Verfahrenstyp Schwelle, Antrag, Verlauf. Entscheidungstabelle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

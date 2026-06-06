@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungsk
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

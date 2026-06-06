@@ -7,7 +7,7 @@ description: "Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Repu
 
 ## Arbeitsbereich
 
-Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

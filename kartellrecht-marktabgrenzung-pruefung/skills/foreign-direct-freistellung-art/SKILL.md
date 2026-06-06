@@ -7,7 +7,7 @@ description: "FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrec
 
 ## Arbeitsbereich
 
-FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichte
 
 ## Arbeitsbereich
 
-Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

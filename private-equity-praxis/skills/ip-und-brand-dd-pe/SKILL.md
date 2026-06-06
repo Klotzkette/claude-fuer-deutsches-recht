@@ -7,7 +7,7 @@ description: "Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmere
 
 ## Arbeitsbereich
 
-Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

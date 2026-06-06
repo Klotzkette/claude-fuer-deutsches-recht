@@ -7,7 +7,7 @@ description: "Service Level Agreement: steuert Antwortzeiten, Eskalationswege, F
 
 ## Arbeitsbereich
 
-Service Level Agreement: steuert Antwortzeiten, Eskalationswege, Freigaben, Wochenberichte und Notfallkontakte vereinbaren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Service Level Agreement: steuert Antwortzeiten, Eskalationswege, Freigaben, Wochenberichte und Notfallkontakte vereinbaren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

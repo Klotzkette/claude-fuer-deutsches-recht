@@ -7,7 +7,7 @@ description: "Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfe
 
 ## Arbeitsbereich
 
-Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Praeventionscheckliste fuer Kanzleien und Mandanten: 2FA, separate
 
 ## Arbeitsbereich
 
-Praeventionscheckliste fuer Kanzleien und Mandanten: 2FA, separate Geraete fuer Banking, Phishing-Filter, BSI-Hinweise, Mitarbeiterschulung. Speziell fuer Anwaelte: kein beA auf privatem PC, Updates beA-Client. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Praeventionscheckliste fuer Kanzleien und Mandanten: 2FA, separate Geraete fuer Banking, Phishing-Filter, BSI-Hinweise, Mitarbeiterschulung. Speziell fuer Anwaelte: kein beA auf privatem PC, Updates beA-Client. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

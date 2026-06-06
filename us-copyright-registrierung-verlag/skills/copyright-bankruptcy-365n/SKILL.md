@@ -7,7 +7,7 @@ description: "Prueft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee el
 
 ## Arbeitsbereich
 
-Prueft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee election, source code and IP survival issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee election, source code and IP survival issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

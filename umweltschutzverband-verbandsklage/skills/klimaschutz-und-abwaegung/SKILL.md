@@ -7,7 +7,7 @@ description: "Umweltschutzverband Verbandsklage: Klimaschutz und Abwägung. Klim
 
 ## Arbeitsbereich
 
-Umweltschutzverband Verbandsklage: Klimaschutz und Abwägung. Klimaschutz und Abwägung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umweltschutzverband Verbandsklage: Klimaschutz und Abwägung. Klimaschutz und Abwägung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

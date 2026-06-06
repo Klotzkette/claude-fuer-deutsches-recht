@@ -7,7 +7,7 @@ description: "Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Ma
 
 ## Arbeitsbereich
 
-Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

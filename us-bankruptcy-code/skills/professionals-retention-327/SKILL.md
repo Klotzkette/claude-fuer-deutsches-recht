@@ -7,7 +7,7 @@ description: "Prueft retention of attorneys, financial advisors, investment bank
 
 ## Arbeitsbereich
 
-Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

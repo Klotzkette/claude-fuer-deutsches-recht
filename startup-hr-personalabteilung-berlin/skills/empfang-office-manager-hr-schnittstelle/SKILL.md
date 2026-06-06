@@ -7,7 +7,7 @@ description: "Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle:
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein im Kr
 
 ## Arbeitsbereich
 
-Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

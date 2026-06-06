@@ -7,7 +7,7 @@ description: "Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamt
 
 ## Arbeitsbereich
 
-Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ladung erhalten: erste Orientierung (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Multiple-Choice- und Antwort-Wahl-Verfahren im Pruefungsrec
 
 ## Arbeitsbereich
 
-Prüft Multiple-Choice- und Antwort-Wahl-Verfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Multiple-Choice- und Antwort-Wahl-Verfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

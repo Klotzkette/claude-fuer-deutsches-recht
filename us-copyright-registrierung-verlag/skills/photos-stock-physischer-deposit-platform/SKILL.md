@@ -7,7 +7,7 @@ description: "Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded con
 
 ## Arbeitsbereich
 
-Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

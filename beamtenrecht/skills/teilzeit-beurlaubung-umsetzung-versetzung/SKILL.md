@@ -7,7 +7,7 @@ description: "Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den
 
 ## Arbeitsbereich
 
-Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

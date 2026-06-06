@@ -7,7 +7,7 @@ description: "Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin e
 
 ## Arbeitsbereich
 
-Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

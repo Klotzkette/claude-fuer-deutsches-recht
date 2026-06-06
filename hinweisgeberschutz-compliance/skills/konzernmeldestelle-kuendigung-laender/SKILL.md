@@ -7,7 +7,7 @@ description: "Prüft konzernweite Meldestelle und lokale Verantwortlichkeit im H
 
 ## Arbeitsbereich
 
-Prüft konzernweite Meldestelle und lokale Verantwortlichkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft konzernweite Meldestelle und lokale Verantwortlichkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

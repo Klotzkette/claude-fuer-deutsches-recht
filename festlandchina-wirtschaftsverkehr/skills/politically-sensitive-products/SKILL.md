@@ -7,7 +7,7 @@ description: "Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze be
 
 ## Arbeitsbereich
 
-Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze bei Überwachungstechnik (Gesichtserkennung, IMSI-Catcher), Export nach XUAR/Tibet, chinesische Unreliable Entity List Gegenmaßnahmen, US-Export-Restriktionen Surveillance Tech, Reputation-Risiken bei Dual-Use-Überwachung, Compliance-Kontext Menschenrechte. Output: Politische Sensitivitätsprüfung und Export-Compliance-Memo. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze bei Überwachungstechnik (Gesichtserkennung, IMSI-Catcher), Export nach XUAR/Tibet, chinesische Unreliable Entity List Gegenmaßnahmen, US-Export-Restriktionen Surveillance Tech, Reputation-Risiken bei Dual-Use-Überwachung, Compliance-Kontext Menschenrechte. Output: Politische Sensitivitätsprüfung und Export-Compliance-Memo. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

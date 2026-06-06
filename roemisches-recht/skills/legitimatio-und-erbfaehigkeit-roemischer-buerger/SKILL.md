@@ -7,7 +7,7 @@ description: "Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erbe
 
 ## Arbeitsbereich
 
-Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleic
 
 ## Arbeitsbereich
 
-Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleichsbruch und Kosten im Dashboard führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleichsbruch und Kosten im Dashboard führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

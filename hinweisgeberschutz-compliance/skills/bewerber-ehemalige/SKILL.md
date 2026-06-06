@@ -7,7 +7,7 @@ description: "Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz 
 
 ## Arbeitsbereich
 
-Prüft Bewerber und ehemalige Beschäftigte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bewerber und ehemalige Beschäftigte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

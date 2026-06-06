@@ -7,7 +7,7 @@ description: "Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderh
 
 ## Arbeitsbereich
 
-Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

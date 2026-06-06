@@ -7,7 +7,7 @@ description: "Government Relations in China: Clean-Compliance-Anforderungen, Ant
 
 ## Arbeitsbereich
 
-Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Neuheit, obviousness, written description, enablement und d
 
 ## Arbeitsbereich
 
-Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

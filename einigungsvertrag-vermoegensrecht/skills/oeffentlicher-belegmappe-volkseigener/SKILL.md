@@ -7,7 +7,7 @@ description: "Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher 
 
 ## Arbeitsbereich
 
-Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Vergleich mit öffentlicher Hand im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Vergleich mit öffentlicher Hand im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

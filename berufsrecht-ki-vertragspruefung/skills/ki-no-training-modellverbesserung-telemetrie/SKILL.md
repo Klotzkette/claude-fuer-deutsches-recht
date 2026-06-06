@@ -9,7 +9,7 @@ description: "No-Training, Modellverbesserung und Telemetrie im KI-Vertrag prüf
 
 Die Dienstleistung darf Mandatsdaten verarbeiten, soweit das für den beauftragten Zweck nötig ist. Daraus folgt nicht, dass der Anbieter diese Daten für Training, allgemeine Produktverbesserung, Benchmarks, Qualitätsdatenbanken oder Vertriebsanalysen nutzen darf.
 
-## Prüffelder
+## Prüfungslinien
 
 - **Training:** Fine-Tuning, Reinforcement Learning, supervised review, synthetische Trainingsdaten aus Mandatsinput.
 - **Produktverbesserung:** Qualitätsmetriken, Fehleranalyse, Modellvergleiche, Prompt-/Output-Sammlungen.

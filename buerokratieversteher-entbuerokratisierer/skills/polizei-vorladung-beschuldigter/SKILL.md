@@ -7,7 +7,7 @@ description: "Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über V
 
 ## Arbeitsbereich
 
-Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage im Pl
 
 ## Arbeitsbereich
 
-Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaf
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaffenheitsvereinbarung und Architektenhaftung nach BGH VII ZR 395/01 und VII ZR 185/13 mit Beweislast und Dolo-agit-Einwand prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaffenheitsvereinbarung und Architektenhaftung nach BGH VII ZR 395/01 und VII ZR 185/13 mit Beweislast und Dolo-agit-Einwand prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

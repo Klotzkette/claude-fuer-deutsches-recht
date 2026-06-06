@@ -7,7 +7,7 @@ description: "Prueft safe harbors for securities contracts, commodities, forward
 
 ## Arbeitsbereich
 
-Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

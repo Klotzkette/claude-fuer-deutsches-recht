@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte V
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile fuer Helfer pruefen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile fuer Helfer pruefen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

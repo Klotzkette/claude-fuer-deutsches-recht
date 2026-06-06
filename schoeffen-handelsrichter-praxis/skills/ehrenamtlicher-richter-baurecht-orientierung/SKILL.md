@@ -7,7 +7,7 @@ description: "Ehrenamtlicher Richter Baurecht (Orientierung): hilft ehrenamtlich
 
 ## Arbeitsbereich
 
-Ehrenamtlicher Richter Baurecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ehrenamtlicher Richter Baurecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

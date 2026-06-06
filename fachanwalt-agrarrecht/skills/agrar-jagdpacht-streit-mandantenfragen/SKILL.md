@@ -7,10 +7,10 @@ description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Agrar Jagdpacht Streit Mandantenfragen** ordnet den Fall über die tragenden Prüffelder: Spezialfall Jagdpachtstreit, Typische Mandantenfragen Agrarrecht und Routing, Spezialfall Paechterbetrieb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Agrar Jagdpacht Streit Mandantenfragen** führt durch die falltragenden Prüfungslinien: Spezialfall Jagdpachtstreit, Typische Mandantenfragen Agrarrecht und Routing, Spezialfall Paechterbetrieb. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `agrar-jagdpacht-streit-spezial` | Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten. Pruefraster und Mustertexte fuer Pachtvertrag und Klage. |
 | `agrar-mandantenfragen-typisch` | Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Foerderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills. |
@@ -23,7 +23,7 @@ description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkr
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `agrar-jagdpacht-streit-spezial`
 

@@ -7,7 +7,7 @@ description: "Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokument
 
 ## Arbeitsbereich
 
-Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

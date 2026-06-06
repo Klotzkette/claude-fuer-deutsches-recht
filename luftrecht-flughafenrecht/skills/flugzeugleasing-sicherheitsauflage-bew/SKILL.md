@@ -7,7 +7,7 @@ description: "Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggebe
 
 ## Arbeitsbereich
 
-Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

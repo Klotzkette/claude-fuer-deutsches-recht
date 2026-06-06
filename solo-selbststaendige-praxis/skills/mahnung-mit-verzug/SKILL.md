@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sa
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

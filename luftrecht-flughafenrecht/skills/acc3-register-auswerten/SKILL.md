@@ -7,7 +7,7 @@ description: "Mandant will ACC3-Designierungsstatus und Validierungsstand eines 
 
 ## Arbeitsbereich
 
-Mandant will ACC3-Designierungsstatus und Validierungsstand eines Carriers auswerten. Prueft EU-DVO 2015/1998 EU-Datenbank fuer ACC3-designierte Carrier RA3/KC3-Status und Validierungsgueltigkeit und liefert Compliance-Status-Bericht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandant will ACC3-Designierungsstatus und Validierungsstand eines Carriers auswerten. Prueft EU-DVO 2015/1998 EU-Datenbank fuer ACC3-designierte Carrier RA3/KC3-Status und Validierungsgueltigkeit und liefert Compliance-Status-Bericht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

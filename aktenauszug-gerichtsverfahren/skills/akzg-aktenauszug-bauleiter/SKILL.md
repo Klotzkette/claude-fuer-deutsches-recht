@@ -7,7 +7,7 @@ description: "Bauleiter Aktenauszug fuer Gerichtsverfahren: Sachverhalt, Streits
 
 ## Arbeitsbereich
 
-Bauleiter Aktenauszug fuer Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit fuer Berufung und Revision. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Aktenauszug fuer Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit fuer Berufung und Revision. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

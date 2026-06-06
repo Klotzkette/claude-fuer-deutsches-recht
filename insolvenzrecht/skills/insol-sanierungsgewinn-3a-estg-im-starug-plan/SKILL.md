@@ -7,7 +7,7 @@ description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 
 
 ## Arbeitsbereich
 
-Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik fuer den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte fuer Restrukturierungsplan und Steuererklaerung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik fuer den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte fuer Restrukturierungsplan und Steuererklaerung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

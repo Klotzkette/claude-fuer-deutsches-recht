@@ -7,7 +7,7 @@ description: "Prueft US-Copyright in Kampagnen: copy, music, video, photos, soci
 
 ## Arbeitsbereich
 
-Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

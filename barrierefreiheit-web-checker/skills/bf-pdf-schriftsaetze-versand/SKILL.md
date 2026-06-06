@@ -7,7 +7,7 @@ description: "Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: ge
 
 ## Arbeitsbereich
 
-Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste fuer Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste fuer Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

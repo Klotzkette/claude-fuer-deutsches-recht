@@ -7,7 +7,7 @@ description: "Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung im S
 
 ## Arbeitsbereich
 
-Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

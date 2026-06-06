@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie sp
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

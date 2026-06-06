@@ -7,7 +7,7 @@ description: "Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG,
 
 ## Arbeitsbereich
 
-Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG, Zitat, Karikatur, Parodie, Pastiche und Bearbeitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG, Zitat, Karikatur, Parodie, Pastiche und Bearbeitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

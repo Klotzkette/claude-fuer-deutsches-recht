@@ -7,7 +7,7 @@ description: "Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder L
 
 ## Arbeitsbereich
 
-Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

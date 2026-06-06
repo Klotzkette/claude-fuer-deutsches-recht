@@ -7,7 +7,7 @@ description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music 
 
 ## Arbeitsbereich
 
-Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

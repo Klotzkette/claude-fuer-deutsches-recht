@@ -7,7 +7,7 @@ description: "Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vert
 
 ## Arbeitsbereich
 
-Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

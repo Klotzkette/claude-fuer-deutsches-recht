@@ -7,7 +7,7 @@ description: "Verknüpft Hinweise mit Lieferkette und Menschenrechten im Hinweis
 
 ## Arbeitsbereich
 
-Verknüpft Hinweise mit Lieferkette und Menschenrechten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft Hinweise mit Lieferkette und Menschenrechten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

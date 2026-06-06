@@ -7,7 +7,7 @@ description: "Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pool
 
 ## Arbeitsbereich
 
-Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

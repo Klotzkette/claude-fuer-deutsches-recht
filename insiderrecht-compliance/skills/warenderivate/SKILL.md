@@ -7,7 +7,7 @@ description: "Prueft Insiderrecht und Marktmanipulationsverbot fuer Warenderivat
 
 ## Arbeitsbereich
 
-Prueft Insiderrecht und Marktmanipulationsverbot fuer Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT fuer Energiemaerkte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Insiderrecht und Marktmanipulationsverbot fuer Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT fuer Energiemaerkte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

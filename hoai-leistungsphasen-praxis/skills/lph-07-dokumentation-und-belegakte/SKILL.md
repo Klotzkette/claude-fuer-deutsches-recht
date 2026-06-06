@@ -7,7 +7,7 @@ description: "HOAI LPH 7 Mitwirkung bei der Vergabe: sichert Protokolle, Planst�
 
 ## Arbeitsbereich
 
-HOAI LPH 7 Mitwirkung bei der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 7 Mitwirkung bei der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

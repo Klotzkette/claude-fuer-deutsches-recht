@@ -7,7 +7,7 @@ description: "Prüft Datenschutz bei Prüfungsdaten im Pruefungsrecht Hochschule
 
 ## Arbeitsbereich
 
-Prüft Datenschutz bei Prüfungsdaten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Datenschutz bei Prüfungsdaten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

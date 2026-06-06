@@ -7,7 +7,7 @@ description: "Organisiert US-Discovery-relevante Beweise: source files, metadata
 
 ## Arbeitsbereich
 
-Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

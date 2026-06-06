@@ -7,7 +7,7 @@ description: "Prueft adequate protection for secured creditors: payments, replac
 
 ## Arbeitsbereich
 
-Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Ni
 
 ## Arbeitsbereich
 
-Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Nichtigkeit, fehlende Dringlichkeit, Vorbekanntes, Rechtekette und Marktfolgen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Nichtigkeit, fehlende Dringlichkeit, Vorbekanntes, Rechtekette und Marktfolgen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

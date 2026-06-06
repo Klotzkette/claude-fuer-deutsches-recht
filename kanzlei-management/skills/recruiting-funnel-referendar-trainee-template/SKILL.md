@@ -7,7 +7,7 @@ description: "Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experien
 
 ## Arbeitsbereich
 
-Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

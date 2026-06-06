@@ -7,7 +7,7 @@ description: "Evidence Request Pack: steuert Belege vom Mandanten so anfordern, 
 
 ## Arbeitsbereich
 
-Evidence Request Pack: steuert Belege vom Mandanten so anfordern, dass sie wirklich kommen und verwendbar sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Evidence Request Pack: steuert Belege vom Mandanten so anfordern, dass sie wirklich kommen und verwendbar sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

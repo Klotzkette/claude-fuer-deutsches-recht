@@ -7,7 +7,7 @@ description: "Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix
 
 ## Arbeitsbereich
 
-Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

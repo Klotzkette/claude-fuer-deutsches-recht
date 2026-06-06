@@ -7,7 +7,7 @@ description: "Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfall
 
 ## Arbeitsbereich
 
-Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

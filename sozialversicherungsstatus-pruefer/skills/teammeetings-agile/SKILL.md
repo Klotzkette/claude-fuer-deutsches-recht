@@ -7,7 +7,7 @@ description: "Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmee
 
 ## Arbeitsbereich
 
-Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

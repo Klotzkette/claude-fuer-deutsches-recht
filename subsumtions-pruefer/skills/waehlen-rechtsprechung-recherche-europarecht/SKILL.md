@@ -7,7 +7,7 @@ description: "Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, B
 
 ## Arbeitsbereich
 
-Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checklis
 
 ## Aufgabe
 
-Dieser Prüffeld wählt den richtigen Output-Typ für die Arbeitsaufgabe. Er unterscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline und Mandantenübersetzung und gibt Stil- und Formatierungsanweisungen.
+Dieser Prüfungslinie wählt den richtigen Output-Typ für die Arbeitsaufgabe. Er unterscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline und Mandantenübersetzung und gibt Stil- und Formatierungsanweisungen.
 
 ## Output-Typen und wann sie passen
 

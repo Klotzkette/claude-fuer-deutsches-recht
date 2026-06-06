@@ -7,7 +7,7 @@ description: "Prueft mass tort Chapter 11 issues: claims estimation, channeling,
 
 ## Arbeitsbereich
 
-Prueft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

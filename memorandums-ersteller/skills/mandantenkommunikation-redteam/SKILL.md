@@ -7,7 +7,7 @@ description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nach
 
 ## Arbeitsbereich
 
-Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Ents
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage, Kurzergebnis, Begründung, Risiko, Empfehlung), Akteneinsichtsantrag, Vollmacht, Honorarvereinbarung, Tatsachenpaket — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld übersetzt die rechtliche Bewertung des Memos in eine knappe, entscheidungsorientierte Nachricht an den Mandanten (Geschäftsführung, Vorstand, Inhouse-Counsel oder externe Stakeholder).
+Dieser Prüfungslinie übersetzt die rechtliche Bewertung des Memos in eine knappe, entscheidungsorientierte Nachricht an den Mandanten (Geschäftsführung, Vorstand, Inhouse-Counsel oder externe Stakeholder).
 
 ## Memo-Cover für Mandant
 - **Adressat-spezifisch:** Geschäftsführung -- knapp, Risiko/Empfehlung; Vorstand/Aufsichtsrat -- mit Governance-Bezug; Investor -- mit Auswirkung auf Deal; Behörde -- ohne werbendes Element.

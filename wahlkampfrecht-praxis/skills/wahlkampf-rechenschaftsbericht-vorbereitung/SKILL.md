@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Wahlkampfbelege fuer den Rechenschaftsberic
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlkampfbelege fuer den Rechenschaftsbericht aufbereiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlkampfbelege fuer den Rechenschaftsbericht aufbereiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

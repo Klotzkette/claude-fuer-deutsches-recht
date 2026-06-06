@@ -7,7 +7,7 @@ description: "Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde im
 
 ## Arbeitsbereich
 
-Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

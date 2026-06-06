@@ -7,7 +7,7 @@ description: "Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb d
 
 ## Arbeitsbereich
 
-Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

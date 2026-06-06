@@ -7,7 +7,7 @@ description: "Prueft filing, public docket, sealing, redaction, confidential inf
 
 ## Arbeitsbereich
 
-Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

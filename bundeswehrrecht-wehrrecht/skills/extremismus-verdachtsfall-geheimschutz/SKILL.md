@@ -7,7 +7,7 @@ description: "Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft 
 
 ## Arbeitsbereich
 
-Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

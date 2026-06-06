@@ -7,7 +7,7 @@ description: "Prüft Abgabefrist, Upload, technische Störung, Posteingang und F
 
 ## Arbeitsbereich
 
-Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

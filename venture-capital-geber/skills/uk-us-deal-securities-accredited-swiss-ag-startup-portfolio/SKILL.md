@@ -7,7 +7,7 @@ description: "Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred s
 
 ## Arbeitsbereich
 
-Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschut
 
 ## Arbeitsbereich
 
-Erstellt Jahresbericht ohne Identitätsrisiko. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Jahresbericht ohne Identitätsrisiko. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

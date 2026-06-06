@@ -7,10 +7,10 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 
 ## Arbeitsbereich
 
-**Zweckentfremdung WEG Kostenverteilung** ordnet den Fall über die tragenden Prüffelder: Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zweckentfremdung WEG Kostenverteilung** führt durch die falltragenden Prüfungslinien: Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-zweckentfremdung` | Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `weg-kostenverteilung-ruecklage-und-gewerbeprivileg` | Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs. 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23. |
@@ -24,7 +24,7 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-zweckentfremdung`
 
@@ -41,7 +41,7 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
+Dieses Fachmodul bearbeitet im Plugin `fachanwalt-miet-wohnungseigentumsrecht`: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
 
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?

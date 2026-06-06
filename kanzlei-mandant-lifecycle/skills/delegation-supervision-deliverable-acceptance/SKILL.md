@@ -7,7 +7,7 @@ description: "Delegation und Supervision: steuert Wer darf was tun, wie wird rev
 
 ## Arbeitsbereich
 
-Delegation und Supervision: steuert Wer darf was tun, wie wird reviewed, wann muss Partnerin selbst ran zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Delegation und Supervision: steuert Wer darf was tun, wie wird reviewed, wann muss Partnerin selbst ran zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

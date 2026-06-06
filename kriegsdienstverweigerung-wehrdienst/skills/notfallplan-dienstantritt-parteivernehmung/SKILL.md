@@ -7,7 +7,7 @@ description: "Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung od
 
 ## Arbeitsbereich
 
-Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

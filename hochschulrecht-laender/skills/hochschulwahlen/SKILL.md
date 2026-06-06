@@ -7,7 +7,7 @@ description: "Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Laender:
 
 ## Arbeitsbereich
 
-Prüft Hochschulwahlen und Wahlprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulwahlen und Wahlprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

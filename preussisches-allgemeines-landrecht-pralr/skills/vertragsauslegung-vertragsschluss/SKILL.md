@@ -7,7 +7,7 @@ description: "Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das
 
 ## Arbeitsbereich
 
-Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das Auslegungsraster die bona fides die exceptio doli und die Fortwirkung in § 242 BGB. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das Auslegungsraster die bona fides die exceptio doli und die Fortwirkung in § 242 BGB. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

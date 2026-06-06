@@ -7,7 +7,7 @@ description: "Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vert
 
 ## Arbeitsbereich
 
-Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

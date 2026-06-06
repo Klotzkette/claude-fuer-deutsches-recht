@@ -7,7 +7,7 @@ description: "Prüft Schadensersatzansprüche bei Repressalien im Hinweisgebersc
 
 ## Arbeitsbereich
 
-Prüft Schadensersatzansprüche bei Repressalien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schadensersatzansprüche bei Repressalien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

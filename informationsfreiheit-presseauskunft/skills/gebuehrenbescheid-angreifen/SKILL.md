@@ -7,7 +7,7 @@ description: "Informationsfreiheit und Presseauskunft: Gebührenbescheid angreif
 
 ## Arbeitsbereich
 
-Informationsfreiheit und Presseauskunft: Gebührenbescheid angreifen. Gebührenbescheid angreifen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Informationsfreiheit und Presseauskunft: Gebührenbescheid angreifen. Gebührenbescheid angreifen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

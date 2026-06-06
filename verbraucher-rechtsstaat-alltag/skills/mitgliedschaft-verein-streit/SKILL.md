@@ -7,7 +7,7 @@ description: "Mitgliedschaft im Verein Streit: führt Laien durch Beitrag, Aussc
 
 ## Arbeitsbereich
 
-Mitgliedschaft im Verein Streit: führt Laien durch Beitrag, Ausschluss, Hausverbot, Mitgliederversammlung und vereinsinterne Rechtsmittel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mitgliedschaft im Verein Streit: führt Laien durch Beitrag, Ausschluss, Hausverbot, Mitgliederversammlung und vereinsinterne Rechtsmittel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

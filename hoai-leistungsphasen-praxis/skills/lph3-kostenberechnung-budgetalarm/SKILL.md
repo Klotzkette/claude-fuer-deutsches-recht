@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreig
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreigabe, Kostenobergrenze, Fördermittelgrenze und Warnpflicht bei Kostensteigerungen im Entwurf prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 3: Kostenberechnung, Budgetalarm, Entwurfsfreigabe, Kostenobergrenze, Fördermittelgrenze und Warnpflicht bei Kostensteigerungen im Entwurf prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

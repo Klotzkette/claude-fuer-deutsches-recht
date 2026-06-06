@@ -7,7 +7,7 @@ description: "Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung,
 
 ## Arbeitsbereich
 
-Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

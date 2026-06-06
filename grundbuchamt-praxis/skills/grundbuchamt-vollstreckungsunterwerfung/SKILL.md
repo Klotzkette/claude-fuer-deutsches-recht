@@ -7,7 +7,7 @@ description: "Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel u
 
 ## Arbeitsbereich
 
-Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

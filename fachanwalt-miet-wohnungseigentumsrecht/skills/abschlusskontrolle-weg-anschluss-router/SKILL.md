@@ -7,16 +7,16 @@ description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigen
 
 ## Arbeitsbereich
 
-**Abschlusskontrolle WEG Anschluss Router** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und, Abschlusskontrolle Miet/WEG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Abschlusskontrolle WEG Anschluss Router** führt durch die falltragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und, Abschlusskontrolle Miet/WEG. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills. |
-| `workflow-abschlusskontrolle-miet-weg` | Abschlusskontrolle Miet/WEG: Prüffeld für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-abschlusskontrolle-miet-weg` | Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
-| `workflow-balkonkraftwerk-solar` | Balkonkraftwerk und Solar: Prüffeld für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-barrierefreiheit-weg-miete` | Barrierefreiheit in Miete/WEG: Prüffeld für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-balkonkraftwerk-solar` | Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-barrierefreiheit-weg-miete` | Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigen
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
@@ -79,7 +79,7 @@ Gib zuerst eine Kurzlage aus: `Falltyp`, `Frist`, `größtes Risiko`, `fehlende 
 
 ## 2. `workflow-abschlusskontrolle-miet-weg`
 
-**Fokus:** Abschlusskontrolle Miet/WEG: Prüffeld für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Abschlusskontrolle Miet/WEG
 
@@ -92,7 +92,7 @@ Gib zuerst eine Kurzlage aus: `Falltyp`, `Frist`, `größtes Risiko`, `fehlende 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -166,7 +166,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 4. `workflow-balkonkraftwerk-solar`
 
-**Fokus:** Balkonkraftwerk und Solar: Prüffeld für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Balkonkraftwerk und Solar
 
@@ -179,7 +179,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -210,7 +210,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-barrierefreiheit-weg-miete`
 
-**Fokus:** Barrierefreiheit in Miete/WEG: Prüffeld für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Barrierefreiheit in Miete/WEG
 
@@ -223,7 +223,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

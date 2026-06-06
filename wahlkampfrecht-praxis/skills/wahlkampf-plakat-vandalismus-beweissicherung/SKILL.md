@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Beweissicherung bei beschaedigten Wahlplaka
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Beweissicherung bei beschaedigten Wahlplakaten organisieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Beweissicherung bei beschaedigten Wahlplakaten organisieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

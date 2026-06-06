@@ -7,7 +7,7 @@ description: "Plant zulässige und angemessene Folgemaßnahmen im Hinweisgebersc
 
 ## Arbeitsbereich
 
-Plant zulässige und angemessene Folgemaßnahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant zulässige und angemessene Folgemaßnahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

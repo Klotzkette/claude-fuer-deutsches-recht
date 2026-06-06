@@ -7,7 +7,7 @@ description: "Prueft Mask Works, Semiconductor Chip Protection Act, registration
 
 ## Arbeitsbereich
 
-Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

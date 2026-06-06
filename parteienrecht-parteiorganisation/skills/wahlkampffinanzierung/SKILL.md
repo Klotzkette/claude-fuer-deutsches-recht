@@ -7,7 +7,7 @@ description: "Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakat
 
 ## Arbeitsbereich
 
-Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

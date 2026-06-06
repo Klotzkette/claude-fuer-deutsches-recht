@@ -7,7 +7,7 @@ description: "Prüft Hochschulrecht in Saarland mit Landeshochschulgesetz, Satzu
 
 ## Arbeitsbereich
 
-Prüft Hochschulrecht in Saarland mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulrecht in Saarland mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

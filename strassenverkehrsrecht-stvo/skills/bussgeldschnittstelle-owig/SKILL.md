@@ -7,7 +7,7 @@ description: "Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldsc
 
 ## Arbeitsbereich
 
-Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldschnittstelle OWiG im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldschnittstelle OWiG im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

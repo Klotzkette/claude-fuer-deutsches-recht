@@ -7,7 +7,7 @@ description: "Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung 
 
 ## Arbeitsbereich
 
-Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

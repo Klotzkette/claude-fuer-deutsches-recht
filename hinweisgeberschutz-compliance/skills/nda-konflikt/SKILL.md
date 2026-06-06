@@ -7,7 +7,7 @@ description: "Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschu
 
 ## Arbeitsbereich
 
-Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

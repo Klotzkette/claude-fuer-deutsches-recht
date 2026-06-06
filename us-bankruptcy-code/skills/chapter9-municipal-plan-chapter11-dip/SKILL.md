@@ -7,7 +7,7 @@ description: "Prueft municipality eligibility, state authorization, insolvency, 
 
 ## Arbeitsbereich
 
-Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

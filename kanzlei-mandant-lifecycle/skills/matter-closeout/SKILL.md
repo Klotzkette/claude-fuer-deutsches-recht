@@ -7,7 +7,7 @@ description: "Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene
 
 ## Arbeitsbereich
 
-Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

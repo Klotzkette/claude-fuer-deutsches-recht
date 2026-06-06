@@ -7,7 +7,7 @@ description: "Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Aus
 
 ## Arbeitsbereich
 
-Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Ausland. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Ausland. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Pfandrecht an Luftfahrzeugen: Zustaendigkeit AG Braunschweig vs. I
 
 ## Arbeitsbereich
 
-Pfandrecht an Luftfahrzeugen: Zustaendigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzustaendigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zustaendigkeits-Vermerk fuer nationales und internationales Pfandrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pfandrecht an Luftfahrzeugen: Zustaendigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzustaendigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zustaendigkeits-Vermerk fuer nationales und internationales Pfandrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

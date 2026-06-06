@@ -1,13 +1,13 @@
 ---
 name: ki-folgenabschaetzung-ki-governance-mandat
-description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt \'Folgenabschätzung für\', \'diesen KI-Anwendungsfall bewerten\', \'FRIA erstellen\', \'KI-Folgenabschätzung generieren\', \'wir müssen dieses KI-System dokumentieren\', \'KI-Risikoprüfung für X\' oder nach einem bedingten Triage-Ergebnis im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt 'Folgenabschätzung für', 'diesen KI-Anwendungsfall bewerten', 'FRIA erstellen', 'KI-Folgenabschätzung generieren', 'wir müssen dieses KI-System dokumentieren', 'KI-Risikoprüfung für X' oder nach einem bedingten Triage-Ergebnis im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # /ki-folgenabschätzung – KI-Folgenabschätzung
 
 ## Arbeitsbereich
 
-KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

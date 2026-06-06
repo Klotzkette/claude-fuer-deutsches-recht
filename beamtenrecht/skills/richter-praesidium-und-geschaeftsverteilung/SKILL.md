@@ -7,7 +7,7 @@ description: "Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit
 
 ## Arbeitsbereich
 
-Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

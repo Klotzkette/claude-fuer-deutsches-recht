@@ -7,7 +7,7 @@ description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und 
 
 ## Arbeitsbereich
 
-Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

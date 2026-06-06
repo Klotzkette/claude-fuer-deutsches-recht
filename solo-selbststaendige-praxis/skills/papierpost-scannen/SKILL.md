@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit F
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit Frist, Quelle und Ablageort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit Frist, Quelle und Ablageort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

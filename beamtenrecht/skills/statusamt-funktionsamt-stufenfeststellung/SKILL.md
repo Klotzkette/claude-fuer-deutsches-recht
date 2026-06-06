@@ -7,7 +7,7 @@ description: "Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig f�
 
 ## Arbeitsbereich
 
-Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig für Umsetzung, Beförderung, amtsangemessene Beschäftigung und Bewerbungsverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Statusamt, Funktionsamt und Dienstposten unterscheiden: wichtig für Umsetzung, Beförderung, amtsangemessene Beschäftigung und Bewerbungsverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

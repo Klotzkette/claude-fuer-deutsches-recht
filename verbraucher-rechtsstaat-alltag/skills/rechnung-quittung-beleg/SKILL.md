@@ -7,7 +7,7 @@ description: "Rechnung, Quittung und Beleg: erklärt wann ein Beleg nötig ist, 
 
 ## Arbeitsbereich
 
-Rechnung, Quittung und Beleg: erklärt wann ein Beleg nötig ist, was geprüft wird und wie man reklamiert in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechnung, Quittung und Beleg: erklärt wann ein Beleg nötig ist, was geprüft wird und wie man reklamiert in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

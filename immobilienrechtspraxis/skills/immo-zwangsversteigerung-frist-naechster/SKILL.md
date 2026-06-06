@@ -7,7 +7,7 @@ description: "Zwangsversteigerung Verfahren: Antrag, Wertgutachten, Termin, Mind
 
 ## Arbeitsbereich
 
-Zwangsversteigerung Verfahren: Antrag, Wertgutachten, Termin, Mindestgebot, Sicherheitsleistung. Strategie fuer Glaeubiger und fuer Schuldner (Vollstreckungsschutz § 765a ZPO). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zwangsversteigerung Verfahren: Antrag, Wertgutachten, Termin, Mindestgebot, Sicherheitsleistung. Strategie fuer Glaeubiger und fuer Schuldner (Vollstreckungsschutz § 765a ZPO). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

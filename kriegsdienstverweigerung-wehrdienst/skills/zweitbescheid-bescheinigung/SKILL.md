@@ -7,7 +7,7 @@ description: "Formuliert Antrag auf Bestätigung oder Zweitausfertigung einer fr
 
 ## Arbeitsbereich
 
-Formuliert Antrag auf Bestätigung oder Zweitausfertigung einer früheren Anerkennung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Antrag auf Bestätigung oder Zweitausfertigung einer früheren Anerkennung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

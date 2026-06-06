@@ -7,7 +7,7 @@ description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nach
 
 ## Arbeitsbereich
 
-Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Ents
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld formuliert die Beratungsantwort an Rechtsuchende einer niedrigschwelligen Beratungsstelle: klare Sprache, knappe Sätze, konkrete nächste Schritte, Fristen prominent, keine Floskeln.
+Dieser Prüfungslinie formuliert die Beratungsantwort an Rechtsuchende einer niedrigschwelligen Beratungsstelle: klare Sprache, knappe Sätze, konkrete nächste Schritte, Fristen prominent, keine Floskeln.
 
 ## Sprachregeln Niedrigschwellige Beratung
 - **Einfache Sprache (B1-Niveau):** kurze Sätze (max. 15 Wörter), aktive Verben, keine Schachtelsätze. Wo nötig, Leichte Sprache mit klaren Trennzeichen.

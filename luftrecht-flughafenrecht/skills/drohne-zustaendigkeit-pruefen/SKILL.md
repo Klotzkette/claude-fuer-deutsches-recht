@@ -7,7 +7,7 @@ description: "Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nu
 
 ## Arbeitsbereich
 
-Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behoerde zustaendig. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zustaendigkeits-Vermerk fuer Drohnen-Genehmigung oder Streit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behoerde zustaendig. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zustaendigkeits-Vermerk fuer Drohnen-Genehmigung oder Streit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

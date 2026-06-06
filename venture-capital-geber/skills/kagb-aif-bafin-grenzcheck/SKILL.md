@@ -7,7 +7,7 @@ description: "Prüft, ob gemeinsames Einsammeln und Investieren in Startups in R
 
 ## Arbeitsbereich
 
-Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

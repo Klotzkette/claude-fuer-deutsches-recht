@@ -7,7 +7,7 @@ description: "Prueft cash collateral, lender consent, adequate protection, budge
 
 ## Arbeitsbereich
 
-Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

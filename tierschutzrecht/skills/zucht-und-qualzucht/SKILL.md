@@ -7,7 +7,7 @@ description: "Tierschutzrecht: Zucht und Qualzucht. Zucht und Qualzucht im Fachg
 
 ## Arbeitsbereich
 
-Tierschutzrecht: Zucht und Qualzucht. Zucht und Qualzucht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Tierschutzrecht: Zucht und Qualzucht. Zucht und Qualzucht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

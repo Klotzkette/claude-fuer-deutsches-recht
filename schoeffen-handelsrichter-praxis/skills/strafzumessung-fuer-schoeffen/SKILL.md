@@ -7,7 +7,7 @@ description: "Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milde
 
 ## Arbeitsbereich
 
-Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

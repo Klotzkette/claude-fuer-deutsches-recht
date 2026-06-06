@@ -7,7 +7,7 @@ description: "Prüft DMS, HR, Mandantenportale, KI-Tools, AVV und Löschung. Fü
 
 ## Arbeitsbereich
 
-Prüft DMS, HR, Mandantenportale, KI-Tools, AVV und Löschung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft DMS, HR, Mandantenportale, KI-Tools, AVV und Löschung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hi
 
 ## Arbeitsbereich
 
-Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

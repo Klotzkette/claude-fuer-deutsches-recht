@@ -7,7 +7,7 @@ description: "Prueft recognition of foreign proceedings, foreign main/nonmain, C
 
 ## Arbeitsbereich
 
-Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsv
 
 ## Arbeitsbereich
 
-Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

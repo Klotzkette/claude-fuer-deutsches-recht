@@ -7,7 +7,7 @@ description: "Verknüpft IT-Security mit Geschäftsgeheimnisschutz im Nis2 Cyber
 
 ## Arbeitsbereich
 
-Verknüpft IT-Security mit Geschäftsgeheimnisschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verknüpft IT-Security mit Geschäftsgeheimnisschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "RFP Kanzleiauswahl: steuert Pitch/RFP für Kanzlei erstellen, Antw
 
 ## Arbeitsbereich
 
-RFP Kanzleiauswahl: steuert Pitch/RFP für Kanzlei erstellen, Antworten vergleichen und nicht nur Stundensatz bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+RFP Kanzleiauswahl: steuert Pitch/RFP für Kanzlei erstellen, Antworten vergleichen und nicht nur Stundensatz bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Gl
 
 ## Arbeitsbereich
 
-Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk fuer Luftfracht-Finanzierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk fuer Luftfracht-Finanzierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitä
 
 ## Arbeitsbereich
 
-Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Beweislastumkehr nach Meldung im Hinweisgeberschutz Complia
 
 ## Arbeitsbereich
 
-Prüft Beweislastumkehr nach Meldung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beweislastumkehr nach Meldung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

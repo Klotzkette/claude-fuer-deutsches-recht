@@ -7,10 +7,10 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 
 ## Arbeitsbereich
 
-**Fristverlaengerung Laien Oertliche SGG** ordnet den Fall über die tragenden Prüffelder: Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Fristverlaengerung Laien Oertliche SGG** führt durch die falltragenden Prüfungslinien: Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fristverlaengerung-sozialgericht-laien` | Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten. |
 | `oertliche-zustaendigkeit-57-sgg` | Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden. |
@@ -25,7 +25,7 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fristverlaengerung-sozialgericht-laien`
 

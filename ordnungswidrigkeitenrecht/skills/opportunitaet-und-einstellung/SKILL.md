@@ -7,7 +7,7 @@ description: "Ordnungswidrigkeitenrecht: Opportunität und Einstellung. Opportun
 
 ## Arbeitsbereich
 
-Ordnungswidrigkeitenrecht: Opportunität und Einstellung. Opportunität und Einstellung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnungswidrigkeitenrecht: Opportunität und Einstellung. Opportunität und Einstellung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

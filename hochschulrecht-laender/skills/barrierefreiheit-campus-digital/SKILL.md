@@ -7,7 +7,7 @@ description: "Prüft bauliche und digitale Barrierefreiheit, Studienorganisation
 
 ## Arbeitsbereich
 
-Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

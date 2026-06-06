@@ -9,7 +9,7 @@ description: "Schriftsatz-Red-Team gegen KI-Halluzinationen: erfundene Rechtspre
 
 Vor jeder Einreichung eines KI-unterstützten Schriftsatzes, Gutachtens oder Memos. Der Skill prüft nicht Stil, sondern Verlässlichkeit.
 
-## Prüffelder
+## Prüfungslinien
 
 | Feld | Risiko | Kontrolle |
 |---|---|---|

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen 
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

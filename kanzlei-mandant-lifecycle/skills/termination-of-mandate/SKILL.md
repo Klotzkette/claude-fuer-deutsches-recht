@@ -7,7 +7,7 @@ description: "Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Heraus
 
 ## Arbeitsbereich
 
-Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

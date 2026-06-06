@@ -7,7 +7,7 @@ description: "Eintragung in nationales Weltraumregister – Nachweise, Fehler, W
 
 ## Arbeitsbereich
 
-Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

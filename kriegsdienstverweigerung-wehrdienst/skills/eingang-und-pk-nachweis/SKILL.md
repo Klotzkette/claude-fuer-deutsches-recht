@@ -7,7 +7,7 @@ description: "Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtss
 
 ## Arbeitsbereich
 
-Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

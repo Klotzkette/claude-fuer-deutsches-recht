@@ -7,7 +7,7 @@ description: "Baut 100-Tage-Programm für Cyber-Compliance im Nis2 Cybersecurity
 
 ## Arbeitsbereich
 
-Baut 100-Tage-Programm für Cyber-Compliance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut 100-Tage-Programm für Cyber-Compliance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

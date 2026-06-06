@@ -7,7 +7,7 @@ description: "Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und F
 
 ## Arbeitsbereich
 
-Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

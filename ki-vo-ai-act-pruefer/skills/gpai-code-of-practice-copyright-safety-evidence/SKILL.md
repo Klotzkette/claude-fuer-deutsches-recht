@@ -7,7 +7,7 @@ description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety
 
 ## Arbeitsbereich
 
-GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen fuer Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen fuer Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, sys
 
 Der GPAI Code of Practice kann Compliance operationalisieren, ersetzt aber nicht die eigentliche Prüfung der KI-VO. Dieser Skill übersetzt Code-, Normen- und Leitlinienanforderungen in eine Nachweismappe.
 
-## Prüffelder
+## Prüfungslinien
 
 - Modelltyp und Anbieterrolle.
 - GPAI oder GPAI mit systemischem Risiko.

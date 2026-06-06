@@ -7,7 +7,7 @@ description: "Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out
 
 ## Arbeitsbereich
 
-Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

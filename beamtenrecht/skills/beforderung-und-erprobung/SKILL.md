@@ -7,7 +7,7 @@ description: "Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderung
 
 ## Arbeitsbereich
 
-Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Hochschulerfindungen, Software und Ausgründungen im Hochsc
 
 ## Arbeitsbereich
 
-Prüft Hochschulerfindungen, Software und Ausgründungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Hochschulerfindungen, Software und Ausgründungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

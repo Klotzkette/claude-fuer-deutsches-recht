@@ -7,7 +7,7 @@ description: "Prueft secured status, collateral value, bifurcation, adequate pro
 
 ## Arbeitsbereich
 
-Prueft secured status, collateral value, bifurcation, adequate protection and cramdown valuation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft secured status, collateral value, bifurcation, adequate protection and cramdown valuation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

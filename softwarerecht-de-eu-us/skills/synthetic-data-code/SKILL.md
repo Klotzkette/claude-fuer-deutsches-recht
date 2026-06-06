@@ -7,7 +7,7 @@ description: "Prüft synthetische Daten, generierten Code, Testdaten, Anonymisie
 
 ## Arbeitsbereich
 
-Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

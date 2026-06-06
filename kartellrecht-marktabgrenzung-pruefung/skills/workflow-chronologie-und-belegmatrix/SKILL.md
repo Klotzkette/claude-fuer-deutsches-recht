@@ -7,7 +7,7 @@ description: "Chronologie und Belegmatrix: macht aus unordentlichem Material ein
 
 ## Arbeitsbereich
 
-Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld ordnet alle marktabgrenzungs- und kartellrechtlich relevanten Daten chronologisch: Umsatzdaten, Marktanteile, Preisschritte, Vertriebsabsprachen, BKartA-Verfahrensschritte, EU-Kommissionsschritte.
+Dieser Prüfungslinie ordnet alle marktabgrenzungs- und kartellrechtlich relevanten Daten chronologisch: Umsatzdaten, Marktanteile, Preisschritte, Vertriebsabsprachen, BKartA-Verfahrensschritte, EU-Kommissionsschritte.
 
 ## Pflicht-Timeline Marktabgrenzung
 - **Datenstichtag(e):** je Marktanteilsberechnung, je Bezugsgröße (Umsatz EUR, Absatzmenge, Kapazität).

@@ -7,10 +7,10 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 
 ## Arbeitsbereich
 
-**Bautraeger Leistungsbeschreibung** ordnet den Fall über die tragenden Prüffelder: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Leistungsbeschreibung** führt durch die falltragenden Prüfungslinien: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bautraeger-leistungsbeschreibung-baubeschreibung` | Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Pruefraster. |
 | `bautraeger-mabv-buchfuehrungspflicht-10` | MaBV § 10 Buchfuehrungspflicht. Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Pruefberichte. Folgen bei Versaeumnis. Liefert Pruefraster. |
@@ -24,7 +24,7 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-leistungsbeschreibung-baubeschreibung`
 

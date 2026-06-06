@@ -7,7 +7,7 @@ description: "Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Bl
 
 ## Arbeitsbereich
 
-Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Studierendenschaft, AStA, Beiträge und Mandat im Hochschul
 
 ## Arbeitsbereich
 
-Prüft Studierendenschaft, AStA, Beiträge und Mandat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Studierendenschaft, AStA, Beiträge und Mandat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

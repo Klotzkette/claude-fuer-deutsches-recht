@@ -7,7 +7,7 @@ description: "Prueft small business debtor rules outside Subchapter V, reporting
 
 ## Arbeitsbereich
 
-Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

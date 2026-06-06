@@ -7,7 +7,7 @@ description: "Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz C
 
 ## Arbeitsbereich
 
-Baut Datenschutzkonzept für die Meldeakte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Datenschutzkonzept für die Meldeakte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

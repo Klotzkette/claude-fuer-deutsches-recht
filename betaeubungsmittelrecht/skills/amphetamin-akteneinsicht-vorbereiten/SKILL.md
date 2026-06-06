@@ -7,7 +7,7 @@ description: "Amphetamin: Akteneinsicht vorbereiten im Betäubungsmittelrecht: p
 
 ## Arbeitsbereich
 
-Spezialthema **Amphetamin Akteneinsicht Vorbereiten** im Betäubungsmittelrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Amphetamin Akteneinsicht Vorbereiten** im Betäubungsmittelrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

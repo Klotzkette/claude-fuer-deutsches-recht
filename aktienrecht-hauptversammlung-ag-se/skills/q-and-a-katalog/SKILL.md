@@ -7,7 +7,7 @@ description: "Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezi
 
 ## Arbeitsbereich
 
-Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

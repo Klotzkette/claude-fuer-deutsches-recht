@@ -7,7 +7,7 @@ description: "Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Ho
 
 ## Arbeitsbereich
 
-Prüft Ethikkommission, Forschungsvorhaben und Verantwortung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ethikkommission, Forschungsvorhaben und Verantwortung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

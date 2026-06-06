@@ -7,7 +7,7 @@ description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export
 
 ## Arbeitsbereich
 
-US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

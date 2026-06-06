@@ -7,7 +7,7 @@ description: "Checkliste Eroeffnungsantrag § 13 InsO: zustaendiges Gericht, Gla
 
 ## Arbeitsbereich
 
-Checkliste Eroeffnungsantrag § 13 InsO: zustaendiges Gericht, Glaeubigerliste, Vermoegensverzeichnis, Erklaerung Geschaeftsleitung. Pruefraster fuer Schuldner- und Glaeubigeranwalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Checkliste Eroeffnungsantrag § 13 InsO: zustaendiges Gericht, Glaeubigerliste, Vermoegensverzeichnis, Erklaerung Geschaeftsleitung. Pruefraster fuer Schuldner- und Glaeubigeranwalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

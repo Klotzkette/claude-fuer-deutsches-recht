@@ -9,7 +9,7 @@ description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety
 
 Der GPAI Code of Practice kann Compliance operationalisieren, ersetzt aber nicht die eigentliche Prüfung der KI-VO. Dieser Skill übersetzt Code-, Normen- und Leitlinienanforderungen in eine Nachweismappe.
 
-## Prüffelder
+## Prüfungslinien
 
 - Modelltyp und Anbieterrolle.
 - GPAI oder GPAI mit systemischem Risiko.

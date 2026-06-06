@@ -7,7 +7,7 @@ description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Par
 
 ## Arbeitsbereich
 
-Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

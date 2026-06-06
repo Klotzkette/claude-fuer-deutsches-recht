@@ -7,7 +7,7 @@ description: "Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten ei
 
 ## Arbeitsbereich
 
-Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesst
 
 ## Arbeitsbereich
 
-Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Reisen, Auslandszugriffe und Hochrisikoländer im Nis2 Cybe
 
 ## Arbeitsbereich
 
-Prüft Reisen, Auslandszugriffe und Hochrisikoländer. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Reisen, Auslandszugriffe und Hochrisikoländer. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

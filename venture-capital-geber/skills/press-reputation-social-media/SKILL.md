@@ -7,7 +7,7 @@ description: "Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedI
 
 ## Arbeitsbereich
 
-Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

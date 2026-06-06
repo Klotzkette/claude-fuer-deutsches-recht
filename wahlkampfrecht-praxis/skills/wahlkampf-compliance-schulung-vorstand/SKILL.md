@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: kurze Compliance-Schulung fuer Vorstand und
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: kurze Compliance-Schulung fuer Vorstand und Kampagnenteam erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: kurze Compliance-Schulung fuer Vorstand und Kampagnenteam erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

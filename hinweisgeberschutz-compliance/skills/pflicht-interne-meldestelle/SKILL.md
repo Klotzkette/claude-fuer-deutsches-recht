@@ -7,7 +7,7 @@ description: "Prüft, ob und wie eine interne Meldestelle einzurichten ist im Hi
 
 ## Arbeitsbereich
 
-Prüft, ob und wie eine interne Meldestelle einzurichten ist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob und wie eine interne Meldestelle einzurichten ist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

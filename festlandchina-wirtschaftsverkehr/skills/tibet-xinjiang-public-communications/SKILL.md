@@ -7,7 +7,7 @@ description: "Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisike
 
 ## Arbeitsbereich
 
-Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

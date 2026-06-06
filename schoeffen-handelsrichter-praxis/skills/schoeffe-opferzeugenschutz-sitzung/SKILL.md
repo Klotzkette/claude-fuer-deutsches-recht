@@ -7,7 +7,7 @@ description: "Opfer- und Zeugenschutz (Sitzungspraxis): hilft ehrenamtlichen Ric
 
 ## Arbeitsbereich
 
-Opfer- und Zeugenschutz (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei belastete Zeugen, Nebenklage, Ausschluss Öffentlichkeit und respektvolle Befragung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Opfer- und Zeugenschutz (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei belastete Zeugen, Nebenklage, Ausschluss Öffentlichkeit und respektvolle Befragung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Begründungspflicht und Bewertungsfeedback im Pruefungsrech
 
 ## Arbeitsbereich
 
-Prüft Begründungspflicht und Bewertungsfeedback. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Begründungspflicht und Bewertungsfeedback. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

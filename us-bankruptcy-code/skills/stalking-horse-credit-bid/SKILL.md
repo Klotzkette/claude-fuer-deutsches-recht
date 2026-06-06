@@ -7,7 +7,7 @@ description: "Prueft stalking-horse protections, break-up fees, expense reimburs
 
 ## Arbeitsbereich
 
-Prueft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

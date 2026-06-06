@@ -7,7 +7,7 @@ description: "Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Ri
 
 ## Arbeitsbereich
 
-Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster fuer Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster fuer Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 S
 
 ## Arbeitsbereich
 
-Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft compromise approval, estate benefit, notice, fairness facto
 
 ## Arbeitsbereich
 
-Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

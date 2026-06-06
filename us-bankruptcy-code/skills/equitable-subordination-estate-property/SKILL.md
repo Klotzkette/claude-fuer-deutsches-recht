@@ -7,7 +7,7 @@ description: "Prueft contractual subordination, equitable subordination, insider
 
 ## Arbeitsbereich
 
-Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

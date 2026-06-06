@@ -7,7 +7,7 @@ description: "Prüft KI-Nutzung in Prüfungsleistungen im Pruefungsrecht Hochsch
 
 ## Arbeitsbereich
 
-Prüft KI-Nutzung in Prüfungsleistungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KI-Nutzung in Prüfungsleistungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

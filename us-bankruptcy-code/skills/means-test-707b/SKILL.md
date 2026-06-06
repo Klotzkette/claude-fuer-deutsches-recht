@@ -7,7 +7,7 @@ description: "Prueft consumer Chapter 7 means test, abuse presumption, median in
 
 ## Arbeitsbereich
 
-Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPer
 
 ## Arbeitsbereich
 
-Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

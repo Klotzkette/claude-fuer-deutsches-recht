@@ -7,7 +7,7 @@ description: "Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach 
 
 ## Arbeitsbereich
 
-Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Redlinet Verschwiegenheitsklauseln hinweisgeberfest im Hinweisgebe
 
 ## Arbeitsbereich
 
-Redlinet Verschwiegenheitsklauseln hinweisgeberfest. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Redlinet Verschwiegenheitsklauseln hinweisgeberfest. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Forschungsdaten, Open Science und Repositorien im Hochschul
 
 ## Arbeitsbereich
 
-Prüft Forschungsdaten, Open Science und Repositorien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Forschungsdaten, Open Science und Repositorien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

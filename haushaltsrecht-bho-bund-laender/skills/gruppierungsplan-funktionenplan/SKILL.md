@@ -7,7 +7,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktion
 
 ## Arbeitsbereich
 
-Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 
 
 ## Arbeitsbereich
 
-Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: Anrechnung, Höchstgrenze, Nachversicherung, Versorgungsausgleich und Auslandsrenten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: Anrechnung, Höchstgrenze, Nachversicherung, Versorgungsausgleich und Auslandsrenten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

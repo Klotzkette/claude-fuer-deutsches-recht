@@ -7,7 +7,7 @@ description: "Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entsch
 
 ## Arbeitsbereich
 
-Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

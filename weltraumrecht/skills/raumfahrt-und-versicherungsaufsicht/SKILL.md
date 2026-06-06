@@ -7,7 +7,7 @@ description: "Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solven
 
 ## Arbeitsbereich
 
-Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

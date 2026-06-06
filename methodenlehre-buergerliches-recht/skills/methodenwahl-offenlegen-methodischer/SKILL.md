@@ -7,10 +7,10 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 
 ## Arbeitsbereich
 
-**Methodenwahl Offenlegen Methodischer** ordnet den Fall über die tragenden Prüffelder: Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Methodenwahl Offenlegen Methodischer** führt durch die falltragenden Prüfungslinien: Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `methodenwahl-offenlegen-schriftsatz` | Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Haltbarkeit von Schriftsätzen durch methodische Klarheit. |
 | `methodischer-demokratiecheck` | Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen. |
@@ -25,7 +25,7 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `methodenwahl-offenlegen-schriftsatz`
 

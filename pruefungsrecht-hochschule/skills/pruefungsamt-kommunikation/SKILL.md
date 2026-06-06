@@ -7,7 +7,7 @@ description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Pruefun
 
 ## Arbeitsbereich
 
-Baut klare Kommunikation mit Prüfungsamt und Ausschuss. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut klare Kommunikation mit Prüfungsamt und Ausschuss. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

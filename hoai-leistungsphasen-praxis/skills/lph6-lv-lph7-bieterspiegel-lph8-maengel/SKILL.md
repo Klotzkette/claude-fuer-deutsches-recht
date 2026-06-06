@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnitt
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

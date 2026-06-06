@@ -7,7 +7,7 @@ description: "Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; k
 
 ## Arbeitsbereich
 
-Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

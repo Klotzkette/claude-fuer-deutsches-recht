@@ -7,7 +7,7 @@ description: "Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mi
 
 ## Arbeitsbereich
 
-Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

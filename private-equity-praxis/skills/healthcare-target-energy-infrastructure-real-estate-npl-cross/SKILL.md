@@ -7,7 +7,7 @@ description: "Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung un
 
 ## Arbeitsbereich
 
-Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

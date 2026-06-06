@@ -7,7 +7,7 @@ description: "Prueft statutory licenses für Cable, Satellite, retransmission, r
 
 ## Arbeitsbereich
 
-Prueft statutory licenses für Cable, Satellite, retransmission, reporting und payment issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft statutory licenses für Cable, Satellite, retransmission, reporting und payment issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

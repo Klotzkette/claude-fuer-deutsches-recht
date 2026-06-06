@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Kandidierende fuer Kamera, Smartphone-Clips
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Kandidierende fuer Kamera, Smartphone-Clips und spontane Fragen trainieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Kandidierende fuer Kamera, Smartphone-Clips und spontane Fragen trainieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

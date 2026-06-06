@@ -7,7 +7,7 @@ description: "Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität u
 
 ## Arbeitsbereich
 
-Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

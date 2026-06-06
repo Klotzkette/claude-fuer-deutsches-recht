@@ -7,7 +7,7 @@ description: "Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsr
 
 ## Arbeitsbereich
 
-Prüft Laden-/Warenlagerangestellte und Verkehrsschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Laden-/Warenlagerangestellte und Verkehrsschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

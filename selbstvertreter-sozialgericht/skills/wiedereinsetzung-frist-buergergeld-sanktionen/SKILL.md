@@ -7,10 +7,10 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Wiedereinsetzung Frist Buergergeld Sanktionen** ordnet den Fall über die tragenden Prüffelder: Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Wiedereinsetzung Frist Buergergeld Sanktionen** führt durch die falltragenden Prüfungslinien: Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
 | `buergergeld-sanktionen-31a-sgb-ii` | Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine. |
@@ -25,7 +25,7 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wiedereinsetzung-frist-67-sgg`
 

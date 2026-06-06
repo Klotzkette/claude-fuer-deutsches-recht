@@ -7,7 +7,7 @@ description: "Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Na
 
 ## Arbeitsbereich
 
-Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -49,7 +49,7 @@ Vor Ausgabe prüfen:
 
 ## Output
 
-| Prüffeld | Ergebnis |
+| Prüfungslinie | Ergebnis |
 | --- | --- |
 | Begriff verstanden | Ja/Nein |
 | Deutscher Anker | Norm/Dokument |

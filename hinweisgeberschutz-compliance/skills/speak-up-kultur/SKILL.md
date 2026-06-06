@@ -7,7 +7,7 @@ description: "Baut Speak-up-Kultur ohne Compliance-Theater im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Baut Speak-up-Kultur ohne Compliance-Theater. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Speak-up-Kultur ohne Compliance-Theater. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

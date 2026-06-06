@@ -7,7 +7,7 @@ description: "Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wied
 
 ## Arbeitsbereich
 
-Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

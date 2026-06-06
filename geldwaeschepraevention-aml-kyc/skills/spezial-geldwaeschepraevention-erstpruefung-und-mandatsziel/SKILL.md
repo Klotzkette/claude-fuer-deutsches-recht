@@ -7,7 +7,7 @@ description: "Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatszi
 
 ## Arbeitsbereich
 
-Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farb
 
 ## Arbeitsbereich
 
-REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Telefon und Internet Störung: führt Laien durch Ausfall, Minderu
 
 ## Arbeitsbereich
 
-Telefon und Internet Störung: führt Laien durch Ausfall, Minderungsrechte, Technikertermine, Rufnummernportierung und Anbieterwechsel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Telefon und Internet Störung: führt Laien durch Ausfall, Minderungsrechte, Technikertermine, Rufnummernportierung und Anbieterwechsel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

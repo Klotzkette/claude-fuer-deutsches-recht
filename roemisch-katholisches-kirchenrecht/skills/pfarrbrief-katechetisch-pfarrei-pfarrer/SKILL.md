@@ -7,7 +7,7 @@ description: "Pfarrbrief katechetisch und lehrtreu: Fachmodul für CIC, Katechis
 
 ## Arbeitsbereich
 
-Pfarrbrief katechetisch und lehrtreu: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pfarrbrief katechetisch und lehrtreu: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

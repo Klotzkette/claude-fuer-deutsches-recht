@@ -7,7 +7,7 @@ description: "Prüft Exmatrikulation und Folgen im Hochschulrecht Laender: prüf
 
 ## Arbeitsbereich
 
-Prüft Exmatrikulation und Folgen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Exmatrikulation und Folgen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

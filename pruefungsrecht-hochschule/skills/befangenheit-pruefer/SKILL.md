@@ -7,7 +7,7 @@ description: "Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Pruef
 
 ## Arbeitsbereich
 
-Prüft Prüferbefangenheit und Besorgnis der Befangenheit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Prüferbefangenheit und Besorgnis der Befangenheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

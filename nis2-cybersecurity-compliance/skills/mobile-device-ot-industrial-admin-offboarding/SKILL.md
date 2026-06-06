@@ -7,7 +7,7 @@ description: "Steuert verlorene Geräte und gestohlene Laptops im Nis2 Cybersecu
 
 ## Arbeitsbereich
 
-Steuert verlorene Geräte und gestohlene Laptops. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert verlorene Geräte und gestohlene Laptops. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Repressalien und schützt Betroffene prozessfest im Hinweis
 
 ## Arbeitsbereich
 
-Prüft Repressalien und schützt Betroffene prozessfest. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Repressalien und schützt Betroffene prozessfest. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

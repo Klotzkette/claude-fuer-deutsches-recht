@@ -7,7 +7,7 @@ description: "Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Rich
 
 ## Arbeitsbereich
 
-Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

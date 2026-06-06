@@ -7,7 +7,7 @@ description: "Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Fri
 
 ## Arbeitsbereich
 
-Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

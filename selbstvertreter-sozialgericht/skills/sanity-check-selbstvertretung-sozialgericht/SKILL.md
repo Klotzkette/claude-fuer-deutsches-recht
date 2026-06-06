@@ -26,7 +26,7 @@ Dieser Skill prüft, ob ein Widerspruch, eine Klage, ein Eilantrag oder eine Ste
 
 ## Prüfmatrix
 
-| Prüffeld | Kernfrage | Ampel |
+| Prüfungslinie | Kernfrage | Ampel |
 |---|---|---|
 | Frist | Ist Widerspruchs-, Klage- oder Berufungsfrist sicher? | Rot/Gelb/Grün |
 | Bescheidkette | Liegen Ausgangsbescheid und Widerspruchsbescheid vor? | Rot/Gelb/Grün |

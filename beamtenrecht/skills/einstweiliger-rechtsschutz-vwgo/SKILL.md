@@ -7,7 +7,7 @@ description: "Einstweiliger Rechtsschutz: § 80, § 80a, § 123 VwGO, Sicherungs
 
 ## Arbeitsbereich
 
-Einstweiliger Rechtsschutz: § 80, § 80a, § 123 VwGO, Sicherungsanordnung und Regelungsanordnung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Einstweiliger Rechtsschutz: § 80, § 80a, § 123 VwGO, Sicherungsanordnung und Regelungsanordnung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

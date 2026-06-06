@@ -7,7 +7,7 @@ description: "Plant Tabletop-Übungen für Cyberkrisen im Nis2 Cybersecurity Com
 
 ## Arbeitsbereich
 
-Plant Tabletop-Übungen für Cyberkrisen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Tabletop-Übungen für Cyberkrisen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

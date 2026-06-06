@@ -7,7 +7,7 @@ description: "Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Ma
 
 ## Arbeitsbereich
 
-Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails fuer Autor, Programmleitung und Geschaeftsfuehrung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails fuer Autor, Programmleitung und Geschaeftsfuehrung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

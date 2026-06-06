@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und 
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

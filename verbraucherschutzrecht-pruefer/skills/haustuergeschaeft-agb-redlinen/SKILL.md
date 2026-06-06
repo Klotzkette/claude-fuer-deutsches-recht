@@ -7,7 +7,7 @@ description: "Prüfer: Haustürgeschäft: AGB redlinen im Verbraucherschutzrecht
 
 ## Arbeitsbereich
 
-Spezialthema **Haustuergeschaeft Agb Redlinen** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Haustuergeschaeft Agb Redlinen** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

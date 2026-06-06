@@ -7,7 +7,7 @@ description: "Prüft Widerspruch zwischen alter Anerkennung und späterer Bundes
 
 ## Arbeitsbereich
 
-Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

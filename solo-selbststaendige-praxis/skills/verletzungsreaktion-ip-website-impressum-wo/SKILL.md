@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: ordnet Takedown, Abmahnung, Beweise, Verglei
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: ordnet Takedown, Abmahnung, Beweise, Vergleich und Kosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: ordnet Takedown, Abmahnung, Beweise, Vergleich und Kosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

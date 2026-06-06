@@ -7,7 +7,7 @@ description: "Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmu
 
 ## Arbeitsbereich
 
-Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen im K
 
 ## Arbeitsbereich
 
-Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

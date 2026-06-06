@@ -7,7 +7,7 @@ description: "Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio
 
 ## Arbeitsbereich
 
-Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prueft EuGH C-272/06 Slots keine Vermoegenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel fuer Glaeubiger und Investoren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prueft EuGH C-272/06 Slots keine Vermoegenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel fuer Glaeubiger und Investoren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

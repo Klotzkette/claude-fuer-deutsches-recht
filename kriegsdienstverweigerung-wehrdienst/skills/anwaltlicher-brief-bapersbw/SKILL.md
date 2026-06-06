@@ -7,7 +7,7 @@ description: "Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13
 
 ## Arbeitsbereich
 
-Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

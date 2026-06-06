@@ -7,7 +7,7 @@ description: "Prüft Treuhand, wirtschaftlich Berechtigte, Stimmrechte, Steuer- 
 
 ## Arbeitsbereich
 
-Prüft Treuhand, wirtschaftlich Berechtigte, Stimmrechte, Steuer- und GwG-Risiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Treuhand, wirtschaftlich Berechtigte, Stimmrechte, Steuer- und GwG-Risiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

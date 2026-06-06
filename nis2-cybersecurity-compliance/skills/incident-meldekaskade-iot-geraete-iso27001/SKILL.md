@@ -7,7 +7,7 @@ description: "Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und 
 
 ## Arbeitsbereich
 
-Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

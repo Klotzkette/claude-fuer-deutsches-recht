@@ -7,7 +7,7 @@ description: "Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreu
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

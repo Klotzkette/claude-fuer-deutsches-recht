@@ -7,7 +7,7 @@ description: "Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements,
 
 ## Arbeitsbereich
 
-Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

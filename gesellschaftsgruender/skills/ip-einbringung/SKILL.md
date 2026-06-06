@@ -7,7 +7,7 @@ description: "Prüft, ob Software, Marken, Designs, Domains und Know-how sauber 
 
 ## Arbeitsbereich
 
-Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI LPH 6 Vorbereitung der Vergabe: erstellt ein Qualitygate, bev
 
 ## Arbeitsbereich
 
-HOAI LPH 6 Vorbereitung der Vergabe: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 6 Vorbereitung der Vergabe: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

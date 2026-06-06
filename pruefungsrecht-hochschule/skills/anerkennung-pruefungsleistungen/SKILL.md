@@ -7,7 +7,7 @@ description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Pruef
 
 ## Arbeitsbereich
 
-Prüft Anerkennung und Anrechnung von Prüfungsleistungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anerkennung und Anrechnung von Prüfungsleistungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

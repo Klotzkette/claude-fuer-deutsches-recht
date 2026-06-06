@@ -57,7 +57,7 @@ Status: freigabereif / ueberarbeiten / Nutzergruppe-Pruefung offen
 ```
 ## Pflichtprüfung
 
-| Prüffeld | Frage |
+| Prüfungslinie | Frage |
 | --- | --- |
 | Zielgruppe | Ist klar, für wen der Text geschrieben ist? |
 | Zielhandlung | Ist klar, was die Person tun soll oder tun kann? |

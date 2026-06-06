@@ -7,7 +7,7 @@ description: "Bauueberwachung gemaess HOAI LPH 8 fuer Gartenhaeuser und Carports
 
 ## Arbeitsbereich
 
-Bauueberwachung gemaess HOAI LPH 8 fuer Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung gemaess HOAI LPH 8 fuer Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung v
 
 ## Arbeitsbereich
 
-Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

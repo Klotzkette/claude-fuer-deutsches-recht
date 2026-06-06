@@ -7,7 +7,7 @@ description: "Serials, Newsletter, Updates und Datenbanken: periodische Publikat
 
 ## Arbeitsbereich
 
-Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

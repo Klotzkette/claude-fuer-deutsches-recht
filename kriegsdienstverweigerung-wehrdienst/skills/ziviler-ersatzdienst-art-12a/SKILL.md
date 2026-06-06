@@ -7,7 +7,7 @@ description: "Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG im Kri
 
 ## Arbeitsbereich
 
-Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

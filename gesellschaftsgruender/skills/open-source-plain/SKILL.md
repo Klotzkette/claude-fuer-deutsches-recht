@@ -7,7 +7,7 @@ description: "Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Dil
 
 ## Arbeitsbereich
 
-Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nach
 
 ## Arbeitsbereich
 
-Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Ents
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch, Datenschutz-Konzept, Geldwäsche-Risikoanalyse, Mandatsvertrag, Honorarvereinbarung, Versicherungspolice, Sozietätsvertrag, beA-Konfiguration — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld kommuniziert Builder-Ergebnisse an die Auftraggeber-Seite (Kanzleipartner, IT-Verantwortliche, Wissensmanagement, externe Mandanten der Builder-Kanzlei) -- knapp, technisch korrekt, mit Hinweis auf Validator-Status.
+Dieser Prüfungslinie kommuniziert Builder-Ergebnisse an die Auftraggeber-Seite (Kanzleipartner, IT-Verantwortliche, Wissensmanagement, externe Mandanten der Builder-Kanzlei) -- knapp, technisch korrekt, mit Hinweis auf Validator-Status.
 
 ## Kommunikations-Struktur
 - **Was wurde gebaut:** Plugin-Name, Skill-Name(n), Version (semantisch).

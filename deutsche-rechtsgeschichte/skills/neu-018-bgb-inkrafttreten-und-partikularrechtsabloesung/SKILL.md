@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsa
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

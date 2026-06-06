@@ -7,7 +7,7 @@ description: "Formuliert Schreiben im inhaltlichen Anerkennungsverfahren im Krie
 
 ## Arbeitsbereich
 
-Formuliert Schreiben im inhaltlichen Anerkennungsverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Schreiben im inhaltlichen Anerkennungsverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

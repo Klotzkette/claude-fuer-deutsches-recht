@@ -7,7 +7,7 @@ description: "Prueft Debtor Eligibility, credit counseling, chapter-specific lim
 
 ## Arbeitsbereich
 
-Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

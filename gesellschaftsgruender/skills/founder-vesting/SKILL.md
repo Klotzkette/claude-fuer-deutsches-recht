@@ -7,7 +7,7 @@ description: "Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rücküber
 
 ## Arbeitsbereich
 
-Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

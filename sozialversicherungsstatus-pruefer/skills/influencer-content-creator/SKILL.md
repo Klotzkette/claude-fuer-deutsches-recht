@@ -7,7 +7,7 @@ description: "Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, E
 
 ## Arbeitsbereich
 
-Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

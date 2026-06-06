@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung un
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

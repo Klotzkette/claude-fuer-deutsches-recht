@@ -7,7 +7,7 @@ description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF
 
 ## Arbeitsbereich
 
-Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhältnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, außergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhältnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, außergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

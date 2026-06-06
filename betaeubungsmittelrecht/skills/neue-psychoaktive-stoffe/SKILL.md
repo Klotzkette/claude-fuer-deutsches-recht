@@ -7,7 +7,7 @@ description: "Betäubungsmittelrecht: Neue psychoaktive Stoffe. Neue psychoaktiv
 
 ## Arbeitsbereich
 
-Betäubungsmittelrecht: Neue psychoaktive Stoffe. Neue psychoaktive Stoffe im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Betäubungsmittelrecht: Neue psychoaktive Stoffe. Neue psychoaktive Stoffe im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

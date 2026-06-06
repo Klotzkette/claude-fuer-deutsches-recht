@@ -7,7 +7,7 @@ description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die pas
 
 ## Arbeitsbereich
 
-Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmod
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld leitet nach der ersten Prüfung in die passenden Fachmodule des Plugins `jurastudium`. Er entlastet Studierende und Referendare, indem er Sachverhalt, Klausurformat und Vorbereitungsphase einsortiert.
+Dieser Prüfungslinie leitet nach der ersten Prüfung in die passenden Fachmodule des Plugins `jurastudium`. Er entlastet Studierende und Referendare, indem er Sachverhalt, Klausurformat und Vorbereitungsphase einsortiert.
 
 ## Routing-Heuristik
 - **Zivilrechtsklausur, Sachverhalt mit Anspruch:** -> `loesungsschemata`, `subsumtionslehre`, `gutachten-uebung`, `methodenlehre-zivilrecht`.

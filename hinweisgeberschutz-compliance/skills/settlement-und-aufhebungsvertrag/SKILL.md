@@ -7,7 +7,7 @@ description: "Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hi
 
 ## Arbeitsbereich
 
-Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

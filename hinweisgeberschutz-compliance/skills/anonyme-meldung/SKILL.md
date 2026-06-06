@@ -7,7 +7,7 @@ description: "Bewertet anonyme Meldungen und freiwillige Annahmeprozesse im Hinw
 
 ## Arbeitsbereich
 
-Bewertet anonyme Meldungen und freiwillige Annahmeprozesse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bewertet anonyme Meldungen und freiwillige Annahmeprozesse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

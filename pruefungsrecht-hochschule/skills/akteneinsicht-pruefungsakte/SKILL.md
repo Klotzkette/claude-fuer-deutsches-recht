@@ -7,7 +7,7 @@ description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im 
 
 ## Arbeitsbereich
 
-Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft assumption, rejection, assignment, cure, adequate assurance
 
 ## Arbeitsbereich
 
-Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

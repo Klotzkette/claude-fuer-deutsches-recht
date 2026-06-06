@@ -7,7 +7,7 @@ description: "Hilft bei KiZ-Antrag, Einkommen, Wohnkosten, Nachweisen, Ablehnung
 
 ## Arbeitsbereich
 
-Hilft bei KiZ-Antrag, Einkommen, Wohnkosten, Nachweisen, Ablehnung und Schnittstelle Wohngeld/Bürgergeld. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei KiZ-Antrag, Einkommen, Wohnkosten, Nachweisen, Ablehnung und Schnittstelle Wohngeld/Bürgergeld. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

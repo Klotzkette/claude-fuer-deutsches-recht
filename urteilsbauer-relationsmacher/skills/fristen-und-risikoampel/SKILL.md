@@ -6,7 +6,7 @@ description: "Fristen- und Risikoampel im Plugin Urteilsbauer Relationsmacher im
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Prüffeld markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
+Dieser Prüfungslinie markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
 
 ## Fristen Urteilsabsetzung (Zivilprozess)
 - **Urteilsfrist § 315 ZPO:** Urteil ist binnen 3 Wochen nach Verkündung zur Geschäftsstelle zu übergeben (Aktenlauf); ohne vollständige Niederschrift kann Berufung erfolgreich rügen.

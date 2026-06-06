@@ -7,7 +7,7 @@ description: "Remonstration bei rechtswidriger Weisung: Pflichten, Ablauf, Dokum
 
 ## Arbeitsbereich
 
-Remonstration bei rechtswidriger Weisung: Pflichten, Ablauf, Dokumentation und Schutz des Beamten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Remonstration bei rechtswidriger Weisung: Pflichten, Ablauf, Dokumentation und Schutz des Beamten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

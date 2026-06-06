@@ -7,7 +7,7 @@ description: "Prueft Copyright Small Claims, opt-out, damages cap, procedure, fo
 
 ## Arbeitsbereich
 
-Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

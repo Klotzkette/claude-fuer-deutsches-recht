@@ -7,10 +7,10 @@ description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**BK Bankenfehlberatung Grundzuege Einfuehrung** ordnet den Fall über die tragenden Prüffelder: Bankenfehlberatungs-Anspruch in Grundzuegen, Aufsichtsstruktur einfuehrend, Routing-Tabelle Anlegeranspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**BK Bankenfehlberatung Grundzuege Einfuehrung** führt durch die falltragenden Prüfungslinien: Bankenfehlberatungs-Anspruch in Grundzuegen, Aufsichtsstruktur einfuehrend, Routing-Tabelle Anlegeranspruch. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bk-bankenfehlberatung-grundzuege` | Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster fuer Mandant. |
 | `bk-einfuehrung-aufsichtsstruktur` | Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behoerde ist wofuer zustaendig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte fuer das Erstgespraech. |
@@ -23,7 +23,7 @@ description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt 
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bk-bankenfehlberatung-grundzuege`
 

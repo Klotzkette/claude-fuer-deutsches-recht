@@ -7,7 +7,7 @@ description: "Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Cov
 
 ## Arbeitsbereich
 
-Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

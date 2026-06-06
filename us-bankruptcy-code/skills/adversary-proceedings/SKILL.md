@@ -7,7 +7,7 @@ description: "Prueft when adversary proceeding is required: dischargeability, li
 
 ## Arbeitsbereich
 
-Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium ni
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

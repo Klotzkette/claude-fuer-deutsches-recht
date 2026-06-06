@@ -7,7 +7,7 @@ description: "BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-
 
 ## Arbeitsbereich
 
-BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Exist
 
 ## Arbeitsbereich
 
-Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

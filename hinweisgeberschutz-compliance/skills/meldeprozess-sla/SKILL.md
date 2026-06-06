@@ -7,7 +7,7 @@ description: "Baut Service-Level für Bearbeitung von Hinweisen im Hinweisgebers
 
 ## Arbeitsbereich
 
-Baut Service-Level für Bearbeitung von Hinweisen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Service-Level für Bearbeitung von Hinweisen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

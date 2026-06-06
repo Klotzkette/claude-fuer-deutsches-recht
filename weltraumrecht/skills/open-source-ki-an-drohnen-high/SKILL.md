@@ -7,7 +7,7 @@ description: "Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Co
 
 ## Arbeitsbereich
 
-Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

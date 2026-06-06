@@ -207,7 +207,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 
 1. Mandatseingang strukturiert aufnehmen: Dealtyp, Phase, Parteiperspektive bestimmen (`corporate-kanzlei-deal-intake`).
 2. Konflikt-, GwG- und Sanktionscheck durchfuehren (`corporate-kanzlei-conflict-gwg-sanctions`).
-3. Passenden Prüffeld auswaehlen (Due Diligence, SPA, Regulatory, StaRUG, Kapitalmarkt).
+3. Passenden Prüfungslinie auswaehlen (Due Diligence, SPA, Regulatory, StaRUG, Kapitalmarkt).
 4. Eilfristen pruefen: Vollzugsverbot § 41 GWB, MAR-Fristen, Anmeldepflichten FDI.
 5. Anschluss-Skill bestimmen: Closing, Archivierung oder PMI?
 

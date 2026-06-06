@@ -7,7 +7,7 @@ description: "Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Bes
 
 ## Arbeitsbereich
 
-Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

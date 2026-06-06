@@ -7,7 +7,7 @@ description: "Erzeugt Hinweisgeber-Policy für Unternehmen im Hinweisgeberschutz
 
 ## Arbeitsbereich
 
-Erzeugt Hinweisgeber-Policy für Unternehmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erzeugt Hinweisgeber-Policy für Unternehmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

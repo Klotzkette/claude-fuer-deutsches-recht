@@ -7,7 +7,7 @@ description: "Führt das Intake für eine komplette Softwareentwicklung vom Term
 
 ## Arbeitsbereich
 
-Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

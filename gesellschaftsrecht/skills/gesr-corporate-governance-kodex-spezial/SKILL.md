@@ -7,7 +7,7 @@ description: "Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, 
 
 ## Arbeitsbereich
 
-Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster fuer boersennotierten Vorstand und Aufsichtsrat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster fuer boersennotierten Vorstand und Aufsichtsrat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

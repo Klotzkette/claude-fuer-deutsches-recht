@@ -7,7 +7,7 @@ description: "Entlassung auf eigenen Antrag: prüft § 46 SG, Antragsformalität
 
 ## Arbeitsbereich
 
-Entlassung auf eigenen Antrag: prüft § 46 SG, Antragsformalitäten, Widerruf, Versorgungsfolgen und Kostenrückforderung. Norm-/Quellenanker: § 46 SG, SVG, § 56 SG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entlassung auf eigenen Antrag: prüft § 46 SG, Antragsformalitäten, Widerruf, Versorgungsfolgen und Kostenrückforderung. Norm-/Quellenanker: § 46 SG, SVG, § 56 SG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

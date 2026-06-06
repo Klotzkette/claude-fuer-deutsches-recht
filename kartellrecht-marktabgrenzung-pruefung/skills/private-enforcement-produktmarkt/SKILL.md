@@ -7,7 +7,7 @@ description: "Private Enforcement und Kartellschaden: Fachmodul für großes Kar
 
 ## Arbeitsbereich
 
-Private Enforcement und Kartellschaden: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Private Enforcement und Kartellschaden: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

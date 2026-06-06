@@ -7,7 +7,7 @@ description: "Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pfl
 
 ## Arbeitsbereich
 
-Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pflichtveranstaltung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pflichtveranstaltung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

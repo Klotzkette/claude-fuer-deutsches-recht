@@ -7,7 +7,7 @@ description: "Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenhei
 
 ## Arbeitsbereich
 
-Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

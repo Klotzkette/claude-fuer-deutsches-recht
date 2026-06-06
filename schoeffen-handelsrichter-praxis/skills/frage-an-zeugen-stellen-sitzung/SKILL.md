@@ -7,7 +7,7 @@ description: "Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Ri
 
 ## Arbeitsbereich
 
-Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

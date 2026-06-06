@@ -7,7 +7,7 @@ description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwi
 
 ## Arbeitsbereich
 
-Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

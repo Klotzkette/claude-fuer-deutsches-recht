@@ -7,7 +7,7 @@ description: "Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, 
 
 ## Arbeitsbereich
 
-Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

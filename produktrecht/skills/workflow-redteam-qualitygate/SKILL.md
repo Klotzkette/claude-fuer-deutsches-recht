@@ -7,7 +7,7 @@ description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fri
 
 ## Arbeitsbereich
 
-Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zu
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld prüft Produktsicherheits- und Produkthaftungs-Stellungnahmen vor Auslieferung gegen typische Fehler: Rollenverwechslung, Anspruchsgrundlagen-Lücken, übersehene neue EU-VOen, fehlende Belege für Risikoanalyse.
+Dieser Prüfungslinie prüft Produktsicherheits- und Produkthaftungs-Stellungnahmen vor Auslieferung gegen typische Fehler: Rollenverwechslung, Anspruchsgrundlagen-Lücken, übersehene neue EU-VOen, fehlende Belege für Risikoanalyse.
 
 ## Red-Team-Punkte Produktrecht
 - **Rollenkette geprüft?** Hersteller, Bevollmächtigter, Importeur, Händler, Fulfillment-Dienstleister (Art. 4 VO (EU) 2019/1020); Pflichten differenzieren.

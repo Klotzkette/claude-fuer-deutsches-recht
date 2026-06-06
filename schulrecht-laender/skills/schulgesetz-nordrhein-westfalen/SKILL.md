@@ -7,7 +7,7 @@ description: "Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, V
 
 ## Arbeitsbereich
 
-Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

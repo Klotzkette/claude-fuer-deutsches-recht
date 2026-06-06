@@ -7,7 +7,7 @@ description: "Commercial Contracts Due Diligence: Prüft wesentliche Vertraege i
 
 ## Arbeitsbereich
 
-Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

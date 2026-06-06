@@ -7,7 +7,7 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe prak
 
 ## Arbeitsbereich
 
-Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Baulei
 
 ## Arbeitsbereich
 
-HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

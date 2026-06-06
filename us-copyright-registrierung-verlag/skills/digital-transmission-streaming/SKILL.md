@@ -7,7 +7,7 @@ description: "Prueft Streams, Downloads, interactive/noninteractive services, pu
 
 ## Arbeitsbereich
 
-Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

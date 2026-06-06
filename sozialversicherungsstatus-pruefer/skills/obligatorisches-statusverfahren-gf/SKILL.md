@@ -7,7 +7,7 @@ description: "Prüft obligatorische Statusfeststellung bei Geschäftsführern un
 
 ## Arbeitsbereich
 
-Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

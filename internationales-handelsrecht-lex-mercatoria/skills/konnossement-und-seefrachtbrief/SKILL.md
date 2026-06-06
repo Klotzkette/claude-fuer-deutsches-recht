@@ -7,7 +7,7 @@ description: "Internationales Handelsrecht: Konnossement (Bill of Lading) und Se
 
 ## Arbeitsbereich
 
-Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

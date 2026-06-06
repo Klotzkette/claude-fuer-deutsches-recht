@@ -7,7 +7,7 @@ description: "Stadtwerke: Vertrag scopen im Öffentliches Wirtschaftsrecht: prü
 
 ## Arbeitsbereich
 
-Spezialthema **Stadtwerke Vertrag Scopen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Stadtwerke Vertrag Scopen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

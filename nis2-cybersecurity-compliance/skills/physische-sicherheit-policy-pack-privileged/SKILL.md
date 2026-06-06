@@ -7,7 +7,7 @@ description: "Prüft physische Sicherheit von Serverraum, Rechenzentrum und Stan
 
 ## Arbeitsbereich
 
-Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

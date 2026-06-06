@@ -7,7 +7,7 @@ description: "Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium,
 
 ## Arbeitsbereich
 
-Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

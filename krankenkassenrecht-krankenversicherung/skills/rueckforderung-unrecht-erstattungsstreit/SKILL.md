@@ -7,7 +7,7 @@ description: "Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X
 
 ## Arbeitsbereich
 
-Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge t
 
 ## Arbeitsbereich
 
-Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

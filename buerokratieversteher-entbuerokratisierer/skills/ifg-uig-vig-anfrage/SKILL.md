@@ -7,7 +7,7 @@ description: "Erstellt Informationsfreiheits-, Umweltinformations- oder Verbrauc
 
 ## Arbeitsbereich
 
-Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

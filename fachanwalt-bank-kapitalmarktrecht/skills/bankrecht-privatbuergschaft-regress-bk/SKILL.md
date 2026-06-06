@@ -7,10 +7,10 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 
 ## Arbeitsbereich
 
-**Bankrecht Privatbuergschaft Regress BK** ordnet den Fall über die tragenden Prüffelder: Privat-, Ehegatten- und Angehörigenbürgschaft prüfen, Regress nach Aval-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bankrecht Privatbuergschaft Regress BK** führt durch die falltragenden Prüfungslinien: Privat-, Ehegatten- und Angehörigenbürgschaft prüfen, Regress nach Aval-. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bankrecht-privatbuergschaft-sittenwidrigkeit` | Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie. |
 | `bankrecht-regress-nach-avalzahlung` | Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen: § 774 BGB, Aufwendungsersatz, Kontobelastung, Sicherheiten, Mitbürgen, Insolvenz, Anfechtung und Vergleich. |
@@ -23,7 +23,7 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bankrecht-privatbuergschaft-sittenwidrigkeit`
 

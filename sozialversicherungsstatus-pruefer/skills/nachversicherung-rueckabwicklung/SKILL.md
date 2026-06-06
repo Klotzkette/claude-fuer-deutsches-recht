@@ -7,7 +7,7 @@ description: "Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückab
 
 ## Arbeitsbereich
 
-Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach Statusänderung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach Statusänderung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Firmenhandys, MDM, Zertifikate und Geräteschutz im Nis2 Cy
 
 ## Arbeitsbereich
 
-Prüft Firmenhandys, MDM, Zertifikate und Geräteschutz. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Firmenhandys, MDM, Zertifikate und Geräteschutz. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

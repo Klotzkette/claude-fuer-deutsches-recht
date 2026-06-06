@@ -7,7 +7,7 @@ description: "Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, 
 
 ## Arbeitsbereich
 
-Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, Widerspruch, Antrag, Musterverfahren, Ruhendstellung, Verjährung, Haushaltsjahrlogik und sichere Mandantenkommunikation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, Widerspruch, Antrag, Musterverfahren, Ruhendstellung, Verjährung, Haushaltsjahrlogik und sichere Mandantenkommunikation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

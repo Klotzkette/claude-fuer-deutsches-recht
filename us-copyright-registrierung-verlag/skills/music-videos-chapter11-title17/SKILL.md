@@ -7,7 +7,7 @@ description: "Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Ko
 
 ## Arbeitsbereich
 
-Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

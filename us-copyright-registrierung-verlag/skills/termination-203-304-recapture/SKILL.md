@@ -7,7 +7,7 @@ description: "Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, D
 
 ## Arbeitsbereich
 
-Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

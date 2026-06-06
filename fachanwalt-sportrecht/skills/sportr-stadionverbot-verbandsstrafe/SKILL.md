@@ -1,20 +1,20 @@
 ---
 name: sportr-stadionverbot-verbandsstrafe
-description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüffeld für verbandsstrafe anfechten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüfungslinie für verbandsstrafe anfechten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Sportr Stadionverbot Verbandsstrafe
 
 ## Arbeitsbereich
 
-**Sportr Stadionverbot Verbandsstrafe** ordnet den Fall über die tragenden Prüffelder: Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüffeld für verbandsstrafe anfechten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Sportr Stadionverbot Verbandsstrafe** führt durch die falltragenden Prüfungslinien: Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüfungslinie für verbandsstrafe anfechten. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `sportr-stadionverbot-fanrechte-spezial` | Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhoerung, gleichbehandlungsrechtliche Aspekte. Pruefraster fuer Anhoerungsrecht und Klage. |
 | `sportr-stadionverbot-und-fan-rechte-spezial` | Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhoerungspflicht, Klage Anfechtung, Vergleichsverhandlung. BGH-Rechtsprechung zur Begruendungspflicht. |
-| `verbandsstrafe-anfechten` | Prüffeld für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `verbandsstrafe-anfechten` | Prüfungslinie für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -23,7 +23,7 @@ description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret 
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `sportr-stadionverbot-fanrechte-spezial`
 
@@ -124,7 +124,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 3. `verbandsstrafe-anfechten`
 
-**Fokus:** Prüffeld für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Verbandsstrafe anfechten
 

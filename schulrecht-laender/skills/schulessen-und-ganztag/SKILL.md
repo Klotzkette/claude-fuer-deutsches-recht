@@ -7,7 +7,7 @@ description: "Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Laende
 
 ## Arbeitsbereich
 
-Prüft Ganztag, OGS, Schulessen und Betreuung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ganztag, OGS, Schulessen und Betreuung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Baut Legal Hold für Whistleblower-Fälle im Hinweisgeberschutz Co
 
 ## Arbeitsbereich
 
-Baut Legal Hold für Whistleblower-Fälle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Legal Hold für Whistleblower-Fälle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

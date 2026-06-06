@@ -7,7 +7,7 @@ description: "Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdu
 
 ## Arbeitsbereich
 
-Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

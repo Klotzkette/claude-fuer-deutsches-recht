@@ -7,7 +7,7 @@ description: "Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaend
 
 ## Arbeitsbereich
 
-Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaenden. Prueft ZPO § 808 Mobiliarpfaendung Cape-Town-Motorenerfassung LuftFzgG Zubehoerpfandrecht und Insolvenz-Freigabe und liefert Pfaendungsplan fuer Teile-Vollstreckung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaenden. Prueft ZPO § 808 Mobiliarpfaendung Cape-Town-Motorenerfassung LuftFzgG Zubehoerpfandrecht und Insolvenz-Freigabe und liefert Pfaendungsplan fuer Teile-Vollstreckung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

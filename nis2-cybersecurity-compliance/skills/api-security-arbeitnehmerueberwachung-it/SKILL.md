@@ -7,7 +7,7 @@ description: "Prüft API-Sicherheit in Produkten und internen Schnittstellen im 
 
 ## Arbeitsbereich
 
-Prüft API-Sicherheit in Produkten und internen Schnittstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft API-Sicherheit in Produkten und internen Schnittstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Ordnet Beistand, kirchliche Beauftragte und anwaltliche Vertretung
 
 ## Arbeitsbereich
 
-Ordnet Beistand, kirchliche Beauftragte und anwaltliche Vertretung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet Beistand, kirchliche Beauftragte und anwaltliche Vertretung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

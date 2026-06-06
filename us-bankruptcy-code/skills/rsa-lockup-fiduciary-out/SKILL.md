@@ -7,7 +7,7 @@ description: "Vertieft lock-up clauses, support obligations, board duties, super
 
 ## Arbeitsbereich
 
-Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

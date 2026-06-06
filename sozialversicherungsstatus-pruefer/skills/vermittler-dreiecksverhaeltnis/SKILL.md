@@ -7,7 +7,7 @@ description: "Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragske
 
 ## Arbeitsbereich
 
-Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Short Online Literary Works und Online-Beiträge: Gruppenoptionen 
 
 ## Arbeitsbereich
 
-Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Veröffentlichungen prüfen, ohne Buch-, Newsletter- und Periodikumslogik zu vermischen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Veröffentlichungen prüfen, ohne Buch-, Newsletter- und Periodikumslogik zu vermischen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

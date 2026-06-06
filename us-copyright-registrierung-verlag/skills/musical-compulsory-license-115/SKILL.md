@@ -7,7 +7,7 @@ description: "Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, M
 
 ## Arbeitsbereich
 
-Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

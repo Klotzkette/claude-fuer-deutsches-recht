@@ -7,7 +7,7 @@ description: "Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwir
 
 ## Arbeitsbereich
 
-Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

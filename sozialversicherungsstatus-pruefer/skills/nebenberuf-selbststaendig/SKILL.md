@@ -7,7 +7,7 @@ description: "Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeit
 
 ## Arbeitsbereich
 
-Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

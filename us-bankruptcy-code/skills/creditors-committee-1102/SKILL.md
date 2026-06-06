@@ -7,7 +7,7 @@ description: "Prueft official committee formation, membership, fiduciary role, p
 
 ## Arbeitsbereich
 
-Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandsch
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandschutzkonzept, Nachhaltigkeitszertifizierung und andere besondere Leistungen von HOAI-Grundleistungen abgrenzen und vertraglich fassen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandschutzkonzept, Nachhaltigkeitszertifizierung und andere besondere Leistungen von HOAI-Grundleistungen abgrenzen und vertraglich fassen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

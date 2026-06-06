@@ -7,7 +7,7 @@ description: "Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediat
 
 ## Arbeitsbereich
 
-Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediation: zustaendige Stelle, Verlauf, Vergleich, Folgen. Pruefraster fuer Klaegervorbereitung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediation: zustaendige Stelle, Verlauf, Vergleich, Folgen. Pruefraster fuer Klaegervorbereitung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Must-fit, must-match und Ersatzteilfragen prüfen: technische Verb
 
 ## Arbeitsbereich
 
-Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Must-fit, must-match und Ersatzteilfragen prüfen: technische Verbindung, komplexes Erzeugnis, Reparaturzweck, Originalerscheinung und Aftermarket. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

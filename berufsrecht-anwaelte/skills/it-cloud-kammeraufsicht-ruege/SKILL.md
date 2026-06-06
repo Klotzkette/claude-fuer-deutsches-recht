@@ -7,7 +7,7 @@ description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für 
 
 ## Arbeitsbereich
 
-IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

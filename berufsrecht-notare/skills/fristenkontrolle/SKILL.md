@@ -7,7 +7,7 @@ description: "Fristenkontrolle: vertiefter Berufsrechts-Skill für Notare; prüf
 
 ## Arbeitsbereich
 
-Fristenkontrolle: vertiefter Berufsrechts-Skill für Notare; prüft Fristenkontrolle im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristenkontrolle: vertiefter Berufsrechts-Skill für Notare; prüft Fristenkontrolle im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

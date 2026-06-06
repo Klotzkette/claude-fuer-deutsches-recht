@@ -7,7 +7,7 @@ description: "Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen 
 
 ## Arbeitsbereich
 
-Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention fuer Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk fuer Spares-Finanzierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention fuer Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk fuer Spares-Finanzierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten:
 
 ## Arbeitsbereich
 
-Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12 (Haltverbot), VwVfG (Verwaltungsakt Abschleppung). Prüfraster: Rechtsgrundlage Parkgebühren, Halteverbots-Anordnung, Abschleppkostenrecht, private Parkflaechen Eigentuemerpflichten, Parkraumkonzept Stadtplanung. Output Widerspruchsschrift Abschleppung, Parkraum-Konzept-Rechtsprüfung. Abgrenzung: Sondernutzung allgemein siehe verkehr-infrastrukturrecht-sondernutzung; Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12 (Haltverbot), VwVfG (Verwaltungsakt Abschleppung). Prüfraster: Rechtsgrundlage Parkgebühren, Halteverbots-Anordnung, Abschleppkostenrecht, private Parkflaechen Eigentuemerpflichten, Parkraumkonzept Stadtplanung. Output Widerspruchsschrift Abschleppung, Parkraum-Konzept-Rechtsprüfung. Abgrenzung: Sondernutzung allgemein siehe verkehr-infrastrukturrecht-sondernutzung; Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

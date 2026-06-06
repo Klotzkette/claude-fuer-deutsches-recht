@@ -7,7 +7,7 @@ description: "PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirts
 
 ## Arbeitsbereich
 
-PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

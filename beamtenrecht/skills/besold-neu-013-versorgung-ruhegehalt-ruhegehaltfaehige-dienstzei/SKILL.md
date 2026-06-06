@@ -7,7 +7,7 @@ description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit i
 
 ## Arbeitsbereich
 
-Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

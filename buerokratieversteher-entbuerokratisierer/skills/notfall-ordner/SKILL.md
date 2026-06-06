@@ -7,7 +7,7 @@ description: "Erstellt eine Checkliste für alle wichtigen Dokumente, Fristen, K
 
 ## Arbeitsbereich
 
-Erstellt eine Checkliste für alle wichtigen Dokumente, Fristen, Kontakte und laufenden Behördenverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt eine Checkliste für alle wichtigen Dokumente, Fristen, Kontakte und laufenden Behördenverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

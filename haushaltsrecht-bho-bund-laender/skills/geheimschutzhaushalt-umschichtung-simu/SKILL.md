@@ -7,7 +7,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Umschic
 
 ## Arbeitsbereich
 
-Spezialthema **Geheimschutzhaushalt Umschichtung Simu** im Haushaltsrecht (BHO/LHO). Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Geheimschutzhaushalt Umschichtung Simu** im Haushaltsrecht (BHO/LHO). Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

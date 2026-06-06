@@ -7,7 +7,7 @@ description: "Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 
 
 ## Arbeitsbereich
 
-Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Glaeubiger. Pruefraster und Mustertexte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Glaeubiger. Pruefraster und Mustertexte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

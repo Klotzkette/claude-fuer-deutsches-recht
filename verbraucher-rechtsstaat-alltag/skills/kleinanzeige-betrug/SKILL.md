@@ -7,7 +7,7 @@ description: "Kleinanzeige Betrug: führt Laien durch Privater Plattformkauf, Vo
 
 ## Arbeitsbereich
 
-Kleinanzeige Betrug: führt Laien durch Privater Plattformkauf, Vorkasse, Identitätsmissbrauch und Rückholung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kleinanzeige Betrug: führt Laien durch Privater Plattformkauf, Vorkasse, Identitätsmissbrauch und Rückholung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit P
 
 ## Arbeitsbereich
 
-Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

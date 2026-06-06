@@ -7,7 +7,7 @@ description: "Prueft Motions for Relief from Stay: cause, lack of adequate prote
 
 ## Arbeitsbereich
 
-Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

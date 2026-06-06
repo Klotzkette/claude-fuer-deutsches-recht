@@ -7,7 +7,7 @@ description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Preuß
 
 ## Arbeitsbereich
 
-PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

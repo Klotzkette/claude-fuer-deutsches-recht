@@ -1,18 +1,18 @@
 ---
 name: landpacht-hoferbfolge
-description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkret Prüffeld für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkret Prüfungslinie für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Landpacht Hoferbfolge
 
 ## Arbeitsbereich
 
-**Landpacht Hoferbfolge** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Landpacht Hoferbfolge** führt durch die falltragenden Prüfungslinien: Prüfungslinie für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` | Prüffeld für fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` | Prüfungslinie für fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `landpacht-und-hoferbfolge-pruefen` | Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten. |
 | `mandat-triage-agrarrecht` | Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-prüfen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden). |
 
@@ -23,11 +23,11 @@ description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkret Prüffeld für
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
 
-**Fokus:** Prüffeld für fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
 

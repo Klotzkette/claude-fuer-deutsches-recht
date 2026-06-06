@@ -7,7 +7,7 @@ description: "Prueft auction process, bid protections, notice, stalking horse, q
 
 ## Arbeitsbereich
 
-Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

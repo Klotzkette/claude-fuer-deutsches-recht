@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundre
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

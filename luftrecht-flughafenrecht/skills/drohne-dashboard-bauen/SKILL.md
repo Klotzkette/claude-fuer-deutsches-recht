@@ -7,7 +7,7 @@ description: "Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflo
 
 ## Arbeitsbereich
 
-Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

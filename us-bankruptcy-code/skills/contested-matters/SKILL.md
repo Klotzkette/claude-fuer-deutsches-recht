@@ -7,7 +7,7 @@ description: "Prueft motion practice, objections, evidentiary hearings, discover
 
 ## Arbeitsbereich
 
-Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

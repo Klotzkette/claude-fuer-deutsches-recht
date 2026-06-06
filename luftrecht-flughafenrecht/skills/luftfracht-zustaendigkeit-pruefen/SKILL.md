@@ -7,7 +7,7 @@ description: "Luftfracht-Mandat: unklar welche Behoerde zustaendig ist LBA EASA 
 
 ## Arbeitsbereich
 
-Luftfracht-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prueft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zustaendigkeits-Vermerk fuer Luftfracht-Streit oder Genehmigungsverfahren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Luftfracht-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prueft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zustaendigkeits-Vermerk fuer Luftfracht-Streit oder Genehmigungsverfahren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

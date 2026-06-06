@@ -7,10 +7,10 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 
 ## Arbeitsbereich
 
-**Long Covid Berufskrankheit Erwerbsminderung** ordnet den Fall über die tragenden Prüffelder: Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Long Covid Berufskrankheit Erwerbsminderung** führt durch die falltragenden Prüfungslinien: Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `long-covid-berufskrankheit-unfallversicherung` | Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 | `long-covid-erwerbsminderung-leistungsbild` | Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
@@ -24,7 +24,7 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `long-covid-berufskrankheit-unfallversicherung`
 

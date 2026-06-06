@@ -7,7 +7,7 @@ description: "Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicheru
 
 ## Arbeitsbereich
 
-Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

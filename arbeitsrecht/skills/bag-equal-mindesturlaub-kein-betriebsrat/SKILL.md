@@ -1,21 +1,21 @@
 ---
 name: bag-equal-mindesturlaub-kein-betriebsrat
-description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkret Prüffeld für bag equal pay paarvergleich 8azr30024, Prüffeld für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüffeld für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkret Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüfungslinie für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # BAG Equal Mindesturlaub Kein Betriebsrat
 
 ## Arbeitsbereich
 
-**BAG Equal Mindesturlaub Kein Betriebsrat** ordnet den Fall über die tragenden Prüffelder: Prüffeld für bag equal pay paarvergleich 8azr30024, Prüffeld für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**BAG Equal Mindesturlaub Kein Betriebsrat** führt durch die falltragenden Prüfungslinien: Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bag-equal-pay-paarvergleich-8azr30024` | Prüffeld für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `bag-mindesturlaub-kein-verzicht-9azr10424` | Prüffeld für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-equal-pay-paarvergleich-8azr30024` | Prüfungslinie für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-mindesturlaub-kein-verzicht-9azr10424` | Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll. |
-| `betriebsrat-beschluss-heilung-nachtraeglich` | Prüffeld für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `betriebsrat-beschluss-heilung-nachtraeglich` | Prüfungslinie für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -24,11 +24,11 @@ description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: p
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
 
-**Fokus:** Prüffeld für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -104,7 +104,7 @@ In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle 
 
 ## 2. `bag-mindesturlaub-kein-verzicht-9azr10424`
 
-**Fokus:** Prüffeld für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -332,7 +332,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 4. `betriebsrat-beschluss-heilung-nachtraeglich`
 
-**Fokus:** Prüffeld für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsratsbeschluss — Heilung nachträglich
 

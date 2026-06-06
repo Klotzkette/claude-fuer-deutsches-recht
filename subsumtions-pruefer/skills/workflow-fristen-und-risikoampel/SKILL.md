@@ -7,7 +7,7 @@ description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zust�
 
 ## Arbeitsbereich
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haf
 
 ## Aufgabe
 
-Dieser Prüffeld erstellt eine Sofortampel für Fristen, Subsumtionsrisiken, Beweislage und Eilbedarf. Er markiert kritische Punkte in drei Farben und gibt konkrete Heilungsmaßnahmen.
+Dieser Prüfungslinie erstellt eine Sofortampel für Fristen, Subsumtionsrisiken, Beweislage und Eilbedarf. Er markiert kritische Punkte in drei Farben und gibt konkrete Heilungsmaßnahmen.
 
 ## Risikoampel Subsumtion
 

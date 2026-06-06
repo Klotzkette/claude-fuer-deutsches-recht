@@ -7,7 +7,7 @@ description: "Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtliche
 
 ## Arbeitsbereich
 
-Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: formuliert freundlich, bestimmt und beziehun
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

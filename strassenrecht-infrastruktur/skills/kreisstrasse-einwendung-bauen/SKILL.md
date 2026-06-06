@@ -7,7 +7,7 @@ description: "Kreisstraße: Einwendung bauen im Straßenrecht und Infrastruktur:
 
 ## Arbeitsbereich
 
-Spezialthema **Kreisstrasse Einwendung Bauen** im Straßenrecht und Infrastruktur. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Kreisstrasse Einwendung Bauen** im Straßenrecht und Infrastruktur. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

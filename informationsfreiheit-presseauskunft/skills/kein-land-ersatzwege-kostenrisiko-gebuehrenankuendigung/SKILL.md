@@ -7,7 +7,7 @@ description: "Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzw
 
 ## Arbeitsbereich
 
-Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

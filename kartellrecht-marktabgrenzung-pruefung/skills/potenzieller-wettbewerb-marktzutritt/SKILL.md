@@ -7,7 +7,7 @@ description: "Behoerde oder Gegenseite argumentiert fehlende Markteintrittsbarri
 
 ## Arbeitsbereich
 
-Behoerde oder Gegenseite argumentiert fehlende Markteintrittsbarrieren um Marktbeherrschung zu verneinen. Analysiert Markteintrittsschranken und Wahrscheinlichkeit potenziellen Wettbewerbs im Zeitrahmen 2 bis 3 Jahre. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Prüfraster strukturelle Faktoren Netzwerkeffekte Skaleneffekte Datenzugang regulatorische Huerden Sunk Costs. Output Markteintrittsbarrieren-Memo mit Bewertung Wahrscheinlichkeit und Zeitrahmen. Abgrenzung: produktmarkt-angebotsumstellung für kurzfristige Supply-Side-Substitution. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Behoerde oder Gegenseite argumentiert fehlende Markteintrittsbarrieren um Marktbeherrschung zu verneinen. Analysiert Markteintrittsschranken und Wahrscheinlichkeit potenziellen Wettbewerbs im Zeitrahmen 2 bis 3 Jahre. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Prüfraster strukturelle Faktoren Netzwerkeffekte Skaleneffekte Datenzugang regulatorische Huerden Sunk Costs. Output Markteintrittsbarrieren-Memo mit Bewertung Wahrscheinlichkeit und Zeitrahmen. Abgrenzung: produktmarkt-angebotsumstellung für kurzfristige Supply-Side-Substitution. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

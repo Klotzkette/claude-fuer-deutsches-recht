@@ -7,7 +7,7 @@ description: "Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung n
 
 ## Arbeitsbereich
 
-Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

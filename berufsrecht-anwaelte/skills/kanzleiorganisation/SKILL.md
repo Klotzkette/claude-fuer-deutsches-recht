@@ -7,7 +7,7 @@ description: "Kanzleiorganisation: vertiefter Berufsrechts-Skill für Anwälte; 
 
 ## Arbeitsbereich
 
-Kanzleiorganisation: vertiefter Berufsrechts-Skill für Anwälte; prüft Kanzleiorganisation im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kanzleiorganisation: vertiefter Berufsrechts-Skill für Anwälte; prüft Kanzleiorganisation im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

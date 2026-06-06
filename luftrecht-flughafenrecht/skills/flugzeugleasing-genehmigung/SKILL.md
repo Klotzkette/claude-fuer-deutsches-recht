@@ -7,7 +7,7 @@ description: "Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgen
 
 ## Arbeitsbereich
 
-Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies im Ni
 
 ## Arbeitsbereich
 
-Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

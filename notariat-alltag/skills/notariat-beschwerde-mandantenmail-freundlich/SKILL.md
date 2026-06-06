@@ -7,7 +7,7 @@ description: "Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentsc
 
 ## Arbeitsbereich
 
-Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung. Beschwerdeverfahren nach FamFG und GBO, Zuständigkeit, Fristen, Rechtsmittel und Beschwerdeinhalt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung. Beschwerdeverfahren nach FamFG und GBO, Zuständigkeit, Fristen, Rechtsmittel und Beschwerdeinhalt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

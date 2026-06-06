@@ -7,7 +7,7 @@ description: "Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrena
 
 ## Arbeitsbereich
 
-Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

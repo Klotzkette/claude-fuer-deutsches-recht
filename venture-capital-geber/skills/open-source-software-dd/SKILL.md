@@ -7,7 +7,7 @@ description: "Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership
 
 ## Arbeitsbereich
 
-Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

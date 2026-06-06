@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: schnellen Freigabeprozess fuer Plakate, Pos
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: schnellen Freigabeprozess fuer Plakate, Posts, Ads, Veranstaltungen und Spenden bauen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: schnellen Freigabeprozess fuer Plakate, Posts, Ads, Veranstaltungen und Spenden bauen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

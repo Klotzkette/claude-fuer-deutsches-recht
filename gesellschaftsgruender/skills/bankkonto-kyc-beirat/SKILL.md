@@ -7,7 +7,7 @@ description: "Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhö
 
 ## Arbeitsbereich
 
-Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolutio
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

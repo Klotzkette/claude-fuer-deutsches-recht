@@ -7,7 +7,7 @@ description: "Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, 
 
 ## Arbeitsbereich
 
-Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

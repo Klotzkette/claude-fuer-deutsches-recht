@@ -7,7 +7,7 @@ description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weiter
 
 ## Arbeitsbereich
 
-Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraenkungen in BAFA-Genehmigungen, Re-Export-Verbote in Handelsvertraegen, Catch-All-Risiko bei Weiterlieferung an Endabnehmer in Hochrisikolaendern, No-Russia-Clause Art. 12g VO (EU) 833/2014 in der Lieferkette. Output: Re-Export-Pruefmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraenkungen in BAFA-Genehmigungen, Re-Export-Verbote in Handelsvertraegen, Catch-All-Risiko bei Weiterlieferung an Endabnehmer in Hochrisikolaendern, No-Russia-Clause Art. 12g VO (EU) 833/2014 in der Lieferkette. Output: Re-Export-Pruefmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

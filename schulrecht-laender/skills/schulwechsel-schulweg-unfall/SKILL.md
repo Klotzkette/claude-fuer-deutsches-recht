@@ -7,7 +7,7 @@ description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländer
 
 ## Arbeitsbereich
 
-Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

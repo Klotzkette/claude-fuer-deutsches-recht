@@ -7,7 +7,7 @@ description: "Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Devel
 
 ## Arbeitsbereich
 
-Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Developer Platforms, Moderation und Gatekeeper-Abhängigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Developer Platforms, Moderation und Gatekeeper-Abhängigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

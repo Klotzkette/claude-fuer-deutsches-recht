@@ -7,7 +7,7 @@ description: "Verständigung im Strafverfahren (Orientierung): hilft ehrenamtlic
 
 ## Arbeitsbereich
 
-Verständigung im Strafverfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verständigung im Strafverfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

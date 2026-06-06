@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mi
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mit Liquiditätsrealismus; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mit Liquiditätsrealismus; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

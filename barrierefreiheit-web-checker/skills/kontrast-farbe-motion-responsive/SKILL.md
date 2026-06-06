@@ -7,7 +7,7 @@ description: "Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabst�
 
 ## Arbeitsbereich
 
-Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsi
 
 Dieses Fachmodul prüft visuelle und responsive Barrierefreiheit.
 
-## Prüffelder
+## Prüfungslinien
 
 - Text- und Komponenten-Kontrast.
 - Informationen nicht nur durch Farbe.

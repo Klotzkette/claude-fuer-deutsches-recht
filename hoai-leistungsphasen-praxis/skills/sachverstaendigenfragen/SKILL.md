@@ -7,7 +7,7 @@ description: "HOAI-Praxis: formuliert Beweisthemen für selbständiges Beweisver
 
 ## Arbeitsbereich
 
-HOAI-Praxis: formuliert Beweisthemen für selbständiges Beweisverfahren oder Privatgutachten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: formuliert Beweisthemen für selbständiges Beweisverfahren oder Privatgutachten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

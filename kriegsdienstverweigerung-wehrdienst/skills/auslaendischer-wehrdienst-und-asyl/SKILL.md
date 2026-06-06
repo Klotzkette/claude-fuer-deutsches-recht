@@ -7,7 +7,7 @@ description: "Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem W
 
 ## Arbeitsbereich
 
-Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

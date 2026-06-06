@@ -7,7 +7,7 @@ description: "Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, W
 
 ## Arbeitsbereich
 
-Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, Watermark, Versionen und Downloadlogik für Mandat und Verfahren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, Watermark, Versionen und Downloadlogik für Mandat und Verfahren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

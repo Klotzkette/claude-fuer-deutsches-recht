@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: prüft KSK-Voraussetzungen, Nachweise, Minde
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: prüft KSK-Voraussetzungen, Nachweise, Mindestarbeitseinkommen und Berufsanfänger; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: prüft KSK-Voraussetzungen, Nachweise, Mindestarbeitseinkommen und Berufsanfänger; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen 
 
 ## Arbeitsbereich
 
-Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen und Rezensionszitaten — UWG, Irreführungsverbot, Siegel-Anforderungen und Abmahnrisiken. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen und Rezensionszitaten — UWG, Irreführungsverbot, Siegel-Anforderungen und Abmahnrisiken. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erstellt Untersuchungsbericht ohne Quellenpreisgabe im Hinweisgebe
 
 ## Arbeitsbereich
 
-Erstellt Untersuchungsbericht ohne Quellenpreisgabe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Untersuchungsbericht ohne Quellenpreisgabe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

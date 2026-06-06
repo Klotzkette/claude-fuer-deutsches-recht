@@ -7,7 +7,7 @@ description: "Hilft jungen VCs, Produktreife, Roadmap, technische Schulden, Arch
 
 ## Arbeitsbereich
 
-Hilft jungen VCs, Produktreife, Roadmap, technische Schulden, Architektur, KI-Claims und Abhängigkeiten zu hinterfragen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft jungen VCs, Produktreife, Roadmap, technische Schulden, Architektur, KI-Claims und Abhängigkeiten zu hinterfragen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

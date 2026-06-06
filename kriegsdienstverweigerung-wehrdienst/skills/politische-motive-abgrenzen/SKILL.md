@@ -7,7 +7,7 @@ description: "Trennt allgemeine Gewissensentscheidung von Kritik an einem bestim
 
 ## Arbeitsbereich
 
-Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

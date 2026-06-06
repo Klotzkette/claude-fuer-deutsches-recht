@@ -7,7 +7,7 @@ description: "Prüft Embedded Software, Safety Functions, Updates, Maschinenvero
 
 ## Arbeitsbereich
 
-Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

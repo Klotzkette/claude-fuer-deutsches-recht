@@ -7,7 +7,7 @@ description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor In
 
 ## Arbeitsbereich
 
-Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster nach Paragraph 3a EStG vorbereiten, Sanierungsabsicht der Glaeubiger sichern. Verhindert das spaete und teuere Stolpern ueber Steuerfallen im bestaetigten Plan. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster nach Paragraph 3a EStG vorbereiten, Sanierungsabsicht der Glaeubiger sichern. Verhindert das spaete und teuere Stolpern ueber Steuerfallen im bestaetigten Plan. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

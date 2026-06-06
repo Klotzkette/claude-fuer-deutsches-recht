@@ -7,7 +7,7 @@ description: "Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglic
 
 ## Arbeitsbereich
 
-Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglichkeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglichkeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

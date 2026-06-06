@@ -7,7 +7,7 @@ description: "Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulic
 
 ## Arbeitsbereich
 
-Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

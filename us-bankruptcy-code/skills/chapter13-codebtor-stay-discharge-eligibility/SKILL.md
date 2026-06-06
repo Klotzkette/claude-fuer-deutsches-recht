@@ -7,7 +7,7 @@ description: "Prueft co-debtor stay, consumer debts, relief motions and guaranto
 
 ## Arbeitsbereich
 
-Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

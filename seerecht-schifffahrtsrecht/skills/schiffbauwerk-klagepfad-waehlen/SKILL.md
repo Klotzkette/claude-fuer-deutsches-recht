@@ -7,7 +7,7 @@ description: "Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit 
 
 ## Arbeitsbereich
 
-Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Schiff im Bau (Schiffbauwerk): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Schiff im Bau (Schiffbauwerk): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

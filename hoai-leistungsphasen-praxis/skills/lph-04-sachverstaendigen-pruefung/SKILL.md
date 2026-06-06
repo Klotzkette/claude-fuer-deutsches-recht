@@ -7,7 +7,7 @@ description: "HOAI LPH 4 Genehmigungsplanung: übersetzt den LPH-Stand in Gutach
 
 ## Arbeitsbereich
 
-HOAI LPH 4 Genehmigungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 4 Genehmigungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

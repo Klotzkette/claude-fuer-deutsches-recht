@@ -7,7 +7,7 @@ description: "Bereitet Reaktion auf Presseoffenlegung vor im Hinweisgeberschutz 
 
 ## Arbeitsbereich
 
-Bereitet Reaktion auf Presseoffenlegung vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bereitet Reaktion auf Presseoffenlegung vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

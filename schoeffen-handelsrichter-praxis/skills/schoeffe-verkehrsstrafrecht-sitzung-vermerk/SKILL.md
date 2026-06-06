@@ -7,7 +7,7 @@ description: "Verkehrsstrafrecht für Schöffen (Orientierung): hilft ehrenamtli
 
 ## Arbeitsbereich
 
-Verkehrsstrafrecht für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verkehrsstrafrecht für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

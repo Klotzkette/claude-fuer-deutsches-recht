@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber t
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

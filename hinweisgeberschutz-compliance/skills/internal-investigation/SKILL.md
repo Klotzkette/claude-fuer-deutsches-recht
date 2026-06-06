@@ -7,7 +7,7 @@ description: "Steuert interne Untersuchung praktisch im Hinweisgeberschutz Compl
 
 ## Arbeitsbereich
 
-Steuert interne Untersuchung praktisch. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Steuert interne Untersuchung praktisch. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,10 +7,10 @@ description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Genth
 
 ## Arbeitsbereich
 
-**Gentherapie Dossier Langzeit** ordnet den Fall über die tragenden Prüffelder: Gentherapie-Dossier und GMP-Kette, Gentherapie Langzeit-Follow-up. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gentherapie Dossier Langzeit** führt durch die falltragenden Prüfungslinien: Gentherapie-Dossier und GMP-Kette, Gentherapie Langzeit-Follow-up. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `gentherapie-dossier-gmp` | Gentherapie-Dossier und GMP-Kette: moderner Medizinrechts-Skill für Qualität, Nichtklinik, Klinik, Herstellkette, Freigabe und Chargen-/Vektorlogik bei Gentherapeutika. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `gentherapie-langzeit-followup` | Gentherapie Langzeit-Follow-up: moderner Medizinrechts-Skill für Nachbeobachtung über Jahre, Registerdaten, Patientenumzug, Abbruch der Nachsorge und Haftungsfolgen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
@@ -22,7 +22,7 @@ description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Genth
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `gentherapie-dossier-gmp`
 

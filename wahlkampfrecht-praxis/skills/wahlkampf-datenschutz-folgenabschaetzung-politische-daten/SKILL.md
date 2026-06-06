@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung ei
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: pruefen, ob politische Datenverarbeitung eine DSFA braucht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

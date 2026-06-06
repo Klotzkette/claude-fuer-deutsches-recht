@@ -1,19 +1,19 @@
 ---
 name: erstgespraech-mandatsannahme-fa-vwgo
-description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüffeld für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Erstgespraech Mandatsannahme FA Vwgo
 
 ## Arbeitsbereich
 
-**Erstgespraech Mandatsannahme FA Vwgo** ordnet den Fall über die tragenden Prüffelder: Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüffeld für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Erstgespraech Mandatsannahme FA Vwgo** führt durch die falltragenden Prüfungslinien: Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Prüffeld für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-verwaltungsrecht-anfechtungsklage` | Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo. |
 
 ## Arbeitsweg
@@ -23,7 +23,7 @@ description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltu
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
 
@@ -186,7 +186,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv`
 
-**Fokus:** Prüffeld für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
 

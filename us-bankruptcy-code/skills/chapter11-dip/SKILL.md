@@ -7,7 +7,7 @@ description: "Prueft DIP powers, duties, reporting, fiduciary obligations, opera
 
 ## Arbeitsbereich
 
-Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

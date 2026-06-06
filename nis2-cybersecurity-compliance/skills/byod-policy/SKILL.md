@@ -7,7 +7,7 @@ description: "Baut eine BYOD-Policy mit realistischen technischen Grenzen im Nis
 
 ## Arbeitsbereich
 
-Baut eine BYOD-Policy mit realistischen technischen Grenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut eine BYOD-Policy mit realistischen technischen Grenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

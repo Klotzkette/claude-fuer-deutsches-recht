@@ -7,7 +7,7 @@ description: "Prueft US board duties near insolvency, fiduciary risk, filing dec
 
 ## Arbeitsbereich
 
-Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

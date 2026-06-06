@@ -7,7 +7,7 @@ description: "Jugendschöffe Besonderheiten (Sitzungspraxis): hilft ehrenamtlich
 
 ## Arbeitsbereich
 
-Jugendschöffe Besonderheiten (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Jugendschöffe Besonderheiten (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

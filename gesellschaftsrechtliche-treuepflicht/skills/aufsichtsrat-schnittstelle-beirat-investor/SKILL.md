@@ -7,7 +7,7 @@ description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Sc
 
 ## Arbeitsbereich
 
-Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

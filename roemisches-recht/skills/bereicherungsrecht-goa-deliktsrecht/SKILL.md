@@ -7,7 +7,7 @@ description: "Römisches Recht: Bereicherungsrecht im Vergleich - röm. condicti
 
 ## Arbeitsbereich
 
-Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

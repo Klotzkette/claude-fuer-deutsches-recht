@@ -7,7 +7,7 @@ description: "Vertrag unterschrieben und bereut: führt Laien durch Widerruf, An
 
 ## Arbeitsbereich
 
-Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

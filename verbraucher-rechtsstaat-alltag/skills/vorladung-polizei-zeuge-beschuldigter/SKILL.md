@@ -7,7 +7,7 @@ description: "Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Po
 
 ## Arbeitsbereich
 
-Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

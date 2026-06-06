@@ -7,7 +7,7 @@ description: "Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im S
 
 ## Arbeitsbereich
 
-Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im Schulalltag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im Schulalltag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

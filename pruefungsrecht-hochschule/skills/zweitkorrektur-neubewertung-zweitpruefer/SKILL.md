@@ -7,7 +7,7 @@ description: "Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im 
 
 ## Arbeitsbereich
 
-Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

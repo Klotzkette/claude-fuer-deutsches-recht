@@ -7,7 +7,7 @@ description: "Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Ter
 
 ## Arbeitsbereich
 
-Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Termination-Lizenz und Vendor Lock-in-Vermeidung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Termination-Lizenz und Vendor Lock-in-Vermeidung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

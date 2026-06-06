@@ -7,7 +7,7 @@ description: "HOAI-Praxis: prüft Vergabe von Planerleistungen, Schwellenwerte u
 
 ## Arbeitsbereich
 
-HOAI-Praxis: prüft Vergabe von Planerleistungen, Schwellenwerte und Dokumentation; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Praxis: prüft Vergabe von Planerleistungen, Schwellenwerte und Dokumentation; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozesss
 
 ## Arbeitsbereich
 
-NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

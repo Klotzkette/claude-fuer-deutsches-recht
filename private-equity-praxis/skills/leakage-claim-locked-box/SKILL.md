@@ -7,7 +7,7 @@ description: "Prüft Permitted Leakage, verbotene Leakage, Belege, Claim-Notice 
 
 ## Arbeitsbereich
 
-Prüft Permitted Leakage, verbotene Leakage, Belege, Claim-Notice und Vergleichsstrategie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Permitted Leakage, verbotene Leakage, Belege, Claim-Notice und Vergleichsstrategie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

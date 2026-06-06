@@ -7,10 +7,10 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 
 ## Arbeitsbereich
 
-**Eingliederungshilfe SGB** ordnet den Fall über die tragenden Prüffelder: Eingliederungshilfe nach SGB IX Teil 2, Eingliederungsvereinbarung nach § 15 SGB II / nach Reform, Fax beim SG einreichen Vorteile und Grenzen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Eingliederungshilfe SGB** führt durch die falltragenden Prüfungslinien: Eingliederungshilfe nach SGB IX Teil 2, Eingliederungsvereinbarung nach § 15 SGB II / nach Reform, Fax beim SG einreichen Vorteile und Grenzen. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `eingliederungshilfe-sgb-ix-rehabilitation` | Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster. |
 | `eingliederungsvereinbarung-15-sgb-ii` | Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster. |
@@ -25,7 +25,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `eingliederungshilfe-sgb-ix-rehabilitation`
 

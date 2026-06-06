@@ -7,7 +7,7 @@ description: "Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentliche
 
 ## Arbeitsbereich
 
-Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

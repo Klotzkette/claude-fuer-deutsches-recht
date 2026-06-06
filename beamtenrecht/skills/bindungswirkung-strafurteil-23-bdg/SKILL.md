@@ -7,7 +7,7 @@ description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Dis
 
 ## Arbeitsbereich
 
-Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten fuer Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine fuer die disziplinarrechtliche Verteidigung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten fuer Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine fuer die disziplinarrechtliche Verteidigung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

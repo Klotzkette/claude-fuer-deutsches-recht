@@ -7,7 +7,7 @@ description: "Prueft Schutz fiktiver Figuren, Universen, character bible, mercha
 
 ## Arbeitsbereich
 
-Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

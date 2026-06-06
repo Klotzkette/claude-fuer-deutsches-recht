@@ -7,7 +7,7 @@ description: "Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesu
 
 ## Arbeitsbereich
 
-Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

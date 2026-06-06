@@ -7,7 +7,7 @@ description: "Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen im 
 
 ## Arbeitsbereich
 
-Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

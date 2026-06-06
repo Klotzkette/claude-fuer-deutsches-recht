@@ -7,7 +7,7 @@ description: "VerpackG: LUCID-Registrierung, Systembeteiligung, Datenmeldung, Vo
 
 ## Arbeitsbereich
 
-VerpackG: LUCID-Registrierung, Systembeteiligung, Datenmeldung, Vollständigkeit und Marktplatz-/Fulfillment-Konstellationen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+VerpackG: LUCID-Registrierung, Systembeteiligung, Datenmeldung, Vollständigkeit und Marktplatz-/Fulfillment-Konstellationen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

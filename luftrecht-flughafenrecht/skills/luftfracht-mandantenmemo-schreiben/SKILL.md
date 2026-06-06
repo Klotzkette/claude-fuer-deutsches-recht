@@ -7,7 +7,7 @@ description: "Anwalt schreibt Mandantenmemo fuer Luftfrachtfuehrer oder Spediteu
 
 ## Arbeitsbereich
 
-Anwalt schreibt Mandantenmemo fuer Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwalt schreibt Mandantenmemo fuer Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

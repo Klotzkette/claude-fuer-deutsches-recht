@@ -7,7 +7,7 @@ description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulre
 
 ## Arbeitsbereich
 
-Prüft Senat, Fakultätsrat und akademische Gremien. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Senat, Fakultätsrat und akademische Gremien. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

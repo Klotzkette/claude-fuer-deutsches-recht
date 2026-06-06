@@ -7,7 +7,7 @@ description: "Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche B
 
 ## Arbeitsbereich
 
-Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

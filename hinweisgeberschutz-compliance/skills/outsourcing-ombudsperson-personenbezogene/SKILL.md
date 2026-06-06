@@ -7,7 +7,7 @@ description: "Prüft Outsourcing an Ombudsperson oder Dienstleister im Hinweisge
 
 ## Arbeitsbereich
 
-Prüft Outsourcing an Ombudsperson oder Dienstleister. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Outsourcing an Ombudsperson oder Dienstleister. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

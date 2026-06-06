@@ -7,7 +7,7 @@ description: "Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte
 
 ## Arbeitsbereich
 
-Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

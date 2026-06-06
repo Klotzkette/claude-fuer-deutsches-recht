@@ -7,7 +7,7 @@ description: "Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets im 
 
 ## Arbeitsbereich
 
-Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

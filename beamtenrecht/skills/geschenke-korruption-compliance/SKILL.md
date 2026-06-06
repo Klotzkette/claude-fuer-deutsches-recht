@@ -7,7 +7,7 @@ description: "Geschenke, Einladungen, Sponsoring und Korruptionsprävention im �
 
 ## Arbeitsbereich
 
-Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

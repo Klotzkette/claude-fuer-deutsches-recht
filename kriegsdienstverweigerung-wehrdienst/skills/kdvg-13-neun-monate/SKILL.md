@@ -7,7 +7,7 @@ description: "Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlass
 
 ## Arbeitsbereich
 
-Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

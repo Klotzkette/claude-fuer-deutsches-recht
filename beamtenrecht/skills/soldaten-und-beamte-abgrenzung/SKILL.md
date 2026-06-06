@@ -7,7 +7,7 @@ description: "Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwal
 
 ## Arbeitsbereich
 
-Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

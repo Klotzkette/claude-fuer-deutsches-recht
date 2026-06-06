@@ -7,7 +7,7 @@ description: "Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizi
 
 ## Arbeitsbereich
 
-Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizierung LBA-Anerkennung Zollgenehmigung Gefahrguterlaubnis. Skill prueft Genehmigungsstatus und liefert Genehmigungslücken-Analyse mit Antragsfristen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizierung LBA-Anerkennung Zollgenehmigung Gefahrguterlaubnis. Skill prueft Genehmigungsstatus und liefert Genehmigungslücken-Analyse mit Antragsfristen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

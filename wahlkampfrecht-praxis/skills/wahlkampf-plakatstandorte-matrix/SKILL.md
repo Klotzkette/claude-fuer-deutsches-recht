@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Standortmatrix fuer Plakate mit Sichtbarkei
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Standortmatrix fuer Plakate mit Sichtbarkeit und Rechtssicherheit erstellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Standortmatrix fuer Plakate mit Sichtbarkeit und Rechtssicherheit erstellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

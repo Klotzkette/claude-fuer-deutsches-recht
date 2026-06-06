@@ -7,7 +7,7 @@ description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im
 
 ## Arbeitsbereich
 
-Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

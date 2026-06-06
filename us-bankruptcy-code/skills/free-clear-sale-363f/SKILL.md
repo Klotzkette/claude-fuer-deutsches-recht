@@ -7,7 +7,7 @@ description: "Prueft sale free and clear of interests, liens attaching to procee
 
 ## Arbeitsbereich
 
-Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

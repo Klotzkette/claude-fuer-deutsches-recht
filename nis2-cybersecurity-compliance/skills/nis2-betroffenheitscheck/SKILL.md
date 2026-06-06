@@ -7,7 +7,7 @@ description: "Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 20
 
 ## Arbeitsbereich
 
-Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

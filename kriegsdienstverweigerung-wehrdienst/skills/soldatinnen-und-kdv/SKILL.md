@@ -7,7 +7,7 @@ description: "Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient 
 
 ## Arbeitsbereich
 
-Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

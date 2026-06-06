@@ -7,7 +7,7 @@ description: "Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches R
 
 ## Arbeitsbereich
 
-Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht fuer Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht fuer Unterricht und Oeffentlichkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht fuer Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht fuer Unterricht und Oeffentlichkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

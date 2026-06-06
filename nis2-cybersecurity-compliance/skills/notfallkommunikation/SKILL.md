@@ -7,7 +7,7 @@ description: "Baut Notfallkommunikation außerhalb kompromittierter Systeme im N
 
 ## Arbeitsbereich
 
-Baut Notfallkommunikation außerhalb kompromittierter Systeme. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Notfallkommunikation außerhalb kompromittierter Systeme. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

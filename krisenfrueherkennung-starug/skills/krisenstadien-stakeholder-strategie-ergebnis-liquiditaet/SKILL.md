@@ -7,7 +7,7 @@ description: "IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore besti
 
 ## Arbeitsbereich
 
-IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadium, Diagnose-Checklisten, Handlungskorridore, Eskalationspflichten. Output Krisenstadium-Diagnose, Massnahmen-Empfehlung je Stadium. Abgrenzung: Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform; Warnpflicht siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadium, Diagnose-Checklisten, Handlungskorridore, Eskalationspflichten. Output Krisenstadium-Diagnose, Massnahmen-Empfehlung je Stadium. Abgrenzung: Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform; Warnpflicht siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

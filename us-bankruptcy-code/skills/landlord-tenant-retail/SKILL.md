@@ -7,7 +7,7 @@ description: "Prueft retail cases: store closing, lease rejection/assumption, go
 
 ## Arbeitsbereich
 
-Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

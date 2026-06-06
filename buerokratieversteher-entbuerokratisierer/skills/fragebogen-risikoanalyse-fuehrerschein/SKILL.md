@@ -7,7 +7,7 @@ description: "Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angab
 
 ## Arbeitsbereich
 
-Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

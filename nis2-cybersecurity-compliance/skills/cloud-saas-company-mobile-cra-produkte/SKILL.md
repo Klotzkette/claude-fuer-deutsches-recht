@@ -7,7 +7,7 @@ description: "Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout im
 
 ## Arbeitsbereich
 
-Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

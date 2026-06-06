@@ -7,7 +7,7 @@ description: "Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ei
 
 ## Arbeitsbereich
 
-Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "PrALR: Normkarte Altrecht in heutiger Akte im Preußisches Allgeme
 
 ## Arbeitsbereich
 
-PrALR: Normkarte Altrecht in heutiger Akte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+PrALR: Normkarte Altrecht in heutiger Akte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

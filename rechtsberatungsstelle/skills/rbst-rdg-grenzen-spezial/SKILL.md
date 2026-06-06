@@ -7,7 +7,7 @@ description: "Spezialfall RDG-Grenzen fuer Nichtanwaelte: Verbraucherzentrale, M
 
 ## Arbeitsbereich
 
-Spezialfall RDG-Grenzen fuer Nichtanwaelte: Verbraucherzentrale, Mietervereine, Inkassodienstleister, Legal-Tech. Pruefraster fuer Erlaubnispflicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall RDG-Grenzen fuer Nichtanwaelte: Verbraucherzentrale, Mietervereine, Inkassodienstleister, Legal-Tech. Pruefraster fuer Erlaubnispflicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

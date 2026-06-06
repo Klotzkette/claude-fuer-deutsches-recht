@@ -7,7 +7,7 @@ description: "Erstellt Risikomatrix für Hinweise im Hinweisgeberschutz Complian
 
 ## Arbeitsbereich
 
-Erstellt Risikomatrix für Hinweise. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Risikomatrix für Hinweise. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

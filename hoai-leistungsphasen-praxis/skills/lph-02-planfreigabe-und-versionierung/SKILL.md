@@ -7,7 +7,7 @@ description: "HOAI LPH 2 Vorplanung: prüft Planindex, Freigaben, Verteiler und 
 
 ## Arbeitsbereich
 
-HOAI LPH 2 Vorplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI LPH 2 Vorplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

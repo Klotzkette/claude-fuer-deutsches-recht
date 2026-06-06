@@ -7,7 +7,7 @@ description: "Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende 
 
 ## Arbeitsbereich
 
-Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldanträge Kündigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht für uebergreifende Betriebsfortführung (iv-sicherung-betriebsfortführung). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldanträge Kündigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht für uebergreifende Betriebsfortführung (iv-sicherung-betriebsfortführung). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

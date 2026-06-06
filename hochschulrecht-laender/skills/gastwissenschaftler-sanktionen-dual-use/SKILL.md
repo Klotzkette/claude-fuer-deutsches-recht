@@ -7,7 +7,7 @@ description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und s
 
 ## Arbeitsbereich
 
-Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Krisenprotokollierung der Geschäftsführung für Haftungsschutz: 
 
 ## Arbeitsbereich
 
-Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Prüfraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für spaetere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Prüfraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für spaetere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

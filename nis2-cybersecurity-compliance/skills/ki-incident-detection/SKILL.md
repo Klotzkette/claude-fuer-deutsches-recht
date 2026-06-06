@@ -7,7 +7,7 @@ description: "Prüft KI-gestützte Incident Detection und ihre Grenzen im Nis2 C
 
 ## Arbeitsbereich
 
-Prüft KI-gestützte Incident Detection und ihre Grenzen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft KI-gestützte Incident Detection und ihre Grenzen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

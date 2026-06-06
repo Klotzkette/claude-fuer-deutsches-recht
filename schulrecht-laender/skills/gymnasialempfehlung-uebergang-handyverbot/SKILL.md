@@ -7,7 +7,7 @@ description: "Prüft Übergang Grundschule zu weiterführender Schule im Schulre
 
 ## Arbeitsbereich
 
-Prüft Übergang Grundschule zu weiterführender Schule. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Übergang Grundschule zu weiterführender Schule. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

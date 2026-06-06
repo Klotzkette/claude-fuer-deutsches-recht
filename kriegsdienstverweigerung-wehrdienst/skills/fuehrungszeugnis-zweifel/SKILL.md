@@ -7,7 +7,7 @@ description: "Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweif
 
 ## Arbeitsbereich
 
-Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

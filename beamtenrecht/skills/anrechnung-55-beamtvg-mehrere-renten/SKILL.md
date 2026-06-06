@@ -7,7 +7,7 @@ description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung
 
 ## Arbeitsbereich
 
-Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Hoechstgrenzenmodell die Behandlung von Kindererziehungszeiten und die unionsrechtlich gebotene Beruecksichtigung von EU-Renten. Liefert Berechnungstabelle und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Hoechstgrenzenmodell die Behandlung von Kindererziehungszeiten und die unionsrechtlich gebotene Beruecksichtigung von EU-Renten. Liefert Berechnungstabelle und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

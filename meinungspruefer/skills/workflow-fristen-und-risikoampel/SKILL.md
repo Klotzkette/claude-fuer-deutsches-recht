@@ -7,7 +7,7 @@ description: "Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zust�
 
 ## Arbeitsbereich
 
-Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haf
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld markiert in äußerungsrechtlichen Mandaten typische Fristen und Eskalationsrisiken: Eilantrag auf Unterlassung, Gegendarstellung, DSA/Plattform-Beschwerde, presserechtliche Auseinandersetzung.
+Dieser Prüfungslinie markiert in äußerungsrechtlichen Mandaten typische Fristen und Eskalationsrisiken: Eilantrag auf Unterlassung, Gegendarstellung, DSA/Plattform-Beschwerde, presserechtliche Auseinandersetzung.
 
 ## Äußerungsrechtliche Fristen
 - **Einstweilige Verfügung (§§ 935 ff., 940 ZPO):** Verfügungsgrund regelmäßig nur ca. 4 Wochen nach Kenntnis (Selbstwiderlegungsdoktrin der OLG; siehe LG/OLG Köln-/Hamburger-Linie; bitte aktuelle OLG-Rechtsprechung prüfen).

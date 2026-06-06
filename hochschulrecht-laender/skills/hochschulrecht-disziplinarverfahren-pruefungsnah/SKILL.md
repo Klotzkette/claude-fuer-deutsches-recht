@@ -7,7 +7,7 @@ description: "Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende im Ho
 
 ## Arbeitsbereich
 
-Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

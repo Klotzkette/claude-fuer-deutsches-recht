@@ -7,7 +7,7 @@ description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamt
 
 ## Arbeitsbereich
 
-Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

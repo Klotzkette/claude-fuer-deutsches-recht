@@ -7,7 +7,7 @@ description: "Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle im Hin
 
 ## Arbeitsbereich
 
-Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

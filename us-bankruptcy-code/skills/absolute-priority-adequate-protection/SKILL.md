@@ -7,7 +7,7 @@ description: "Prueft absolute priority, new value, individual debtor issues, equ
 
 ## Arbeitsbereich
 
-Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

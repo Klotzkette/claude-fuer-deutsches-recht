@@ -7,7 +7,7 @@ description: "Kirchlicher Verwaltungsakt und Dekret: Fachmodul für CIC, Katechi
 
 ## Arbeitsbereich
 
-Kirchlicher Verwaltungsakt und Dekret: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kirchlicher Verwaltungsakt und Dekret: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, An
 
 ## Arbeitsbereich
 
-Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, Angels und Experten mit rechtlich sauberer Fragelogik. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, Angels und Experten mit rechtlich sauberer Fragelogik. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordinati
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachplanung, Werkstattplanung, Planfreigabe, Widersprüche und ausführungsreife Pläne prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachplanung, Werkstattplanung, Planfreigabe, Widersprüche und ausführungsreife Pläne prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

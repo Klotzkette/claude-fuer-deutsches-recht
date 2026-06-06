@@ -7,7 +7,7 @@ description: "Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Aussc
 
 ## Arbeitsbereich
 
-Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Ausschluss, Umsetzung, Klassenkonferenz, Anhörung und Rechtsschutz. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Ausschluss, Umsetzung, Klassenkonferenz, Anhörung und Rechtsschutz. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulv
 
 ## Arbeitsbereich
 
-Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

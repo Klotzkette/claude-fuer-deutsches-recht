@@ -7,7 +7,7 @@ description: "Prueft estate interest in policies, D&O proceeds, coverage dispute
 
 ## Arbeitsbereich
 
-Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

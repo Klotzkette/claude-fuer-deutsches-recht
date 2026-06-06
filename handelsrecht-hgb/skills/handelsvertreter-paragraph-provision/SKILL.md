@@ -7,7 +7,7 @@ description: "Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vert
 
 ## Arbeitsbereich
 
-Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

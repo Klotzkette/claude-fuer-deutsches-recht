@@ -7,7 +7,7 @@ description: "Prüft Meldungen von Lieferanten, Kunden oder Dritten im Hinweisge
 
 ## Arbeitsbereich
 
-Prüft Meldungen von Lieferanten, Kunden oder Dritten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Meldungen von Lieferanten, Kunden oder Dritten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

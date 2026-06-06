@@ -7,7 +7,7 @@ description: "Prueft appeal route, final/interlocutory order, stay pending appea
 
 ## Arbeitsbereich
 
-Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

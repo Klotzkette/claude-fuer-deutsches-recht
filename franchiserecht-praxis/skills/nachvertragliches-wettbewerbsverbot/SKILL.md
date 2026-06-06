@@ -7,7 +7,7 @@ description: "Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zei
 
 ## Arbeitsbereich
 
-Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach § 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach § 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

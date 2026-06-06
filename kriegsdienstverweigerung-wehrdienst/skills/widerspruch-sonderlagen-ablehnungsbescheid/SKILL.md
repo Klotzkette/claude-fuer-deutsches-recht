@@ -7,7 +7,7 @@ description: "Prüft normale und verkürzte Widerspruchsfristen, insbesondere §
 
 ## Arbeitsbereich
 
-Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

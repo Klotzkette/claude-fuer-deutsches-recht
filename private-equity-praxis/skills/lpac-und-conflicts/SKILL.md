@@ -7,7 +7,7 @@ description: "Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Sec
 
 ## Arbeitsbereich
 
-Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Interessenkonflikte, Related-Party-Transactions, GP-led Secondary, Fees, Allocations und Consent. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

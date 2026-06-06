@@ -7,16 +7,16 @@ description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigen
 
 ## Arbeitsbereich
 
-**Schimmel Lueften Stapel Teilungsordnung** ordnet den Fall über die tragenden Prüffelder: Schimmel/Lüften/Heizen, Schriftsatz aus Stapel, Teilungserklärung auslesen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Schimmel Lueften Stapel Teilungsordnung** führt durch die falltragenden Prüfungslinien: Schimmel/Lüften/Heizen, Schriftsatz aus Stapel, Teilungserklärung auslesen. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-schimmel-lueften-heizen` | Schimmel/Lüften/Heizen: Prüffeld für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-schriftsatz-aus-stapel` | Schriftsatz aus Stapel: Prüffeld für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-teilungsordnung-auslesen` | Teilungserklärung auslesen: Prüffeld für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-untervermietung-entscheidung` | Untervermietung-Entscheidung: Prüffeld für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-vergleichsfenster-mietstreit` | Vergleichsfenster Mietstreit: Prüffeld für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-schimmel-lueften-heizen` | Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-schriftsatz-aus-stapel` | Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-teilungsordnung-auslesen` | Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-untervermietung-entscheidung` | Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-vergleichsfenster-mietstreit` | Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,11 +25,11 @@ description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigen
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-schimmel-lueften-heizen`
 
-**Fokus:** Schimmel/Lüften/Heizen: Prüffeld für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Schimmel/Lüften/Heizen
 
@@ -42,7 +42,7 @@ description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigen
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-schriftsatz-aus-stapel`
 
-**Fokus:** Schriftsatz aus Stapel: Prüffeld für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Schriftsatz aus Stapel
 
@@ -86,7 +86,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -117,7 +117,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-teilungsordnung-auslesen`
 
-**Fokus:** Teilungserklärung auslesen: Prüffeld für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Teilungserklärung auslesen
 
@@ -130,7 +130,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -161,7 +161,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-untervermietung-entscheidung`
 
-**Fokus:** Untervermietung-Entscheidung: Prüffeld für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Untervermietung-Entscheidung
 
@@ -174,7 +174,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -205,7 +205,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-vergleichsfenster-mietstreit`
 
-**Fokus:** Vergleichsfenster Mietstreit: Prüffeld für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Vergleichsfenster Mietstreit
 
@@ -218,7 +218,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten.
+Dieser Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

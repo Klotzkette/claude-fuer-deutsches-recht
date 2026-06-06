@@ -7,7 +7,7 @@ description: "Bonorum venditio: Versteigerung des Schuldnervermoegens als univer
 
 ## Arbeitsbereich
 
-Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

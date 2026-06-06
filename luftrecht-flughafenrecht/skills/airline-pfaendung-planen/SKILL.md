@@ -7,7 +7,7 @@ description: "Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airl
 
 ## Arbeitsbereich
 
-Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

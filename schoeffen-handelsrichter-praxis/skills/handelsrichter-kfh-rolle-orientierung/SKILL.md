@@ -7,7 +7,7 @@ description: "Handelsrichter in der Kammer für Handelssachen (Orientierung): hi
 
 ## Arbeitsbereich
 
-Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

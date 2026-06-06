@@ -7,7 +7,7 @@ description: "Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25
 
 ## Arbeitsbereich
 
-Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25, § 26, § 39 DRiG, Prüfungsverfahren, Erledigungsdruck, Geschäftsprüfung und zulässige Verwaltungskontrolle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Richterliche Unabhängigkeit und Dienstaufsicht: Art. 97 GG, § 25, § 26, § 39 DRiG, Prüfungsverfahren, Erledigungsdruck, Geschäftsprüfung und zulässige Verwaltungskontrolle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

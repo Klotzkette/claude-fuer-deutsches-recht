@@ -7,7 +7,7 @@ description: "Vergleicht Articles of Association mit Satzung und Gesellschaftsve
 
 ## Arbeitsbereich
 
-Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

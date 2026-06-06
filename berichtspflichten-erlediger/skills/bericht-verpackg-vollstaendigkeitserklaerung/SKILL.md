@@ -7,7 +7,7 @@ description: "Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prü
 
 ## Arbeitsbereich
 
-Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

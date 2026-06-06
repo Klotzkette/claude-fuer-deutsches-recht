@@ -7,7 +7,7 @@ description: "Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schultr�
 
 ## Arbeitsbereich
 
-Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

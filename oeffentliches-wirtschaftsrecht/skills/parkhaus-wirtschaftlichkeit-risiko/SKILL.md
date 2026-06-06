@@ -7,7 +7,7 @@ description: "Parkhaus: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsr
 
 ## Arbeitsbereich
 
-Spezialthema **Parkhaus Wirtschaftlichkeit Rechnen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüffeld; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
+Spezialthema **Parkhaus Wirtschaftlichkeit Rechnen** im Öffentliches Wirtschaftsrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau dieses Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

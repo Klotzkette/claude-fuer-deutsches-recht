@@ -7,7 +7,7 @@ description: "Baut eine belastbare Akten- und Beweismatrix für schulische Eskal
 
 ## Arbeitsbereich
 
-Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

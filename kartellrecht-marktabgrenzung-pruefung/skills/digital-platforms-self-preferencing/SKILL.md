@@ -7,7 +7,7 @@ description: "Digitale Plattformen Self-Preferencing: Fachmodul für großes Kar
 
 ## Arbeitsbereich
 
-Digitale Plattformen Self-Preferencing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Digitale Plattformen Self-Preferencing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und B
 
 ## Arbeitsbereich
 
-Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Chronologie und Belegmatrix: macht aus unordentlichem Material ein
 
 ## Arbeitsbereich
 
-Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld ordnet alle Lebenszyklus-Daten eines Wandeldarlehens chronologisch: Term Sheet, Closing, Auszahlung, Zinszahlungen, Trigger-Ereignisse (Folge-Runde, Maturity, Insolvenz), Wandlung, Eintragung.
+Dieser Prüfungslinie ordnet alle Lebenszyklus-Daten eines Wandeldarlehens chronologisch: Term Sheet, Closing, Auszahlung, Zinszahlungen, Trigger-Ereignisse (Folge-Runde, Maturity, Insolvenz), Wandlung, Eintragung.
 
 ## Pflicht-Timeline Wandeldarlehen
 - **Term-Sheet-Datum** und -Verbindlichkeitsumfang.

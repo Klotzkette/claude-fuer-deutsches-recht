@@ -7,7 +7,7 @@ description: "Aufbau und Pflege revisionssicherer Audit-Trails fuer Exportkontro
 
 ## Arbeitsbereich
 
-Aufbau und Pflege revisionssicherer Audit-Trails fuer Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation fuer Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufbau und Pflege revisionssicherer Audit-Trails fuer Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation fuer Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

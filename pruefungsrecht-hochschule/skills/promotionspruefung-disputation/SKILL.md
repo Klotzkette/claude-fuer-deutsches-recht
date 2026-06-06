@@ -7,7 +7,7 @@ description: "Prüft Promotionsprüfung, Disputation und Bewertung im Pruefungsr
 
 ## Arbeitsbereich
 
-Prüft Promotionsprüfung, Disputation und Bewertung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Promotionsprüfung, Disputation und Bewertung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

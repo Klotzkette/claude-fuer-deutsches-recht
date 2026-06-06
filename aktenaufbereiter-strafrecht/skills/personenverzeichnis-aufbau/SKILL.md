@@ -7,7 +7,7 @@ description: "Personenverzeichnis fuer eine Strafakte systematisch aufbauen: Bes
 
 ## Arbeitsbereich
 
-Personenverzeichnis fuer eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Personenverzeichnis fuer eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

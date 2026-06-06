@@ -7,7 +7,7 @@ description: "Prueft foreign works, Berne Convention, TRIPS, URAA restoration, c
 
 ## Arbeitsbereich
 
-Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

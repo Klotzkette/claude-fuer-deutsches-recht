@@ -7,7 +7,7 @@ description: "Prüft Akkreditierung und Qualitätssicherung im Hochschulrecht La
 
 ## Arbeitsbereich
 
-Prüft Akkreditierung und Qualitätssicherung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Akkreditierung und Qualitätssicherung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

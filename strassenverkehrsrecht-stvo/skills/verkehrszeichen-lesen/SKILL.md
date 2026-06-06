@@ -7,7 +7,7 @@ description: "Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen
 
 ## Arbeitsbereich
 
-Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen lesen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen lesen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

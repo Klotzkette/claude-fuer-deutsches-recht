@@ -7,7 +7,7 @@ description: "Routet Hinweise mit Strafrechtsbezug im Hinweisgeberschutz Complia
 
 ## Arbeitsbereich
 
-Routet Hinweise mit Strafrechtsbezug. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Hinweise mit Strafrechtsbezug. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

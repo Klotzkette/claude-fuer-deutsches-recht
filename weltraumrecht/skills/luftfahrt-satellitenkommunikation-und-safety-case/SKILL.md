@@ -7,7 +7,7 @@ description: "Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, E
 
 ## Arbeitsbereich
 
-Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, EASA-Zertifizierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, EASA-Zertifizierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

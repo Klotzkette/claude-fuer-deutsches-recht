@@ -7,7 +7,7 @@ description: "Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage i
 
 ## Arbeitsbereich
 
-Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

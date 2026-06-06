@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in 
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

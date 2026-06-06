@@ -7,7 +7,7 @@ description: "Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Sh
 
 ## Arbeitsbereich
 
-Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

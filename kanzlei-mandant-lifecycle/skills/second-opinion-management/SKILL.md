@@ -7,7 +7,7 @@ description: "Second Opinion Management: steuert zweite Kanzlei einbinden, ohne 
 
 ## Arbeitsbereich
 
-Second Opinion Management: steuert zweite Kanzlei einbinden, ohne Vertrauen, Privilege und Strategie zu beschädigen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Second Opinion Management: steuert zweite Kanzlei einbinden, ohne Vertrauen, Privilege und Strategie zu beschädigen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

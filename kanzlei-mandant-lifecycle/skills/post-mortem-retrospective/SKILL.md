@@ -7,7 +7,7 @@ description: "Post-Mortem Retrospective: steuert Nach großem Mandat: Was lief g
 
 ## Arbeitsbereich
 
-Post-Mortem Retrospective: steuert Nach großem Mandat: Was lief gut, was teuer, was nervte, was wird nächstes Mal anders zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Post-Mortem Retrospective: steuert Nach großem Mandat: Was lief gut, was teuer, was nervte, was wird nächstes Mal anders zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

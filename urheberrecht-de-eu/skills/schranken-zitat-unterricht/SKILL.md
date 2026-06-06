@@ -7,7 +7,7 @@ description: "Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenscha
 
 ## Arbeitsbereich
 
-Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

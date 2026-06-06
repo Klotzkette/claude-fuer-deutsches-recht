@@ -7,7 +7,7 @@ description: "Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialv
 
 ## Arbeitsbereich
 
-Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, De
 
 ## Arbeitsbereich
 
-Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

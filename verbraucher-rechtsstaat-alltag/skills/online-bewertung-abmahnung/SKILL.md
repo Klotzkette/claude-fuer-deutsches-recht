@@ -7,7 +7,7 @@ description: "Online-Bewertung und Abmahnung: führt Laien durch Negative Bewert
 
 ## Arbeitsbereich
 
-Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

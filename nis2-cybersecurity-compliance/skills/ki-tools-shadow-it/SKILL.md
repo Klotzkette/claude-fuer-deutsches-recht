@@ -7,7 +7,7 @@ description: "Prüft Shadow-IT durch KI-Tools und Browser-Plugins im Nis2 Cybers
 
 ## Arbeitsbereich
 
-Prüft Shadow-IT durch KI-Tools und Browser-Plugins. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Shadow-IT durch KI-Tools und Browser-Plugins. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

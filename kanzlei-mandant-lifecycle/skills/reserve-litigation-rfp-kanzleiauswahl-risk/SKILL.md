@@ -7,7 +7,7 @@ description: "Reserve Litigation Risk: steuert Rückstellung und Prozessrisiko s
 
 ## Arbeitsbereich
 
-Reserve Litigation Risk: steuert Rückstellung und Prozessrisiko so formulieren, dass Legal und Finance beide damit arbeiten können zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Reserve Litigation Risk: steuert Rückstellung und Prozessrisiko so formulieren, dass Legal und Finance beide damit arbeiten können zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

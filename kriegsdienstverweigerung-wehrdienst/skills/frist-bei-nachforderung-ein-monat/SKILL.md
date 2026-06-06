@@ -7,7 +7,7 @@ description: "Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG im Kriegs
 
 ## Arbeitsbereich
 
-Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

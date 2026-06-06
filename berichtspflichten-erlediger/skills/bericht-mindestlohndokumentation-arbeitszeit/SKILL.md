@@ -7,7 +7,7 @@ description: "Mindestlohndokumentation, Arbeitszeitaufzeichnung, Branchenpflicht
 
 ## Arbeitsbereich
 
-Mindestlohndokumentation, Arbeitszeitaufzeichnung, Branchenpflichten und Zollkontrolle. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mindestlohndokumentation, Arbeitszeitaufzeichnung, Branchenpflichten und Zollkontrolle. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

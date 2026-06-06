@@ -7,7 +7,7 @@ description: "Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG b
 
 ## Arbeitsbereich
 
-Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im oeffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im oeffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

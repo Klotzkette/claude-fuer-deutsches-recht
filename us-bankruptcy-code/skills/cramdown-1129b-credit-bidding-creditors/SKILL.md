@@ -7,7 +7,7 @@ description: "Prueft fair and equitable, no unfair discrimination, secured credi
 
 ## Arbeitsbereich
 
-Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

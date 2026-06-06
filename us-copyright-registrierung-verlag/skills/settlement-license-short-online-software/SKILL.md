@@ -7,7 +7,7 @@ description: "Entwickelt Settlement, release, license, covenant not to sue, attr
 
 ## Arbeitsbereich
 
-Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

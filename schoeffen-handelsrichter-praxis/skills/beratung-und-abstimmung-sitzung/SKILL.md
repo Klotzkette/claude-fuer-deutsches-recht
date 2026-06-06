@@ -7,7 +7,7 @@ description: "Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Ric
 
 ## Arbeitsbereich
 
-Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

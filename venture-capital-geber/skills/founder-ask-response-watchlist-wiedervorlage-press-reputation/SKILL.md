@@ -7,7 +7,7 @@ description: "Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kund
 
 ## Arbeitsbereich
 
-Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

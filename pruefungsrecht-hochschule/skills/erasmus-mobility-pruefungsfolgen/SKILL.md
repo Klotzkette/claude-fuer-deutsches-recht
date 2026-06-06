@@ -7,7 +7,7 @@ description: "Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Ausl
 
 ## Arbeitsbereich
 
-Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Auslandssemester. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Auslandssemester. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

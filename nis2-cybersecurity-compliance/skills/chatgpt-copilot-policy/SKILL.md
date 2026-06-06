@@ -7,7 +7,7 @@ description: "Baut Policy für ChatGPT, Copilot und Entwickler-KI im Nis2 Cybers
 
 ## Arbeitsbereich
 
-Baut Policy für ChatGPT, Copilot und Entwickler-KI. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Policy für ChatGPT, Copilot und Entwickler-KI. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

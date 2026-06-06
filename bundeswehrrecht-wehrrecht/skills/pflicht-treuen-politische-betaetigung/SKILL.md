@@ -7,7 +7,7 @@ description: "Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politische
 
 ## Arbeitsbereich
 
-Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsgebot, Inhalt und Grenzen. Norm-/Quellenanker: § 7 SG, § 7a SG, Art. 5 GG, BVerwG. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

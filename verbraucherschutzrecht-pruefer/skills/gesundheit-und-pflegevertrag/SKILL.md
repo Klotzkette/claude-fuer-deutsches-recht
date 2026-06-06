@@ -7,7 +7,7 @@ description: "Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesu
 
 ## Arbeitsbereich
 
-Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesundheit und Pflegevertrag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesundheit und Pflegevertrag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

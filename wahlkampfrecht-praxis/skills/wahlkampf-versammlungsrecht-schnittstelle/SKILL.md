@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrec
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrecht routen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrecht routen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

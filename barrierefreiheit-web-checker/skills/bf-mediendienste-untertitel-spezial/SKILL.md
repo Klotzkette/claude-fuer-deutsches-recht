@@ -7,7 +7,7 @@ description: "Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerden
 
 ## Arbeitsbereich
 
-Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten fuer Streaming-Anbieter und Mediatheken. Pruefraster fuer Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos). Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten fuer Streaming-Anbieter und Mediatheken. Pruefraster fuer Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos). Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

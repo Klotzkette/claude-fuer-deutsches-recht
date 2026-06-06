@@ -7,7 +7,7 @@ description: "Prueft priority claims: domestic support, wages, taxes, deposits, 
 
 ## Arbeitsbereich
 
-Prueft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physi
 
 ## Arbeitsbereich
 
-Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

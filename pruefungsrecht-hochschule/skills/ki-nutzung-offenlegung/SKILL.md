@@ -7,7 +7,7 @@ description: "Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und
 
 ## Arbeitsbereich
 
-Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

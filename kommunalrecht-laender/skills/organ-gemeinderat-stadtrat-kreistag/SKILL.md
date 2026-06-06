@@ -7,7 +7,7 @@ description: "Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ
 
 ## Arbeitsbereich
 
-Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ und Zuständigkeit prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ und Zuständigkeit prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

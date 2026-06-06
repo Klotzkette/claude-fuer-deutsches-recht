@@ -7,7 +7,7 @@ description: "Prüft, wann ein VC ein NDA akzeptieren sollte, welche Information
 
 ## Arbeitsbereich
 
-Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

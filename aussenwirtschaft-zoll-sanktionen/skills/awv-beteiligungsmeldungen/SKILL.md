@@ -7,7 +7,7 @@ description: "Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe na
 
 ## Arbeitsbereich
 
-Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte fuer meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation fuer Bundesbank. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte fuer meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation fuer Bundesbank. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

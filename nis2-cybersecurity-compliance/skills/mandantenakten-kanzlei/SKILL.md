@@ -7,7 +7,7 @@ description: "Prüft Cybersecurity für Kanzlei- und Mandatsakten im Nis2 Cybers
 
 ## Arbeitsbereich
 
-Prüft Cybersecurity für Kanzlei- und Mandatsakten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Cybersecurity für Kanzlei- und Mandatsakten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

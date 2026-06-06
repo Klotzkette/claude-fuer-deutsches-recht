@@ -7,7 +7,7 @@ description: "Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Upda
 
 ## Arbeitsbereich
 
-Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Updates, consent requests und Sanktionen bei Ausbleiben. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Updates, consent requests und Sanktionen bei Ausbleiben. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

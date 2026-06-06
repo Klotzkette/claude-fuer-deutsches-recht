@@ -7,7 +7,7 @@ description: "Prüft MFA, Passkeys und starke Authentisierung im Nis2 Cybersecur
 
 ## Arbeitsbereich
 
-Prüft MFA, Passkeys und starke Authentisierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft MFA, Passkeys und starke Authentisierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

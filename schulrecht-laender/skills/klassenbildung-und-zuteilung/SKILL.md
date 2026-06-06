@@ -7,7 +7,7 @@ description: "Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefall
 
 ## Arbeitsbereich
 
-Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

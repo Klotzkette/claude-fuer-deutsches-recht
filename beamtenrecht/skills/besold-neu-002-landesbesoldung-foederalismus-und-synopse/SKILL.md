@@ -7,7 +7,7 @@ description: "Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamten
 
 ## Arbeitsbereich
 
-Beamtenrecht: Landesbesoldung Föderalismus und Synopse. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Landesbesoldung Föderalismus und Synopse. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

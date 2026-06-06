@@ -7,7 +7,7 @@ description: "Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energ
 
 ## Arbeitsbereich
 
-Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,10 +7,10 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 
 ## Arbeitsbereich
 
-**Urheberrecht Urhg 108a Gewerblich** ordnet den Fall über die tragenden Prüffelder: Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Urheberrecht Urhg 108a Gewerblich** führt durch die falltragenden Prüfungslinien: Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur. Starte mit der Linie, die Frist, Zuständigkeit, Beweislast oder den gewünschten Output tatsächlich entscheidet; weitere Linien werden nur herangezogen, wenn sie denselben Arbeitsstrang schärfen.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe` | Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG. Lichtbildner Tontraegerhersteller Sendeunternehmen Filmhersteller Datenbankhersteller ausuebende Kuenstler. Verwertung Vervielfaeltigung Verbreitung ohne Einwilligung. Strafrahmen bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Abgrenzung zu Paragraph 106 UrhG. Verteidigungsstrategien Schutzfrist Beweis der Inhaberschaft. |
 | `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich` | Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmaessigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle. |
@@ -30,7 +30,7 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
 

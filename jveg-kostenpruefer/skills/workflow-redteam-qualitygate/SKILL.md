@@ -7,7 +7,7 @@ description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fri
 
 ## Arbeitsbereich
 
-Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zu
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergütungsantrag, Stundennachweis, Reisekostenabrechnung, Festsetzungsbeschluss, Erinnerung, Beschwerde, Sachverständigenrechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld prüft die fertige JVEG-Kostenfestsetzung gegen typische Fehlerquellen: Honorargruppen-Fehlzuordnung, Stundenzahl-Inplausibilität, Wegegeld-Doppelung, fehlende Belege, Umsatzsteuer-Klippe (§ 12 JVEG).
+Dieser Prüfungslinie prüft die fertige JVEG-Kostenfestsetzung gegen typische Fehlerquellen: Honorargruppen-Fehlzuordnung, Stundenzahl-Inplausibilität, Wegegeld-Doppelung, fehlende Belege, Umsatzsteuer-Klippe (§ 12 JVEG).
 
 ## JVEG-spezifische Prüfpunkte
 - **Honorargruppe nachvollziehbar?** Anlage 1 JVEG: Gruppen 1 bis 12. Begründung im Beschluss vorhanden? (BVerwG, Beschl. v. 31.05.2022 - 9 KSt 1.22 zur Bindung an Heranziehung.)

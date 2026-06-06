@@ -7,7 +7,7 @@ description: "Prueft valuation evidence for plan, cramdown, adequate protection,
 
 ## Arbeitsbereich
 
-Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

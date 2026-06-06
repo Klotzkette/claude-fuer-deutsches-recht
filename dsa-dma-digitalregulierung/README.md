@@ -63,7 +63,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` | Prüffeld für account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Dsa Dma Digitalreguli... |
+| `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` | Prüfungslinie für account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Dsa Dma Digitalr... |
 | `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `bussgeldverteidigung` | Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhoerung, Settlements. Beweislast, Verhaelt... |
 | `dark-patterns-internes-beschwerdesystem` | Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review fue... |

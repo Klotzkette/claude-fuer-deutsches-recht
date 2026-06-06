@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidiere
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

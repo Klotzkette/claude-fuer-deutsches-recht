@@ -7,7 +7,7 @@ description: "Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Pro
 
 ## Arbeitsbereich
 
-Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

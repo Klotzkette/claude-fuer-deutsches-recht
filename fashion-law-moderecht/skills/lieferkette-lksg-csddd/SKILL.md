@@ -7,7 +7,7 @@ description: "Lieferkette nach LkSG und CSDDD einordnen: Risikoanalyse, Beschwer
 
 ## Arbeitsbereich
 
-Lieferkette nach LkSG und CSDDD einordnen: Risikoanalyse, Beschwerdeverfahren, Supplier Code, Audit, Abhilfe, Textilrisiken und Dokumentation. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lieferkette nach LkSG und CSDDD einordnen: Risikoanalyse, Beschwerdeverfahren, Supplier Code, Audit, Abhilfe, Textilrisiken und Dokumentation. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

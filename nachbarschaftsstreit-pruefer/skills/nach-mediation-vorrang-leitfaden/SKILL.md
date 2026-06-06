@@ -7,7 +7,7 @@ description: "Leitfaden Mediation und obligatorisches Gueteverfahren § 15a EGZP
 
 ## Arbeitsbereich
 
-Leitfaden Mediation und obligatorisches Gueteverfahren § 15a EGZPO: zustaendige Stellen, Verlauf, Vergleich. Pruefraster fuer Streitwert unter 750 Euro und Nachbarschaftsstreit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Mediation und obligatorisches Gueteverfahren § 15a EGZPO: zustaendige Stellen, Verlauf, Vergleich. Pruefraster fuer Streitwert unter 750 Euro und Nachbarschaftsstreit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

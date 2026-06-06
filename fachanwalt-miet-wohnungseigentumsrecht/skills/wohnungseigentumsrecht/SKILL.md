@@ -7,10 +7,10 @@ description: "Fachanwaltsbereich Miet- und Wohnungseigentumsrecht: Einstieg und 
 
 ## Arbeitsbereich
 
-Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klärt zunächst, ob es sich um ein Mietverhältnis (BGB §§ 535 ff.) oder um eine WEG-Sache (WEG §§ 9a ff., 44 ff.) handelt, und routet danach in das tragende Prüffeld. Im Mittelpunkt stehen Kündigung (§§ 543, 569, 573 BGB), Mieterhöhung mit Kappungsgrenze (§§ 558 ff. BGB), Mietminderung wegen Schimmel und sonstiger Mängel (§§ 535 Abs. 1 S. 2, 536 BGB) sowie die WEG-Beschlussanfechtungsklage nach §§ 44–46 WEG mit ihrer scharfen Monatsfrist. Die Prüffelder bauen aufeinander auf — zuerst die tragende Anspruchsgrundlage identifizieren, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
-## Prüffelder
+Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klärt zunächst, ob es sich um ein Mietverhältnis (BGB §§ 535 ff.) oder um eine WEG-Sache (WEG §§ 9a ff., 44 ff.) handelt, und routet danach in das tragende Prüfungslinie. Im Mittelpunkt stehen Kündigung (§§ 543, 569, 573 BGB), Mieterhöhung mit Kappungsgrenze (§§ 558 ff. BGB), Mietminderung wegen Schimmel und sonstiger Mängel (§§ 535 Abs. 1 S. 2, 536 BGB) sowie die WEG-Beschlussanfechtungsklage nach §§ 44–46 WEG mit ihrer scharfen Monatsfrist. Die Prüfungslinieer bauen aufeinander auf — zuerst die tragende Anspruchsgrundlage identifizieren, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht). |
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht). |
@@ -25,7 +25,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseige
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-miet-wohnungseigentumsrecht-kuendigung`
 
@@ -495,7 +495,7 @@ Monats kündigen.
 
 ## 3. `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel`
 
-**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mietminderung — Schimmelbefall
 
@@ -670,7 +670,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 
 ## 4. `fachanwalt-miet-wohnungseigentumsrecht-orientierung`
 
-**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Orientierung Miet- und Wohnungseigentumsrecht
 
@@ -782,7 +782,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44`
 
-**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # WEG-Anfechtungsklage § 44 WEG
 

@@ -7,7 +7,7 @@ description: "Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenris
 
 ## Arbeitsbereich
 
-Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenrisiken routen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenrisiken routen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

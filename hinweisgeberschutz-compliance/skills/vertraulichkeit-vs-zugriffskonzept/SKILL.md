@@ -7,7 +7,7 @@ description: "Balanciert Vertraulichkeit mit Anhörungspflichten im Hinweisgeber
 
 ## Arbeitsbereich
 
-Balanciert Vertraulichkeit mit Anhörungspflichten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Balanciert Vertraulichkeit mit Anhörungspflichten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

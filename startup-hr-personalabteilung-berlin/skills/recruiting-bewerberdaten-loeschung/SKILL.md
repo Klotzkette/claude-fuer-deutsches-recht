@@ -7,7 +7,7 @@ description: "Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talent
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

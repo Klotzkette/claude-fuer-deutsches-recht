@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, abe
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

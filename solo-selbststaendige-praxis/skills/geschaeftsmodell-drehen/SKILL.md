@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell u
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

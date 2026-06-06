@@ -7,7 +7,7 @@ description: "Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, 
 
 ## Arbeitsbereich
 
-Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

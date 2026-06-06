@@ -7,7 +7,7 @@ description: "Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: 
 
 ## Arbeitsbereich
 
-Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: Bruecke ambulant/stationaer, Strukturmerkmale, Verguetungslogik, Versorgungsauftrag und Kooperationsmodelle mit MVZ und Praxen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: Bruecke ambulant/stationaer, Strukturmerkmale, Verguetungslogik, Versorgungsauftrag und Kooperationsmodelle mit MVZ und Praxen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

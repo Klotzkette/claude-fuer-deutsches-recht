@@ -7,7 +7,7 @@ description: "Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Laend
 
 ## Arbeitsbereich
 
-Prüft Anerkennung von Leistungen und ECTS. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Anerkennung von Leistungen und ECTS. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

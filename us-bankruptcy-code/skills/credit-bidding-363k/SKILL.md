@@ -7,7 +7,7 @@ description: "Prueft secured creditor credit bid rights, cause to limit, lien di
 
 ## Arbeitsbereich
 
-Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

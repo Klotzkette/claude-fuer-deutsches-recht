@@ -7,7 +7,7 @@ description: "Rechtsfolgen fuer Peregrini und das ius gentium. Skill behandelt d
 
 ## Arbeitsbereich
 
-Rechtsfolgen fuer Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtsfolgen fuer Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

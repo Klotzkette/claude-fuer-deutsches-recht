@@ -7,7 +7,7 @@ description: "Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Cal
 
 ## Arbeitsbereich
 
-Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

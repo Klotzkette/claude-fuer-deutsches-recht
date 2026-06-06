@@ -7,7 +7,7 @@ description: "Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Be
 
 ## Arbeitsbereich
 
-Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

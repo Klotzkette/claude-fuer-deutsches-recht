@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: entwirft wirksame Haftungsbegrenzung ohne AG
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: entwirft wirksame Haftungsbegrenzung ohne AGB-Falle; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: entwirft wirksame Haftungsbegrenzung ohne AGB-Falle; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

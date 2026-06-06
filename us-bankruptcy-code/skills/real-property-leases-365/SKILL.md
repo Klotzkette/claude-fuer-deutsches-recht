@@ -7,7 +7,7 @@ description: "Prueft commercial leases, assumption/rejection deadlines, cure, sh
 
 ## Arbeitsbereich
 
-Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

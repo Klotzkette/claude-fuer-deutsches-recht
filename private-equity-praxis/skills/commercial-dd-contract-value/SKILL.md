@@ -7,7 +7,7 @@ description: "Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge
 
 ## Arbeitsbereich
 
-Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

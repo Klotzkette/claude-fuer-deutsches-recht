@@ -7,7 +7,7 @@ description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Be
 
 ## Arbeitsbereich
 
-Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital 
 
 ## Arbeitsbereich
 
-Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

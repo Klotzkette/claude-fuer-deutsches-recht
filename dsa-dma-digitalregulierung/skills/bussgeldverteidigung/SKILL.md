@@ -7,7 +7,7 @@ description: "Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA
 
 ## Arbeitsbereich
 
-Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhoerung, Settlements. Beweislast, Verhaeltnismaessigkeit, Wiederholungsfaktor. Strategiememo und Schriftsatzbausteine. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhoerung, Settlements. Beweislast, Verhaeltnismaessigkeit, Wiederholungsfaktor. Strategiememo und Schriftsatzbausteine. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Übersetzt Gründungsrecht in einfache Sprache, ohne rechtliche Pr
 
 ## Arbeitsbereich
 
-Übersetzt Gründungsrecht in einfache Sprache, ohne rechtliche Präzision zu verlieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Übersetzt Gründungsrecht in einfache Sprache, ohne rechtliche Präzision zu verlieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

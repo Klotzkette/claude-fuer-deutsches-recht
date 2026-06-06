@@ -7,7 +7,7 @@ description: "Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe
 
 ## Arbeitsbereich
 
-Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

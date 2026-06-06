@@ -7,7 +7,7 @@ description: "Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantw
 
 ## Arbeitsbereich
 
-Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantwortlichen, Investor-Updates und Follow-on-Signalen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantwortlichen, Investor-Updates und Follow-on-Signalen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

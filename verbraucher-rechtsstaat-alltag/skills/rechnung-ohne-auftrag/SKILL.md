@@ -7,7 +7,7 @@ description: "Rechnung ohne Auftrag: führt Laien durch Unbestellte Leistung, Br
 
 ## Arbeitsbereich
 
-Rechnung ohne Auftrag: führt Laien durch Unbestellte Leistung, Branchenbuch, angeblicher Telefonvertrag und Abwehr. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechnung ohne Auftrag: führt Laien durch Unbestellte Leistung, Branchenbuch, angeblicher Telefonvertrag und Abwehr. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

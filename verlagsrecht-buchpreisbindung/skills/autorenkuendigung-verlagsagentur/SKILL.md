@@ -7,7 +7,7 @@ description: "Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Na
 
 ## Arbeitsbereich
 
-Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

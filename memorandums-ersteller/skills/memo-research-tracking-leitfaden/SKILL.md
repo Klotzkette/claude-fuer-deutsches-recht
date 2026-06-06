@@ -7,7 +7,7 @@ description: "Leitfaden Research- und Quellen-Tracking fuer Memos: Quellenarten,
 
 ## Arbeitsbereich
 
-Leitfaden Research- und Quellen-Tracking fuer Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Pruefraster fuer Erstautor und Review. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Leitfaden Research- und Quellen-Tracking fuer Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Pruefraster fuer Erstautor und Review. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

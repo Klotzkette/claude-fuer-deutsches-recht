@@ -7,7 +7,7 @@ description: "Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und 
 
 ## Arbeitsbereich
 
-Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

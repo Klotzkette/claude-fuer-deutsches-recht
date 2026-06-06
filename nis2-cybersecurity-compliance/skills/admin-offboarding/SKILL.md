@@ -7,7 +7,7 @@ description: "Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel
 
 ## Arbeitsbereich
 
-Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

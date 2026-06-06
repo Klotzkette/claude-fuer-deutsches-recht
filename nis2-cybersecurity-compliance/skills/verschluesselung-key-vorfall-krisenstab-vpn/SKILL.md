@@ -7,7 +7,7 @@ description: "Prüft Verschlüsselung und Key Management im Nis2 Cybersecurity C
 
 ## Arbeitsbereich
 
-Prüft Verschlüsselung und Key Management. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Verschlüsselung und Key Management. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

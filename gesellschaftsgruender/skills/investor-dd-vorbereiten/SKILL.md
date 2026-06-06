@@ -7,7 +7,7 @@ description: "Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Daten
 
 ## Arbeitsbereich
 
-Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

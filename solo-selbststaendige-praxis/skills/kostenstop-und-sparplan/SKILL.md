@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell z
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, 
 
 ## Arbeitsbereich
 
-Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne u
 
 ## Arbeitsbereich
 
-Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

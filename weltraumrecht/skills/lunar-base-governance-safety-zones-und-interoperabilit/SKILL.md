@@ -7,7 +7,7 @@ description: "Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabili
 
 ## Arbeitsbereich
 
-Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

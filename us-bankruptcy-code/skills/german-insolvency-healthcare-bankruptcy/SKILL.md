@@ -7,7 +7,7 @@ description: "Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, 
 
 ## Arbeitsbereich
 
-Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

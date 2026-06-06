@@ -7,7 +7,7 @@ description: "Prueft Grenzschutz, CBP recordation, infringing imports, counterfe
 
 ## Arbeitsbereich
 
-Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Origin
 
 ## Arbeitsbereich
 
-Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persoenliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persoenliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

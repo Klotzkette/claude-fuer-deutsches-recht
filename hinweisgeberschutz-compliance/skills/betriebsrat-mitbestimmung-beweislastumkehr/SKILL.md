@@ -7,7 +7,7 @@ description: "Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweis
 
 ## Arbeitsbereich
 
-Prüft Mitbestimmung bei Meldesystem und Untersuchungen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Mitbestimmung bei Meldesystem und Untersuchungen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

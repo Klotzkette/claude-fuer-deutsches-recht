@@ -7,7 +7,7 @@ description: "Nebenkostenabrechnung Verbraucher: führt Laien durch Betriebskost
 
 ## Arbeitsbereich
 
-Nebenkostenabrechnung Verbraucher: führt Laien durch Betriebskostenabrechnung verstehen, Fristen, Umlageschlüssel, Belegeinsicht und Nachzahlung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Nebenkostenabrechnung Verbraucher: führt Laien durch Betriebskostenabrechnung verstehen, Fristen, Umlageschlüssel, Belegeinsicht und Nachzahlung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

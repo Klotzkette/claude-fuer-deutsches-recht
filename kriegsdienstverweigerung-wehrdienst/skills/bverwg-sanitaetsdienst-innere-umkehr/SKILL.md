@@ -7,7 +7,7 @@ description: "Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an im Kriegsdienstv
 
 ## Arbeitsbereich
 
-Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

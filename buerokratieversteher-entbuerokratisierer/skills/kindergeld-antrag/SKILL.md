@@ -7,7 +7,7 @@ description: "Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rü
 
 ## Arbeitsbereich
 
-Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

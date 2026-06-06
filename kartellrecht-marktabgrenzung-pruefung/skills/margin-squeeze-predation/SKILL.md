@@ -7,7 +7,7 @@ description: "Margin Squeeze und Predatory Pricing: Fachmodul für großes Karte
 
 ## Arbeitsbereich
 
-Margin Squeeze und Predatory Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Margin Squeeze und Predatory Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

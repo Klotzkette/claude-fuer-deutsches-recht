@@ -7,7 +7,7 @@ description: "Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigun
 
 ## Arbeitsbereich
 
-Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

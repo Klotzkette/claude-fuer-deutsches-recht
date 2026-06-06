@@ -7,7 +7,7 @@ description: "Plant Reserven, pro rata, super pro rata, ownership targets, signa
 
 ## Arbeitsbereich
 
-Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

@@ -7,7 +7,7 @@ description: "Erstellt Bericht für Vermögensinhaber, Investment Committee oder
 
 ## Arbeitsbereich
 
-Erstellt Bericht für Vermögensinhaber, Investment Committee oder Familie mit Portfolio, Risiken, Cash, ESG, Lessons Learned. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Bericht für Vermögensinhaber, Investment Committee oder Familie mit Portfolio, Risiken, Cash, ESG, Lessons Learned. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

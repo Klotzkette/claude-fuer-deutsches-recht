@@ -7,7 +7,7 @@ description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die pas
 
 ## Arbeitsbereich
 
-Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmod
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Prüffeld leitet Rechtsuchende einer niedrigschwelligen Beratungsstelle in den passenden Folgeschritt: Beratungshilfeschein-Antrag, PKH-Vorbereitung, Mietverein, Sozialverband, Verbraucherzentrale, Schuldnerberatung, Frauenberatungsstelle, Schwerbehindertenberatung oder Verweisung an Anwalt.
+Dieser Prüfungslinie leitet Rechtsuchende einer niedrigschwelligen Beratungsstelle in den passenden Folgeschritt: Beratungshilfeschein-Antrag, PKH-Vorbereitung, Mietverein, Sozialverband, Verbraucherzentrale, Schuldnerberatung, Frauenberatungsstelle, Schwerbehindertenberatung oder Verweisung an Anwalt.
 
 ## Routing-Heuristik
 - **Eilige Frist:** sofortige Triage; bei kurzem Zeitfenster -> Anwalt mit PKH-Antrag.

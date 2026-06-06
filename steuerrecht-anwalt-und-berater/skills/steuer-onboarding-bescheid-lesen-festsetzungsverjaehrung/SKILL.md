@@ -7,7 +7,7 @@ description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbe
 
 ## Arbeitsbereich
 
-Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

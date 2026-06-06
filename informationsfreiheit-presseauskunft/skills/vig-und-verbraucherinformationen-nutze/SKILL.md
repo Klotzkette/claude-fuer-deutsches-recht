@@ -7,7 +7,7 @@ description: "Informationsfreiheit und Presseauskunft: VIG und Verbraucherinform
 
 ## Arbeitsbereich
 
-Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

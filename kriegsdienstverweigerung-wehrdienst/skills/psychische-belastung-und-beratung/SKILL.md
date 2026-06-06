@@ -7,7 +7,7 @@ description: "Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologi
 
 ## Arbeitsbereich
 
-Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologisierung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologisierung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

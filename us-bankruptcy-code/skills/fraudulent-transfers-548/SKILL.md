@@ -7,7 +7,7 @@ description: "Prueft actual and constructive fraudulent transfers, two-year look
 
 ## Arbeitsbereich
 
-Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

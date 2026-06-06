@@ -7,7 +7,7 @@ description: "Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haush
 
 ## Arbeitsbereich
 
-Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

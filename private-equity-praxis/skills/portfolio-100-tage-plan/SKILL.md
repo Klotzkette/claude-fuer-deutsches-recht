@@ -7,7 +7,7 @@ description: "Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge,
 
 ## Arbeitsbereich
 
-Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

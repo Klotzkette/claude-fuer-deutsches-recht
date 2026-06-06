@@ -7,7 +7,7 @@ description: "Solo-Selbstständige: baut ein Fristenlog für ELSTER, Steuer, BG,
 
 ## Arbeitsbereich
 
-Solo-Selbstständige: baut ein Fristenlog für ELSTER, Steuer, BG, KSK, DRV und Widerspruch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Solo-Selbstständige: baut ein Fristenlog für ELSTER, Steuer, BG, KSK, DRV und Widerspruch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

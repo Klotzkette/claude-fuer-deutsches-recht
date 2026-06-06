@@ -7,7 +7,7 @@ description: "HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonder
 
 ## Arbeitsbereich
 
-HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+HOAI-Fachfrage LPH 8: Bauüberwachungstiefe, Stichproben, besonders gefahrgeneigte Arbeiten, Präsenzpflicht, Dokumentation und Haftungsrisiko der Objektüberwachung prüfen. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

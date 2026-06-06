@@ -7,7 +7,7 @@ description: "ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU
 
 ## Arbeitsbereich
 
-ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel fuer Glaeubiger und Geschaeftspartner des ACC3-Carriers. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel fuer Glaeubiger und Geschaeftspartner des ACC3-Carriers. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

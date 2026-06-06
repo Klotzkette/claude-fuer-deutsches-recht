@@ -7,7 +7,7 @@ description: "Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwick
 
 ## Arbeitsbereich
 
-Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste fuer Gatekeeper und Entwicklerschriftsatz bei Verstoss. Die Prüfung konzentriert sich auf dieses Prüffeld und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste fuer Gatekeeper und Entwicklerschriftsatz bei Verstoss. Die Prüfung konzentriert sich auf dieses Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
