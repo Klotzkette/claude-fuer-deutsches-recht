@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für DSA/DMA Digitalregulierung: sortiert AGB, Risikobewertung, Transparenzberichte, prüft Datum, Absender, Frist und Beweiswert (Compliance-Tickets, Audit-Reports); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Dsa Dma Digitalregulierung** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
+- `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
+- `bussgeldverteidigung` — Bussgeldverteidigung
 - `dark-patterns-internes-beschwerdesystem` — Dark Patterns Internes Beschwerdesystem
 - `data-digitalregulierung-dora` — Data Digitalregulierung Dora
-- `dma-business-user-gatekeeper-kernplattformdienste` — Dma Business User Gatekeeper Kernplattformdienste
-- `dma-pflichten-dsa-art-forschungsdatenzugang-algorithmen` — Dma Pflichten Dsa Art Forschungsdatenzugang Algorithmen
-- `dsa-eidas-einordnung` — Dsa Eidas Einordnung
-- `erstellung-forschungsdatenzugang-mehrparteienkonflikt-gatekeeper` — Erstellung Forschungsdatenzugang Mehrparteienkonflikt Gatekeeper
-- `kernplattformdienste-sonderfall-klagewege-risikobewertung` — Kernplattformdienste Sonderfall Klagewege Risikobewertung
-- `out-court-pflichten-pyramide-systemic-risk` — Out Court Pflichten Pyramide Systemic Risk
-- `pyramide-check-dsgvo-p2b-anti-steering` — Pyramide Check Dsgvo P2b Anti Steering
-- `transparenzbericht-erstellung-trusted-flagger-vlop-vlose` — Transparenzbericht Erstellung Trusted Flagger Vlop Vlose
-- `transparenzbericht-fristennotiz-dsa-dma-account-sperre` — Transparenzbericht Fristennotiz Dsa Dma Account Sperre
-- `werbearchiv-aufbauen-klage-gegen-account` — Werbearchiv Aufbauen Klage Gegen Account
-- `zustellung-vertreter` — Zustellung Vertreter
+- `digitalregulierung-erstpruefung-und-mandatsziel` — Digitalregulierung Erstpruefung und Mandatsziel
+- `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
+- `dma-anti-steering-app-store-design` — DMA Anti Steering APP Store Design
+- `dma-business-user-gatekeeper` — DMA Business User Gatekeeper
+- `dma-fristen-form-und-zustaendigkeit` — DMA Fristen Form und Zustaendigkeit
+- `dma-gatekeeper-schwellen-und-kernplattformdienste` — DMA Gatekeeper Schwellen und Kernplattformdienste
+- `dma-interoperabilitaet-messenger-art-7` — DMA Interoperabilitaet Messenger ART 7
+- `dma-pflichten-dsa-art-forschungsdatenzugang` — DMA Pflichten DSA ART Forschungsdatenzugang
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

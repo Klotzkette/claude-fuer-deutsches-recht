@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im KI-Governance: Diese Output-Weiche für Ki Governance entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für KI-Governance: stimmt Adressat (Anbieter, Betreiber, Importeur, Händler, Aufsicht), Frist (KI-VO-Geltung gestaffelt 2025-2027) und Form auf den Zweck ab — typische Outputs: KI-Governance-Memo, Risikoklassifizierung, Konformitätsbewertungsplan."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im KI-Governance: Diese Output-Weiche für Ki Gover
 
 Diese Output-Weiche für **Ki Governance** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anbieter-mehrparteien-konflikt-und-interessen` — Anbieter Mehrparteien Konflikt und Interessen
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `anwendungsfall-triage` — Anwendungsfall Triage
 - `case-dpia-drift` — Case Dpia Drift
-- `dsgvo-governance-inventar` — Dsgvo Governance Inventar
-- `gpai-modelle-ki-anbieter-arbeitsrecht-mitbestimmung` — Gpai Modelle Ki Anbieter Arbeitsrecht Mitbestimmung
-- `inventar-kontrollen-konformitaetsbewertung-red-marketing` — Inventar Kontrollen Konformitaetsbewertung Red Marketing
-- `ki-folgenabschaetzung-ki-governance-mandat-arbeitsbereich` — Ki Folgenabschaetzung Ki Governance Mandat Arbeitsbereich
-- `ki-governance-kaltstart-interview` — Ki Governance Kaltstart Interview
-- `ki-inventar-marketing-werbung-rote-linien` — Ki Inventar Marketing Werbung Rote Linien
-- `kig-konformitaetsbewertung-risikobewertung-hochrisiko` — Kig Konformitaetsbewertung Risikobewertung Hochrisiko
-- `richtlinien-monitor-vorlage-anbieter-interessen` — Richtlinien Monitor Vorlage Anbieter Interessen
-- `rollen-rasci-hochrisiko-anhang-incident-management` — Rollen Rasci Hochrisiko Anhang Incident Management
-- `rollenmodell-use-case-vendor` — Rollenmodell Use Case Vendor
-- `triage-haftung-versicherung-anwendungsfall-triage` — Triage Haftung Versicherung Anwendungsfall Triage
-- `vo-pflichtenpyramide-kig-ai-kig-foundation` — Vo Pflichtenpyramide Kig Ai Kig Foundation
+- `dpia-risikoampel-und-gegenargumente` — Dpia Risikoampel und Gegenargumente
+- `drift-verhandlung-vergleich-und-eskalation` — Drift Verhandlung Vergleich und Eskalation
+- `dsgvo-governance-inventar` — DSGVO Governance Inventar
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `governance-compliance-dokumentation-und-akte` — Governance Compliance Dokumentation und Akte
+- `gpai-modelle-ki-anbieter-arbeitsrecht` — Gpai Modelle KI Anbieter Arbeitsrecht
+- `inventar-dokumentenmatrix-und-lueckenliste` — Inventar Dokumentenmatrix und Lueckenliste
+- `inventar-kontrollen-konformitaetsbewertung` — Inventar Kontrollen Konformitaetsbewertung
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

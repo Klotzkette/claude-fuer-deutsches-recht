@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für WEG/Hausverwaltung: prüft Normen (WEG §§ 18/19/20/23-28/44/45, HeizkostenV, BetrKV) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht Belegenheit und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Weg Hausverwaltung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abrechnung-ist-plan-mieterschnittstelle` — Abrechnung Ist Plan Mieterschnittstelle
-- `anwalt-amtsgericht-gewerbe-restaurant-grossakte` — Anwalt Amtsgericht Gewerbe Restaurant Grossakte
-- `bad-umbau-barrierefreie-einladung-bauliche-veraenderung` — Bad Umbau Barrierefreie Einladung Bauliche Veraenderung
-- `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft` — Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft
+- `abrechnung-ist-plan-mieterschnittstelle` — Abrechnung IST Plan Mieterschnittstelle
+- `anwalt-amtsgericht-gewerbe-restaurant` — Anwalt Amtsgericht Gewerbe Restaurant
+- `bad-umbau-barrierefreie-einladung-bauliche` — BAD Umbau Barrierefreie Einladung Bauliche
+- `bad-umbau-bodengleiche-dusche-sondereigentum` — BAD Umbau Bodengleiche Dusche Sondereigentum
 - `barrierefreie-einladung-protokoll-versammlung` — Barrierefreie Einladung Protokoll Versammlung
-- `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg` — Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg
-- `bauliche-veraenderungen-20-weg` — Bauliche Veraenderungen 20 Weg
-- `bauliche-veraenderungen-beirat-controlling-beschlussanfechtung` — Bauliche Veraenderungen Beirat Controlling Beschlussanfechtung
+- `bauliche-veraenderung-aufzug-treppenlift-20` — Bauliche Veraenderung Aufzug Treppenlift 20
+- `bauliche-veraenderungen-20-weg` — Bauliche Veraenderungen 20 WEG
+- `bauliche-veraenderungen-beirat-controlling` — Bauliche Veraenderungen Beirat Controlling
 - `beirat-controlling-verwalter` — Beirat Controlling Verwalter
 - `beschlussanfechtung-risiko` — Beschlussanfechtung Risiko
 - `beschlusssammlung-betriebskosten-interessen` — Beschlusssammlung Betriebskosten Interessen
 - `beschlusssammlung-protokoll` — Beschlusssammlung Protokoll
-- `beschlusssammlung-protokoll-beschlussvorlagen-erstellen` — Beschlusssammlung Protokoll Beschlussvorlagen Erstellen
-- `beschlussvorlagen-erstellen` — Beschlussvorlagen Erstellen
+- `beschlusssammlung-protokoll-beschlussvorlagen` — Beschlusssammlung Protokoll Beschlussvorlagen
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

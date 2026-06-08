@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Common Law Kompass: sortiert Pleadings, Discovery requests, Affidavits, prüft Datum, Absender, Frist und Beweiswert (Witness statements, Expert reports); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Common Law Kompass** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `begriffe-uebersetzung-bilingual-contract-client-explainer` — Begriffe Uebersetzung Bilingual Contract Client Explainer
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Uebersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
 - `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
-- `cl-mandantenuebersicht-cl-prozesskostenrisiko-cl-precedent` — Cl Mandantenuebersicht Cl Prozesskostenrisiko Cl Precedent
-- `cl-vertragsklauseln-vertragsbegriffe-cl-discovery` — Cl Vertragsklauseln Vertragsbegriffe Cl Discovery
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
 - `common-consideration-discovery` — Common Consideration Discovery
-- `contract-formation-false-friends-governing-jurisdiction` — Contract Formation False Friends Governing Jurisdiction
-- `drafting-interessen-explainer-beweislast-false-friends` — Drafting Interessen Explainer Beweislast False Friends
-- `friends-indemnity-quality` — Friends Indemnity Quality
-- `humor-coach-interpretation-precedent-common-law` — Humor Coach Interpretation Precedent Common Law
-- `litigation-discovery-ma-commercial-quality-gate` — Litigation Discovery Ma Commercial Quality Gate
-- `rechtsvergleichender-begriffscheck-reviews-suretyship` — Rechtsvergleichender Begriffscheck Reviews Suretyship
-- `remedies-damages-representations-warranties-simulation` — Remedies Damages Representations Warranties Simulation
-- `surety-guarantee-ucc-sales-us-vs` — Surety Guarantee Ucc Sales Us Vs
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Regelungs- und Quellenanker
 

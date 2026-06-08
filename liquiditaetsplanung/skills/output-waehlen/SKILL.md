@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Liquiditaetsplanung: Diese Output-Weiche für Liquiditaetsplanung entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Liquiditätsplanung: stimmt Adressat (Geschäftsführung, Finanzen/CFO, Bank), Frist (Rolling 13-week-Plan) und Form auf den Zweck ab — typische Outputs: 13-Wochen-Plan, 24-Monats-Plan, Cash-Pool-Aufstellung."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Liquiditaetsplanung: Diese Output-Weiche 
 
 Diese Output-Weiche für **Liquiditaetsplanung** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `ampel-zahlen-schwellenwerte-berechnung` — Ampel Zahlen Schwellenwerte Berechnung
+- `ausgabengruppen-fristennotiz-naechster` — Ausgabengruppen Fristennotiz Naechster
+- `ausgabengruppen-systematik` — Ausgabengruppen Systematik
+- `bei-drohender-zahlungsunfaehigkeit` — bei Drohender Zahlungsunfaehigkeit
+- `bei-eingetretener-zahlungsunfaehigkeit` — bei Eingetretener Zahlungsunfaehigkeit
+- `cash-pooling-konzern` — Cash Pooling Konzern
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
 - `deutschem-dokumentationspaket-excel` — Deutschem Dokumentationspaket Excel
-- `export-forecast-fortbestehensprognose-international` — Export Forecast Fortbestehensprognose International
-- `idw-s6-integrierte-sanierungsplanung` — Idw S6 Integrierte Sanierungsplanung
-- `insolvenzrecht-liqui-sonderfall-liquiditaetsplanung` — Insolvenzrecht Liqui Sonderfall Liquiditaetsplanung
-- `interessen-verifikation-beweislast-vorschau` — Interessen Verifikation Beweislast Vorschau
-- `liqp-bankenreporting-leitfaden` — Liqp Bankenreporting Leitfaden
-- `liqp-liquiditaetspool-cash-pooling-spezial` — Liqp Liquiditaetspool Cash Pooling Spezial
-- `liqp-liquiditaetspool-cash-rollende-13wochen-warenkredit-skonto` — Liqp Liquiditaetspool Cash Rollende 13wochen Warenkredit Skonto
-- `liqp-rollende-13wochen-bauleiter` — Liqp Rollende 13wochen Bauleiter
-- `liqp-warenkredit-skonto-szenarien-spezial` — Liqp Warenkredit Skonto Szenarien Spezial
-- `liqui-ausgabengruppen-systematik` — Liqui Ausgabengruppen Systematik
-- `liqui-bei-drohender-zahlungsunfaehigkeit` — Liqui Bei Drohender Zahlungsunfaehigkeit
-- `liqui-bei-eingetretener-zahlungsunfaehigkeit` — Liqui Bei Eingetretener Zahlungsunfaehigkeit
+- `deutschem-tatbestandsmerkmale-beweisfragen` — Deutschem Tatbestandsmerkmale Beweisfragen
+- `dokumentationspaket-bank` — Dokumentationspaket Bank
+- `drohender-zahlungsunfaehigkeit` — Drohender Zahlungsunfaehigkeit
+- `eingangsdaten-checkliste` — Eingangsdaten Checkliste
+- `eingangsdaten-idw-s6-liqp` — Eingangsdaten IDW S6 Liqp
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

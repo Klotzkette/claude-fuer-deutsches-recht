@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Vertragsrecht: Diese Output-Weiche für Vertragsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Vertragsrecht (BGB-Vertragsrecht): stimmt Adressat (Vertragsparteien, Drittbegünstigte), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Vertragsentwurf, AGB-Check, Klage Erfüllung."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Vertragsrecht: Diese Output-Weiche für V
 
 Diese Output-Weiche für **Vertragsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie Agb Eskalations Marker
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `bgb-business-einzelabrufe-sonderfall` — Bgb Business Einzelabrufe Sonderfall
-- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten Red Team
-- `fristennotiz-naechster-vertriebsvertraege-lieferantenvertrag` — Fristennotiz Naechster Vertriebsvertraege Lieferantenvertrag
-- `mandat-arbeitsbereich-vr-einfuehrung-abmahnung-uwg` — Mandat Arbeitsbereich Vr Einfuehrung Abmahnung Uwg
-- `nda-durchsetzer` — Nda Durchsetzer
-- `nda-pruefungsvorschlaege-saas-msa` — Nda Pruefungsvorschlaege Saas Msa
-- `rahmenvertrag-beweislast-vertragsrecht-vert-rahmenvertrag` — Rahmenvertrag Beweislast Vertragsrecht Vert Rahmenvertrag
-- `renewal-review-routing` — Renewal Review Routing
-- `saas-tracking-vert` — Saas Tracking Vert
-- `vert-agb-vert-leistungsstoerungen-vr-agb` — Vert Agb Vert Leistungsstoerungen Vr Agb
-- `vert-vertragsschluss-vertragspruefung-vertragsrecht` — Vert Vertragsschluss Vertragspruefung Vertragsrecht
-- `vertragsrecht-kaltstart-interview` — Vertragsrecht Kaltstart Interview
+- `abmahnung-uwg` — Abmahnung UWG
+- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `agb-pruefung` — AGB Pruefung
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall
+- `business-compliance-dokumentation-und-akte` — Business Compliance Dokumentation und Akte
+- `einzelabrufe-sonderfall-und-edge-case` — Einzelabrufe Sonderfall und Edge Case
+- `eskalations-marker` — Eskalations Marker
+- `eskalations-quellenkarte` — Eskalations Quellenkarte
+- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten RED Team
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `fristennotiz-naechster-vertriebsvertraege` — Fristennotiz Naechster Vertriebsvertraege
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Normenanker
 

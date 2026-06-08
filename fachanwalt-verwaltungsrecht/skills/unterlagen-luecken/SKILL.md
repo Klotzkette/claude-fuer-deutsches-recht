@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Fachanwalt Verwaltungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Verwaltungsakt, Widerspruchsbescheid, Klageschrift), nennt pro Lücke Beweisthema, Beschaffungsweg (VG, OVG/VGH, BVerwG), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Fachanwalt Verwaltungsrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anfechtungs-eilrechtsschutz-abs-eilrechtsschutz` — Anfechtungs Eilrechtsschutz Abs Eilrechtsschutz
+- `amtshaftung-paragraf-839-bgb-art-34-gg` — Amtshaftung Paragraf 839 BGB ART 34 GG
+- `anfechtungs-eilrechtsschutz-abs` — Anfechtungs Eilrechtsschutz ABS
+- `anhoerung-paragraf-28-vwvfg` — Anhoerung Paragraf 28 Vwvfg
+- `anordnung-quellenkarte` — Anordnung Quellenkarte
+- `drittanfechtung` — Drittanfechtung
+- `eilrechtsschutz-paragraf-80-vwgo` — Eilrechtsschutz Paragraf 80 Vwgo
 - `einstweilige-fachanwalt-kanzlei` — Einstweilige Fachanwalt Kanzlei
-- `erstgespraech-mandatsannahme-fa-vwgo-anfechtungsklage` — Erstgespraech Mandatsannahme Fa Vwgo Anfechtungsklage
-- `fachanwalt-verwaltungsrecht-drittanfechtung-einstweiliger` — Fachanwalt Verwaltungsrecht Drittanfechtung Einstweiliger
-- `fachanwalt-verwaltungsrecht-verwaltungsakt-rechtsbehelf-vwgo` — Fachanwalt Verwaltungsrecht Verwaltungsakt Rechtsbehelf Vwgo
-- `normenkontrolle-ordnungsrecht-interessen-orientierung-sonderfall` — Normenkontrolle Ordnungsrecht Interessen Orientierung Sonderfall
-- `normenkontrolle-vwgo-orientierung-vwgo-behoerde` — Normenkontrolle Vwgo Orientierung Vwgo Behörde
-- `polizei-polizei-filmen-rechtsschutz-beweislast` — Polizei Polizei Filmen Rechtsschutz Beweislast
-- `schnittstelle-verpflichtungsklage-verwaltungsrecht` — Schnittstelle Verpflichtungsklage Verwaltungsrecht
-- `verwr-folgenbeseitigung-planfeststellung-grossvorhaben` — Verwr Folgenbeseitigung Planfeststellung Grossvorhaben
-- `verwr-verwaltungsverfahren-eilantrag-abs-energietrassen` — Verwr Verwaltungsverfahren Eilantrag Abs Energietrassen
-- `vorläufiger-vwvfg-vergleichsverhandlung-strategie` — Vorlaeufiger Vwvfg Vergleichsverhandlung Strategie
-- `vwr-eilrechtsschutz-widerspruch-klage` — Vwr Eilrechtsschutz Widerspruch Klage
+- `ermessen-paragraf-40-vwvfg` — Ermessen Paragraf 40 Vwvfg
+- `erstgespraech-mandatsannahme-fa-vwgo` — Erstgespraech Mandatsannahme FA Vwgo
+- `fa-verwaltungsrecht-mandant-redteam-gate` — FA Verwaltungsrecht Mandant Redteam Gate
+- `fa-verwaltungsrecht-start-chronologie-fristen` — FA Verwaltungsrecht Start Chronologie Fristen
+- `klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19` — Klagefrist Paragraf 58 Vwgo Bverwg 4 C 1 19
+- `kommunalrecht-paragraf-2-go` — Kommunalrecht Paragraf 2 GO
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Strafzumessung: wählt den nächsten Spezial-Skill nach Engpass (Revision 1 Woche/1 Monat § 341 StPO, Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Strafzumessung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `153a-stpo-iii-stpo-bewaehrung-stgb` — 153a Stpo Iii Stpo Bewaehrung Stgb
-- `bewaehrung-auflagen-bewaehrungswiderruf-56f-freiheitsstrafe-ohne` — Bewaehrung Auflagen Bewaehrungswiderruf 56f Freiheitsstrafe Ohne
-- `bewaehrung-interessen-deutschem-freiheitsstrafe` — Bewaehrung Interessen Deutschem Freiheitsstrafe
-- `freiheitsstrafe-strafmass-geldstrafe-tagessatzanzahl-vs-stgb` — Freiheitsstrafe Strafmass Geldstrafe Tagessatzanzahl Vs Stgb
-- `geldstrafe-grossen-rechtsmittel-gesamtstrafenfolgen` — Geldstrafe Grossen Rechtsmittel Gesamtstrafenfolgen
-- `gesamtstrafenbildung-stgb-gestaendnis-strafmilderung` — Gesamtstrafenbildung Stgb Gestaendnis Strafmilderung
-- `jgg-jugendstrafe-minder-schwerer-nachtraegliche` — Jgg Jugendstrafe Minder Schwerer Nachtraegliche
-- `orientierung-triage-paragraph-stgb-besonders` — Orientierung Triage Paragraph Stgb Besonders
-- `regelbeispiele-stgb-strafbefehl` — Regelbeispiele Stgb Strafbefehl
-- `strafbefehl-stpo-strafmilderung-stgb-strafrahmen` — Strafbefehl Stpo Strafmilderung Stgb Strafrahmen
-- `strafkammer-strafzumessung-strafzumessungstatsachen` — Strafkammer Strafzumessung Strafzumessungstatsachen
-- `strafrecht-verfahrensstadium-strafbefehl-taeter-opfer` — Strafrecht Verfahrensstadium Strafbefehl Taeter Opfer
-- `strafz-aufklaerungshilfe-kronzeuge-sicherungsverwahrung` — Strafz Aufklaerungshilfe Kronzeuge Sicherungsverwahrung
-- `strafz-strafzumessungstatsachen-strafzumessungs-tatsachen` — Strafz Strafzumessungstatsachen Strafzumessungs Tatsachen
+- `153a-stpo-iii-bewaehrung-stgb` — 153a STPO III Bewaehrung STGB
+- `besonders-formular-portal-und-einreichung` — Besonders Formular Portal und Einreichung
+- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung 56 STGB Positive Sozialprognose
+- `bewaehrung-auflagen-bewaehrungswiderruf-56f` — Bewaehrung Auflagen Bewaehrungswiderruf 56F
+- `bewaehrung-interessen-deutschem` — Bewaehrung Interessen Deutschem
+- `bewaehrungswiderruf-56f-stgb` — Bewaehrungswiderruf 56F STGB
+- `deutschem-tatbestand-beweis-und-belege` — Deutschem Tatbestand Beweis und Belege
+- `freiheitsstrafe-compliance-dokumentation-und-akte` — Freiheitsstrafe Compliance Dokumentation und Akte
+- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Freiheitsstrafe Ohne Bewaehrung Vollstreckung
+- `freiheitsstrafe-strafmass-geldstrafe` — Freiheitsstrafe Strafmass Geldstrafe
+- `geldstrafe-grossen-rechtsmittel` — Geldstrafe Grossen Rechtsmittel
+- `geldstrafe-tagessatzanzahl-bestimmen` — Geldstrafe Tagessatzanzahl Bestimmen
+- `geldstrafe-vs-freiheitsstrafe-47-stgb` — Geldstrafe VS Freiheitsstrafe 47 STGB
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

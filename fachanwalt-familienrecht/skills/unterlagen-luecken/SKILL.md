@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Fachanwalt Familienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung), nennt pro Lücke Beweisthema, Beschaffungsweg (Familiengericht (AG)), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Fachanwalt Familienrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-famr-trennungsfolgen-vermoegensauseinandersetzung` — Allgemein Famr Trennungsfolgen Vermoegensauseinandersetzung
-- `anpassung-wegen-anwartschaft-dynamisch-ausgleich-nach` — Anpassung Wegen Anwartschaft Dynamisch Ausgleich Nach
+- `anpassung-wegen-anwartschaft-dynamisch` — Anpassung Wegen Anwartschaft Dynamisch
 - `anrechte-dokumentenintake` — Anrechte Dokumentenintake
 - `beamtenrechtliche-kuerzung-beamtenversorgung` — Beamtenrechtliche Kuerzung Beamtenversorgung
-- `erstgespraech-mandatsannahme-eu-auslandsrenten-excel-pruefmatrix` — Erstgespraech Mandatsannahme Eu Auslandsrenten Excel Pruefmatrix
-- `fachanwalt-familienrecht-kindeswohlgefaehrdung-mediation-famfg` — Fachanwalt Familienrecht Kindeswohlgefaehrdung Mediation Famfg
-- `fachanwalt-familienrecht-unterhaltsberechnung-zugewinnausgleich` — Fachanwalt Familienrecht Unterhaltsberechnung Zugewinnausgleich
-- `familiengericht-familienrecht-lebenspartnerschaft-beweislast` — Familiengericht Familienrecht Lebenspartnerschaft Beweislast
-- `famr-mandantenaufnahme-regenbogenfamilien-versorgungsausgleich` — Famr Mandantenaufnahme Regenbogenfamilien Versorgungsausgleich
-- `geringfuegigkeit-versausglg-gesetzliche-rentenversicherung` — Geringfuegigkeit Versausglg Gesetzliche Rentenversicherung
-- `kanzlei-fristennotiz-orientierung-ehevertrag` — Kanzlei Fristennotiz Orientierung Ehevertrag
-- `kapitalwert-korrespondierender-kindeswohl-hochkonflikt` — Kapitalwert Korrespondierender Kindeswohl Hochkonflikt
-- `lebensversicherung-abgrenzung-mandantenblatt` — Lebensversicherung Abgrenzung Mandantenblatt
-- `nicht-ausgleichsreife-notarielle-scheidungsfolgenvereinbarung` — Nicht Ausgleichsreife Notarielle Scheidungsfolgenvereinbarung
+- `ehegattenrecht-internationales-art-13-egbgb` — Ehegattenrecht Internationales ART 13 Egbgb
+- `ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04` — Ehevertrag Sittenwidrigkeit BGH XII ZR 129 04
+- `erstgespraech-mandatsannahme-eu` — Erstgespraech Mandatsannahme EU
+- `fa-familienrecht-fristen-risiko-mandant` — FA Familienrecht Fristen Risiko Mandant
+- `fachanwalt-familienrecht` — Fachanwalt Familienrecht
+- `famfg-quellenkarte` — Famfg Quellenkarte
+- `familiengericht-familienrecht` — Familiengericht Familienrecht
+- `famr-mandantenaufnahme-regenbogenfamilien` — Famr Mandantenaufnahme Regenbogenfamilien
+- `famr-trennungsfolgen` — Famr Trennungsfolgen
+- `geringfuegigkeit-versausglg-gesetzliche` — Geringfuegigkeit Versausglg Gesetzliche
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

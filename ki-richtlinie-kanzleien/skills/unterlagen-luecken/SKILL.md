@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für KI-Richtlinie für Kanzleien: trennt fehlende Tatsachen von fehlenden Belegen (KI-Richtlinie intern, AVV-Mustertext, Mandantenhinweis), nennt pro Lücke Beweisthema, Beschaffungsweg (RAK), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Ki Richtlinie Kanzleien** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anonymisierung-pseudonymisierung-automatisierte-entscheidungen` — Anonymisierung Pseudonymisierung Automatisierte Entscheidungen
+- `anonymisierung-pseudonymisierung` — Anonymisierung Pseudonymisierung
 - `anwaelten-berufsrechtskonforme-beruht` — Anwaelten Berufsrechtskonforme Beruht
-- `bias-diskriminierung-regelsatz-erstellen-dienstleister-due` — Bias Diskriminierung Regelsatz Erstellen Dienstleister Due
-- `bora-brak-dsgvo` — Bora Brak Dsgvo
-- `dokumentationspflichten-protokoll-dsgvo-executive-summary` — Dokumentationspflichten Protokoll Dsgvo Executive Summary
-- `geschgehg-halluzinations-handhabung-kanzlei-kontext` — Geschgehg Halluzinations Handhabung Kanzlei Kontext
-- `hinweisen-kanzleien-pflegt` — Hinweisen Kanzleien Pflegt
-- `kennzeichnungspflichten-veroeffentlichungen-ki-kompetenz-vo` — Kennzeichnungspflichten Veroeffentlichungen Ki Kompetenz Vo
-- `kirk-leitfaden-kirk-prompts-kr-executive` — Kirk Leitfaden Kirk Prompts Kr Executive
-- `literatur-quellen-prompting-leitfaden-rdg-chatbot` — Literatur Quellen Prompting Leitfaden Rdg Chatbot
-- `nutzungsrichtlinie-auftragsverarbeitungsvertrag-musterklauseln` — Nutzungsrichtlinie Auftragsverarbeitungsvertrag Musterklauseln
-- `rechtsabteilungen-syndikus-verordnung-interessen` — Rechtsabteilungen Syndikus Verordnung Interessen
-- `richtlinien-skelett-richtlinien-update-schatten-aufdeckung` — Richtlinien Skelett Richtlinien Update Schatten Aufdeckung
+- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Pruefen
+- `automatisierte-entscheidungen-art-22-dsgvo` — Automatisierte Entscheidungen ART 22 DSGVO
+- `berufsrecht-bausteine` — Berufsrecht Bausteine
+- `berufsrechtskonforme-tatbestand-beweis-und-belege` — Berufsrechtskonforme Tatbestand Beweis und Belege
+- `beruht-verhandlung-vergleich-und-eskalation` — Beruht Verhandlung Vergleich und Eskalation
+- `bias-diskriminierung-regelsatz-erstellen` — Bias Diskriminierung Regelsatz Erstellen
+- `bora-brak-dsgvo` — BORA Brak DSGVO
+- `brak-internationaler-bezug-und-schnittstellen` — Brak Internationaler Bezug und Schnittstellen
+- `brao-quellenkarte` — BRAO Quellenkarte
+- `compliance-regelsatz-erstellen` — Compliance Regelsatz Erstellen
+- `dienstleister-due-diligence` — Dienstleister DUE Diligence
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

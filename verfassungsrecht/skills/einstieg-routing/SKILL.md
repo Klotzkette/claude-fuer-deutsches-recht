@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Verfassungsrecht: ordnet Rolle (Beschwerdeführer, Beschwerdegegner, BVerfG), markiert Frist (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde), wählt Norm (GG, BVerfGG, Landesverfassungen) und Zuständigkeit (BVerfG), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Verfassungsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
+- `bundesverfassungsgericht-quellenkarte-check` — Bundesverfassungsgericht Quellenkarte Check
+- `bverfg-rechtsprechung-recherchieren` — Bverfg Rechtsprechung Recherchieren
+- `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
+- `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
+- `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit
+- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Pruefen
 - `gesetzgebungskompetenz-grundrechtspruefung` — Gesetzgebungskompetenz Grundrechtspruefung
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Pruefen
+- `grundgesetz-fristen-form-und-zustaendigkeit` — Grundgesetz Fristen Form und Zustaendigkeit
+- `grundrechte-fehlerkatalog` — Grundrechte Fehlerkatalog
 - `grundrechtspruefung-acht-formelle-interessen` — Grundrechtspruefung Acht Formelle Interessen
-- `materielle-petition-sonderfall-recherche` — Materielle Petition Sonderfall Recherche
-- `rechtsprechungsgetrieben-rechtsweg-bverfg-verfahrenssicht` — Rechtsprechungsgetrieben Rechtsweg Bverfg Verfahrenssicht
-- `sicht-spezialkanzlei-unter` — Sicht Spezialkanzlei Unter
-- `verfassung-beweislast-verfassungsbeschwerde` — Verfassung Beweislast Verfassungsbeschwerde
-- `verfassung-grundgesetz-verfassung-organstreitverfahren` — Verfassung Grundgesetz Verfassung Organstreitverfahren
-- `verfassung-grundrechte-juristische-uebersicht-eu` — Verfassung Grundrechte Juristische Uebersicht Eu
-- `verfassung-konkrete-normenkontrolle-parteiverbot-petition` — Verfassung Konkrete Normenkontrolle Parteiverbot Petition
-- `verfassung-staatsorganisation-verfassungsrechtliche` — Verfassung Staatsorganisation Verfassungsrechtliche
-- `verfassungsbeschwerde-entwurf-formelle-verfassungsmaessigkeit` — Verfassungsbeschwerde Entwurf Formelle Verfassungsmaessigkeit
-- `verfassungsrecht-verfassung-abstrakte-verfassung-bund` — Verfassungsrecht Verfassung Abstrakte Verfassung Bund
-- `vfgr-bundestreue-foederalismus-grundrechtspruefung-bauleiter` — Vfgr Bundestreue Foederalismus Grundrechtspruefung Bauleiter
+- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhaeltnismaessigkeit
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

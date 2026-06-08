@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Arbeitszeugnis-Analyse: sortiert Erstes Zeugnis, Berichtigungszeugnis, Zwischenzeugnis, prüft Datum, Absender, Frist und Beweiswert (Leistungsbeurteilungen, E-Mail-Verkehr HR); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Arbeitszeugnis Analyse** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `ampelsystem-tabellenausgabe` — Ampelsystem Tabellenausgabe
+- `arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste` — Arbeitszeugnis Ampelsystem Dokumentenmatrix Lueckenliste
+- `arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk` — Arbeitszeugnis Codeworte Compliance Dokumentation Aktenvermerk
+- `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen` — Arbeitszeugnis Deutscher Tatbestandsmerkmale Beweisfragen
+- `arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine` — Arbeitszeugnis Geheimcodes Schriftsatz Brief Memo Bausteine
+- `arbeitszeugnis-gruen-behoerden-gerichts-registerweg` — Arbeitszeugnis Gruen Behoerden Gerichts Registerweg
+- `arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung` — Arbeitszeugnis Negative Zahlen Schwellenwerte Berechnung
+- `arbeitszeugnis-orange-risikoampel-gegenargumente` — Arbeitszeugnis Orange Risikoampel Gegenargumente
+- `arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation` — Arbeitszeugnis Schaufenster Verhandlung Vergleich Eskalation
+- `arbeitszeugnis-zeugnisanalyse-wortlaut-codes` — Arbeitszeugnis Zeugnisanalyse Wortlaut Codes
 - `aufforderungsschreiben-arbeitgeber` — Aufforderungsschreiben Arbeitgeber
 - `azubi-zeugnis-analyse` — Azubi Zeugnis Analyse
 - `bereichs-drift-detektor` — Bereichs Drift Detektor
-- `branchen-spezifische-formulierungen` — Branchen Spezifische Formulierungen
-- `erstgespraech-und-mandatsannahme` — Erstgespraech Und Mandatsannahme
-- `geheimcode-katalog` — Geheimcode Katalog
-- `gesamtnoten-aggregation` — Gesamtnoten Aggregation
-- `gruen-flaggen-katalog` — Gruen Flaggen Katalog
-- `klage-strategie-zeugnisberichtigung` — Klage Strategie Zeugnisberichtigung
-- `leistungsbeurteilung-analyse` — Leistungsbeurteilung Analyse
-- `leitende-positionen-zeugnisse` — Leitende Positionen Zeugnisse
-- `mandantenbericht-zeugnisanalyse` — Mandantenbericht Zeugnisanalyse
-- `muster-arbeitszeugnis-gemischte-noten` — Muster Arbeitszeugnis Gemischte Noten
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

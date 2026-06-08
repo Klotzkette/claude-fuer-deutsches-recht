@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: trennt fehlende Tatsachen von fehlenden Belegen (Beanstandetes Statement (Print/Online), Gegendarstellungsverlangen, Unterlassungserklärung), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgericht), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Meinungspruefer** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abwaegung-art-arbeitgeber-betrieb` — Abwaegung Art Arbeitgeber Betrieb
-- `beleglage-tatsachenbehauptung-beweissicherung-screenshots` — Beleglage Tatsachenbehauptung Beweissicherung Screenshots
+- `abmahnung-strafanzeige-reaktion` — Abmahnung Strafanzeige Reaktion
+- `abwaegung-art-arbeitgeber-betrieb` — Abwaegung ART Arbeitgeber Betrieb
+- `aeusserungsrecht-tatbestand-beweis-und-belege` — Aeusserungsrecht Tatbestand Beweis und Belege
+- `arbeitgeber-betrieb-kantine` — Arbeitgeber Betrieb Kantine
+- `beleglage-tatsachenbehauptung-beweissicherung` — Beleglage Tatsachenbehauptung Beweissicherung
 - `beleidigung-meinungspruefer` — Beleidigung Meinungspruefer
-- `egmr-art-eugh-grch` — Egmr Art Eugh Grch
-- `europarecht-emrk-gegendarstellung-entschuldigung` — Europarecht Emrk Gegendarstellung Entschuldigung
-- `kommunalrecht-buergermeister-machtkritik-amtstraeger` — Kommunalrecht Buergermeister Machtkritik Amtstraeger
-- `mehrdeutigkeit-sinnermittlung-meinung-tatsache` — Mehrdeutigkeit Sinnermittlung Meinung Tatsache
-- `meinung-strafantrag-verfahren` — Meinung Strafantrag Verfahren
-- `nachrede-tatsache` — Nachrede Tatsache
-- `olg-kg-rechtsprechungsbank-verifiziert` — Olg Kg Rechtsprechungsbank Verifiziert
-- `output-memo-pruefvermerk` — Output Memo Pruefvermerk
-- `personen-politisches-presserecht-plattformen` — Personen Politisches Presserecht Plattformen
-- `rechtsvergleich-usa-risikomatrix-ampel` — Rechtsvergleich Usa Risikomatrix Ampel
-- `satire-ironisierung-schimpfwort-lackaffe` — Satire Ironisierung Schimpfwort Lackaffe
+- `beweissicherung-screenshots` — Beweissicherung Screenshots
+- `chronologie-fristen` — Chronologie Fristen
+- `egmr-art-eugh-grch` — Egmr ART Eugh Grch
+- `eugh-grch-art-11-rechtsprechung` — Eugh Grch ART 11 Rechtsprechung
+- `europarecht-emrk-gegendarstellung` — Europarecht Emrk Gegendarstellung
+- `gegendarstellung-entschuldigung-deeskalation` — Gegendarstellung Entschuldigung Deeskalation
+- `kaltstart-triage` — Kaltstart Triage
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

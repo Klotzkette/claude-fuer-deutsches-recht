@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Fachanwalt Gewerblicher Rechtsschutz: wählt den nächsten Spezial-Skill nach Engpass (Widerspruch Marke 3 Mon., Registerauszug, Abmahnung, Unterlassungserklärung), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Fachanwalt Gewerblicher Rechtsschutz** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-bezuege-designg` — Abmahnung Bezuege Designg
-- `fa-gewerblicher-rs-gr-abmahnung-portfolio` — Allgemein Gr Abmahnung Gr Portfolio
-- `designverletzung-marken-widerspruch-markenanmeldung` — Designverletzung Marken Widerspruch Markenanmeldung
+- `chronologie-belegmatrix-fristen-risikoampel` — Chronologie Belegmatrix Fristen Risikoampel
+- `designeintragung-neuheit-paragraf-3-designg-eugh` — Designeintragung Neuheit Paragraf 3 Designg Eugh
+- `designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13` — Designschutz EU Gemeinschaftsgeschmacksmuster Eugh C 419 13
+- `designverletzung-fehlerkatalog` — Designverletzung Fehlerkatalog
+- `designverletzung-marken-widerspruch` — Designverletzung Marken Widerspruch
+- `domainrecht-loeschung-bgh-i-zr-138-19` — Domainrecht Loeschung BGH I ZR 138 19
 - `dpma-interessen-einstweilige-euipo` — Dpma Interessen Einstweilige Euipo
-- `erstgespraech-mandatsannahme-abmahnung-uwg-abmahnung-wipo` — Erstgespraech Mandatsannahme Abmahnung Uwg Abmahnung Wipo
-- `fachanwalt-fao-gebrmg` — Fachanwalt Fao Gebrmg
-- `faevvollzug-gegnerische-faevvollzug-grenzueberschreitende` — Faevvollzug Gegnerische Faevvollzug Grenzueberschreitende
-- `faevvollzug-parteibetrieb-gerichtsvollzieher-bea-elektronischer` — Faevvollzug Parteibetrieb Gerichtsvollzieher Bea Elektronischer
-- `gewerblichen-markenanmeldung-markeng` — Gewerblichen Markenanmeldung Markeng
-- `gewrechts-geschgehg-gewrechts-ki-faevvollzug-ev` — Gewrechts Geschgehg Gewrechts Ki Faevvollzug Ev
-- `gr-einfuehrung-gr-mitbewerberabmahnung-gr-uebersetzung` — Gr Einfuehrung Gr Mitbewerberabmahnung Gr Uebersetzung
-- `influencer-marketing-ki-trainingsdaten-schriftsatzkern` — Influencer Marketing Ki Trainingsdaten Schriftsatzkern
-- `orientierung-patent-nichtigkeitsklage-uwg-einstweilige` — Orientierung Patent Nichtigkeitsklage Uwg Einstweilige
-- `patg-verfuegung-beweislast-verletzungsklage-sonderfall` — Patg Verfuegung Beweislast Verletzungsklage Sonderfall
+- `erstgespraech-mandatsannahme-abmahnung-uwg` — Erstgespraech Mandatsannahme Abmahnung UWG
+- `eu-warenmarke-loeschung-eugh-c-541-18` — EU Warenmarke Loeschung Eugh C 541 18
+- `fa-gewerblicher-rs-gr-abmahnung-portfolio` — FA Gewerblicher RS GR Abmahnung Portfolio
+- `fachanwalt-fao-gebrmg` — Fachanwalt FAO Gebrmg
+- `faevvollzug-abschlussschreiben-lizenzanaloger` — Faevvollzug Abschlussschreiben Lizenzanaloger
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

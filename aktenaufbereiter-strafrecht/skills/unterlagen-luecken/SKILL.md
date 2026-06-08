@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Strafrechtliche Aktenaufbereitung: trennt fehlende Tatsachen von fehlenden Belegen (Ermittlungsakte, Anklageschrift, Hauptverhandlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Staatsanwaltschaft), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Aktenaufbereiter Strafrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
-- `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift` — Akteneinsicht Uebersicht Aktenvorblatt Erstellen Anklageschrift
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix` — Beweismittel Katalog Beweisverwertungsverbote Beziehungsmatrix
-- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Chronologie Ergaenzbar
-- `ersatz-sonderfall-excel-faehige` — Ersatz Sonderfall Excel Faehige
-- `fortlaufend-luecken-personenverzeichnis` — Fortlaufend Luecken Personenverzeichnis
-- `fristenliste-strafverfahren-aktenlektuere-fristennotiz` — Fristenliste Strafverfahren Aktenlektuere Fristennotiz
-- `kronzeugen-regelung-opferzeugen-besondere-personenverzeichnis` — Kronzeugen Regelung Opferzeugen Besondere Personenverzeichnis
-- `revision-rechtsfehler-aktenaufbereiter-aktenvorblatt` — Revision Rechtsfehler Aktenaufbereiter Aktenvorblatt
-- `sechs-u-haft-aussageanalyse-aussagepsychologie` — Sechs U Haft Aussageanalyse Aussagepsychologie
-- `strafbefehl-einspruchsstrategie-strafzumessung-deutsches` — Strafbefehl Einspruchsstrategie Strafzumessung Deutsches
-- `strafrecht-strafverteidigung-uebersichten` — Strafrecht Strafverteidigung Uebersichten
-- `vermoegensabschoepfung-dritt-einziehung-verstaendigung-deal` — Vermoegensabschoepfung Dritt Einziehung Verstaendigung Deal
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Uebersicht Aktenvorblatt
+- `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
+- `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
+- `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
+- `anklageschrift-zerlegen` — Anklageschrift Zerlegen
+- `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
+- `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Pruefen
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
+- `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

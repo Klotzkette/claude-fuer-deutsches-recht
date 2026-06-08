@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Kanzlei-Aufbau: Diese Output-Weiche für Kanzlei Builder Hub entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Kanzlei-Builder-Hub (Plugins/Skills): stimmt Adressat (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Plugin-Skizze, Skill-Entwurf, Validierungsbericht."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Kanzlei-Aufbau: Diese Output-Weiche für Kanzlei
 
 Diese Output-Weiche für **Kanzlei Builder Hub** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `community-leistungsmatrix-fristennotiz-automatischer` — Community Leistungsmatrix Fristennotiz Automatischer
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `automatischer-aktualisierer` — Automatischer Aktualisierer
+- `builder-zahlen-schwellen-und-berechnung` — Builder Zahlen Schwellen und Berechnung
+- `community-leistungsmatrix-fristennotiz` — Community Leistungsmatrix Fristennotiz
+- `daten-red-team-und-qualitaetskontrolle` — Daten RED Team und Qualitaetskontrolle
+- `deaktivieren` — Deaktivieren
+- `deinstallieren` — Deinstallieren
 - `deployment-eigenen-einsteiger` — Deployment Eigenen Einsteiger
+- `eigenen-formular-portal-und-einreichung` — Eigenen Formular Portal und Einreichung
+- `einsteiger-mandantenkommunikation-entscheidungsvorlage` — Einsteiger Mandantenkommunikation Entscheidungsvorlage
 - `findet-gate-installiert` — Findet Gate Installiert
-- `fundstellenglattzieher` — Fundstellenglattzieher
-- `grosskanzlei-rollout-thema-prozesse-abbilden` — Grosskanzlei Rollout Thema Prozesse Abbilden
-- `kanzlei-builder-hub-kaltstart-interview` — Kanzlei Builder Hub Kaltstart Interview
-- `kanzleiumgebung-khub-sonderfall-livecheck-interessen` — Kanzleiumgebung Khub Sonderfall Livecheck Interessen
-- `khub-kanzlei-coi-onboarding-bauleiter-leistungsmatrix-mandanten` — Khub Kanzlei Coi Onboarding Bauleiter Leistungsmatrix Mandanten
-- `khub-mandantenkonferenz-paralegal-rollen-rentier-rechtsanwalt` — Khub Mandantenkonferenz Paralegal Rollen Rentier Rechtsanwalt
-- `playbook-aus-eigenen-daten` — Playbook Aus Eigenen Daten
-- `playbook-qualitaetspruefung-beweislast-review` — Playbook Qualitaetspruefung Beweislast Review
-- `qa-kanzleiweit-templating-praxis-verwalter` — Qa Kanzleiweit Templating Praxis Verwalter
-- `qualitaetspruefung-builder-daten-red` — Qualitaetspruefung Builder Daten Red
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

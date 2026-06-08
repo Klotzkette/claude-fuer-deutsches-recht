@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Fachanwalt Agrarrecht: ordnet Rolle (Landwirt, Verpächter/Pächter, Behörde), markiert Frist (Pachtjahr Kündigungsfristen), wählt Norm (BLG, LwAnpG, GAP-Förderung) und Zuständigkeit (Landwirtschaftsbehörden Länder), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Fachanwalt Agrarrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `agrar-einfuehrung-rechtsquellen` — Agrar Einfuehrung Rechtsquellen
-- `agrar-jagdpacht-streit-mandantenfragen-typisch-paechterbetrieb` — Agrar Jagdpacht Streit Mandantenfragen Typisch Paechterbetrieb
-- `agrar-tierhaltung-erstgespraech-mandatsannahme-duenge` — Agrar Tierhaltung Erstgespraech Mandatsannahme Duenge
-- `agrar-wolfsschaden-cross-glozez-foerderung-gap` — Agrar Wolfsschaden Cross Glozez Förderung Gap
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anerbenrecht-bgb-spezial-compliance` — Anerbenrecht Bgb Compliance
-- `cross-duengeverordnung-interessen-erbrecht-beweislast` — Cross Duengeverordnung Interessen Erbrecht Beweislast
-- `eu-agrarfoerderung-gap-direktzahlungen-hoefe` — Eu Agrarfoerderung Gap Direktzahlungen Hoefe
-- `fachanwalt-agrarrecht-landpacht-hoferbfolge-triage` — Fachanwalt Agrarrecht Landpacht Hoferbfolge Triage
-- `fachanwalt-forstrecht-red-hoefe-sonderfall` — Fachanwalt Forstrecht Red Hoefe Sonderfall
-- `fristennotiz-naechster-pachtvertrag-streitig-pachtvertrag` — Fristennotiz Naechster Pachtvertrag Streitig Pachtvertrag
-- `hoefeo-laender-landpachtrecht` — Hoefeo Länder Landpachtrecht
-- `orientierung-tierhaltung-genehmigung-landpacht-schlichtung` — Orientierung Tierhaltung Genehmigung Landpacht Schlichtung
-- `pflanzenschutz-schnittstelle-mandantenentscheidung-tierschutz` — Pflanzenschutz Schnittstelle Mandantenentscheidung Tierschutz
+- `agrar-jagdpacht-streit-mandantenfragen` — Agrar Jagdpacht Streit Mandantenfragen
+- `agrar-tierhaltung-erstgespraech` — Agrar Tierhaltung Erstgespraech
+- `agrar-wolfsschaden-cross-glozez-foerderung` — Agrar Wolfsschaden Cross Glozez Foerderung
+- `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung` — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
+- `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle` — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
+- `agrarfoerderung-fid-ablehnung-paragraf-9-invekos` — Agrarfoerderung FID Ablehnung Paragraf 9 Invekos
+- `agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw` — Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg GRW
+- `agrarrecht-mandantenkommunikation-redteam-qualitygate-hoeferecht` — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
+- `anerbenrecht-bgb-spezial-compliance` — Anerbenrecht BGB Spezial Compliance
+- `cross-duengeverordnung-interessen-erbrecht` — Cross Duengeverordnung Interessen Erbrecht
+- `direktzahlungen-quellenkarte` — Direktzahlungen Quellenkarte
+- `duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation` — Duengeverordnung Rote Gebiete Paragraf 13A Duev Derogation
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

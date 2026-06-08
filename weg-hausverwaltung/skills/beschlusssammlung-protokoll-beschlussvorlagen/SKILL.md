@@ -1,6 +1,6 @@
 ---
 name: beschlusssammlung-protokoll-beschlussvorlagen
-description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausverwaltung: prüft konkret Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs, Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausverwaltung: prüft konkret Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung § 24 Abs, Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Beschlusssammlung Protokoll Beschlussvorlagen

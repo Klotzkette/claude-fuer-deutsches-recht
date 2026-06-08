@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Regulatorisches Recht (Sektoren): sortiert Genehmigungsbescheid, Aufsichtsbescheid, Compliance-Manual, prüft Datum, Absender, Frist und Beweiswert (Compliance-Logs, Audit-Reports); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Regulatorisches Recht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anhoerung-red-team-und-qualitaetskontrolle` — Anhoerung RED Team und Qualitaetskontrolle
+- `anschluss-router` — Anschluss Router
 - `aufsichts-feed-monitor` — Aufsichts Feed Monitor
-- `aufsichtsverfahren-anhoerung-aufsichtsverfahren-gwg` — Aufsichtsverfahren Anhörung Aufsichtsverfahren Gwg
-- `dora-ikt-vertragspruefung` — Dora Ikt Vertragspruefung
-- `enwg-feeds-heilmwerbg` — Enwg Feeds Heilmwerbg
-- `inkasso-massnahme-regulator` — Inkasso Massnahme Regulator
-- `inkasso-rdg-luecken-mar-mifid` — Inkasso Rdg Luecken Mar Mifid
-- `interview-fristennotiz-aufsichtssanktion-revision-umsatzsteuer` — Interview Fristennotiz Aufsichtssanktion Revision Umsatzsteuer
-- `luecken-aufzeiger` — Luecken Aufzeiger
-- `regr-dora-resilienz-finanzdienstleistungsregulierung-bauleiter` — Regr Dora Resilienz Finanzdienstleistungsregulierung Bauleiter
-- `regr-mifid2-regrecht-einfuehrung-regrecht-internal` — Regr Mifid2 Regrecht Einfuehrung Regrecht Internal
-- `regulatorisches-recht-kaltstart-interview` — Regulatorisches Recht Kaltstart Interview
-- `regulatorisches-richtlinien-neufassung` — Regulatorisches Richtlinien Neufassung
-- `regulatorisches-stellungnahmen-beweislast-voranmeldung` — Regulatorisches Stellungnahmen Beweislast Voranmeldung
+- `aufsichtskommunikation-grundregeln` — Aufsichtskommunikation Grundregeln
+- `aufsichtsrecht-erstpruefung-und-mandatsziel` — Aufsichtsrecht Erstpruefung und Mandatsziel
+- `aufsichtssanktion-revision-spezial` — Aufsichtssanktion Revision Spezial
+- `aufsichtsverfahren-anhoerung-gwg` — Aufsichtsverfahren Anhoerung GWG
+- `aufsichtsverfahren-formular-portal-und-einreichung` — Aufsichtsverfahren Formular Portal und Einreichung
+- `dora-ikt-vertragspruefung` — Dora IKT Vertragspruefung
+- `dora-stellvertreter-und-konzern` — Dora Stellvertreter und Konzern
+- `enwg-feeds-heilmwerbg` — ENWG Feeds Heilmwerbg
+- `feeds-compliance-dokumentation-und-akte` — Feeds Compliance Dokumentation und Akte
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

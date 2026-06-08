@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Immobilienrechtspraxis: trennt fehlende Tatsachen von fehlenden Belegen (Notarvertrag, Grundbuchauszug, Energieausweis), nennt pro Lücke Beweisthema, Beschaffungsweg (Grundbuchamt), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Immobilienrechtspraxis** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
-- `case-management-grundbuchanalyse-immo-aufteilungsplan` — Case Management Grundbuchanalyse Immo Aufteilungsplan
-- `immo-bauliche-veraenderung-energieausweis-gewerbliche-mieter` — Immo Bauliche Veraenderung Energieausweis Gewerbliche Mieter
-- `immo-bauvertrag-vob-kaufvertrag-grundstueck-mietkaufvertrag` — Immo Bauvertrag Vob Kaufvertrag Grundstueck Mietkaufvertrag
-- `immo-grundschuld-bestellung-makler-honorar-wohnungseigentum` — Immo Grundschuld Bestellung Makler Honorar Wohnungseigentum
-- `immo-immobilienrechtliche-live-beweislast` — Immo Immobilienrechtliche Live Beweislast
-- `immo-zwangsversteigerung-frist-naechster-rechtsabteilungen` — Immo Zwangsversteigerung Frist Naechster Rechtsabteilungen
-- `immor-bauvertrag-vob-erbbaurecht-vertrag-grundstueckskaufvertrag` — Immor Bauvertrag Vob Erbbaurecht Vertrag Grundstueckskaufvertrag
-- `immor-bodenrichtwert-betriebskostenabrechnung-erstellen` — Immor Bodenrichtwert Betriebskostenabrechnung Erstellen
-- `klauselschutz-vertragserstellung-vertragspruefung` — Klauselschutz Vertragserstellung Vertragspruefung
-- `management-mieteranfragen-interessen-musterbasierte` — Management Mieteranfragen Interessen Musterbasierte
-- `mieteranfragen-bearbeitung-projekt-arbeitsweise` — Mieteranfragen Bearbeitung Projekt Arbeitsweise
-- `sachverhaltsermittlung-verifikation-sonderfall-werkzeuge` — Sachverhaltsermittlung Verifikation Sonderfall Werkzeuge
+- `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
+- `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation
+- `grundbuchanalyse` — Grundbuchanalyse
+- `grundbuchanalyse-zahlen-schwellen-und-berechnung` — Grundbuchanalyse Zahlen Schwellen und Berechnung
+- `immo-aufteilungsplan-weg` — Immo Aufteilungsplan WEG
+- `immo-bauliche-veraenderung-energieausweis` — Immo Bauliche Veraenderung Energieausweis
+- `immo-bauvertrag-vob-kaufvertrag-grundstueck` — Immo Bauvertrag VOB Kaufvertrag Grundstueck
+- `immo-energieausweis` — Immo Energieausweis
+- `immo-gewerbliche-mieter-konkurs` — Immo Gewerbliche Mieter Konkurs
+- `immo-grundschuld-bestellung-makler-honorar` — Immo Grundschuld Bestellung Makler Honorar
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

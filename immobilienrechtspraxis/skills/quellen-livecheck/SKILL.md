@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Immobilienrechtspraxis: prüft Normen (BGB §§ 433/873/925, GrEStG, GBO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Grundbuchamt und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Immobilienrechtspraxis** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `betriebskostenabrechnung-erstellen-asset-management` — Betriebskostenabrechnung Erstellen Asset Management
+- `betriebskostenabrechnung-pruefen-asset-management` — Betriebskostenabrechnung Pruefen Asset Management
 - `case-gegen-grundbuchanalyse` — Case Gegen Grundbuchanalyse
-- `case-management-grundbuchanalyse-immo-aufteilungsplan` — Case Management Grundbuchanalyse Immo Aufteilungsplan
-- `immo-bauliche-veraenderung-energieausweis-gewerbliche-mieter` — Immo Bauliche Veraenderung Energieausweis Gewerbliche Mieter
-- `immo-bauvertrag-vob-kaufvertrag-grundstueck-mietkaufvertrag` — Immo Bauvertrag Vob Kaufvertrag Grundstueck Mietkaufvertrag
-- `immo-grundschuld-bestellung-makler-honorar-wohnungseigentum` — Immo Grundschuld Bestellung Makler Honorar Wohnungseigentum
-- `immo-immobilienrechtliche-live-beweislast` — Immo Immobilienrechtliche Live Beweislast
-- `immo-zwangsversteigerung-frist-naechster-rechtsabteilungen` — Immo Zwangsversteigerung Frist Naechster Rechtsabteilungen
-- `immor-bauvertrag-vob-erbbaurecht-vertrag-grundstueckskaufvertrag` — Immor Bauvertrag Vob Erbbaurecht Vertrag Grundstueckskaufvertrag
-- `immor-bodenrichtwert-betriebskostenabrechnung-erstellen` — Immor Bodenrichtwert Betriebskostenabrechnung Erstellen
-- `klauselschutz-vertragserstellung-vertragspruefung` — Klauselschutz Vertragserstellung Vertragspruefung
-- `management-mieteranfragen-interessen-musterbasierte` — Management Mieteranfragen Interessen Musterbasierte
-- `mieteranfragen-bearbeitung-projekt-arbeitsweise` — Mieteranfragen Bearbeitung Projekt Arbeitsweise
-- `sachverhaltsermittlung-verifikation-sonderfall-werkzeuge` — Sachverhaltsermittlung Verifikation Sonderfall Werkzeuge
+- `case-management-grundbuchanalyse-immo` — Case Management Grundbuchanalyse Immo
+- `gegen-verhandlung-vergleich-und-eskalation` — Gegen Verhandlung Vergleich und Eskalation
+- `grundbuchanalyse` — Grundbuchanalyse
+- `grundbuchanalyse-zahlen-schwellen-und-berechnung` — Grundbuchanalyse Zahlen Schwellen und Berechnung
+- `immo-aufteilungsplan-weg` — Immo Aufteilungsplan WEG
+- `immo-bauliche-veraenderung-energieausweis` — Immo Bauliche Veraenderung Energieausweis
+- `immo-bauvertrag-vob-kaufvertrag-grundstueck` — Immo Bauvertrag VOB Kaufvertrag Grundstueck
+- `immo-energieausweis` — Immo Energieausweis
+- `immo-gewerbliche-mieter-konkurs` — Immo Gewerbliche Mieter Konkurs
+- `immo-grundschuld-bestellung-makler-honorar` — Immo Grundschuld Bestellung Makler Honorar
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

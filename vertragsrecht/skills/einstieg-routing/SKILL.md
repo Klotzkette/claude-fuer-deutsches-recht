@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Vertragsrecht (BGB-Vertragsrecht): ordnet Rolle (Vertragsparteien, Drittbegünstigte), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie Agb Eskalations Marker
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `bgb-business-einzelabrufe-sonderfall` — Bgb Business Einzelabrufe Sonderfall
-- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten Red Team
-- `fristennotiz-naechster-vertriebsvertraege-lieferantenvertrag` — Fristennotiz Naechster Vertriebsvertraege Lieferantenvertrag
-- `mandat-arbeitsbereich-vr-einfuehrung-abmahnung-uwg` — Mandat Arbeitsbereich Vr Einfuehrung Abmahnung Uwg
-- `nda-durchsetzer` — Nda Durchsetzer
-- `nda-pruefungsvorschlaege-saas-msa` — Nda Pruefungsvorschlaege Saas Msa
-- `rahmenvertrag-beweislast-vertragsrecht-vert-rahmenvertrag` — Rahmenvertrag Beweislast Vertragsrecht Vert Rahmenvertrag
-- `renewal-review-routing` — Renewal Review Routing
-- `saas-tracking-vert` — Saas Tracking Vert
-- `vert-agb-vert-leistungsstoerungen-vr-agb` — Vert Agb Vert Leistungsstoerungen Vr Agb
-- `vert-vertragsschluss-vertragspruefung-vertragsrecht` — Vert Vertragsschluss Vertragspruefung Vertragsrecht
-- `vertragsrecht-kaltstart-interview` — Vertragsrecht Kaltstart Interview
+- `abmahnung-uwg` — Abmahnung UWG
+- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `agb-pruefung` — AGB Pruefung
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall
+- `business-compliance-dokumentation-und-akte` — Business Compliance Dokumentation und Akte
+- `einzelabrufe-sonderfall-und-edge-case` — Einzelabrufe Sonderfall und Edge Case
+- `eskalations-marker` — Eskalations Marker
+- `eskalations-quellenkarte` — Eskalations Quellenkarte
+- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten RED Team
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `fristennotiz-naechster-vertriebsvertraege` — Fristennotiz Naechster Vertriebsvertraege
+- `dokumente-intake` — Dokumente Intake
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

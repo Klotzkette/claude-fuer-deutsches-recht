@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Patentrecherche (FTO, Validity, Family-Watch): trennt fehlende Tatsachen von fehlenden Belegen (Erfindungsmeldung, Anspruchssatz, Recherche-Report), nennt pro Lücke Beweisthema, Beschaffungsweg (DPMA), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Patentrecherche** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `dpmaregister-epue-beweislast-erfinderische-sonderfall` — Dpmaregister Epue Beweislast Erfinderische Sonderfall
-- `erfinderische-taetigkeit-freedom-to-ki-patent` — Erfinderische Taetigkeit Freedom To Ki Patent
-- `espacenet-google-neuheit-red` — Espacenet Google Neuheit Red
-- `klassifikation-cpc-neuheit-patentfamilien-analyse` — Klassifikation Cpc Neuheit Patentfamilien Analyse
-- `patentanwaelte-patentrecherche-patents` — Patentanwaelte Patentrecherche Patents
-- `patentrecherche-kaltstart-interview` — Patentrecherche Kaltstart Interview
-- `patg-problem-register` — Patg Problem Register
-- `patr-fto-bericht-patentfamilie-priodatum-recherchestrategie` — Patr Fto Bericht Patentfamilie Priodatum Recherchestrategie
-- `patr-software-pr-einfuehrung-pruefungsbescheid-vorbereiten` — Patr Software Pr Einfuehrung Pruefungsbescheid Vorbereiten
-- `recherche-strategie-tools-marktuebersicht-recherchebericht` — Recherche Strategie Tools Marktuebersicht Recherchebericht
-- `rechtsstand-pruefen-rueckfragen-mandant-depatisnet` — Rechtsstand Prüfen Rueckfragen Mandant Depatisnet
-- `stand-technik-uspto-interessen` — Stand Technik Uspto Interessen
-- `taetigkeit-fristennotiz-agentische-datenbank-epo-opposition` — Taetigkeit Fristennotiz Agentische Datenbank Epo Opposition
+- `agentisch-fristen-form-und-zustaendigkeit` — Agentisch Fristen Form und Zustaendigkeit
+- `agentische-datenbank-recherche` — Agentische Datenbank Recherche
+- `depatisnet-verhandlung-vergleich-und-eskalation` — Depatisnet Verhandlung Vergleich und Eskalation
+- `dpmaregister-epue-beweislast-erfinderische` — Dpmaregister Epue Beweislast Erfinderische
+- `epo-opposition-strategie` — EPO Opposition Strategie
+- `epo-quellenkarte` — EPO Quellenkarte
+- `epue-beweislast-und-darlegungslast` — Epue Beweislast und Darlegungslast
+- `erfinderische-sonderfall-und-edge-case` — Erfinderische Sonderfall und Edge Case
+- `erfinderische-taetigkeit-freedom-to-ki-patent` — Erfinderische Taetigkeit Freedom TO KI Patent
+- `espacenet-google-neuheit-red-team-korrektur` — Espacenet Google Neuheit RED Team Korrektur
+- `freedom-to-operate-recherche` — Freedom TO Operate Recherche
+- `google-risikoampel-und-gegenargumente` — Google Risikoampel und Gegenargumente
+- `kaltstart-interview` — Kaltstart Interview
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

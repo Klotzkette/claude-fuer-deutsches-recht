@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Schriftform/Textform BGB: wählt den nächsten Spezial-Skill nach Engpass (Form vor Wirksamkeit, Vertrag, Unterschrift, qualifizierte e-Signatur), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Schriftform Und Textform Bgb** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anspruchsformulierungen-formverstoss-buergschaft` — Anspruchsformulierungen Formverstoss Buergschaft
-- `arbeitsrecht-befristung-schriftform-checker-vertrag` — Arbeitsrecht Befristung Schriftform Checker Vertrag
-- `elektronische-paragraph-formerfordernisse-ueberblick` — Elektronische Paragraph Formerfordernisse Ueberblick
-- `formwahl-zugang-live-prozessablauf-mandantenentscheidung` — Formwahl Zugang Live Prozessablauf Mandantenentscheidung
-- `klauselgenerator-formvorbehalt-maklervertrag-paragraph-amtlicher` — Klauselgenerator Formvorbehalt Maklervertrag Paragraph Amtlicher
-- `kuendigung-per-mandantenkorrespondenz-zugang-mandantenwarnung` — Kündigung Per Mandantenkorrespondenz Zugang Mandantenwarnung
-- `notarielle-beurkundung-prozessablauf-papier-paragraph` — Notarielle Beurkundung Prozessablauf Papier Paragraph
-- `prozessordnungen-textform-verifikation` — Prozessordnungen Textform Verifikation
-- `sftf-arbeitsvertraege-nachweisgesetz-doppelschriftform-aufhebung` — Sftf Arbeitsvertraege Nachweisgesetz Doppelschriftform Aufhebung
-- `sftf-formvorgaben-bgb-interessen-checklisten` — Sftf Formvorgaben Bgb Interessen Checklisten
-- `textform-paragraph-verteidigungsstrategie-formangriff` — Textform Paragraph Verteidigungsstrategie Formangriff
-- `willenserklaerung-zivilrecht-zugang` — Willenserklaerung Zivilrecht Zugang
-- `zugang-empfangsbeduerftiger-zugang-formgerechter` — Zugang Empfangsbeduerftiger Zugang Formgerechter
+- `amtlicher-formkern-bgb-zpo-check` — Amtlicher Formkern BGB ZPO Check
+- `anspruchsformulierungen-formverstoss` — Anspruchsformulierungen Formverstoss
+- `arbeitsrecht-befristung-schriftform-checker` — Arbeitsrecht Befristung Schriftform Checker
+- `befristungsabrede-qes-rechtsprechung` — Befristungsabrede QES Rechtsprechung
+- `befristungsabrede-qes-rechtsprechung-stand-2026` — Befristungsabrede QES Rechtsprechung Stand 2026
+- `bgb-mehrparteien-konflikt-und-interessen` — BGB Mehrparteien Konflikt und Interessen
+- `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` — Buergschaft Verbraucherdarlehen und Andere Strenge Formen
+- `checklisten-schriftsatz-brief-und-memo-bausteine` — Checklisten Schriftsatz Brief und Memo Bausteine
+- `dokumentations-und-beweisarchitektur` — Dokumentations und Beweisarchitektur
+- `elektronische-paragraph-formerfordernisse` — Elektronische Paragraph Formerfordernisse
+- `empfangsbeduerftiger-international` — Empfangsbeduerftiger International
+- `empfangsbeduerftiger-international-schnittstellen` — Empfangsbeduerftiger International Schnittstellen
+- `form-checker-fuer-vertrag-oder-willenserklaerung` — Form Checker Fuer Vertrag Oder Willenserklaerung
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

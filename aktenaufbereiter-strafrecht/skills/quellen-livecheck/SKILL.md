@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Strafrechtliche Aktenaufbereitung: prüft Normen (§§ 147 StPO Akteneinsicht, § 200 StPO Anklageschrift, § 397a StPO Nebenklage) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Staatsanwaltschaft und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Aktenaufbereiter Strafrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `aktenaufbereiter-erstpruefung-und-mandatsziel` — Aktenaufbereiter Erstpruefung und Mandatsziel
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
-- `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift` — Akteneinsicht Uebersicht Aktenvorblatt Erstellen Anklageschrift
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix` — Beweismittel Katalog Beweisverwertungsverbote Beziehungsmatrix
-- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Chronologie Ergaenzbar
-- `ersatz-sonderfall-excel-faehige` — Ersatz Sonderfall Excel Faehige
-- `fortlaufend-luecken-personenverzeichnis` — Fortlaufend Luecken Personenverzeichnis
-- `fristenliste-strafverfahren-aktenlektuere-fristennotiz` — Fristenliste Strafverfahren Aktenlektuere Fristennotiz
-- `kronzeugen-regelung-opferzeugen-besondere-personenverzeichnis` — Kronzeugen Regelung Opferzeugen Besondere Personenverzeichnis
-- `revision-rechtsfehler-aktenaufbereiter-aktenvorblatt` — Revision Rechtsfehler Aktenaufbereiter Aktenvorblatt
-- `sechs-u-haft-aussageanalyse-aussagepsychologie` — Sechs U Haft Aussageanalyse Aussagepsychologie
-- `strafbefehl-einspruchsstrategie-strafzumessung-deutsches` — Strafbefehl Einspruchsstrategie Strafzumessung Deutsches
-- `strafrecht-strafverteidigung-uebersichten` — Strafrecht Strafverteidigung Uebersichten
-- `vermoegensabschoepfung-dritt-einziehung-verstaendigung-deal` — Vermoegensabschoepfung Dritt Einziehung Verstaendigung Deal
+- `akteneinsicht-uebersicht-aktenvorblatt` — Akteneinsicht Uebersicht Aktenvorblatt
+- `aktenlektuere-fristennotiz-und-naechster-schritt` — Aktenlektuere Fristennotiz und Naechster Schritt
+- `aktenvorblatt-erstellen` — Aktenvorblatt Erstellen
+- `aktenvorblatt-schriftsatz-brief-und-memo-bausteine` — Aktenvorblatt Schriftsatz Brief und Memo Bausteine
+- `anklageschrift-zerlegen` — Anklageschrift Zerlegen
+- `aussageanalyse-aussagepsychologie` — Aussageanalyse Aussagepsychologie
+- `beweismittel-katalog-beweisverwertungsverbote` — Beweismittel Katalog Beweisverwertungsverbote
+- `beweisverwertungsverbote-pruefen` — Beweisverwertungsverbote Pruefen
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungsmatrix-personen-taten` — Beziehungsmatrix Personen Taten
+- `chronologie-compliance-dokumentation-und-akte` — Chronologie Compliance Dokumentation und Akte
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

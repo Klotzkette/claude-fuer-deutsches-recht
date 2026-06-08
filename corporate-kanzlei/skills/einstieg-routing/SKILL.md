@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Corporate-Kanzlei (M&A, Gesellschaftsrecht): ordnet Rolle (Seller, Buyer, Target, Berater (anwaltlich, steuerlich, M&A), Aufsichtsrat), markiert Frist (Ad-hoc unverzüglich), wählt Norm (AktG, GmbHG, HGB, WpÜG, WpHG, UmwG) und Zuständigkeit (BaFin), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,22 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Corporate Kanzlei** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `agio` — Agio
+- `agio-und-kapitalerhoehungsstruktur` — Agio und Kapitalerhoehungsstruktur
+- `automation-monitoring` — Automation Monitoring
 - `automation-monitoring-billing-narratives` — Automation Monitoring Billing Narratives
+- `beirat-gmbh-zustimmungskatalog` — Beirat Gmbh Zustimmungskatalog
+- `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` — Beirat Gmbh Zustimmungskatalog und Konfliktmatrix
+- `billing-narratives` — Billing Narratives
+- `board-paper-business` — Board Paper Business
 - `board-paper-closing-bible` — Board Paper Closing Bible
-- `conflict-gwg-datenqualitaet-xai` — Conflict Gwg Datenqualitaet Xai
+- `closing-bible-archiv` — Closing Bible Archiv
+- `conflict-gwg-datenqualitaet-xai` — Conflict GWG Datenqualitaet XAI
+- `conflict-gwg-sanctions` — Conflict GWG Sanctions
 - `corporate-beirat-gmbh` — Corporate Beirat Gmbh
-- `corporate-kanzlei-agio-und-kapitalerhoehungsstruktur` — Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur
-- `corporate-kanzlei-automation-monitoring` — Corporate Kanzlei Automation Monitoring
-- `corporate-kanzlei-billing-narratives` — Corporate Kanzlei Billing Narratives
-- `corporate-kanzlei-board-paper-business-judgment` — Corporate Kanzlei Board Paper Business Judgment
-- `corporate-kanzlei-closing-bible-archiv` — Corporate Kanzlei Closing Bible Archiv
-- `corporate-kanzlei-conflict-gwg-sanctions` — Corporate Kanzlei Conflict Gwg Sanctions
-- `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle` — Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle
-- `corporate-kanzlei-datenraum-aufbau` — Corporate Kanzlei Datenraum Aufbau
-- `corporate-kanzlei-datenraum-gap-clean-room` — Corporate Kanzlei Datenraum Gap Clean Room
-- `corporate-kanzlei-deal-intake` — Corporate Kanzlei Deal Intake
 
 ## Arbeitsweg
 

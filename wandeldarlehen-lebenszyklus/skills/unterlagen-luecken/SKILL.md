@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Wandeldarlehen-Lebenszyklus: trennt fehlende Tatsachen von fehlenden Belegen (Wandeldarlehensvertrag, Term Sheet, Cap Table), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsregister), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Wandeldarlehen Lebenszyklus** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Pruefung
+- `beurkundungspruefung-quellenkarte-check` — Beurkundungspruefung Quellenkarte Check
 - `bilingual-einsprachig` — Bilingual Einsprachig
-- `cap-table-darlehenshoehe-konditionen` — Cap Table Darlehenshoehe Konditionen
+- `bilinguale-vertragserstellung` — Bilinguale Vertragserstellung
+- `cap-table-darlehenshoehe-konditionen` — CAP Table Darlehenshoehe Konditionen
+- `chronologie-fristen` — Chronologie Fristen
+- `darlehenshoehe-konditionen` — Darlehenshoehe Konditionen
 - `dokumenten-upload-formfehler-heilungs` — Dokumenten Upload Formfehler Heilungs
-- `einsprachige-vertragsfassung-vertragserstellung` — Einsprachige Vertragsfassung Vertragserstellung
-- `gesellschafterbeschluss-kapitalerhoehung-vorbereiten` — Gesellschafterbeschluss Kapitalerhoehung Vorbereiten
-- `gesellschafterliste-aktualisieren-gesellschafterversammlung` — Gesellschafterliste Aktualisieren Gesellschafterversammlung
-- `gmbh-vollstaendigen` — Gmbh Vollstaendigen
-- `handelsregisteranmeldung-kapitalerhoehung-kyc-aml` — Handelsregisteranmeldung Kapitalerhoehung Kyc Aml
-- `lebenszyklus-bilinguale-vertragserstellung` — Lebenszyklus Bilinguale Vertragserstellung
-- `mandat-triage-mehrere-parallel` — Mandat Triage Mehrere Parallel
-- `notar-paket-parteien-erfassen` — Notar Paket Parteien Erfassen
-- `post-eintragung-rangruecktritt-formulieren` — Post Eintragung Rangruecktritt Formulieren
-- `sacheinlagebericht-werthaltigkeit-begleitet` — Sacheinlagebericht Werthaltigkeit Begleitet
-- `unterzeichnung-elektronisch-wandelereignis-eingang` — Unterzeichnung Elektronisch Wandelereignis Eingang
+- `einsprachig-verhandlung-vergleich-und-eskalation` — Einsprachig Verhandlung Vergleich und Eskalation
+- `einsprachige-vertragsfassung` — Einsprachige Vertragsfassung
+- `formfehler-heilungs-timeline` — Formfehler Heilungs Timeline
+- `gesellschafterbeschluss-kapitalerhoehung` — Gesellschafterbeschluss Kapitalerhoehung
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

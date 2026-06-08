@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Vertragsrecht (BGB-Vertragsrecht): prüft Normen (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Vertragsrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie Agb Eskalations Marker
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `bgb-business-einzelabrufe-sonderfall` — Bgb Business Einzelabrufe Sonderfall
-- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten Red Team
-- `fristennotiz-naechster-vertriebsvertraege-lieferantenvertrag` — Fristennotiz Naechster Vertriebsvertraege Lieferantenvertrag
-- `mandat-arbeitsbereich-vr-einfuehrung-abmahnung-uwg` — Mandat Arbeitsbereich Vr Einfuehrung Abmahnung Uwg
-- `nda-durchsetzer` — Nda Durchsetzer
-- `nda-pruefungsvorschlaege-saas-msa` — Nda Pruefungsvorschlaege Saas Msa
-- `rahmenvertrag-beweislast-vertragsrecht-vert-rahmenvertrag` — Rahmenvertrag Beweislast Vertragsrecht Vert Rahmenvertrag
-- `renewal-review-routing` — Renewal Review Routing
-- `saas-tracking-vert` — Saas Tracking Vert
-- `vert-agb-vert-leistungsstoerungen-vr-agb` — Vert Agb Vert Leistungsstoerungen Vr Agb
-- `vert-vertragsschluss-vertragspruefung-vertragsrecht` — Vert Vertragsschluss Vertragspruefung Vertragsrecht
-- `vertragsrecht-kaltstart-interview` — Vertragsrecht Kaltstart Interview
+- `abmahnung-uwg` — Abmahnung UWG
+- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `agb-pruefung` — AGB Pruefung
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bgb-business-einzelabrufe-sonderfall` — BGB Business Einzelabrufe Sonderfall
+- `business-compliance-dokumentation-und-akte` — Business Compliance Dokumentation und Akte
+- `einzelabrufe-sonderfall-und-edge-case` — Einzelabrufe Sonderfall und Edge Case
+- `eskalations-marker` — Eskalations Marker
+- `eskalations-quellenkarte` — Eskalations Quellenkarte
+- `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten RED Team
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `fristennotiz-naechster-vertriebsvertraege` — Fristennotiz Naechster Vertriebsvertraege
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Normenanker
 

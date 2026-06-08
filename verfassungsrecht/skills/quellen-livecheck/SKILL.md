@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Verfassungsrecht: prüft Normen (GG, BVerfGG, Landesverfassungen) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BVerfG und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Verfassungsrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
+- `bundesverfassungsgericht-quellenkarte-check` — Bundesverfassungsgericht Quellenkarte Check
+- `bverfg-rechtsprechung-recherchieren` — Bverfg Rechtsprechung Recherchieren
+- `bverfg-verfahrenssicht-und-annahmerisiko` — Bverfg Verfahrenssicht und Annahmerisiko
+- `formelle-mehrparteien-konflikt-und-interessen` — Formelle Mehrparteien Konflikt und Interessen
+- `formelle-verfassungsmaessigkeit` — Formelle Verfassungsmaessigkeit
+- `gesetzentwurf-gg-konformitaet-pruefen` — Gesetzentwurf GG Konformitaet Pruefen
 - `gesetzgebungskompetenz-grundrechtspruefung` — Gesetzgebungskompetenz Grundrechtspruefung
+- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Pruefen
+- `grundgesetz-fristen-form-und-zustaendigkeit` — Grundgesetz Fristen Form und Zustaendigkeit
+- `grundrechte-fehlerkatalog` — Grundrechte Fehlerkatalog
 - `grundrechtspruefung-acht-formelle-interessen` — Grundrechtspruefung Acht Formelle Interessen
-- `materielle-petition-sonderfall-recherche` — Materielle Petition Sonderfall Recherche
-- `rechtsprechungsgetrieben-rechtsweg-bverfg-verfahrenssicht` — Rechtsprechungsgetrieben Rechtsweg Bverfg Verfahrenssicht
-- `sicht-spezialkanzlei-unter` — Sicht Spezialkanzlei Unter
-- `verfassung-beweislast-verfassungsbeschwerde` — Verfassung Beweislast Verfassungsbeschwerde
-- `verfassung-grundgesetz-verfassung-organstreitverfahren` — Verfassung Grundgesetz Verfassung Organstreitverfahren
-- `verfassung-grundrechte-juristische-uebersicht-eu` — Verfassung Grundrechte Juristische Uebersicht Eu
-- `verfassung-konkrete-normenkontrolle-parteiverbot-petition` — Verfassung Konkrete Normenkontrolle Parteiverbot Petition
-- `verfassung-staatsorganisation-verfassungsrechtliche` — Verfassung Staatsorganisation Verfassungsrechtliche
-- `verfassungsbeschwerde-entwurf-formelle-verfassungsmaessigkeit` — Verfassungsbeschwerde Entwurf Formelle Verfassungsmaessigkeit
-- `verfassungsrecht-verfassung-abstrakte-verfassung-bund` — Verfassungsrecht Verfassung Abstrakte Verfassung Bund
-- `vfgr-bundestreue-foederalismus-grundrechtspruefung-bauleiter` — Vfgr Bundestreue Foederalismus Grundrechtspruefung Bauleiter
+- `grundrechtspruefung-und-verhaeltnismaessigkeit` — Grundrechtspruefung und Verhaeltnismaessigkeit
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

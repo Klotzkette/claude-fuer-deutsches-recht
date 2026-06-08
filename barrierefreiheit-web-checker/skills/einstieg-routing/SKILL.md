@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: ordnet Rolle (Betreiber Website/App, Aufsichtsbehörde, Nutzer mit Behinderung), markiert Frist (Gilt ab 28.06.2025), wählt Norm (BFSG, BFSG-Verordnung, WCAG 2.1 AA) und Zuständigkeit (BFA (Bundesfachstelle Barrierefreiheit)), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
+- `agentur-abnahme-vergabe` — Agentur Abnahme Vergabe
 - `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
-- `bf-kiosk-bf-mediendienste-bf-pdf` — Bf Kiosk Bf Mediendienste Bf Pdf
-- `bfsg-zeitleiste-ecommerce-checkout-en301549-wcag` — Bfsg Zeitleiste Ecommerce Checkout En301549 Wcag
+- `automatisierter-audit-axe-lighthouse` — Automatisierter Audit AXE Lighthouse
+- `barrierefreiheit-fehlerkatalog` — Barrierefreiheit Fehlerkatalog
+- `barrierefreiheits-erstpruefung-und-mandatsziel` — Barrierefreiheits Erstpruefung und Mandatsziel
+- `bf-kanzleiwebsite-konkret` — BF Kanzleiwebsite Konkret
+- `bf-kiosk-selbstbedienung-mediendienste` — BF Kiosk Selbstbedienung Mediendienste
+- `bf-mediendienste-untertitel-spezial` — BF Mediendienste Untertitel Spezial
+- `bf-pdf-schriftsaetze-versand` — BF PDF Schriftsaetze Versand
+- `bfsg-tatbestand-beweis-und-belege` — Bfsg Tatbestand Beweis und Belege
+- `bfsg-zeitleiste-ecommerce-checkout-en301549` — Bfsg Zeitleiste Ecommerce Checkout En301549
 - `bfsgv-schulung-fristennotiz-agentur-abnahme` — Bfsgv Schulung Fristennotiz Agentur Abnahme
-- `bitv-checkout-beweislast-ecommerce` — Bitv Checkout Beweislast Ecommerce
-- `erklaerung-interessen-formulare-pdfs` — Erklaerung Interessen Formulare Pdfs
-- `formulare-checkout-kontrast-farbe-native-apps` — Formulare Checkout Kontrast Farbe Native Apps
-- `pdf-downloads-remediation-roadmap-schulung-rolle` — Pdf Downloads Remediation Roadmap Schulung Rolle
-- `pdf-formulare-automatisierter-audit-bf-kanzleiwebsite` — Pdf Formulare Automatisierter Audit Bf Kanzleiwebsite
-- `scope-bfsg-screenreader-semantik-abnahme` — Scope Bfsg Screenreader Semantik Abnahme
-- `scope-tastatur-wcag` — Scope Tastatur Wcag
-- `sonderfall-edge-roadmap-rolle` — Sonderfall Edge Roadmap Rolle
-- `tastatur-fokus-ueberwachungsstelle-rechtsfolgen-usability-test` — Tastatur Fokus Ueberwachungsstelle Rechtsfolgen Usability Test
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

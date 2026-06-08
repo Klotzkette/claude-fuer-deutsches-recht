@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Vertragsausfüller: trennt fehlende Tatsachen von fehlenden Belegen (Vertragsentwurf, Mustervertrag, Anlagen), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Vertragsausfueller** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `altvertraege-dokumentenmatrix-und-lueckenliste` — Altvertraege Dokumentenmatrix und Lueckenliste
+- `altvertrag-nachziehen` — Altvertrag Nachziehen
+- `ausdruecklicher-fristennotiz-und-naechster-schritt` — Ausdruecklicher Fristennotiz und Naechster Schritt
+- `batch-modus-docx-stripper-einfuehrung` — Batch Modus Docx Stripper Einfuehrung
+- `bsag-mietvertrag-klauselentscheidung` — Bsag Mietvertrag Klauselentscheidung
 - `changes-beweislast-docx-erkennen` — Changes Beweislast Docx Erkennen
-- `erzeugen-red-fassungen-sonderfall-felder` — Erzeugen Red Fassungen Sonderfall Felder
-- `fuehren-interessen-mappen-nachfrage` — Fuehren Interessen Mappen Nachfrage
-- `term-track-vertraege` — Term Track Vertraege
-- `vaf-batch-vaf-docx-vaf-einfuehrung` — Vaf Batch Vaf Docx Vaf Einfuehrung
-- `vaf-bsag-vaf-klauselentscheidung-vaf-konzern` — Vaf Bsag Vaf Klauselentscheidung Vaf Konzern
-- `vaf-clean-output` — Vaf Clean Output
-- `vaf-feldinventar-vaf-fragebogen-vaf-fremdsprachige` — Vaf Feldinventar Vaf Fragebogen Vaf Fremdsprachige
-- `vaf-plausibilitaetscheck-vaf-termsheet-altvertraege` — Vaf Plausibilitaetscheck Vaf Termsheet Altvertraege
-- `vaf-quality-vaf-redline-vaf-rueckfrageninterview` — Vaf Quality Vaf Redline Vaf Rueckfrageninterview
-- `vaf-template-vaf-template-vaf-track` — Vaf Template Vaf Template Vaf Track
-- `vaf-vaf-mehrsprachige-vaf-platzhalterlogik` — Vaf Vaf Mehrsprachige Vaf Platzhalterlogik
-- `vaf-versionierung` — Vaf Versionierung
+- `clean-output` — Clean Output
+- `docx-stripper` — Docx Stripper
+- `docx-tatbestand-beweis-und-belege` — Docx Tatbestand Beweis und Belege
+- `einfuehrung-prozess` — Einfuehrung Prozess
+- `erkennen-schriftsatz-brief-und-memo-bausteine` — Erkennen Schriftsatz Brief und Memo Bausteine
+- `erzeugen-red-fassungen-sonderfall-felder` — Erzeugen RED Fassungen Sonderfall Felder
+- `fassungen-sonderfall-und-edge-case` — Fassungen Sonderfall und Edge Case
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

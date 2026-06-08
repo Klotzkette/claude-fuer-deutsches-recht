@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), markiert Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.), wählt Norm (AufenthG, FreizügG/EU, AsylG, StAG, Aufenthaltsverordnung, EU-Familienzusammenführungs-RL) und Zuständigkeit (Ausländerbehörde), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Fachanwalt Migrationsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-abschiebungsabwehr-sofort-arbeitgeber-arbeitsrecht` — Allgemein Abschiebungsabwehr Sofort Arbeitgeber Arbeitsrecht
-- `arbeitgeberwechsel-asyl-anhoerung-asylg-ausbildungsduldung` — Arbeitgeberwechsel Asyl Anhörung Asylg Ausbildungsduldung
-- `aufenthaltstitel-ausweisung-start-behoerdenkommunikation-blaue` — Aufenthaltstitel Ausweisung Start Behördenkommunikation Blaue
-- `aufenthaltstitel-erstgespraech-mandatsannahme-fachanwalt-asyl` — Aufenthaltstitel Erstgespraech Mandatsannahme Fachanwalt Asyl
-- `ba-zustimmung-beschaeftigungsduldung` — Ba Zustimmung Beschaeftigungsduldung
-- `blaue-karte-blaue-karte-bleiberecht-25a-chancenaufenthalt` — Blaue Karte Blaue Karte Bleiberecht 25a Chancenaufenthalt
-- `botschaft-visumtermin-workflow-chronologie-dokumentenstapel` — Botschaft Visumtermin Chronologie Dokumentenstapel
-- `datenschutz-sicherheit-daueraufenthalt-eu-digitalbeweise-flucht` — Datenschutz Sicherheit Daueraufenthalt Eu Digitalbeweise Flucht
-- `dublin-ueberstellung` — Dublin Ueberstellung
-- `einbuergerung-lebensunterhalt-mehrstaatigkeit-strafen-einreise` — Einbuergerung Lebensunterhalt Mehrstaatigkeit Strafen Einreise
-- `einbuergerung-start-fachkraefte-start` — Einbuergerung Start Fachkraefte Start
-- `eurodac-treffer-fachanwalt` — Eurodac Treffer Fachanwalt
-- `fachanwalt-migrationsrecht-aufenthaltstitel-ausweisung-bamf` — Fachanwalt Migrationsrecht Aufenthaltstitel Ausweisung Bamf
-- `familiennachzug-ehegatte-kind-forscher-ict-freizuegigkeit-eu` — Familiennachzug Ehegatte Kind Forscher Ict Freizuegigkeit Eu
+- `abschiebehaft-paragraf-62-aufenthg` — Abschiebehaft Paragraf 62 Aufenthg
+- `abschiebungsabwehr-sofort-arbeitgeber` — Abschiebungsabwehr Sofort Arbeitgeber
+- `arbeitgeberwechsel-asyl-anhoerung-asylg` — Arbeitgeberwechsel Asyl Anhoerung Asylg
+- `asylantrag-folgeverfahren-paragraf-71-asylg` — Asylantrag Folgeverfahren Paragraf 71 Asylg
+- `aufenthalt-paragraf-25a-aufenthg` — Aufenthalt Paragraf 25A Aufenthg
+- `aufenthaltstitel` — Aufenthaltstitel
+- `aufenthaltstitel-ausweisung-start` — Aufenthaltstitel Ausweisung Start
+- `aufenthaltstitel-erstgespraech-mandatsannahme` — Aufenthaltstitel Erstgespraech Mandatsannahme
+- `ausweisung-paragrafe-53-55-aufenthg` — Ausweisung Paragrafe 53 55 Aufenthg
+- `ba-zustimmung-beschaeftigungsduldung` — BA Zustimmung Beschaeftigungsduldung
+- `blaue-karte-bleiberecht-25a-chancenaufenthalt` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
+- `botschaft-visumtermin-dokumentenstapel` — Botschaft Visumtermin Dokumentenstapel
+- `datenschutz-sicherheit-daueraufenthalt-eu` — Datenschutz Sicherheit Daueraufenthalt EU
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

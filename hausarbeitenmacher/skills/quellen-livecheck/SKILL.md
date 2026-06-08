@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Jura-Hausarbeiten: prüft Normen (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Universitäre Prüfungsämter und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Hausarbeitenmacher** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-hausarbeit-start-workflow-chronologie` — Allgemein Hausarbeit Start Chronologie
-- `aufgabenstellung-erfassen-fachgebiet-routing-gliederung` — Aufgabenstellung Erfassen Fachgebiet Routing Gliederung
+- `adressaten-formular-portal-und-einreichung` — Adressaten Formular Portal und Einreichung
+- `aufgabenstellung-erfassen-fachgebiet` — Aufgabenstellung Erfassen Fachgebiet
 - `ausfluegen-didaktisches-durch` — Ausfluegen Didaktisches Durch
-- `behutsame-frech-haeufige-fehler-selbstkontrolle-abgabe` — Behutsame Frech Haeufige Fehler Selbstkontrolle Abgabe
-- `europarecht-anwendbarkeit-hausarbeiten-bearbeitungsplan` — Europarecht Anwendbarkeit Hausarbeiten Bearbeitungsplan
-- `europarecht-interessen-fertigen-sonderfall-fuehrt` — Europarecht Interessen Fertigen Sonderfall Fuehrt
-- `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden` — Gutachtenstil Vs Haus Fussnotenstil Literaturrecherche Leitfaden
-- `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit` — Haus Plagiatscheck Haus Themaeingrenzung Meinungsstreit
-- `juristische-liefert-beweislast-rechtstheorie` — Juristische Liefert Beweislast Rechtstheorie
-- `methodenlehre-auslegung-öffentliches-statthaft-professor` — Methodenlehre Auslegung Oeffentliches Statthaft Professor
-- `rechtstheorie-rechtsphilosophie-seminararbeit-modus-adressaten` — Rechtstheorie Rechtsphilosophie Seminararbeit Modus Adressaten
-- `schleimerei-seminararbeiten-sokratisch` — Schleimerei Seminararbeiten Sokratisch
-- `strafrecht-zivilrecht-strafrecht-rechtswidrigkeit` — Strafrecht Zivilrecht Strafrecht Rechtswidrigkeit
-- `subsumtion-schritt-verfassungsrecht-grundrechtspruefung` — Subsumtion Schritt Verfassungsrecht Grundrechtspruefung
+- `bearbeitungsplan-erstellen` — Bearbeitungsplan Erstellen
+- `behutsame-frech-haeufige-fehler` — Behutsame Frech Haeufige Fehler
+- `didaktisches-erstpruefung-und-mandatsziel` — Didaktisches Erstpruefung und Mandatsziel
+- `durch-schriftsatz-brief-und-memo-bausteine` — Durch Schriftsatz Brief und Memo Bausteine
+- `europarecht-anwendbarkeit-hausarbeiten` — Europarecht Anwendbarkeit Hausarbeiten
+- `europarecht-interessen-fertigen-sonderfall` — Europarecht Interessen Fertigen Sonderfall
+- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Oeffentlich Straf
+- `fertigen-sonderfall-und-edge-case` — Fertigen Sonderfall und Edge Case
+- `fuehrt-risikoampel-und-gegenargumente` — Fuehrt Risikoampel und Gegenargumente
+- `gliederung-mit-tiefenstruktur` — Gliederung mit Tiefenstruktur
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

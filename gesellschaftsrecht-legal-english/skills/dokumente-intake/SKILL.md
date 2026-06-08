@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Gesellschaftsrecht in legal English: sortiert Articles of Association, Shareholders Agreement, Board Resolutions, prüft Datum, Absender, Frist und Beweiswert (Cap table, Board minutes); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Gesellschaftsrecht Legal English** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `anfaenger-verhandlung-vergleich-und-eskalation` — Anfaenger Verhandlung Vergleich und Eskalation
+- `anschauungsmaterial-multiformat-auswertung` — Anschauungsmaterial Multiformat Auswertung
 - `anti-dilution-articles-association` — Anti Dilution Articles Association
-- `begriffskompass-intake-bgb-at` — Begriffskompass Intake Bgb At
+- `articles-association-satzung` — Articles Association Satzung
+- `begriffskompass-intake-bgb-at` — Begriffskompass Intake BGB AT
+- `bgb-at-schuldrecht-at-im-ma` — BGB AT Schuldrecht AT im MA
 - `business-corporate` — Business Corporate
-- `cap-table-client-explainer` — Cap Table Client Explainer
-- `deutsches-englische-drag-tag` — Deutsches Englische Drag Tag
-- `didaktisches-gesellschafterliste` — Didaktisches Gesellschafterliste
-- `due-diligence-earn-out` — Due Diligence Earn Out
-- `english-anschauungsmaterial-multiformat` — English Anschauungsmaterial Multiformat
-- `exit-spa-financial-debt` — Exit Spa Financial Debt
-- `financing-convertible-fully-diluted` — Financing Convertible Fully Diluted
-- `gesellschaftsrecht-legal` — Gesellschaftsrecht Legal
-- `governance-board-lernpfad-dealroom` — Governance Board Lernpfad Dealroom
-- `liquidation-preference-partner-briefing` — Liquidation Preference Partner Briefing
-- `protective-provisions-qualitaetsgate-corporate` — Protective Provisions Qualitaetsgate Corporate
+- `cap-table-client-explainer` — CAP Table Client Explainer
+- `chronologie-fristen` — Chronologie Fristen
+- `client-explainer-legal-english` — Client Explainer Legal English
+- `corporate-behoerden-gericht-und-registerweg` — Corporate Behoerden Gericht und Registerweg
+- `dealroom-quellenkarte` — Dealroom Quellenkarte
+- `deutsches-englische-drag-tag` — Deutsches Englische Drag TAG
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

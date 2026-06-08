@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Einfache/Leichte Sprache Jura: ordnet Rolle (Adressat mit Lese-/Lernbeeinträchtigung, Anwalt/Behörde, Übersetzer), markiert Frist (keine harten Fristen), wählt Norm (BGG § 11 Leichte Sprache, UN-BRK Art. 9/21, BFSG) und Zuständigkeit (Behörden mit Verständlichkeitspflicht), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Einfache Leichte Sprache Jura** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `leichte-sprache-jura-ls-bescheid-chronologie` — Allgemein Ls Bescheid Chronologie
-- `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
-- `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
-- `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache
-- `elsj-bescheidmodus` — Elsj Bescheidmodus
-- `elsj-betreuung-vormundschaft` — Elsj Betreuung Vormundschaft
-- `elsj-einfache-sprache` — Elsj Einfache Sprache
-- `elsj-familienrecht-erstgespraech` — Elsj Familienrecht Erstgespraech
-- `elsj-familienrecht-erstgespraech-juristische-sicherung` — Elsj Familienrecht Erstgespraech Juristische Sicherung
-- `elsj-juristische-sicherung` — Elsj Juristische Sicherung
-- `elsj-kommandocenter` — Elsj Kommandocenter
-- `elsj-kommunikation-mandant` — Elsj Kommunikation Mandant
-- `elsj-leichte-sprache` — Elsj Leichte Sprache
-- `elsj-leichte-sprache-mietrecht-kuendigungserklaerung` — Elsj Leichte Sprache Mietrecht Kuendigungserklaerung
+- `annaeherung-quellenkarte` — Annaeherung Quellenkarte
+- `aufenthaltsrecht-mandant` — Aufenthaltsrecht Mandant
+- `aufenthaltsrecht-mandant-betreuung` — Aufenthaltsrecht Mandant Betreuung
+- `bauen-fristennotiz-naechster-schritt` — Bauen Fristennotiz Naechster Schritt
+- `bauen-fristennotiz-und-naechster-schritt` — Bauen Fristennotiz und Naechster Schritt
+- `bescheidmodus` — Bescheidmodus
+- `bescheidmodus-02` — Bescheidmodus 02
+- `betreuung-vormundschaft` — Betreuung Vormundschaft
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `einfache-sprache` — Einfache Sprache
+- `experimentelle-glossar-sonderfall-jura` — Experimentelle Glossar Sonderfall Jura
+- `experimentelle-schriftsatz-brief-memo-bausteine` — Experimentelle Schriftsatz Brief Memo Bausteine
+- `familienrecht-erstgespraech` — Familienrecht Erstgespraech
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

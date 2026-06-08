@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fluggastrechte VO 261/2004: sortiert Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, prüft Datum, Absender, Frist und Beweiswert (Boardingpass, Verspätungsdokumentation Flightradar/LBA); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fluggastrechte** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abtretung-an-fluggastportal-spezial` — Abtretung An Fluggastportal Spezial
-- `airline-bonitaet-und-vollstreckung` — Airline Bonitaet Und Vollstreckung
-- `airline-standardausreden-annullierung-verspaetung-anschlussflug` — Airline Standardausreden Annullierung Verspaetung Anschlussflug
-- `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `abtretung-an-fluggastportal-spezial` — Abtretung AN Fluggastportal Spezial
+- `airline-bonitaet-und-vollstreckung` — Airline Bonitaet und Vollstreckung
+- `airline-standardausreden-annullierung` — Airline Standardausreden Annullierung
+- `airline-standardausreden-pruefen` — Airline Standardausreden Pruefen
+- `anlagen-bauen` — Anlagen Bauen
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
-- `anschlussflug-und-reiseplan` — Anschlussflug Und Reiseplan
-- `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Aussergewoehnliche Umstaende
-- `ausnahmen-aussergewoehnliche-umstaende-pruefen` — Ausnahmen Aussergewoehnliche Umstaende Prüfen
-- `aussergewoehnliche-distanz-interessen-erfassen` — Aussergewoehnliche Distanz Interessen Erfassen
-- `aussergewoehnliche-umstaende-strikt` — Aussergewoehnliche Umstaende Strikt
-- `distanz-und-ausgleich-berechnen` — Distanz Und Ausgleich Berechnen
-- `flug-anschlussflug-codeshare-anspruch-uebersicht` — Flug Anschlussflug Codeshare Anspruch Uebersicht
-- `flug-anschlussflug-codeshare-spezial` — Flug Anschlussflug Codeshare Spezial
+- `annullierung-schriftsatz-brief-memo-bausteine` — Annullierung Schriftsatz Brief Memo Bausteine
+- `annullierung-schriftsatz-brief-und-memo-bausteine` — Annullierung Schriftsatz Brief und Memo Bausteine
+- `anschluss-router` — Anschluss Router
+- `anschlussflug-und-reiseplan` — Anschlussflug und Reiseplan
+- `ausgleich-internationaler-bezug-schnittstellen` — Ausgleich Internationaler Bezug Schnittstellen
+- `ausgleich-internationaler-bezug-und-schnittstellen` — Ausgleich Internationaler Bezug und Schnittstellen
+- `ausnahmen-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Umstaende
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

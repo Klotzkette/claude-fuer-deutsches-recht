@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Gewerblicher Rechtsschutz (allgemein): prüft Normen (MarkenG, PatG, GeschmMG, GebrMG, UrhG, UWG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt DPMA und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Gewerblicher Rechtsschutz** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-urheberrecht-erfindungsmeldung-aufnahme-evvollzug` — Abmahnung Urheberrecht Erfindungsmeldung Aufnahme Evvollzug
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anmeldung-spezial-compliance-euipo` — Anmeldung Compliance Euipo
-- `evvollzug-auslandszustellung-ev-abmahnung-abschlussschreiben` — Evvollzug Auslandszustellung Ev Abmahnung Abschlussschreiben
-- `evvollzug-zustellung-durch-bea-einstweiliger` — Evvollzug Zustellung Durch Bea Einstweiliger
-- `freedom-gewerblicher-markenrecherche` — Freedom Gewerblicher Markenrecherche
-- `fto-triage-gewerblicher-rechtsschutz-mandat-arbeitsbereich` — Fto Triage Gewerblicher Rechtsschutz Mandat Arbeitsbereich
-- `gewerblicher-rechtsschutz-kaltstart-interview` — Gewerblicher Rechtsschutz Kaltstart Interview
-- `gewr-einstweilige-dpma-spezial-fristen` — Gewr Einstweilige Dpma Fristen
-- `gewr-geschaeftsgeheimnisgesetz-markenanmeldung-bauleiter-uwg` — Gewr Geschaeftsgeheimnisgesetz Markenanmeldung Bauleiter Uwg
-- `gw-einfuehrung-gw-einstweilige-mandat-triage` — Gw Einfuehrung Gw Einstweilige Mandat Triage
-- `markenanmeldung-dpma-markenrecherche-open-source` — Markenanmeldung Dpma Markenrecherche Open Source
-- `open-operate-reaktion` — Open Operate Reaktion
-- `rechtsschutz-review-sonderfall-source-red` — Rechtsschutz Review Sonderfall Source Red
+- `abmahnung-compliance-dokumentation-und-akte` — Abmahnung Compliance Dokumentation und Akte
+- `abmahnung-urheberrecht-erfindungsmeldung` — Abmahnung Urheberrecht Erfindungsmeldung
+- `anmeldung-spezial-compliance-euipo` — Anmeldung Spezial Compliance Euipo
+- `anpassen` — Anpassen
+- `compliance-mandantenkommunikation-entscheidungsvorlage` — Compliance Mandantenkommunikation Entscheidungsvorlage
+- `dpma-fristen-form-und-zustaendigkeit` — Dpma Fristen Form und Zustaendigkeit
+- `erfindungsmeldung-aufnahme` — Erfindungsmeldung Aufnahme
+- `euipo-dokumentenmatrix-und-lueckenliste` — Euipo Dokumentenmatrix und Lueckenliste
+- `evvollzug-auslandszustellung-ev-abmahnung` — Evvollzug Auslandszustellung EV Abmahnung
+- `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist` — Evvollzug NEU 001 Einstweilige Verfuegung Vollziehung Frist
+- `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust` — Evvollzug NEU 002 Urteilsverfuegung Beschlussverfuegung und Zust
+- `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` — Evvollzug NEU 004 BEA Zustellung Einstweiliger Rechtsschutz Risi
+- `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun` — Evvollzug NEU 005 Ordnungsmittelantrag Vollstreckung Unterlassun
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

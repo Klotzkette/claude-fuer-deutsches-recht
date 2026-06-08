@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-interessen-verkehrsunfall
-description: "Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt Verkehrsrecht: prüft konkret Verkehrsstrafrecht, Verkehrsunfall, Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt Verkehrsrecht: prüft konkret Verkehrsstrafrecht, Verkehrsunfall, Vergleichsverhandlungs-Strategie für Verkehrsrecht Unfall-, OWi- und Verkehrsst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Verkehrsstrafrecht Interessen Verkehrsunfall

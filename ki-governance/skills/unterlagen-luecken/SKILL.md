@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für KI-Governance: trennt fehlende Tatsachen von fehlenden Belegen (Risikobewertung, Konformitätserklärung, Technische Dokumentation), nennt pro Lücke Beweisthema, Beschaffungsweg (KI-Aufsichtsbehörde national), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Ki Governance** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anbieter-mehrparteien-konflikt-und-interessen` — Anbieter Mehrparteien Konflikt und Interessen
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `anwendungsfall-triage` — Anwendungsfall Triage
 - `case-dpia-drift` — Case Dpia Drift
-- `dsgvo-governance-inventar` — Dsgvo Governance Inventar
-- `gpai-modelle-ki-anbieter-arbeitsrecht-mitbestimmung` — Gpai Modelle Ki Anbieter Arbeitsrecht Mitbestimmung
-- `inventar-kontrollen-konformitaetsbewertung-red-marketing` — Inventar Kontrollen Konformitaetsbewertung Red Marketing
-- `ki-folgenabschaetzung-ki-governance-mandat-arbeitsbereich` — Ki Folgenabschaetzung Ki Governance Mandat Arbeitsbereich
-- `ki-governance-kaltstart-interview` — Ki Governance Kaltstart Interview
-- `ki-inventar-marketing-werbung-rote-linien` — Ki Inventar Marketing Werbung Rote Linien
-- `kig-konformitaetsbewertung-risikobewertung-hochrisiko` — Kig Konformitaetsbewertung Risikobewertung Hochrisiko
-- `richtlinien-monitor-vorlage-anbieter-interessen` — Richtlinien Monitor Vorlage Anbieter Interessen
-- `rollen-rasci-hochrisiko-anhang-incident-management` — Rollen Rasci Hochrisiko Anhang Incident Management
-- `rollenmodell-use-case-vendor` — Rollenmodell Use Case Vendor
-- `triage-haftung-versicherung-anwendungsfall-triage` — Triage Haftung Versicherung Anwendungsfall Triage
-- `vo-pflichtenpyramide-kig-ai-kig-foundation` — Vo Pflichtenpyramide Kig Ai Kig Foundation
+- `dpia-risikoampel-und-gegenargumente` — Dpia Risikoampel und Gegenargumente
+- `drift-verhandlung-vergleich-und-eskalation` — Drift Verhandlung Vergleich und Eskalation
+- `dsgvo-governance-inventar` — DSGVO Governance Inventar
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `governance-compliance-dokumentation-und-akte` — Governance Compliance Dokumentation und Akte
+- `gpai-modelle-ki-anbieter-arbeitsrecht` — Gpai Modelle KI Anbieter Arbeitsrecht
+- `inventar-dokumentenmatrix-und-lueckenliste` — Inventar Dokumentenmatrix und Lueckenliste
+- `inventar-kontrollen-konformitaetsbewertung` — Inventar Kontrollen Konformitaetsbewertung
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

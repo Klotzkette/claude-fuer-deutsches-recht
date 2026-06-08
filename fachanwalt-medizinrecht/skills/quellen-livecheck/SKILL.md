@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Fachanwalt Medizinrecht: prüft Normen (BGB §§ 630a ff. Behandlungsvertrag, AMG, MPDG, SGB V, BÄO, MBO-Ä) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt LG (Arzthaftung) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Fachanwalt Medizinrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `aerzte-quellenkarte` — Aerzte Quellenkarte
 - `aerztewerbung-innovative-amnog-millionen` — Aerztewerbung Innovative Amnog Millionen
-- `anaesthesie-hochrisiko-approbation-digitales-arzt-anstellung` — Anaesthesie Hochrisiko Approbation Digitales Arzt Anstellung
-- `apothekenrecht-interessen-aufklaerung-beweislast` — Apothekenrecht Interessen Aufklaerung Beweislast
-- `atmp-chain-atmp-classification` — Atmp Chain Atmp Classification
-- `atmp-pharmakovigilanz-aufklaerungsfehler-beweisstrategie` — Atmp Pharmakovigilanz Aufklaerungsfehler Beweisstrategie
+- `anaesthesie-hochrisiko-approbation-digitales` — Anaesthesie Hochrisiko Approbation Digitales
+- `apothekenrecht-arzneimittel-paragraf-78-amg` — Apothekenrecht Arzneimittel Paragraf 78 AMG
+- `apothekenrecht-interessen-aufklaerung` — Apothekenrecht Interessen Aufklaerung
+- `arzthaftung-aufklaerung-bgb` — Arzthaftung Aufklaerung BGB
+- `atmp-chain-classification` — Atmp Chain Classification
+- `atmp-pharmakovigilanz-aufklaerungsfehler` — Atmp Pharmakovigilanz Aufklaerungsfehler
 - `aufklaerungsfehler-behandlungsfehler` — Aufklaerungsfehler Behandlungsfehler
-- `berufsrecht-bgb-einwilligung-sonderfall-fachanwalt` — Berufsrecht Bgb Einwilligung Sonderfall Fachanwalt
+- `aufklaerungspflicht-paragraf-630e-bgb` — Aufklaerungspflicht Paragraf 630e BGB
+- `behandlungsfehler-paragraf-630h-bgb` — Behandlungsfehler Paragraf 630h BGB
+- `berufsrecht-bgb-einwilligung-sonderfall` — Berufsrecht BGB Einwilligung Sonderfall
 - `beweislast-hightech-biobank-consent` — Beweislast Hightech Biobank Consent
-- `cannabis-medizinisch-combined-atmp-companion-diagnostic` — Cannabis Medizinisch Combined Atmp Companion Diagnostic
-- `car-t-diga-hersteller` — Car T Diga Hersteller
-- `crispr-base-cybersecurity-medizinprodukt` — Crispr Base Cybersecurity Medizinprodukt
-- `dokumentationsaudit-630f-einwilligungsunfaehigkeit-ablehnung` — Dokumentationsaudit 630f Einwilligungsunfaehigkeit Ablehnung
-- `epa-befuellpflicht-impfschaden-arzthaftung-medr-checkliste` — Epa Befuellpflicht Impfschaden Arzthaftung Medr Checkliste
-- `experimentelle-behandlung-fachanwalt-medizinrecht-honorarvertrag` — Experimentelle Behandlung Fachanwalt Medizinrecht Honorarvertrag
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

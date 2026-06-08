@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für DFG-Förderantrag: ordnet Rolle (Antragsteller, DFG-Gutachter, Universitätsleitung), markiert Frist (Antragsfrist Ausschreibungstermin), wählt Norm (DFG-Verwendungsrichtlinien, Wissenschaftsfreiheit Art. 5 III GG) und Zuständigkeit (Deutsche Forschungsgemeinschaft), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Dfg Foerderantrag** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anfaenger-antraege-dfg` — Anfaenger Antraege Dfg
-- `dfg-bis-200k-begutachtung-light` — Dfg Bis 200k Begutachtung Light
-- `dfg-eigenanteil-und-grundausstattung` — Dfg Eigenanteil Und Grundausstattung
-- `dfg-eigene-vorarbeiten-darstellen` — Dfg Eigene Vorarbeiten Darstellen
-- `dfg-erstantragsteller-besondere-checks` — Dfg Erstantragsteller Besondere Checks
-- `dfg-finanzplan-module-personal-geraete` — Dfg Finanzplan Module Personal Geraete
-- `dfg-foerderstrategie-schnell-oder-gross` — Dfg Foerderstrategie Schnell Oder Gross
-- `dfg-grossgeraete-und-cluster-antrag` — Dfg Grossgeraete Und Cluster Antrag
-- `dfg-grundsystem-foerderlinien` — Dfg Grundsystem Foerderlinien
-- `dfg-internationale-kooperation-aufbau` — Dfg Internationale Kooperation Aufbau
-- `dfg-ki-ethik-forschungsdaten` — Dfg Ki Ethik Forschungsdaten
-- `dfg-kollegen-review-organisieren` — Dfg Kollegen Review Organisieren
-- `dfg-koselleck-500k-125m` — Dfg Koselleck 500k 125m
+- `adaptive-dokumentenmatrix-lueckenliste` — Adaptive Dokumentenmatrix Lueckenliste
+- `adaptive-dokumentenmatrix-und-lueckenliste` — Adaptive Dokumentenmatrix und Lueckenliste
+- `anfaenger-antraege-dfg` — Anfaenger Antraege DFG
+- `anfaenger-risikoampel-gegenargumente` — Anfaenger Risikoampel Gegenargumente
+- `antraege-zahlen-schwellen-und-berechnung` — Antraege Zahlen Schwellen und Berechnung
+- `antraege-zahlen-schwellenwerte-berechnung` — Antraege Zahlen Schwellenwerte Berechnung
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `dfg-bis-200k-begutachtung-light` — DFG BIS 200k Begutachtung Light
+- `dfg-eigenanteil-und-grundausstattung` — DFG Eigenanteil und Grundausstattung
+- `dfg-eigene-vorarbeiten-darstellen` — DFG Eigene Vorarbeiten Darstellen
+- `dfg-erstantragsteller-besondere-checks` — DFG Erstantragsteller Besondere Checks
+- `dfg-erstpruefung-und-mandatsziel` — DFG Erstpruefung und Mandatsziel
+- `dfg-finanzplan-module-personal-geraete` — DFG Finanzplan Module Personal Geraete
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 

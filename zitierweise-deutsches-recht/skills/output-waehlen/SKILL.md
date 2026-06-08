@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Zitierweise im deutschen Recht: Diese Output-Weiche für Zitierweise Deutsches Recht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Zitierweise deutsches Recht: stimmt Adressat (Autor, Korrektor, Mandant), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Zitiernachweis, Quellenverzeichnis, Korrektur falsch zitierter Stellen."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Zitierweise im deutschen Recht: Diese Output-Wei
 
 Diese Output-Weiche für **Zitierweise Deutsches Recht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aktenzeichen-schriftsatz-brief-und-memo-bausteine` — Aktenzeichen Schriftsatz Brief und Memo Bausteine
+- `aufsatz-interessen` — Aufsatz Interessen
 - `aufsatz-interessen-beckrs-blindzitate` — Aufsatz Interessen Beckrs Blindzitate
-- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Gericht
+- `beckrs-zahlen-schwellen-und-berechnung` — Beckrs Zahlen Schwellen und Berechnung
+- `blindzitate-internationaler-bezug-und-schnittstellen` — Blindzitate Internationaler Bezug und Schnittstellen
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Spezial Gericht
+- `entscheidungsform-risikoampel-und-gegenargumente` — Entscheidungsform Risikoampel und Gegenargumente
+- `fristen-und-risikoampel` — Fristen und Risikoampel
+- `gericht-dokumentenmatrix-und-lueckenliste` — Gericht Dokumentenmatrix und Lueckenliste
 - `hauszitierweise-juristische-kommentar` — Hauszitierweise Juristische Kommentar
-- `literatur-live-beweislast-lizenziertem` — Literatur Live Beweislast Lizenziertem
-- `rechtsprechung-zit-rechtsprechungszitierung-zitat-eugh` — Rechtsprechung Zit Rechtsprechungszitierung Zitat Eugh
-- `verifizierbarer-zugriff-sonderfall-zit-gesetzeszitierung` — Verifizierbarer Zugriff Sonderfall Zit Gesetzeszitierung
-- `zit-gesetzeszitierung-bauleiter` — Zit Gesetzeszitierung Bauleiter
-- `zit-internationale-urteile-spezial` — Zit Internationale Urteile Spezial
-- `zit-internationale-zit-kommentar-zitat-amtliche` — Zit Internationale Zit Kommentar Zitat Amtliche
-- `zit-kommentar-aufsatzzitierung-spezial` — Zit Kommentar Aufsatzzitierung Spezial
-- `zit-rechtsprechungszitierung-leitfaden` — Zit Rechtsprechungszitierung Leitfaden
-- `zitat-amtliche-sammlung-vs-zeitschrift` — Zitat Amtliche Sammlung Vs Zeitschrift
-- `zitat-archivierungspflicht` — Zitat Archivierungspflicht
+- `juristische-erstpruefung-und-mandatsziel` — Juristische Erstpruefung und Mandatsziel
+- `kaltstart-triage` — Kaltstart Triage
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 

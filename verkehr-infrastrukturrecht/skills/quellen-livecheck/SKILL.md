@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Verkehr-Infrastrukturrecht: prüft Normen (FStrG, AEG, PBefG, BFStrG, VwVfG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Eisenbahn-BBundesamt und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Verkehr Infrastrukturrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anschluss-router` — Anschluss Router
+- `autonomous-driving` — Autonomous Driving
 - `autonomous-driving-interessen-grossprojekt` — Autonomous Driving Interessen Grossprojekt
-- `foerderung-vergabe-ladeinfrastruktur-planfeststellung` — Förderung Vergabe Ladeinfrastruktur Planfeststellung
-- `infrastruktur-foerderung-nachhaltige-bahninfrastruktur` — Infrastruktur Förderung Nachhaltige Bahninfrastruktur
+- `autonomous-driving-strassenrecht` — Autonomous Driving Strassenrecht
+- `buergerentscheid-strassenbahn-spezial` — Buergerentscheid Strassenbahn Spezial
+- `driving-mehrparteien-konflikt-und-interessen` — Driving Mehrparteien Konflikt und Interessen
+- `foerderung-vergabe-ladeinfrastruktur` — Foerderung Vergabe Ladeinfrastruktur
+- `grossprojekt-zahlen-schwellen-und-berechnung` — Grossprojekt Zahlen Schwellen und Berechnung
+- `infrastruktur-foerderung-nachhaltige` — Infrastruktur Foerderung Nachhaltige
 - `infrastrukturrecht-intake-ladeinfrastruktur` — Infrastrukturrecht Intake Ladeinfrastruktur
-- `livecheck-sonderfall-mobilitaetsprojekt-intake` — Livecheck Sonderfall Mobilitaetsprojekt Intake
-- `parkraum-planfeststellung-strassenbahn` — Parkraum Planfeststellung Strassenbahn
-- `parkraumbewirtschaftung-verkehr-infrastrukturrecht` — Parkraumbewirtschaftung Verkehr Infrastrukturrecht
-- `schulwegsicherheit-sondernutzung-strassenbahn` — Schulwegsicherheit Sondernutzung Strassenbahn
-- `strassenrecht-verkehrs-verkehrswende` — Strassenrecht Verkehrs Verkehrswende
-- `verkehr-infrastrukturrecht-autonomous-driving-buergerentscheid` — Verkehr Infrastrukturrecht Autonomous Driving Buergerentscheid
-- `verkehrsplanung-verfahren-vertragsmodell-strasse` — Verkehrsplanung Verfahren Vertragsmodell Strasse
-- `verkehrsplanung-verkehrswende-wirtschaftsverkehr` — Verkehrsplanung Verkehrswende Wirtschaftsverkehr
-- `vi-rechtsquellen-uebersicht` — Vi Rechtsquellen Uebersicht
+- `intake-mandantenkommunikation-entscheidungsvorlage` — Intake Mandantenkommunikation Entscheidungsvorlage
+- `ladeinfrastruktur` — Ladeinfrastruktur
+- `ladeinfrastruktur-behoerden-gericht-und-registerweg` — Ladeinfrastruktur Behoerden Gericht und Registerweg
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

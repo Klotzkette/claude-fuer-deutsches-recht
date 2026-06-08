@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Gesellschaftsgründung: trennt fehlende Tatsachen von fehlenden Belegen (Gesellschaftsvertrag, Notarurkunde, Liste Gesellschafter), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsregister AG), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Gesellschaftsgruender** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `egbr-mopeg-gesellschaftsgruender-familiengesellschaft` — Egbr Mopeg Gesellschaftsgruender Familiengesellschaft
-- `geschaeftsordnung-gf-gesellschafterstreit-eilantraege` — Geschaeftsordnung Gf Gesellschafterstreit Eilantraege
-- `gesellschaftsgruender-anfaenger-kaltstart` — Gesellschaftsgruender Anfaenger Kaltstart
-- `gesellschaftsgruender-bankkonto-kyc-beirat-advisory-bilinguale` — Gesellschaftsgruender Bankkonto Kyc Beirat Advisory Bilinguale
-- `gesellschaftsgruender-cashburn-insolvenzfruehwarnung-checkliste` — Gesellschaftsgruender Cashburn Insolvenzfruehwarnung Checkliste
-- `gesellschaftsgruender-freiberufler-partg-gbr-ohg-genehmigtes` — Gesellschaftsgruender Freiberufler Partg Gbr Ohg Genehmigtes
-- `gesellschaftsgruender-gesellschafterliste-qualitygate` — Gesellschaftsgruender Gesellschafterliste Qualitygate
-- `gesellschaftsgruender-gmbh-vorbereitung-golden-share-gv` — Gesellschaftsgruender Gmbh Vorbereitung Golden Share Gv
-- `gesellschaftsgruender-handelsregister-anmeldung-ihk-investor-dd` — Gesellschaftsgruender Handelsregister Anmeldung Ihk Investor Dd
-- `gesellschaftsgruender-lizenz-vertriebsstart-lohn-payroll` — Gesellschaftsgruender Lizenz Vertriebsstart Lohn Payroll
-- `gesellschaftsgruender-musterprotokoll-vs-notar-vorbereitung` — Gesellschaftsgruender Musterprotokoll Vs Notar Vorbereitung
-- `gesellschaftsgruender-open-source-plain-language-reguliertes` — Gesellschaftsgruender Open Source Plain Language Reguliertes
-- `gesellschaftsgruender-redteam-gruendungspaket` — Gesellschaftsgruender Redteam Gruendungspaket
-- `gesellschaftsgruender-steuerliche-erfassung-treuhand-nominee` — Gesellschaftsgruender Steuerliche Erfassung Treuhand Nominee
+- `ag-kleine-ag` — AG Kleine AG
+- `anfaenger-kaltstart` — Anfaenger Kaltstart
+- `aufloesung-liquidation-start` — Aufloesung Liquidation Start
+- `auslandsgesellschafter-kyc` — Auslandsgesellschafter KYC
+- `bankkonto-kyc-beirat` — Bankkonto KYC Beirat
+- `beirat-advisory-board` — Beirat Advisory Board
+- `bilinguale-dokumente` — Bilinguale Dokumente
+- `board-pack-erste-100-tage` — Board Pack Erste 100 Tage
+- `cap-table` — CAP Table
+- `cashburn` — Cashburn
+- `checkliste-vor-unterschrift` — Checkliste vor Unterschrift
+- `daten-und-ki-compliance-start` — Daten und KI Compliance Start
+- `deadlock-und-mediation` — Deadlock und Mediation
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

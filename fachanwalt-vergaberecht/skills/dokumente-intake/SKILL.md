@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fachanwalt Vergaberecht: sortiert Vergabeunterlagen, Angebot, Wertungsvermerk, prüft Datum, Absender, Frist und Beweiswert (Submissionsprotokoll, Vergabeakten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fachanwalt Vergaberecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `bieterstrategie-go-eforms-ted-eignung-referenzen-erstgespraech` — Bieterstrategie Go Eforms Ted Eignung Referenzen Erstgespraech
-- `fachanwalt-vergaberecht-aufklaerung-nachforderung-ruege-zuschlag` — Fachanwalt Vergaberecht Aufklaerung Nachforderung Ruege Zuschlag
-- `fachanwalt-vergaberecht-facto-eignungspruefung-freiberufliche` — Fachanwalt Vergaberecht Facto Eignungspruefung Freiberufliche
-- `fachanwalt-vergaberecht-olg-orientierung-ruegeschriftsatz-gwb` — Fachanwalt Vergaberecht Olg Orientierung Ruegeschriftsatz Gwb
-- `it-sicherheits-konzessionsvergabe-konzvgv-losbildung` — It Sicherheits Konzessionsvergabe Konzvgv Losbildung
-- `konzvgv-rahmenvereinbarung-international-schnittstelle-sektvo` — Konzvgv Rahmenvereinbarung International Schnittstelle Sektvo
-- `mandantenpadlet-vergabe-triage-vergaberecht-nachhaltigkeit` — Mandantenpadlet Vergabe Triage Vergaberecht Nachhaltigkeit
-- `olg-vergabesenat-resilienz-sicherheit-ruegeschriftsatz-erstellen` — Olg Vergabesenat Resilienz Sicherheit Ruegeschriftsatz Erstellen
-- `rahmenvereinbarung-abrufe-angebotsoeffnung-formfehler` — Rahmenvereinbarung Abrufe Angebotsoeffnung Formfehler
-- `schwellenwerte-livecheck-architektenrecht-fachanwalt-konzession` — Schwellenwerte Livecheck Architektenrecht Fachanwalt Konzession
-- `ungewoehnlich-niedriges-unterschwellen-rechtsschutz-verg` — Ungewoehnlich Niedriges Unterschwellen Rechtsschutz Verg
-- `uvgo-unterschwellenvergabe-vergabesperre-korruption-vk` — Uvgo Unterschwellenvergabe Vergabesperre Korruption Vk
-- `verg-interessen-vergabe-vergabekammer-vergaberecht` — Verg Interessen Vergabe Vergabekammer Vergaberecht
-- `verg-nachpruefungsverfahren-vergabeverfahren-bauleiter` — Verg Nachpruefungsverfahren Vergabeverfahren Bauleiter
+- `aufklaerung` — Aufklaerung
+- `ausschluss-bieter-paragraf-124-gwb` — Ausschluss Bieter Paragraf 124 GWB
+- `bieterstrategie-go-eforms-ted-eignung` — Bieterstrategie GO Eforms TED Eignung
+- `eignungskriterien-paragraf-122-gwb` — Eignungskriterien Paragraf 122 GWB
+- `eu-schwelle-vergabeordnung-richtlinie-2014-24` — EU Schwelle Vergabeordnung Richtlinie 2014 24
+- `facto` — Facto
+- `facto-vergabe` — Facto Vergabe
+- `it-sicherheits-konzessionsvergabe-konzvgv` — IT Sicherheits Konzessionsvergabe Konzvgv
+- `kaltstart-triage` — Kaltstart Triage
+- `konzvgv-rahmenvereinbarung-international` — Konzvgv Rahmenvereinbarung International
+- `mandantenpadlet-vergabe-triage-vergaberecht` — Mandantenpadlet Vergabe Triage Vergaberecht
+- `nachpruefungsverfahren-paragraf-160-gwb` — Nachpruefungsverfahren Paragraf 160 GWB
+- `nebenabrede-paragraf-58-vgv` — Nebenabrede Paragraf 58 VGV
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

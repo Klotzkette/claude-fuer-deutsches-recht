@@ -1,6 +1,6 @@
 ---
 name: orientierung-hgr-dlt-hgesr
-description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Handels- und, EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich, Grenzueberschreitende Formwechsel und Sitzverlegung nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Handels- und, EU-DLT-Pilotregime VO 2022/858 anwendbar 23.3.2023, verlängert voraussichtlich, Grenzueberschreitende Formwechsel und Sitzverlegung nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Orientierung HGR DLT Hgesr

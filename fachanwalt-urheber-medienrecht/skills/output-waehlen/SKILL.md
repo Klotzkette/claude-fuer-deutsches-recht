@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Fachanwalt Urheber Medienrecht: Diese Output-Weiche für Fachanwalt Urheber Medienrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Fachanwalt Urheber- und Medienrecht: stimmt Adressat (Urheber/Rechteinhaber, Verwerter/Nutzer, Plattform), Frist (Verjährung 3 Jahre § 102 UrhG) und Form auf den Zweck ab — typische Outputs: Abmahnung, Klage Unterlassung/Schadensersatz, Lizenzvertrag."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Fachanwalt Urheber Medienrecht: Diese Out
 
 Diese Output-Weiche für **Fachanwalt Urheber Medienrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht` — Erstgespraech Mandatsannahme Fachanwalt Urheber Medienrecht
+- `erstgespraech-mandatsannahme-fachanwalt` — Erstgespraech Mandatsannahme Fachanwalt
+- `fa-urheber-medien-mandant-redteam-gate` — FA Urheber Medien Mandant Redteam Gate
+- `fa-urheber-medien-start-chronologie-fristen` — FA Urheber Medien Start Chronologie Fristen
 - `fachanwalt-gewerblicher-kanzlei` — Fachanwalt Gewerblicher Kanzlei
-- `gegendarstellung-presse-mandat-triage-schriftsatzkern` — Gegendarstellung Presse Mandat Triage Schriftsatzkern
-- `gegendarstellung-presse-mod-erklaerung-orientierung` — Gegendarstellung Presse Mod Erklaerung Orientierung
-- `medienrecht-lizenzvertrag-urhmr-urhebervertrag` — Medienrecht Lizenzvertrag Urhmr Urhebervertrag
-- `medienverfuegung-beweislast-persoenlichkeitsrecht` — Medienverfuegung Beweislast Persoenlichkeitsrecht
-- `presse-gegendarstellung-schiedsstelle-dpma-tdm-44b` — Presse Gegendarstellung Schiedsstelle Dpma Tdm 44b
-- `presse-presserecht-rechtsschutz-interessen` — Presse Presserecht Rechtsschutz Interessen
-- `urhmr-einfuehrung-rechtsfelder-ki-generierter` — Urhmr Einfuehrung Rechtsfelder Ki Generierter
-- `urhmr-presserecht-gegendarstellung-presserechtsbrief-leitfaden` — Urhmr Presserecht Gegendarstellung Presserechtsbrief Leitfaden
-- `vergleichsverhandlung-strategie` — Vergleichsverhandlung Strategie
-- `verlagsredaktion-international-urheber-abmahnung-urhmr-deepfake` — Verlagsredaktion International Urheber Abmahnung Urhmr Deepfake
+- `filesharing-stoererhaftung` — Filesharing Stoererhaftung
+- `filmrecht-paragraf-89-urhg` — Filmrecht Paragraf 89 Urhg
+- `gegendarstellung-fehlerkatalog` — Gegendarstellung Fehlerkatalog
+- `gegendarstellung-presse-mandat-triage` — Gegendarstellung Presse Mandat Triage
+- `gegendarstellung-presse-mod-erklaerung` — Gegendarstellung Presse MOD Erklaerung
+- `link-haftung-paragraf-7-tmg` — Link Haftung Paragraf 7 TMG
+- `medienrecht-lizenzvertrag-urhmr` — Medienrecht Lizenzvertrag Urhmr
+- `medienstaatsvertrag-quellenkarte` — Medienstaatsvertrag Quellenkarte
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studierender, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Hausarbeitenmacher** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-hausarbeit-start-workflow-chronologie` — Allgemein Hausarbeit Start Chronologie
-- `aufgabenstellung-erfassen-fachgebiet-routing-gliederung` — Aufgabenstellung Erfassen Fachgebiet Routing Gliederung
+- `adressaten-formular-portal-und-einreichung` — Adressaten Formular Portal und Einreichung
+- `aufgabenstellung-erfassen-fachgebiet` — Aufgabenstellung Erfassen Fachgebiet
 - `ausfluegen-didaktisches-durch` — Ausfluegen Didaktisches Durch
-- `behutsame-frech-haeufige-fehler-selbstkontrolle-abgabe` — Behutsame Frech Haeufige Fehler Selbstkontrolle Abgabe
-- `europarecht-anwendbarkeit-hausarbeiten-bearbeitungsplan` — Europarecht Anwendbarkeit Hausarbeiten Bearbeitungsplan
-- `europarecht-interessen-fertigen-sonderfall-fuehrt` — Europarecht Interessen Fertigen Sonderfall Fuehrt
-- `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden` — Gutachtenstil Vs Haus Fussnotenstil Literaturrecherche Leitfaden
-- `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit` — Haus Plagiatscheck Haus Themaeingrenzung Meinungsstreit
-- `juristische-liefert-beweislast-rechtstheorie` — Juristische Liefert Beweislast Rechtstheorie
-- `methodenlehre-auslegung-öffentliches-statthaft-professor` — Methodenlehre Auslegung Oeffentliches Statthaft Professor
-- `rechtstheorie-rechtsphilosophie-seminararbeit-modus-adressaten` — Rechtstheorie Rechtsphilosophie Seminararbeit Modus Adressaten
-- `schleimerei-seminararbeiten-sokratisch` — Schleimerei Seminararbeiten Sokratisch
-- `strafrecht-zivilrecht-strafrecht-rechtswidrigkeit` — Strafrecht Zivilrecht Strafrecht Rechtswidrigkeit
-- `subsumtion-schritt-verfassungsrecht-grundrechtspruefung` — Subsumtion Schritt Verfassungsrecht Grundrechtspruefung
+- `bearbeitungsplan-erstellen` — Bearbeitungsplan Erstellen
+- `behutsame-frech-haeufige-fehler` — Behutsame Frech Haeufige Fehler
+- `didaktisches-erstpruefung-und-mandatsziel` — Didaktisches Erstpruefung und Mandatsziel
+- `durch-schriftsatz-brief-und-memo-bausteine` — Durch Schriftsatz Brief und Memo Bausteine
+- `europarecht-anwendbarkeit-hausarbeiten` — Europarecht Anwendbarkeit Hausarbeiten
+- `europarecht-interessen-fertigen-sonderfall` — Europarecht Interessen Fertigen Sonderfall
+- `fachgebiet-routing-zivil-oeffentlich-straf` — Fachgebiet Routing Zivil Oeffentlich Straf
+- `fertigen-sonderfall-und-edge-case` — Fertigen Sonderfall und Edge Case
+- `fuehrt-risikoampel-und-gegenargumente` — Fuehrt Risikoampel und Gegenargumente
+- `gliederung-mit-tiefenstruktur` — Gliederung mit Tiefenstruktur
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

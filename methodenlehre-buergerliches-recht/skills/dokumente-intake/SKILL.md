@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Methodenlehre Bürgerliches Recht: sortiert Norm-/Gesetzestext, Rechtsprechung, Kommentare, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Methodenlehre Buergerliches Recht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
-- `abwaegung-material-abwaegungslast-non-argumentum-figuren` — Abwaegung Material Abwaegungslast Non Argumentum Figuren
+- `abwaegung-material-abwaegungslast-non` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl
-- `abwaegungslast-non-liquet` — Abwaegungslast Non Liquet
-- `abwaegungszuständigkeit-institutionen` — Abwaegungszuständigkeit Institutionen
-- `abwaegungszuständigkeit-institutionen-buergerlichen-verjaehrung` — Abwaegungszuständigkeit Institutionen Buergerlichen Verjährung
-- `analogie-und-teleologische-reduktion` — Analogie Und Teleologische Reduktion
-- `anspruchsgrundlagen-anwaltsperspektive-auslegung-buergerliches` — Anspruchsgrundlagen Anwaltsperspektive Auslegung Buergerliches
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Argumentum Figuren E Contrario A Maiore A Fortiori
+- `abwaegungslast-non-liquet` — Abwaegungslast NON Liquet
+- `abwaegungszustaendigkeit` — Abwaegungszustaendigkeit
+- `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit Institutionen
+- `analogie-und-teleologische-reduktion` — Analogie und Teleologische Reduktion
+- `anspruchsgrundlagen-anwaltsperspektive` — Anspruchsgrundlagen Anwaltsperspektive
+- `argumentum-figuren-e-contrario-a-maiore-a` — Argumentum Figuren E Contrario A Maiore A
 - `auslegung-rechtsfortbildung-grenzprotokoll` — Auslegung Rechtsfortbildung Grenzprotokoll
-- `begruendung-anhoerung-und-adressatenfaehigkeit` — Begruendung Anhörung Und Adressatenfaehigkeit
-- `bverfg-grenzen-diskurstheorie-habermas-dworkin-prinzipien` — Bverfg Grenzen Diskurstheorie Habermas Dworkin Prinzipien
-- `bverfg-grenzen-richterlicher-rechtsfortbildung` — Bverfg Grenzen Richterlicher Rechtsfortbildung
-- `diskurstheorie-habermas-alexy` — Diskurstheorie Habermas Alexy
+- `begruendung-anhoerung-adressatenfaehigkeit` — Begruendung Anhoerung Adressatenfaehigkeit
+- `bverfg-grenzen-diskurstheorie-habermas` — Bverfg Grenzen Diskurstheorie Habermas
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Regelungs- und Quellenanker
 

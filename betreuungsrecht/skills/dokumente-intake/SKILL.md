@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Betreuungsrecht: sortiert Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht, prüft Datum, Absender, Frist und Beweiswert (Ärztliches Gutachten, Persönliche Anhörung Betroffener); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Betreuungsrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anschluss-router` — Anschluss Router
 - `aufgabenkreise-festlegen` — Aufgabenkreise Festlegen
 - `bericht-betreuer-betreuerpflichten` — Bericht Betreuer Betreuerpflichten
-- `betreuer-als-erbe` — Betreuer Als Erbe
-- `betreuer-als-registrierung-betreuung-anwaltskosten` — Betreuer Als Registrierung Betreuung Anwaltskosten
+- `bericht-mandantenkommunikation` — Bericht Mandantenkommunikation
+- `betreuer-als-erbe` — Betreuer ALS Erbe
 - `betreuer-registrierung` — Betreuer Registrierung
-- `betreuerpflichten-genehmigung-betreuung-interessen` — Betreuerpflichten Genehmigung Betreuung Interessen
-- `betreuung-anwaltskosten-rvg` — Betreuung Anwaltskosten Rvg
-- `betreuung-bei-demenz` — Betreuung Bei Demenz
-- `betreuung-demenz-erbe-werden-erwachsene-kinder` — Betreuung Demenz Erbe Werden Erwachsene Kinder
-- `betreuung-erbe-werden` — Betreuung Erbe Werden
-- `betreuung-für-erwachsene-kinder` — Betreuung Für Erwachsene Kinder
-- `betreuung-grenzueberschreitend` — Betreuung Grenzueberschreitend
-- `betreuung-grenzueberschreitend-betreuungsantrag-erstellen` — Betreuung Grenzueberschreitend Betreuungsantrag Erstellen
+- `betreuer-registrierung-betreuung` — Betreuer Registrierung Betreuung
+- `betreuer-zahlen-schwellen-und-berechnung` — Betreuer Zahlen Schwellen und Berechnung
+- `betreuer-zahlen-schwellenwerte-berechnung` — Betreuer Zahlen Schwellenwerte Berechnung
+- `betreuerpflichten-alltag` — Betreuerpflichten Alltag
+- `betreuerpflichten-formular-portal-und-einreichung` — Betreuerpflichten Formular Portal und Einreichung
+- `betreuerpflichten-genehmigung-bericht` — Betreuerpflichten Genehmigung Bericht
+- `betreuerpflichten-genehmigung-betreuung` — Betreuerpflichten Genehmigung Betreuung
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Normenanker
 

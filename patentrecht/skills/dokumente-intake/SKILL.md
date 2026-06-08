@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Patentrecht (Verfahren, Verletzung): sortiert Patentschrift, Einspruchsschrift, Verletzungsanalyse, prüft Datum, Absender, Frist und Beweiswert (Stand-der-Technik-Dokumente, FTO-Analyse); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,23 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `beschreibung-zeichnungen-einspruch-epa-epo-epue` — Beschreibung Zeichnungen Einspruch Epa Epo Epue
-- `erfinderbenennung-arbeitnehmererfindung-erfindungsmeldung` — Erfinderbenennung Arbeitnehmererfindung Erfindungsmeldung
-- `gebrauchsmuster-patent-patentrechts-laendercheck-israel` — Gebrauchsmuster Patent Patentrechts Ländercheck Israel
-- `japan-jpo-kanada-cipo-loeschung-widerruf` — Japan Jpo Kanada Cipo Löschung Widerruf
-- `neuheit-erfinderische-patentprozess-besichtigung-claim` — Neuheit Erfinderische Patentprozess Besichtigung Claim
-- `patentlizenzvertrag-drafting-patentlizenzvertrag-review` — Patentlizenzvertrag Drafting Patentlizenzvertrag Review
-- `patentprozess-auskunft-patentportfolio-technikstrategie` — Patentprozess Auskunft Patentportfolio Technikstrategie
-- `patentprozess-einstweilige-verfuegung-experten-sachverstaendige` — Patentprozess Einstweilige Verfuegung Experten Sachverstaendige
-- `patentprozess-negative-patentprozess-schutzschrift` — Patentprozess Negative Patentprozess Schutzschrift
-- `patentrecht-kaltstart-interview` — Patentrecht Kaltstart Interview
-- `patentrecht-redteam-qualitygate` — Patentrecht Redteam Qualitygate
-- `patentrechts-tuerkei-turkpatent-uk-patents` — Patentrechts Tuerkei Turkpatent Uk Patents
-- `patentverletzung-claim-patr2-arbeitnehmererfindung-patr2` — Patentverletzung Claim Patr2 Arbeitnehmererfindung Patr2
-- `patr2-zwangslizenz-pct-laenderstrategie-pruefungsbescheid-dpma` — Patr2 Zwangslizenz Pct Länderstrategie Pruefungsbescheid Dpma
+- `abmahnung-patentverletzung-verteidigung` — Abmahnung Patentverletzung Verteidigung
+- `anspruchsentwurf-dokumentenmatrix-und-lueckenliste` — Anspruchsentwurf Dokumentenmatrix und Lueckenliste
+- `beschreibung-zeichnungen-einspruch-epa-epo` — Beschreibung Zeichnungen Einspruch EPA EPO
+- `einspruch-epa-und-nichtigkeit-bpatg` — Einspruch EPA und Nichtigkeit Bpatg
+- `epo-epue-einspruch-beschwerde-beschraenkung` — EPO Epue Einspruch Beschwerde Beschraenkung
+- `erfinderbenennung-arbeitnehmererfindung` — Erfinderbenennung Arbeitnehmererfindung
+- `erfindungsaufnahme-tatbestand-beweis-und-belege` — Erfindungsaufnahme Tatbestand Beweis und Belege
+- `erfindungsmeldung-aufnahme-und-rueckfragen` — Erfindungsmeldung Aufnahme und Rueckfragen
+- `freedom-to-operate-und-schutzbereich` — Freedom TO Operate und Schutzbereich
+- `gebrauchsmuster-patent-patentrechts` — Gebrauchsmuster Patent Patentrechts
+- `internationaler-patentrechts-und-laendercheck` — Internationaler Patentrechts und Laendercheck
+- `israel-patentrecht-ilpo-opposition-revocation` — Israel Patentrecht Ilpo Opposition Revocation
+- `japan-jpo-kanada-cipo-loeschung-widerruf` — Japan JPO Kanada Cipo Loeschung Widerruf
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

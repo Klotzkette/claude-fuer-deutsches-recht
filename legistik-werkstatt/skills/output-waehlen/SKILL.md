@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Legistik (Gesetzgebungstechnik): Diese Output-Weiche für Legistik Werkstatt entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Legistik-Werkstatt (Gesetzgebung): stimmt Adressat (Ressort, Bundesrat, Bundestag), Frist (Beteiligungsfristen) und Form auf den Zweck ab — typische Outputs: Normtext nach HdR, Begründung, Erfüllungsaufwand-Schätzung."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Legistik (Gesetzgebungstechnik): Diese Output-We
 
 Diese Output-Weiche für **Legistik Werkstatt** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh` — Allgemein Chronologie Fristen Legw Bmleh
-- `begruendung-allgemein-und-besonders` — Begruendung Allgemein Und Besonders
-- `dokumente-rendern-docx-pdf` — Dokumente Rendern Docx Pdf
-- `europarechtskonformitaet` — Europarechtskonformitaet
-- `folgenabschaetzung-erfuellungsaufwand` — Folgenabschaetzung Erfuellungsaufwand
-- `folgenabschaetzung-erfuellungsaufwand-folgenabschaetzung` — Folgenabschaetzung Erfuellungsaufwand Folgenabschaetzung
-- `folgenabschaetzung-nachhaltigkeit` — Folgenabschaetzung Nachhaltigkeit
-- `formulierungshilfe-bauen` — Formulierungshilfe Bauen
-- `gesetzesentwurf-kabinett` — Gesetzesentwurf Kabinett
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Prüfen
-- `goldplating-vermeiden` — Goldplating Vermeiden
-- `goldplating-vermeiden-inkrafttreten-uebergangsrecht-legistik` — Goldplating Vermeiden Inkrafttreten Uebergangsrecht Legistik
-- `inkrafttreten-uebergangsrecht` — Inkrafttreten Uebergangsrecht
-- `laender-landtage-legistik-ministerien-opposition` — Länder Landtage Legistik Ministerien Opposition
+- `aa-ausfuhrkontrolle` — AA Ausfuhrkontrolle
+- `aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension` — AA Ausfuhrkontrolle und Aussenwirtschaftsdimension
+- `aa-eu-bmi-verwaltungsverfahren` — AA EU BMI Verwaltungsverfahren
+- `aa-eu-grundlagen-und-ratsverfahren` — AA EU Grundlagen und Ratsverfahren
+- `aa-konsular-bmas-arbeitsrecht` — AA Konsular Bmas Arbeitsrecht
+- `aa-konsular-und-passrecht` — AA Konsular und Passrecht
+- `aa-sanktionsumsetzung-internationale` — AA Sanktionsumsetzung Internationale
+- `aa-sanktionsumsetzung-und-internationale-abkommen` — AA Sanktionsumsetzung und Internationale Abkommen
+- `aa-voelkerrecht-und-vertragsgesetzgebung` — AA Voelkerrecht und Vertragsgesetzgebung
+- `aenderungs-formular-portal-einreichungslogik` — Aenderungs Formular Portal Einreichungslogik
+- `aenderungs-formular-portal-und-einreichung` — Aenderungs Formular Portal und Einreichung
+- `baut-quellenkarte` — Baut Quellenkarte
+- `begruendung-allgemein-und-besonders` — Begruendung Allgemein und Besonders
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Normenanker
 

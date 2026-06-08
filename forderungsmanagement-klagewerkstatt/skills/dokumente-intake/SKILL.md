@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Strukturierte Aufnahme aller Mandantendokumente bei Eingang einer Forderungssache. Trennt Vertragsunterlagen Lieferbelege Rechnungen Mahnungen Schuldnerkommunikation und Drittunterlagen. Pinpoints ZPO 142 Urkundenvorlage ZPO 422 Vorlagepflicht BGB 810 Einsichtsanspruch. Liefert Intake-Checkliste und Aktenstruktur."
+description: "Dokumentenintake für Forderungsmanagement Klagewerkstatt: sortiert Mahnung, Mahnbescheid, Vollstreckungsbescheid, prüft Datum, Absender, Frist und Beweiswert (Vertrag, Rechnung); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumente Intake

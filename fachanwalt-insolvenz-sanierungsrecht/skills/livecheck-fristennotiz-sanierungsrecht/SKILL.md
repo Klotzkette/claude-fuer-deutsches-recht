@@ -1,6 +1,6 @@
 ---
 name: livecheck-fristennotiz-sanierungsrecht
-description: "Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sanierungsrecht: prüft konkret Livecheck, Sanierungsrecht, § 104 InsO (Fixgeschäfte, Finanzleistungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sanierungsrecht: prüft konkret Livecheck, Sanierungsrecht, § 104 InsO Fixgeschäfte, Finanzleistungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Inso Livecheck Fristennotiz Sanierungsrecht

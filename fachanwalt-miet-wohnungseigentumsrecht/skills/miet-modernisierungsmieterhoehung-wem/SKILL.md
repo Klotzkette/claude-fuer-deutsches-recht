@@ -1,6 +1,6 @@
 ---
 name: miet-modernisierungsmieterhoehung-wem
-description: "Modernisierungsmieterhoehung WEM im Miet- und Wohnungseigentumsrecht: prüft konkret Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB, Spezialfall bauliche Veraenderung im WEG § 20 WEG nach, Modernisierung und Erhaltung abgrenzen, Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung §. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Modernisierungsmieterhoehung WEM im Miet- und Wohnungseigentumsrecht: prüft konkret Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB, Spezialfall bauliche Veraenderung im WEG § 20 WEG nach, Modernisierung und Erhaltung abgrenzen, Spezialfall Milieuschutzgebiet soziale Erhaltungssatzung §. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Modernisierungsmieterhoehung WEM

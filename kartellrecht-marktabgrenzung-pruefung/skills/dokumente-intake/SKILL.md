@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Kartellrecht-Marktabgrenzung: sortiert Anmeldung, Marktstudien, Umsatzdaten, prüft Datum, Absender, Frist und Beweiswert (SSNIP-Test, Marktbefragung); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Kartellrecht Marktabgrenzung Prüfung** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `19a-gwb-gwb-relative-abuse-economic-algorithmic-collusion` — 19a Gwb Gwb Relative Abuse Economic Algorithmic Collusion
-- `alleinvertrieb-kundengruppen-alternative-marktdefinition` — Alleinvertrieb Kundengruppen Alternative Marktdefinition
-- `angebotsumstellung-evidenz-flags-red-kartellrechtliche` — Angebotsumstellung Evidenz Flags Red Kartellrechtliche
-- `art-aeuv-auswirkungen-marktanteile` — Art Aeuv Auswirkungen Marktanteile
-- `art-arbeitsmarkt-no-aeuv-kooperationspruefung-vereinbarung` — Art Arbeitsmarkt No Aeuv Kooperationspruefung Vereinbarung
-- `bietergemeinschaft-vergabekartellrecht-bka-dgcomp-cartel` — Bietergemeinschaft Vergabekartellrecht Bka Dgcomp Cartel
-- `competition-global-kaltstart` — Competition Global Kaltstart
-- `competition-litigation-programm-mittelstand-schulung` — Competition Litigation Programm Mittelstand Schulung
-- `cross-border-dawn-raid-gwb-kartellverbot-gwb-behinderungs` — Cross Border Dawn Raid Gwb Kartellverbot Gwb Behinderungs
-- `dma-gatekeeper-einkaufskooperation-nachfragemacht-einstweiliger` — Dma Gatekeeper Einkaufskooperation Nachfragemacht Einstweiliger
-- `essential-facilities-eu-bekanntmachung-evidenz-qualitaet` — Essential Facilities Eu Bekanntmachung Evidenz Qualitaet
-- `eugh-rechtsprechung-rechtsprechung-beweislast-jurisdiktion` — Eugh Rechtsprechung Rechtsprechung Beweislast Jurisdiktion
-- `foreign-direct-freistellung-art-fusionskontrolle-anmeldung` — Foreign Direct Freistellung Art Fusionskontrolle Anmeldung
-- `fusionskontrolle-modus-geoblocking-kartellrecht-gesamtbewertung` — Fusionskontrolle Modus Geoblocking Kartellrecht Gesamtbewertung
+- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Pruefung
+- `19a-gwb-relative-abuse-economic` — 19A GWB Relative Abuse Economic
+- `abuse-of-economic-dependence` — Abuse OF Economic Dependence
+- `aeuv-behoerden-gericht-und-registerweg` — Aeuv Behoerden Gericht und Registerweg
+- `algorithmic-collusion-ai-pricing` — Algorithmic Collusion AI Pricing
+- `alleinvertrieb-kundengruppen-alternative` — Alleinvertrieb Kundengruppen Alternative
+- `alternative-marktdefinition-eng` — Alternative Marktdefinition ENG
+- `alternative-marktdefinition-weit` — Alternative Marktdefinition Weit
+- `angebotsumstellung-evidenz-flags-red-team-korrektur` — Angebotsumstellung Evidenz Flags RED Team Korrektur
+- `anmeldepflicht-joint-venture` — Anmeldepflicht Joint Venture
+- `anschluss` — Anschluss
+- `art-101-aeuv-kooperationspruefung-einstieg` — ART 101 Aeuv Kooperationspruefung Einstieg
+- `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha` — ART 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

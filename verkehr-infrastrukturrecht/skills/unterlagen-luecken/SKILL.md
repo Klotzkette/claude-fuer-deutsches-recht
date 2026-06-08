@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Verkehr-Infrastrukturrecht: trennt fehlende Tatsachen von fehlenden Belegen (Planfeststellungsbeschluss, Erörterungstermin-Protokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Eisenbahn-BBundesamt), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Verkehr Infrastrukturrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anschluss-router` — Anschluss Router
+- `autonomous-driving` — Autonomous Driving
 - `autonomous-driving-interessen-grossprojekt` — Autonomous Driving Interessen Grossprojekt
-- `foerderung-vergabe-ladeinfrastruktur-planfeststellung` — Förderung Vergabe Ladeinfrastruktur Planfeststellung
-- `infrastruktur-foerderung-nachhaltige-bahninfrastruktur` — Infrastruktur Förderung Nachhaltige Bahninfrastruktur
+- `autonomous-driving-strassenrecht` — Autonomous Driving Strassenrecht
+- `buergerentscheid-strassenbahn-spezial` — Buergerentscheid Strassenbahn Spezial
+- `driving-mehrparteien-konflikt-und-interessen` — Driving Mehrparteien Konflikt und Interessen
+- `foerderung-vergabe-ladeinfrastruktur` — Foerderung Vergabe Ladeinfrastruktur
+- `grossprojekt-zahlen-schwellen-und-berechnung` — Grossprojekt Zahlen Schwellen und Berechnung
+- `infrastruktur-foerderung-nachhaltige` — Infrastruktur Foerderung Nachhaltige
 - `infrastrukturrecht-intake-ladeinfrastruktur` — Infrastrukturrecht Intake Ladeinfrastruktur
-- `livecheck-sonderfall-mobilitaetsprojekt-intake` — Livecheck Sonderfall Mobilitaetsprojekt Intake
-- `parkraum-planfeststellung-strassenbahn` — Parkraum Planfeststellung Strassenbahn
-- `parkraumbewirtschaftung-verkehr-infrastrukturrecht` — Parkraumbewirtschaftung Verkehr Infrastrukturrecht
-- `schulwegsicherheit-sondernutzung-strassenbahn` — Schulwegsicherheit Sondernutzung Strassenbahn
-- `strassenrecht-verkehrs-verkehrswende` — Strassenrecht Verkehrs Verkehrswende
-- `verkehr-infrastrukturrecht-autonomous-driving-buergerentscheid` — Verkehr Infrastrukturrecht Autonomous Driving Buergerentscheid
-- `verkehrsplanung-verfahren-vertragsmodell-strasse` — Verkehrsplanung Verfahren Vertragsmodell Strasse
-- `verkehrsplanung-verkehrswende-wirtschaftsverkehr` — Verkehrsplanung Verkehrswende Wirtschaftsverkehr
-- `vi-rechtsquellen-uebersicht` — Vi Rechtsquellen Uebersicht
+- `intake-mandantenkommunikation-entscheidungsvorlage` — Intake Mandantenkommunikation Entscheidungsvorlage
+- `ladeinfrastruktur` — Ladeinfrastruktur
+- `ladeinfrastruktur-behoerden-gericht-und-registerweg` — Ladeinfrastruktur Behoerden Gericht und Registerweg
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

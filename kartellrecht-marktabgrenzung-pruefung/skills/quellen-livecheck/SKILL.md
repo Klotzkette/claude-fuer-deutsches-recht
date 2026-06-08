@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Kartellrecht-Marktabgrenzung: prüft Normen (§§ 18-19 GWB Marktbeherrschung, §§ 35 ff. GWB Fusionskontrolle, Art. 101/102 AEUV) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BKartA und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Kartellrecht Marktabgrenzung Prüfung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `19a-gwb-gwb-relative-abuse-economic-algorithmic-collusion` — 19a Gwb Gwb Relative Abuse Economic Algorithmic Collusion
-- `alleinvertrieb-kundengruppen-alternative-marktdefinition` — Alleinvertrieb Kundengruppen Alternative Marktdefinition
-- `angebotsumstellung-evidenz-flags-red-kartellrechtliche` — Angebotsumstellung Evidenz Flags Red Kartellrechtliche
-- `art-aeuv-auswirkungen-marktanteile` — Art Aeuv Auswirkungen Marktanteile
-- `art-arbeitsmarkt-no-aeuv-kooperationspruefung-vereinbarung` — Art Arbeitsmarkt No Aeuv Kooperationspruefung Vereinbarung
-- `bietergemeinschaft-vergabekartellrecht-bka-dgcomp-cartel` — Bietergemeinschaft Vergabekartellrecht Bka Dgcomp Cartel
-- `competition-global-kaltstart` — Competition Global Kaltstart
-- `competition-litigation-programm-mittelstand-schulung` — Competition Litigation Programm Mittelstand Schulung
-- `cross-border-dawn-raid-gwb-kartellverbot-gwb-behinderungs` — Cross Border Dawn Raid Gwb Kartellverbot Gwb Behinderungs
-- `dma-gatekeeper-einkaufskooperation-nachfragemacht-einstweiliger` — Dma Gatekeeper Einkaufskooperation Nachfragemacht Einstweiliger
-- `essential-facilities-eu-bekanntmachung-evidenz-qualitaet` — Essential Facilities Eu Bekanntmachung Evidenz Qualitaet
-- `eugh-rechtsprechung-rechtsprechung-beweislast-jurisdiktion` — Eugh Rechtsprechung Rechtsprechung Beweislast Jurisdiktion
-- `foreign-direct-freistellung-art-fusionskontrolle-anmeldung` — Foreign Direct Freistellung Art Fusionskontrolle Anmeldung
-- `fusionskontrolle-modus-geoblocking-kartellrecht-gesamtbewertung` — Fusionskontrolle Modus Geoblocking Kartellrecht Gesamtbewertung
+- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Pruefung
+- `19a-gwb-relative-abuse-economic` — 19A GWB Relative Abuse Economic
+- `abuse-of-economic-dependence` — Abuse OF Economic Dependence
+- `aeuv-behoerden-gericht-und-registerweg` — Aeuv Behoerden Gericht und Registerweg
+- `algorithmic-collusion-ai-pricing` — Algorithmic Collusion AI Pricing
+- `alleinvertrieb-kundengruppen-alternative` — Alleinvertrieb Kundengruppen Alternative
+- `alternative-marktdefinition-eng` — Alternative Marktdefinition ENG
+- `alternative-marktdefinition-weit` — Alternative Marktdefinition Weit
+- `angebotsumstellung-evidenz-flags-red-team-korrektur` — Angebotsumstellung Evidenz Flags RED Team Korrektur
+- `anmeldepflicht-joint-venture` — Anmeldepflicht Joint Venture
+- `anschluss` — Anschluss
+- `art-101-aeuv-kooperationspruefung-einstieg` — ART 101 Aeuv Kooperationspruefung Einstieg
+- `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha` — ART 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

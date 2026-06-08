@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Insolvenzverwaltung: ordnet Rolle (Verwalter, Schuldner, Gläubiger), markiert Frist (Berichtstermin), wählt Norm (InsO §§ 80/148/159 ff. Verwertung, InsVV Vergütung) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,22 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Insolvenzverwaltung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `iv-aktenanlage-iv-plan` — Iv Aktenanlage Iv Plan
-- `iv-anfechtung-iv-arbeitsrecht` — Iv Anfechtung Iv Arbeitsrecht
-- `iv-berichte-iv-masseunzulaenglichkeit` — Iv Berichte Iv Masseunzulaenglichkeit
-- `iv-cross-iv-eigenverwaltung` — Iv Cross Iv Eigenverwaltung
-- `iv-eroeffnungsgutachten-iv-forderungsanmeldung` — Iv Eroeffnungsgutachten Iv Forderungsanmeldung
-- `iv-idw-iv` — Iv Idw Iv
-- `iv-masseeinsammlung-iv-massemehrung` — Iv Masseeinsammlung Iv Massemehrung
-- `iv-plan-iv-plan` — Iv Plan Iv Plan
-- `iv-plan-iv-plan-02` — Iv Plan Iv Plan 02
-- `iv-plan-iv-plan-03` — Iv Plan Iv Plan 03
-- `iv-plan-iv-plan-04` — Iv Plan Iv Plan 04
-- `iv-plan-iv-plan-05` — Iv Plan Iv Plan 05
-- `iv-plan-iv-plan-06` — Iv Plan Iv Plan 06
-- `iv-plan-iv-plan-07` — Iv Plan Iv Plan 07
+- `aktenanlage-iv-plan` — Aktenanlage IV Plan
+- `anfechtung-iv-arbeitsrecht` — Anfechtung IV Arbeitsrecht
+- `arbeitsrecht-insolvenzgeld` — Arbeitsrecht Insolvenzgeld
+- `berichte-iv-masseunzulaenglichkeit` — Berichte IV Masseunzulaenglichkeit
+- `cross-iv-eigenverwaltung` — Cross IV Eigenverwaltung
+- `eigenverwaltung-sachwaltung` — Eigenverwaltung Sachwaltung
+- `eroeffnungsgutachten-iv` — Eroeffnungsgutachten IV
+- `forderungsanmeldung-pruefung` — Forderungsanmeldung Pruefung
+- `idw-iv` — IDW IV
+- `insolvenzverwalter-fristen-form-und-zustaendigkeit` — Insolvenzverwalter Fristen Form und Zustaendigkeit
+- `insolvenzverwaltungs-erstpruefung-und-mandatsziel` — Insolvenzverwaltungs Erstpruefung und Mandatsziel
+- `kaltstart-triage` — Kaltstart Triage
+- `kommandocenter` — Kommandocenter
 
 ## Arbeitsweg
 

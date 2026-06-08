@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Verlagsredaktion: ordnet Rolle (Verlag, Autor, Redakteur), markiert Frist (Gegendarstellungsanspruch unverzüglich), wählt Norm (UrhG, VerlagsG, Presserechte Länder) und Zuständigkeit (Presserat), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Verlagsredaktion** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `eingangskorb-heftplanung-interessen-juristische-manuskript` — Eingangskorb Heftplanung Interessen Juristische Manuskript
-- `eingangskorb-triage-entscheidungsmonitor-fremdtext-plagiat` — Eingangskorb Triage Entscheidungsmonitor Fremdtext Plagiat
-- `lektorat-struktur-manuskriptaufnahme-materialinventar-marketing` — Lektorat Struktur Manuskriptaufnahme Materialinventar Marketing
-- `qualitaetsgate-verlag-quellen-zitate-rechtecheck-urhg` — Qualitaetsgate Verlag Quellen Zitate Rechtecheck Urhg
-- `redaktion-satzfahnen-verlage-verlagsdesk-sprachlektorat-stil` — Redaktion Satzfahnen Verlage Verlagsdesk Sprachlektorat Stil
-- `sales-katalog-satzfahne-korrekturlauf-autorenkommunikation` — Sales Katalog Satzfahne Korrekturlauf Autorenkommunikation
-- `verl-abstimmung-lektorat-produktion-satz-rechtsabteilung-audio` — Verl Abstimmung Lektorat Produktion Satz Rechtsabteilung Audio
-- `verl-aussagensicherheit-buchprojekt-bauleiter-email-konvolute` — Verl Aussagensicherheit Buchprojekt Bauleiter Email Konvolute
-- `verl-fussnoten-quellen-glossar-konsistenz-grammatik-handschrift` — Verl Fussnoten Quellen Glossar Konsistenz Grammatik Handschrift
-- `verl-ideenpool-priorisierung-impressum-pflicht-interview-roh` — Verl Ideenpool Priorisierung Impressum Pflicht Interview Roh
-- `verl-loeschpflicht-archivierung-loseblattwerk-manuskript-online` — Verl Loeschpflicht Archivierung Loseblattwerk Manuskript Online
-- `verl-mahnung-an-honorar-vertrag-honorarvertrag-templates` — Verl Mahnung An Honorar Vertrag Honorarvertrag Templates
-- `verl-podcast-zeitschriftenbeitrag-powerpoint-verwurstung` — Verl Podcast Zeitschriftenbeitrag Powerpoint Verwurstung
-- `verl-redaktionsmemo-jahresplanung-redaktionssitzung-vorbereiten` — Verl Redaktionsmemo Jahresplanung Redaktionssitzung Vorbereiten
+- `abstimmung` — Abstimmung
+- `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
+- `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
+- `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
+- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Pruefung
+- `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
+- `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
+- `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag
+- `aussagensicherheit-buchprojekt-bauleiter` — Aussagensicherheit Buchprojekt Bauleiter
+- `autorenkommunikation-compliance-dokumentation-und-akte` — Autorenkommunikation Compliance Dokumentation und Akte
+- `autorenkommunikation-email` — Autorenkommunikation Email
+- `barrierefreiheit-epub-pdf` — Barrierefreiheit Epub PDF
+- `bildrechte-grafiken-tabellen` — Bildrechte Grafiken Tabellen
+- `dokumente-intake` — Dokumente Intake
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

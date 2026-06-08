@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Normenkontrolle Bauleitplanung: sortiert Bebauungsplan, Begründung, Abwägungsmaterial, prüft Datum, Absender, Frist und Beweiswert (Abwägungsfehler-Dokumentation, Bürgerbeteiligung Protokolle); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Normenkontrolle Bauleitplanung** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abwaegungsgebot-1-abs-7-baugb` — Abwaegungsgebot 1 Abs 7 Baugb
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `normenkontrolle-satzungsnormenkontrolle-47-vwgo` — Allgemeine Satzungsnormenkontrolle 47 Vwgo
-- `allgemeine-satzungsnormenkontrolle-anpassungsgebot` — Allgemeine Satzungsnormenkontrolle Anpassungsgebot
-- `anfechtung-antragsbefugnis-red-antragstellervertretung` — Anfechtung Antragsbefugnis Red Antragstellervertretung
+- `abwaegung-formular-portal` — Abwaegung Formular Portal
+- `abwaegung-formular-portal-und-einreichung` — Abwaegung Formular Portal und Einreichung
+- `abwaegungsgebot-1-abs-7-baugb` — Abwaegungsgebot 1 ABS 7 Baugb
+- `anfechtung-antragsbefugnis-red-team-korrektur` — Anfechtung Antragsbefugnis RED Team Korrektur
+- `anfechtung-tatbestandsmerkmale` — Anfechtung Tatbestandsmerkmale
 - `anpassungsgebot-flaechennutzungsplan` — Anpassungsgebot Flaechennutzungsplan
 - `antragsbefugnis-eigentuemer-nachbar` — Antragsbefugnis Eigentuemer Nachbar
-- `artenschutz-naturschutz-aufstellungsbeschluss-bekanntmachung` — Artenschutz Naturschutz Aufstellungsbeschluss Bekanntmachung
+- `antragsbefugnis-fehlerkatalog` — Antragsbefugnis Fehlerkatalog
+- `antragsbefugnis-red-team-und-qualitaetskontrolle` — Antragsbefugnis RED Team und Qualitaetskontrolle
+- `antragstellervertretung-zahlen-schwellen-und-berechnung` — Antragstellervertretung Zahlen Schwellen und Berechnung
+- `artenschutz-naturschutz-aufstellungsbeschluss` — Artenschutz Naturschutz Aufstellungsbeschluss
 - `artenschutz-naturschutz-planung` — Artenschutz Naturschutz Planung
 - `aufstellungsbeschluss-bekanntmachung` — Aufstellungsbeschluss Bekanntmachung
-- `aufstellungsbeschluss-mandantenentscheidung-bauleitplanung` — Aufstellungsbeschluss Mandantenentscheidung Bauleitplanung
-- `bayvgh-bekanntmachung-beweislast-eilantrag-abs` — Bayvgh Bekanntmachung Beweislast Eilantrag Abs
-- `bebauungsplaenen-kommunalabgaben-beitragssatzungen` — Bebauungsplaenen Kommunalabgaben Beitragssatzungen
-- `benutzungssatzung-kommunale-einrichtung` — Benutzungssatzung Kommunale Einrichtung
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

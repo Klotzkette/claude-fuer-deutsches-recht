@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Meinungsfreiheit/Persönlichkeitsrecht-Prüfer: ordnet Rolle (Betroffener, Äußerer, Medium/Plattform), markiert Frist (Antrag eA wegen Eile), wählt Norm (Art. 5 I GG, §§ 823/1004 BGB analog, § 185 StGB) und Zuständigkeit (Zivilgericht), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Meinungspruefer** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abwaegung-art-arbeitgeber-betrieb` — Abwaegung Art Arbeitgeber Betrieb
-- `beleglage-tatsachenbehauptung-beweissicherung-screenshots` — Beleglage Tatsachenbehauptung Beweissicherung Screenshots
+- `abmahnung-strafanzeige-reaktion` — Abmahnung Strafanzeige Reaktion
+- `abwaegung-art-arbeitgeber-betrieb` — Abwaegung ART Arbeitgeber Betrieb
+- `aeusserungsrecht-tatbestand-beweis-und-belege` — Aeusserungsrecht Tatbestand Beweis und Belege
+- `arbeitgeber-betrieb-kantine` — Arbeitgeber Betrieb Kantine
+- `beleglage-tatsachenbehauptung-beweissicherung` — Beleglage Tatsachenbehauptung Beweissicherung
 - `beleidigung-meinungspruefer` — Beleidigung Meinungspruefer
-- `egmr-art-eugh-grch` — Egmr Art Eugh Grch
-- `europarecht-emrk-gegendarstellung-entschuldigung` — Europarecht Emrk Gegendarstellung Entschuldigung
-- `kommunalrecht-buergermeister-machtkritik-amtstraeger` — Kommunalrecht Buergermeister Machtkritik Amtstraeger
-- `mehrdeutigkeit-sinnermittlung-meinung-tatsache` — Mehrdeutigkeit Sinnermittlung Meinung Tatsache
-- `meinung-strafantrag-verfahren` — Meinung Strafantrag Verfahren
-- `nachrede-tatsache` — Nachrede Tatsache
-- `olg-kg-rechtsprechungsbank-verifiziert` — Olg Kg Rechtsprechungsbank Verifiziert
-- `output-memo-pruefvermerk` — Output Memo Pruefvermerk
-- `personen-politisches-presserecht-plattformen` — Personen Politisches Presserecht Plattformen
-- `rechtsvergleich-usa-risikomatrix-ampel` — Rechtsvergleich Usa Risikomatrix Ampel
-- `satire-ironisierung-schimpfwort-lackaffe` — Satire Ironisierung Schimpfwort Lackaffe
+- `beweissicherung-screenshots` — Beweissicherung Screenshots
+- `chronologie-fristen` — Chronologie Fristen
+- `egmr-art-eugh-grch` — Egmr ART Eugh Grch
+- `eugh-grch-art-11-rechtsprechung` — Eugh Grch ART 11 Rechtsprechung
+- `europarecht-emrk-gegendarstellung` — Europarecht Emrk Gegendarstellung
+- `gegendarstellung-entschuldigung-deeskalation` — Gegendarstellung Entschuldigung Deeskalation
+- `kaltstart-triage` — Kaltstart Triage
+- `dokumente-intake` — Dokumente Intake
+- `unterlagen-luecken` — Unterlagen Luecken
 
 ## Arbeitsweg
 

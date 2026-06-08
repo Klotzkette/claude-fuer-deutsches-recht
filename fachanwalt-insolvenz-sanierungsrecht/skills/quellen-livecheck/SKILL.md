@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Fachanwalt Insolvenz- und Sanierungsrecht: prüft Normen (InsO, StaRUG, InsVV) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Insolvenzgericht (AG) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Fachanwalt Insolvenz Sanierungsrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `eroeffnung-fachanwalt-fao-glaeubigerantrag-inso` — Eroeffnung Fachanwalt Fao Glaeubigerantrag Inso
-- `fa-schuldschein` — Fa Schuldschein
-- `glaeubigerantrag-insolvenzanfechtung-orientierung` — Glaeubigerantrag Insolvenzanfechtung Orientierung
-- `glaeubigerverhandlung-sanierung-idw-s6-krypto-verwertung` — Glaeubigerverhandlung Sanierung Idw S6 Krypto Verwertung
-- `inso-insanw-eigenverwaltung-konzerninsolvenz-koordination` — Inso Insanw Eigenverwaltung Konzerninsolvenz Koordination
-- `inso-kommunikation-glaeubiger-p002-amtsgericht-p003-ortliche` — Inso Kommunikation Glaeubiger P002 Amtsgericht P003 Ortliche
-- `inso-livecheck-fristennotiz-sanierungsrecht-p104-fixgeschafte` — Inso Livecheck Fristennotiz Sanierungsrecht P104 Fixgeschafte
-- `inso-p001-ziele-p003c-zustandigkeit-p004a-stundung-p005-p011` — Inso P001 Ziele P003c Zustandigkeit P004a Stundung P005 P011
-- `inso-p003d` — Inso P003d
-- `inso-p003e-unternehmensgruppe-p004b-ruckzahlung-p004c-aufhebung` — Inso P003e Unternehmensgruppe P004b Ruckzahlung P004c Aufhebung
-- `inso-p020-auskunfts-p021-anordnung-p022-rechtsstellung-p022a` — Inso P020 Auskunfts P021 Anordnung P022 Rechtsstellung P022a
-- `inso-p040-unterhaltsanspruche-p041-nicht-p042-auflosend-p044` — Inso P040 Unterhaltsanspruche P041 Nicht P042 Auflosend P044
-- `inso-p054-kosten-p088-vollstreckung-p095-eintritt-p121-p124` — Inso P054 Kosten P088 Vollstreckung P095 Eintritt P121 P124
-- `inso-p061-nichterfullung-p062-verjahrung-p063-vergutung-p064` — Inso P061 Nichterfullung P062 Verjahrung P063 Vergutung P064
+- `absonderungsrecht-paragraf-50-inso` — Absonderungsrecht Paragraf 50 Inso
+- `anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16` — Anfechtung Vorsatz Paragraf 133 Inso BGH IX ZR 65 16
+- `eigenverwaltung-schutzschirm-paragraf-270b-inso` — Eigenverwaltung Schutzschirm Paragraf 270b Inso
+- `eroeffnung-fachanwalt-fao-glaeubigerantrag` — Eroeffnung Fachanwalt FAO Glaeubigerantrag
+- `fa-inso-sanierung-quellen-edge-case` — FA Inso Sanierung Quellen Edge Case
+- `fa-schuldschein` — FA Schuldschein
+- `glaeubigerantrag-insolvenzanfechtung` — Glaeubigerantrag Insolvenzanfechtung
+- `glaeubigerverhandlung-sanierung-idw-s6-krypto` — Glaeubigerverhandlung Sanierung IDW S6 Krypto
+- `insanw-eigenverwaltung-konzerninsolvenz` — Insanw Eigenverwaltung Konzerninsolvenz
+- `insanw-fortbestehensprognose` — Insanw Fortbestehensprognose
+- `insolvenz-insolvenzanfechtung-insolvenzrecht` — Insolvenz Insolvenzanfechtung Insolvenzrecht
+- `insolvenzgeld-paragraf-165-sgb-iii` — Insolvenzgeld Paragraf 165 SGB III
+- `insolvenzplan-paragraf-217-inso-bgh-ix-zb-66-19` — Insolvenzplan Paragraf 217 Inso BGH IX ZB 66 19
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

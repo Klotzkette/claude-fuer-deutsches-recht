@@ -1,6 +1,6 @@
 ---
 name: bescheidanalyse-eilantrag-sozialrecht
-description: "Bescheidanalyse Eilantrag Sozialrecht im Plugin Fachanwalt Sozialrecht: prüft konkret Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegleitung und Eltern, Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bescheidanalyse Eilantrag Sozialrecht im Plugin Fachanwalt Sozialrecht: prüft konkret Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegleitung und Eltern, Strukturierter Erstgespraechsleitfaden für Sozialrecht SGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Bescheidanalyse Eilantrag Sozialrecht

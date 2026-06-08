@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Markenrecht Fashion Luxus: Diese Output-Weiche für Markenrecht Fashion Luxus entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Markenrecht Fashion/Luxus: stimmt Adressat (Markeninhaber, Verletzer, Konkurrent), Frist (Widerspruch 3 Monate § 42 MarkenG) und Form auf den Zweck ab — typische Outputs: Anmeldung Marke, Widerspruch, Unterlassungsklage."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Markenrecht Fashion Luxus: Diese Output-W
 
 Diese Output-Weiche für **Markenrecht Fashion Luxus** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abmahnung-markenrecht-euipo-beschwerdekammer-absolute-anmeldung` — Abmahnung Markenrecht Euipo Beschwerdekammer Absolute Anmeldung
-- `anti-ki-beweissicherung-testkauf-bildmarke-wort-boesglaeubige` — Anti Ki Beweissicherung Testkauf Bildmarke Wort Boesglaeubige
-- `discounter-graumarkt-dpma-bpatg-dpma-widerspruch` — Discounter Graumarkt Dpma Bpatg Dpma Widerspruch
-- `duftmarke-geschmacksmarke-einstweilige-verfuegung-erschoepfung` — Duftmarke Geschmacksmarke Einstweilige Verfuegung Erschoepfung
-- `euipo-korrespondenz-markenarten-markenrecht` — Euipo Korrespondenz Markenarten Markenrecht
-- `fashion-luxus-kaltstart-interview` — Fashion Luxus Kaltstart Interview
-- `green-claims-haptik-tastmarke-keyword-advertising-ki-generierte` — Green Claims Haptik Tastmarke Keyword Advertising Ki Generierte
-- `klageantraege-auskunft-madrid-protokoll-markenbewertung-asset` — Klageantraege Auskunft Madrid Protokoll Markenbewertung Asset
-- `koexistenz-abgrenzungsvereinbarung-vertikale-preisbindung-waren` — Koexistenz Abgrenzungsvereinbarung Vertikale Preisbindung Waren
-- `luxus-agb-haendlervertrag-rechtsabteilung-plattformhaftung` — Luxus Agb Haendlervertrag Rechtsabteilung Plattformhaftung
-- `markenmonitoring-watchlist-markenuebertragung-chain-marketplace` — Markenmonitoring Watchlist Markenuebertragung Chain Marketplace
-- `modehaeuser-uspto-wort-interessen-ttab-opposition` — Modehaeuser Uspto Wort Interessen Ttab Opposition
-- `nyc-korrespondenz-plattform-piraterie-positionsmarke-prioritaet` — Nyc Korrespondenz Plattform Piraterie Positionsmarke Prioritaet
-- `rechtsabteilung-lookalike-relative-schutzhindernisse-selektiver` — Rechtsabteilung Lookalike Relative Schutzhindernisse Selektiver
+- `abmahnung-markenrecht-euipo-beschwerdekammer` — Abmahnung Markenrecht Euipo Beschwerdekammer
+- `absolute-schutzhindernisse-8-markeng-art7-umv` — Absolute Schutzhindernisse 8 Markeng Art7 UMV
+- `agb-haendlervertrag-luxus` — AGB Haendlervertrag Luxus
+- `alicante-schriftsatz-brief-und-memo-bausteine` — Alicante Schriftsatz Brief und Memo Bausteine
+- `anmeldung-strategie-portfolio` — Anmeldung Strategie Portfolio
+- `anti-ki-beweissicherung-testkauf-bildmarke` — Anti KI Beweissicherung Testkauf Bildmarke
+- `benutzungsschonfrist-und-rechtserhaltende-benutzung` — Benutzungsschonfrist und Rechtserhaltende Benutzung
+- `beweissicherung-testkauf-screenshot-chain` — Beweissicherung Testkauf Screenshot Chain
+- `bildmarke-und-wort-bild` — Bildmarke und Wort Bild
+- `boesglaeubige-anmeldung-und-sperrmarke` — Boesglaeubige Anmeldung und Sperrmarke
+- `boutique-tatbestand-beweis-und-belege` — Boutique Tatbestand Beweis und Belege
+- `discounter-graumarkt-dpma-bpatg-widerspruch` — Discounter Graumarkt Dpma Bpatg Widerspruch
+- `dpma-bpatg-bgh-rechtsmittelroute` — Dpma Bpatg BGH Rechtsmittelroute
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

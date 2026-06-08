@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fachanwalt Sportrecht: sortiert Spielerlizenz, Verbandssatzung, Transferregister, prüft Datum, Absender, Frist und Beweiswert (Spielprotokolle, Doping-Analyse Labor); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fachanwalt Sportrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `cas-berufung-erstgespraech-mandatsannahme-doping-cas` — Cas Berufung Erstgespraech Mandatsannahme Doping Cas
+- `athletenvertrag` — Athletenvertrag
+- `athletenwerbung-paragraf-3-uwg` — Athletenwerbung Paragraf 3 UWG
+- `cas-berufung-erstgespraech-mandatsannahme` — CAS Berufung Erstgespraech Mandatsannahme
+- `cas-dis` — CAS DIS
+- `doping-quellenkarte` — Doping Quellenkarte
+- `doping-strafrecht-paragraf-4-anti-dopg` — Doping Strafrecht Paragraf 4 Anti Dopg
 - `dosb-fachanwalt-fifa` — Dosb Fachanwalt Fifa
-- `fachanwalt-sportrecht-athletenvertrag-fristennotiz` — Fachanwalt Sportrecht Athletenvertrag Fristennotiz
-- `fachanwalt-sportrecht-sportr-athletenvertrag-esports` — Fachanwalt Sportrecht Sportr Athletenvertrag Esports
-- `gesellschaftsrecht-beweislast-mandat-nada-interessen` — Gesellschaftsrecht Beweislast Mandat Nada Interessen
-- `mandat-triage-schriftsatzkern-substantiierung-code` — Mandat Triage Schriftsatzkern Substantiierung Code
-- `orientierung-stadion-hausverbot-vereinsstrafrecht` — Orientierung Stadion Hausverbot Vereinsstrafrecht
-- `persoenlichkeitsrechte-schnittstelle-mandantenentscheidung` — Persoenlichkeitsrechte Schnittstelle Mandantenentscheidung
-- `sponsoring-sportr-sonderfall-sportrecht` — Sponsoring Sportr Sonderfall Sportrecht
-- `sportr-arbeitsrecht-sport-einfuehrung-rechtsfelder` — Sportr Arbeitsrecht Sport Einfuehrung Rechtsfelder
-- `sportr-stadionverbot-sportr-stadionverbot-verbandsstrafe` — Sportr Stadionverbot Sportr Stadionverbot Verbandsstrafe
-- `uefa-wada-sportr-anti` — Uefa Wada Sportr Anti
-- `verbandsrecht-sportr-doping-spielervertrag` — Verbandsrecht Sportr Doping Spielervertrag
+- `e-sport-anerkennung` — E Sport Anerkennung
+- `eu-sportrecht-art-101-aeuv-eugh-c-333-21` — EU Sportrecht ART 101 Aeuv Eugh C 333 21
+- `gesellschaftsrecht-beweislast-mandat-nada` — Gesellschaftsrecht Beweislast Mandat Nada
+- `mandat-triage-schriftsatzkern-substantiierung` — Mandat Triage Schriftsatzkern Substantiierung
+- `orientierung-stadion-hausverbot` — Orientierung Stadion Hausverbot
+- `persoenlichkeitsrechte-schnittstelle` — Persoenlichkeitsrechte Schnittstelle
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

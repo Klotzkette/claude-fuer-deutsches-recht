@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Krisenfrueherkennung Starug: Diese Output-Weiche für Krisenfrueherkennung Starug entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Krisenfrüherkennung StaRUG: stimmt Adressat (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), Frist (Frühzeitige Indikatoren) und Form auf den Zweck ab — typische Outputs: Frühwarn-Indikatoren-Set, Restrukturierungsplan, Geschäftsführerschutzmemo."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Krisenfrueherkennung Starug: Diese Output
 
 Diese Output-Weiche für **Krisenfrueherkennung Starug** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
 - `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
-- `drohende-zahlungsunfaehigkeit-fortbestehensprognose-zweistufig` — Drohende Zahlungsunfaehigkeit Fortbestehensprognose Zweistufig
-- `integrierte-interessen-kennzahlenset-mandantenentscheidung` — Integrierte Interessen Kennzahlenset Mandantenentscheidung
-- `integrierte-planung-kennzahlenset-ampelsystem-kfe` — Integrierte Planung Kennzahlenset Ampelsystem Kfe
-- `kfe-krisenstab-cross-class-dokumentationspflicht-protokollierung` — Kfe Krisenstab Cross Class Dokumentationspflicht Protokollierung
-- `kfe-restrukturierungsbeauftragter-stabilisierungsanordnung` — Kfe Restrukturierungsbeauftragter Stabilisierungsanordnung
-- `krisenfrueherkennung-krisenmanagement-monats` — Krisenfrueherkennung Krisenmanagement Monats
-- `krisenstadien-fristennotiz-starug-gf-haftung` — Krisenstadien Fristennotiz Starug Gf Haftung
-- `mandantenbrief-warnung-paragraph-starug-warnpflicht` — Mandantenbrief Warnung Paragraph Starug Warnpflicht
-- `pflicht-planung-restrukturierungsplan` — Pflicht Planung Restrukturierungsplan
-- `pflichtenkollision-shift-restructuring-lounge` — Pflichtenkollision Shift Restructuring Lounge
-- `restrukturierungsplan-architektur-rollierende` — Restrukturierungsplan Architektur Rollierende
-- `stabilisierungsanordnung-vollstreckungssperre` — Stabilisierungsanordnung Vollstreckungssperre
+- `cross-class-cram-down-und-absolute-priority` — Cross Class Cram Down und Absolute Priority
+- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschaeftsfuehrung
+- `drohende-zahlen-schwellen-und-berechnung` — Drohende Zahlen Schwellen und Berechnung
+- `drohende-zahlungsunfaehigkeit` — Drohende Zahlungsunfaehigkeit
+- `fortbestehensprognose-zweistufig` — Fortbestehensprognose Zweistufig
+- `fruehwarnsystem-architektur-zwei-jahres-horizont` — Fruehwarnsystem Architektur Zwei Jahres Horizont
+- `fruehwarnsystem-behoerden-gericht-und-registerweg` — Fruehwarnsystem Behoerden Gericht und Registerweg
+- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschaeftsfuehrerhaftung Quellenkarte Check
+- `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
+- `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
+- `integrierte-interessen-kennzahlenset` — Integrierte Interessen Kennzahlenset
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

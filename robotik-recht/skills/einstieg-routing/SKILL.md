@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Robotik-Recht: ordnet Rolle (Hersteller, Operator/Anwender, Geschädigte), markiert Frist (CE-Konformität vor Inverkehrbringen), wählt Norm (KI-VO, ProdSG/GPSR, ProdHaftG) und Zuständigkeit (KI-Aufsicht), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,23 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `accuracy-robustness-cybersecurity-ai` — Accuracy Robustness Cybersecurity Ai
-- `agile-entwicklung-und-compliance-gates` — Agile Entwicklung Und Compliance Gates
+- `accuracy-robustness-cybersecurity-ai` — Accuracy Robustness Cybersecurity AI
+- `agile-entwicklung-und-compliance-gates` — Agile Entwicklung und Compliance Gates
 - `anwaltliche-quellenhygiene-robotik` — Anwaltliche Quellenhygiene Robotik
-- `arbeitsschutz-betrsichv-autonome-lieferroboter` — Arbeitsschutz Betrsichv Autonome Lieferroboter
+- `arbeitsschutz-betrsichv-autonome` — Arbeitsschutz Betrsichv Autonome
 - `arbeitsschutz-betrsichv-robotik` — Arbeitsschutz Betrsichv Robotik
-- `arbeitswelt-cobot-beschaffung-oeffentlich-betreiberpflichten` — Arbeitswelt Cobot Beschaffung Öffentlich Betreiberpflichten
-- `autonome-lieferroboter-öffentlicher-raum` — Autonome Lieferroboter Oeffentlicher Raum
-- `barrierefreiheit-inklusion-batterie-ladeinfrastruktur-bau` — Barrierefreiheit Inklusion Batterie Ladeinfrastruktur Bau
-- `barrierefreiheit-und-inklusion-robotik` — Barrierefreiheit Und Inklusion Robotik
-- `batterie-ladeinfrastruktur-und-brandschutz` — Batterie Ladeinfrastruktur Und Brandschutz
-- `bau-und-inspektionsroboter` — Bau Und Inspektionsroboter
-- `beschaeftigtendatenschutz-cobot` — Beschaeftigtendatenschutz Cobot
-- `betreiber-mitverschulden-betriebsanleitung-sprache` — Betreiber Mitverschulden Betriebsanleitung Sprache
-- `betreiber-mitverschulden-und-fehlbedienung` — Betreiber Mitverschulden Und Fehlbedienung
+- `arbeitswelt-cobot-beschaffung-oeffentlich` — Arbeitswelt Cobot Beschaffung Oeffentlich
+- `arbeitswelt-cobot-check` — Arbeitswelt Cobot Check
+- `art-3-ki-system-robotik` — ART 3 KI System Robotik
+- `art-6-hochrisiko-robotik` — ART 6 Hochrisiko Robotik
+- `autonome-lieferroboter-oeffentlicher-raum` — Autonome Lieferroboter Oeffentlicher Raum
+- `barrierefreiheit-inklusion-batterie` — Barrierefreiheit Inklusion Batterie
+- `barrierefreiheit-und-inklusion-robotik` — Barrierefreiheit und Inklusion Robotik
+- `batterie-ladeinfrastruktur-und-brandschutz` — Batterie Ladeinfrastruktur und Brandschutz
+- `anschluss-routing` — Anschluss Routing
 
 ## Arbeitsweg
 

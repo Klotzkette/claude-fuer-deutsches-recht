@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Fachanwalt Medizinrecht: ordnet Rolle (Patient, Arzt/Krankenhaus, Krankenkasse), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (BGB §§ 630a ff. Behandlungsvertrag, AMG, MPDG, SGB V, BÄO, MBO-Ä) und Zuständigkeit (LG (Arzthaftung)), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Fachanwalt Medizinrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `aerzte-quellenkarte` — Aerzte Quellenkarte
 - `aerztewerbung-innovative-amnog-millionen` — Aerztewerbung Innovative Amnog Millionen
-- `anaesthesie-hochrisiko-approbation-digitales-arzt-anstellung` — Anaesthesie Hochrisiko Approbation Digitales Arzt Anstellung
-- `apothekenrecht-interessen-aufklaerung-beweislast` — Apothekenrecht Interessen Aufklaerung Beweislast
-- `atmp-chain-atmp-classification` — Atmp Chain Atmp Classification
-- `atmp-pharmakovigilanz-aufklaerungsfehler-beweisstrategie` — Atmp Pharmakovigilanz Aufklaerungsfehler Beweisstrategie
+- `anaesthesie-hochrisiko-approbation-digitales` — Anaesthesie Hochrisiko Approbation Digitales
+- `apothekenrecht-arzneimittel-paragraf-78-amg` — Apothekenrecht Arzneimittel Paragraf 78 AMG
+- `apothekenrecht-interessen-aufklaerung` — Apothekenrecht Interessen Aufklaerung
+- `arzthaftung-aufklaerung-bgb` — Arzthaftung Aufklaerung BGB
+- `atmp-chain-classification` — Atmp Chain Classification
+- `atmp-pharmakovigilanz-aufklaerungsfehler` — Atmp Pharmakovigilanz Aufklaerungsfehler
 - `aufklaerungsfehler-behandlungsfehler` — Aufklaerungsfehler Behandlungsfehler
-- `berufsrecht-bgb-einwilligung-sonderfall-fachanwalt` — Berufsrecht Bgb Einwilligung Sonderfall Fachanwalt
+- `aufklaerungspflicht-paragraf-630e-bgb` — Aufklaerungspflicht Paragraf 630e BGB
+- `behandlungsfehler-paragraf-630h-bgb` — Behandlungsfehler Paragraf 630h BGB
+- `berufsrecht-bgb-einwilligung-sonderfall` — Berufsrecht BGB Einwilligung Sonderfall
 - `beweislast-hightech-biobank-consent` — Beweislast Hightech Biobank Consent
-- `cannabis-medizinisch-combined-atmp-companion-diagnostic` — Cannabis Medizinisch Combined Atmp Companion Diagnostic
-- `car-t-diga-hersteller` — Car T Diga Hersteller
-- `crispr-base-cybersecurity-medizinprodukt` — Crispr Base Cybersecurity Medizinprodukt
-- `dokumentationsaudit-630f-einwilligungsunfaehigkeit-ablehnung` — Dokumentationsaudit 630f Einwilligungsunfaehigkeit Ablehnung
-- `epa-befuellpflicht-impfschaden-arzthaftung-medr-checkliste` — Epa Befuellpflicht Impfschaden Arzthaftung Medr Checkliste
-- `experimentelle-behandlung-fachanwalt-medizinrecht-honorarvertrag` — Experimentelle Behandlung Fachanwalt Medizinrecht Honorarvertrag
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

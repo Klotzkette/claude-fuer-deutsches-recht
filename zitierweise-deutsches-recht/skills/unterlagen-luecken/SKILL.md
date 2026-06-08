@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Zitierweise deutsches Recht: trennt fehlende Tatsachen von fehlenden Belegen (Entscheidung, Kommentar, Aufsatz), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Zitierweise Deutsches Recht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aktenzeichen-schriftsatz-brief-und-memo-bausteine` — Aktenzeichen Schriftsatz Brief und Memo Bausteine
+- `aufsatz-interessen` — Aufsatz Interessen
 - `aufsatz-interessen-beckrs-blindzitate` — Aufsatz Interessen Beckrs Blindzitate
-- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Gericht
+- `beckrs-zahlen-schwellen-und-berechnung` — Beckrs Zahlen Schwellen und Berechnung
+- `blindzitate-internationaler-bezug-und-schnittstellen` — Blindzitate Internationaler Bezug und Schnittstellen
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Spezial Gericht
+- `entscheidungsform-risikoampel-und-gegenargumente` — Entscheidungsform Risikoampel und Gegenargumente
+- `fristen-und-risikoampel` — Fristen und Risikoampel
+- `gericht-dokumentenmatrix-und-lueckenliste` — Gericht Dokumentenmatrix und Lueckenliste
 - `hauszitierweise-juristische-kommentar` — Hauszitierweise Juristische Kommentar
-- `literatur-live-beweislast-lizenziertem` — Literatur Live Beweislast Lizenziertem
-- `rechtsprechung-zit-rechtsprechungszitierung-zitat-eugh` — Rechtsprechung Zit Rechtsprechungszitierung Zitat Eugh
-- `verifizierbarer-zugriff-sonderfall-zit-gesetzeszitierung` — Verifizierbarer Zugriff Sonderfall Zit Gesetzeszitierung
-- `zit-gesetzeszitierung-bauleiter` — Zit Gesetzeszitierung Bauleiter
-- `zit-internationale-urteile-spezial` — Zit Internationale Urteile Spezial
-- `zit-internationale-zit-kommentar-zitat-amtliche` — Zit Internationale Zit Kommentar Zitat Amtliche
-- `zit-kommentar-aufsatzzitierung-spezial` — Zit Kommentar Aufsatzzitierung Spezial
-- `zit-rechtsprechungszitierung-leitfaden` — Zit Rechtsprechungszitierung Leitfaden
-- `zitat-amtliche-sammlung-vs-zeitschrift` — Zitat Amtliche Sammlung Vs Zeitschrift
-- `zitat-archivierungspflicht` — Zitat Archivierungspflicht
+- `juristische-erstpruefung-und-mandatsziel` — Juristische Erstpruefung und Mandatsziel
+- `kaltstart-triage` — Kaltstart Triage
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 

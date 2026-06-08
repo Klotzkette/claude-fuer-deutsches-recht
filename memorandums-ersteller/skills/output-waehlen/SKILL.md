@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Memorandum-Erstellung: Diese Output-Weiche für Memorandums Ersteller entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Memorandum-Ersteller: stimmt Adressat (Mandant, Geschäftsleitung, Aufsichtsorgan), Frist (Mandantenbericht-Fristen) und Form auf den Zweck ab — typische Outputs: Memo im Gutachtenstil, Executive Summary, Risikomatrix."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Memorandum-Erstellung: Diese Output-Weiche für 
 
 Diese Output-Weiche für **Memorandums Ersteller** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `antworten-interessen-ausfuehrungen-fragen` — Antworten Interessen Ausfuehrungen Fragen
-- `due-diligence-ergebnis-handlungsempfehlung-mandant-vs` — Due Diligence Ergebnis Handlungsempfehlung Mandant Vs
+- `ausfuehrungen-formular-portal-und-einreichung` — Ausfuehrungen Formular Portal und Einreichung
+- `due-diligence-ergebnis-handlungsempfehlung` — DUE Diligence Ergebnis Handlungsempfehlung
+- `fragen-compliance-dokumentation-und-akte` — Fragen Compliance Dokumentation und Akte
 - `gliederung-mandantenunterlagen-memorandum` — Gliederung Mandantenunterlagen Memorandum
-- `haftungsrisiko-rechtsanwalt-board-pack-vorfall-intern` — Haftungsrisiko Rechtsanwalt Board Pack Vorfall Intern
-- `juristisches-questions-fristennotiz-vertragsentscheidung` — Juristisches Questions Fristennotiz Vertragsentscheidung
-- `laenge-formate-mandantenfreundliche-fassung-typenuebersicht` — Laenge Formate Mandantenfreundliche Fassung Typenuebersicht
-- `mandantenanfrage-schnell-rechtsmittelentscheidung-memorandums` — Mandantenanfrage Schnell Rechtsmittelentscheidung Memorandums
-- `optional-beweislast-piercing-sonderfall-rechtliche` — Optional Beweislast Piercing Sonderfall Rechtliche
-- `prozessstrategie-klageerhebung-gutachtenstil-quellen-zitierregel` — Prozessstrategie Klageerhebung Gutachtenstil Quellen Zitierregel
-- `rechtsfortbildung-bgh-rechtsfragen-formulieren-research-tracking` — Rechtsfortbildung Bgh Rechtsfragen Formulieren Research Tracking
-- `rechtsgebietsneutral-sachverhalt-satz` — Rechtsgebietsneutral Sachverhalt Satz
-- `sachverhalt-fixieren-vier-teile-grenzueberschreitenden-faellen` — Sachverhalt Fixieren Vier Teile Grenzueberschreitenden Faellen
-- `teile-vier-wandelt` — Teile Vier Wandelt
+- `haftungsrisiko-rechtsanwalt-board-pack` — Haftungsrisiko Rechtsanwalt Board Pack
+- `juristisches-questions-fristennotiz` — Juristisches Questions Fristennotiz
+- `laenge-formate-mandantenfreundliche-fassung` — Laenge Formate Mandantenfreundliche Fassung
+- `mandantenanfrage-schnell` — Mandantenanfrage Schnell
+- `mandantenkommunikation-redteam` — Mandantenkommunikation Redteam
+- `mandantenunterlagen-tatbestand-beweis-und-belege` — Mandantenunterlagen Tatbestand Beweis und Belege
+- `memo-board-pack-besondere-anlaesse-spezial` — Memo Board Pack Besondere Anlaesse Spezial
+- `memo-compliance-vorfall-intern` — Memo Compliance Vorfall Intern
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

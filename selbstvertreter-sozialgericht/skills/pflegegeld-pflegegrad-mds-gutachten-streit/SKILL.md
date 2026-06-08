@@ -1,6 +1,6 @@
 ---
 name: pflegegeld-pflegegrad-mds-gutachten-streit
-description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am Sozialgericht: prüft konkret Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch, Pflegegrad-Streit nach SGB XI. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am Sozialgericht: prüft konkret Pflegegeld Pflegegrade 1 bis 5 §§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch, Pflegegrad-Streit nach SGB XI. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Pflegegeld Pflegegrad MDS Gutachten Streit

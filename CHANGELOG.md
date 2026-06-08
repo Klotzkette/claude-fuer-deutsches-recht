@@ -111,7 +111,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 ## Counts (unveraendert ggue. v237)
 
-- **212 Plugins**, **18.536 Skills**, **203 Testakten**. Nur eine Testakte gewachsen (33 → 43 Aktenstuecke).
+- **212 Plugins**, **18.549 Skills**, **203 Testakten**. Nur eine Testakte gewachsen (33 → 43 Aktenstuecke).
 
 ## Validation
 
@@ -148,11 +148,11 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 - Skill-Slugs in beiden neuen Plugins (`status-navigator-step-plan`, `verhaeltnismaessigkeitspruefer`) durchgesehen — alle sprechend, normbezogen, keine generischen Kurzformen.
 - Boilerplate-Scan repo-weit: "robuste" 191x, "nahtlos" 32x, "klar und verstaendlich" 12x — alle in juristischem Fachkontext (§ 307 BGB, Nahtlosigkeit GKV/RV, etc.), keine generischen KI-Tells.
 - Keine leeren SKILL.md, kein TODO/FIXME ausserhalb legitimer Mustertexte (XXX = ISBN-Platzhalter, Az.-Format-Beispiel, TODO-Workflow-Marker).
-- description-Laengen aller 18.536 Skills compliant (<= 1024 Zeichen).
+- description-Laengen aller 18.549 Skills compliant (<= 1024 Zeichen).
 
 ## Counts (unveraendert ggue. v236)
 
-- **212 Plugins**, **18.536 Skills**, **203 Testakten**. Nur Inhalt der zwei erweiterten Testakten gewachsen (27 -> 33 und 20 -> 26 Aktenstuecke).
+- **212 Plugins**, **18.549 Skills**, **203 Testakten**. Nur Inhalt der zwei erweiterten Testakten gewachsen (27 -> 33 und 20 -> 26 Aktenstuecke).
 
 ## Validation
 
@@ -194,7 +194,7 @@ Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 ## Counts
 
 - 210 Plugins -> **212 Plugins** (+2: status-navigator-step-plan, verhaeltnismaessigkeitspruefer).
-- 18.240 Skills -> **18.536 Skills** (+296 netto: +35 Status-Navigator + 31 Verhaeltnismaessigkeit + 230 Fachanwalt-Norm-Skills, zuzueglich Politur/Korrekturzaehler aus der Zwischenpflege).
+- 18.240 Skills -> **18.549 Skills** (+296 netto: +35 Status-Navigator + 31 Verhaeltnismaessigkeit + 230 Fachanwalt-Norm-Skills, zuzueglich Politur/Korrekturzaehler aus der Zwischenpflege).
 - 201 Testakten -> **203 Testakten** (+2: status-navigator-batteriespeicher-jaenschwalde-peitz aus v230-Vorbereitung + neue Polizei-Akte).
 
 ## Validation

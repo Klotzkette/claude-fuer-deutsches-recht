@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Fachanwalt Versicherungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 12 VVG Klagefrist, Versicherungsschein, AVB, Schadensanzeige), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Fachanwalt Versicherungsrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `cyber-loesegeld-versr-cyber-deckungsanfrage` — Cyber Loesegeld Versr Cyber Deckungsanfrage
-- `deckungsklage-interessen-deckungspruefung-obliegenheiten` — Deckungsklage Interessen Deckungspruefung Obliegenheiten
-- `do-deckungsabwehr-lebensversicherung-rueckkauf` — Do Deckungsabwehr Lebensversicherung Rueckkauf
-- `erstgespraech-mandatsannahme-berufsunfaehigkeit-klage` — Erstgespraech Mandatsannahme Berufsunfaehigkeit Klage
+- `berufsunfaehigkeit-paragraf-172-vvg` — Berufsunfaehigkeit Paragraf 172 VVG
+- `bu-anerkennt-leistungspruefung` — BU Anerkennt Leistungspruefung
+- `cyber-loesegeld-versr-deckungsanfrage` — Cyber Loesegeld Versr Deckungsanfrage
+- `d-o-spezialfall-deckungsklage-leitfaden` — D O Spezialfall Deckungsklage Leitfaden
+- `deckungsklage-interessen-deckungspruefung` — Deckungsklage Interessen Deckungspruefung
+- `deckungsprozess-vvg-einfuehrung-themen` — Deckungsprozess VVG Einfuehrung Themen
+- `do-deckungsabwehr-lebensversicherung` — DO Deckungsabwehr Lebensversicherung
+- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme
+- `fa-versicherungsrecht-start-chronologie-fristen` — FA Versicherungsrecht Start Chronologie Fristen
 - `fachanwalt-kanzlei-krankenversicherung` — Fachanwalt Kanzlei Krankenversicherung
-- `klage-versicherer-triage-versicherungsrecht-schriftsatzkern` — Klage Versicherer Triage Versicherungsrecht Schriftsatzkern
-- `lebens-leistungsablehnung-international-obliegenheitsverletzung` — Lebens Leistungsablehnung International Obliegenheitsverletzung
-- `ombudsmann-gdv-orientierung-regress-abwehr` — Ombudsmann Gdv Orientierung Regress Abwehr
-- `private-spezial-pruefen-rechtsschutz-beweislast` — Private Prüfen Rechtsschutz Beweislast
-- `rentenversicherung-sachversicherung-schnittstelle` — Rentenversicherung Sachversicherung Schnittstelle
-- `themen-fristennotiz-versr-rechtsschutz-versr` — Themen Fristennotiz Versr Rechtsschutz Versr
-- `versicherungsrecht-vergleichsverhandlung-strategie-versr-bafin` — Versicherungsrecht Vergleichsverhandlung Strategie Versr Bafin
-- `versr-bu-anerkennt-leistungspruefung-nachpruefung-anerkenntnis` — Versr Bu Anerkennt Leistungspruefung Nachpruefung Anerkenntnis
+- `fehlerkatalog` — Fehlerkatalog
+- `gebaeudeversicherung-paragraf-86-vvg` — Gebaeudeversicherung Paragraf 86 VVG
+- `haftpflicht-paragraf-100-vvg` — Haftpflicht Paragraf 100 VVG
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Strafzumessung: prüft Normen (§ 46 StGB, §§ 47-50 StGB Strafmilderung/-schärfung, BGH-Strafzumessungsleitlinien) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Strafgericht (Amts-/Landgericht) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Strafzumessung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `153a-stpo-iii-stpo-bewaehrung-stgb` — 153a Stpo Iii Stpo Bewaehrung Stgb
-- `bewaehrung-auflagen-bewaehrungswiderruf-56f-freiheitsstrafe-ohne` — Bewaehrung Auflagen Bewaehrungswiderruf 56f Freiheitsstrafe Ohne
-- `bewaehrung-interessen-deutschem-freiheitsstrafe` — Bewaehrung Interessen Deutschem Freiheitsstrafe
-- `freiheitsstrafe-strafmass-geldstrafe-tagessatzanzahl-vs-stgb` — Freiheitsstrafe Strafmass Geldstrafe Tagessatzanzahl Vs Stgb
-- `geldstrafe-grossen-rechtsmittel-gesamtstrafenfolgen` — Geldstrafe Grossen Rechtsmittel Gesamtstrafenfolgen
-- `gesamtstrafenbildung-stgb-gestaendnis-strafmilderung` — Gesamtstrafenbildung Stgb Gestaendnis Strafmilderung
-- `jgg-jugendstrafe-minder-schwerer-nachtraegliche` — Jgg Jugendstrafe Minder Schwerer Nachtraegliche
-- `orientierung-triage-paragraph-stgb-besonders` — Orientierung Triage Paragraph Stgb Besonders
-- `regelbeispiele-stgb-strafbefehl` — Regelbeispiele Stgb Strafbefehl
-- `strafbefehl-stpo-strafmilderung-stgb-strafrahmen` — Strafbefehl Stpo Strafmilderung Stgb Strafrahmen
-- `strafkammer-strafzumessung-strafzumessungstatsachen` — Strafkammer Strafzumessung Strafzumessungstatsachen
-- `strafrecht-verfahrensstadium-strafbefehl-taeter-opfer` — Strafrecht Verfahrensstadium Strafbefehl Taeter Opfer
-- `strafz-aufklaerungshilfe-kronzeuge-sicherungsverwahrung` — Strafz Aufklaerungshilfe Kronzeuge Sicherungsverwahrung
-- `strafz-strafzumessungstatsachen-strafzumessungs-tatsachen` — Strafz Strafzumessungstatsachen Strafzumessungs Tatsachen
+- `153a-stpo-iii-bewaehrung-stgb` — 153a STPO III Bewaehrung STGB
+- `besonders-formular-portal-und-einreichung` — Besonders Formular Portal und Einreichung
+- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung 56 STGB Positive Sozialprognose
+- `bewaehrung-auflagen-bewaehrungswiderruf-56f` — Bewaehrung Auflagen Bewaehrungswiderruf 56F
+- `bewaehrung-interessen-deutschem` — Bewaehrung Interessen Deutschem
+- `bewaehrungswiderruf-56f-stgb` — Bewaehrungswiderruf 56F STGB
+- `deutschem-tatbestand-beweis-und-belege` — Deutschem Tatbestand Beweis und Belege
+- `freiheitsstrafe-compliance-dokumentation-und-akte` — Freiheitsstrafe Compliance Dokumentation und Akte
+- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Freiheitsstrafe Ohne Bewaehrung Vollstreckung
+- `freiheitsstrafe-strafmass-geldstrafe` — Freiheitsstrafe Strafmass Geldstrafe
+- `geldstrafe-grossen-rechtsmittel` — Geldstrafe Grossen Rechtsmittel
+- `geldstrafe-tagessatzanzahl-bestimmen` — Geldstrafe Tagessatzanzahl Bestimmen
+- `geldstrafe-vs-freiheitsstrafe-47-stgb` — Geldstrafe VS Freiheitsstrafe 47 STGB
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

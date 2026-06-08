@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Wandeldarlehen-Lebenszyklus: ordnet Rolle (Investor, Startup, Geschäftsführung), markiert Frist (Wandlungsoption), wählt Norm (BGB §§ 488 ff. Darlehen, GmbHG/AktG, EStG) und Zuständigkeit (Handelsregister), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Wandeldarlehen Lebenszyklus** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Pruefung
+- `beurkundungspruefung-quellenkarte-check` — Beurkundungspruefung Quellenkarte Check
 - `bilingual-einsprachig` — Bilingual Einsprachig
-- `cap-table-darlehenshoehe-konditionen` — Cap Table Darlehenshoehe Konditionen
+- `bilinguale-vertragserstellung` — Bilinguale Vertragserstellung
+- `cap-table-darlehenshoehe-konditionen` — CAP Table Darlehenshoehe Konditionen
+- `chronologie-fristen` — Chronologie Fristen
+- `darlehenshoehe-konditionen` — Darlehenshoehe Konditionen
 - `dokumenten-upload-formfehler-heilungs` — Dokumenten Upload Formfehler Heilungs
-- `einsprachige-vertragsfassung-vertragserstellung` — Einsprachige Vertragsfassung Vertragserstellung
-- `gesellschafterbeschluss-kapitalerhoehung-vorbereiten` — Gesellschafterbeschluss Kapitalerhoehung Vorbereiten
-- `gesellschafterliste-aktualisieren-gesellschafterversammlung` — Gesellschafterliste Aktualisieren Gesellschafterversammlung
-- `gmbh-vollstaendigen` — Gmbh Vollstaendigen
-- `handelsregisteranmeldung-kapitalerhoehung-kyc-aml` — Handelsregisteranmeldung Kapitalerhoehung Kyc Aml
-- `lebenszyklus-bilinguale-vertragserstellung` — Lebenszyklus Bilinguale Vertragserstellung
-- `mandat-triage-mehrere-parallel` — Mandat Triage Mehrere Parallel
-- `notar-paket-parteien-erfassen` — Notar Paket Parteien Erfassen
-- `post-eintragung-rangruecktritt-formulieren` — Post Eintragung Rangruecktritt Formulieren
-- `sacheinlagebericht-werthaltigkeit-begleitet` — Sacheinlagebericht Werthaltigkeit Begleitet
-- `unterzeichnung-elektronisch-wandelereignis-eingang` — Unterzeichnung Elektronisch Wandelereignis Eingang
+- `einsprachig-verhandlung-vergleich-und-eskalation` — Einsprachig Verhandlung Vergleich und Eskalation
+- `einsprachige-vertragsfassung` — Einsprachige Vertragsfassung
+- `formfehler-heilungs-timeline` — Formfehler Heilungs Timeline
+- `gesellschafterbeschluss-kapitalerhoehung` — Gesellschafterbeschluss Kapitalerhoehung
+- `dokumente-intake` — Dokumente Intake
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

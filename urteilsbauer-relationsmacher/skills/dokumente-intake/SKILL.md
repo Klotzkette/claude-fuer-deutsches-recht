@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Urteilsbauer/Relationsmacher: sortiert Klage, Klageerwiderung, Beweisaufnahme, prüft Datum, Absender, Frist und Beweiswert (Beweisaufnahme-Ergebnis); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Urteilsbauer Relationsmacher** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `aktenintake-schriftsatz-brief-und-memo-bausteine` — Aktenintake Schriftsatz Brief und Memo Bausteine
 - `aktenintake-zivil` — Aktenintake Zivil
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `amts-aktenintake-zivil-anspruchsgrundlagen` — Amts Aktenintake Zivil Anspruchsgrundlagen
-- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Prüfen
-- `berufungsfest-beschluss-bauen-beweisbeschluss-vorbereiten` — Berufungsfest Beschluss Bauen Beweisbeschluss Vorbereiten
-- `berufungsfest-pruefen` — Berufungsfest Prüfen
-- `beschluss-bauen-zpo` — Beschluss Bauen Zpo
+- `amts-fristen-form-zustaendigkeit` — Amts Fristen Form Zustaendigkeit
+- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Pruefen
+- `berufungsfest-beschluss-bauen-beweisbeschluss` — Berufungsfest Beschluss Bauen Beweisbeschluss
+- `berufungsfest-pruefen` — Berufungsfest Pruefen
+- `beschluss-bauen-zpo` — Beschluss Bauen ZPO
+- `beschluss-tatbestand-beweis-und-belege` — Beschluss Tatbestand Beweis und Belege
+- `beschluss-tatbestandsmerkmale` — Beschluss Tatbestandsmerkmale
 - `beweisbeschluss-vorbereiten` — Beweisbeschluss Vorbereiten
-- `beweiswuerdigung-mit-richter-input` — Beweiswuerdigung Mit Richter Input
-- `beweiswuerdigung-richter-cisg-dsgvo-rechtswidriges` — Beweiswuerdigung Richter Cisg Dsgvo Rechtswidriges
-- `cisg-pruefen` — Cisg Prüfen
-- `dokumente-rendern-urteil-docx` — Dokumente Rendern Urteil Docx
-- `dsgvo-rechtswidriges-produkt` — Dsgvo Rechtswidriges Produkt
-- `entscheidungsgruende-redaktion-familienrichter-input` — Entscheidungsgruende Redaktion Familienrichter Input
+- `beweiswuerdigung-mit-richter-input` — Beweiswuerdigung mit Richter Input
+- `beweiswuerdigung-quellenkarte` — Beweiswuerdigung Quellenkarte
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Rechtsberatungsstelle (RDG): sortiert Beratungshilfeschein, Vermögenserklärung, Bescheide Sozialleistungen, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Bescheide); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Rechtsberatungsstelle** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
+- `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
 - `anleiter-pruefwarteschlange` — Anleiter Pruefwarteschlange
-- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung Rdg Konform
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel
+- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung RDG Konform
+- `einarbeitung` — Einarbeitung
+- `einfache-sprache-briefe` — Einfache Sprache Briefe
 - `entwurf-einarbeitung-einfache-sprache` — Entwurf Einarbeitung Einfache Sprache
-- `erzeugung-leitfaden-erstellen-mandanten-kommunikations` — Erzeugung Leitfaden Erstellen Mandanten Kommunikations
-- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle Rdg
-- `mandant-aufnahme` — Mandant Aufnahme
-- `mandantenbrief-memo-rbs-beratungshilfe` — Mandantenbrief Memo Rbs Beratungshilfe
-- `mandantenintake-mandatsuebergabe-international-pro-bono` — Mandantenintake Mandatsuebergabe International Pro Bono
-- `pruefwarteschlange-red-rbst-recherche-interessen` — Pruefwarteschlange Red Rbst Recherche Interessen
-- `rbs-einfuehrung-rbs-rdg-rbst-anlaufstellen` — Rbs Einfuehrung Rbs Rdg Rbst Anlaufstellen
-- `rbst-beratungshilfe-prozesskostenhilfe-niedrigschwellige-rdg` — Rbst Beratungshilfe Prozesskostenhilfe Niedrigschwellige Rdg
-- `recherche-start-rechtsberatungsstelle-semester` — Recherche Start Rechtsberatungsstelle Semester
+- `erstberatung-rdg-grenzen-und-triage` — Erstberatung RDG Grenzen und Triage
+- `erzeugung-leitfaden-erstellen-mandanten` — Erzeugung Leitfaden Erstellen Mandanten
+- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle RDG
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Kanzlei-Allgemein: ordnet Rolle (Anwalt, Mandant, Mitarbeitende), markiert Frist (Mandatsannahme), wählt Norm (BRAO, BORA, FAO, RVG, DSGVO) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,22 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Kanzlei Allgemein** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aktenbestand-pflege-bea-versand` — Aktenbestand Pflege Bea Versand
+- `abwesenheiten-urlaub` — Abwesenheiten Urlaub
+- `akte-anlegen-und-aktenzeichen-zuordnen` — Akte Anlegen und Aktenzeichen Zuordnen
+- `aktenbestand-pflege-bea-versand` — Aktenbestand Pflege BEA Versand
+- `aktenzeichen` — Aktenzeichen
+- `bea-journal` — BEA Journal
+- `bea-versand-pruefen` — BEA Versand Pruefen
 - `buchhaltung-konten-kanzlei-erechnung` — Buchhaltung Konten Kanzlei Erechnung
-- `freundlicher-copilot-kanzlei-handelsregisterabruf` — Freundlicher Copilot Kanzlei Handelsregisterabruf
+- `erechnung` — Erechnung
+- `freundlicher-copilot-kanzlei` — Freundlicher Copilot Kanzlei
+- `fristenbuch-fuehren` — Fristenbuch Fuehren
 - `geburtstage-feiertage-abwesenheiten-urlaub` — Geburtstage Feiertage Abwesenheiten Urlaub
-- `hr-personal-kanzlei-intake` — Hr Personal Kanzlei Intake
-- `integrationen-simulation-kanzlei-kanzleikalender` — Integrationen Simulation Kanzlei Kanzleikalender
-- `kanzlei-allgemein-kaltstart` — Kanzlei Allgemein Kaltstart
-- `kanzlei-allgemein-output-versand` — Kanzlei Allgemein Output Versand
-- `kanzlei-automationen-bea-journal` — Kanzlei Automationen Bea Journal
-- `kanzlei-cowork-kaltstart-interview` — Kanzlei Cowork Kaltstart Interview
-- `kanzlei-kanzlei-aktenzeichen` — Kanzlei Kanzlei Aktenzeichen
-- `kanzlei-mandatsvereinbarung-kanzlei-postlauf` — Kanzlei Mandatsvereinbarung Kanzlei Postlauf
-- `kanzlei-monitor-kanzlei-vertragsentwurf` — Kanzlei Monitor Kanzlei Vertragsentwurf
-- `kanzlei-rechtsprechungsrecherche-fristenbuch-fuehren` — Kanzlei Rechtsprechungsrecherche Fristenbuch Fuehren
+- `handelsregisterabruf` — Handelsregisterabruf
+- `hr-personal-kanzlei-intake` — HR Personal Kanzlei Intake
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Fachanwalt Bau- und Architektenrecht: wählt den nächsten Spezial-Skill nach Engpass (Verjährung 5 Jahre § 634a BGB, Bauvertrag, Pläne, Bautagebuch), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Fachanwalt Bau Architektenrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Chronologie
-- `bauordnungsrecht-einfuehrung-fachanwalt-hoai` — Bauordnungsrecht Einfuehrung Fachanwalt Hoai
-- `bautraeger-abnahme-formgerecht-abnahmefiktion-clause-anlagen` — Bautraeger Abnahme Formgerecht Abnahmefiktion Clause Anlagen
-- `bautraeger-belehrungspflicht-bautraeger-bonitaetspruefung` — Bautraeger Belehrungspflicht Bautraeger Bonitaetspruefung
-- `bautraeger-gemeinschaftliche-maengelverfolgung-insolvenz` — Bautraeger Gemeinschaftliche Maengelverfolgung Insolvenz
-- `bautraeger-leistungsbeschreibung-baubeschreibung-mabv-erweiterte` — Bautraeger Leistungsbeschreibung Baubeschreibung Mabv Erweiterte
-- `bautraeger-mabv-grundlagen-ratenplan-sicherheit-buergschaft` — Bautraeger Mabv Grundlagen Ratenplan Sicherheit Buergschaft
-- `bautraeger-mabv-vollstaendigkeitserklaerung-maengelruegen` — Bautraeger Mabv Vollstaendigkeitserklaerung Maengelruegen
-- `bautraeger-rechtswidrige-bauvertrag-vertragstypen-red` — Bautraeger Rechtswidrige Bauvertrag Vertragstypen Red
-- `bautraeger-rueckabwicklung-insolvenz-selbstvornahme-typische` — Bautraeger Rueckabwicklung Insolvenz Selbstvornahme Typische
-- `bautraeger-typische-notar-weg-abgeschlossenheitsbescheinigung` — Bautraeger Typische Notar Weg Abgeschlossenheitsbescheinigung
-- `bautraeger-weg-bautraeger-weg-erstgespraech-mandatsannahme` — Bautraeger Weg Bautraeger Weg Erstgespraech Mandatsannahme
-- `bgb-bau-einfuehrung-bautraeger-eigenkapital-notarvertrag` — Bgb Bau Einfuehrung Bautraeger Eigenkapital Notarvertrag
-- `fachanwalt-bau-architektenrecht-bauablauf-vbg-bautraeger-hoai` — Fachanwalt Bau Architektenrecht Bauablauf Vbg Bautraeger Hoai
+- `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
+- `abnahme-quellenkarte` — Abnahme Quellenkarte
+- `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
+- `bau-abnahme-nachtrag` — BAU Abnahme Nachtrag
+- `bauablauf-vbg` — Bauablauf VBG
+- `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` — Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19
+- `bauordnungsrecht-einfuehrung-fachanwalt-hoai` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
+- `bautraeger-abnahme-formgerecht-abnahmefiktion` — Bautraeger Abnahme Formgerecht Abnahmefiktion
+- `bautraeger-belehrungspflicht` — Bautraeger Belehrungspflicht
+- `bautraeger-gemeinschaftliche` — Bautraeger Gemeinschaftliche
+- `bautraeger-leistungsbeschreibung` — Bautraeger Leistungsbeschreibung
+- `bautraeger-mabv-grundlagen-ratenplan` — Bautraeger MABV Grundlagen Ratenplan
+- `bautraeger-mabv-vollstaendigkeitserklaerung` — Bautraeger MABV Vollstaendigkeitserklaerung
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

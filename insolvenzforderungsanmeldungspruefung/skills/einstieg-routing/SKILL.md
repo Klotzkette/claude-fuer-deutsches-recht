@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Insolvenzforderungsanmeldung: ordnet Rolle (Gläubiger, Insolvenzverwalter, Schuldner), markiert Frist (Anmeldefrist im Eröffnungsbeschluss), wählt Norm (§§ 174 ff. InsO, InsVV, Tabelle § 175 InsO) und Zuständigkeit (Insolvenzgericht), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Insolvenzforderungsanmeldungspruefung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aktenanlage-batchregister` — Aktenanlage Batchregister
+- `beleg-und-urkundencheck` — Beleg und Urkundencheck
+- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
+- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
+- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
+- `dubletten-serienforderungen` — Dubletten Serienforderungen
 - `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
-- `iap-anmeldepruefung-bauleiter-aussonderung-absonderung` — Iap Anmeldepruefung Bauleiter Aussonderung Absonderung
-- `iap-rangordnung-ifap-aktenanlage-ifap-beleg` — Iap Rangordnung Ifap Aktenanlage Ifap Beleg
-- `ifap-dubletten-serienforderungen-formalpruefung-grund-betrag` — Ifap Dubletten Serienforderungen Formalpruefung Grund Betrag
-- `ifap-insolvenzforderungsanmeldungspruefung-intake` — Ifap Insolvenzforderungsanmeldungspruefung Intake
-- `ifap-intake-kanalcheck-masseverbindlichkeit-abgrenzen` — Ifap Intake Kanalcheck Masseverbindlichkeit Abgrenzen
-- `ifap-nachtraegliche-anmeldung-pruefungstermin-gate` — Ifap Nachtraegliche Anmeldung Pruefungstermin Gate
-- `ifap-pruefentscheidung-vbuh` — Ifap Pruefentscheidung Vbuh
-- `ifap-rang-nachrang-schuldnerwiderspruch-streitige-forderung` — Ifap Rang Nachrang Schuldnerwiderspruch Streitige Forderung
-- `ifap-tabellenauszug-tabellenimport-verteilung-bestrittene` — Ifap Tabellenauszug Tabellenimport Verteilung Bestrittene
-- `kanalcheck-beweislast-masseverbindlichkeit-sonderfall` — Kanalcheck Beweislast Masseverbindlichkeit Sonderfall
-- `rang-tabellenauszug-tabellenimport` — Rang Tabellenauszug Tabellenimport
-- `vbuh` — Vbuh
+- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `forderungsanmeldung-vbuh-verhandlung-vergleich-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
+- `formalpruefung-174` — Formalpruefung 174
+- `grund-betrag-zinsen` — Grund Betrag Zinsen
+- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

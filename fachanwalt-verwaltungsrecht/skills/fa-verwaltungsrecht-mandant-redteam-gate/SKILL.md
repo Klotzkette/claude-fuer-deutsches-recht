@@ -1,6 +1,6 @@
 ---
 name: fa-verwaltungsrecht-mandant-redteam-gate
-description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen (Wind, Biogas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen Wind, Biogas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # FA Verwaltungsrecht Mandant Redteam Gate

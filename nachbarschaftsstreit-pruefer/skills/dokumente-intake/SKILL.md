@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Nachbarschaftsstreit: sortiert Schiedsamtsprotokoll, Lärmaufzeichnung, Lichtbilder Grenzbau, prüft Datum, Absender, Frist und Beweiswert (Lärmprotokoll, Lichtbilder); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Nachbarschaftsstreit Prüfer** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `anspruchslandkarte-bgb-aufforderungsschreiben-nachbar` — Anspruchslandkarte Bgb Aufforderungsschreiben Nachbar
-- `aufforderung-beweise-red-grenzbaum` — Aufforderung Beweise Red Grenzbaum
-- `drohender-einsturz-einfriedung-zaun-einstweilige-verfuegung` — Drohender Einsturz Einfriedung Zaun Einstweilige Verfuegung
-- `fristennotiz-naechster-ueberbau-akten-grundstuecksaufnahme` — Fristennotiz Naechster Ueberbau Akten Grundstuecksaufnahme
-- `grenzbaum-grenzanlage-hammerschlags-leiterrecht-horrorfall` — Grenzbaum Grenzanlage Hammerschlags Leiterrecht Horrorfall
-- `hammerschlagsrecht-hecke-immissionen` — Hammerschlagsrecht Hecke Immissionen
-- `immissionen-laerm-landesnachbarrecht-nach-grenzbebauung` — Immissionen Laerm Landesnachbarrecht Nach Grenzbebauung
-- `klage-beweislast-nachbarrecht-nachbarschaftsstreit` — Klage Beweislast Nachbarrecht Nachbarschaftsstreit
-- `nach-laermimmissionen-mediation-vorrang-nachbarrechtsuebersicht` — Nach Laermimmissionen Mediation Vorrang Nachbarrechtsuebersicht
-- `nachbarrecht-kaltstart-triage` — Nachbarrecht Kaltstart Triage
-- `notweg-ueberhang-sonderfall-edge` — Notweg Ueberhang Sonderfall Edge
-- `notweg-zufahrt-selbsthilfe-eskalationsgrenzen-aeste` — Notweg Zufahrt Selbsthilfe Eskalationsgrenzen Aeste
-- `ueberbau-ueberhang-aeste-mediation-nachbarschaftsfrieden` — Ueberbau Ueberhang Aeste Mediation Nachbarschaftsfrieden
+- `aeste-risikoampel-und-gegenargumente` — Aeste Risikoampel und Gegenargumente
+- `akten-und-grundstuecksaufnahme` — Akten und Grundstuecksaufnahme
+- `anschluss-router` — Anschluss Router
+- `anspruchslandkarte-bgb-aufforderungsschreiben` — Anspruchslandkarte BGB Aufforderungsschreiben
+- `aufforderung-beweise-red-grenzbaum` — Aufforderung Beweise RED Grenzbaum
+- `aufforderungsschreiben-nachbar` — Aufforderungsschreiben Nachbar
+- `beweise-red-team-und-qualitaetskontrolle` — Beweise RED Team und Qualitaetskontrolle
+- `beweissicherung-ortstermin-fotos` — Beweissicherung Ortstermin Fotos
+- `drohender-einsturz-einfriedung-zaun` — Drohender Einsturz Einfriedung Zaun
+- `einfriedung-zaun-mauer-hecke` — Einfriedung Zaun Mauer Hecke
+- `einstweilige-verfuegung-und-klage` — Einstweilige Verfuegung und Klage
+- `fristennotiz-naechster-ueberbau-akten` — Fristennotiz Naechster Ueberbau Akten
+- `grenzbaum-grenzanlage-hammerschlags` — Grenzbaum Grenzanlage Hammerschlags
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

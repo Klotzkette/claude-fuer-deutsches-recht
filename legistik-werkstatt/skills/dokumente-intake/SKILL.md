@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Legistik-Werkstatt (Gesetzgebung): sortiert Referentenentwurf, Kabinettvorlage, BR-Drucksache, prüft Datum, Absender, Frist und Beweiswert (Folgenabschätzung, Stellungnahmen Verbände); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Legistik Werkstatt** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh` — Allgemein Chronologie Fristen Legw Bmleh
-- `begruendung-allgemein-und-besonders` — Begruendung Allgemein Und Besonders
-- `dokumente-rendern-docx-pdf` — Dokumente Rendern Docx Pdf
-- `europarechtskonformitaet` — Europarechtskonformitaet
-- `folgenabschaetzung-erfuellungsaufwand` — Folgenabschaetzung Erfuellungsaufwand
-- `folgenabschaetzung-erfuellungsaufwand-folgenabschaetzung` — Folgenabschaetzung Erfuellungsaufwand Folgenabschaetzung
-- `folgenabschaetzung-nachhaltigkeit` — Folgenabschaetzung Nachhaltigkeit
-- `formulierungshilfe-bauen` — Formulierungshilfe Bauen
-- `gesetzesentwurf-kabinett` — Gesetzesentwurf Kabinett
-- `gesetzgebungskompetenz-pruefen` — Gesetzgebungskompetenz Prüfen
-- `goldplating-vermeiden` — Goldplating Vermeiden
-- `goldplating-vermeiden-inkrafttreten-uebergangsrecht-legistik` — Goldplating Vermeiden Inkrafttreten Uebergangsrecht Legistik
-- `inkrafttreten-uebergangsrecht` — Inkrafttreten Uebergangsrecht
-- `laender-landtage-legistik-ministerien-opposition` — Länder Landtage Legistik Ministerien Opposition
+- `aa-ausfuhrkontrolle` — AA Ausfuhrkontrolle
+- `aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension` — AA Ausfuhrkontrolle und Aussenwirtschaftsdimension
+- `aa-eu-bmi-verwaltungsverfahren` — AA EU BMI Verwaltungsverfahren
+- `aa-eu-grundlagen-und-ratsverfahren` — AA EU Grundlagen und Ratsverfahren
+- `aa-konsular-bmas-arbeitsrecht` — AA Konsular Bmas Arbeitsrecht
+- `aa-konsular-und-passrecht` — AA Konsular und Passrecht
+- `aa-sanktionsumsetzung-internationale` — AA Sanktionsumsetzung Internationale
+- `aa-sanktionsumsetzung-und-internationale-abkommen` — AA Sanktionsumsetzung und Internationale Abkommen
+- `aa-voelkerrecht-und-vertragsgesetzgebung` — AA Voelkerrecht und Vertragsgesetzgebung
+- `aenderungs-formular-portal-einreichungslogik` — Aenderungs Formular Portal Einreichungslogik
+- `aenderungs-formular-portal-und-einreichung` — Aenderungs Formular Portal und Einreichung
+- `baut-quellenkarte` — Baut Quellenkarte
+- `begruendung-allgemein-und-besonders` — Begruendung Allgemein und Besonders
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Normenanker
 

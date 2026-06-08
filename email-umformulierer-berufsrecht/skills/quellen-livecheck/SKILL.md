@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für E-Mail-Umformulierung im Berufsrecht: prüft Normen (§ 43a BRAO, § 49b BRAO, BORA) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt RAK und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Email Umformulierer Berufsrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `email-berufsrecht-berufliche-korrespondenz` — Allgemeine Berufliche Korrespondenz
-- `allgemeine-sonderfall-berufsrechtskonform-bora` — Allgemeine Sonderfall Berufsrechtskonform Bora
-- `anrede-und-grussformeln` — Anrede Und Grussformeln
-- `berufliche-fristennotiz-emotionale-steuerberater` — Berufliche Fristennotiz Emotionale Steuerberater
-- `bora-konformitaetspruefung` — Bora Konformitaetspruefung
-- `bora-konformitaetspruefung-brao-email-eingangsanalyse` — Bora Konformitaetspruefung Brao Email Eingangsanalyse
-- `brao-interessen-fokus-formuliert` — Brao Interessen Fokus Formuliert
-- `brao-konformitaetspruefung` — Brao Konformitaetspruefung
-- `email-eingangsanalyse` — Email Eingangsanalyse
-- `emotionale-trigger-ironie-sarkasmus-klare-bitte` — Emotionale Trigger Ironie Sarkasmus Klare Bitte
-- `emotionale-trigger-katalog` — Emotionale Trigger Katalog
-- `frist-und-mahnung-hoeflich` — Frist Und Mahnung Hoeflich
-- `hoefliche-konformitaet-mails` — Hoefliche Konformitaet Mails
+- `allgemeine-sonderfall-edge-case` — Allgemeine Sonderfall Edge Case
+- `anrede-und-grussformeln` — Anrede und Grussformeln
+- `berufliche-fristennotiz-emotionale` — Berufliche Fristennotiz Emotionale
+- `berufliche-fristennotiz-naechster-schritt` — Berufliche Fristennotiz Naechster Schritt
+- `berufsrechtskonform-verhandlung-vergleich-und-eskalation` — Berufsrechtskonform Verhandlung Vergleich und Eskalation
+- `bora-internationaler-bezug-und-schnittstellen` — BORA Internationaler Bezug und Schnittstellen
+- `bora-konformitaetspruefung` — BORA Konformitaetspruefung
+- `bora-konformitaetspruefung-brao-email` — BORA Konformitaetspruefung BRAO Email
+- `brao-interessen-fokus-formuliert` — BRAO Interessen Fokus Formuliert
+- `brao-konformitaetspruefung` — BRAO Konformitaetspruefung
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `edge-case-verhandlung-bora-international` — Edge Case Verhandlung BORA International
+- `email-berufsrecht-berufliche-korrespondenz` — Email Berufsrecht Berufliche Korrespondenz
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

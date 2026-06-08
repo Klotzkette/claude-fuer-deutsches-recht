@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Strafbefehl-Verteidigung: prüft Normen (§§ 407 ff. StPO, § 410 StPO Einspruch 2 Wochen) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Strafbefehl Verteidiger** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `deal-beweislast-einspruch-einspruchsentscheidung-folgen` — Deal Beweislast Einspruch Einspruchsentscheidung Folgen
-- `einstellung-153a-hauptverhandlung-vorbereitung-strafbefehl` — Einstellung 153a Hauptverhandlung Vorbereitung Strafbefehl
-- `einstellung-fahrerlaubnis-mandantenentscheidung-hauptverhandlung` — Einstellung Fahrerlaubnis Mandantenentscheidung Hauptverhandlung
-- `gegen-strafbefehl-einspruch-strafbefehl-aktenanlage` — Gegen Strafbefehl Einspruch Strafbefehl Aktenanlage
-- `nebenfolgen-fahrerlaubnis-strafbefehl-pflichtverteidiger` — Nebenfolgen Fahrerlaubnis Strafbefehl Pflichtverteidiger
+- `aktenanlage-fehlerkatalog` — Aktenanlage Fehlerkatalog
+- `akteneinsicht-behoerden-gericht-und-registerweg` — Akteneinsicht Behoerden Gericht und Registerweg
+- `deal-beweislast-einspruch` — Deal Beweislast Einspruch
+- `einspruch-risikoampel-und-gegenargumente` — Einspruch Risikoampel und Gegenargumente
+- `einspruchsentscheidung-und-folgen` — Einspruchsentscheidung und Folgen
+- `einstellung-153a-hauptverhandlung` — Einstellung 153a Hauptverhandlung
+- `einstellung-fahrerlaubnis` — Einstellung Fahrerlaubnis
+- `fahrerlaubnis-mandantenentscheidung` — Fahrerlaubnis Mandantenentscheidung
+- `hauptverhandlung-international-schnittstellen` — Hauptverhandlung International Schnittstellen
+- `mandantenkommunikation-redteam-qualitygate` — Mandantenkommunikation Redteam Qualitygate
+- `nebenfolgen-fahrerlaubnis-strafbefehl` — Nebenfolgen Fahrerlaubnis Strafbefehl
 - `nebenfolgen-strafbefehl-strafbefehls` — Nebenfolgen Strafbefehl Strafbefehls
-- `rechtsmittel-nach-tagessaetze-geldstrafe-strafbefehl` — Rechtsmittel Nach Tagessaetze Geldstrafe Strafbefehl
-- `stbv-einspruch-strafbefehl-fahrerlaubnis-auslaendischer-mandant` — Stbv Einspruch Strafbefehl Fahrerlaubnis Auslaendischer Mandant
-- `stbv-strafbefehl-abwesenheit-vertretung-akteneinsicht` — Stbv Strafbefehl Abwesenheit Vertretung Akteneinsicht
-- `strafbefehl-einlassung-deal-verstaendigung-einspruch` — Strafbefehl Einlassung Deal Verstaendigung Einspruch
-- `strafbefehl-quality-gate-akteneinsicht` — Strafbefehl Quality Gate Akteneinsicht
-- `tagessaetze-verstaendigung-sonderfall-verteidiger` — Tagessaetze Verstaendigung Sonderfall Verteidiger
-- `verteidigung-wiedereinsetzung-zeugenstrategie-interessen` — Verteidigung Wiedereinsetzung Zeugenstrategie Interessen
+- `pflichtverteidigung-quellenkarte` — Pflichtverteidigung Quellenkarte
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

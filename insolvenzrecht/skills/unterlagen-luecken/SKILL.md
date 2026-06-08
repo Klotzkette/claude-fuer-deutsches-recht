@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Insolvenzrecht (Allgemein): trennt fehlende Tatsachen von fehlenden Belegen (Insolvenzantrag, Vermögensverzeichnis, Gutachten Sachverständiger), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht (AG)), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Insolvenzrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `anfechtungsrechte-antragspflicht-15a-auslaendischer` — Anfechtungsrechte Antragspflicht 15a Auslaendischer
-- `antragspflicht-spezial-belegmatrix-spezial-chronologie` — Antragspflicht Belegmatrix Chronologie
-- `feststellung-sonderfall-glaeubigerantrag-inso-insolvenzrecht` — Feststellung Sonderfall Glaeubigerantrag Inso Insolvenzrecht
-- `glaeubigerantrag-glaeubigerausschuss-mitwirkung-inso-dsgvo` — Glaeubigerantrag Glaeubigerausschuss Mitwirkung Inso Dsgvo
-- `glaeubigerausschuss-fristennotiz-ueberschuldung-do-versicherung` — Glaeubigerausschuss Fristennotiz Ueberschuldung Do Versicherung
-- `inso-gerichtliche-aufsichtswege-glaeubigerausschuss-praxis` — Inso Gerichtliche Aufsichtswege Glaeubigerausschuss Praxis
-- `inso-lma-facility-massearmut-massekostenmangel-negativeintrag` — Inso Lma Facility Massearmut Massekostenmangel Negativeintrag
-- `inso-npl-kreditkauf-restschuldbefreiung-versagungsgruende-schufa` — Inso Npl Kreditkauf Restschuldbefreiung Versagungsgruende Schufa
-- `inso-tabelle-verbraucherinsolvenz-leitfaden-insol-insolvenzgeld` — Inso Tabelle Verbraucherinsolvenz Leitfaden Insol Insolvenzgeld
-- `insol-sanierungsgewinn-7b-debt-equity-eigenverwaltung-cra-fruehe` — Insol Sanierungsgewinn 7b Debt Equity Eigenverwaltung Cra Fruehe
-- `insol-sanierungsgewinn-insolvenzreife-antragspflicht-insol` — Insol Sanierungsgewinn Insolvenzreife Antragspflicht Insol
-- `insol-sanierungsgewinn-liquidation-mandantenwarnung-iv` — Insol Sanierungsgewinn Liquidation Mandantenwarnung Iv
-- `insol-sanierungsgewinn-uebertragende-finanzamt-stundung-verzicht` — Insol Sanierungsgewinn Uebertragende Finanzamt Stundung Verzicht
-- `insolvenzrecht-kaltstart-interview` — Insolvenzrecht Kaltstart Interview
+- `anfechtungsrechte-antragspflicht-15a` — Anfechtungsrechte Antragspflicht 15A
+- `anschluss` — Anschluss
+- `antragspflicht-15a-17-19` — Antragspflicht 15A 17 19
+- `antragspflicht-15a-inso` — Antragspflicht 15A Inso
+- `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Auslaendischer Insolvenzverwalter Register und Grundbuch
+- `auslaendischer-office-holder-register-und-grundbuch` — Auslaendischer Office Holder Register und Grundbuch
+- `belegmatrix-formular-portal-und-einreichung` — Belegmatrix Formular Portal und Einreichung
+- `chronologie-internationaler-bezug-und-schnittstellen` — Chronologie Internationaler Bezug und Schnittstellen
+- `do-versicherung-manager-haftung` — DO Versicherung Manager Haftung
+- `einfuehrung-verhandlung-vergleich-und-eskalation` — Einfuehrung Verhandlung Vergleich und Eskalation
+- `feststellung-sonderfall-glaeubigerantrag-inso` — Feststellung Sonderfall Glaeubigerantrag Inso
+- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung Glaeubiger 174 177 Inso
+- `glaeubigerantrag-glaeubigerausschuss` — Glaeubigerantrag Glaeubigerausschuss
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

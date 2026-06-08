@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Tabellenreview (Excel/CSV): prüft Normen (GoBD, Tax compliance) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Finanzamt und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Tabellenreview 3d** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aggregation-spaltenprompts-definieren-arbeitsblatt` — Aggregation Spaltenprompts Definieren Arbeitsblatt
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aggregation-spaltenprompts-definieren` — Aggregation Spaltenprompts Definieren
 - `arbeitsblatt-perspektiven-definieren` — Arbeitsblatt Perspektiven Definieren
+- `arbeitsblatt-schriftsatz-brief-memo-bausteine` — Arbeitsblatt Schriftsatz Brief Memo Bausteine
+- `arbeitsblatt-schriftsatz-brief-und-memo-bausteine` — Arbeitsblatt Schriftsatz Brief und Memo Bausteine
 - `audit-trail-protokoll` — Audit Trail Protokoll
 - `belegkette-rueckverfolgung` — Belegkette Rueckverfolgung
-- `belegkette-rueckverfolgung-caching-rerun-dokumentstapel` — Belegkette Rueckverfolgung Caching Rerun Dokumentstapel
-- `caching-und-teil-rerun` — Caching Und Teil Rerun
+- `belegkette-rueckverfolgung-caching-rerun` — Belegkette Rueckverfolgung Caching Rerun
+- `caching-und-teil-rerun` — Caching und Teil Rerun
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
 - `datenpunkt-dokument-excel-beweislast` — Datenpunkt Dokument Excel Beweislast
+- `datenpunkt-dokumentenmatrix-lueckenliste` — Datenpunkt Dokumentenmatrix Lueckenliste
+- `dokument-behoerden-gericht-und-registerweg` — Dokument Behoerden Gericht und Registerweg
 - `dokumentstapel-aufnehmen` — Dokumentstapel Aufnehmen
-- `excel-multi-kreuzblatt-konsistenzpruefung-pdf-bericht` — Excel Multi Kreuzblatt Konsistenzpruefung Pdf Bericht
-- `excel-multi-sheet-export` — Excel Multi Sheet Export
-- `gestapelt-immobilien-massenpruefung-interessen` — Gestapelt Immobilien Massenpruefung Interessen
-- `kreuzblatt-konsistenzpruefung` — Kreuzblatt Konsistenzpruefung
-- `mehrblatt-sonderfall-onboarding-perspektiven` — Mehrblatt Sonderfall Onboarding Perspektiven
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

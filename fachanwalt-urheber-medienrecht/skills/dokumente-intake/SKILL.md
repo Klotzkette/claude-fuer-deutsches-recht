@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fachanwalt Urheber- und Medienrecht: sortiert Lizenzvertrag, Verlagsvertrag, Abmahnung, prüft Datum, Absender, Frist und Beweiswert (Werknachweis, Lizenzkette); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fachanwalt Urheber Medienrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht` — Erstgespraech Mandatsannahme Fachanwalt Urheber Medienrecht
+- `erstgespraech-mandatsannahme-fachanwalt` — Erstgespraech Mandatsannahme Fachanwalt
+- `fa-urheber-medien-mandant-redteam-gate` — FA Urheber Medien Mandant Redteam Gate
+- `fa-urheber-medien-start-chronologie-fristen` — FA Urheber Medien Start Chronologie Fristen
 - `fachanwalt-gewerblicher-kanzlei` — Fachanwalt Gewerblicher Kanzlei
-- `gegendarstellung-presse-mandat-triage-schriftsatzkern` — Gegendarstellung Presse Mandat Triage Schriftsatzkern
-- `gegendarstellung-presse-mod-erklaerung-orientierung` — Gegendarstellung Presse Mod Erklaerung Orientierung
-- `medienrecht-lizenzvertrag-urhmr-urhebervertrag` — Medienrecht Lizenzvertrag Urhmr Urhebervertrag
-- `medienverfuegung-beweislast-persoenlichkeitsrecht` — Medienverfuegung Beweislast Persoenlichkeitsrecht
-- `presse-gegendarstellung-schiedsstelle-dpma-tdm-44b` — Presse Gegendarstellung Schiedsstelle Dpma Tdm 44b
-- `presse-presserecht-rechtsschutz-interessen` — Presse Presserecht Rechtsschutz Interessen
-- `urhmr-einfuehrung-rechtsfelder-ki-generierter` — Urhmr Einfuehrung Rechtsfelder Ki Generierter
-- `urhmr-presserecht-gegendarstellung-presserechtsbrief-leitfaden` — Urhmr Presserecht Gegendarstellung Presserechtsbrief Leitfaden
-- `vergleichsverhandlung-strategie` — Vergleichsverhandlung Strategie
-- `verlagsredaktion-international-urheber-abmahnung-urhmr-deepfake` — Verlagsredaktion International Urheber Abmahnung Urhmr Deepfake
+- `filesharing-stoererhaftung` — Filesharing Stoererhaftung
+- `filmrecht-paragraf-89-urhg` — Filmrecht Paragraf 89 Urhg
+- `gegendarstellung-fehlerkatalog` — Gegendarstellung Fehlerkatalog
+- `gegendarstellung-presse-mandat-triage` — Gegendarstellung Presse Mandat Triage
+- `gegendarstellung-presse-mod-erklaerung` — Gegendarstellung Presse MOD Erklaerung
+- `link-haftung-paragraf-7-tmg` — Link Haftung Paragraf 7 TMG
+- `medienrecht-lizenzvertrag-urhmr` — Medienrecht Lizenzvertrag Urhmr
+- `medienstaatsvertrag-quellenkarte` — Medienstaatsvertrag Quellenkarte
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

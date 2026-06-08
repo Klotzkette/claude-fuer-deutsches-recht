@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Berufsrechts-KI bei Vertragsprüfung: wählt den nächsten Spezial-Skill nach Engpass (Rechtzeitige Mandatsannahme, AVV-Vertrag, Mandatsvertrag, Datenschutzfolgeabschätzung), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Berufsrecht Ki Vertragspruefung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `ai-act-rollen-kanzlei-provider-deployer-api` — Ai Act Rollen Kanzlei Provider Deployer Api
-- `br-ki-vertragspruefung-brki-rollout-chronologie` — Allgemein Brki Rollout Chronologie
+- `ai-act-rollen-kanzlei-provider-deployer-api` — AI ACT Rollen Kanzlei Provider Deployer API
 - `anbietern-belehrung-sonderfall-edge` — Anbietern Belehrung Sonderfall Edge
-- `art-50-ki-vo-schriftsatz-marketing-chatbot` — Art 50 Ki Vo Schriftsatz Marketing Chatbot
-- `avv-grenzpruefung-brki-anbieter-brki-eu` — Avv Grenzpruefung Brki Anbieter Brki Eu
-- `avv-grenzpruefung-datenschutz` — Avv Grenzpruefung Datenschutz
-- `berufsrecht-ki-vertragspruefung-kaltstart-interview` — Berufsrecht Ki Vertragspruefung Kaltstart Interview
-- `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen Brao
-- `brki-anbieter-due-diligence` — Brki Anbieter Due Diligence
-- `brki-eu-us-dpf-transferpruefung` — Brki Eu Us Dpf Transferpruefung
-- `brki-rag-bro-grundlagen-cloud-act` — Brki Rag Bro Grundlagen Cloud Act
-- `brki-rag-vertraulichkeit-spezial` — Brki Rag Vertraulichkeit Spezial
-- `brki-rollout-trainings-workflow` — Brki Rollout Trainings Workflow
-- `bro-grundlagen-ki-einsatz` — Bro Grundlagen Ki Einsatz
+- `anbietern-schriftsatz-brief-memo-bausteine` — Anbietern Schriftsatz Brief Memo Bausteine
+- `art-50-ki-vo-schriftsatz-marketing-chatbot` — ART 50 KI VO Schriftsatz Marketing Chatbot
+- `avv-grenzpruefung-brki-anbieter-eu` — AVV Grenzpruefung Brki Anbieter EU
+- `avv-grenzpruefung-datenschutz` — AVV Grenzpruefung Datenschutz
+- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Uebergabe
+- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Uebergabe
+- `berufsrecht-sonderfall-edge-case` — Berufsrecht Sonderfall Edge Case
+- `berufsrecht-sonderfall-und-edge-case` — Berufsrecht Sonderfall und Edge Case
+- `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen BRAO
+- `bnoto-interessen` — Bnoto Interessen
+- `bnoto-mehrparteien-konflikt-und-interessen` — Bnoto Mehrparteien Konflikt und Interessen
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

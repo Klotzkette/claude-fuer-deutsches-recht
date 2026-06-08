@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Fachanwalt Transport Speditionsrecht: Diese Output-Weiche für Fachanwalt Transport Speditionsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Fachanwalt Transport- und Speditionsrecht: stimmt Adressat (Absender, Frachtführer, Empfänger), Frist (CMR Klage 1 Jahr / 3 Jahre Vorsatz) und Form auf den Zweck ab — typische Outputs: Schadensklage, Sicherungsvertrag, Frachtklage."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Fachanwalt Transport Speditionsrecht: Die
 
 Diese Output-Weiche für **Fachanwalt Transport Speditionsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `autonome-lkw-cmr-schadensregulierung-speditionshaftung-hgb` — Autonome Lkw Cmr Schadensregulierung Speditionshaftung Hgb
-- `cmr-haftung-ladungsschaden-frachtfuehrerhaftung` — Cmr Haftung Ladungsschaden Frachtfuehrerhaftung
+- `autonome-lkw-cmr-schadensregulierung` — Autonome LKW CMR Schadensregulierung
+- `cmr-haftung-art-17-cmr` — CMR Haftung ART 17 CMR
+- `cmr-haftung-ladungsschaden` — CMR Haftung Ladungsschaden
 - `cotif-fachanwalt-haager` — Cotif Fachanwalt Haager
-- `hgb-kabotage-beweislast-kanzlei-red` — Hgb Kabotage Beweislast Kanzlei Red
+- `fa-transport-spedition-mandant-redteam` — FA Transport Spedition Mandant Redteam
+- `fa-transport-spedition-start-chronologie-fristen` — FA Transport Spedition Start Chronologie Fristen
+- `frachtfuehrerhaftung-paragraf-425-hgb` — Frachtfuehrerhaftung Paragraf 425 HGB
+- `gefahrgut-adr-paragraf-9-gefstoffvo` — Gefahrgut ADR Paragraf 9 Gefstoffvo
+- `hgb-kabotage-beweislast-kanzlei-red-team-korrektur` — HGB Kabotage Beweislast Kanzlei RED Team Korrektur
+- `ladungsschaden-art-23-cmr` — Ladungsschaden ART 23 CMR
 - `lieferverzug-orientierung-mandat-triage` — Lieferverzug Orientierung Mandat Triage
-- `marktzugang-sonderfall-montrealer-spezial-pruefen` — Marktzugang Sonderfall Montrealer Prüfen
-- `regeln-interessen-schnittstelle-spedition` — Regeln Interessen Schnittstelle Spedition
-- `reklamationsschreiben-cmr-schriftsatzkern-substantiierung-adsp` — Reklamationsschreiben Cmr Schriftsatzkern Substantiierung Adsp
-- `speditionsrecht-tio-schiedsgericht-frachtvertrag` — Speditionsrecht Tio Schiedsgericht Frachtvertrag
-- `trans-cmr-frachtbrief-hgb-spedition-kabotage-marktzugang` — Trans Cmr Frachtbrief Hgb Spedition Kabotage Marktzugang
-- `trans-multimodaler-transr-cmr-transr-multimodaler` — Trans Multimodaler Transr Cmr Transr Multimodaler
-- `trans-transport-visby` — Trans Transport Visby
-- `transr-einfuehrung-rechtsquellen` — Transr Einfuehrung Rechtsquellen
+- `luftfracht-monteral-uebereinkommen` — Luftfracht Monteral Uebereinkommen
+- `marktzugang-sonderfall-montrealer` — Marktzugang Sonderfall Montrealer
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

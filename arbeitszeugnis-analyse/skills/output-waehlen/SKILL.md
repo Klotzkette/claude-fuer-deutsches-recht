@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Plugin Arbeitszeugnis Analyse: Diese Output-Weiche für Arbeitszeugnis Analyse entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Arbeitszeugnis-Analyse: stimmt Adressat (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung) und Form auf den Zweck ab — typische Outputs: Notenmatrix, Geheimcode-Befund, Berichtigungsklage."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Plugin Arbeitszeugnis Analyse: Diese Output-Weic
 
 Diese Output-Weiche für **Arbeitszeugnis Analyse** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `ampelsystem-tabellenausgabe` — Ampelsystem Tabellenausgabe
+- `arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste` — Arbeitszeugnis Ampelsystem Dokumentenmatrix Lueckenliste
+- `arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk` — Arbeitszeugnis Codeworte Compliance Dokumentation Aktenvermerk
+- `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen` — Arbeitszeugnis Deutscher Tatbestandsmerkmale Beweisfragen
+- `arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine` — Arbeitszeugnis Geheimcodes Schriftsatz Brief Memo Bausteine
+- `arbeitszeugnis-gruen-behoerden-gerichts-registerweg` — Arbeitszeugnis Gruen Behoerden Gerichts Registerweg
+- `arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung` — Arbeitszeugnis Negative Zahlen Schwellenwerte Berechnung
+- `arbeitszeugnis-orange-risikoampel-gegenargumente` — Arbeitszeugnis Orange Risikoampel Gegenargumente
+- `arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation` — Arbeitszeugnis Schaufenster Verhandlung Vergleich Eskalation
+- `arbeitszeugnis-zeugnisanalyse-wortlaut-codes` — Arbeitszeugnis Zeugnisanalyse Wortlaut Codes
 - `aufforderungsschreiben-arbeitgeber` — Aufforderungsschreiben Arbeitgeber
 - `azubi-zeugnis-analyse` — Azubi Zeugnis Analyse
 - `bereichs-drift-detektor` — Bereichs Drift Detektor
-- `branchen-spezifische-formulierungen` — Branchen Spezifische Formulierungen
-- `erstgespraech-und-mandatsannahme` — Erstgespraech Und Mandatsannahme
-- `geheimcode-katalog` — Geheimcode Katalog
-- `gesamtnoten-aggregation` — Gesamtnoten Aggregation
-- `gruen-flaggen-katalog` — Gruen Flaggen Katalog
-- `klage-strategie-zeugnisberichtigung` — Klage Strategie Zeugnisberichtigung
-- `leistungsbeurteilung-analyse` — Leistungsbeurteilung Analyse
-- `leitende-positionen-zeugnisse` — Leitende Positionen Zeugnisse
-- `mandantenbericht-zeugnisanalyse` — Mandantenbericht Zeugnisanalyse
-- `muster-arbeitszeugnis-gemischte-noten` — Muster Arbeitszeugnis Gemischte Noten
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

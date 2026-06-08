@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Fluggastrechte VO 261/2004: wählt den nächsten Spezial-Skill nach Engpass (Verjährung 3 Jahre § 195 BGB, Buchungsbestätigung, Boardingpass, Verspätungsbestätigung), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Fluggastrechte** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `abtretung-an-fluggastportal-spezial` — Abtretung An Fluggastportal Spezial
-- `airline-bonitaet-und-vollstreckung` — Airline Bonitaet Und Vollstreckung
-- `airline-standardausreden-annullierung-verspaetung-anschlussflug` — Airline Standardausreden Annullierung Verspaetung Anschlussflug
-- `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `abtretung-an-fluggastportal-spezial` — Abtretung AN Fluggastportal Spezial
+- `airline-bonitaet-und-vollstreckung` — Airline Bonitaet und Vollstreckung
+- `airline-standardausreden-annullierung` — Airline Standardausreden Annullierung
+- `airline-standardausreden-pruefen` — Airline Standardausreden Pruefen
+- `anlagen-bauen` — Anlagen Bauen
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
-- `anschlussflug-und-reiseplan` — Anschlussflug Und Reiseplan
-- `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Aussergewoehnliche Umstaende
-- `ausnahmen-aussergewoehnliche-umstaende-pruefen` — Ausnahmen Aussergewoehnliche Umstaende Prüfen
-- `aussergewoehnliche-distanz-interessen-erfassen` — Aussergewoehnliche Distanz Interessen Erfassen
-- `aussergewoehnliche-umstaende-strikt` — Aussergewoehnliche Umstaende Strikt
-- `distanz-und-ausgleich-berechnen` — Distanz Und Ausgleich Berechnen
-- `flug-anschlussflug-codeshare-anspruch-uebersicht` — Flug Anschlussflug Codeshare Anspruch Uebersicht
-- `flug-anschlussflug-codeshare-spezial` — Flug Anschlussflug Codeshare Spezial
+- `annullierung-schriftsatz-brief-memo-bausteine` — Annullierung Schriftsatz Brief Memo Bausteine
+- `annullierung-schriftsatz-brief-und-memo-bausteine` — Annullierung Schriftsatz Brief und Memo Bausteine
+- `anschluss-router` — Anschluss Router
+- `anschlussflug-und-reiseplan` — Anschlussflug und Reiseplan
+- `ausgleich-internationaler-bezug-schnittstellen` — Ausgleich Internationaler Bezug Schnittstellen
+- `ausgleich-internationaler-bezug-und-schnittstellen` — Ausgleich Internationaler Bezug und Schnittstellen
+- `ausnahmen-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Umstaende
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fachanwalt Strafrecht: sortiert Anklageschrift, Strafbefehl, Ermittlungsakte, prüft Datum, Absender, Frist und Beweiswert (Vernehmungsprotokolle, Spurenakte); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fachanwalt Strafrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aussagepsychologie-staatsanwaltschaft-aussagepsychologie` — Aussagepsychologie Staatsanwaltschaft Aussagepsychologie
-- `chatcontrol-csam-einlassung-vorbereiten-hauptverhandlung` — Chatcontrol Csam Einlassung Vorbereiten Hauptverhandlung
-- `ergaenzt-fachanwalt-insolvenzantrag-red-kanzlei-sonderfall` — Ergaenzt Fachanwalt Insolvenzantrag Red Kanzlei Sonderfall
-- `fachanwalt-strafrecht-orientierung-untersuchungshaft` — Fachanwalt Strafrecht Orientierung Untersuchungshaft
-- `koerperverletzung-stgb-koerperverletzung-todesfolge` — Koerperverletzung Stgb Koerperverletzung Todesfolge
-- `mandat-triage-plaedoyer-vorbereitung-schriftsatzkern` — Mandat Triage Plaedoyer Vorbereitung Schriftsatzkern
-- `nebenklage-nebenstrafrecht-opfervertretung-interessen-revision` — Nebenklage Nebenstrafrecht Opfervertretung Interessen Revision
-- `raub-stgb-raub-todesfolge-rechtsbeugung-stgb` — Raub Stgb Raub Todesfolge Rechtsbeugung Stgb
-- `steuerstrafrecht-ao-akteneinsicht-auswerten-erstgespraech` — Steuerstrafrecht Ao Akteneinsicht Auswerten Erstgespraech
-- `stpo-strafrecht-strafverteidigung-zeugenbeistand-strafprozess` — Stpo Strafrecht Strafverteidigung Zeugenbeistand Strafprozess
-- `strafprozess-antragslog-beweisantraege-biometrischer-cockpit` — Strafprozess Antragslog Beweisantraege Biometrischer Cockpit
-- `strafprozess-instruktionen-pflichtverteidigung-beiordnung-strafr` — Strafprozess Instruktionen Pflichtverteidigung Beiordnung Strafr
-- `strafr-dysfunk-befangenheitsantrag-beistandsleistung-stpo` — Strafr Dysfunk Befangenheitsantrag Beistandsleistung Stpo
-- `strafr-dysfunk-darlegungslast-empirie-nutzen-erklaerungsrecht` — Strafr Dysfunk Darlegungslast Empirie Nutzen Erklaerungsrecht
+- `adhaesionsverfahren-ermittlungsverfahren` — Adhaesionsverfahren Ermittlungsverfahren
+- `aussagepsychologie-staatsanwaltschaft` — Aussagepsychologie Staatsanwaltschaft
+- `chatcontrol-csam-einlassung-vorbereiten` — Chatcontrol Csam Einlassung Vorbereiten
+- `ergaenzt-fachanwalt-insolvenzantrag-red-team-korrektur` — Ergaenzt Fachanwalt Insolvenzantrag RED Team Korrektur
+- `fa-strafrecht-quellen-frist-next` — FA Strafrecht Quellen Frist Next
+- `freiheitsstrafe-paragraf-57-stgb` — Freiheitsstrafe Paragraf 57 STGB
+- `hauptverhandlung-quellenkarte` — Hauptverhandlung Quellenkarte
+- `koerperverletzung-stgb-todesfolge` — Koerperverletzung STGB Todesfolge
+- `mandat-triage-plaedoyer-vorbereitung` — Mandat Triage Plaedoyer Vorbereitung
+- `nebenklage-nebenstrafrecht-opfervertretung` — Nebenklage Nebenstrafrecht Opfervertretung
+- `notwehr-paragraf-32-stgb` — Notwehr Paragraf 32 STGB
+- `orientierung` — Orientierung
+- `raub-rechtsbeugung` — Raub Rechtsbeugung
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

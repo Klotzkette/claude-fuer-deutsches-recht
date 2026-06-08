@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Barrierefreiheit Web BFSG/WCAG: trennt fehlende Tatsachen von fehlenden Belegen (Konformitätserklärung, Auditbericht, Screenshots), nennt pro Lücke Beweisthema, Beschaffungsweg (BFA (Bundesfachstelle Barrierefreiheit)), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Barrierefreiheit Web Checker** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
+- `agentur-abnahme-vergabe` — Agentur Abnahme Vergabe
 - `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
-- `bf-kiosk-bf-mediendienste-bf-pdf` — Bf Kiosk Bf Mediendienste Bf Pdf
-- `bfsg-zeitleiste-ecommerce-checkout-en301549-wcag` — Bfsg Zeitleiste Ecommerce Checkout En301549 Wcag
+- `automatisierter-audit-axe-lighthouse` — Automatisierter Audit AXE Lighthouse
+- `barrierefreiheit-fehlerkatalog` — Barrierefreiheit Fehlerkatalog
+- `barrierefreiheits-erstpruefung-und-mandatsziel` — Barrierefreiheits Erstpruefung und Mandatsziel
+- `bf-kanzleiwebsite-konkret` — BF Kanzleiwebsite Konkret
+- `bf-kiosk-selbstbedienung-mediendienste` — BF Kiosk Selbstbedienung Mediendienste
+- `bf-mediendienste-untertitel-spezial` — BF Mediendienste Untertitel Spezial
+- `bf-pdf-schriftsaetze-versand` — BF PDF Schriftsaetze Versand
+- `bfsg-tatbestand-beweis-und-belege` — Bfsg Tatbestand Beweis und Belege
+- `bfsg-zeitleiste-ecommerce-checkout-en301549` — Bfsg Zeitleiste Ecommerce Checkout En301549
 - `bfsgv-schulung-fristennotiz-agentur-abnahme` — Bfsgv Schulung Fristennotiz Agentur Abnahme
-- `bitv-checkout-beweislast-ecommerce` — Bitv Checkout Beweislast Ecommerce
-- `erklaerung-interessen-formulare-pdfs` — Erklaerung Interessen Formulare Pdfs
-- `formulare-checkout-kontrast-farbe-native-apps` — Formulare Checkout Kontrast Farbe Native Apps
-- `pdf-downloads-remediation-roadmap-schulung-rolle` — Pdf Downloads Remediation Roadmap Schulung Rolle
-- `pdf-formulare-automatisierter-audit-bf-kanzleiwebsite` — Pdf Formulare Automatisierter Audit Bf Kanzleiwebsite
-- `scope-bfsg-screenreader-semantik-abnahme` — Scope Bfsg Screenreader Semantik Abnahme
-- `scope-tastatur-wcag` — Scope Tastatur Wcag
-- `sonderfall-edge-roadmap-rolle` — Sonderfall Edge Roadmap Rolle
-- `tastatur-fokus-ueberwachungsstelle-rechtsfolgen-usability-test` — Tastatur Fokus Ueberwachungsstelle Rechtsfolgen Usability Test
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

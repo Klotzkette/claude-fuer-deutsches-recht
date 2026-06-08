@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Miet- und Wohnungseigentumsrecht: Diese Output-Weiche für Fachanwalt Miet Wohnungseigentumsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Fachanwalt Miet- und Wohnungseigentumsrecht: stimmt Adressat (Mieter, Vermieter, WEG-Eigentümer), Frist (§ 573c BGB Kündigung) und Form auf den Zweck ab — typische Outputs: Kündigung, Beschlussklage WEG, Mieterhöhungsklage."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Miet- und Wohnungseigentumsrecht: Diese Output-W
 
 Diese Output-Weiche für **Fachanwalt Miet Wohnungseigentumsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-abschlusskontrolle-weg-anschluss-router` — Allgemein Abschlusskontrolle Weg Anschluss Router
-- `antennen-satellitenschuessel-aufrechnung-zurueckbehaltung` — Antennen Satellitenschuessel Aufrechnung Zurueckbehaltung
-- `bauliche-veraenderung-betriebskosten-schnellscan-workflow` — Bauliche Veraenderung Betriebskosten Schnellscan Workflow
-- `baurecht-schnittstelle-belegeinsicht-betriebskosten-berliner` — Baurecht Schnittstelle Belegeinsicht Betriebskosten Berliner
-- `beschlussanfechtung-abrechnungsfrist-nachforderung-erhalt` — Beschlussanfechtung Abrechnungsfrist Nachforderung Erhalt
-- `betrkv-interessen-bgb-co2kostenaufteilung-diskriminierung-agg` — Betrkv Interessen Bgb Co2kostenaufteilung Diskriminierung Agg
-- `dokumentenstapel-sortieren-first-year-fotobeweis-mangel-workflow` — Dokumentenstapel Sortieren First Year Fotobeweis Mangel Workflow
-- `eigenbedarf-personenkreis-energieausweis-mietrecht-erhaltung-vs` — Eigenbedarf Personenkreis Energieausweis Mietrecht Erhaltung Vs
-- `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung-weg` — Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung Weg
-- `fachanwalt-steuer-schnittstelle-erstgespraech-mandatsannahme` — Fachanwalt Steuer Schnittstelle Erstgespraech Mandatsannahme
-- `gartenpflege-baumfaellung-gewerberaum-betriebspflicht` — Gartenpflege Baumfaellung Gewerberaum Betriebspflicht
-- `geg-waermepumpe-gerichtstermin-vorbereitung-gewerberaum-intake` — Geg Waermepumpe Gerichtstermin Vorbereitung Gewerberaum Intake
-- `gewerberaum-umsatzmiete-gewerberaummiete-glasfaser-kabel` — Gewerberaum Umsatzmiete Gewerberaummiete Glasfaser Kabel
-- `heizkostenverordnung-heizung-warmwasser-indexmiete-anpassung` — Heizkostenverordnung Heizung Warmwasser Indexmiete Anpassung
+- `abschlusskontrolle-weg-anschluss-router` — Abschlusskontrolle WEG Anschluss Router
+- `antennen-satellitenschuessel-aufrechnung` — Antennen Satellitenschuessel Aufrechnung
+- `bauliche-veraenderung-betriebskosten` — Bauliche Veraenderung Betriebskosten
+- `baurecht-schnittstelle-belegeinsicht` — Baurecht Schnittstelle Belegeinsicht
+- `beschlussanfechtung-abrechnungsfrist` — Beschlussanfechtung Abrechnungsfrist
+- `betriebskostenverordnung-anlage-3` — Betriebskostenverordnung Anlage 3
+- `betrkv-interessen-bgb-co2kostenaufteilung` — Betrkv Interessen BGB Co2kostenaufteilung
+- `dokumentenstapel-sortieren-first-year` — Dokumentenstapel Sortieren First Year
+- `eigenbedarf-personenkreis-energieausweis` — Eigenbedarf Personenkreis Energieausweis
+- `fachanwalt-steuer-schnittstelle-erstgespraech` — Fachanwalt Steuer Schnittstelle Erstgespraech
+- `gartenpflege-baumfaellung-gewerberaum` — Gartenpflege Baumfaellung Gewerberaum
+- `geg-waermepumpe-gerichtstermin-vorbereitung` — GEG Waermepumpe Gerichtstermin Vorbereitung
+- `gewerberaum-umsatzmiete-gewerberaummiete` — Gewerberaum Umsatzmiete Gewerberaummiete
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

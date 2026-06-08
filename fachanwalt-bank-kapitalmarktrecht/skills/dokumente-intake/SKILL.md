@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fachanwalt Bank- und Kapitalmarktrecht: sortiert Darlehensvertrag, Wertpapierorder, Beratungsprotokoll, prüft Datum, Absender, Frist und Beweiswert (Beratungsprotokoll, Geeignetheitsprüfung); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fachanwalt Bank Kapitalmarktrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `fa-bank-kapitalmarkt-bk-bafin-chronologie` — Allgemein Bk Bafin Chronologie
-- `anlageberatung-fehlerhaft-cybertrading-anlagebetrug` — Anlageberatung Fehlerhaft Cybertrading Anlagebetrug
-- `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste` — Anlageberatungsfehler Bankrecht Akkreditiv Buergschaft Erste
-- `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung` — Bankaufsicht Erlaubnis Emissionsprospekt Mandantenentscheidung
-- `bankrecht-buergschaft-aval-garantieabruf-eilrechtsschutz` — Bankrecht Buergschaft Aval Garantieabruf Eilrechtsschutz
-- `bankrecht-privatbuergschaft-bankrecht-regress-bk-aufsicht` — Bankrecht Privatbuergschaft Bankrecht Regress Bk Aufsicht
-- `beratungshaftung-haftung-beweislast-bk-cum` — Beratungshaftung Haftung Beweislast Bk Cum
-- `bk-bankenfehlberatung-bk-einfuehrung-bk-mandantenrouting` — Bk Bankenfehlberatung Bk Einfuehrung Bk Mandantenrouting
-- `bk-mifid-bk-prip-erstgespraech-mandatsannahme` — Bk Mifid Bk Prip Erstgespraech Mandatsannahme
-- `fehlerhaft-fristennotiz-kapitalmarktrecht-bk-emissionsprospekt` — Fehlerhaft Fristennotiz Kapitalmarktrecht Bk Emissionsprospekt
-- `gesellschaftsrecht-interessen-micar-mifid` — Gesellschaftsrecht Interessen Micar Mifid
-- `kreditkuendigung-bgb-mica-stablecoin-ombudsmann-bafin` — Kreditkuendigung Bgb Mica Stablecoin Ombudsmann Bafin
-- `mandat-triage-schriftsatzkern-substantiierung-bank` — Mandat Triage Schriftsatzkern Substantiierung Bank
-- `orientierung-schufa-eintrag-schufa-loeschungsanspruch` — Orientierung Schufa Eintrag Schufa Loeschungsanspruch
+- `anlageberatung-fehlerhaft-cybertrading` — Anlageberatung Fehlerhaft Cybertrading
+- `anlageberatungsfehler-bankrecht-akkreditiv` — Anlageberatungsfehler Bankrecht Akkreditiv
+- `bankaufsicht-erlaubnis-emissionsprospekt` — Bankaufsicht Erlaubnis Emissionsprospekt
+- `bankrecht-buergschaft-aval-garantieabruf` — Bankrecht Buergschaft Aval Garantieabruf
+- `bankrecht-privatbuergschaft-regress-bk` — Bankrecht Privatbuergschaft Regress BK
+- `bausparvertrag-zinsanpassung-bgh-xi-zr-78-22` — Bausparvertrag Zinsanpassung BGH XI ZR 78 22
+- `beratungshaftung-haftung-beweislast-bk-cum` — Beratungshaftung Haftung Beweislast BK CUM
+- `bk-bankenfehlberatung-grundzuege-einfuehrung` — BK Bankenfehlberatung Grundzuege Einfuehrung
+- `bk-mifid-bk-prip-erstgespraech-mandatsannahme` — BK Mifid BK Prip Erstgespraech Mandatsannahme
+- `cum-ex-beihilfe-bgh-1-str-519-20` — CUM EX Beihilfe BGH 1 STR 519 20
+- `dispokredit-zinsanpassung-bgh-xi-zr-78-08` — Dispokredit Zinsanpassung BGH XI ZR 78 08
+- `fa-bank-kapitalmarkt-bk-bafin-chronologie` — FA Bank Kapitalmarkt BK Bafin Chronologie
+- `fa-bank-kapitalmarkt-fristen-risiko-mandant` — FA Bank Kapitalmarkt Fristen Risiko Mandant
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

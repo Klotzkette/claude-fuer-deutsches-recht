@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Jurastudium (Klausur, AG, Examen): trennt fehlende Tatsachen von fehlenden Belegen (Klausuren, Hausarbeiten, Karteikarten), nennt pro Lücke Beweisthema, Beschaffungsweg (Universität), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Jurastudium** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `ag-vorbereitung-examens-prognose-examensvorbereitung-fragen` — Ag Vorbereitung Examens Prognose Examensvorbereitung Fragen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `fall-zusammenfassung-gliederungs-baukasten-gutachten-uebung` — Fall Zusammenfassung Gliederungs Baukasten Gutachten Uebung
-- `jurastudium-juristisches-schreiben-jus-klausurtraining` — Jurastudium Juristisches Schreiben Jus Klausurtraining
-- `jurastudium-kaltstart-interview` — Jurastudium Kaltstart Interview
-- `jurastudium-klausurkorrektur-lernplanung-red` — Jurastudium Klausurkorrektur Lernplanung Red
-- `jus-referendariat-jus-staatsexamen-jus-studienplan` — Jus Referendariat Jus Staatsexamen Jus Studienplan
-- `karteikarten-lernplan-lernsitzung` — Karteikarten Lernplan Lernsitzung
-- `lernstrategien-livecheck-sonderfall-loesungsschemata-interessen` — Lernstrategien Livecheck Sonderfall Loesungsschemata Interessen
-- `lernstrategien-loesungsschemata-methodenlehre-grundlagen` — Lernstrategien Loesungsschemata Methodenlehre Grundlagen
-- `methodenlehre-öffentliches-methodenlehre-strafrecht` — Methodenlehre Oeffentliches Methodenlehre Strafrecht
-- `methodenlehre-rechtsgeschichte-referendariat` — Methodenlehre Rechtsgeschichte Referendariat
-- `pruefungsgespraech-ag-rechtsgeschichte-gutachtenstil` — Pruefungsgespraech Ag Rechtsgeschichte Gutachtenstil
-- `strafrecht-studium-subsumtionslehre` — Strafrecht Studium Subsumtionslehre
+- `ag-vorbereitung-examens-prognose` — AG Vorbereitung Examens Prognose
+- `anschluss-router` — Anschluss Router
+- `examens-prognose` — Examens Prognose
+- `examensvorbereitung-fragen` — Examensvorbereitung Fragen
+- `fall-zusammenfassung-gliederungs-baukasten` — Fall Zusammenfassung Gliederungs Baukasten
+- `gliederungs-baukasten` — Gliederungs Baukasten
+- `gutachten-uebung` — Gutachten Uebung
+- `gutachtenstil-internationaler-bezug-und-schnittstellen` — Gutachtenstil Internationaler Bezug und Schnittstellen
+- `juristisches-schreiben` — Juristisches Schreiben
+- `juristisches-schreiben-jus` — Juristisches Schreiben JUS
+- `jus-klausurtraining-leitfaden` — JUS Klausurtraining Leitfaden
+- `jus-referendariat-stationen-staatsexamen` — JUS Referendariat Stationen Staatsexamen
+- `jus-staatsexamen-vorbereitung-spezial` — JUS Staatsexamen Vorbereitung Spezial
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für NDA-Abgleich: ordnet Rolle (Vertragspartner, Berater, Aufsichtsorgan), markiert Frist (Geltungsdauer NDA (5-10 Jahre)), wählt Norm (BGB §§ 145 ff., 280/339, GeschGehG, DSGVO Art. 28) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Nda Abgleich** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aenderungsmodus-compliance-dokumentation` — Aenderungsmodus Compliance Dokumentation
+- `aenderungsmodus-compliance-dokumentation-und-akte` — Aenderungsmodus Compliance Dokumentation und Akte
+- `ampelmatrix-internationaler-bezug-schnittstellen` — Ampelmatrix Internationaler Bezug Schnittstellen
+- `ampelmatrix-internationaler-bezug-und-schnittstellen` — Ampelmatrix Internationaler Bezug und Schnittstellen
+- `arbeitnehmer-kuendigung` — Arbeitnehmer Kuendigung
 - `ausgabe-changes-docx-beweislast` — Ausgabe Changes Docx Beweislast
-- `durch-interessen-echten-sonderfall-eigenen` — Durch Interessen Echten Sonderfall Eigenen
-- `gegen-gelb-gleicht` — Gegen Gelb Gleicht
-- `gegenseite-tracked-fristennotiz-nda-definitionsklausel` — Gegenseite Tracked Fristennotiz Nda Definitionsklausel
-- `geschaeftsgeheimnis-geschgehg-kartellsensitiven-daten` — Geschaeftsgeheimnis Geschgehg Kartellsensitiven Daten
-- `haltelinien-setzt-standard` — Haltelinien Setzt Standard
-- `it-saas-laufzeit-survival-m-a` — It Saas Laufzeit Survival M A
-- `m-a-aenderungsmodus-ampelmatrix` — M A Aenderungsmodus Ampelmatrix
-- `mitarbeiter-need-non-solicit-permitted-disclosure` — Mitarbeiter Need Non Solicit Permitted Disclosure
-- `nda-abgleich` — Nda Abgleich
-- `nda-abgleich-arbeitnehmer-kuendigung-bewerbungen-pitches` — Nda Abgleich Arbeitnehmer Kündigung Bewerbungen Pitches
-- `nda-anwendbares-recht-gerichtsstand` — Nda Anwendbares Recht Gerichtsstand
-- `nda-bei-arbeitnehmer-kuendigung` — Nda Bei Arbeitnehmer Kündigung
+- `ausgabe-mandantenkommunikation-entscheidungsvorlage` — Ausgabe Mandantenkommunikation Entscheidungsvorlage
+- `changes-abschlussprodukt-uebergabe` — Changes Abschlussprodukt Uebergabe
+- `changes-abschlussprodukt-und-uebergabe` — Changes Abschlussprodukt und Uebergabe
+- `chirurgisch-quellenkarte` — Chirurgisch Quellenkarte
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `docx-beweislast-darlegungslast` — Docx Beweislast Darlegungslast
+- `docx-beweislast-und-darlegungslast` — Docx Beweislast und Darlegungslast
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

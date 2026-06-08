@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing nach erfolgter Triage oder abgeschlossenem Arbeitsschritt. Entscheidet auf Basis des bisherigen Akteninhalts welcher Folgeskill aus dem Plugin als naechstes zu starten ist. Beruecksichtigt Mahnstatus Faelligkeit Titel Vollstreckung und Insolvenz. Pinpoints ZPO 688 ZPO 794 ZPO 808 InsO 174. Liefert Entscheidungsbaum mit zwei oder drei Optionen und einer Empfehlung."
+description: "Anschluss-Routing für Forderungsmanagement Klagewerkstatt: wählt den nächsten Spezial-Skill nach Engpass (Mahnbescheid-Widerspruch 2 Wochen, Mahnung, Mahnbescheid, Vollstreckungsbescheid), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing

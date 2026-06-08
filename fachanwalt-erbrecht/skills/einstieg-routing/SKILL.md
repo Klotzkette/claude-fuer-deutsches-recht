@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Fachanwalt Erbrecht: ordnet Rolle (Erblasser (Beratung), Erben, Vermächtnisnehmer), markiert Frist (Ausschlagung 6 Wochen § 1944 BGB), wählt Norm (BGB §§ 1922 ff., ErbStG, FamFG §§ 342 ff.) und Zuständigkeit (Nachlassgericht (AG)), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Fachanwalt Erbrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `berater-interessen-beweislast-darlegungslast` — Berater Interessen Beweislast Darlegungslast
-- `erb-einfuehrung-erb-erstgespraech-erb-internationales` — Erb Einfuehrung Erb Erstgespraech Erb Internationales
-- `erb-nachlassinventar-erb-pflichtteilsanspruch-erb` — Erb Nachlassinventar Erb Pflichtteilsanspruch Erb
-- `erbengemeinschaft-blockade-erstgespraech-mandatsannahme` — Erbengemeinschaft Blockade Erstgespraech Mandatsannahme
-- `erbfall-eu-mandat-triage-pflichtteil-auskunft` — Erbfall Eu Mandat Triage Pflichtteil Auskunft
+- `bgb` — BGB
+- `digitaler-nachlass-facebook-bgh-iii-zr-183-17` — Digitaler Nachlass Facebook BGH III ZR 183 17
+- `ehegattentestament-bindungswirkung` — Ehegattentestament Bindungswirkung
+- `erb-einfuehrung-erbfolge-erstgespraech` — ERB Einfuehrung Erbfolge Erstgespraech
+- `erb-nachlassinventar-pflichtteilsanspruch` — ERB Nachlassinventar Pflichtteilsanspruch
+- `erbengemeinschaft-blockade-erstgespraech` — Erbengemeinschaft Blockade Erstgespraech
+- `erbfall-eu-mandat-triage-pflichtteil-auskunft` — Erbfall EU Mandat Triage Pflichtteil Auskunft
 - `erbfall-intake-erbrecht-erbschein` — Erbfall Intake Erbrecht Erbschein
-- `erbschein-antrag-orientierung-pflichtteilsberechnung` — Erbschein Antrag Orientierung Pflichtteilsberechnung
-- `fachanwalt-kanzlei-livecheck` — Fachanwalt Kanzlei Livecheck
-- `krypto-wallet-erbschaftsteuer-steuerrecht` — Krypto Wallet Erbschaftsteuer Steuerrecht
-- `pflichtteil-berechnen-schriftsatzkern-substantiierung-sonderfall` — Pflichtteil Berechnen Schriftsatzkern Substantiierung Sonderfall
-- `pflichtteil-progressionsoptimierung-spezial-schnittstellen` — Pflichtteil Progressionsoptimierung Schnittstellen
-- `pflichtteilsergaenzung-frist-fachanwalt-erbrecht` — Pflichtteilsergaenzung Frist Fachanwalt Erbrecht
-- `pflichtteilsergaenzung-testamentsvollstreckung-mediation` — Pflichtteilsergaenzung Testamentsvollstreckung Mediation
+- `erbrecht-pflichtteilsergaenzung-schenkung` — Erbrecht Pflichtteilsergaenzung Schenkung
+- `erbschein-antrag-orientierung` — Erbschein Antrag Orientierung
+- `erbschein-einziehung-paragraf-2361-bgb-olg-muenchen-31-wx-275-19` — Erbschein Einziehung Paragraf 2361 BGB OLG Muenchen 31 WX 275 19
+- `erbverzicht-pflichtteilsverzicht` — Erbverzicht Pflichtteilsverzicht
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

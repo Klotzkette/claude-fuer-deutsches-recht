@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Energierecht (EnWG, EEG): sortiert Netzanschlussvertrag, EEG-Vergütungsbescheid, Marktstammdatenregister-Eintrag, prüft Datum, Absender, Frist und Beweiswert (Messdaten, Anschlussberichte); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Energierecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `einfuehrung-energieprojekt-intake-energierecht-industrie` — Einfuehrung Energieprojekt Intake Energierecht Industrie
-- `energierecht-emobility-wasserstoff-energievertraege` — Energierecht Emobility Wasserstoff Energievertraege
-- `energierecht-netz-speicher-projektfinanzierung-transaktionen-dd` — Energierecht Netz Speicher Projektfinanzierung Transaktionen Dd
-- `energierecht-vertrieb-marktrollen-waerme-quartier-wettbewerb` — Energierecht Vertrieb Marktrollen Waerme Quartier Wettbewerb
-- `er-bess-abstandsflaechen-baurecht-brandenburg-behoerdenstrategie` — Er Bess Abstandsflaechen Baurecht Brandenburg Behördenstrategie
-- `er-bess-brandschutz-co-location-datenschutz-video` — Er Bess Brandschutz Co Location Datenschutz Video
-- `er-bess-epc-fca-agnes-finanzierung-bankability-kapazitaetsmarkt` — Er Bess Epc Fca Agnes Finanzierung Bankability Kapazitaetsmarkt
-- `er-bess-er-bess-er-einfuehrung-er-fusion` — Er Bess Er Bess Er Einfuehrung Er Fusion
-- `er-bess-er-bess-er-stakeholder-eeg-kwkg` — Er Bess Er Bess Er Stakeholder Eeg Kwkg
-- `er-bess-kaltstart-projektaufnahme` — Er Bess Kaltstart Projektaufnahme
-- `er-bess-kritis-marktrollen-bilanzkreis-naturschutz-artenschutz` — Er Bess Kritis Marktrollen Bilanzkreis Naturschutz Artenschutz
-- `er-bess-netzentgelte-output-board-physische-sicherheit-power-emv` — Er Bess Netzentgelte Output Board Physische Sicherheit Power Emv
-- `er-bess-ppa-projektakte-rechtsmittel-nachbarabwehr-regelenergie` — Er Bess Ppa Projektakte Rechtsmittel Nachbarabwehr Regelenergie
-- `er-fusion-buergerbeteiligung-foerderung-beihilfe-netzanschluss` — Er Fusion Buergerbeteiligung Förderung Beihilfe Netzanschluss
+- `anfrage-mehrparteien-konflikt-und-interessen` — Anfrage Mehrparteien Konflikt und Interessen
+- `anschluss` — Anschluss
+- `bess-abfall-recycling-rueckbau` — Bess Abfall Recycling Rueckbau
+- `bess-abstandsflaechen-baurecht-brandenburg` — Bess Abstandsflaechen Baurecht Brandenburg
+- `bess-baurecht-brandenburg` — Bess Baurecht Brandenburg
+- `bess-behoerdenstrategie` — Bess Behoerdenstrategie
+- `bess-bimschg-und-4-bimschv` — Bess Bimschg und 4 Bimschv
+- `bess-brandschutz-co-location-datenschutz` — Bess Brandschutz CO Location Datenschutz
+- `bess-co-location-pv-wind` — Bess CO Location PV Wind
+- `bess-datenschutz-video-leitwarte` — Bess Datenschutz Video Leitwarte
+- `bess-dieselgenerator-notstrom` — Bess Dieselgenerator Notstrom
+- `bess-epc-fca-agnes-finanzierung` — Bess EPC FCA Agnes Finanzierung
+- `bess-fca-agnes-bnetza` — Bess FCA Agnes BNETZA
+- `einstieg-routing` — Einstieg Routing
+- `quellen-livecheck` — Quellen Livecheck
 
 ## Arbeitsweg
 

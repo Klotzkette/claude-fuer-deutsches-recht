@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Jurastudium (Klausur, AG, Examen): prüft Normen (BGB, StGB, GG, ZPO/StPO/VwGO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Universität und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Jurastudium** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `ag-vorbereitung-examens-prognose-examensvorbereitung-fragen` — Ag Vorbereitung Examens Prognose Examensvorbereitung Fragen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `fall-zusammenfassung-gliederungs-baukasten-gutachten-uebung` — Fall Zusammenfassung Gliederungs Baukasten Gutachten Uebung
-- `jurastudium-juristisches-schreiben-jus-klausurtraining` — Jurastudium Juristisches Schreiben Jus Klausurtraining
-- `jurastudium-kaltstart-interview` — Jurastudium Kaltstart Interview
-- `jurastudium-klausurkorrektur-lernplanung-red` — Jurastudium Klausurkorrektur Lernplanung Red
-- `jus-referendariat-jus-staatsexamen-jus-studienplan` — Jus Referendariat Jus Staatsexamen Jus Studienplan
-- `karteikarten-lernplan-lernsitzung` — Karteikarten Lernplan Lernsitzung
-- `lernstrategien-livecheck-sonderfall-loesungsschemata-interessen` — Lernstrategien Livecheck Sonderfall Loesungsschemata Interessen
-- `lernstrategien-loesungsschemata-methodenlehre-grundlagen` — Lernstrategien Loesungsschemata Methodenlehre Grundlagen
-- `methodenlehre-öffentliches-methodenlehre-strafrecht` — Methodenlehre Oeffentliches Methodenlehre Strafrecht
-- `methodenlehre-rechtsgeschichte-referendariat` — Methodenlehre Rechtsgeschichte Referendariat
-- `pruefungsgespraech-ag-rechtsgeschichte-gutachtenstil` — Pruefungsgespraech Ag Rechtsgeschichte Gutachtenstil
-- `strafrecht-studium-subsumtionslehre` — Strafrecht Studium Subsumtionslehre
+- `ag-vorbereitung-examens-prognose` — AG Vorbereitung Examens Prognose
+- `anschluss-router` — Anschluss Router
+- `examens-prognose` — Examens Prognose
+- `examensvorbereitung-fragen` — Examensvorbereitung Fragen
+- `fall-zusammenfassung-gliederungs-baukasten` — Fall Zusammenfassung Gliederungs Baukasten
+- `gliederungs-baukasten` — Gliederungs Baukasten
+- `gutachten-uebung` — Gutachten Uebung
+- `gutachtenstil-internationaler-bezug-und-schnittstellen` — Gutachtenstil Internationaler Bezug und Schnittstellen
+- `juristisches-schreiben` — Juristisches Schreiben
+- `juristisches-schreiben-jus` — Juristisches Schreiben JUS
+- `jus-klausurtraining-leitfaden` — JUS Klausurtraining Leitfaden
+- `jus-referendariat-stationen-staatsexamen` — JUS Referendariat Stationen Staatsexamen
+- `jus-staatsexamen-vorbereitung-spezial` — JUS Staatsexamen Vorbereitung Spezial
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

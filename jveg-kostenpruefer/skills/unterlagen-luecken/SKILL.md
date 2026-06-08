@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für JVEG-Kostenprüfer: trennt fehlende Tatsachen von fehlenden Belegen (SV-Rechnung, Reisekostenabrechnung, Stundennachweise), nennt pro Lücke Beweisthema, Beschaffungsweg (Gericht), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Jveg Kostenpruefer** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `beschwerde-dolmetscher-sonderfall-dolmetscherkosten` — Beschwerde Dolmetscher Sonderfall Dolmetscherkosten
-- `fahrtkosten-festsetzung-interessen-freistehender` — Fahrtkosten Festsetzung Interessen Freistehender
-- `gate-beweislast-jveg-quality` — Gate Beweislast Jveg Quality
-- `jveg-anspruchsberechtigung-antragsgenerator-dolmetscher` — Jveg Anspruchsberechtigung Antragsgenerator Dolmetscher
-- `jveg-dolmetscher-uebersetzer-fahrtkosten-festsetzung-beschwerde` — Jveg Dolmetscher Uebersetzer Fahrtkosten Festsetzung Beschwerde
-- `jveg-gate-rechenblatt-sachverstaendigenrechnung` — Jveg Gate Rechenblatt Sachverstaendigenrechnung
-- `jveg-gerichtsschreiben-jveg-kuerzung-wegfall` — Jveg Gerichtsschreiben Jveg Kuerzung Wegfall
-- `jveg-sonstige-aufwendungen-uebernachtung-aufwand` — Jveg Sonstige Aufwendungen Uebernachtung Aufwand
-- `jveg-vorschuss-kostenrisiko-zeugenentschaedigung` — Jveg Vorschuss Kostenrisiko Zeugenentschaedigung
-- `jveg-zeugenentschaedigung-sachverstaendigengutachten-ki` — Jveg Zeugenentschaedigung Sachverstaendigengutachten Ki
-- `uebernachtung-verdienstausfall-vorschuss` — Uebernachtung Verdienstausfall Vorschuss
-- `uebersetzer-fristennotiz-jveg-sachverstaendigenrechnung` — Uebersetzer Fristennotiz Jveg Sachverstaendigenrechnung
-- `zeugenentschaedigung` — Zeugenentschaedigung
+- `aktenstripper` — Aktenstripper
+- `anspruchsberechtigung-antragsgenerator` — Anspruchsberechtigung Antragsgenerator
+- `antragsgenerator` — Antragsgenerator
+- `belegfeste-formular-portal-und-einreichung` — Belegfeste Formular Portal und Einreichung
+- `beschwerde-dolmetscher-sonderfall` — Beschwerde Dolmetscher Sonderfall
+- `dolmetscher-sonderfall-und-edge-case` — Dolmetscher Sonderfall und Edge Case
+- `dolmetscher-uebersetzer` — Dolmetscher Uebersetzer
+- `dolmetscher-uebersetzer-fahrtkosten` — Dolmetscher Uebersetzer Fahrtkosten
+- `dolmetscherkosten-zahlen-schwellen-und-berechnung` — Dolmetscherkosten Zahlen Schwellen und Berechnung
+- `fahrtkosten` — Fahrtkosten
+- `fahrtkosten-festsetzung-interessen` — Fahrtkosten Festsetzung Interessen
+- `festsetzung-beschwerde` — Festsetzung Beschwerde
+- `festsetzung-mehrparteien-konflikt-und-interessen` — Festsetzung Mehrparteien Konflikt und Interessen
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

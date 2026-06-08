@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Anlagen zu Schriftsätzen: wählt den nächsten Spezial-Skill nach Engpass (Klageerwiderungsfrist, Verträge, Korrespondenz, Rechnungen), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Anlagen Zu Schriftsaetzen** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `anlage-red-anlagen-anlagenkonvolut-sonderfall-arial` — Anlage Red Anlagen Anlagenkonvolut Sonderfall Arial
-- `anlagen-an-assistenz-uebersetzungspflicht-vorlagepflicht-zpo` — Anlagen An Assistenz Uebersetzungspflicht Vorlagepflicht Zpo
-- `anlagen-aus-datenraum-und-sharepoint` — Anlagen Aus Datenraum Und Sharepoint
-- `anlagen-aus-edv-systemen` — Anlagen Aus Edv Systemen
-- `anlagen-aus-mandantenmaterial` — Anlagen Aus Mandantenmaterial
-- `anlagen-bei-berufung-revision` — Anlagen Bei Berufung Revision
-- `anlagen-bei-eilantrag-eu-arrest` — Anlagen Bei Eilantrag Eu Arrest
-- `anlagen-berufung-revision-eilantrag-eu-bilder-screenshots` — Anlagen Berufung Revision Eilantrag Eu Bilder Screenshots
+- `anlage-fehlerkatalog` — Anlage Fehlerkatalog
+- `anlage-red-anlagen-anlagenkonvolut-sonderfall` — Anlage RED Anlagen Anlagenkonvolut Sonderfall
+- `anlagen-an-assistenz-uebersetzungspflicht` — Anlagen AN Assistenz Uebersetzungspflicht
+- `anlagen-aus-datenraum-und-sharepoint` — Anlagen AUS Datenraum und Sharepoint
+- `anlagen-aus-edv-systemen` — Anlagen AUS EDV Systemen
+- `anlagen-aus-mandantenmaterial` — Anlagen AUS Mandantenmaterial
+- `anlagen-bei-berufung-revision` — Anlagen bei Berufung Revision
+- `anlagen-bei-eilantrag-eu-arrest` — Anlagen bei Eilantrag EU Arrest
+- `anlagen-berufung-revision-eilantrag-eu-bilder` — Anlagen Berufung Revision Eilantrag EU Bilder
 - `anlagen-bilder-screenshots` — Anlagen Bilder Screenshots
-- `anlagen-check-zustellung-redaktion-dsgvo-schwaerzen-stempel` — Anlagen Check Zustellung Redaktion Dsgvo Schwaerzen Stempel
+- `anlagen-check-zustellung-redaktion-dsgvo` — Anlagen Check Zustellung Redaktion DSGVO
 - `anlagen-duplikate-versionen-hashlog` — Anlagen Duplikate Versionen Hashlog
-- `anlagen-elektronische-dokumente-format-dateinamen-bea-versand` — Anlagen Elektronische Dokumente Format Dateinamen Bea Versand
-- `anlagen-elektronische-dokumente-spezial` — Anlagen Elektronische Dokumente Spezial
-- `anlagen-format-und-dateinamen` — Anlagen Format Und Dateinamen
+- `anlagen-elektronische-dokumente-format` — Anlagen Elektronische Dokumente Format
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Normenanker
 

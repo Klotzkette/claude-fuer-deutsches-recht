@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Tabellenreview (Excel/CSV): trennt fehlende Tatsachen von fehlenden Belegen (Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht), nennt pro Lücke Beweisthema, Beschaffungsweg (Finanzamt), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Tabellenreview 3d** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aggregation-spaltenprompts-definieren-arbeitsblatt` — Aggregation Spaltenprompts Definieren Arbeitsblatt
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aggregation-spaltenprompts-definieren` — Aggregation Spaltenprompts Definieren
 - `arbeitsblatt-perspektiven-definieren` — Arbeitsblatt Perspektiven Definieren
+- `arbeitsblatt-schriftsatz-brief-memo-bausteine` — Arbeitsblatt Schriftsatz Brief Memo Bausteine
+- `arbeitsblatt-schriftsatz-brief-und-memo-bausteine` — Arbeitsblatt Schriftsatz Brief und Memo Bausteine
 - `audit-trail-protokoll` — Audit Trail Protokoll
 - `belegkette-rueckverfolgung` — Belegkette Rueckverfolgung
-- `belegkette-rueckverfolgung-caching-rerun-dokumentstapel` — Belegkette Rueckverfolgung Caching Rerun Dokumentstapel
-- `caching-und-teil-rerun` — Caching Und Teil Rerun
+- `belegkette-rueckverfolgung-caching-rerun` — Belegkette Rueckverfolgung Caching Rerun
+- `caching-und-teil-rerun` — Caching und Teil Rerun
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
 - `datenpunkt-dokument-excel-beweislast` — Datenpunkt Dokument Excel Beweislast
+- `datenpunkt-dokumentenmatrix-lueckenliste` — Datenpunkt Dokumentenmatrix Lueckenliste
+- `dokument-behoerden-gericht-und-registerweg` — Dokument Behoerden Gericht und Registerweg
 - `dokumentstapel-aufnehmen` — Dokumentstapel Aufnehmen
-- `excel-multi-kreuzblatt-konsistenzpruefung-pdf-bericht` — Excel Multi Kreuzblatt Konsistenzpruefung Pdf Bericht
-- `excel-multi-sheet-export` — Excel Multi Sheet Export
-- `gestapelt-immobilien-massenpruefung-interessen` — Gestapelt Immobilien Massenpruefung Interessen
-- `kreuzblatt-konsistenzpruefung` — Kreuzblatt Konsistenzpruefung
-- `mehrblatt-sonderfall-onboarding-perspektiven` — Mehrblatt Sonderfall Onboarding Perspektiven
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

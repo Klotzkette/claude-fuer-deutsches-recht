@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Regulatorisches Recht (Sektoren): prüft Normen (TKG, EnWG, KWG, VersAufsG, AMG, Branchen-Spezialgesetze) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BNetzA und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Regulatorisches Recht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anhoerung-red-team-und-qualitaetskontrolle` — Anhoerung RED Team und Qualitaetskontrolle
+- `anschluss-router` — Anschluss Router
 - `aufsichts-feed-monitor` — Aufsichts Feed Monitor
-- `aufsichtsverfahren-anhoerung-aufsichtsverfahren-gwg` — Aufsichtsverfahren Anhörung Aufsichtsverfahren Gwg
-- `dora-ikt-vertragspruefung` — Dora Ikt Vertragspruefung
-- `enwg-feeds-heilmwerbg` — Enwg Feeds Heilmwerbg
-- `inkasso-massnahme-regulator` — Inkasso Massnahme Regulator
-- `inkasso-rdg-luecken-mar-mifid` — Inkasso Rdg Luecken Mar Mifid
-- `interview-fristennotiz-aufsichtssanktion-revision-umsatzsteuer` — Interview Fristennotiz Aufsichtssanktion Revision Umsatzsteuer
-- `luecken-aufzeiger` — Luecken Aufzeiger
-- `regr-dora-resilienz-finanzdienstleistungsregulierung-bauleiter` — Regr Dora Resilienz Finanzdienstleistungsregulierung Bauleiter
-- `regr-mifid2-regrecht-einfuehrung-regrecht-internal` — Regr Mifid2 Regrecht Einfuehrung Regrecht Internal
-- `regulatorisches-recht-kaltstart-interview` — Regulatorisches Recht Kaltstart Interview
-- `regulatorisches-richtlinien-neufassung` — Regulatorisches Richtlinien Neufassung
-- `regulatorisches-stellungnahmen-beweislast-voranmeldung` — Regulatorisches Stellungnahmen Beweislast Voranmeldung
+- `aufsichtskommunikation-grundregeln` — Aufsichtskommunikation Grundregeln
+- `aufsichtsrecht-erstpruefung-und-mandatsziel` — Aufsichtsrecht Erstpruefung und Mandatsziel
+- `aufsichtssanktion-revision-spezial` — Aufsichtssanktion Revision Spezial
+- `aufsichtsverfahren-anhoerung-gwg` — Aufsichtsverfahren Anhoerung GWG
+- `aufsichtsverfahren-formular-portal-und-einreichung` — Aufsichtsverfahren Formular Portal und Einreichung
+- `dora-ikt-vertragspruefung` — Dora IKT Vertragspruefung
+- `dora-stellvertreter-und-konzern` — Dora Stellvertreter und Konzern
+- `enwg-feeds-heilmwerbg` — ENWG Feeds Heilmwerbg
+- `feeds-compliance-dokumentation-und-akte` — Feeds Compliance Dokumentation und Akte
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

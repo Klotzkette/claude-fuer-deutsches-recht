@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im Europarecht: Diese Output-Weiche für Europarecht Kompass entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für Europarecht-Kompass: stimmt Adressat (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV) und Form auf den Zweck ab — typische Outputs: Vorlagefrage-Vorschlag, Konformitätsanalyse, EuGH-Schriftsatz."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im Europarecht: Diese Output-Weiche für Europarech
 
 Diese Output-Weiche für **Europarecht Kompass** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
+- `anrufung-red-team-und-qualitaetskontrolle` — Anrufung RED Team und Qualitaetskontrolle
+- `anschluss-router` — Anschluss Router
 - `beihilfen-drafting-europarecht` — Beihilfen Drafting Europarecht
-- `er-vorlageverfahren-eur-kommissionsverfahren-eur-mandant` — Er Vorlageverfahren Eur Kommissionsverfahren Eur Mandant
-- `eur-anrufung-eur-state-beihilfen-vergaben` — Eur Anrufung Eur State Beihilfen Vergaben
-- `europarecht-delegierte-durchfuehrungsakte-deutscher-denkfehler` — Europarecht Delegierte Durchfuehrungsakte Deutscher Denkfehler
-- `europarecht-europarecht-mandantenmemo-quality-gate` — Europarecht Europarecht Mandantenmemo Quality Gate
-- `europarecht-grundfreiheiten-binnenmarkt-grundrechte-charta` — Europarecht Grundfreiheiten Binnenmarkt Grundrechte Charta
-- `europarecht-richtlinie-umsetzung-simulation-behoerde-verordnung` — Europarecht Richtlinie Umsetzung Simulation Behörde Verordnung
-- `gegen-grundfreiheiten-livecheck-sonderfall` — Gegen Grundfreiheiten Livecheck Sonderfall
-- `kommissionsverfahren-vorlageverfahren-interessen` — Kommissionsverfahren Vorlageverfahren Interessen
-- `nationales-verfahren-vorlageverfahren-art-denkfehler` — Nationales Verfahren Vorlageverfahren Art Denkfehler
-- `petitionsausschuss-mandantenentscheidung-richtlinien` — Petitionsausschuss Mandantenentscheidung Richtlinien
-- `verordnungen-vorrang-vorrang-unmittelbare` — Verordnungen Vorrang Vorrang Unmittelbare
-- `vorrang-unmittelbare-wettbewerb-kartell-anrufung-red` — Vorrang Unmittelbare Wettbewerb Kartell Anrufung Red
+- `charta-quellenkarte` — Charta Quellenkarte
+- `denkfehler-fristen-form-und-zustaendigkeit` — Denkfehler Fristen Form und Zustaendigkeit
+- `drafting-internationaler-bezug-und-schnittstellen` — Drafting Internationaler Bezug und Schnittstellen
+- `er-vorlageverfahren-eur-kommissionsverfahren` — ER Vorlageverfahren EUR Kommissionsverfahren
+- `eu-rechtsquellen-vorlageweiche` — EU Rechtsquellen Vorlageweiche
+- `eur-anrufung-state-beihilfen-vergaben` — EUR Anrufung State Beihilfen Vergaben
+- `eur-kommissionsverfahren-art-258-spezial` — EUR Kommissionsverfahren ART 258 Spezial
+- `eur-mandant-uebersicht-zustaendigkeiten` — EUR Mandant Uebersicht Zustaendigkeiten
+- `eur-state-aid-notifikation-spezial` — EUR State AID Notifikation Spezial
+- `europarecht-beihilfen-vergaben` — Europarecht Beihilfen Vergaben
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

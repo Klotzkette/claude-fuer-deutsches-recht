@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Bestimmt für einen Forderungsfall das passende Ausgabeprodukt aussergerichtliche Mahnung Mahnbescheidsantrag Klageschrift Vollstreckungsauftrag Aktenvermerk oder Vergleichsentwurf. Beruecksichtigt Mandantenziel Kostenrisiko Eilbeduerftigkeit und Beweislage. Pinpoints ZPO 690 Antragsinhalt ZPO 253 Klageinhalt BGB 779 Vergleich. Liefert Format und Mindestbestandteile."
+description: "Output-Wahl für Forderungsmanagement Klagewerkstatt: stimmt Adressat (Gläubiger, Schuldner, Gerichtsvollzieher), Frist (Mahnbescheid-Widerspruch 2 Wochen) und Form auf den Zweck ab — typische Outputs: Mahnung, Mahnbescheid online (zentrales MB-Gericht), Klage."
 ---
 
 # Output waehlen

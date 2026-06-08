@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Datenschutzrecht DSGVO/BDSG: trennt fehlende Tatsachen von fehlenden Belegen (Verarbeitungsverzeichnis, DSFA, AVV), nennt pro Lücke Beweisthema, Beschaffungsweg (BfDI Bund), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Datenschutzrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `anpassen` — Anpassen
+- `anschluss` — Anschluss
 - `anwendungsfall-triage` — Anwendungsfall Triage
-- `avv-art-26-joint-controllership-deutsch` — Avv Art 26 Joint Controllership Deutsch
-- `avv-art-28-dsgvo-grundtatbestand` — Avv Art 28 Dsgvo Grundtatbestand
-- `avv-art-28-mindestinhalte-checkliste` — Avv Art 28 Mindestinhalte Checkliste
-- `avv-audit-avv-cloud-avv-eu-avv-konzern-avv` — Avv Audit Avv Cloud Avv Eu Avv Konzern Avv
-- `avv-audit-und-kontrollrechte` — Avv Audit Und Kontrollrechte
-- `avv-bestehender-avv-rolemix-avv-tom-datenpanne-meldung` — Avv Bestehender Avv Rolemix Avv Tom Datenpanne Meldung
-- `avv-cloud-und-subverarbeitung-art-28-iv` — Avv Cloud Und Subverarbeitung Art 28 Iv
-- `avv-eu-kommission-musterklauseln-2021-915` — Avv Eu Kommission Musterklauseln 2021 915
-- `avv-eu-us-data-privacy-framework-bezug` — Avv Eu Us Data Privacy Framework Bezug
-- `avv-haftung-datenschutz-schadensersatz-dsfa-risikoanalyse-dsr` — Avv Haftung Datenschutz Schadensersatz Dsfa Risikoanalyse Dsr
-- `avv-haftung-risikoallokation-art-82-dsgvo` — Avv Haftung Risikoallokation Art 82 Dsgvo
-- `avv-konzern-und-multi-party-konstellation` — Avv Konzern Und Multi Party Konstellation
-- `avv-loeschung-rueckgabe-nach-vertragsende` — Avv Löschung Rueckgabe Nach Vertragsende
+- `art-9-besondere-kategorien` — ART 9 Besondere Kategorien
+- `art-besondere-aufnahme-statusinformation` — ART Besondere Aufnahme Statusinformation
+- `aufnahme-statusinformation` — Aufnahme Statusinformation
+- `auskunft-behoerden-gerichts-registerweg` — Auskunft Behoerden Gerichts Registerweg
+- `avv-art-26-joint-controllership-deutsch` — AVV ART 26 Joint Controllership Deutsch
+- `avv-art-28-dsgvo-grundtatbestand` — AVV ART 28 DSGVO Grundtatbestand
+- `avv-art-28-mindestinhalte-checkliste` — AVV ART 28 Mindestinhalte Checkliste
+- `avv-audit-und-kontrollrechte` — AVV Audit und Kontrollrechte
+- `avv-cloud-und-subverarbeitung-art-28-iv` — AVV Cloud und Subverarbeitung ART 28 IV
+- `avv-eu-kommission-musterklauseln-2021-915` — AVV EU Kommission Musterklauseln 2021 915
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

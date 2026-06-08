@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Forschungszulage FZulG: wählt den nächsten Spezial-Skill nach Engpass (Antrag jederzeit, Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Forschungszulage Antragstellung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abgrenzung-adaptiver-antrag` — Abgrenzung Adaptiver Antrag
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `antragstellung-auszahlung-beihilfen-beweislast` — Antragstellung Auszahlung Beihilfen Beweislast
-- `bemessungsgrundlage-interessen-bsfz-definition` — Bemessungsgrundlage Interessen Bsfz Definition
-- `forsch-bsfz-pruefung-spezial` — Forsch Bsfz Prüfung Spezial
-- `forsch-konzernverbund-forschung-spezial` — Forsch Konzernverbund Forschung Spezial
-- `forsch-projektbeschreibung-bauleiter` — Forsch Projektbeschreibung Bauleiter
-- `forsch-stundenaufzeichnung-fz-ablehnung-bemessungsgrundlage` — Forsch Stundenaufzeichnung Fz Ablehnung Bemessungsgrundlage
-- `forsch-stundenaufzeichnung-leitfaden` — Forsch Stundenaufzeichnung Leitfaden
-- `forschungszulage-insolvenzlage-red-portaltexte` — Forschungszulage Insolvenzlage Red Portaltexte
-- `fz-ablehnung-nachbesserung-einspruch` — Fz Ablehnung Nachbesserung Einspruch
-- `fz-auftragsforschung-vertragsgestaltung` — Fz Auftragsforschung Vertragsgestaltung
-- `fz-bemessungsgrundlage-2026` — Fz Bemessungsgrundlage 2026
-- `fz-bescheidung-fz-bsfz-fz-dokumentationspaket` — Fz Bescheidung Fz Bsfz Fz Dokumentationspaket
+- `abgrenzung-compliance` — Abgrenzung Compliance
+- `ablehnung-nachbesserung-einspruch` — Ablehnung Nachbesserung Einspruch
+- `adaptiver-dokumentenmatrix` — Adaptiver Dokumentenmatrix
+- `adaptiver-dokumentenmatrix-und-lueckenliste` — Adaptiver Dokumentenmatrix und Lueckenliste
+- `antrag-zahlen-schwellen-und-berechnung` — Antrag Zahlen Schwellen und Berechnung
+- `antrag-zahlen-schwellenwerte` — Antrag Zahlen Schwellenwerte
+- `antragstellung-auszahlung-beihilfen` — Antragstellung Auszahlung Beihilfen
+- `auftragsforschung-vertragsgestaltung` — Auftragsforschung Vertragsgestaltung
+- `auszahlung-internationaler-bezug` — Auszahlung Internationaler Bezug
+- `auszahlung-internationaler-bezug-und-schnittstellen` — Auszahlung Internationaler Bezug und Schnittstellen
+- `beihilfen-beweislast-darlegungslast` — Beihilfen Beweislast Darlegungslast
+- `beihilfen-beweislast-und-darlegungslast` — Beihilfen Beweislast und Darlegungslast
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Normenanker
 

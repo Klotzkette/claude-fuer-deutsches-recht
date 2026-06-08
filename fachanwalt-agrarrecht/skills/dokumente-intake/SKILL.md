@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Fachanwalt Agrarrecht: sortiert Pachtvertrag, GAP-Antrag, Grundbuchauszug, prüft Datum, Absender, Frist und Beweiswert (Flächennachweise, InVeKoS-Daten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Fachanwalt Agrarrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `agrar-einfuehrung-rechtsquellen` — Agrar Einfuehrung Rechtsquellen
-- `agrar-jagdpacht-streit-mandantenfragen-typisch-paechterbetrieb` — Agrar Jagdpacht Streit Mandantenfragen Typisch Paechterbetrieb
-- `agrar-tierhaltung-erstgespraech-mandatsannahme-duenge` — Agrar Tierhaltung Erstgespraech Mandatsannahme Duenge
-- `agrar-wolfsschaden-cross-glozez-foerderung-gap` — Agrar Wolfsschaden Cross Glozez Förderung Gap
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anerbenrecht-bgb-spezial-compliance` — Anerbenrecht Bgb Compliance
-- `cross-duengeverordnung-interessen-erbrecht-beweislast` — Cross Duengeverordnung Interessen Erbrecht Beweislast
-- `eu-agrarfoerderung-gap-direktzahlungen-hoefe` — Eu Agrarfoerderung Gap Direktzahlungen Hoefe
-- `fachanwalt-agrarrecht-landpacht-hoferbfolge-triage` — Fachanwalt Agrarrecht Landpacht Hoferbfolge Triage
-- `fachanwalt-forstrecht-red-hoefe-sonderfall` — Fachanwalt Forstrecht Red Hoefe Sonderfall
-- `fristennotiz-naechster-pachtvertrag-streitig-pachtvertrag` — Fristennotiz Naechster Pachtvertrag Streitig Pachtvertrag
-- `hoefeo-laender-landpachtrecht` — Hoefeo Länder Landpachtrecht
-- `orientierung-tierhaltung-genehmigung-landpacht-schlichtung` — Orientierung Tierhaltung Genehmigung Landpacht Schlichtung
-- `pflanzenschutz-schnittstelle-mandantenentscheidung-tierschutz` — Pflanzenschutz Schnittstelle Mandantenentscheidung Tierschutz
+- `agrar-jagdpacht-streit-mandantenfragen` — Agrar Jagdpacht Streit Mandantenfragen
+- `agrar-tierhaltung-erstgespraech` — Agrar Tierhaltung Erstgespraech
+- `agrar-wolfsschaden-cross-glozez-foerderung` — Agrar Wolfsschaden Cross Glozez Foerderung
+- `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung` — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
+- `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle` — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
+- `agrarfoerderung-fid-ablehnung-paragraf-9-invekos` — Agrarfoerderung FID Ablehnung Paragraf 9 Invekos
+- `agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw` — Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg GRW
+- `agrarrecht-mandantenkommunikation-redteam-qualitygate-hoeferecht` — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
+- `anerbenrecht-bgb-spezial-compliance` — Anerbenrecht BGB Spezial Compliance
+- `cross-duengeverordnung-interessen-erbrecht` — Cross Duengeverordnung Interessen Erbrecht
+- `direktzahlungen-quellenkarte` — Direktzahlungen Quellenkarte
+- `duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation` — Duengeverordnung Rote Gebiete Paragraf 13A Duev Derogation
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

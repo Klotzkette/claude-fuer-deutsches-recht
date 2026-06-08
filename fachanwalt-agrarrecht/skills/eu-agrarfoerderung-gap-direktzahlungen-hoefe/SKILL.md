@@ -1,6 +1,6 @@
 ---
 name: eu-agrarfoerderung-gap-direktzahlungen-hoefe
-description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft konkrete Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft konkrete Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO Hamburg Niedersachsen NRW. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # EU Agrarfoerderung GAP Direktzahlungen Hoefe

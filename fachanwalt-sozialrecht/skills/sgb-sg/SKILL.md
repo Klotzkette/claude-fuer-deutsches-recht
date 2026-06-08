@@ -1,6 +1,6 @@
 ---
 name: sgb-sg
-description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid, Vergleich vor Sozialgericht § 101 SGG, Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant benoetigt Hilfsmittel Rollstuhl Hoerhilfe Prothese. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # SGB SG

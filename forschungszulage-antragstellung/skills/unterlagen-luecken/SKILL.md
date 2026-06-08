@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Forschungszulage FZulG: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise), nennt pro Lücke Beweisthema, Beschaffungsweg (Bescheinigungsstelle Forschungszulage (BSFZ)), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Forschungszulage Antragstellung** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abgrenzung-adaptiver-antrag` — Abgrenzung Adaptiver Antrag
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `antragstellung-auszahlung-beihilfen-beweislast` — Antragstellung Auszahlung Beihilfen Beweislast
-- `bemessungsgrundlage-interessen-bsfz-definition` — Bemessungsgrundlage Interessen Bsfz Definition
-- `forsch-bsfz-pruefung-spezial` — Forsch Bsfz Prüfung Spezial
-- `forsch-konzernverbund-forschung-spezial` — Forsch Konzernverbund Forschung Spezial
-- `forsch-projektbeschreibung-bauleiter` — Forsch Projektbeschreibung Bauleiter
-- `forsch-stundenaufzeichnung-fz-ablehnung-bemessungsgrundlage` — Forsch Stundenaufzeichnung Fz Ablehnung Bemessungsgrundlage
-- `forsch-stundenaufzeichnung-leitfaden` — Forsch Stundenaufzeichnung Leitfaden
-- `forschungszulage-insolvenzlage-red-portaltexte` — Forschungszulage Insolvenzlage Red Portaltexte
-- `fz-ablehnung-nachbesserung-einspruch` — Fz Ablehnung Nachbesserung Einspruch
-- `fz-auftragsforschung-vertragsgestaltung` — Fz Auftragsforschung Vertragsgestaltung
-- `fz-bemessungsgrundlage-2026` — Fz Bemessungsgrundlage 2026
-- `fz-bescheidung-fz-bsfz-fz-dokumentationspaket` — Fz Bescheidung Fz Bsfz Fz Dokumentationspaket
+- `abgrenzung-compliance` — Abgrenzung Compliance
+- `ablehnung-nachbesserung-einspruch` — Ablehnung Nachbesserung Einspruch
+- `adaptiver-dokumentenmatrix` — Adaptiver Dokumentenmatrix
+- `adaptiver-dokumentenmatrix-und-lueckenliste` — Adaptiver Dokumentenmatrix und Lueckenliste
+- `antrag-zahlen-schwellen-und-berechnung` — Antrag Zahlen Schwellen und Berechnung
+- `antrag-zahlen-schwellenwerte` — Antrag Zahlen Schwellenwerte
+- `antragstellung-auszahlung-beihilfen` — Antragstellung Auszahlung Beihilfen
+- `auftragsforschung-vertragsgestaltung` — Auftragsforschung Vertragsgestaltung
+- `auszahlung-internationaler-bezug` — Auszahlung Internationaler Bezug
+- `auszahlung-internationaler-bezug-und-schnittstellen` — Auszahlung Internationaler Bezug und Schnittstellen
+- `beihilfen-beweislast-darlegungslast` — Beihilfen Beweislast Darlegungslast
+- `beihilfen-beweislast-und-darlegungslast` — Beihilfen Beweislast und Darlegungslast
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Normenanker
 

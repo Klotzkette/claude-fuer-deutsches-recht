@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Betriebliche Altersversorgung im Konzern: prüft Normen (BetrAVG, § 1 BetrAVG Zusage, § 16 BetrAVG Anpassung) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BaFin (PSV) und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Bav Strategie Konzern** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `bav-strategie-konzern-allgemein-design-workflow-chronologie` — Allgemein Design Chronologie
-- `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz Psv
+- `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz PSV
+- `bav-cta-treuhand-spezial` — BAV CTA Treuhand Spezial
+- `bav-erstattung-fuenftelregelung` — BAV Erstattung Fuenftelregelung
+- `bav-grenzueberschreitend-mobil-spezial` — BAV Grenzueberschreitend Mobil Spezial
+- `bav-konzern-design-workflow` — BAV Konzern Design Workflow
+- `bav-pensionsfond-rueckdeckung-spezial` — BAV Pensionsfond Rueckdeckung Spezial
+- `benefits-mandantenkommunikation-entscheidungsvorlage` — Benefits Mandantenkommunikation Entscheidungsvorlage
 - `betrieblichen-drei-duesseldorfer-sonderfall` — Betrieblichen Drei Duesseldorfer Sonderfall
-- `buyout-ma-country-by-cta-contractual` — Buyout Ma Country By Cta Contractual
-- `drei-stufen-expatriate-pensionsplanung-governance` — Drei Stufen Expatriate Pensionsplanung Governance
-- `durchfuehrungswege-fuenf-harmonisierung` — Durchfuehrungswege Fuenf Harmonisierung
-- `einfuehrung-durchfuehrungswege-erstattung-fuenftelregelung` — Einfuehrung Durchfuehrungswege Erstattung Fuenftelregelung
-- `harmonisierung-migration-historisch-gewachsene-internationale` — Harmonisierung Migration Historisch Gewachsene Internationale
-- `internationale-harmonisierung-japan-corporate` — Internationale Harmonisierung Japan Corporate
-- `konzernen-pension-pensionsmodelle` — Konzernen Pension Pensionsmodelle
-- `mitbestimmung-betriebsrat-pension-buyout-benefits` — Mitbestimmung Betriebsrat Pension Buyout Benefits
-- `pensionsmodelle-fuenf-bav-cta-pensionsfond-rueckdeckung` — Pensionsmodelle Fuenf Bav Cta Pensionsfond Rueckdeckung
-- `restrukturierung-beweislast-stil-strategische` — Restrukturierung Beweislast Stil Strategische
-- `stufen-theorie-interessen-versorgungssystem-international` — Stufen Theorie Interessen Versorgungssystem International
+- `boutique-fristennotiz-und-naechster-schritt` — Boutique Fristennotiz und Naechster Schritt
+- `buyout-ma-country-by-cta-contractual` — Buyout MA Country BY CTA Contractual
+- `buyouts-quellenkarte` — Buyouts Quellenkarte
+- `country-by-country-benefits-matrix-konzern` — Country BY Country Benefits Matrix Konzern
+- `cta-contractual-trust-arrangement-strukturierung` — CTA Contractual Trust Arrangement Strukturierung
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

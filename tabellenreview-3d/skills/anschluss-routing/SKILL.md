@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Tabellenreview (Excel/CSV): wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Tabellenreview 3d** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `aggregation-spaltenprompts-definieren-arbeitsblatt` — Aggregation Spaltenprompts Definieren Arbeitsblatt
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aggregation-spaltenprompts-definieren` — Aggregation Spaltenprompts Definieren
 - `arbeitsblatt-perspektiven-definieren` — Arbeitsblatt Perspektiven Definieren
+- `arbeitsblatt-schriftsatz-brief-memo-bausteine` — Arbeitsblatt Schriftsatz Brief Memo Bausteine
+- `arbeitsblatt-schriftsatz-brief-und-memo-bausteine` — Arbeitsblatt Schriftsatz Brief und Memo Bausteine
 - `audit-trail-protokoll` — Audit Trail Protokoll
 - `belegkette-rueckverfolgung` — Belegkette Rueckverfolgung
-- `belegkette-rueckverfolgung-caching-rerun-dokumentstapel` — Belegkette Rueckverfolgung Caching Rerun Dokumentstapel
-- `caching-und-teil-rerun` — Caching Und Teil Rerun
+- `belegkette-rueckverfolgung-caching-rerun` — Belegkette Rueckverfolgung Caching Rerun
+- `caching-und-teil-rerun` — Caching und Teil Rerun
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
 - `datenpunkt-dokument-excel-beweislast` — Datenpunkt Dokument Excel Beweislast
+- `datenpunkt-dokumentenmatrix-lueckenliste` — Datenpunkt Dokumentenmatrix Lueckenliste
+- `dokument-behoerden-gericht-und-registerweg` — Dokument Behoerden Gericht und Registerweg
 - `dokumentstapel-aufnehmen` — Dokumentstapel Aufnehmen
-- `excel-multi-kreuzblatt-konsistenzpruefung-pdf-bericht` — Excel Multi Kreuzblatt Konsistenzpruefung Pdf Bericht
-- `excel-multi-sheet-export` — Excel Multi Sheet Export
-- `gestapelt-immobilien-massenpruefung-interessen` — Gestapelt Immobilien Massenpruefung Interessen
-- `kreuzblatt-konsistenzpruefung` — Kreuzblatt Konsistenzpruefung
-- `mehrblatt-sonderfall-onboarding-perspektiven` — Mehrblatt Sonderfall Onboarding Perspektiven
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Gesellschaftsrecht in legal English: ordnet Rolle (Shareholders, Board of Directors, Investors), markiert Frist (UK confirmation statement annual), wählt Norm (UK Companies Act 2006, Delaware GCL, MBCA (US)) und Zuständigkeit (UK Companies House), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Gesellschaftsrecht Legal English** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `anfaenger-verhandlung-vergleich-und-eskalation` — Anfaenger Verhandlung Vergleich und Eskalation
+- `anschauungsmaterial-multiformat-auswertung` — Anschauungsmaterial Multiformat Auswertung
 - `anti-dilution-articles-association` — Anti Dilution Articles Association
-- `begriffskompass-intake-bgb-at` — Begriffskompass Intake Bgb At
+- `articles-association-satzung` — Articles Association Satzung
+- `begriffskompass-intake-bgb-at` — Begriffskompass Intake BGB AT
+- `bgb-at-schuldrecht-at-im-ma` — BGB AT Schuldrecht AT im MA
 - `business-corporate` — Business Corporate
-- `cap-table-client-explainer` — Cap Table Client Explainer
-- `deutsches-englische-drag-tag` — Deutsches Englische Drag Tag
-- `didaktisches-gesellschafterliste` — Didaktisches Gesellschafterliste
-- `due-diligence-earn-out` — Due Diligence Earn Out
-- `english-anschauungsmaterial-multiformat` — English Anschauungsmaterial Multiformat
-- `exit-spa-financial-debt` — Exit Spa Financial Debt
-- `financing-convertible-fully-diluted` — Financing Convertible Fully Diluted
-- `gesellschaftsrecht-legal` — Gesellschaftsrecht Legal
-- `governance-board-lernpfad-dealroom` — Governance Board Lernpfad Dealroom
-- `liquidation-preference-partner-briefing` — Liquidation Preference Partner Briefing
-- `protective-provisions-qualitaetsgate-corporate` — Protective Provisions Qualitaetsgate Corporate
+- `cap-table-client-explainer` — CAP Table Client Explainer
+- `chronologie-fristen` — Chronologie Fristen
+- `client-explainer-legal-english` — Client Explainer Legal English
+- `corporate-behoerden-gericht-und-registerweg` — Corporate Behoerden Gericht und Registerweg
+- `dealroom-quellenkarte` — Dealroom Quellenkarte
+- `deutsches-englische-drag-tag` — Deutsches Englische Drag TAG
+- `dokumente-intake` — Dokumente Intake
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

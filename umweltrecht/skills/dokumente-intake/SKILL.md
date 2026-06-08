@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Umweltrecht: sortiert UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände, prüft Datum, Absender, Frist und Beweiswert (Immissionsmessungen, Bodengutachten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Umweltrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abfall-anlagen-bimschg` — Abfall Anlagen Bimschg
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `boden-csddd-csrd-sonderfall` — Boden Csddd Csrd Sonderfall
-- `diligence-greenwashing-beweislast-klimaklagen-interessen` — Diligence Greenwashing Beweislast Klimaklagen Interessen
-- `esg-greenwashing-klimaklagen-verbandsklage-lksg-csddd` — Esg Greenwashing Klimaklagen Verbandsklage Lksg Csddd
-- `lieferkettensorgfalt-lksg-red-naturschutz` — Lieferkettensorgfalt Lksg Red Naturschutz
-- `stoerfall-anlagen-transaktionen-dd-umweltinformation-uig` — Stoerfall Anlagen Transaktionen Dd Umweltinformation Uig
-- `tehg-verfahren-umweltrecht-verfahren` — Tehg Verfahren Umweltrecht Verfahren
-- `umwelt-umweltrecht-umwrg` — Umwelt Umweltrecht Umwrg
-- `umweltrecht-bussgeld-emissionshandel-tehg-uwr-ets` — Umweltrecht Bussgeld Emissionshandel Tehg Uwr Ets
-- `umweltrecht-immissionsschutz-bimschg-naturschutz-artenschutz` — Umweltrecht Immissionsschutz Bimschg Naturschutz Artenschutz
-- `uwr-bundesnaturschutzgesetz-uwr-co2-uwr-immissionsschutz` — Uwr Bundesnaturschutzgesetz Uwr Co2 Uwr Immissionsschutz
-- `uwr-einfuehrung-rechtsquellen` — Uwr Einfuehrung Rechtsquellen
-- `uwr-wasserrechtliche` — Uwr Wasserrechtliche
+- `abfall-circular-economy` — Abfall Circular Economy
+- `anlagen-abschlussprodukt-und-uebergabe` — Anlagen Abschlussprodukt und Uebergabe
+- `bimschg-tatbestand-beweis-und-belege` — Bimschg Tatbestand Beweis und Belege
+- `boden-csddd-csrd-sonderfall` — Boden Csddd CSRD Sonderfall
+- `bussgeld-emissionshandel-tehg-uwr` — Bussgeld Emissionshandel Tehg UWR
+- `bussgeld-quellenkarte` — Bussgeld Quellenkarte
+- `compliance-schulung` — Compliance Schulung
+- `csddd-mandantenkommunikation-entscheidungsvorlage` — Csddd Mandantenkommunikation Entscheidungsvorlage
+- `csrd-sonderfall-und-edge-case` — CSRD Sonderfall und Edge Case
+- `diligence-greenwashing-beweislast-klimaklagen` — Diligence Greenwashing Beweislast Klimaklagen
+- `emissionshandel-tehg` — Emissionshandel Tehg
+- `esg-greenwashing-klimaklagen-verbandsklage` — ESG Greenwashing Klimaklagen Verbandsklage
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

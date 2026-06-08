@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Vertragsausfüller: prüft Normen (BGB AT, BGB BT, AGB-Recht §§ 305 ff. BGB) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt zuständige Stelle und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Vertragsausfueller** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `altvertraege-dokumentenmatrix-und-lueckenliste` — Altvertraege Dokumentenmatrix und Lueckenliste
+- `altvertrag-nachziehen` — Altvertrag Nachziehen
+- `ausdruecklicher-fristennotiz-und-naechster-schritt` — Ausdruecklicher Fristennotiz und Naechster Schritt
+- `batch-modus-docx-stripper-einfuehrung` — Batch Modus Docx Stripper Einfuehrung
+- `bsag-mietvertrag-klauselentscheidung` — Bsag Mietvertrag Klauselentscheidung
 - `changes-beweislast-docx-erkennen` — Changes Beweislast Docx Erkennen
-- `erzeugen-red-fassungen-sonderfall-felder` — Erzeugen Red Fassungen Sonderfall Felder
-- `fuehren-interessen-mappen-nachfrage` — Fuehren Interessen Mappen Nachfrage
-- `term-track-vertraege` — Term Track Vertraege
-- `vaf-batch-vaf-docx-vaf-einfuehrung` — Vaf Batch Vaf Docx Vaf Einfuehrung
-- `vaf-bsag-vaf-klauselentscheidung-vaf-konzern` — Vaf Bsag Vaf Klauselentscheidung Vaf Konzern
-- `vaf-clean-output` — Vaf Clean Output
-- `vaf-feldinventar-vaf-fragebogen-vaf-fremdsprachige` — Vaf Feldinventar Vaf Fragebogen Vaf Fremdsprachige
-- `vaf-plausibilitaetscheck-vaf-termsheet-altvertraege` — Vaf Plausibilitaetscheck Vaf Termsheet Altvertraege
-- `vaf-quality-vaf-redline-vaf-rueckfrageninterview` — Vaf Quality Vaf Redline Vaf Rueckfrageninterview
-- `vaf-template-vaf-template-vaf-track` — Vaf Template Vaf Template Vaf Track
-- `vaf-vaf-mehrsprachige-vaf-platzhalterlogik` — Vaf Vaf Mehrsprachige Vaf Platzhalterlogik
-- `vaf-versionierung` — Vaf Versionierung
+- `clean-output` — Clean Output
+- `docx-stripper` — Docx Stripper
+- `docx-tatbestand-beweis-und-belege` — Docx Tatbestand Beweis und Belege
+- `einfuehrung-prozess` — Einfuehrung Prozess
+- `erkennen-schriftsatz-brief-und-memo-bausteine` — Erkennen Schriftsatz Brief und Memo Bausteine
+- `erzeugen-red-fassungen-sonderfall-felder` — Erzeugen RED Fassungen Sonderfall Felder
+- `fassungen-sonderfall-und-edge-case` — Fassungen Sonderfall und Edge Case
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

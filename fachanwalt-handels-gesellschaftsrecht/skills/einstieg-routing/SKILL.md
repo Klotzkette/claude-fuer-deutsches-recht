@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Fachanwalt Handels- und Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Vorstand/Geschäftsführung, Aufsichtsrat), markiert Frist (§ 246 AktG Anfechtung 1 Monat), wählt Norm (HGB, GmbHG, AktG, BGB §§ 705 ff., UmwG) und Zuständigkeit (Handelsregister), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Fachanwalt Handels Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr` — Ag Vorstandsvertrag Hgr Aktionsbindungsvertrag Hgr
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `fachanwalt-fao-gesellschafterstreit` — Fachanwalt Fao Gesellschafterstreit
-- `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash` — Geschaeftsfuehrerhaftung Holding Strukturplanung Gmbh Cash
-- `gesellschafterstreit-handelsvertreterausgleich-ma-due` — Gesellschafterstreit Handelsvertreterausgleich Ma Due
-- `gesellschaftervertrag-geschaeftsfuehrerhaftung-hgr` — Gesellschaftervertrag Geschaeftsfuehrerhaftung Hgr
+- `ag-vorstandsvertrag-hgr` — AG Vorstandsvertrag HGR
+- `aktionaersklage-anfechtung-paragraf-243-aktg` — Aktionaersklage Anfechtung Paragraf 243 AKTG
+- `anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20` — Anfechtungsklage BGB Gesellschaft BGH II ZR 66 20
+- `fa-handels-gesellschaft-start-chronologie-fristen` — FA Handels Gesellschaft Start Chronologie Fristen
+- `fachanwalt-fao-gesellschafterstreit` — Fachanwalt FAO Gesellschafterstreit
+- `geschaeftsfuehrerhaftung-holding` — Geschaeftsfuehrerhaftung Holding
+- `gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz` — Gesellschaftsrecht Gesellschafterstreit Eilrechtsschutz
+- `gesellschaftsrecht-gesellschaftervertrag-klauseln` — Gesellschaftsrecht Gesellschaftervertrag Klauseln
 - `gmbh-beirat-vergleichsverhandlung-strategie` — Gmbh Beirat Vergleichsverhandlung Strategie
-- `gmbhg-handels-handelsvertreterausgleich-international` — Gmbhg Handels Handelsvertreterausgleich International
-- `hgb-kanzlei-beweislast-mopeg` — Hgb Kanzlei Beweislast Mopeg
-- `hgesr-einfuehrung-hgr-due-erstgespraech-mandatsannahme` — Hgesr Einfuehrung Hgr Due Erstgespraech Mandatsannahme
-- `hgesr-handelsvertreterausgleich-hgesr-mbg-registerrecht` — Hgesr Handelsvertreterausgleich Hgesr Mbg Registerrecht
-- `hgr-dis-gesellschaftsrecht-token-fristennotiz` — Hgr Dis Gesellschaftsrecht Token Fristennotiz
-- `orientierung-hgr-dlt-hgesr-grenzueberschreitende` — Orientierung Hgr Dlt Hgesr Grenzueberschreitende
-- `partgg-pilotregime-sonderfall-mandantenentscheidung` — Partgg Pilotregime Sonderfall Mandantenentscheidung
+- `gmbh-gf-haftung-paragraf-43-gmbhg` — Gmbh GF Haftung Paragraf 43 GMBHG
+- `gmbhg-handels-handelsvertreterausgleich` — GMBHG Handels Handelsvertreterausgleich
+- `handels-gesellschaftsrecht-mandantenkommunikation-redteam` — Handels Gesellschaftsrecht Mandantenkommunikation Redteam
+- `hgb-einsichtsrecht-kommanditist-paragraf-166-hgb-bgh-ii-zr-31-21` — HGB Einsichtsrecht Kommanditist Paragraf 166 HGB BGH II ZR 31 21
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

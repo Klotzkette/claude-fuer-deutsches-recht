@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Fachanwalt Verkehrsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bußgeldbescheid, Polizeiprotokoll, Anhörungsbogen), nennt pro Lücke Beweisthema, Beschaffungsweg (AG (Bußgeld + Straf)), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Fachanwalt Verkehrsrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-verk-unfallregulierung-workflow-chronologie` — Allgemein Verk Unfallregulierung Chronologie
 - `autonom-bezuege-fachanwalt` — Autonom Bezuege Fachanwalt
-- `bussgeld-unfall-haftungsquote-vkr-totalschaden` — Bussgeld Unfall Haftungsquote Vkr Totalschaden
-- `erstgespraech-mandatsannahme-verkehr-autonom-fahrerlaubnis` — Erstgespraech Mandatsannahme Verkehr Autonom Fahrerlaubnis
+- `blitzer-messung-paragraf-3-stvo` — Blitzer Messung Paragraf 3 Stvo
+- `bussgeld-unfall-haftungsquote-vkr` — Bussgeld Unfall Haftungsquote VKR
+- `dieselskandal-paragraf-826-bgb` — Dieselskandal Paragraf 826 BGB
+- `erstgespraech-mandatsannahme-verkehr-autonom` — Erstgespraech Mandatsannahme Verkehr Autonom
+- `fa-verkehrsrecht-fristen-risiko-mandant` — FA Verkehrsrecht Fristen Risiko Mandant
+- `fahrerlaubnis-entzug-paragraf-3-stvg` — Fahrerlaubnis Entzug Paragraf 3 Stvg
 - `fahrerlaubnis-kanzlei-personen` — Fahrerlaubnis Kanzlei Personen
-- `mandat-triage-schriftsatzkern-substantiierung-315c` — Mandat Triage Schriftsatzkern Substantiierung 315c
-- `mpu-vorbereitung-orientierung-regulierungsanforderung` — Mpu Vorbereitung Orientierung Regulierungsanforderung
-- `pflvg-quoten-sonderfall-stgb` — Pflvg Quoten Sonderfall Stgb
-- `stvg-verkehr-fristennotiz-vkr-blitzer` — Stvg Verkehr Fristennotiz Vkr Blitzer
-- `stvo-unfallregulierung-beweislast-verkehrsrecht` — Stvo Unfallregulierung Beweislast Verkehrsrecht
-- `tempo-messung-unfallregulierung-quoten-versicherer` — Tempo Messung Unfallregulierung Quoten Versicherer
-- `verk-fahrerlaubnisrecht-leitfaden-fahrtenbuch-anordnung` — Verk Fahrerlaubnisrecht Leitfaden Fahrtenbuch Anordnung
-- `verkehrsstrafrecht-interessen-verkehrsunfall` — Verkehrsstrafrecht Interessen Verkehrsunfall
-- `vkr-bussgeldverfahren-bussgeld-einspruch-bussgeldbescheid` — Vkr Bussgeldverfahren Bussgeld Einspruch Bussgeldbescheid
+- `haftpflicht-paragraf-115-vvg` — Haftpflicht Paragraf 115 VVG
+- `kaskoversicherung-paragraf-81-vvg-bgh-iv-zr-25-21` — Kaskoversicherung Paragraf 81 VVG BGH IV ZR 25 21
+- `kfz-handel-paragraf-434-bgb` — KFZ Handel Paragraf 434 BGB
+- `mandat-triage-schriftsatzkern-substantiierung` — Mandat Triage Schriftsatzkern Substantiierung
+- `mpu-vorbereitung-orientierung` — MPU Vorbereitung Orientierung
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

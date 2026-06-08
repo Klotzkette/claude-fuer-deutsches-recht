@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Methodenlehre Bürgerliches Recht: prüft Normen (BGB, Art. 20 III GG (Auslegung)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt zuständige Stelle und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Methodenlehre Buergerliches Recht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
-- `abwaegung-material-abwaegungslast-non-argumentum-figuren` — Abwaegung Material Abwaegungslast Non Argumentum Figuren
+- `abwaegung-material-abwaegungslast-non` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl
-- `abwaegungslast-non-liquet` — Abwaegungslast Non Liquet
-- `abwaegungszuständigkeit-institutionen` — Abwaegungszuständigkeit Institutionen
-- `abwaegungszuständigkeit-institutionen-buergerlichen-verjaehrung` — Abwaegungszuständigkeit Institutionen Buergerlichen Verjährung
-- `analogie-und-teleologische-reduktion` — Analogie Und Teleologische Reduktion
-- `anspruchsgrundlagen-anwaltsperspektive-auslegung-buergerliches` — Anspruchsgrundlagen Anwaltsperspektive Auslegung Buergerliches
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Argumentum Figuren E Contrario A Maiore A Fortiori
+- `abwaegungslast-non-liquet` — Abwaegungslast NON Liquet
+- `abwaegungszustaendigkeit` — Abwaegungszustaendigkeit
+- `abwaegungszustaendigkeit-institutionen` — Abwaegungszustaendigkeit Institutionen
+- `analogie-und-teleologische-reduktion` — Analogie und Teleologische Reduktion
+- `anspruchsgrundlagen-anwaltsperspektive` — Anspruchsgrundlagen Anwaltsperspektive
+- `argumentum-figuren-e-contrario-a-maiore-a` — Argumentum Figuren E Contrario A Maiore A
 - `auslegung-rechtsfortbildung-grenzprotokoll` — Auslegung Rechtsfortbildung Grenzprotokoll
-- `begruendung-anhoerung-und-adressatenfaehigkeit` — Begruendung Anhörung Und Adressatenfaehigkeit
-- `bverfg-grenzen-diskurstheorie-habermas-dworkin-prinzipien` — Bverfg Grenzen Diskurstheorie Habermas Dworkin Prinzipien
-- `bverfg-grenzen-richterlicher-rechtsfortbildung` — Bverfg Grenzen Richterlicher Rechtsfortbildung
-- `diskurstheorie-habermas-alexy` — Diskurstheorie Habermas Alexy
+- `begruendung-anhoerung-adressatenfaehigkeit` — Begruendung Anhoerung Adressatenfaehigkeit
+- `bverfg-grenzen-diskurstheorie-habermas` — Bverfg Grenzen Diskurstheorie Habermas
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 

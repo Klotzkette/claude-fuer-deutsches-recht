@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für Einfache/Leichte Sprache Jura: wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Originalbescheid, Vereinfachte Fassung, Lese-Test), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Einfache Leichte Sprache Jura** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `leichte-sprache-jura-ls-bescheid-chronologie` — Allgemein Ls Bescheid Chronologie
-- `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
-- `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
-- `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache
-- `elsj-bescheidmodus` — Elsj Bescheidmodus
-- `elsj-betreuung-vormundschaft` — Elsj Betreuung Vormundschaft
-- `elsj-einfache-sprache` — Elsj Einfache Sprache
-- `elsj-familienrecht-erstgespraech` — Elsj Familienrecht Erstgespraech
-- `elsj-familienrecht-erstgespraech-juristische-sicherung` — Elsj Familienrecht Erstgespraech Juristische Sicherung
-- `elsj-juristische-sicherung` — Elsj Juristische Sicherung
-- `elsj-kommandocenter` — Elsj Kommandocenter
-- `elsj-kommunikation-mandant` — Elsj Kommunikation Mandant
-- `elsj-leichte-sprache` — Elsj Leichte Sprache
-- `elsj-leichte-sprache-mietrecht-kuendigungserklaerung` — Elsj Leichte Sprache Mietrecht Kuendigungserklaerung
+- `annaeherung-quellenkarte` — Annaeherung Quellenkarte
+- `aufenthaltsrecht-mandant` — Aufenthaltsrecht Mandant
+- `aufenthaltsrecht-mandant-betreuung` — Aufenthaltsrecht Mandant Betreuung
+- `bauen-fristennotiz-naechster-schritt` — Bauen Fristennotiz Naechster Schritt
+- `bauen-fristennotiz-und-naechster-schritt` — Bauen Fristennotiz und Naechster Schritt
+- `bescheidmodus` — Bescheidmodus
+- `bescheidmodus-02` — Bescheidmodus 02
+- `betreuung-vormundschaft` — Betreuung Vormundschaft
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `einfache-sprache` — Einfache Sprache
+- `experimentelle-glossar-sonderfall-jura` — Experimentelle Glossar Sonderfall Jura
+- `experimentelle-schriftsatz-brief-memo-bausteine` — Experimentelle Schriftsatz Brief Memo Bausteine
+- `familienrecht-erstgespraech` — Familienrecht Erstgespraech
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

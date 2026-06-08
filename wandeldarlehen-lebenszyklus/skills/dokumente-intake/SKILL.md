@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Wandeldarlehen-Lebenszyklus: sortiert Wandeldarlehensvertrag, Term Sheet, Cap Table, prüft Datum, Absender, Frist und Beweiswert (Bewertung Pre/Post-Money); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Wandeldarlehen Lebenszyklus** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
+- `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Pruefung
+- `beurkundungspruefung-quellenkarte-check` — Beurkundungspruefung Quellenkarte Check
 - `bilingual-einsprachig` — Bilingual Einsprachig
-- `cap-table-darlehenshoehe-konditionen` — Cap Table Darlehenshoehe Konditionen
+- `bilinguale-vertragserstellung` — Bilinguale Vertragserstellung
+- `cap-table-darlehenshoehe-konditionen` — CAP Table Darlehenshoehe Konditionen
+- `chronologie-fristen` — Chronologie Fristen
+- `darlehenshoehe-konditionen` — Darlehenshoehe Konditionen
 - `dokumenten-upload-formfehler-heilungs` — Dokumenten Upload Formfehler Heilungs
-- `einsprachige-vertragsfassung-vertragserstellung` — Einsprachige Vertragsfassung Vertragserstellung
-- `gesellschafterbeschluss-kapitalerhoehung-vorbereiten` — Gesellschafterbeschluss Kapitalerhoehung Vorbereiten
-- `gesellschafterliste-aktualisieren-gesellschafterversammlung` — Gesellschafterliste Aktualisieren Gesellschafterversammlung
-- `gmbh-vollstaendigen` — Gmbh Vollstaendigen
-- `handelsregisteranmeldung-kapitalerhoehung-kyc-aml` — Handelsregisteranmeldung Kapitalerhoehung Kyc Aml
-- `lebenszyklus-bilinguale-vertragserstellung` — Lebenszyklus Bilinguale Vertragserstellung
-- `mandat-triage-mehrere-parallel` — Mandat Triage Mehrere Parallel
-- `notar-paket-parteien-erfassen` — Notar Paket Parteien Erfassen
-- `post-eintragung-rangruecktritt-formulieren` — Post Eintragung Rangruecktritt Formulieren
-- `sacheinlagebericht-werthaltigkeit-begleitet` — Sacheinlagebericht Werthaltigkeit Begleitet
-- `unterzeichnung-elektronisch-wandelereignis-eingang` — Unterzeichnung Elektronisch Wandelereignis Eingang
+- `einsprachig-verhandlung-vergleich-und-eskalation` — Einsprachig Verhandlung Vergleich und Eskalation
+- `einsprachige-vertragsfassung` — Einsprachige Vertragsfassung
+- `formfehler-heilungs-timeline` — Formfehler Heilungs Timeline
+- `gesellschafterbeschluss-kapitalerhoehung` — Gesellschafterbeschluss Kapitalerhoehung
+- `einstieg-routing` — Einstieg Routing
+- `output-waehlen` — Output Waehlen
 
 ## Arbeitsweg
 

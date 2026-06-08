@@ -1,6 +1,6 @@
 ---
 name: bauliche-veraenderungen-beirat-controlling
-description: "Bauliche Veraenderungen Beirat Controlling im Plugin Weg Hausverwaltung: prüft konkret Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand, Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bauliche Veraenderungen Beirat Controlling im Plugin Weg Hausverwaltung: prüft konkret Prüft bauliche Veränderungen nach §§ 20 und 21 WEG Stand, Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Bauliche Veraenderungen Beirat Controlling

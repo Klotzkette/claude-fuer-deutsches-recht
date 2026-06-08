@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Subsumtions-Prüfer (Jura): trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Lösungsskizze, Norm-Tatbestand), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Subsumtions Prüfer** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `eu-abgrenzung-einschlaegige-normen-einschlaegige-normen` — Eu Abgrenzung Einschlaegige Normen Einschlaegige Normen
-- `eu-vorabentscheidung-falsche-wiese-fehlerklasse-bgb` — Eu Vorabentscheidung Falsche Wiese Fehlerklasse Bgb
-- `gegen-tbm-grundrechte-grch-kandidatenloesung-subsumtion` — Gegen Tbm Grundrechte Grch Kandidatenloesung Subsumtion
-- `interessen-rechtsberatung-rechtsfolgen` — Interessen Rechtsberatung Rechtsfolgen
-- `kommentar-literatur-konkurrenzen-anspruchsgrundlagen-norm` — Kommentar Literatur Konkurrenzen Anspruchsgrundlagen Norm
-- `mandatsabbruch-empfehlung-beweisbedarf-erfassen-darlegungs` — Mandatsabbruch Empfehlung Beweisbedarf Erfassen Darlegungs
-- `norm-zerlegen-output-mandantenbrief-pruefungsdokument` — Norm Zerlegen Output Mandantenbrief Pruefungsdokument
-- `output-alltagssprache-de` — Output Alltagssprache De
-- `output-antrag-beschwerde-klageschrift` — Output Antrag Beschwerde Klageschrift
-- `output-fremdsprachig-en-fr` — Output Fremdsprachig En Fr
-- `output-juristisch-gestochen-de` — Output Juristisch Gestochen De
-- `output-waehlen-rechtsprechung-recherche-europarecht` — Output Wählen Rechtsprechung Recherche Europarecht
-- `rechtsfolge-bestimmen-einreden-interaktiver` — Rechtsfolge Bestimmen Einreden Interaktiver
+- `anwenden-quellenkarte` — Anwenden Quellenkarte
+- `beweisbedarf-und-belege-erfassen` — Beweisbedarf und Belege Erfassen
+- `darlegungs-und-beweislast-verteilen` — Darlegungs und Beweislast Verteilen
+- `einreden-compliance-dokumentation-und-akte` — Einreden Compliance Dokumentation und Akte
+- `einschlaegige-normen-vorschlagen-de` — Einschlaegige Normen Vorschlagen DE
+- `einschlaegige-normen-vorschlagen-eu` — Einschlaegige Normen Vorschlagen EU
+- `eu-abgrenzung-einschlaegige-normen` — EU Abgrenzung Einschlaegige Normen
+- `eu-vorabentscheidung-falsche-wiese` — EU Vorabentscheidung Falsche Wiese
+- `europarecht-fristen-form-und-zustaendigkeit` — Europarecht Fristen Form und Zustaendigkeit
+- `falsche-wiese-warnung` — Falsche Wiese Warnung
+- `fehlerklasse-bgb-at-training` — Fehlerklasse BGB AT Training
+- `generalklauseln-pruefen` — Generalklauseln Pruefen
+- `grundrechte-pruefung-de-und-grch` — Grundrechte Pruefung DE und Grch
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Gesellschaftsrecht in legal English: trennt fehlende Tatsachen von fehlenden Belegen (Articles of Association, Shareholders Agreement, Board Resolutions), nennt pro Lücke Beweisthema, Beschaffungsweg (UK Companies House), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Gesellschaftsrecht Legal English** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
+- `anfaenger-verhandlung-vergleich-und-eskalation` — Anfaenger Verhandlung Vergleich und Eskalation
+- `anschauungsmaterial-multiformat-auswertung` — Anschauungsmaterial Multiformat Auswertung
 - `anti-dilution-articles-association` — Anti Dilution Articles Association
-- `begriffskompass-intake-bgb-at` — Begriffskompass Intake Bgb At
+- `articles-association-satzung` — Articles Association Satzung
+- `begriffskompass-intake-bgb-at` — Begriffskompass Intake BGB AT
+- `bgb-at-schuldrecht-at-im-ma` — BGB AT Schuldrecht AT im MA
 - `business-corporate` — Business Corporate
-- `cap-table-client-explainer` — Cap Table Client Explainer
-- `deutsches-englische-drag-tag` — Deutsches Englische Drag Tag
-- `didaktisches-gesellschafterliste` — Didaktisches Gesellschafterliste
-- `due-diligence-earn-out` — Due Diligence Earn Out
-- `english-anschauungsmaterial-multiformat` — English Anschauungsmaterial Multiformat
-- `exit-spa-financial-debt` — Exit Spa Financial Debt
-- `financing-convertible-fully-diluted` — Financing Convertible Fully Diluted
-- `gesellschaftsrecht-legal` — Gesellschaftsrecht Legal
-- `governance-board-lernpfad-dealroom` — Governance Board Lernpfad Dealroom
-- `liquidation-preference-partner-briefing` — Liquidation Preference Partner Briefing
-- `protective-provisions-qualitaetsgate-corporate` — Protective Provisions Qualitaetsgate Corporate
+- `cap-table-client-explainer` — CAP Table Client Explainer
+- `chronologie-fristen` — Chronologie Fristen
+- `client-explainer-legal-english` — Client Explainer Legal English
+- `corporate-behoerden-gericht-und-registerweg` — Corporate Behoerden Gericht und Registerweg
+- `dealroom-quellenkarte` — Dealroom Quellenkarte
+- `deutsches-englische-drag-tag` — Deutsches Englische Drag TAG
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

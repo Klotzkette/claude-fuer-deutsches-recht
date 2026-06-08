@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Berufsrechts-KI bei Vertragsprüfung: prüft Normen (§ 43a BRAO, § 50 BRAO Aktenführung, DSGVO Art. 28 AVV) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt RAK und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Berufsrecht Ki Vertragspruefung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `ai-act-rollen-kanzlei-provider-deployer-api` — Ai Act Rollen Kanzlei Provider Deployer Api
-- `br-ki-vertragspruefung-brki-rollout-chronologie` — Allgemein Brki Rollout Chronologie
+- `ai-act-rollen-kanzlei-provider-deployer-api` — AI ACT Rollen Kanzlei Provider Deployer API
 - `anbietern-belehrung-sonderfall-edge` — Anbietern Belehrung Sonderfall Edge
-- `art-50-ki-vo-schriftsatz-marketing-chatbot` — Art 50 Ki Vo Schriftsatz Marketing Chatbot
-- `avv-grenzpruefung-brki-anbieter-brki-eu` — Avv Grenzpruefung Brki Anbieter Brki Eu
-- `avv-grenzpruefung-datenschutz` — Avv Grenzpruefung Datenschutz
-- `berufsrecht-ki-vertragspruefung-kaltstart-interview` — Berufsrecht Ki Vertragspruefung Kaltstart Interview
-- `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen Brao
-- `brki-anbieter-due-diligence` — Brki Anbieter Due Diligence
-- `brki-eu-us-dpf-transferpruefung` — Brki Eu Us Dpf Transferpruefung
-- `brki-rag-bro-grundlagen-cloud-act` — Brki Rag Bro Grundlagen Cloud Act
-- `brki-rag-vertraulichkeit-spezial` — Brki Rag Vertraulichkeit Spezial
-- `brki-rollout-trainings-workflow` — Brki Rollout Trainings Workflow
-- `bro-grundlagen-ki-einsatz` — Bro Grundlagen Ki Einsatz
+- `anbietern-schriftsatz-brief-memo-bausteine` — Anbietern Schriftsatz Brief Memo Bausteine
+- `art-50-ki-vo-schriftsatz-marketing-chatbot` — ART 50 KI VO Schriftsatz Marketing Chatbot
+- `avv-grenzpruefung-brki-anbieter-eu` — AVV Grenzpruefung Brki Anbieter EU
+- `avv-grenzpruefung-datenschutz` — AVV Grenzpruefung Datenschutz
+- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Uebergabe
+- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Uebergabe
+- `berufsrecht-sonderfall-edge-case` — Berufsrecht Sonderfall Edge Case
+- `berufsrecht-sonderfall-und-edge-case` — Berufsrecht Sonderfall und Edge Case
+- `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen BRAO
+- `bnoto-interessen` — Bnoto Interessen
+- `bnoto-mehrparteien-konflikt-und-interessen` — Bnoto Mehrparteien Konflikt und Interessen
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

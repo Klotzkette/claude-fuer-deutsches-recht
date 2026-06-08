@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Dokumentenintake für Zwangsvollstreckung: sortiert Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll, prüft Datum, Absender, Frist und Beweiswert (Titel mit Klausel, Zustellungsnachweis); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
 ---
 
 # Dokumentenintake
@@ -9,22 +9,24 @@ description: "Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Bewe
 
 Dieser Dokumenten-Intake für **Zwangsvollstreckung** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `765a-fehlerkatalog` — 765a Fehlerkatalog
+- `802l-verhandlung-vergleich-und-eskalation` — 802l Verhandlung Vergleich und Eskalation
+- `abwehr-schuldner` — Abwehr Schuldner
+- `arbeit-schriftsatz-brief-und-memo-bausteine` — Arbeit Schriftsatz Brief und Memo Bausteine
 - `bank-haertefall-inso` — Bank Haertefall Inso
+- `elektronische-zustellung-eu` — Elektronische Zustellung EU
+- `eu-kontenpfaendung-655-2014` — EU Kontenpfaendung 655 2014
+- `haertefall-mandantenkommunikation-entscheidungsvorlage` — Haertefall Mandantenkommunikation Entscheidungsvorlage
+- `inso-internationaler-bezug-und-schnittstellen` — Inso Internationaler Bezug und Schnittstellen
+- `kommandocenter` — Kommandocenter
 - `kontenpfaendung-notar-interessen-online` — Kontenpfaendung Notar Interessen Online
-- `mahnbescheid-fristennotiz-zv-titel-zv-kontensuche` — Mahnbescheid Fristennotiz Zv Titel Zv Kontensuche
-- `pfueb-raeumung-schuldnerschutz-beweislast` — Pfueb Raeumung Schuldnerschutz Beweislast
-- `vermoegensauskunft-vollstreckungsbescheid-vollstreckungstitel` — Vermoegensauskunft Vollstreckungsbescheid Vollstreckungstitel
-- `zpo-zwangsvollstreckung-zv-abwehr` — Zpo Zwangsvollstreckung Zv Abwehr
-- `zv-elektronische-zv-eu-zv` — Zv Elektronische Zv Eu Zv
-- `zv-mahnbescheid-zv-mobiliar-zv-notarielle` — Zv Mahnbescheid Zv Mobiliar Zv Notarielle
-- `zv-pfaendungstabelle-zv-pfueb-zv-pfueb` — Zv Pfaendungstabelle Zv Pfueb Zv Pfueb
-- `zv-pfueb-802l-arbeit` — Zv Pfueb 802l Arbeit
-- `zv-raeumung-zv-tabellenauszug-zv-vermoegensauskunft` — Zv Raeumung Zv Tabellenauszug Zv Vermoegensauskunft
-- `zv-vollstreckungsbescheid-zv-vollstreckungsschutz-zv-zvg` — Zv Vollstreckungsbescheid Zv Vollstreckungsschutz Zv Zvg
-- `zwv-pfaendung-konto-vollstreckungsschutz-billigkeit` — Zwv Pfaendung Konto Vollstreckungsschutz Billigkeit
+- `kontensuche-drittschuldner` — Kontensuche Drittschuldner
+- `kontensuche-quellenkarte` — Kontensuche Quellenkarte
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

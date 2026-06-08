@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Phishing-Vorfall-Prüfer: ordnet Rolle (Geschädigtes Unternehmen, Mitarbeiter, Bank), markiert Frist (Art. 33 DSGVO 72h), wählt Norm (DSGVO Art. 33 Meldung, NIS2, § 8b BSIG) und Zuständigkeit (BSI), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Phishing Vorfall Prüfer** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `675u-675w-banking` — 675u 675w Banking
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung Bgb 675u Phish Ceo
-- `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking App
-- `bankpflichten-beweislast-beweislast-bgb` — Bankpflichten Beweislast Beweislast Bgb
-- `bea-notfall-bgb-675v-erstkontakt-mandant` — Bea Notfall Bgb 675v Erstkontakt Mandant
+- `675v-quellenkarte` — 675v Quellenkarte
+- `675w-zahlen-schwellen-und-berechnung` — 675w Zahlen Schwellen und Berechnung
+- `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung BGB 675u Phish CEO
+- `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking APP
+- `banking-behoerden-gericht-und-registerweg` — Banking Behoerden Gericht und Registerweg
+- `bankpflichten-beweislast-bgb` — Bankpflichten Beweislast BGB
+- `bea-notfall-bgb-675v-erstkontakt-mandant` — BEA Notfall BGB 675v Erstkontakt Mandant
+- `beweislast-mandantenkommunikation-entscheidungsvorlage` — Beweislast Mandantenkommunikation Entscheidungsvorlage
+- `bgb-schriftsatz-brief-und-memo-bausteine` — BGB Schriftsatz Brief und Memo Bausteine
 - `call-interessen-faelle-freistehender` — Call Interessen Faelle Freistehender
-- `grobe-online-phishing` — Grobe Online Phishing
-- `klage-fristennotiz-vorfall-phish-banking` — Klage Fristennotiz Vorfall Phish Banking
-- `phish-incident-phish-meldepflichten-arten-erkennen` — Phish Incident Phish Meldepflichten Arten Erkennen
-- `phishing-faelle-rentner-kryptowaehrung-recovery-geschaeftskonto` — Phishing Faelle Rentner Kryptowaehrung Recovery Geschaeftskonto
-- `phishing-praeventionscheckliste-strafanzeige-vorbereiten-supply` — Phishing Praeventionscheckliste Strafanzeige Vorbereiten Supply
-- `spoofing` — Spoofing
-- `versicherer-cyber-phishing-vorfall-zivilklage-bank` — Versicherer Cyber Phishing Vorfall Zivilklage Bank
+- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Uebergabe
+- `fahrlaessigkeit-fehlerkatalog` — Fahrlaessigkeit Fehlerkatalog
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

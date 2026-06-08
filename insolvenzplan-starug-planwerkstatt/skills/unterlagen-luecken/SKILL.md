@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Lücken- und Beschaffungsliste für Insolvenzplan / StaRUG: trennt fehlende Tatsachen von fehlenden Belegen (Insolvenzplan, Restrukturierungsplan, Gruppenbildung), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgericht), Frist und Ersatznachweis."
 ---
 
 # Unterlagen und Lücken
@@ -9,22 +9,24 @@ description: "Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordne
 
 Diese Unterlagenprüfung für **Insolvenzplan Starug Planwerkstatt** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
+
 ## Fachlandkarte dieses Plugins
 
 - `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `down-red-gestaltender-gruppen` — Down Red Gestaltender Gruppen
-- `insolvenzplan-intake-klassen` — Insolvenzplan Intake Klassen
-- `ips-abstimmung-ips-anlagenpaket-ips-asset` — Ips Abstimmung Ips Anlagenpaket Ips Asset
-- `ips-cramdown-ips-datenraum-ips-gestaltender` — Ips Cramdown Ips Datenraum Ips Gestaltender
-- `ips-gerichtliche-ips-ips-steuern` — Ips Gerichtliche Ips Ips Steuern
-- `ips-gruppen-ips-architektur-ips-integrierte` — Ips Gruppen Ips Architektur Ips Integrierte
-- `ips-ips-sanierungskonzept-ips-sicherheiten` — Ips Ips Sanierungskonzept Ips Sicherheiten
-- `ips-kaltstart-interview` — Ips Kaltstart Interview
-- `ips-minderheitenschutz-ips-planbetroffene-ips-planvollzug` — Ips Minderheitenschutz Ips Planbetroffene Ips Planvollzug
-- `ips-stabilisierung-ips-stakeholder-ips-plan` — Ips Stabilisierung Ips Stakeholder Ips Plan
-- `ips-verfahrenswahl-restrukturierungsplan-ips-darstellender` — Ips Verfahrenswahl Restrukturierungsplan Ips Darstellender
-- `ips-vergleichsrechnung-ipsplan-cram-ipsplan-gruppenbildung` — Ips Vergleichsrechnung Ipsplan Cram Ipsplan Gruppenbildung
+- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
+- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
+- `anlagenpaket` — Anlagenpaket
+- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
+- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
+- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
+- `darstellender-quellenkarte` — Darstellender Quellenkarte
+- `darstellender-teil` — Darstellender Teil
+- `datenraum-register` — Datenraum Register
+- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
+- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
+- `gestaltender-teil` — Gestaltender Teil
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

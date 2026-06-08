@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Rechtsberatungsstelle (RDG): prüft Normen (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO §§ 114 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Rechtsberatungsstelle** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
+- `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
 - `anleiter-pruefwarteschlange` — Anleiter Pruefwarteschlange
-- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung Rdg Konform
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel
+- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung RDG Konform
+- `einarbeitung` — Einarbeitung
+- `einfache-sprache-briefe` — Einfache Sprache Briefe
 - `entwurf-einarbeitung-einfache-sprache` — Entwurf Einarbeitung Einfache Sprache
-- `erzeugung-leitfaden-erstellen-mandanten-kommunikations` — Erzeugung Leitfaden Erstellen Mandanten Kommunikations
-- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle Rdg
-- `mandant-aufnahme` — Mandant Aufnahme
-- `mandantenbrief-memo-rbs-beratungshilfe` — Mandantenbrief Memo Rbs Beratungshilfe
-- `mandantenintake-mandatsuebergabe-international-pro-bono` — Mandantenintake Mandatsuebergabe International Pro Bono
-- `pruefwarteschlange-red-rbst-recherche-interessen` — Pruefwarteschlange Red Rbst Recherche Interessen
-- `rbs-einfuehrung-rbs-rdg-rbst-anlaufstellen` — Rbs Einfuehrung Rbs Rdg Rbst Anlaufstellen
-- `rbst-beratungshilfe-prozesskostenhilfe-niedrigschwellige-rdg` — Rbst Beratungshilfe Prozesskostenhilfe Niedrigschwellige Rdg
-- `recherche-start-rechtsberatungsstelle-semester` — Recherche Start Rechtsberatungsstelle Semester
+- `erstberatung-rdg-grenzen-und-triage` — Erstberatung RDG Grenzen und Triage
+- `erzeugung-leitfaden-erstellen-mandanten` — Erzeugung Leitfaden Erstellen Mandanten
+- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle RDG
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

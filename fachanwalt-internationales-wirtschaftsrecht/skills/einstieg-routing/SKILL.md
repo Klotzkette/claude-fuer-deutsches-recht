@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für Fachanwalt Internationales Wirtschaftsrecht: ordnet Rolle (Internationale Vertragspartner, Schiedsrichter), markiert Frist (Schiedsklage-Fristen je Regelwerk), wählt Norm (Rom I/II VO, CISG, ICC Incoterms) und Zuständigkeit (Schiedsgerichte (DIS, ICC)), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Fachanwalt Internationales Wirtschaftsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `bruessel-cisg-sonderfall-edge` — Bruessel Cisg Sonderfall Edge
-- `embargo-fristennotiz-schiedsverfahren-wirtschaftsrecht` — Embargo Fristennotiz Schiedsverfahren Wirtschaftsrecht
-- `fachanwalt-internationales-intwr-red` — Fachanwalt Internationales Intwr Red
-- `gerichtsstand-rechtswahl-intwr-cisg-intwr-rom` — Gerichtsstand Rechtswahl Intwr Cisg Intwr Rom
-- `investitionsschutz-kanzlei-lksg` — Investitionsschutz Kanzlei Lksg
-- `iwr-arbitration-iwr-cisg-iwr-rechtswahl` — Iwr Arbitration Iwr Cisg Iwr Rechtswahl
-- `iwr-cisg-iwr-brussels-iwr-icc` — Iwr Cisg Iwr Brussels Iwr Icc
-- `iwr-einfuehrung-rechtsquellen` — Iwr Einfuehrung Rechtsquellen
-- `mandat-triage-schriftsatzkern-substantiierung-aussenhandel` — Mandat Triage Schriftsatzkern Substantiierung Aussenhandel
-- `orientierung-iwr-embargo-iwr-eu` — Orientierung Iwr Embargo Iwr Eu
-- `sanktionen-erstgespraech-mandatsannahme-cisg` — Sanktionen Erstgespraech Mandatsannahme Cisg
-- `schiedsklausel-intwr-eu-sanktions` — Schiedsklausel Intwr Eu Sanktions
-- `schiedsklausel-intwr-schiedsklausel-grenzueberschreitender` — Schiedsklausel Intwr Schiedsklausel Grenzueberschreitender
+- `anti-dumping-zoll-eu-grundverordnung` — Anti Dumping Zoll EU Grundverordnung
+- `bruessel-cisg-sonderfall-edge` — Bruessel CISG Sonderfall Edge
+- `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
+- `embargo-fristennotiz-schiedsverfahren` — Embargo Fristennotiz Schiedsverfahren
+- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
+- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
+- `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
+- `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
+- `fa-int-wirtschaft-start-chronologie-fristen` — FA INT Wirtschaft Start Chronologie Fristen
+- `gerichtsstand-rechtswahl-intwr-cisg-rom` — Gerichtsstand Rechtswahl Intwr CISG ROM
+- `icsid-quellenkarte` — Icsid Quellenkarte
+- `incoterms-2020-fca-versendungskauf` — Incoterms 2020 FCA Versendungskauf
+- `intwr-red-team-korrektur` — Intwr RED Team Korrektur
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

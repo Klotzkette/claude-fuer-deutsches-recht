@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Fortbestehensprognose StaRUG/InsO: prüft Normen (§ 18 InsO drohende Zahlungsunfähigkeit, StaRUG §§ 1/14/49, IDW S 11) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Insolvenzgericht und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Fortbestehensprognose** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `annahmen-sammeln-bilanzieller-status-comfortletter-weich` — Annahmen Sammeln Bilanzieller Status Comfortletter Weich
-- `comfortletter-sonderfall-edge-forderungsverzicht` — Comfortletter Sonderfall Edge Forderungsverzicht
-- `fbp-bankenkommunikation-fbp-integrierte-fbp-stresstest` — Fbp Bankenkommunikation Fbp Integrierte Fbp Stresstest
-- `fbp-zahlungsunfaehigkeit-fortbestehensprognose-zusammenfuehren` — Fbp Zahlungsunfaehigkeit Fortbestehensprognose Zusammenfuehren
-- `fortbestehensdokumentation-insolvenzrecht-fortbestehensprognose` — Fortbestehensdokumentation Insolvenzrecht Fortbestehensprognose
-- `fortbestehensprognose-kaltstart-interview` — Fortbestehensprognose Kaltstart Interview
-- `fp-gerichtsfaehigkeit-fp-einfuehrung-fp-zeitraum` — Fp Gerichtsfaehigkeit Fp Einfuehrung Fp Zeitraum
-- `gesellschafterdarlehen-rangruecktritt-liquiditaet-monate` — Gesellschafterdarlehen Rangruecktritt Liquiditaet Monate
-- `liquiditaet-patronatserklaerung-interessen-plausibilisierung` — Liquiditaet Patronatserklaerung Interessen Plausibilisierung
-- `negativer-fristennotiz-ausloesendes-ereignis-forderungsverzicht` — Negativer Fristennotiz Ausloesendes Ereignis Forderungsverzicht
-- `prognose-stichtag-stundungsanfrage-glaeubiger-annahmen` — Prognose Stichtag Stundungsanfrage Glaeubiger Annahmen
-- `rangruecktritt-sanierungsbausteine-selbstdokumentation` — Rangruecktritt Sanierungsbausteine Selbstdokumentation
-- `sanierungsbausteine-vorschlagen-annahmen-bilanzstatus` — Sanierungsbausteine Vorschlagen Annahmen Bilanzstatus
+- `annahmen-behoerden-gericht-und-registerweg` — Annahmen Behoerden Gericht und Registerweg
+- `annahmen-belastbarkeit-plausibilisieren` — Annahmen Belastbarkeit Plausibilisieren
+- `annahmen-sammeln-bilanzieller-status` — Annahmen Sammeln Bilanzieller Status
+- `ausloesendes-ereignis-erfassen` — Ausloesendes Ereignis Erfassen
+- `bilanzieller-status-aufnehmen` — Bilanzieller Status Aufnehmen
+- `bilanzstatus-risikoampel-und-gegenargumente` — Bilanzstatus Risikoampel und Gegenargumente
+- `comfortletter-sonderfall-edge` — Comfortletter Sonderfall Edge
+- `comfortletter-weich-erzeugen` — Comfortletter Weich Erzeugen
+- `eskalation-sonderfall-und-edge-case` — Eskalation Sonderfall und Edge Case
+- `fbp-bankenkommunikation-waiver-integrierte` — FBP Bankenkommunikation Waiver Integrierte
+- `fbp-integrierte-planung-bauleiter` — FBP Integrierte Planung Bauleiter
+- `fbp-stresstest-szenarien-leitfaden` — FBP Stresstest Szenarien Leitfaden
+- `fbp-zahlungsunfaehigkeit` — FBP Zahlungsunfaehigkeit
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Produktrecht (ProdSG/CE): prüft Normen (ProdSG, GPSR EU 2023/988, ProdHaftG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Marktüberwachung Länder und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Produktrecht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
-- `bewertungen-red-team-impressumspflicht` — Bewertungen Red Team Impressumspflicht
-- `eu-produktsicherheitsverordnung-feature-risikobewertung` — Eu Produktsicherheitsverordnung Feature Risikobewertung
-- `ist-ein-ki-act-marktueberwachung-kommunikation` — Ist Ein Ki Act Marktueberwachung Kommunikation
-- `launch-livecheck-machinery` — Launch Livecheck Machinery
-- `launch-pruefung` — Launch Prüfung
-- `nachhaltigkeitsklage-werbeaussagen-preisangaben-prodr-gpsr` — Nachhaltigkeitsklage Werbeaussagen Preisangaben Prodr Gpsr
-- `pangv-prodr-produktbeobachtung` — Pangv Prodr Produktbeobachtung
-- `prodr-machinery-prodr-produktrueckruf-produktbeobachtung` — Prodr Machinery Prodr Produktrueckruf Produktbeobachtung
-- `produktbeobachtung-software-produktrecht` — Produktbeobachtung Software Produktrecht
-- `produkthaftung-grundlagen-produkthaftung-produktsicherheit` — Produkthaftung Grundlagen Produkthaftung Produktsicherheit
-- `produktlaunch-beweislast-produktlaunch-rechtscheck` — Produktlaunch Beweislast Produktlaunch Rechtscheck
-- `produktrecht-kaltstart-interview` — Produktrecht Kaltstart Interview
-- `produktrecht-produktrechtliche-rechtscheck-sonderfall` — Produktrecht Produktrechtliche Rechtscheck Sonderfall
+- `anpassen` — Anpassen
+- `anschluss-router` — Anschluss Router
+- `belegmatrix-mandantenkommunikation-entscheidungsvorlage` — Belegmatrix Mandantenkommunikation Entscheidungsvorlage
+- `bewertungen-red-team-impressumspflicht` — Bewertungen RED Team Impressumspflicht
+- `ce-kennzeichnung-routenplan` — CE Kennzeichnung Routenplan
+- `chronologie-red-team-und-qualitaetskontrolle` — Chronologie RED Team und Qualitaetskontrolle
+- `dual-use-produktrecht` — Dual USE Produktrecht
+- `eu-produktsicherheitsverordnung-feature` — EU Produktsicherheitsverordnung Feature
+- `feature-risikobewertung` — Feature Risikobewertung
+- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
+- `impressum-pflicht` — Impressum Pflicht
+- `impressumspflicht-dokumentenmatrix-und-lueckenliste` — Impressumspflicht Dokumentenmatrix und Lueckenliste
+- `ist-ki-act-marktueberwachung-kommunikation` — IST KI ACT Marktueberwachung Kommunikation
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

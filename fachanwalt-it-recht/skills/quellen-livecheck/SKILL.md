@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Quellen-Live-Check für Fachanwalt IT-Recht: prüft Normen (BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck
@@ -9,22 +9,24 @@ description: "Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprech
 
 Dieser Quellen-Livecheck für **Fachanwalt It Recht** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `dma-dsa-dsgvo-fachanwalt-governance` — Dma Dsa Dsgvo Fachanwalt Governance
-- `dsv-aufnahme-dsv-benachrichtigung-dsv-benachrichtigung-dsv` — Dsv Aufnahme Dsv Benachrichtigung Dsv Benachrichtigung Dsv
-- `dsv-dsfa-update-erstgespraech-vorfallmeldung-eskalationsmatrix` — Dsv Dsfa Update Erstgespraech Vorfallmeldung Eskalationsmatrix
-- `dsv-kinderdaten-besondere-kommunikationssperre-lead-authority` — Dsv Kinderdaten Besondere Kommunikationssperre Lead Authority
-- `dsv-massenbenachrichtigung-dsv-meldekette-dsv-meldung-dsv` — Dsv Massenbenachrichtigung Dsv Meldekette Dsv Meldung Dsv
-- `dsv-meldung-baylda-bfdi-bln-bdi-hbdi-hmbbfdi` — Dsv Meldung Baylda Bfdi Bln Bdi Hbdi Hmbbfdi
-- `dsv-meldung-lda-ldi-nrw-lfd-niedersachsen-sachsen-anhalt-lfdi` — Dsv Meldung Lda Ldi Nrw Lfd Niedersachsen Sachsen Anhalt Lfdi
-- `dsv-meldung-lfdi-mv-rlp-saarland-saechsdsb` — Dsv Meldung Lfdi Mv Rlp Saarland Saechsdsb
-- `dsv-meldung-tlfdi-uld-sh-nachmeldung-aktualisierung-enisa` — Dsv Meldung Tlfdi Uld Sh Nachmeldung Aktualisierung Enisa
-- `dsv-pressemitteilung-krisenkommunikation-sammelklagen-vvt-update` — Dsv Pressemitteilung Krisenkommunikation Sammelklagen Vvt Update
-- `dsv-rechtsprechung-saas-vertrag-fristennotiz-fachanwalt-it` — Dsv Rechtsprechung Saas Vertrag Fristennotiz Fachanwalt It
-- `dsv-risikobewertung-art-schnelltriage-risiko-sofortmassnahmen` — Dsv Risikobewertung Art Schnelltriage Risiko Sofortmassnahmen
-- `dsv-stakeholder-dsv-tonfall-dsv-verdacht-dsv-zeitleiste` — Dsv Stakeholder Dsv Tonfall Dsv Verdacht Dsv Zeitleiste
-- `fachanwalt-it-cloud-vertrag-datenschutz-itr-ki-saas-bauleiter` — Fachanwalt It Cloud Vertrag Datenschutz Itr Ki Saas Bauleiter
+- `ai-act-art-6-hochrisiko-ki` — AI ACT ART 6 Hochrisiko KI
+- `cloud-act-vs-dsgvo-art-48-dsgvo` — Cloud ACT VS DSGVO ART 48 DSGVO
+- `cloud-vertrag-datenschutz-itr` — Cloud Vertrag Datenschutz ITR
+- `cyber-datenschutz` — Cyber Datenschutz
+- `datenschutzrecht-fehlerkatalog` — Datenschutzrecht Fehlerkatalog
+- `dma-dsa-dsgvo-fachanwalt-governance` — DMA DSA DSGVO Fachanwalt Governance
+- `dsfa-update-erstgespraech-vorfallmeldung` — Dsfa Update Erstgespraech Vorfallmeldung
+- `dsgvo-bussgeld-art-83-eugh-c-807-21` — DSGVO Bussgeld ART 83 Eugh C 807 21
+- `hacking-haftung-paragraf-823-bgb-it-sicherheit` — Hacking Haftung Paragraf 823 BGB IT Sicherheit
+- `informationstechnologierecht-kanzlei` — Informationstechnologierecht Kanzlei
+- `it-recht-aufnahme-statusinformation-benachrichtigung-art` — IT Recht Aufnahme Statusinformation Benachrichtigung ART
+- `it-recht-massenbenachrichtigung-meldekette-auftragsverarbeiter` — IT Recht Massenbenachrichtigung Meldekette Auftragsverarbeiter
+- `it-recht-stakeholder-mapping-tonfall-krisenkommunikation` — IT Recht Stakeholder Mapping Tonfall Krisenkommunikation
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 

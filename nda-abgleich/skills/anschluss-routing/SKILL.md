@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Anschluss-Routing für NDA-Abgleich: wählt den nächsten Spezial-Skill nach Engpass (Geltungsdauer NDA (5-10 Jahre), NDA-Entwurf, Mustervorlage, Vorvertrags-Korrespondenz), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -9,22 +9,24 @@ description: "Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist
 
 Dieses Anschluss-Routing für **Nda Abgleich** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
+- `aenderungsmodus-compliance-dokumentation` — Aenderungsmodus Compliance Dokumentation
+- `aenderungsmodus-compliance-dokumentation-und-akte` — Aenderungsmodus Compliance Dokumentation und Akte
+- `ampelmatrix-internationaler-bezug-schnittstellen` — Ampelmatrix Internationaler Bezug Schnittstellen
+- `ampelmatrix-internationaler-bezug-und-schnittstellen` — Ampelmatrix Internationaler Bezug und Schnittstellen
+- `arbeitnehmer-kuendigung` — Arbeitnehmer Kuendigung
 - `ausgabe-changes-docx-beweislast` — Ausgabe Changes Docx Beweislast
-- `durch-interessen-echten-sonderfall-eigenen` — Durch Interessen Echten Sonderfall Eigenen
-- `gegen-gelb-gleicht` — Gegen Gelb Gleicht
-- `gegenseite-tracked-fristennotiz-nda-definitionsklausel` — Gegenseite Tracked Fristennotiz Nda Definitionsklausel
-- `geschaeftsgeheimnis-geschgehg-kartellsensitiven-daten` — Geschaeftsgeheimnis Geschgehg Kartellsensitiven Daten
-- `haltelinien-setzt-standard` — Haltelinien Setzt Standard
-- `it-saas-laufzeit-survival-m-a` — It Saas Laufzeit Survival M A
-- `m-a-aenderungsmodus-ampelmatrix` — M A Aenderungsmodus Ampelmatrix
-- `mitarbeiter-need-non-solicit-permitted-disclosure` — Mitarbeiter Need Non Solicit Permitted Disclosure
-- `nda-abgleich` — Nda Abgleich
-- `nda-abgleich-arbeitnehmer-kuendigung-bewerbungen-pitches` — Nda Abgleich Arbeitnehmer Kündigung Bewerbungen Pitches
-- `nda-anwendbares-recht-gerichtsstand` — Nda Anwendbares Recht Gerichtsstand
-- `nda-bei-arbeitnehmer-kuendigung` — Nda Bei Arbeitnehmer Kündigung
+- `ausgabe-mandantenkommunikation-entscheidungsvorlage` — Ausgabe Mandantenkommunikation Entscheidungsvorlage
+- `changes-abschlussprodukt-uebergabe` — Changes Abschlussprodukt Uebergabe
+- `changes-abschlussprodukt-und-uebergabe` — Changes Abschlussprodukt und Uebergabe
+- `chirurgisch-quellenkarte` — Chirurgisch Quellenkarte
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `docx-beweislast-darlegungslast` — Docx Beweislast Darlegungslast
+- `docx-beweislast-und-darlegungslast` — Docx Beweislast und Darlegungslast
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 

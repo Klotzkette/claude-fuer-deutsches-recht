@@ -1,6 +1,6 @@
 ---
 name: facto
-description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-Vergabe ohne Ausschreibung angreifen, Bieter-Eignungsprüfung im Vergabeverfahren prüfen, Vergabe freiberuflicher Leistungen (Architekten, Ingenieure. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-Vergabe ohne Ausschreibung angreifen, Bieter-Eignungsprüfung im Vergabeverfahren prüfen, Vergabe freiberuflicher Leistungen Architekten, Ingenieure. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Facto

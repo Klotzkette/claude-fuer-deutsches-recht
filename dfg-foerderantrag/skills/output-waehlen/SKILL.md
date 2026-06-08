@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Output wählen im DFG-Förderantragstellung: Diese Output-Weiche für Dfg Foerderantrag entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist."
+description: "Output-Wahl für DFG-Förderantrag: stimmt Adressat (Antragsteller, DFG-Gutachter, Universitätsleitung), Frist (Antragsfrist Ausschreibungstermin) und Form auf den Zweck ab — typische Outputs: Projektbeschreibung, Finanzierungsplan, Begründung Personalbedarf."
 ---
 
 # Output wählen
@@ -9,22 +9,24 @@ description: "Output wählen im DFG-Förderantragstellung: Diese Output-Weiche f
 
 Diese Output-Weiche für **Dfg Foerderantrag** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `anfaenger-antraege-dfg` — Anfaenger Antraege Dfg
-- `dfg-bis-200k-begutachtung-light` — Dfg Bis 200k Begutachtung Light
-- `dfg-eigenanteil-und-grundausstattung` — Dfg Eigenanteil Und Grundausstattung
-- `dfg-eigene-vorarbeiten-darstellen` — Dfg Eigene Vorarbeiten Darstellen
-- `dfg-erstantragsteller-besondere-checks` — Dfg Erstantragsteller Besondere Checks
-- `dfg-finanzplan-module-personal-geraete` — Dfg Finanzplan Module Personal Geraete
-- `dfg-foerderstrategie-schnell-oder-gross` — Dfg Foerderstrategie Schnell Oder Gross
-- `dfg-grossgeraete-und-cluster-antrag` — Dfg Grossgeraete Und Cluster Antrag
-- `dfg-grundsystem-foerderlinien` — Dfg Grundsystem Foerderlinien
-- `dfg-internationale-kooperation-aufbau` — Dfg Internationale Kooperation Aufbau
-- `dfg-ki-ethik-forschungsdaten` — Dfg Ki Ethik Forschungsdaten
-- `dfg-kollegen-review-organisieren` — Dfg Kollegen Review Organisieren
-- `dfg-koselleck-500k-125m` — Dfg Koselleck 500k 125m
+- `adaptive-dokumentenmatrix-lueckenliste` — Adaptive Dokumentenmatrix Lueckenliste
+- `adaptive-dokumentenmatrix-und-lueckenliste` — Adaptive Dokumentenmatrix und Lueckenliste
+- `anfaenger-antraege-dfg` — Anfaenger Antraege DFG
+- `anfaenger-risikoampel-gegenargumente` — Anfaenger Risikoampel Gegenargumente
+- `antraege-zahlen-schwellen-und-berechnung` — Antraege Zahlen Schwellen und Berechnung
+- `antraege-zahlen-schwellenwerte-berechnung` — Antraege Zahlen Schwellenwerte Berechnung
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `dfg-bis-200k-begutachtung-light` — DFG BIS 200k Begutachtung Light
+- `dfg-eigenanteil-und-grundausstattung` — DFG Eigenanteil und Grundausstattung
+- `dfg-eigene-vorarbeiten-darstellen` — DFG Eigene Vorarbeiten Darstellen
+- `dfg-erstantragsteller-besondere-checks` — DFG Erstantragsteller Besondere Checks
+- `dfg-erstpruefung-und-mandatsziel` — DFG Erstpruefung und Mandatsziel
+- `dfg-finanzplan-module-personal-geraete` — DFG Finanzplan Module Personal Geraete
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 

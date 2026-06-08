@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Einstieg, Triage und Routing für E-Mail-Umformulierung im Berufsrecht: ordnet Rolle (Anwalt, Mandant, Gegner), markiert Frist (Mandantenkommunikation unverzüglich), wählt Norm (§ 43a BRAO, § 49b BRAO, BORA) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -9,22 +9,24 @@ description: "Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Fr
 
 Dieser Einstieg routet **Email Umformulierer Berufsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
-- `email-berufsrecht-berufliche-korrespondenz` — Allgemeine Berufliche Korrespondenz
-- `allgemeine-sonderfall-berufsrechtskonform-bora` — Allgemeine Sonderfall Berufsrechtskonform Bora
-- `anrede-und-grussformeln` — Anrede Und Grussformeln
-- `berufliche-fristennotiz-emotionale-steuerberater` — Berufliche Fristennotiz Emotionale Steuerberater
-- `bora-konformitaetspruefung` — Bora Konformitaetspruefung
-- `bora-konformitaetspruefung-brao-email-eingangsanalyse` — Bora Konformitaetspruefung Brao Email Eingangsanalyse
-- `brao-interessen-fokus-formuliert` — Brao Interessen Fokus Formuliert
-- `brao-konformitaetspruefung` — Brao Konformitaetspruefung
-- `email-eingangsanalyse` — Email Eingangsanalyse
-- `emotionale-trigger-ironie-sarkasmus-klare-bitte` — Emotionale Trigger Ironie Sarkasmus Klare Bitte
-- `emotionale-trigger-katalog` — Emotionale Trigger Katalog
-- `frist-und-mahnung-hoeflich` — Frist Und Mahnung Hoeflich
-- `hoefliche-konformitaet-mails` — Hoefliche Konformitaet Mails
+- `allgemeine-sonderfall-edge-case` — Allgemeine Sonderfall Edge Case
+- `anrede-und-grussformeln` — Anrede und Grussformeln
+- `berufliche-fristennotiz-emotionale` — Berufliche Fristennotiz Emotionale
+- `berufliche-fristennotiz-naechster-schritt` — Berufliche Fristennotiz Naechster Schritt
+- `berufsrechtskonform-verhandlung-vergleich-und-eskalation` — Berufsrechtskonform Verhandlung Vergleich und Eskalation
+- `bora-internationaler-bezug-und-schnittstellen` — BORA Internationaler Bezug und Schnittstellen
+- `bora-konformitaetspruefung` — BORA Konformitaetspruefung
+- `bora-konformitaetspruefung-brao-email` — BORA Konformitaetspruefung BRAO Email
+- `brao-interessen-fokus-formuliert` — BRAO Interessen Fokus Formuliert
+- `brao-konformitaetspruefung` — BRAO Konformitaetspruefung
+- `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
+- `edge-case-verhandlung-bora-international` — Edge Case Verhandlung BORA International
+- `email-berufsrecht-berufliche-korrespondenz` — Email Berufsrecht Berufliche Korrespondenz
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 
