@@ -5,12 +5,26 @@ description: "Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatri
 
 # Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
 
-## Spezialwissen: Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix / standardvertragsklauseln mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 1 DSGVO` — Grundsaetze der Verarbeitung.
+- `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlagen.
+- `Art. 12 DSGVO` — transparente Information.
+- `Art. 15 DSGVO` — Auskunft.
+- `Art. 17 DSGVO` — Loeschung.
+- `Art. 24 DSGVO` — Verantwortung des Verantwortlichen.
+- `Art. 32 DSGVO` — Sicherheit der Verarbeitung.
+- `Art. 33 DSGVO` — Meldung von Datenschutzverletzungen.
+- `Art. 58 DSGVO` — Befugnisse der Aufsichtsbehoerden.
+- `Art. 83 DSGVO` — Geldbussen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
+## Spezialwissen: Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

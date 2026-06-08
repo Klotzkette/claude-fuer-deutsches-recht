@@ -7,7 +7,7 @@ description: "Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und A
 
 ## Worum geht es?
 
-Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besonderer Situation geschlossen wurde (Haustuergeschaeft, ausserhalb der Geschaeftsraeume), koennen Sie am **eigenen Wohnsitz** klagen — und nur dort verklagt werden. Das ist eine Schutzvorschrift fuer Verbraucher. Praktisch sehr nuetzlich, wenn der Verkaeufer weit weg sitzt.
+Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besonderer Situation geschlossen wurde (Haustuergeschaeft, ausserhalb der Geschaeftsraeume), koennen Sie am **eigenen Wohnsitz** klagen — und nur dort verklagt werden. Das ist eine Schutzvorschrift für Verbraucher. Praktisch sehr nuetzlich, wenn der Verkaeufer weit weg sitzt.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -25,26 +25,26 @@ Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besond
 
 ## Rechtsgrundlagen
 
-- **§ 29c ZPO** — Ausschliesslicher Verbrauchergerichtsstand am Wohnsitz des Verbrauchers fuer Vertraege nach § 312b BGB und § 312c BGB.
+- **§ 29c ZPO** — Ausschliesslicher Verbrauchergerichtsstand am Wohnsitz des Verbrauchers für Vertraege nach § 312b BGB und § 312c BGB.
 - **§ 13 BGB** — Verbraucher-Definition.
 - **§ 14 BGB** — Unternehmer-Definition.
 - **§ 312b BGB** — Vertraege ausserhalb der Geschaeftsraeume.
 - **§ 312c BGB** — Fernabsatzvertraege.
 - **Art. 18 Brüssel-Ia-VO** — Internationaler Verbrauchergerichtsstand (bei EU-Sachverhalten).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Sind Sie Verbraucher?
 
 - Sie kaufen privat: ja.
-- Sie kaufen fuer Ihr Einzelunternehmen / Ihre Praxis: nein.
+- Sie kaufen für Ihr Einzelunternehmen / Ihre Praxis: nein.
 - Mischzweck: Schwerpunkt entscheidet (BGH).
 
 ### Schritt 2 — Welcher Vertragstyp?
 
 - Sie haben den Vertrag **online** geschlossen? → Fernabsatzvertrag § 312c BGB. § 29c ZPO greift.
 - Sie haben den Vertrag an der **Haustuer** unterschrieben? → § 312b BGB. § 29c ZPO greift.
-- Sie haben in einer Filiale unterschrieben? → § 29c ZPO greift **nicht**. Normale Gerichtsstandsregeln (Skill `oertliche-zustaendigkeit-12-37-zpo`).
+- Sie haben in einer Filiale unterschrieben? → § 29c ZPO greift **nicht**. Normale Gerichtsstandsregeln (Skill `oertliche-zuständigkeit-12-37-zpo`).
 - Bei einer Messe / einem Verkaufsstand? → § 312b BGB greift; § 29c ZPO greift (sofern sonstige Voraussetzungen vorliegen).
 
 ### Schritt 3 — Folge: Ausschliesslicher Gerichtsstand
@@ -61,12 +61,12 @@ Bei EU-grenzueberschreitenden Vertraegen pruefen Sie zusaetzlich Art. 17 ff. Bru
 
 ### Schritt 6 — Falls Sie als Beklagter ruegen wollen
 
-Schreiben Sie in die Klageerwiderung: "Die oertliche Zustaendigkeit wird geruegt. Das Gericht XXX ist nicht zustaendig. Zustaendig nach § 29c ZPO ist das Amtsgericht (mein Wohnsitz)." Antrag: Verweisung nach § 281 ZPO.
+Schreiben Sie in die Klageerwiderung: "Die oertliche Zuständigkeit wird geruegt. Das Gericht XXX ist nicht zuständig. Zustaendig nach § 29c ZPO ist das Amtsgericht (mein Wohnsitz)." Antrag: Verweisung nach § 281 ZPO.
 
 ## Worauf Sie besonders achten muessen
 
 - **§ 29c ZPO greift nicht generell bei Online-Bestellungen** — nur bei Fernabsatzvertraegen § 312c BGB. Wenn Sie online ein Hotel buchen, ist die Lage komplexer.
-- **Verbrauchereigenschaft beweispflichtig**: Sie als Verbraucher tragen die Darlegungslast. Bewahren Sie Belege fuer privaten Charakter des Kaufs auf.
+- **Verbrauchereigenschaft beweispflichtig**: Sie als Verbraucher tragen die Darlegungslast. Bewahren Sie Belege für privaten Charakter des Kaufs auf.
 - **Gerichtsstands-Klausel im AGB**: Bei Verbrauchern oft unwirksam — § 38 III ZPO, § 309 Nr. 13 BGB.
 
 ## Typische Fehler
@@ -77,14 +77,13 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zustaendigkeit wird geruegt
 
 ## Querverweise
 
-- `oertliche-zustaendigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Sachliche Zustaendigkeit AG.
+- `oertliche-zuständigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Sachliche Zuständigkeit AG.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 29c ZPO unveraendert. Bei internationalen Verbrauchertraegen Bruessel-Ia-VO zusaetzlich beachten.
-
 
 ## Qualitäts-Hardening
 

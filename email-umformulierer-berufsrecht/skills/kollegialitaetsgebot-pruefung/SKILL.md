@@ -6,19 +6,15 @@ description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollege
 # Kollegialitätsgebot-Prüfung
 
 ## Fachkern: Kollegialitätsgebot-Prüfung
-- **Spezialgegenstand:** Kollegialitätsgebot-Prüfung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kollegialitätsgebots nach § 25 BORA. Der kollegiale Umgang unter Rechtsanwälten ist nicht nur eine Frage des guten Tons, sondern eine berufsrechtliche Pflicht, deren Verletzung zu Rüge- oder Ahndungsverfahren führen kann.
 
-
 ## Triage zu Beginn
 1. Wer ist Adressat des Schreibens: Kollege direkt, Mandant ueber den Kollegen oder Gericht?
-2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persoenliche Eigenschaften (unzulaessig)?
-3. Ist die Aeusserung ueber den Kollegen notwendig fuer den sachlichen Inhalt des Schreibens?
+2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persönliche Eigenschaften (unzulaessig)?
+3. Ist die Aeusserung ueber den Kollegen notwendig für den sachlichen Inhalt des Schreibens?
 4. Hat die Gegenseite ihrerseits das Kollegialitaetsgebot verletzt — und verleitet das zur Erwiderung?
 
 ## Aktuelle Rechtsprechung

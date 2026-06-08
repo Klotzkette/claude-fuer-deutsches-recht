@@ -7,29 +7,29 @@ description: "Mieter Intake Mieterhoehung Entscheidung im Miet- und Wohnungseige
 
 ## Arbeitsbereich
 
-**Mieter Intake Mieterhoehung Entscheidung** ordnet den Fall über die tragenden Prüffelder: Mieter-Intake, Mieterhöhung-Entscheidung, Mietkonto und Kontoauszug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Mieter Intake Mieterhoehung Entscheidung** ordnet den Fall über die tragenden Prüfungslinien: Mieter-Intake, Mieterhöhung-Entscheidung, Mietkonto und Kontoauszug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-mieter-intake` | Mieter-Intake: Prüffeld für Miet- und WEG-Recht; sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mieterhoehung-entscheidung` | Mieterhöhung-Entscheidung: Prüffeld für Miet- und WEG-Recht; berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mietkonto-kontoauszug` | Mietkonto und Kontoauszug: Prüffeld für Miet- und WEG-Recht; rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mietpreisbremse-start` | Mietpreisbremse-Start: Prüffeld für Miet- und WEG-Recht; klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-modernisierung-entscheidung` | Modernisierung-Entscheidung: Prüffeld für Miet- und WEG-Recht; klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-mieter-intake` | Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-mieterhoehung-entscheidung` | Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-mietkonto-kontoauszug` | Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht; rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-mietpreisbremse-start` | Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht; klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-modernisierung-entscheidung` | Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Miet Wohnungseigentumsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-mieter-intake`
 
-**Fokus:** Mieter-Intake: Prüffeld für Miet- und WEG-Recht; sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Mieter-Intake
 
@@ -41,9 +41,8 @@ description: "Mieter Intake Mieterhoehung Entscheidung im Miet- und Wohnungseige
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -74,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-mieterhoehung-entscheidung`
 
-**Fokus:** Mieterhöhung-Entscheidung: Prüffeld für Miet- und WEG-Recht; berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Mieterhöhung-Entscheidung
 
@@ -86,9 +85,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -119,7 +117,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-mietkonto-kontoauszug`
 
-**Fokus:** Mietkonto und Kontoauszug: Prüffeld für Miet- und WEG-Recht; rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht; rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Mietkonto und Kontoauszug
 
@@ -131,9 +129,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -164,7 +161,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-mietpreisbremse-start`
 
-**Fokus:** Mietpreisbremse-Start: Prüffeld für Miet- und WEG-Recht; klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht; klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Mietpreisbremse-Start
 
@@ -176,9 +173,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -209,7 +205,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-modernisierung-entscheidung`
 
-**Fokus:** Modernisierung-Entscheidung: Prüffeld für Miet- und WEG-Recht; klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Modernisierung-Entscheidung
 
@@ -221,9 +217,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

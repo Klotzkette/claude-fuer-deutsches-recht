@@ -7,29 +7,29 @@ description: "Bauliche Veraenderung Betriebskosten im Miet- und Wohnungseigentum
 
 ## Arbeitsbereich
 
-**Bauliche Veraenderung Betriebskosten** ordnet den Fall über die tragenden Prüffelder: Bauliche-Veränderung-Routing, Betriebskosten-Schnellscan, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bauliche Veraenderung Betriebskosten** ordnet den Fall über die tragenden Prüfungslinien: Bauliche-Veränderung-Routing, Betriebskosten-Schnellscan, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-bauliche-veraenderung-routing` | Bauliche-Veränderung-Routing: Prüffeld für Miet- und WEG-Recht; ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-betriebskosten-schnellscan` | Betriebskosten-Schnellscan: Prüffeld für Miet- und WEG-Recht; entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-bauliche-veraenderung-routing` | Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht; ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-betriebskosten-schnellscan` | Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht; entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-co2-kosten-routing` | CO2-Kosten-Routing: Prüffeld für Miet- und WEG-Recht; klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-datenschutz-hausverwaltung` | Datenschutz Hausverwaltung: Prüffeld für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-co2-kosten-routing` | CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht; klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-datenschutz-hausverwaltung` | Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Miet Wohnungseigentumsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-bauliche-veraenderung-routing`
 
-**Fokus:** Bauliche-Veränderung-Routing: Prüffeld für Miet- und WEG-Recht; ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht; ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Bauliche-Veränderung-Routing
 
@@ -41,9 +41,8 @@ description: "Bauliche Veraenderung Betriebskosten im Miet- und Wohnungseigentum
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -74,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-betriebskosten-schnellscan`
 
-**Fokus:** Betriebskosten-Schnellscan: Prüffeld für Miet- und WEG-Recht; entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht; entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Betriebskosten-Schnellscan
 
@@ -86,9 +85,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -131,7 +129,6 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
 
@@ -163,7 +160,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 4. `workflow-co2-kosten-routing`
 
-**Fokus:** CO2-Kosten-Routing: Prüffeld für Miet- und WEG-Recht; klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht; klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # CO2-Kosten-Routing
 
@@ -175,9 +172,8 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -208,7 +204,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-datenschutz-hausverwaltung`
 
-**Fokus:** Datenschutz Hausverwaltung: Prüffeld für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Datenschutz Hausverwaltung
 
@@ -220,9 +216,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -250,3 +245,27 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 44 WEG
+- § 49 GKG
+- § 23 WEG
+- § 45 WEG
+- § 24 WEG
+- § 9a WEG
+- § 25 WEG
+- § 19 WEG
+- § 9b WEG
+- § 10 WEG
+
+### Leitentscheidungen
+
+- BGH VIII ZR 118/19
+- BGH VIII ZR 84/07
+- BGH VIII ZR 249/15
+

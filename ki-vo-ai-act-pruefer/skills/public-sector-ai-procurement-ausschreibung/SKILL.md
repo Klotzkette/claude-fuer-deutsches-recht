@@ -1,6 +1,6 @@
 ---
 name: public-sector-ai-procurement-ausschreibung
-description: "KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme."
+description: "KI-Beschaffung der öffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme."
 ---
 
 # Öffentliche KI-Beschaffung

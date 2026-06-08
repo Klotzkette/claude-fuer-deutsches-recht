@@ -7,10 +7,10 @@ description: "AR Kuendigungspruefung Fazugang Arbeitgeber im Plugin Fachanwalt A
 
 ## Arbeitsbereich
 
-**AR Kuendigungspruefung Fazugang Arbeitgeber** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Kündigungsprüfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**AR Kuendigungspruefung Fazugang Arbeitgeber** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Kündigungsprüfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Arbeitsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
 | `ar-kuendigungspruefung-workflow` | Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie. Schriftform § 623 BGB, KSchG-Anwendbarkeit § 23, Betriebsratsanhörung § 102 BetrVG, Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz, Massenentlassung § 17 KSchG. |
@@ -18,12 +18,12 @@ description: "AR Kuendigungspruefung Fazugang Arbeitgeber im Plugin Fachanwalt A
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
@@ -38,8 +38,6 @@ description: "AR Kuendigungspruefung Fazugang Arbeitgeber im Plugin Fachanwalt A
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Fachanwalt Arbeitsrecht — Allgemein
 
 ## Fachlicher Kern — Arbeitsrecht
@@ -49,7 +47,6 @@ description: "AR Kuendigungspruefung Fazugang Arbeitgeber im Plugin Fachanwalt A
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Schnellstart-Workflow
 
@@ -149,12 +146,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und… |
 | `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` | Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für… |
-| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Anwaltsperspektive zu BAG 23.10.2025 - 8 AZR 300/24 (Paarvergleich Equal Pay): fuer Klage auf Differenzentgelt; Beweislastumkehr nach § 22 AGG durch Paarvergleich mit einem einzelnen Vergleichskollegen. |
+| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Anwaltsperspektive zu BAG 23.10.2025 - 8 AZR 300/24 (Paarvergleich Equal Pay): für Klage auf Differenzentgelt; Beweislastumkehr nach § 22 AGG durch Paarvergleich mit einem einzelnen Vergleichskollegen. |
 | `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Anwaltsperspektive zu BAG 03.06.2025 - 9 AZR 104/24 (kein Urlaubsverzicht durch Prozessvergleich): Vergleichsformulierung zur Trennung von Mindesturlaub und Mehrurlaub. |
 | `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Anwaltsperspektive zu BAG 25.03.2026 - 5 AZR 108/25 (Freistellungsklausel unwirksam): Beschaeftigungsanspruch durchsetzen, Annahmeverzug sichern, AGB-Kontrolle. |
 | `fachanwalt-arbeitsrecht-befristung-tzbfg` | Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG… |
 | `fachanwalt-arbeitsrecht-bem-verfahren` | Betriebliches Eingliederungsmanagement BEM nach § 167 Abs. 2 SGB IX als Voraussetzung wirksamer personenbedingter Kündigung. Anwendungsfall Arbeitnehmer war laenger als sechs Wochen krank und Arbeitgeber will… |
-| `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht §… |
+| `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhörungs- und Widerspruchsrecht §… |
 | `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsannahme durch den Betriebsrat, Prüfung der ordnungsgemäßen Beschlussfassung (§ 25 Abs. 2, § 29 Abs. 2 BetrVG), strategisches Vorgehen bei festgestelltem… |
 | `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37… |
 | `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4… |
@@ -175,7 +172,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
-
 
 ## Qualitäts-Hardening
 
@@ -198,7 +194,6 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Strukturierter Arbeitsablauf zur vollständigen Prüfung einer Kündigung — von der Erstmeldung des Mandanten bis zum klaren Handlungsvorschlag. Kritischer Zeitdruck: Die Drei-Wochen-Frist nach § 4 KSchG läuft ab Zugang der Kündigung.
@@ -332,7 +327,6 @@ Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BG
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Praxisleitfaden für Arbeitgeber und Kanzleien, die Kündigungen rechtssicher zustellen müssen. Besonderes Augenmerk bei Massenentlassungen, wenn viele Kündigungen gleichzeitig organisiert werden müssen.

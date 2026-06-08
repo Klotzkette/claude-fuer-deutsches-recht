@@ -30,7 +30,7 @@ Wird KI nur als allgemeines Schreibwerkzeug genutzt oder beeinflusst sie die Aus
 Erstelle:
 
 - Hochrisiko-Vermerk.
-- Governance-Check fuer Gericht/Behörde.
+- Governance-Check für Gericht/Behörde.
 - Transparenz- und Akteneinsichtsfragen.
 - Beweisverwertungs- und Gehörsrisiken.
 

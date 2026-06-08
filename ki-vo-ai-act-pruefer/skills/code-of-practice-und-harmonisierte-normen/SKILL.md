@@ -1,6 +1,6 @@
 ---
 name: code-of-practice-und-harmonisierte-normen
-description: "Normen- und Standards-Landkarte fuer KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Vermutungswirkung nur bei im EU-Amtsblatt referenzierten harmonisierten Normen und nutzt ISO-Normen als Orientierung ohne falsche Konformitaetsvermutung. Output: standardsbasierter Massnahmenplan fuer KI-System, Hochrisiko oder GPAI."
+description: "Normen- und Standards-Landkarte für KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Vermutungswirkung nur bei im EU-Amtsblatt referenzierten harmonisierten Normen und nutzt ISO-Normen als Orientierung ohne falsche Konformitaetsvermutung. Output: standardsbasierter Massnahmenplan für KI-System, Hochrisiko oder GPAI."
 ---
 
 # Verhaltenskodizes, harmonisierte Normen und ISO-Standards
@@ -123,7 +123,6 @@ Risikoklasse: [Hochrisiko / begrenzt / GPAI / unklar]
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils aktuell im Amtsblatt der EU referenzierten harmonisierten Normen. Vor jeder finalen Aussage ist der Normenstand zu aktualisieren. Keine Rechtsberatung.
-
 
 ## Qualitäts-Hardening
 

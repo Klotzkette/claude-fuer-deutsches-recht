@@ -71,7 +71,6 @@ Fristsetzung, Rücktrittsrecht und Kündigung bei BGB-BT-Verträgen vollständig
 - schadensrecht-paragraphen-249-253
 - werkvertrag-abnahme-und-faelligkeit
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/__323.html

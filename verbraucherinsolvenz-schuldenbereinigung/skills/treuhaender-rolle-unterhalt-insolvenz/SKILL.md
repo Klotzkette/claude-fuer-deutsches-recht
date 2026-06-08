@@ -7,10 +7,10 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 
 ## Arbeitsbereich
 
-**Treuhaender Rolle Unterhalt Insolvenz** ordnet den Fall über die tragenden Prüffelder: Verbraucherinsolvenz, Verbraucherinsolvenz und eheliche Unterhaltspflicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Treuhaender Rolle Unterhalt Insolvenz** ordnet den Fall über die tragenden Prüfungslinien: Verbraucherinsolvenz, Verbraucherinsolvenz und eheliche Unterhaltspflicht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `verbraucherinsolvenz-treuhaender-rolle` | Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Kostenfragen. Liefert Pruefraster. |
 | `verbraucherinsolvenz-unterhalt-und-insolvenz` | Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Pruefraster. |
@@ -18,12 +18,12 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `verbraucherinsolvenz-treuhaender-rolle`
 
@@ -32,15 +32,13 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 # Verbraucherinsolvenz Treuhaender Rolle
 
 ## Fachkern: Verbraucherinsolvenz Treuhaender Rolle
-- **Spezialgegenstand:** Verbraucherinsolvenz Treuhaender Rolle. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Aufgabe
 
-Skill fuer Treuhaender-Mandate.
+Skill für Treuhaender-Mandate.
 
 ## Norm
 
@@ -68,7 +66,7 @@ Skill fuer Treuhaender-Mandate.
 ## Verguetung
 
 - § 14 InsVV Insolvenzrechtsverguetungsverordnung.
-- Mindestverguetung 100 Euro/Jahr fuer Treuhaender in Verbraucherinsolvenz.
+- Mindestverguetung 100 Euro/Jahr für Treuhaender in Verbraucherinsolvenz.
 
 ## Pruefraster
 
@@ -89,15 +87,13 @@ Skill fuer Treuhaender-Mandate.
 # Verbraucherinsolvenz Unterhalt Und Insolvenz
 
 ## Fachkern: Verbraucherinsolvenz Unterhalt Und Insolvenz
-- **Spezialgegenstand:** Verbraucherinsolvenz Unterhalt Und Insolvenz. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Aufgabe
 
-Skill fuer Schnittstelle Insolvenz / Unterhalt.
+Skill für Schnittstelle Insolvenz / Unterhalt.
 
 ## Norm
 
@@ -107,7 +103,7 @@ Skill fuer Schnittstelle Insolvenz / Unterhalt.
 ## Laufende Unterhaltspflicht
 
 - Unterhalt aus Erwerbseinkommen ist nicht der Insolvenzmasse zugeordnet.
-- § 850d ZPO: privilegierte Pfaendbarkeit fuer Unterhalt; bevorrechtigter Anspruch.
+- § 850d ZPO: privilegierte Pfaendbarkeit für Unterhalt; bevorrechtigter Anspruch.
 
 ## Unterhaltsrueckstaende vor Insolvenzantrag
 
@@ -137,15 +133,13 @@ Skill fuer Schnittstelle Insolvenz / Unterhalt.
 # Verbraucherinsolvenz Versagungsgruende
 
 ## Fachkern: Verbraucherinsolvenz Versagungsgruende
-- **Spezialgegenstand:** Verbraucherinsolvenz Versagungsgruende. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Aufgabe
 
-Skill fuer Versagungsverfahren.
+Skill für Versagungsverfahren.
 
 ## Norm
 

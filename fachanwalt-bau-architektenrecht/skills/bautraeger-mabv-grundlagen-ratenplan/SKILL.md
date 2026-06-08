@@ -7,46 +7,46 @@ description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Arch
 
 ## Arbeitsbereich
 
-**Bautraeger Mabv Grundlagen Ratenplan** ordnet den Fall über die tragenden Prüffelder: Makler- und Bautraegerverordnung (MaBV) Grundlagen, MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt, MaBV § 2. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Mabv Grundlagen Ratenplan** ordnet den Fall über die tragenden Prüfungslinien: Makler- und Bautraegerverordnung (MaBV) Grundlagen, MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt, MaBV § 2. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bautraeger-mabv-grundlagen-1-2` | Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster fuer Erwerber. |
+| `bautraeger-mabv-grundlagen-1-2` | Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster für Erwerber. |
 | `bautraeger-mabv-ratenplan-3-mabv` | MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster. |
-| `bautraeger-mabv-sicherheit-2-buergschaft` | MaBV § 2: Sicherheit fuer Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster. |
+| `bautraeger-mabv-sicherheit-2-buergschaft` | MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster. |
 | `bautraeger-mabv-vermoegenstrennung` | MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-mabv-grundlagen-1-2`
 
-**Fokus:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster fuer Erwerber.
+**Fokus:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster für Erwerber.
 
 # Bautraeger Mabv Grundlagen 1 2
 
 ## Anwendungsbereich
 
-§ 1 MaBV: Die MaBV gilt fuer Gewerbetreibende mit Erlaubnis nach § 34c Abs. 1 GewO — Bautraeger sind erfasst nach § 34c Abs. 1 Satz 1 Nr. 4 GewO (Bauvorhaben als Bautraeger oder Baubetreuer).
+§ 1 MaBV: Die MaBV gilt für Gewerbetreibende mit Erlaubnis nach § 34c Abs. 1 GewO — Bautraeger sind erfasst nach § 34c Abs. 1 Satz 1 Nr. 4 GewO (Bauvorhaben als Bautraeger oder Baubetreuer).
 
 ## Bautraegerdefinition
 
-Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben fuer fremde Rechnung durchfuehrt. Typisch: Erwerb des Grundstuecks im eigenen Namen, Bau, Verkauf von Wohnungs- oder Teileigentum an Endkunden.
+Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben für fremde Rechnung durchfuehrt. Typisch: Erwerb des Grundstuecks im eigenen Namen, Bau, Verkauf von Wohnungs- oder Teileigentum an Endkunden.
 
 ## Verhaeltnis Bautraeger vs. Generaluebernehmer
 
 - Bautraeger: verkauft an Erwerber, der danach Eigentuemer wird.
-- Generaluebernehmer: fuehrt Bauvorhaben fuer fremden Auftraggeber durch, der bereits Eigentuemer ist.
-- Wichtig: nur fuer Bautraeger gilt § 3 MaBV — der zentrale Erwerberschutz.
+- Generaluebernehmer: fuehrt Bauvorhaben für fremden Auftraggeber durch, der bereits Eigentuemer ist.
+- Wichtig: nur für Bautraeger gilt § 3 MaBV — der zentrale Erwerberschutz.
 
-## Pruefraster fuer Erwerber
+## Pruefraster für Erwerber
 
 1. Ist der Vertragspartner ein Bautraeger im Sinne § 34c GewO?
 2. Hat er eine gueltige Erlaubnis?
@@ -82,7 +82,7 @@ Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben fuer fremde R
 - 2,1 % nach Fassade.
 - 3,5 % nach vollstaendiger Fertigstellung.
 
-Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmaessigen Beratung im aktuellen Gesetzestext im Detail pruefen.
+Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmäßigen Beratung im aktuellen Gesetzestext im Detail pruefen.
 
 ## Verbot Vorausleistung
 
@@ -104,11 +104,11 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmaessigen Berat
 ## Werkzeug Photo-Tagebuch
 
 - Erwerber empfohlen: bei jedem Bauabschnitt eigene Fotos mit Datum und GPS.
-- Wichtig fuer Beweisfuehrung.
+- Wichtig für Beweisfuehrung.
 
 ## 3. `bautraeger-mabv-sicherheit-2-buergschaft`
 
-**Fokus:** MaBV § 2: Sicherheit fuer Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster.
+**Fokus:** MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster.
 
 # Bautraeger Mabv Sicherheit 2 Buergschaft
 
@@ -155,7 +155,7 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmaessigen Berat
 
 ## Pflicht zur Vermoegenstrennung
 
-§§ 3-8 MaBV: Bautraeger darf Erwerbergelder nur fuer das jeweilige Bauvorhaben verwenden. Trennung von eigenen Geldern ist Schutz vor Vermoegensvermischung.
+§§ 3-8 MaBV: Bautraeger darf Erwerbergelder nur für das jeweilige Bauvorhaben verwenden. Trennung von eigenen Geldern ist Schutz vor Vermoegensvermischung.
 
 ## Sonderkonto
 

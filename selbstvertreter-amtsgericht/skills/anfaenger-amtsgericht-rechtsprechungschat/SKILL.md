@@ -7,10 +7,10 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Anfaenger Amtsgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüffelder: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter vor dem, Fristbeginn ab Zustellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anfaenger Amtsgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter vor dem, Fristbeginn ab Zustellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `anfaenger-workflow-amtsgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
 | `rechtsprechungschat-amtsgericht` | Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden. |
@@ -18,12 +18,12 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `anfaenger-workflow-amtsgericht`
 
@@ -138,7 +138,6 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 - Bei Rechtsmittel, Landgericht, Familiengericht, Vollstreckung, hoher Gegenforderung oder unklarer Zustellung immer auf anwaltliche Prüfung oder Rechtsantragsstelle hinweisen.
 - Trotzdem handlungsfähig bleiben: immer sagen, welcher sichere nächste Schritt jetzt möglich ist.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -236,7 +235,6 @@ Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 - Bei aktueller oder streitiger Rechtsprechung immer Aktualitätsprüfung empfehlen.
 - Selbstvertreter nicht mit zehn Entscheidungen erschlagen; lieber eine tragende Entscheidung sauber erklären.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -265,7 +263,7 @@ Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks 
 
 - **Zustellung**: Foermliche Uebergabe eines Schriftstuecks an den Empfaenger.
 - **Gelber Umschlag / Postzustellungsurkunde (PZU)**: Postzustellung mit Datums-Vermerk.
-- **Empfangsbekenntnis**: Vom Empfaenger unterzeichnete Bestaetigung (i. d. R. nur fuer Anwaelte).
+- **Empfangsbekenntnis**: Vom Empfaenger unterzeichnete Bestaetigung (i. d. R. nur für Anwaelte).
 - **Ersatzzustellung**: Wenn Empfaenger nicht angetroffen — Hinterlegung im Briefkasten, beim Nachbarn.
 
 ## Rechtsgrundlagen
@@ -277,7 +275,7 @@ Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks 
 - **§ 180 ZPO** — Einlegung in Briefkasten.
 - **§ 189 ZPO** — Heilung von Zustellungs-Maengeln.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Gelber Umschlag empfangen
 
@@ -363,7 +361,6 @@ Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wied
 
 Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -371,3 +368,25 @@ Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+

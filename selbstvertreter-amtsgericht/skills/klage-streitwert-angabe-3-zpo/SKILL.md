@@ -7,7 +7,7 @@ description: "Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO �
 
 ## Worum geht es?
 
-Der Streitwert ist der Geldwert des Streits. Er ist Basis fuer die Gerichtskosten und entscheidet ueber die sachliche Zustaendigkeit (AG vs. LG). Sie muessen ihn in der Klage angeben (§ 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen ist es teils Schaetzung.
+Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskosten und entscheidet ueber die sachliche Zuständigkeit (AG vs. LG). Sie muessen ihn in der Klage angeben (§ 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen ist es teils Schaetzung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -18,8 +18,8 @@ Der Streitwert ist der Geldwert des Streits. Er ist Basis fuer die Gerichtskoste
 ## Fachbegriffe (kurz erklaert)
 
 - **Streitwert**: Geldwert dessen, worum gestritten wird.
-- **Zustaendigkeitsstreitwert**: Streitwert fuer Gerichts-Zustaendigkeit (= AG/LG-Grenze).
-- **Gebuehrenstreitwert**: Streitwert fuer Gebuehrenrechnung. Meist identisch.
+- **Zuständigkeitsstreitwert**: Streitwert für Gerichts-Zuständigkeit (= AG/LG-Grenze).
+- **Gebührenstreitwert**: Streitwert für Gebührenrechnung. Meist identisch.
 
 ## Rechtsgrundlagen
 
@@ -31,7 +31,7 @@ Der Streitwert ist der Geldwert des Streits. Er ist Basis fuer die Gerichtskoste
 - **§ 48 GKG** — Wertfestsetzung des Gerichts.
 - **§ 63 GKG** — Endgueltige Festsetzung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klage-Typ identifizieren
 
@@ -106,7 +106,7 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 
 ## Worauf Sie besonders achten muessen
 
-- **Zustaendigkeitsrelevant**: Streitwert entscheidet, ob AG oder LG.
+- **Zuständigkeitsrelevant**: Streitwert entscheidet, ob AG oder LG.
 - **Wertgrenze § 23 Nr. 1 GVG**: 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus Uebergangszeit Stichtag pruefen.
 - **Mietsache § 41 GKG**: Bei Wohnraum-Streit nicht zaehlt der konkrete Streitbetrag, sondern Jahresnettomiete.
 - **Nebenforderungen** zaehlen nicht (Zinsen, Kosten — § 4 ZPO).
@@ -120,14 +120,13 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 
 ## Querverweise
 
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Wertgrenze.
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Wertgrenze.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klageschrift.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG: 10.000 EUR seit 01.01.2026; Übergangsfälle und Sonderzuständigkeiten gesondert prüfen.
-
 
 ## Qualitäts-Hardening
 

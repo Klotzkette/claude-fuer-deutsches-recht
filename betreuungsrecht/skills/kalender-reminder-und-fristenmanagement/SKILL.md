@@ -5,6 +5,24 @@ description: "Kalender- und Reminder-Skill für Betreuungen: legt Berichtstermin
 
 # Kalender, Reminder und Fristenmanagement
 
+## Normenanker
+
+Arbeitsfokus: **Kalender, Reminder und Fristenmanagement**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Betreuerauswahl.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — Anhörung.
+- `§ 280 FamFG` — Gutachten.
+- `§ 5 BtOG` — Beratung.
+- `§ 8 BtOG` — Betreuungsvermeidung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill sorgt dafür, dass der Betreuer nichts Wichtiges vergisst: nicht die gerichtlichen Berichte, nicht die Bescheidfristen, nicht den Heimvertrag, nicht die Pflegekasse, nicht die nächste Rücksprache mit der betreuten Person.

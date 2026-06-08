@@ -7,10 +7,10 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Internationalen W
 
 ## Arbeitsbereich
 
-**Mandat Triage Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüffelder: Neues internationales Wirtschaftsrechtsmandat kommt rein, Substantiierter Schriftsatzkern für Klage mit, Schiedsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Mandat Triage Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüfungslinien: Neues internationales Wirtschaftsrechtsmandat kommt rein, Substantiierter Schriftsatzkern für Klage mit, Schiedsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `mandat-triage-iwr` | Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht). |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
@@ -18,12 +18,12 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Internationalen W
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Wirtschaftsrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `mandat-triage-iwr`
 
@@ -111,7 +111,7 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - Übersetzungsbedarf
 - Beglaubigung Apostille
 - Zustellungs-Sprachen
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -147,11 +147,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Mandat IWR triage und routen | Triage-Protokoll; Template unten |
 | Variante A — Mehrere Rechtsordnungen betroffen | Multi-Jurisdictions-Ansatz; lokale Korrespondenzanwaelte einbeziehen |
-| Variante B — Schnelle Sicherungsmassnahme noetig | Eilzustaendigkeit pruefen; vorher Arrest / einstweilige Verfuegung |
+| Variante B — Schnelle Sicherungsmassnahme noetig | Eilzuständigkeit pruefen; vorher Arrest / einstweilige Verfuegung |
 | Variante C — Mandant will Streit vermeiden | ADR-Pfad pruefen bevor Klage/Schied |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Ausgabe
 
@@ -229,7 +228,7 @@ Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -291,7 +290,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -299,7 +298,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Internationales Wirtschafts- und Schiedsrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Internationales Wirtschafts- und Schiedsrecht.
 - CISG, Rom-I-VO, Rom-II-VO, EuGVVO, NYC58, ICC-/DIS-Schiedsordnung sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -335,7 +334,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Internationales Wirtschafts- und Schiedsrecht (Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -367,7 +366,7 @@ Typische Antraege in Internationales Wirtschafts- und Schiedsrecht (Klage mit CI
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -402,8 +401,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung: Rechtsprechung und Normen (Internationales Wirtschaftsrecht)
 
@@ -431,7 +430,7 @@ Bevor losgelegt wird, klaere:
 3. Liegt ein vollstreckbarer Titel aus dem Ausland vor — Pruefung § 328 ZPO bzw. Art. 45 EuGVVO?
 4. Ist die Klagefrist gewahrt — Verjährung nach CISG Art. 39 (2 Jahre ab Mangel), § 195 BGB, Sonderfristen?
 5. Welche Beweismittel sind verfugbar — Urkunden, Zeugen im Ausland (Hager Beweisaufnahmeubereinkommen)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -442,7 +441,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — Schriftsatz internationales Verfahren verfassen | Schriftsatz-Vorlage; Template unten |
 | Variante A — Zweisprachiges Verfahren | Englischsprachige Version parallel vorbereiten |
 | Variante B — Schiedsverfahren statt Gericht | Statement of Claim nach ICC/UNCITRAL Rules; anderes Skill |
-| Variante C — Eilverfahren noetig | Verkuerztes Template; Eilantrag an zustaendiges Gericht |
+| Variante C — Eilverfahren noetig | Verkuerztes Template; Eilantrag an zuständiges Gericht |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -516,11 +515,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 # Aussenhandel: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Aussenhandel: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung / aussenhandel zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

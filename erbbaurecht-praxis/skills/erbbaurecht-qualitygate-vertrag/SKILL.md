@@ -5,6 +5,24 @@ description: "Checkt, ob ein Entwurf investierbar, vollziehbar, finanzierbar und
 
 # Quality Gate Vertrag
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachlicher Zuschnitt
 
 Checkt, ob ein Entwurf investierbar, vollziehbar, finanzierbar und konfliktfest ist.

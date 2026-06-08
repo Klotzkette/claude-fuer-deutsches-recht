@@ -1,6 +1,6 @@
 ---
 name: kritisches-red-team-ideologie
-description: "Red-Team fuer verdeckte Ideologie, Systemrhetorik, Moralueberschuss, Marktglauben, Staatsglauben und Methodenbeliebigkeit."
+description: "Red-Team für verdeckte Ideologie, Systemrhetorik, Moralueberschuss, Marktglauben, Staatsglauben und Methodenbeliebigkeit."
 ---
 
 # Kritisches Red-Team
@@ -13,13 +13,10 @@ description: "Red-Team fuer verdeckte Ideologie, Systemrhetorik, Moralueberschus
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Kritisches Red-Team
-- **Spezialgegenstand:** Kritisches Red-Team; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -66,6 +63,23 @@ Carl-Schmitt-nahe Argumentationsmuster sind nicht schon deshalb falsch, weil sie
 - Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
 - Das Ergebnis muss praktisch verwertbar bleiben.
 - Ausnahme-, Ordnungs- und Staatsräsonrhetorik wird nur akzeptiert, wenn sie in eine konkrete Rechtsgrundlage mit Grenzen übersetzt ist.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

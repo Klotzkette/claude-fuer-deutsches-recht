@@ -7,10 +7,10 @@ description: "ITR Open Source Mandat Triage im Plugin Fachanwalt It Recht: prüf
 
 ## Arbeitsbereich
 
-**ITR Open Source Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Spezialfall Open-Source-Compliance, Spezialfall Source-Code-Escrow, Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**ITR Open Source Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Open-Source-Compliance, Spezialfall Source-Code-Escrow, Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
 | `itr-source-code-escrow-spezial` | Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte. |
@@ -20,12 +20,12 @@ description: "ITR Open Source Mandat Triage im Plugin Fachanwalt It Recht: prüf
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Informationstechnologierecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `itr-open-source-compliance-spezial`
 
@@ -34,20 +34,16 @@ description: "ITR Open Source Mandat Triage im Plugin Fachanwalt It Recht: prüf
 # IT: Open-Source-Compliance
 
 ## Spezialwissen: IT: Open-Source-Compliance
-- **Spezialgegenstand:** IT: Open-Source-Compliance / itr open source compliance spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GPL, AGPL, LGPL, MIT, SBOM, KI, IT.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -75,7 +71,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -87,27 +83,23 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 # IT-Recht: Source-Code-Escrow
 
 ## Spezialwissen: IT-Recht: Source-Code-Escrow
-- **Spezialgegenstand:** IT-Recht: Source-Code-Escrow / itr source code escrow spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** IT.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -124,10 +116,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -212,7 +204,7 @@ IT-Recht ist breit und stark im Wandel (DSGVO NIS-2 AI Act DSA). Triage stellt S
 - Versicherung Cyber Berufshaftpflicht IT
 - Berufshaftpflicht Anwalt für Beratung
 - Streitwert sehr variabel
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -356,7 +348,7 @@ Bearbeiter: [NAME RA/RAin]
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -418,7 +410,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -426,7 +418,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer IT-, Datenschutz- und Telemedienrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für IT-, Datenschutz- und Telemedienrecht.
 - DSGVO, BDSG, TDDDG, KI-VO, NIS-2-RL, BGB-Werk-/Mietvertrag sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -437,7 +429,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im IT-, Datenschutz- und Telemedienrecht
 
@@ -463,7 +454,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in IT-, Datenschutz- und Telemedienrecht (Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bussgeldwiderspruch):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -495,7 +486,7 @@ Typische Antraege in IT-, Datenschutz- und Telemedienrecht (Unterlassungsklage D
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -530,8 +521,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -551,9 +542,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. Welcher Verfahrenstyp liegt vor — Klageschrift, Berufungsbegruendung, Widerspruch gegen Buszgeldbescheid, einstweilige Verfuegung?
 2. Ist die Klagefrist bzw. Rechtsmittelfrist bekannt und im Kalender eingetragen?
 3. Welche Anspruchsgrundlagen kommen in Betracht — sind Alternativansprueche vollstaendig erfasst?
-4. Existieren konkrete Beweismittel (Urkunden, Zeugen, Sachverstaendige) fuer jedes Tatbestandsmerkmal?
+4. Existieren konkrete Beweismittel (Urkunden, Zeugen, Sachverstaendige) für jedes Tatbestandsmerkmal?
 5. Ist der Antrag tenorierungsfaehig und vollstreckbar formuliert?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -568,9 +559,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template — Schriftsatz IT-/Datenschutz-/Telemedienrecht
-**Adressat:** Gericht / Behoerde — Tonfall: sachlich-juristisch, praezise
+**Adressat:** Gericht / Behörde — Tonfall: sachlich-juristisch, praezise
 ```
 [GERICHT / BEHOERDE]
 [ADRESSE]
@@ -624,11 +614,7 @@ Rechtsanwaeltin / Rechtsanwalt
 # Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine / bdsg schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

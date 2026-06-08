@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-unterlagen-sortieren
-description: "Laienverstaendlicher Sozialrechts-Skill zu Unterlagen Sortieren. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Unterlagen Sortieren. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung."
 ---
 
 # Laienhilfe: Unterlagen Sortieren
@@ -12,7 +12,6 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Unterlagen Sortieren. E
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -60,7 +59,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
 
 ## Qualitäts-Hardening
 

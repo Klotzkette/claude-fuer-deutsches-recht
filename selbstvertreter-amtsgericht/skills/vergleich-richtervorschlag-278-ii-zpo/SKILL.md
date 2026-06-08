@@ -29,7 +29,7 @@ Im Termin schlaegt der Richter oft einen Vergleich vor (§ 278 II ZPO). Vergleic
 - **§ 794 I Nr. 1 ZPO** — Vergleich als Vollstreckungstitel.
 - **§ 779 BGB** — Vertraglicher Vergleich.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bietet der Vorsitzende?
 
@@ -39,14 +39,14 @@ Typische Vergleichs-Vorschlaege:
 - Kosten gegeneinander aufgehoben.
 - Ratenzahlung.
 
-### Schritt 2 — Vorteile fuer Sie als Klaeger
+### Schritt 2 — Vorteile für Sie als Klaeger
 
 - Sicheres Ergebnis (kein Niederlage-Risiko).
 - Schnelles Ende.
 - Geringere Gerichtskosten (Verfahrensgebuehr 1,0 statt 3,0).
 - Vergleich ist Vollstreckungstitel.
 
-### Schritt 3 — Vorteile fuer Sie als Beklagter
+### Schritt 3 — Vorteile für Sie als Beklagter
 
 - Reduzierung der Forderung.
 - Ratenzahlung moeglich.
@@ -137,7 +137,6 @@ Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum,
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 278 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

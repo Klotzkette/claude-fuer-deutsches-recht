@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Baut für jede Testakte ein 'gesamt-pdf/<name>_gesamt.pdf', das alle
-Aktenstücke (Markdown, TXT, EML, CSV, XLSX, DOCX, Bilder, PDF) in ein einziges,
+Aktenstücke (MD/TXT/EML/CSV/XLSX/DOCX/Bilder/PDF) in ein einziges,
 sauber gerendertes Dokument mit kompaktem Aktenstart, Inhaltsverzeichnis und
 Seitenzahlen zusammenfasst.
 
@@ -117,7 +117,7 @@ s_partlabel = ParagraphStyle(
 TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "image", "pdf"]
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
 TYPE_LABEL = {
-    "md": "Aktenstücke (Markdown)",
+    "md": "Aktenstücke",
     "txt": "Notizen und Textdateien",
     "eml": "E-Mails",
     "csv": "CSV-Tabellen",

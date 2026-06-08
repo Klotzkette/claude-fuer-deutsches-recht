@@ -1,50 +1,46 @@
 ---
 name: zwvw-versteigerung
-description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Zvg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwvw Versteigerung
 
 ## Arbeitsbereich
 
-**Zwvw Versteigerung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Zwvw Versteigerung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `zwvw-versteigerung-vs-verwaltung-spezial` | Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster fuer Glaeubiger und Schuldner. |
+| `zwvw-versteigerung-vs-verwaltung-spezial` | Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster für Glaeubiger und Schuldner. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Zwangsverwaltung (ZVG) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
 - Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zwvw-versteigerung-vs-verwaltung-spezial`
 
-**Fokus:** Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster fuer Glaeubiger und Schuldner.
+**Fokus:** Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster für Glaeubiger und Schuldner.
 
 # ZwVw: Versteigerung vs Verwaltung
 
 ## Spezialwissen: ZwVw: Versteigerung vs Verwaltung
-- **Spezialgegenstand:** ZwVw: Versteigerung vs Verwaltung / zwvw versteigerung vs verwaltung spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -72,7 +68,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

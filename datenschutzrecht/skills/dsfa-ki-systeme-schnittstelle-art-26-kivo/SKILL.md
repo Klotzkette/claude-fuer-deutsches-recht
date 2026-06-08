@@ -1,9 +1,9 @@
 ---
 name: dsfa-ki-systeme-schnittstelle-art-26-kivo
-description: "DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept."
+description: "DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept."
 ---
 
-# DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung
+# DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung
 
 ## Zweck
 
@@ -24,7 +24,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - VO (EU) 2024/1689 KI-VO:
  - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
  - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
- - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) fuer bestimmte Betreiber (oeffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
+ - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) für bestimmte Betreiber (öffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
  - Art. 50 Transparenzpflichten generative KI
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen (Auslegung DSGVO bei KI).
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA.
@@ -35,7 +35,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - Anbieter (provider) entwickelt oder bringt das KI-System in Verkehr und ist primaer adressiert durch Art. 8 bis Art. 21 KI-VO.
 - Betreiber (deployer) setzt das KI-System ein und ist adressiert durch Art. 26, 27 KI-VO.
 - Die DSGVO-Verantwortlichkeit haengt nicht an dieser Rolle, sondern an der Entscheidung ueber Zwecke und Mittel der Verarbeitung (Art. 4 Nr. 7 DSGVO).
-- Praxisregel: Wer ein KI-System fuer eigene Personalentscheidung, Kundenbewertung oder Behoerdenentscheidung nutzt, ist regelmaessig Betreiber nach KI-VO und Verantwortlicher nach DSGVO.
+- Praxisregel: Wer ein KI-System für eigene Personalentscheidung, Kundenbewertung oder Behördenentscheidung nutzt, ist regelmaessig Betreiber nach KI-VO und Verantwortlicher nach DSGVO.
 
 ## Ablauf 6-Schritte-Methodik
 
@@ -45,8 +45,8 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
  - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
  - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
 4. **Massnahmen.** TOMs nach Art. 32 DSGVO plus KI-VO-Massnahmen: menschliche Aufsicht, Logging, Transparenz, Information Betroffener (Art. 26 Abs. 11 KI-VO).
-5. **Restrisiko.** Doppelte Restrisikobewertung — fuer DSFA (Art. 35 DSGVO) und fuer FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
-6. **Konsultation / Genehmigung.** DSB Anhoerung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.
+5. **Restrisiko.** Doppelte Restrisikobewertung — für DSFA (Art. 35 DSGVO) und für FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
+6. **Konsultation / Genehmigung.** DSB Anhörung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.
 
 ## Integriertes DSFA-FRIA-Konzept Template
 
@@ -102,14 +102,14 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - Betreiberpflichten Art. 26 KI-VO werden auf den Anbieter abgeschoben — die Pflicht trifft den Einsetzenden.
 - Logging-Pflicht Art. 26 Abs. 6 KI-VO wird mit DSGVO-Loeschpflichten konfligierend behandelt, ohne Pruefung der Rechtsgrundlage des Loggings.
 - Anhang III KI-VO wird nicht geprueft — Kategorisierung fehlt.
-- KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-fuer-internationale-datentransfers).
+- KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-für-internationale-datentransfers).
 - Generative KI: Art. 50 KI-VO Transparenzpflichten uebersehen.
 
 ## Querverweise
 
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Vorab-Konsultation
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — Drittlandtransfer
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Drittlandtransfer
 - `datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md` — KI-VO Compliance
 - `references/zitierweise.md` — Zitierweise
 

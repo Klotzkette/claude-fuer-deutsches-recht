@@ -70,7 +70,6 @@ Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Kl
 - deliktsrecht-paragraph-823-1
 - werkvertrag-grundschema-paragraph-631
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/
@@ -83,3 +82,25 @@ Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Kl
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 3 ProdHaftG
+- Art. 32 DSGVO
+- § 4 ProdHaftG
+- § 8 ProdHaftG
+- § 2 ProdHaftG
+- § 1 ProdHaftG
+- § 10 ProdHaftG
+- § 9 ProdHaftG
+- § 2 WoVermG
+- Art. 82 DSGVO
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

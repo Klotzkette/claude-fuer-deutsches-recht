@@ -1,33 +1,21 @@
 ---
 name: email-berufsrecht-start-chronologie-fristen
-description: "Start Chronologie Fristen im Plugin Email Umformulierer Berufsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Email Umformulierer, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Start Chronologie Fristen
+# E-Mail-Umformulierer Berufsrecht — Allgemein
 
 ## Arbeitsbereich
 
-**Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Email Umformulierer, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `email-umformulierer-berufsrecht-allgemein` | Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin email-umformulierer-berufsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin email-umformulierer-berufsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Email Umformulierer Berufsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `email-umformulierer-berufsrecht-allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -37,10 +25,6 @@ description: "Start Chronologie Fristen im Plugin Email Umformulierer Berufsrech
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
-
-# E-Mail-Umformulierer Berufsrecht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -143,7 +127,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `bora-konformitaetspruefung` | E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit… |
 | `brao-konformitaetspruefung` | E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen… |
 | `email-eingangsanalyse` | Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial.… |
-| `emotionale-trigger-katalog` | Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persoenliche Angriffe… |
+| `emotionale-trigger-katalog` | Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe… |
 | `frist-und-mahnung-hoeflich` | Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Fristklarheit Verbindlichkeit Ton… |
 | `ironie-und-sarkasmus-eliminieren` | Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte… |
 | `klare-bitte-formulieren` | Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung… |
@@ -153,7 +137,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kooperativer-abschluss` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz… |
 | `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit… |
 | `notare-bnotk-modus` | Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit… |
-| `persoenlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persoenliche Angriffe Beleidigungen… |
+| `persönlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen… |
 | `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen… |
 | `sachverhalt-neutral-darstellen` | Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale… |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit.… |
@@ -161,9 +145,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin formuliert unfreundliche, emotionale oder berufsrechtlich problematische E-Mails in hoefliche, sachliche und berufsrechtskonforme Texte um. Im Mittelpunkt steht die Einhaltung von § 43a BRAO (Sachlichkeitsgebot) und §§ 26 ff. BORA (Kollegialitaets- und Sachlichkeitsgebot). Das Plugin deckt auch Sondermodalitaeten fuer Notare (BNotO) und Steuerberater (StBerG) ab sowie mehrsprachige Umformulierungen.
+Das Plugin formuliert unfreundliche, emotionale oder berufsrechtlich problematische E-Mails in hoefliche, sachliche und berufsrechtskonforme Texte um. Im Mittelpunkt steht die Einhaltung von § 43a BRAO (Sachlichkeitsgebot) und §§ 26 ff. BORA (Kollegialitaets- und Sachlichkeitsgebot). Das Plugin deckt auch Sondermodalitaeten für Notare (BNotO) und Steuerberater (StBerG) ab sowie mehrsprachige Umformulierungen.
 
-Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren Schriftverkehr berufsrechtlich absichern und professionell kommunizieren wollen. Das Plugin bietet sowohl Einzelschritt-Skills (z.B. Ironie eliminieren, persoenlichen Angriff entschaerfen) als auch Gesamt-Workflows (Eingangsanalyse bis fertiger Vorher-Nachher-Vergleich).
+Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren Schriftverkehr berufsrechtlich absichern und professionell kommunizieren wollen. Das Plugin bietet sowohl Einzelschritt-Skills (z.B. Ironie eliminieren, persönlichen Angriff entschaerfen) als auch Gesamt-Workflows (Eingangsanalyse bis fertiger Vorher-Nachher-Vergleich).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -180,7 +164,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - **Emotionale Trigger** — Woerter oder Formulierungen, die beim Empfaenger negative Emotionen ausloesen und die Kommunikation eskalieren.
 - **Deeskalation** — Kommunikative Massnahmen, um aus einer eskalierten Korrespondenz konstruktiv herauszufinden.
 - **BORA** — Berufsordnung der Rechtsanwaelte; konkretisiert die Berufspflichten aus § 43a BRAO.
-- **BNotO** — Bundesnotarordnung; berufsrechtliche Grundlage fuer Notare, mit eigenen Sachlichkeits- und Unabhaengigkeitspflichten.
+- **BNotO** — Bundesnotarordnung; berufsrechtliche Grundlage für Notare, mit eigenen Sachlichkeits- und Unabhaengigkeitspflichten.
 - **StBerG** — Steuerberatungsgesetz; regelt Berufspflichten der Steuerberater, u.a. § 57 StBerG Allgemeine Berufspflichten.
 
 ## Rechtsgrundlagen
@@ -192,7 +176,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - § 57 StBerG — Allgemeine Berufspflichten der Steuerberater
 - § 186 StGB — Beleidigung (grenzwertige Formulierungen koennen strafrechtlich relevant sein)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. E-Mail oder Schreiben einlesen: Original-Text einspielen oder einfuegen.
 2. Eingangsanalyse durchfuehren: Tonalitaet, emotionale Trigger und Konfliktpotenzial bestimmen.
@@ -209,7 +193,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - `kollegialitaetsgebot-pruefung` — Kollegialitaetsgebot im Anwaltsverkehr pruefen und Formulierungen anpassen.
 - `emotionale-trigger-katalog` — Trigger-Woerter und -Phrasen identifizieren und neutralisieren.
 - `ironie-und-sarkasmus-eliminieren` — Ironie oder Sarkasmus erkennen und berufsrechtlich einwandfrei ersetzen.
-- `persoenlichen-angriff-entschaerfen` — Persoenliche Angriffe oder Beleidigungen durch sachliche Formulierungen ersetzen.
+- `persönlichen-angriff-entschaerfen` — Persoenliche Angriffe oder Beleidigungen durch sachliche Formulierungen ersetzen.
 - `sachverhalt-neutral-darstellen` — Sachverhalt ohne wertende Parteinahme neutral darstellen.
 - `kompetenz-zweifel-respektvoll` — Zweifel an Kompetenz oder Entscheidung respektvoll und sachlich aeussern.
 - `konfliktdeeskalation-formulierungen` — Eskalierte Korrespondenz deeskalieren; konstruktive Kommunikationsbasis herstellen.
@@ -241,7 +225,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 
 ## Querverweise
 
-- Plugin `urteilsbauer-relationsmacher` — Formelle Schriftsatz-Standards fuer gerichtliche Eingaben (andere Anforderungen als Korrespondenz).
+- Plugin `urteilsbauer-relationsmacher` — Formelle Schriftsatz-Standards für gerichtliche Eingaben (andere Anforderungen als Korrespondenz).
 - Plugin `grosskanzlei-corporate-ma` (Skill `ki-governance-berufsrecht`) — KI-Einsatz im Mandatsbereich und berufsrechtliche Absicherung.
 
 ## Quellen und Aktualitaet
@@ -250,7 +234,6 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - BRAO und BORA in aktuell geltender Fassung
 - BNotO und BNotK-Richtlinien; StBerG in aktuell geltender Fassung
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -258,85 +241,3 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `workflow-chronologie-und-belegmatrix`
-
-**Fokus:** Chronologie und Belegmatrix im Plugin email-umformulierer-berufsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-# Chronologie und Belegmatrix
-
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin email-umformulierer-berufsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 3. `workflow-fristen-und-risikoampel`
-
-**Fokus:** Fristen- und Risikoampel im Plugin email-umformulierer-berufsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
-
-# Fristen- und Risikoampel
-
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin email-umformulierer-berufsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Berufsrechtliche Kernpflichten E-Mail/Kommunikation
-- Verschwiegenheitspflicht § 43a Abs. 2 BRAO, § 2 BORA; Verstoß strafbar (§ 203 StGB).
-- Sachlichkeitsgebot § 43a Abs. 3 BRAO: keine unsachlichen oder herabsetzenden Äußerungen.
-- Werbung § 43b BRAO, §§ 6-7a BORA: sachgerechte Information; keine reklamehafte Werbung; Erfolgshonorar nur Ausnahme (§ 4a RVG).
-- DSGVO bei E-Mail: Verschlüsselungserfordernis bei besonderer Schutzbedürftigkeit Mandantendaten (Art. 32 DSGVO); beA als verpflichtender Kanal Anwalt-Gericht.
-- Geldwäsche § 261 StGB: Anwalt nur eingeschränkt verpflichtet (§§ 2 Abs. 1 Nr. 10, 4 Abs. 5 GwG); Tipping-off-Verbot beachten.
-- Mandatskonflikt § 43a Abs. 4 BRAO; § 3 BORA Sozietätsbezug.
-
-## Trade-off
-- Schnelligkeit (E-Mail) vs. Rechtssicherheit (beA bei Schriftform, Postzustellung bei Sonderzustellung).
-- Standard-Verschlüsselung E-Mail oft nicht ausreichend; bei sensiblen Mandaten dedizierter sicherer Kanal (S/MIME, beA, Datenraum).
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

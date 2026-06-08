@@ -6,15 +6,12 @@ description: "Dokumentenintake und Aktenlog: prüft ordnet Uploads, Eingangspost
 # Dokumentenintake und Aktenlog
 
 ## Fachkern: Dokumentenintake und Aktenlog
-- **Spezialgegenstand:** Dokumentenintake und Aktenlog wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
 - **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Dokumentenintake und Aktenlog** im Bereich **Berufsgerichtliche Verfahren Freie Berufe**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen
 
@@ -33,7 +30,6 @@ Dieser Abschnitt bearbeitet **Fachkern: Dokumentenintake und Aktenlog** im Berei
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
 
 ## Spezielle Leitplanken
 

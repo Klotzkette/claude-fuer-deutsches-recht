@@ -13,7 +13,6 @@ description: "Red-Team Long-Covid-Gutachten: Standardfehler in MD/DRV/BG-Gutacht
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Auftrag
 
 Dieser Skill prüft Long-Covid/Post-Covid nicht als Schlagwort, sondern als sozialrechtliche Funktions- und Beweisfrage. Entscheidend sind Leistungsvermögen, Teilhabe, Kausalität, Dauer, objektivierbare Befunde, konsistente Alltagsschilderung und verwertbare ärztliche Unterlagen.

@@ -20,7 +20,7 @@ Diese Quellenkarte sichert im Bereich **Hausarbeitenmacher** tragende Normen, Re
 - `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden`
 - `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit`
 - `juristische-liefert-beweislast-rechtstheorie`
-- `methodenlehre-auslegung-oeffentliches-statthaft-professor`
+- `methodenlehre-auslegung-öffentliches-statthaft-professor`
 - `rechtstheorie-rechtsphilosophie-seminararbeit-modus-adressaten`
 - `schleimerei-seminararbeiten-sokratisch`
 

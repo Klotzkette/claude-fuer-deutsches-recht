@@ -6,14 +6,10 @@ description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§
 # BORA-Konformitätsprüfung
 
 ## Fachkern: BORA-Konformitätsprüfung
-- **Spezialgegenstand:** BORA-Konformitätsprüfung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für Rechtsanwälte (BORA). Die BORA konkretisiert als Satzung der Bundesrechtsanwaltskammer die allgemeinen Berufspflichten der BRAO und enthält spezifische Regeln für Verschwiegenheit, Werbung und den kollegialen Umgang.
-
 
 ## Triage zu Beginn
 1. Wer ist der Absender: Rechtsanwalt, Berufsausuebendes Gesellschafter oder Kanzleimitarbeiter?
@@ -28,7 +24,7 @@ Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Beruf
 
 ## Zentrale Normen
 - § 2 BORA — Verschwiegenheitspflicht (Erweiterung der BRAO-Pflicht auf alle Kommunikationsmittel)
-- § 6 BORA — Sachlichkeitsgebot fuer Aussenauftritt und Werbung
+- § 6 BORA — Sachlichkeitsgebot für Aussenauftritt und Werbung
 - § 12 BORA — Direktkontaktverbot bei anwaltlicher Vertretung der Gegenseite
 - § 25 BORA — Kollegialitaetsgebot
 - § 43a Abs. 2 BRAO — Grundlegende Verschwiegenheitspflicht

@@ -7,7 +7,7 @@ description: "Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsst
 
 ## Worum geht es?
 
-Ein Urteil allein reicht **nicht** fuer Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel koennen Sie zum Gerichtsvollzieher.
+Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel koennen Sie zum Gerichtsvollzieher.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,14 +28,14 @@ Ein Urteil allein reicht **nicht** fuer Zwangsvollstreckung. Sie brauchen eine *
 - **§§ 726–732 ZPO** — Qualifizierte Klausel.
 - **§ 750 ZPO** — Voraussetzung der Vollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann beantragen?
 
 Wenn das Urteil vorliegt und Gegnerseite nicht freiwillig erfuellt:
 
-- Bei vorlaeufiger Vollstreckbarkeit: Schon vor Rechtskraft moeglich.
-- Bei nicht vorlaeufiger Vollstreckbarkeit: erst nach Rechtskraft.
+- Bei vorläufiger Vollstreckbarkeit: Schon vor Rechtskraft moeglich.
+- Bei nicht vorläufiger Vollstreckbarkeit: erst nach Rechtskraft.
 
 ### Schritt 2 — Antrag stellen
 
@@ -116,7 +116,7 @@ Wenn die erste Klausel verloren / ausgegeben: zweite Klausel auf Antrag (§ 733 
 
 ## Typische Fehler
 
-- "Urteil reicht fuer Pfaendung." → Klausel zusaetzlich.
+- "Urteil reicht für Pfaendung." → Klausel zusaetzlich.
 - "Klausel ohne Zustellung an Schuldner." → Verfahrensfehler.
 - "Klausel verloren — egal." → Zweite beantragen.
 

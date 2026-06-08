@@ -7,27 +7,27 @@ description: "Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gese
 
 ## Arbeitsbereich
 
-**Geschaeftsfuehrerhaftung Holding** ordnet den Fall über die tragenden Prüffelder: Geschaeftsfuehrerhaftung, Holding-Strukturplanung, Gesellschafterdarlehen und Cash-Flow GmbH. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Geschaeftsfuehrerhaftung Holding** ordnet den Fall über die tragenden Prüfungslinien: Geschaeftsfuehrerhaftung, Holding-Strukturplanung, Gesellschafterdarlehen und Cash-Flow GmbH. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` | Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung. |
-| `gmbh-cash-flow-und-darlehen-gesellschafter` | Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster fuer Cash-Pool-Strukturen und Konzernfinanzierung. |
+| `gmbh-cash-flow-und-darlehen-gesellschafter` | Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster für Cash-Pool-Strukturen und Konzernfinanzierung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
 
@@ -39,13 +39,8 @@ description: "Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gese
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung / geschaeftsfuehrerhaftung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -87,7 +82,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Mandantenfragen beim Kaltstart
 
 1. Wie ist die aktuelle Struktur — Einzelunternehmen, einfache GmbH, GmbH & Co. KG, AG?
@@ -98,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 6. Gibt es Auslandsbezug (Gesellschafter wohnt im Ausland, geplanter Wegzug — § 6 AStG Wegzugsbesteuerung)?
 7. Sind pflichtteilsrelevante Schenkungen geplant (§ 2325 BGB 10-Jahres-Frist)?
 8. Soll eine Familienstiftung als oberste Ebene eingesetzt werden (Pflichtteils- und Erbschaftsteuervorteile)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -177,7 +171,6 @@ Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
 ## Prüfschema Holding-Aufbau
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -284,7 +277,6 @@ Kosten ca.:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast / Steuerliche Dokumentation
 
 | Thema | Nachweis | Dokument |
@@ -359,7 +351,7 @@ Kosten ca.:
 
 ## 3. `gmbh-cash-flow-und-darlehen-gesellschafter`
 
-**Fokus:** Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster fuer Cash-Pool-Strukturen und Konzernfinanzierung.
+**Fokus:** Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster für Cash-Pool-Strukturen und Konzernfinanzierung.
 
 # GmbH: Gesellschafterdarlehen
 
@@ -371,29 +363,24 @@ Kosten ca.:
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: GmbH: Gesellschafterdarlehen
-- **Spezialgegenstand:** GmbH: Gesellschafterdarlehen / gmbh cash flow und darlehen gesellschafter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -410,10 +397,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

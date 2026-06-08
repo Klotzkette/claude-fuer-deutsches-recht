@@ -28,7 +28,7 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 - **§§ 169 ff. GVG** — Sitzungspolizei.
 - **§ 175 GVG** — Anwesenheit Zuhoerer.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vor Termin
 
@@ -41,7 +41,7 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 
 - Klopfen, eintreten.
 - Sich kurz dem Vorsitzenden zuwenden (Blickkontakt).
-- Platz nehmen am Tisch fuer Parteien.
+- Platz nehmen am Tisch für Parteien.
 
 ### Schritt 3 — Kleidung
 
@@ -93,7 +93,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 
 ### Schritt 10 — Pausen
 
-- Wenn Sie Pause brauchen (z. B. fuer Beratung mit Familie): hoeflich beantragen.
+- Wenn Sie Pause brauchen (z. B. für Beratung mit Familie): hoeflich beantragen.
 - "Hoher Herr Vorsitzender, darf ich um eine kurze Pause bitten?"
 
 ### Schritt 11 — Bei eigenem Vortrag
@@ -105,7 +105,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 ### Schritt 12 — Bei gegnerischem Vortrag
 
 - Zuhoeren, nicht unterbrechen.
-- Notizen machen fuer eigene Reaktion.
+- Notizen machen für eigene Reaktion.
 - Wenn Punkte falsch: sachlich nach Worterteilung widersprechen.
 
 ### Schritt 13 — Verkuendung
@@ -142,7 +142,6 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Saalpraxis weitgehend stabil.
-
 
 ## Qualitäts-Hardening
 

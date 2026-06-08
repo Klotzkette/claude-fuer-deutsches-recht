@@ -7,36 +7,32 @@ description: "Lizenzvertrag Urhmr im Plugin Fachanwalt Urheber Medienrecht: prü
 
 ## Arbeitsbereich
 
-**Lizenzvertrag Urhmr** ordnet den Fall über die tragenden Prüffelder: Medienrecht, Lizenzvertraege für Urheberrechte Leistungsschutzrechte, Bauleiter Urhebervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Lizenzvertrag Urhmr** ordnet den Fall über die tragenden Prüfungslinien: Medienrecht, Lizenzvertraege für Urheberrechte Leistungsschutzrechte, Bauleiter Urhebervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-medienrecht-fristen-form-und-zustaendigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-medienrecht-fristen-form-und-zuständigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` | Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung. |
-| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer. |
+| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster für Urheber und Nutzer. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheber- und Medienrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `spezial-medienrecht-fristen-form-und-zustaendigkeit`
+## 1. `spezial-medienrecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg / medienrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -229,25 +225,21 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
 ## 3. `urhmr-urhebervertrag-bauleiter`
 
-**Fokus:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer.
+**Fokus:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster für Urheber und Nutzer.
 
 # UrhMR: Urhebervertrag Bauleiter
 
 ## Spezialwissen: UrhMR: Urhebervertrag Bauleiter
-- **Spezialgegenstand:** UrhMR: Urhebervertrag Bauleiter / urhmr urhebervertrag bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -275,7 +267,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

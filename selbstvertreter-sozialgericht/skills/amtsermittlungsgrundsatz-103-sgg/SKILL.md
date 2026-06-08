@@ -3,7 +3,7 @@ name: amtsermittlungsgrundsatz-103-sgg
 description: "Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern."
 ---
 
-# Das Gericht ermittelt fuer Sie — § 103 SGG
+# Das Gericht ermittelt für Sie — § 103 SGG
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozia
 
 ## Worum geht es?
 
-Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das fuer Sie konkret bedeutet.
+Vor dem Sozialgericht muessen Sie nicht alles selbst beweisen. Das Gericht hat die Pflicht, von Amts wegen zu ermitteln. Es zieht Akten bei, holt Gutachten ein, fragt Aerzte. Diese Skill zeigt, was das für Sie konkret bedeutet.
 
 ## In einfacher Sprache
 
@@ -28,7 +28,7 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 ## Fachbegriffe (kurz erklaert)
 
 - **Amtsermittlung**: Das Gericht muss von sich aus die Wahrheit erforschen.
-- **Untersuchungsgrundsatz**: Anderer Begriff fuer Amtsermittlung.
+- **Untersuchungsgrundsatz**: Anderer Begriff für Amtsermittlung.
 - **Mitwirkungspflicht**: Sie muessen mitmachen, aber nicht alles alleine beweisen.
 - **Sachverstaendigen-Gutachten**: Bewertung durch einen Experten (Arzt, Gutachter).
 
@@ -39,13 +39,13 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie muessen nicht al
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
 - **§ 60 SGB I** — Mitwirkungspflichten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was das Gericht von Amts wegen tut
 
 Das Gericht:
 
-- **Zieht Verwaltungsakte bei** (alle Unterlagen der beklagten Behoerde).
+- **Zieht Verwaltungsakte bei** (alle Unterlagen der beklagten Behörde).
 - **Holt aerztliche Befundberichte ein** (Hausarzt, Facharzt, Klinik).
 - **Beauftragt Sachverstaendigen-Gutachten** (z.B. Orthopaedie, Psychiatrie).
 - **Befragt Zeugen** (auf Antrag und von Amts wegen).
@@ -134,7 +134,6 @@ Sie muessen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin.
 
 Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laien-freundlich.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -142,3 +141,32 @@ Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laie
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
+- §§ 51-55 SGG (Klagearten)
+- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
+- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
+- § 105 SGG (Gerichtsbescheid)
+- § 109 SGG (Sachverständiger nach Wahl)
+- § 131 SGG (Urteilsformen)
+- §§ 183-197a SGG (Kosten)
+- §§ 12, 14 SGB I (Auskunft, Beratung)
+- § 44 SGB X (Zugunstenverfahren)
+
+### Leitentscheidungen
+
+- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
+- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
+- BVerfG 1 BvL 1/09 (Regelbedarf)
+- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
+- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+
+### Anwendung im Skill
+
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
+- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

@@ -5,6 +5,21 @@ description: "Prüft Anlagen in Rechtsmittelverfahren: Übernahme alter Nummern,
 
 # Berufung, Beschwerde und neue Anlagen
 
+## Normenanker
+
+Arbeitsfokus: **Berufung, Beschwerde und neue Anlagen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 520 Abs. 3 ZPO` — Berufungsbegründung.
+- `§ 529 Abs. 1 ZPO` — Tatsachengrundlage Berufung.
+- `§ 531 Abs. 2 ZPO` — neue Angriffs- und Verteidigungsmittel.
+- `§ 522 ZPO` — Berufungszurückweisung.
+- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
+- `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
+- `§ 139 ZPO` — gerichtlicher Hinweis.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill hilft, wenn die Akte in die zweite Instanz wandert und alte K-Nummern, neue BB-/BK-Nummern und vorinstanzliche Anlagen gleichzeitig im Spiel sind.
@@ -45,7 +60,6 @@ Dieser Skill hilft, wenn die Akte in die zweite Instanz wandert und alte K-Numme
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
 
 ## Vertiefter Anlagen-Workflow
 

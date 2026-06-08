@@ -12,13 +12,10 @@ description: "Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen: Geruch
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung
-- **Spezialgegenstand:** Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
-
-Dieses Fachmodul greift, wenn in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
+Anwendungsfall: in der Anlage ein Restaurant, Café, Laden oder sonstiges Gewerbe Konflikte auslöst: Gerüche, Abluft, Fett, Lieferverkehr, Müll, Hofnutzung, Außengastronomie, Brandschutz oder nächtlicher Lärm.
 
 ## Prüfraster
 
@@ -51,7 +48,6 @@ Die Verwaltung wird beauftragt, die durch den Betrieb der Gewerbeeinheit Nr. [..
 - Gewerbemieter wird direkt in Anspruch genommen, obwohl zunächst der Teileigentümer Ansprechpartner ist.
 - Ordnungsrecht, Brandschutz und WEG-Recht werden vermischt.
 - Geruchsbeschwerden ohne Protokoll und Belege werden sofort eskaliert.
-
 
 ## Qualitäts-Hardening
 

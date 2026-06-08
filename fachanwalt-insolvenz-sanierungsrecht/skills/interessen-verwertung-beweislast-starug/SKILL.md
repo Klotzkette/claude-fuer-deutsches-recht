@@ -7,29 +7,29 @@ description: "Interessen Verwertung Beweislast Starug im Insolvenz- und Sanierun
 
 ## Arbeitsbereich
 
-**Interessen Verwertung Beweislast Starug** ordnet den Fall über die tragenden Prüffelder: Schnittstellen, Verwertung, StaRUG-Restrukturierungsplan im Detail. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Interessen Verwertung Beweislast Starug** ordnet den Fall über die tragenden Prüfungslinien: Schnittstellen, Verwertung, StaRUG-Restrukturierungsplan im Detail. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `starug-spezial-restrukturierungsplan` | StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster fuer Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und vorinsolvenzlicher Verhandlung. |
+| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `starug-spezial-restrukturierungsplan` | StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster für Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und vorinsolvenzlicher Verhandlung. |
 | `insolvenzanfechtung-129-bis-147-verteidigungsradar` | Prüft Anfechtungsansprüche und Verteidigungslinien nach §§ 129-147 InsO mit Zeitachsen, Kenntnisindizien, Bargeschäft, § 135 InsO, Rechtsfolgen und KI-gestützter Aktenauswertung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-schnittstellen-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 
@@ -41,13 +41,8 @@ description: "Interessen Verwertung Beweislast Starug im Insolvenz- und Sanierun
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix / schnittstellen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -79,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verwertung-beweislast-und-darlegungslast`
 
-**Fokus:** Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Verwertung: Beweislast, Darlegungslast und Substantiierung
 
@@ -91,13 +86,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Verwertung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Verwertung: Beweislast, Darlegungslast und Substantiierung / verwertung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -129,7 +119,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `starug-spezial-restrukturierungsplan`
 
-**Fokus:** StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster fuer Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und vorinsolvenzlicher Verhandlung.
+**Fokus:** StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster für Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und vorinsolvenzlicher Verhandlung.
 
 # StaRUG: Plan-Spezial
 
@@ -141,29 +131,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: StaRUG: Plan-Spezial
-- **Spezialgegenstand:** StaRUG: Plan-/ starug restrukturierungsplan. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -180,10 +165,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -225,7 +210,6 @@ Anfechtungsmatrix plus Gegner-Red-Team: `Tatbestand / Beleg / Gegenbeleg / Wertu
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Insolvenz- und Restrukturierungsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -253,7 +237,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -327,7 +311,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -336,7 +320,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -354,7 +338,7 @@ Im Bereich Insolvenz- und Restrukturierungsrecht oft uebersehen:
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -369,12 +353,12 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext (Stand Mai 2026)
 
@@ -386,7 +370,7 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 
 ## Paragrafenkette Vergleich
 
-§ 779 BGB (Vergleichsdefinition) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich = Titel) → § 796a ZPO (Anwaltsvergleich) → § 142 InsO (Bargeschaeft-Ausnahme) → § 133 InsO (Vorsatzanfechtungs-Risiko Vergleich) → §§ 195 199 BGB (Verjaehrung 3 Jahre)
+§ 779 BGB (Vergleichsdefinition) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich = Titel) → § 796a ZPO (Anwaltsvergleich) → § 142 InsO (Bargeschaeft-Ausnahme) → § 133 InsO (Vorsatzanfechtungs-Risiko Vergleich) → §§ 195 199 BGB (Verjährung 3 Jahre)
 
 ## Triage — Vergleich ja oder nein?
 
@@ -394,7 +378,6 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 2. **Vollstreckungsrisiko?** Gegenseite in der Krise → Sofort-Zahlung bevor Insolvenzverfahren eroeffnet wird.
 3. **Steuerliche Behandlung?** Vergleich ueber Lohnforderungen → Lohnsteuer + SV-Abzug bleibt bestehen; Schadensersatz-Vergleich keine USt.
 4. **Mandantenfreigabe?** Schriftliche Freigabe des Mandanten vor Unterzeichnung (Vollmachtsumfang § 83 ZPO).
-
 
 ## Qualitäts-Hardening
 

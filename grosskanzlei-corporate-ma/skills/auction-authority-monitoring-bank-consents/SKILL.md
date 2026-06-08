@@ -7,31 +7,31 @@ description: "Auction Authority Monitoring Bank Consents im Corporate/M&A (Groß
 
 ## Arbeitsbereich
 
-**Auction Authority Monitoring Bank Consents** ordnet den Fall über die tragenden Prüffelder: Auction Process Letter Generator, Authority Matrix und Approvals Skill, Monitoring und Automatisierungen für laufende M&A-Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Auction Authority Monitoring Bank Consents** ordnet den Fall über die tragenden Prüfungslinien: Auction Process Letter Generator, Authority Matrix und Approvals Skill, Monitoring und Automatisierungen für laufende M&A-Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `grosskanzlei-corporate-ma-auction-process-letter` | Auction Process Letter Generator: erstellt und prueft Prozessbriefe fuer strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln. |
+| `grosskanzlei-corporate-ma-auction-process-letter` | Auction Process Letter Generator: erstellt und prueft Prozessbriefe für strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln. |
 | `grosskanzlei-corporate-ma-authority-matrix-approvals` | Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben. |
 | `grosskanzlei-corporate-ma-automation-monitoring` | Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Überwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Prüfraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO für manuelle Aufgabenlisten und zu Fristen-CP-Kalender. |
 | `grosskanzlei-corporate-ma-bank-consents-change-control` | Bank Consents und Change-of-Control in Finanzierungsvertraegen: erkennt Consent-Pflichten, Default-Risiken, Waiver-Bedarf und Closing-CPs. |
-| `grosskanzlei-corporate-ma-bidder-instructions-vdr-rules` | Bidder Instructions und VDR Rules fuer grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen. |
+| `grosskanzlei-corporate-ma-bidder-instructions-vdr-rules` | Bidder Instructions und VDR Rules für grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen. |
 | `grosskanzlei-corporate-ma-billing-narratives` | Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Prüfraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffähige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD für freistehende Abrechnung. |
-| `grosskanzlei-corporate-ma-board-consents-minutes-resolutions` | Board Consents, Minutes und Resolutions fuer M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung. |
+| `grosskanzlei-corporate-ma-board-consents-minutes-resolutions` | Board Consents, Minutes und Resolutions für M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Grosskanzlei Corporate Ma klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `grosskanzlei-corporate-ma-auction-process-letter`
 
-**Fokus:** Auction Process Letter Generator: erstellt und prueft Prozessbriefe fuer strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln.
+**Fokus:** Auction Process Letter Generator: erstellt und prueft Prozessbriefe für strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln.
 
 # Auction Process Letter
 
@@ -43,13 +43,10 @@ description: "Auction Authority Monitoring Bank Consents im Corporate/M&A (Groß
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Auction Process Letter
-- **Spezialgegenstand:** Auction Process Letter; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Sell-side organisiert einen Auktionsprozess oder Buy-side muss Prozessregeln verstehen und taktisch bedienen.
@@ -68,7 +65,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -90,7 +87,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -105,17 +102,16 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -133,16 +129,13 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Authority Matrix Approvals
-- **Spezialgegenstand:** Authority Matrix Approvals; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
-Unklar ist, wer unterschreiben darf, welches Gremium zustimmen muss oder welche Vollmacht fuer Signing/Closing benoetigt wird.
+Unklar ist, wer unterschreiben darf, welches Gremium zustimmen muss oder welche Vollmacht für Signing/Closing benoetigt wird.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.
@@ -158,7 +151,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -180,7 +173,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -195,17 +188,16 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -223,13 +215,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Automationen und Monitoring (Corporate M&A)
-- **Spezialgegenstand:** Automationen und Monitoring (Corporate M&A); der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Triage zu Beginn
 
@@ -238,7 +227,7 @@ Vor dem Entwurf eines Monitoring-Plans klaeren:
 1. **Deal-Phase:** Pre-Signing (Datenraum, Q&A, LOI-Frist) oder Post-Signing (CP-Deadlines, Regulatorie, § 613a BGB) oder PMI?
 2. **Insiderinformationen betroffen?** Monitoring von boersenrelevanten Informationen erfordert MAR-Freigabe (Art. 17 MAR); automatische Aussenkommunikation ist verboten.
 3. **Datenquellen identifiziert?** VDR (Intralinks, Datasite), Handelsregister, Bundesanzeiger, BKartA-Datenbank, DPMA, Nachrichtendienste?
-4. **Owner-Matrix vorhanden?** Wer ist verantwortlich fuer welchen Workstream? Ohne Owner kein Monitoring-Plan.
+4. **Owner-Matrix vorhanden?** Wer ist verantwortlich für welchen Workstream? Ohne Owner kein Monitoring-Plan.
 5. **Eskalationsregeln definiert?** Ab wann wird eskaliert? (CP-Frist < 14 Tage, Datenraum-Neuzugang kritische Kategorie, MAR-Signal erkannt)
 6. **Vertraulichkeitsrahmen geklaert?** Monitoring von externen Quellen muss Mandatsgeheimnis (§ 43a Abs. 2 BRAO) und DSGVO (Art. 5 DSGVO) beachten.
 
@@ -268,7 +257,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Monitor | Norm | Frist | Owner | Eskalation bei |
 |---|---|---|---|---|
 | Fusionskontrolle BKartA | §§ 35 ff. GWB | Vertraglich (typisch 3-6 Monate) | Regulatory-Lead | < 14 Tage bis Frist |
-| FDI-Screening BMWK | §§ 55 ff. AWV | Vertraglich / gesetzlich | Regulatory-Lead | Behoerdenanfrage unbeantwortet |
+| FDI-Screening BMWK | §§ 55 ff. AWV | Vertraglich / gesetzlich | Regulatory-Lead | Behördenanfrage unbeantwortet |
 | AR-Zustimmungsbeschluss | § 179a AktG | Vor Closing | Corporate-Lead | 21 Tage vor Closing |
 | CoC-Zustimmungen (Tier 1-3) | Vertragliche Klauseln | SPA-Frist | Vertragslegal | Verweigerung oder Schweigen |
 | Gesellschafterliste § 40 GmbHG | § 40 GmbHG | Unverzueglich nach Closing | Corporate-Lead | > 14 Tage nach Closing |
@@ -289,7 +278,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Stimmrechtsmitteilungen | §§ 33 ff. WpHG | Bei Annaehern an 30 % WpUEG-Schwelle |
 | Short-Selling-Positionen | EU-Leerverkaufs-VO | Bei ungewoehnlichem Anstieg |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Deal-Phase und Monitoring-Bedarf erfassen:** Welche Workstreams laufen? Welche CPs sind offen? Deadline-Uebersicht aus SPA erstellen.
 2. **Owner-Matrix festlegen:** Fuer jeden Monitoring-Bereich einen verantwortlichen Owner (Person + Eskalation) benennen. Kein Monitor ohne Owner.
@@ -344,7 +333,7 @@ ALARM: [BESCHREIBUNG] — Eskalation an: [PERSON] — Frist: [DATUM]
 
 ## Arbeitsmodus
 
-- Nur Vorschlaege fuer Automationen machen, keine vertraulichen Daten ungefragt beobachten.
+- Nur Vorschlaege für Automationen machen, keine vertraulichen Daten ungefragt beobachten.
 - Monitoringziel, Frequenz, Quelle, Owner und Output definieren.
 - Eskalationsregeln und Stoppschwellen festlegen.
 - Automationsvorschlaege mit Deal-PMO verknuepfen.
@@ -379,17 +368,16 @@ ALARM: [BESCHREIBUNG] — Eskalation an: [PERSON] — Frist: [DATUM]
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -407,13 +395,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Bank Consents Change Control
-- **Spezialgegenstand:** Bank Consents Change Control; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Target oder Gruppe hat Finanzierungsvertraege, die durch den Deal beruehrt werden.
@@ -432,7 +417,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -454,7 +439,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -469,23 +454,22 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 5. `grosskanzlei-corporate-ma-bidder-instructions-vdr-rules`
 
-**Fokus:** Bidder Instructions und VDR Rules fuer grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen.
+**Fokus:** Bidder Instructions und VDR Rules für grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen.
 
 # Bidder Instructions VDR Rules
 
@@ -497,16 +481,13 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Bidder Instructions VDR Rules
-- **Spezialgegenstand:** Bidder Instructions VDR Rules; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
-Ein Datenraum wird fuer mehrere Bieter geoeffnet oder ein laufender Prozess braucht klare Spielregeln.
+Ein Datenraum wird für mehrere Bieter geoeffnet oder ein laufender Prozess braucht klare Spielregeln.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.
@@ -522,7 +503,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -544,7 +525,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -559,17 +540,16 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -587,13 +567,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Big-Law Billing Narratives (Corporate M&A)
-- **Spezialgegenstand:** Big-Law Billing Narratives (Corporate M&A); der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Triage zu Beginn
 
@@ -605,7 +582,7 @@ Vor der Erstellung von Billing Narratives klaeren:
 4. **Mandantenvertraulichkeit:** Narrative darf kein Mandatsgeheimnis unnoetig offen legen (§ 43a Abs. 2 BRAO); Formulierungen muessen pruefbar aber nicht erlaeuternd sein.
 5. **Rechnungsreife?** Sind alle Bedingungen erfuellt (Leistungsstand, SPA-Meilenstein, vereinbarter Faelligkeitspunkt)? Bei Unsicherheit nicht abrechnen.
 6. **E-Rechnung erforderlich?** Oeffentlicher Auftraggeber oder SPA-Klausel zu XRechnung/ZUGFeRD? Dann an `grosskanzlei-ma-erechnung-gobd` uebergeben.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -616,7 +593,7 @@ Vor der Erstellung von Billing Narratives klaeren:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Billing-Narrative-Struktur fuer M&A-Deals
+## Billing-Narrative-Struktur für M&A-Deals
 
 ### Time-Entry-Kategorien
 
@@ -642,7 +619,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Due Diligence — Legal: Vertragsreview (Commercial Contracts)
 Pruefen und Analysieren von [N] Lieferantenvertraegen im Datenraum; Erstellung eines
-Issue-Summary fuer [N] Material-Contract-Eintraege; Identifizierung von [N] Change-of-
+Issue-Summary für [N] Material-Contract-Eintraege; Identifizierung von [N] Change-of-
 Control-Klauseln mit Zustimmungserfordernis; Abstimmung mit Deal-Team zu CP-Implikationen.
 [N.N h]
 ```
@@ -655,11 +632,11 @@ Verhandlungssitzung [DATUM] mit Gegenseite.
 [N.N h]
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-1. **Time Entries importieren:** Alle Zeiteintragungen fuer den Abrechnungszeitraum nach Phase und Workstream sortieren.
+1. **Time Entries importieren:** Alle Zeiteintragungen für den Abrechnungszeitraum nach Phase und Workstream sortieren.
 2. **Budget-Abgleich:** WIP gegen vereinbartes Budget halten; Abweichungen > 10 % markieren und begruenden.
 3. **Narrative verfassen:** Pro Workstream ein Narrative-Block nach Formulierungsregeln oben.
 4. **Mandantenvertraulichkeit pruefen:** Kein Mandatsgeheimnis unnoetig offen gelegt? Narratives mandantentauglich formuliert?
@@ -674,7 +651,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Billing Narrative fuer M-and-A-Mandat erstellen | Narrative nach Schema; Template unten |
+| Standard — Billing Narrative für M-and-A-Mandat erstellen | Narrative nach Schema; Template unten |
 | Variante A — Mandant will kurzere Rechnungen weniger Detail | Kurzform-Narrative ohne Einzelleistungsaufstellung |
 | Variante B — Stuendliche Abrechnung vs Pauschalhonorar | Bei Pauschalhonorar vereinfachtes Narrative ohne Stundenangaben |
 | Variante C — Mehrteiliges Projekt Abrechnung in Phasen | Phasen-Narrative separat; Gesamtnachweis am Ende |
@@ -738,7 +715,7 @@ XRechnung/ZUGFeRD erforderlich: [JA → Uebergabe grosskanzlei-ma-erechnung-gobd
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -748,7 +725,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - **Honorarvereinbarung § 3a RVG muendlich oder fehlend** — Formverstos; Anwalt kann nur RVG-Pflichtgebuehren verlangen; Vereinbarung unverzueglich schriftlich nachholen.
 - **Narrative enthaelt Mandatsgeheimnis** — § 43a Abs. 2 BRAO; Formulierungen vor Versand pruefen; keine anwaltlichen Stellungnahmen, keine Parteiinterna in externen Narratives.
 - **WIP ueberschreitet Cap ohne Mandanteninformation** — Haftungsrisiko; Mandant informieren und Scope-Abgleich durchfuehren bevor weitergearbeitet wird.
-- **Rechnungspflichtangaben § 14 UStG unvollstaendig** — kein Vorsteuerabzug fuer Mandant; Rechnung korrigieren; Mahngebueehr-Risiko.
+- **Rechnungspflichtangaben § 14 UStG unvollstaendig** — kein Vorsteuerabzug für Mandant; Rechnung korrigieren; Mahngebueehr-Risiko.
 - **Leistung ohne Akte / Workstream** — GoBD-Verstos; Time Entry kann nicht verbucht werden; Nacherfassung nur mit Erklaerung.
 
 ## Arbeitsmodus
@@ -787,23 +764,22 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 7. `grosskanzlei-corporate-ma-board-consents-minutes-resolutions`
 
-**Fokus:** Board Consents, Minutes und Resolutions fuer M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung.
+**Fokus:** Board Consents, Minutes und Resolutions für M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung.
 
 # Board Consents Minutes Resolutions
 
@@ -815,13 +791,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Board Consents Minutes Resolutions
-- **Spezialgegenstand:** Board Consents Minutes Resolutions; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Vorstand, Geschaeftsfuehrung, Aufsichtsrat oder Gesellschafter muessen Transaktionsschritte beschliessen.
@@ -840,7 +813,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -862,7 +835,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -877,16 +850,44 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 705 ff. BGB (GbR)
+- §§ 105 ff. HGB (OHG)
+- §§ 161 ff. HGB (KG)
+- §§ 13, 15 GmbHG (Anteilsübertragung)
+- § 53 GmbHG (Satzungsänderung)
+- § 33 GWB, FKVO 139/2004 (Fusionskontrolle)
+- § 311 BGB i.V.m. §§ 433, 453 BGB (Unternehmenskauf, share/asset deal)
+- §§ 25, 28 HGB (Firmenfortführung, Haftung)
+- §§ 2-4 UmwG (Verschmelzung)
+- § 1 InvKG, AWG/AWV §§ 55-62 (Investitionsprüfung)
+
+### Leitentscheidungen
+
+- BGH II ZR 17/19 (Earn-Out-Klauseln, Kontrolle)
+- BGH II ZR 280/14 (Gewährleistungsausschluss share deal)
+- BGH II ZR 109/13 (W&I-Versicherung, Sale and Purchase)
+- EuGH C-93/13 P (FKVO-Verfahren)
+- BGH II ZR 71/11 (Auskunftsrechte Datenraum)
+
+### Anwendung im Skill
+
+- Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
+- W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.

@@ -6,7 +6,6 @@ description: "Kaltstart Bundesnetzagentur-Mandat: Einstieg und Routing; klärt R
 # Kaltstart Bundesnetzagentur-Mandat
 
 ## Fachkern: Kaltstart Bundesnetzagentur-Mandat
-- **Spezialgegenstand:** Kaltstart Bundesnetzagentur-Mandat - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
 - **Normen- und Behördenanker:** VwVfG, VwGO, OWiG, IFG/UIG soweit einschlägig, sektorales Fachgesetz und aktuelle BNetzA-Formulare, Konsultationen und Beschlusskammerhinweise.
 - **Spezifische Weiche:** Kläre zuerst Sektor, Beschlusskammer, Verfahrensart, Beteiligtenstellung, Akteneinsicht, Anhörung, Frist, Eilbedarf und ob gerichtlicher Rechtsschutz zum VG/OVG oder über Spezialzuweisung läuft.
 - **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
@@ -26,6 +25,23 @@ description: "Kaltstart Bundesnetzagentur-Mandat: Einstieg und Routing; klärt R
 4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
 5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
 6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 29 EnWG` — Festlegung und Genehmigung durch Regulierungsbehoerde.
+- `§ 65 EnWG` — Aufsichtsmassnahmen.
+- `§ 75 EnWG` — Beschwerde gegen Entscheidungen der Regulierungsbehoerde.
+- `§ 80 EnWG` — Rechtsbeschwerde.
+- `§ 67 TKG` — Anordnungen der Bundesnetzagentur.
+- `§ 149 TKG` — Bussgeldvorschriften.
+- `§ 40 PostG` — Aufsicht.
+- `§ 44 VwVfG` — Nichtigkeit Verwaltungsakt.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.

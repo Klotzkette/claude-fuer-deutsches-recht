@@ -66,7 +66,7 @@ Auf Landesebene gilt regelmäßig Art. 80 GG analog über die Landesverfassungen
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 80 Abs. 1 GG (Ermaechtigungs-Bestimmtheitstrias) — Art. 80 Abs. 1 Satz 4 GG (Sub-Delegation) — Art. 80 Abs. 2 GG (Bundesrats-Zustimmung) — § 51 BImSchG (Beispiel-Ermaechtigungsnorm mit Anhoerungspflicht)
+Art. 80 Abs. 1 GG (Ermaechtigungs-Bestimmtheitstrias) — Art. 80 Abs. 1 Satz 4 GG (Sub-Delegation) — Art. 80 Abs. 2 GG (Bundesrats-Zustimmung) — § 51 BImSchG (Beispiel-Ermaechtigungsnorm mit Anhörungspflicht)
 
 ## Quellenregel
 

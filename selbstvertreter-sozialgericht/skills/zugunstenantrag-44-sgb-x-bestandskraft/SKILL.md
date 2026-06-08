@@ -32,7 +32,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 ## Verhaeltnis zum Widerspruch
 
-- Widerspruch ist die regelmaessige Korrekturschiene.
+- Widerspruch ist die regelmäßige Korrekturschiene.
 - Zugunstenantrag tritt erst nach Bestandskraft.
 
 ## Vorlage

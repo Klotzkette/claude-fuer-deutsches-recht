@@ -30,7 +30,7 @@ Wenn Sie als Beklagter nicht reagieren oder im Termin nicht erscheinen, kann das
 - **§ 339 ZPO** — Einspruchsfrist: 2 Wochen ab Zustellung VU.
 - **§ 345 ZPO** — Zweites Versaeumnisurteil (Einspruch verworfen).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann droht VU gegen Sie?
 
@@ -142,7 +142,6 @@ Skill `terminvorbereitung-checkliste`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

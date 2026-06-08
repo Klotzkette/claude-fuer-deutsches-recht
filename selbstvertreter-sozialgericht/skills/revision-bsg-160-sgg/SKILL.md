@@ -37,7 +37,7 @@ Die dritte und letzte Instanz ist das Bundessozialgericht in Kassel. Hier brauch
 - **§ 164 SGG** — Revisionsfrist 1 Monat.
 - **§ 73 Abs. 4 SGG** — Anwaltszwang vor BSG.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: hat das LSG zugelassen?
 
@@ -94,7 +94,6 @@ Oft im schriftlichen Verfahren. Bei muendlicher Verhandlung: Anwalt vertritt Sie
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.bund.de.
-
 
 ## Qualitäts-Hardening
 

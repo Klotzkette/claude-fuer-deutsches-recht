@@ -7,10 +7,10 @@ description: "Experimentelle Behandlung Fachanwalt im Medizinrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Experimentelle Behandlung Fachanwalt** ordnet den Fall über die tragenden Prüffelder: Experimentelle Behandlung Vertrag, Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte, Honorarstreitigkeiten mit Kassenärztlicher Vereinigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Experimentelle Behandlung Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Experimentelle Behandlung Vertrag, Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte, Honorarstreitigkeiten mit Kassenärztlicher Vereinigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `experimentelle-behandlung-vertrag` | Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `fachanwalt-medizinrecht-behandlungsvertrag-630a` | Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission. |
@@ -19,30 +19,26 @@ description: "Experimentelle Behandlung Fachanwalt im Medizinrecht: prüft konkr
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `experimentelle-behandlung-vertrag`
 
 **Fokus:** Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Experimentelle Behandlung Vertrag
 
 ## Fachkern: Experimentelle Behandlung Vertrag
-- **Spezialgegenstand:** Experimentelle Behandlung Vertrag wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Experimentelle Behandlung Vertrag** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch.
 
@@ -89,15 +85,11 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission.
 
-
 # Behandlungsvertrag §§ 630a-h BGB
 
 ## Fachkern: Behandlungsvertrag §§ 630a-h BGB
-- **Spezialgegenstand:** Behandlungsvertrag §§ 630a-h BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -208,7 +200,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 - Erwerbsminderungs-Rente bei Dauerschaden
 - Schmerzensgeld nach BGH-Schmerzensgeld-Tabelle
 
-## 7) Verjaehrung
+## 7) Verjährung
 
 - 3 Jahre ab Kenntnis Patient
 - Hoechstens 30 Jahre ab Eintritt der Verletzung
@@ -258,7 +250,7 @@ Bevor losgelegt wird, kläre sofort:
 - Sachverhalt ungeklärt → Schlichtung zuerst
 - Verjährung in < 3 Monaten → sofort Hemmungsmaßnahme (Güteantrag, Klage)
 - Tod des Patienten → Erbenklage; Schmerzensgeld vererbt (§ 253 BGB n.F.)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -272,7 +264,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Behandlungsabbruch durch Arzt | Aufhebungsvereinbarung; Weiterbehandlungspflicht pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template Mandantenschreiben nach Erstgespräch
 
@@ -288,8 +279,8 @@ Sachverhalt: [Behandlung Datum Einrichtung Fehler]
 Naechste Schritte:
 1. Anforderung der vollstaendigen Patientenakte bei [EINRICHTUNG] § 630g BGB
  Frist: 14 Tage — wir schreiben heute noch.
-2. Schlichtungsantrag bei der [AERZTEKAMMER] — kostenlos; hemmt Verjaehrung.
-3. Verjaehrungsfrist beachten: Aktuell laeuft sie bis [DATUM].
+2. Schlichtungsantrag bei der [AERZTEKAMMER] — kostenlos; hemmt Verjährung.
+3. Verjährungsfrist beachten: Aktuell laeuft sie bis [DATUM].
 Kosten: [STREITWERT] — Ihre Rechtsschutzversicherung pruefe ich.
 Mit freundlichen Gruessen
 [KANZLEI]
@@ -304,15 +295,11 @@ Mit freundlichen Gruessen
 
 **Fokus:** Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern.
 
-
 # Honorarvertrag Kassenärztliche Vereinigung
 
 ## Fachkern: Honorarvertrag Kassenärztliche Vereinigung
-- **Spezialgegenstand:** Honorarvertrag Kassenärztliche Vereinigung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -484,7 +471,7 @@ Bevor losgelegt wird, kläre:
 - Wirtschaftlichkeitsprüfung → Praxisbesonderheiten konkret belegen; Vergleichsgruppe rügen
 - Zulassungsentziehung → Verhältnismäßigkeit (Ruhen als mildere Maßnahme); Eilantrag § 86b SGG
 - Regress-Bescheid → Widerspruch beim Berufungsausschuss; parallel Aussetzung beantragen
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -493,12 +480,11 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Widerspruch Honorarbescheid KV | Widerspruchsschreiben; Template unten |
-| Variante A — Richtgroessen-Regress droht | Beratung vor Bescheid; Stellungnahme im Anhoerungs-Stadium |
+| Variante A — Richtgroessen-Regress droht | Beratung vor Bescheid; Stellungnahme im Anhörungs-Stadium |
 | Variante B — Zulaessige Mehrfachabrechnung streitig | GOAe / EBM-Kommentar pruefen; Nachweisdokumentation |
 | Variante C — Zulassungsentziehung droht | Sofortiger Widerspruch + Eilantrag; Strafverfahren koordinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template Widerspruch Honorarbescheid
 
@@ -540,15 +526,11 @@ Anlagen: Patientenstatistik, Diagnoseprofile, eigene RLV-Berechnung, Vollmacht
 
 **Fokus:** Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-
 # Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachkern: Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -1,17 +1,17 @@
 ---
 name: one-in-out-bilanz-und-buchung
-description: "One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen fuer die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen."
+description: "One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen."
 ---
 
 # NKR-One-in-one-out — Bilanz und Buchung
 
 ## Worum geht es konkret
 
-Seit Beschluss der Bundesregierung 2015 gilt **One-in-one-out**: jeder neue jaehrliche Erfuellungsaufwand fuer die Wirtschaft muss durch eine Entlastung an anderer Stelle ausgeglichen werden — pro Ressort gefuehrter Saldo. Der NKR prueft die methodische Verbuchung.
+Seit Beschluss der Bundesregierung 2015 gilt **One-in-one-out**: jeder neue jaehrliche Erfuellungsaufwand für die Wirtschaft muss durch eine Entlastung an anderer Stelle ausgeglichen werden — pro Ressort gefuehrter Saldo. Der NKR prueft die methodische Verbuchung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Vorhaben verursacht neuen Erfuellungsaufwand fuer die Wirtschaft
+- Vorhaben verursacht neuen Erfuellungsaufwand für die Wirtschaft
 - Vorhaben behauptet Entlastung
 - Buchung des Saldos ist unklar
 - EU-Umsetzungsvorhaben (Ausnahmeregel)
@@ -28,12 +28,12 @@ Rueckfrage nur wenn unklar: *"Liegt eine ressortinterne One-in-one-out-Buchung v
 
 ## Grundprinzip
 
-- Bezugsgroesse: **jaehrlich laufender** Erfuellungsaufwand fuer die **Wirtschaft**
+- Bezugsgroesse: **jaehrlich laufender** Erfuellungsaufwand für die **Wirtschaft**
 - Einmaliger Umstellungsaufwand wird **nicht voll** gebucht
 - Entlastung gleicher Hoehe muss in **demselben Ressort** verbucht werden
 - Saldo wird ressortweise gefuehrt
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### 1. Belastungs-Identifikation
 
@@ -86,7 +86,7 @@ Rueckfrage nur wenn unklar: *"Liegt eine ressortinterne One-in-one-out-Buchung v
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Das Vorhaben verursacht jaehrlich laufenden Erfuellungsaufwand fuer die Wirtschaft in Hoehe von [X] Mio EUR. Eine kompensierende Entlastung im Sinne der One-in-one-out-Regel ist im Vorhaben mit [Y] Mio EUR aus [Norm / Vorhaben] vorgesehen."
+- "Das Vorhaben verursacht jaehrlich laufenden Erfuellungsaufwand für die Wirtschaft in Hoehe von [X] Mio EUR. Eine kompensierende Entlastung im Sinne der One-in-one-out-Regel ist im Vorhaben mit [Y] Mio EUR aus [Norm / Vorhaben] vorgesehen."
 - "Der NKR weist darauf hin, dass eine kompensierende Entlastung nach der One-in-one-out-Regel im Vorhaben nicht ausgewiesen ist. Eine ressortinterne Gegenrechnung ist bis [Zeitpunkt] nachzuweisen."
 - "Das Vorhaben setzt eine EU-Richtlinie 1:1 um; die One-in-one-out-Regel kommt insoweit nicht zur Anwendung. Soweit das Vorhaben ueber die EU-Vorgabe hinausgeht (Goldplating-Anteil [Z] Mio EUR p.a.), gilt die Regel."
 

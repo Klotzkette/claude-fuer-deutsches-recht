@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 47 KB) | PDF | [`gesamt-pdf/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot_gesamt.pdf`](gesamt-pdf/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 56 KB) | PDF | [`gesamt-pdf/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot_gesamt.pdf`](gesamt-pdf/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -32,3 +32,9 @@ Diese Akte gehört zu den Plugins `internal-investigations-praxis`, `arbeitsrech
 | `04-interviewleitfaden.docx` | Entwurf mit Belehrungs- und Protokollfragen |
 | `05-risiko-dashboard.csv` | Privilege, StPO, Datenschutz, Arbeitsrecht |
 | `06-whiteboard-scope-creep.jpg` | Foto einer Scope-Creep-Notiz |
+
+## Weitere Aktenstücke
+
+| Datei | Inhalt |
+| --- | --- |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |

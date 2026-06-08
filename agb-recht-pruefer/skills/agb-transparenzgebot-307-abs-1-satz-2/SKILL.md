@@ -23,7 +23,7 @@ description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die 
 - Klausel verweist auf "die jeweiligen Bestimmungen unter ziffer 8.3 Abs. 2" — bei mehrfacher Verschachtelung intransparent.
 
 ### Unklare Begriffe
-- "Marktgaengiger Preis", "branchenueblich" — fuer Verbraucher schwer fassbar.
+- "Marktgaengiger Preis", "branchenueblich" — für Verbraucher schwer fassbar.
 
 ### Verbergung in Preislisten
 - Wesentliche Bedingungen in Preisliste statt im Vertrag — intransparent.
@@ -38,7 +38,7 @@ description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die 
 
 1. Welche Klausel?
 2. Bestimmtheit gegeben?
-3. Verstaendlichkeit fuer typischen Vertragspartner?
+3. Verstaendlichkeit für typischen Vertragspartner?
 4. Wirtschaftliche Folgen vorhersehbar?
 5. Verschachtelung problematisch?
 

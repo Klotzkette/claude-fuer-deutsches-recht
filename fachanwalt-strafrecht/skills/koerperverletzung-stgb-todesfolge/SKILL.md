@@ -7,30 +7,30 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 
 ## Arbeitsbereich
 
-**Koerperverletzung Stgb Todesfolge** ordnet den Fall über die tragenden Prüffelder: Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Koerperverletzung Stgb Todesfolge** ordnet den Fall über die tragenden Prüfungslinien: Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-koerperverletzung-223-stgb-grund` | Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung. |
 | `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` | Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB. |
-| `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege` | Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien fuer den Anfechtungsgegner. |
-| `strafrecht-spezial-kreditbetrug-265b-stgb` | Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits fuer einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo fuer Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse. |
-| `strafrecht-spezial-kriminologie-deliktphaenomenologie` | Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug fuer kontextsensitive Strafzumessungsargumentation. |
-| `strafrecht-spezial-kriminologie-grundlagen-und-praxis` | Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug fuer Schlussvortrag mit kriminologischen Argumenten. |
-| `strafrecht-spezial-kriminologie-opferpsychologie` | Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung fuer aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin. |
-| `strafrecht-spezial-kriminologie-rueckfallprognose` | Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik fuer Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung. |
-| `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi` | Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung fuer Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug fuer Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung. |
-| `strafrecht-spezial-markenrecht-143-markeng` | Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes oeffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport. |
+| `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege` | Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien für den Anfechtungsgegner. |
+| `strafrecht-spezial-kreditbetrug-265b-stgb` | Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo für Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse. |
+| `strafrecht-spezial-kriminologie-deliktphaenomenologie` | Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug für kontextsensitive Strafzumessungsargumentation. |
+| `strafrecht-spezial-kriminologie-grundlagen-und-praxis` | Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug für Schlussvortrag mit kriminologischen Argumenten. |
+| `strafrecht-spezial-kriminologie-opferpsychologie` | Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung für aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin. |
+| `strafrecht-spezial-kriminologie-rueckfallprognose` | Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik für Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung. |
+| `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi` | Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung für Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug für Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung. |
+| `strafrecht-spezial-markenrecht-143-markeng` | Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes öffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-koerperverletzung-223-stgb-grund`
 
@@ -40,9 +40,9 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 
 ## Worum geht es
 
-§ 223 StGB ist der **Grundtatbestand der vorsaetzlichen Koerperverletzung** und der haeufigste Tatbestand in der strafrechtlichen Praxis. Strafrahmen: Freiheitsstrafe bis zu fuenf Jahren oder Geldstrafe. Versuch ist strafbar (§ 223 Abs. 2 StGB). Die Strafverfolgung setzt grundsaetzlich einen Strafantrag voraus (§ 230 StGB), es sei denn die Staatsanwaltschaft bejaht das besondere oeffentliche Interesse.
+§ 223 StGB ist der **Grundtatbestand der vorsaetzlichen Koerperverletzung** und der haeufigste Tatbestand in der strafrechtlichen Praxis. Strafrahmen: Freiheitsstrafe bis zu fuenf Jahren oder Geldstrafe. Versuch ist strafbar (§ 223 Abs. 2 StGB). Die Strafverfolgung setzt grundsaetzlich einen Strafantrag voraus (§ 230 StGB), es sei denn die Staatsanwaltschaft bejaht das besondere öffentliche Interesse.
 
-In der Praxis ist § 223 StGB Einstiegsnorm fuer eine Vielzahl von Konstellationen: Streit unter Familienangehoerigen, Schlaegereien, Schul- und Vereinskonflikte, Behandlungsfehler, sportliche Koerperkontakte.
+In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellationen: Streit unter Familienangehoerigen, Schlaegereien, Schul- und Vereinskonflikte, Behandlungsfehler, sportliche Koerperkontakte.
 
 ## Tatbestand und Auslegung
 
@@ -54,7 +54,7 @@ In der Praxis ist § 223 StGB Einstiegsnorm fuer eine Vielzahl von Konstellation
 
 **Beide Varianten alternativ:** Es genuegt eine der beiden Tatbestandsalternativen.
 
-**Subjektiver Tatbestand:** Vorsatz; dolus eventualis genuegt. Bei Verletzungsvorsatz erforderlich, dass der Taeter den Eintritt einer der beiden Folgen fuer moeglich haelt und billigend in Kauf nimmt.
+**Subjektiver Tatbestand:** Vorsatz; dolus eventualis genuegt. Bei Verletzungsvorsatz erforderlich, dass der Taeter den Eintritt einer der beiden Folgen für moeglich haelt und billigend in Kauf nimmt.
 
 **Rechtswidrigkeit:** Notwehr (§ 32 StGB), rechtfertigender Notstand (§ 34 StGB), Einwilligung (§ 228 StGB), elterliches Erziehungsrecht (§ 1631 Abs. 2 BGB – gewaltfreie Erziehung; koerperliche Bestrafung verboten), Berufsausuebung der Aerzte (Einwilligung).
 
@@ -72,11 +72,11 @@ In der Praxis ist § 223 StGB Einstiegsnorm fuer eine Vielzahl von Konstellation
 
 **HIV-Infektion:** Eine HIV-positive Person, die ungeschuetzten Geschlechtsverkehr ohne Aufklaerung hat, erfuellt nach staendiger BGH-Rechtsprechung § 223 StGB (ggf. § 224 StGB).
 
-**Strafantrag § 230 StGB:** Strafverfolgung nur auf Antrag des Verletzten, es sei denn die Staatsanwaltschaft bejaht das besondere oeffentliche Interesse. Antragsfrist: drei Monate ab Kenntnis (§ 77b StGB).
+**Strafantrag § 230 StGB:** Strafverfolgung nur auf Antrag des Verletzten, es sei denn die Staatsanwaltschaft bejaht das besondere öffentliche Interesse. Antragsfrist: drei Monate ab Kenntnis (§ 77b StGB).
 
 ## Praktikertipps der Verteidigung
 
-- **Strafantrag pruefen (§ 230 StGB):** Liegt ein wirksamer Strafantrag vor? Bei Frist-Verstreichen kann Verfahren eingestellt werden, wenn kein oeffentliches Interesse vorliegt.
+- **Strafantrag pruefen (§ 230 StGB):** Liegt ein wirksamer Strafantrag vor? Bei Frist-Verstreichen kann Verfahren eingestellt werden, wenn kein öffentliches Interesse vorliegt.
 - **§ 153, § 153a StPO:** Bei einfacher Koerperverletzung haeufig Einstellung gegen Auflagen moeglich, insb. bei Erstmaligkeit.
 - **Notwehr (§ 32 StGB):** Erforderlichkeit und Gebotenheit pruefen; Vor- und Nachtatverhalten.
 - **Einwilligung (§ 228 StGB):** Bei Sport, einvernehmlichen sexuellen Praktiken, BDSM, Initiationsritualen. Sittenwidrigkeitsgrenze bei Lebensgefahr.
@@ -172,7 +172,7 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 **Grundtat:** Nicht jede Koerperverletzung; nach staendiger BGH-Linie muss die Grundtat eine spezifische Lebensgefahr beinhalten. Bei sehr leichter Koerperverletzung ohne Lebensgefahrzusammenhang scheidet § 227 StGB aus.
 
-**Kausalitaet:** Die Koerperverletzung muss conditio sine qua non fuer den Tod sein. Bei Mehrfachursachen (Vorerkrankung, Drittangriff, Rettungspflichten) Einzelfallpruefung.
+**Kausalitaet:** Die Koerperverletzung muss conditio sine qua non für den Tod sein. Bei Mehrfachursachen (Vorerkrankung, Drittangriff, Rettungspflichten) Einzelfallpruefung.
 
 **Tatbestandsspezifischer Zurechnungszusammenhang:**
 
@@ -249,7 +249,7 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 ## 3. `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
 
-**Fokus:** Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien fuer den Anfechtungsgegner.
+**Fokus:** Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien für den Anfechtungsgegner.
 
 # Schnittstelle Insolvenzanfechtung und Strafrecht
 
@@ -257,7 +257,7 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 Insolvenzanfechtung (Paragraphen 129 ff. InsO) und Bankrott-/Glaeubigerbeguenstigungsstrafrecht teilen ein Schutzgut: die Glaeubigergesamtheit. Anwendungsfall: Insolvenzverwalter klagt einen Vermoegensempfaenger auf Rueckgewaehr nach Paragraph 130, 131 InsO; StA wirft dem Schuldner-GF Paragraph 283c StGB vor. Beide Verfahren laufen parallel, mit unterschiedlichen Beweisanforderungen.
 
-Wichtig: Anfechtbarkeit nach InsO ist *nicht automatisch* strafbar. Aber Anfechtungsmerkmale (Inkongruenz, Glaeubigerbenachteiligungsabsicht, Kenntnis) liefern sehr starke Indizien fuer das Strafverfahren.
+Wichtig: Anfechtbarkeit nach InsO ist *nicht automatisch* strafbar. Aber Anfechtungsmerkmale (Inkongruenz, Glaeubigerbenachteiligungsabsicht, Kenntnis) liefern sehr starke Indizien für das Strafverfahren.
 
 ## Tatbestand im Detail
 
@@ -304,7 +304,7 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 - **Bargeschaeftsausnahme Paragraph 142 InsO.** Zug-um-Zug-Geschaefte mit gleichwertiger Gegenleistung sind insolvenzanfechtungsfest und strafrechtlich weitgehend unproblematisch.
 - **Beweislast.** Im Zivilverfahren oft Insolvenzverwalter (volle Beweislast); im Strafverfahren StA (in dubio pro reo). Strafverteidigung hat strukturell Vorteile, aber Anfechtungsindizien sind im Strafverfahren beweisrechtlich verwertbar.
 - **Wiedergutmachung als doppelter Hebel.** Wer den Anfechtungsanspruch erfuellt, hat strafmildernde Wiedergutmachung (Paragraph 46a StGB) und gegebenenfalls Einstellung nach Paragraph 153a StPO.
-- **Verjaehrung beachten.** Anfechtungsanspruch verjaehrt nach 3 Jahren ab Insolvenzeroeffnung; Strafverfolgung nach 5 Jahren ab Tat. Strafverfahren laeuft also laenger.
+- **Verjährung beachten.** Anfechtungsanspruch verjaehrt nach 3 Jahren ab Insolvenzeroeffnung; Strafverfolgung nach 5 Jahren ab Tat. Strafverfahren laeuft also laenger.
 
 ## Trade-off-Matrix
 
@@ -347,13 +347,12 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 - Paragraph 129 InsO im Wortlaut (gesetze-im-internet.de).
 - Paragraph 130, 131, 133, 134, 135 InsO Anfechtungstatbestaende.
 - Paragraph 142 InsO Bargeschaeftsausnahme.
-- Paragraph 146 InsO Verjaehrung des Anfechtungsanspruchs (3 Jahre).
+- Paragraph 146 InsO Verjährung des Anfechtungsanspruchs (3 Jahre).
 - Paragraph 78 Abs 3 Nr 4 StGB Verfolgungsverjaehrung 5 Jahre.
 - Paragraph 46 StGB Strafzumessung; Paragraph 46a StGB Taeter-Opfer-Ausgleich.
 - Paragraph 153a StPO Einstellung gegen Auflage.
 - BGH staendige Rspr. zur Vorsatzanfechtung (subjektive Voraussetzungen, vergleiche BGH-Linie zu Paragraph 133 InsO seit 2017 reformiert).
 - BGH staendige Rspr. zur Schnittstelle Anfechtung und Bankrott.
-
 
 ## Qualitäts-Hardening
 
@@ -365,7 +364,7 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 
 ## 4. `strafrecht-spezial-kreditbetrug-265b-stgb`
 
-**Fokus:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits fuer einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo fuer Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
+**Fokus:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo für Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
 
 # Kreditbetrug § 265b StGB
 
@@ -387,15 +386,15 @@ Spezial-Mandat: Anklage Kreditbetrug. Praxistypisch: KMU-Kredite mit unzutreffen
 
 Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehrung, Belassung oder Veraenderung der Bedingungen eines Kredits ueber wirtschaftliche Verhaeltnisse:
 
-1. unrichtige oder unvollstaendige Angaben in **Bilanzen, Gewinn- und Verlustrechnungen, Vermoegensuebersichten oder Gutachten** macht, die guenstig erscheinen, oder
+1. unrichtige oder unvollstaendige Angaben in **Bilanzen, Gewinn- und Verlustrechnungen, Vermögensübersichten oder Gutachten** macht, die guenstig erscheinen, oder
 2. **schriftlich unrichtige oder unvollstaendige Angaben** ueber subventionserhebliche Tatsachen macht, die ihm vorteilhaft sind, oder
-3. solche Verschlechterungen der wirtschaftlichen Verhaeltnisse, die fuer die Entscheidung ueber einen Antrag erheblich sind, dem Kreditgeber nicht mitteilt.
+3. solche Verschlechterungen der wirtschaftlichen Verhaeltnisse, die für die Entscheidung ueber einen Antrag erheblich sind, dem Kreditgeber nicht mitteilt.
 
 ### Schluesselbegriffe
 
 - **Kredit § 265b Abs. 3 Nr. 2 StGB.** Geldkredite aller Art, Akzeptkredite, entgeltliche Stundung von Geldforderungen, Diskontierung von Wechseln und Schecks, Buergschaften, Garantien und sonstige Gewaehrleistungen.
 - **Wirtschaftliche Verhaeltnisse.** Vermoegens-, Liquiditaets-, Ertragslage.
-- **Wesentlichkeit.** Tatsache muss fuer Kreditentscheidung erheblich sein.
+- **Wesentlichkeit.** Tatsache muss für Kreditentscheidung erheblich sein.
 
 ### Subjektiver Tatbestand
 
@@ -412,7 +411,7 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 - **Wesentlichkeit der Angabe** angreifen. Hat die Bank tatsaechlich auf die fragliche Angabe abgestellt? Internes Rating-Verfahren rekonstruieren.
 - **Bilanz-Manipulation.** Pruefen ob Bilanz nach HGB / IFRS testiert. Wenn Wirtschaftspruefer testiert hat, Vorsatzfrage. § 17 StGB Verbotsirrtum.
 - **Steuerberater-Beratung** als entlastendes Moment.
-- **Mittelabfluss-Stop** nutzen fuer § 265b Abs. 2 StGB taetige Reue, z. B. durch sofortige Tilgung oder Vertragsruecktritt.
+- **Mittelabfluss-Stop** nutzen für § 265b Abs. 2 StGB taetige Reue, z. B. durch sofortige Tilgung oder Vertragsruecktritt.
 - **Insolvenzgrund** pruefen: Bei spaeterer Insolvenz Konkurrenz zu § 283 StGB Bankrott.
 
 ## Trade-off-Matrix
@@ -471,13 +470,13 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 ## 5. `strafrecht-spezial-kriminologie-deliktphaenomenologie`
 
-**Fokus:** Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug fuer kontextsensitive Strafzumessungsargumentation.
+**Fokus:** Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug für kontextsensitive Strafzumessungsargumentation.
 
 # Deliktsphaenomenologie nach Tatkategorie
 
 ## Worum geht es
 
-Die Erscheinungsformen von Kriminalitaet variieren stark zwischen Deliktstypen. Vermoegensdelikte folgen anderen Mustern als Gewaltdelikte, und beides ist erneut anders als Sexualdelikte. Diese phaenomenologischen Unterschiede haben Konsequenzen fuer die Beweisanforderungen, die Strafzumessungserwartung, die Rueckfallraten und die Verteidigungsstrategie. Eine pauschale "Strafverteidigung" gibt es nicht — Spezialisierung lohnt sich.
+Die Erscheinungsformen von Kriminalitaet variieren stark zwischen Deliktstypen. Vermoegensdelikte folgen anderen Mustern als Gewaltdelikte, und beides ist erneut anders als Sexualdelikte. Diese phaenomenologischen Unterschiede haben Konsequenzen für die Beweisanforderungen, die Strafzumessungserwartung, die Rueckfallraten und die Verteidigungsstrategie. Eine pauschale "Strafverteidigung" gibt es nicht — Spezialisierung lohnt sich.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert eine kompakte Uebersicht der wichtigsten Deliktsgruppen mit ihren kriminologischen Eigenarten und den taktischen Konsequenzen.
 
@@ -486,7 +485,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 **Vermoegensdelikte (§§ 242, 263, 266 StGB und Folgevorschriften).**
 - Statistisch haeufigste Deliktsgruppe, hohes Dunkelfeld (Bagatelldelikte unangezeigt).
 - Aufklaerungsrate Diebstahl (ohne Wohnung) eher gering; Wohnungseinbruchsdiebstahl moderat.
-- Taeterprofil bei einfacher Form heterogen (jung, sozial belastet); bei gewerbsmaessigen Formen organisiertes Vorgehen.
+- Taeterprofil bei einfacher Form heterogen (jung, sozial belastet); bei gewerbsmäßigen Formen organisiertes Vorgehen.
 - Beweiskonstellation oft objektiv (Spurenlage, Ueberwachungsvideo, Inventar).
 - Rueckfallraten bei Eigentumsdelikten relativ hoch im Verhaeltnis.
 - Strafzumessung mit Spielraum (Geldstrafe bis Freiheitsstrafe). Wiedergutmachung (§§ 46 Abs. 2, 46a StGB) oft mildernd.
@@ -512,7 +511,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Taeterprofil heterogen; viele Erstaeter.
 - Beweiskonstellation: Aussage der Geschaedigten, ggf. Spuren, ggf. Vorgeschichte. Aussagepsychologische Begutachtung oft zentral.
 - Strafrahmen seit der Reform 2016 verschaerft (§ 177 StGB sexuelle Noetigung und Vergewaltigung).
-- Hohe oeffentliche Aufmerksamkeit, mediale Vorverurteilung.
+- Hohe öffentliche Aufmerksamkeit, mediale Vorverurteilung.
 - Verteidigungsschwerpunkt: Aussagepsychologie, Aussagegenese, Suggestion, Aussagetuechtigkeit.
 
 **Drogendelikte (BtMG, KCanG).**
@@ -547,11 +546,11 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensdelikte des hier zur Last gelegten Typs (einfacher Diebstahl) Bagatellkriminalitaet, oft sozial bedingt. Rueckfallrisiko bei sozial integrierten Erstaetern wie meinem Mandanten ist nach kriminologischer Forschung gering. Eine Geldstrafe genuegt nach Art und Schwere der Tat und nach den persoenlichen Verhaeltnissen des Mandanten. Eine Freiheitsstrafe waere fuer dieses Delikt und diesen Taeter unverhaeltnismaessig."
+Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensdelikte des hier zur Last gelegten Typs (einfacher Diebstahl) Bagatellkriminalitaet, oft sozial bedingt. Rueckfallrisiko bei sozial integrierten Erstaetern wie meinem Mandanten ist nach kriminologischer Forschung gering. Eine Geldstrafe genuegt nach Art und Schwere der Tat und nach den persönlichen Verhaeltnissen des Mandanten. Eine Freiheitsstrafe waere für dieses Delikt und diesen Taeter unverhaeltnismaessig."
 
 ## Mustertexte
 
-**Mustersatz fuer Strafzumessung:**
+**Mustersatz für Strafzumessung:**
 "Phaenomenologisch handelt es sich um ein Delikt des [Typ], in dem nach Aktenlage [konkrete Tatumstaende] vorliegen. Empirisch ist bei diesem Tatprofil und diesem Taeterprofil [Rueckfallrate / Strafzumessungsspielraum / Therapieoption]. Diese Befunde sind im Rahmen der Strafzumessung zu beruecksichtigen."
 
 **Antrag auf Bewaehrungsstrafe:**
@@ -577,15 +576,15 @@ Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensde
 
 ## 6. `strafrecht-spezial-kriminologie-grundlagen-und-praxis`
 
-**Fokus:** Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug fuer Schlussvortrag mit kriminologischen Argumenten.
+**Fokus:** Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug für Schlussvortrag mit kriminologischen Argumenten.
 
 # Kriminologie als Bezugswissenschaft des Strafrechts
 
 ## Worum geht es
 
-Kriminologie ist die empirische Wissenschaft von Verbrechen und Verbrechenskontrolle. Sie untersucht, welche Taten von wem unter welchen Bedingungen begangen werden (Aetiologie), wie sich Taten erscheinungsweise verteilen (Phaenomenologie), welche Wirkungen sie auf Opfer haben (Viktimologie), wie sich Taten verhindern lassen (Praevention) und wie das Strafrechtssystem darauf reagiert (Repression). Sie ist die wichtigste Bezugswissenschaft des Strafrechts und liefert das empirische Fundament fuer Strafzumessung, Prognose, Resozialisierung und Praeventionsplanung.
+Kriminologie ist die empirische Wissenschaft von Verbrechen und Verbrechenskontrolle. Sie untersucht, welche Taten von wem unter welchen Bedingungen begangen werden (Aetiologie), wie sich Taten erscheinungsweise verteilen (Phaenomenologie), welche Wirkungen sie auf Opfer haben (Viktimologie), wie sich Taten verhindern lassen (Praevention) und wie das Strafrechtssystem darauf reagiert (Repression). Sie ist die wichtigste Bezugswissenschaft des Strafrechts und liefert das empirische Fundament für Strafzumessung, Prognose, Resozialisierung und Praeventionsplanung.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die kriminologischen Grundlagen, die fuer Strafzumessungsplaedoyer, Bewaehrungsantrag, JGG-Verfahren und Prognosegutachten unverzichtbar sind.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die kriminologischen Grundlagen, die für Strafzumessungsplaedoyer, Bewaehrungsantrag, JGG-Verfahren und Prognosegutachten unverzichtbar sind.
 
 ## Methodische Grundlagen
 
@@ -604,7 +603,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Lebenslauf-Kriminologie (Sampson/Laub): Lebensverlaufsanalyse, Wendepunkte (Heirat, Beruf, Vaterschaft) als Ausstiegsmoeglichkeiten.
 - Routine-Activity-Theorie (Cohen/Felson): Tat erfordert motivierten Taeter, geeignetes Opfer, fehlende Aufsicht.
 
-**Empirische Befunde von Bedeutung fuer die Verteidigung.**
+**Empirische Befunde von Bedeutung für die Verteidigung.**
 - Karrierekriminalitaet ist die Ausnahme; die meisten Straffaelligen werden mit Erwachsenenalter unauffaellig.
 - Rueckfallraten sind delikts- und altersabhaengig (Eigentumsdelikte hoeher als Gewaltdelikte gegen Bekannte).
 - Soziale Bindung (Familie, Arbeit, Wohnung) ist staerkster Schutzfaktor.
@@ -635,11 +634,11 @@ Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandan
 
 ## Mustertexte
 
-**Mustersatz fuer Strafzumessung:**
+**Mustersatz für Strafzumessung:**
 "Die kriminologische Forschung ist seit Jahrzehnten eindeutig: Inhaftierung wirkt nicht generell praeventiv. Sie wirkt nur, wenn das Risikoprofil des Verurteilten ein hohes ist. Bei einem Erstaeter mit intakter sozialer Bindung — wie hier — ist die ambulante Sanktion in der Regel die effektivere. Eine Bewaehrungsstrafe wahrt die soziale Integration und ermoeglicht damit den nachhaltigen Verzicht auf weitere Taten."
 
-**Mustersatz fuer Bewaehrungsantrag:**
-"Die Voraussetzungen fuer eine Aussetzung der Vollstreckung der Freiheitsstrafe zur Bewaehrung nach § 56 StGB liegen vor. Die kriminologische Prognose ist guenstig. Mein Mandant hat alle empirisch relevanten Schutzfaktoren: feste Arbeit, feste Partnerschaft, feste Wohnung, soziales Umfeld, fehlende Vorstrafen. Die Erwartung, er werde keine weiteren Straftaten begehen, hat eine breite empirische Grundlage."
+**Mustersatz für Bewaehrungsantrag:**
+"Die Voraussetzungen für eine Aussetzung der Vollstreckung der Freiheitsstrafe zur Bewaehrung nach § 56 StGB liegen vor. Die kriminologische Prognose ist guenstig. Mein Mandant hat alle empirisch relevanten Schutzfaktoren: feste Arbeit, feste Partnerschaft, feste Wohnung, soziales Umfeld, fehlende Vorstrafen. Die Erwartung, er werde keine weiteren Straftaten begehen, hat eine breite empirische Grundlage."
 
 ## Querverweise
 
@@ -661,7 +660,7 @@ Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandan
 
 ## 7. `strafrecht-spezial-kriminologie-opferpsychologie`
 
-**Fokus:** Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung fuer aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin.
+**Fokus:** Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung für aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin.
 
 # Opferpsychologie und Aussagedynamik nach Trauma
 
@@ -686,16 +685,16 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Aussagen koennen sich erst nach Therapie oder Triggererlebnis kristallisieren.
 - Aber: Diese Phaenomene koennen auch durch suggestive Therapie oder andere Einfluesse erst erzeugt werden (Spannungsfeld trauma-bezogene vs. suggestive Erinnerung).
 
-**Sekundaere Viktimisierung.** Die wiederholte Vernehmung, das oeffentliche Verfahren, die Kreuzbefragung koennen das Opfer erneut belasten. Daher gesetzliche Schutzmechanismen: § 58a StPO (Videoaufzeichnung), § 247a StPO (Videoanhoerung), § 247 StPO (Ausschluss des Angeklagten), § 171b GVG (Oeffentlichkeitsausschluss), Nebenklagebeistand (§§ 395 ff. StPO).
+**Sekundaere Viktimisierung.** Die wiederholte Vernehmung, das öffentliche Verfahren, die Kreuzbefragung koennen das Opfer erneut belasten. Daher gesetzliche Schutzmechanismen: § 58a StPO (Videoaufzeichnung), § 247a StPO (Videoanhoerung), § 247 StPO (Ausschluss des Angeklagten), § 171b GVG (Oeffentlichkeitsausschluss), Nebenklagebeistand (§§ 395 ff. StPO).
 
-**Sogenannter Trauma-Beweis.** Manchmal werden Trauma-Symptome ("die Zeugin zeigt klare PTBS-Symptome") als Beweis fuer die Tatsache des Traumas und damit fuer die Tat verwendet. Methodisch problematisch: PTBS ist ein Antwortmuster auf einen Stressor, der nicht zwingend identifizierbar ist. Ein PTBS-Bild beweist nicht den behaupteten Stressor.
+**Sogenannter Trauma-Beweis.** Manchmal werden Trauma-Symptome ("die Zeugin zeigt klare PTBS-Symptome") als Beweis für die Tatsache des Traumas und damit für die Tat verwendet. Methodisch problematisch: PTBS ist ein Antwortmuster auf einen Stressor, der nicht zwingend identifizierbar ist. Ein PTBS-Bild beweist nicht den behaupteten Stressor.
 
 ## Praktikertipps Verteidigung
 
 - **Trauma respektvoll behandeln.** Niemals das Trauma als solches in Frage stellen oder bagatellisieren. Strategie: differenziert pruefen, ob die behauptete Ursache des Traumas die richtige ist.
 - **PTBS-Diagnose pruefen.** Wer hat diagnostiziert? Aufgrund welcher Befunde? Mit welchem Verfahren? Diagnose nach ICD-10 oder DSM-5 ist methodisch erforderlich.
 - **PTBS beweist nicht die Tat.** Replik: "Eine PTBS-Symptomatik ist eine Reaktion auf ein traumatisches Erlebnis. Welches Erlebnis kausal war, kann sie nicht beweisen. Das Symptombild kann ebenso durch andere Stressoren (frueheres Trauma, gegenwaertige Belastung, sekundaere Viktimisierung durch das Verfahren) erklaert werden."
-- **Inkonstanzen differenziert wuerdigen.** Wenn die StA Inkonstanzen als traumatypisch erklaert, fragen: Welche konkreten neuropsychologischen Befunde sprechen fuer fragmentiertes Trauma-Gedaechtnis bei dieser Zeugin? Oder sind die Inkonstanzen eher Anzeichen einer rekonstruktiv geformten Erinnerung?
+- **Inkonstanzen differenziert wuerdigen.** Wenn die StA Inkonstanzen als traumatypisch erklaert, fragen: Welche konkreten neuropsychologischen Befunde sprechen für fragmentiertes Trauma-Gedaechtnis bei dieser Zeugin? Oder sind die Inkonstanzen eher Anzeichen einer rekonstruktiv geformten Erinnerung?
 - **Therapie als doppelter Risikofaktor.** Therapie kann sowohl die Erinnerung stabilisieren als auch suggestiv kontaminieren. Beide Hypothesen sind methodisch zu pruefen.
 - **Nebenklage und Opferanwalt im Blick.** Nebenklage hat eigene Strategie. Konstellation pruefen: ist Zeugin auch Nebenklaegerin? Gibt es zivilrechtliche Anspruechee (Adhaesionsantrag, OEG-Anspruch)?
 
@@ -717,7 +716,7 @@ Im Plaedoyer respektvoll und differenziert: "Die Zeugin hat ohne Zweifel belaste
 **Hilfsbeweisantrag aussagepsychologisches Gutachten unter Beruecksichtigung der opferpsychologischen Dimension:**
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter Beruecksichtigung der opferpsychologischen Forschungslage zur Aussage der Zeugin [Name] einzuholen. Schwerpunkt: methodische Differenzierung zwischen traumatypischer Inkonstanz und suggestiver Kontamination der Aussage. Hintergrund: Therapeutische Behandlung seit [Datum] mit Schwerpunkt auf [Methode]; berichtete Symptome [konkret]; Latenz zwischen Tatzeitpunkt und Erstaussage [Zeitraum]."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Es ist unbestritten, dass die Zeugin Symptome psychischer Belastung zeigt. Es ist auch unbestritten, dass solche Symptome durch traumatische Ereignisse ausgeloest werden koennen. Was aber methodisch nicht zulaessig ist: aus den Symptomen auf die in der Anklage behauptete Tat zurueckzuschliessen. Symptome sind unspezifisch. Sie koennen viele Ursachen haben — und sie koennen auch durch das Verfahren selbst, durch die Therapie, durch sekundaere Viktimisierung mit erzeugt werden. Damit traegt der Trauma-Beweis die Verurteilung nicht."
 
 ## Querverweise
@@ -742,7 +741,7 @@ Im Plaedoyer respektvoll und differenziert: "Die Zeugin hat ohne Zweifel belaste
 
 ## 8. `strafrecht-spezial-kriminologie-rueckfallprognose`
 
-**Fokus:** Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik fuer Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung.
+**Fokus:** Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik für Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung.
 
 # Rueckfallprognose und kriminalprognostische Verfahren
 
@@ -762,17 +761,17 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 **Verfahren im deutschen forensischen Standard.**
 
-1. **PCL-R (Hare Psychopathy Checklist — Revised).** 20-Item-Instrument zur Erfassung psychopathischer Persoenlichkeitszuege (interpersonal, affektiv, Lebensstil, antisozial). Hohe Punktwerte (in den USA ab 30) gelten als prognostisch ungunstig fuer Gewaltrueckfall. In Deutschland wird die PCL-R modifiziert verwendet; Cut-off-Werte unter US-Standards. Kritik: Persoenlichkeitskonstrukt mit kulturellem Bias.
+1. **PCL-R (Hare Psychopathy Checklist — Revised).** 20-Item-Instrument zur Erfassung psychopathischer Persoenlichkeitszuege (interpersonal, affektiv, Lebensstil, antisozial). Hohe Punktwerte (in den USA ab 30) gelten als prognostisch ungunstig für Gewaltrueckfall. In Deutschland wird die PCL-R modifiziert verwendet; Cut-off-Werte unter US-Standards. Kritik: Persoenlichkeitskonstrukt mit kulturellem Bias.
 
 2. **HCR-20 (Historical, Clinical, Risk Management 20).** Drittes-Generationen-Instrument mit drei Skalen:
  - Historical (H1 bis H10): zehn statische historische Faktoren (Gewalt-Vorgeschichte, junge Erstdelinquenz, Substanzmissbrauch).
  - Clinical (C1 bis C5): fuenf klinische Faktoren (mangelnde Einsicht, Stoerung, Impulsivitaet).
  - Risk Management (R1 bis R5): fuenf zukunftsbezogene Faktoren (Wohnsituation, Unterstuetzung, Behandlungserfolg).
- Bewertung als Niedrig, Mittel, Hoch. Standard fuer allgemeine Gewaltprognose.
+ Bewertung als Niedrig, Mittel, Hoch. Standard für allgemeine Gewaltprognose.
 
 3. **FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System, Urbaniok).** Differenziertes Verfahren mit Risiko- und Therapie-Bewertungsachsen. Verwendet im Massregelvollzug und Strafvollzug.
 
-4. **SVR-20, Static-99R** spezifisch fuer Sexualdelikte.
+4. **SVR-20, Static-99R** spezifisch für Sexualdelikte.
 
 **Methodische Mindestanforderungen an ein Prognosegutachten.**
 - Auswahl des Verfahrens muss zum Fall passen (Gewaltprognose vs. Sexualprognose).
@@ -785,10 +784,10 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Praktikertipps Verteidigung
 
-- **Verfahrenauswahl pruefen.** Wurde das richtige Verfahren angewandt? PCL-R allein ist fuer Massregelvollzug nicht ausreichend; HCR-20 oder FOTRES sollten in Gewaltkontexten herangezogen werden; Static-99R fuer Sexualdelikte.
+- **Verfahrenauswahl pruefen.** Wurde das richtige Verfahren angewandt? PCL-R allein ist für Massregelvollzug nicht ausreichend; HCR-20 oder FOTRES sollten in Gewaltkontexten herangezogen werden; Static-99R für Sexualdelikte.
 - **Statische vs. dynamische Faktoren.** Statische Faktoren (Vorstrafen, Alter bei Erstdelikt) sind nicht veraenderbar. Dynamische Faktoren (Behandlungserfolg, soziale Situation) sind veraenderbar. Argumentation fokussieren auf positive Veraenderung in dynamischen Faktoren.
 - **Punktwerte sind keine Schicksale.** Ein hoher PCL-R-Wert bedeutet nicht definitive Rueckfallneigung, sondern statistische Mehrwahrscheinlichkeit. Individuelle Schutzfaktoren koennen das Risiko reduzieren.
-- **Mandant systematisch coachen fuer Exploration.** Ohne Wahrheitsverpflichtungs-Geste, aber mit klarer Selbstkenntnis und Auseinandersetzung mit der Tat. Bagatellisierung und Schuldverleugnung sind in den Verfahren stark prognostisch ungunstig.
+- **Mandant systematisch coachen für Exploration.** Ohne Wahrheitsverpflichtungs-Geste, aber mit klarer Selbstkenntnis und Auseinandersetzung mit der Tat. Bagatellisierung und Schuldverleugnung sind in den Verfahren stark prognostisch ungunstig.
 - **Therapiebereitschaft dokumentieren.** Erfolgreich abgeschlossene oder laufende Therapie ist in HCR-20 und FOTRES positiver dynamischer Faktor.
 - **Auf Vollstaendigkeit der Aktenlage pruefen.** Wenn der Gutachter nur einen Teil der Akte gesehen hat oder positive Entwicklungen ausgelassen wurden, ist das Gutachten methodisch luckenhaft.
 
@@ -797,7 +796,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
 | Gegen-SV-Gutachten beantragen | Methodische Gegen-Expertise | Kostenaufwand, Zeit, Risiko der Bestaetigung |
-| SV-Anhoerung mit Methodenkritik | Direkter Eindruck | Risiko der Festigung |
+| SV-Anhörung mit Methodenkritik | Direkter Eindruck | Risiko der Festigung |
 | Dynamische Faktoren mit Belegen | Veraenderbarkeit demonstriert | Aufwendige Dokumentation |
 | Verfahrenswahl im Plaedoyer angreifen | Methodisch fundiert | Setzt fundierte Verfahrenskenntnis voraus |
 
@@ -810,7 +809,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 **Beweisantrag Gegen-Prognosegutachten:**
 "Es wird beantragt, ein weiteres kriminalprognostisches Sachverstaendigengutachten unter Anwendung des HCR-20 und FOTRES einzuholen. Das bisher vorgelegte Gutachten der Sachverstaendigen [Name] vom [Datum] genuegt den methodischen Anforderungen nicht. Konkret: [a] Es wird ausschliesslich mit PCL-R gearbeitet; dynamische Risikofaktoren sind nicht erfasst. [b] Die positiven Behandlungsverlaeufe seit [Datum] werden nicht beruecksichtigt. [c] Die soziale Aufnahmesituation nach Entlassung wird nicht geprueft."
 
-**Mustersatz fuer Bewaehrung nach Strafvollzug:**
+**Mustersatz für Bewaehrung nach Strafvollzug:**
 "Die kriminalprognostische Beurteilung des Mandanten ist guenstig. Statische Faktoren (Vorstrafen) sind unveraenderlich, sie sind aber nicht das ganze Bild. Die dynamischen Faktoren — Therapiefortschritt in [Massnahme], Aufnahme bei [Bezugsperson], Beschaeftigungsperspektive bei [Arbeitgeber] — zeigen eine deutliche Risikoreduktion. Eine Aussetzung des Strafrestes nach § 57 StGB ist verantwortbar."
 
 ## Querverweise
@@ -823,7 +822,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 ## Quellen Stand 06/2026
 
 - Hare, R. D., Psychopathy Checklist — Revised (PCL-R), forensisch-psychologisches Standardinstrument (generisch).
-- Webster, C., Douglas, K., HCR-20, Manual fuer Gewaltprognose (generisch).
+- Webster, C., Douglas, K., HCR-20, Manual für Gewaltprognose (generisch).
 - Urbaniok, F., FOTRES, methodische Grundlagen (generisch).
 - Hanson, R. K., Static-99R, Sexualdelinquenzprognose (generisch).
 - BGH staendige Rechtsprechung zur Anordnung und Fortdauer der Sicherungsverwahrung (Aktenzeichen mit aktueller BGH-Linie verifizieren).
@@ -834,7 +833,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 
 ## 9. `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi`
 
-**Fokus:** Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung fuer Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug fuer Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung.
+**Fokus:** Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung für Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug für Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung.
 
 # Tatdynamik und Modus operandi
 
@@ -842,7 +841,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 
 Tatdynamik ist die kriminologische Strukturierung des Tatablaufs in seinen Phasen: Vortat, Tat, Nachtat. Modus operandi ist die typische Vorgehensweise eines Taeters oder einer Taetergruppe, oft mit deliktstypischen Mustern. Beides ist nicht nur kriminalistisch relevant (Aufklaerungsarbeit), sondern auch strafrechtlich (Vorsatz, Schuld, Strafzumessung, Affekt vs. Planung).
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die kriminologische Begriffsgrundlage, die strafrechtlichen Anknuepfungen und das Werkzeug, mit dem die Tatdynamik als Verteidigungsargument genutzt werden kann (etwa fuer Affektbeweis bei Toetungsdelikten, fuer Verminderung der Steuerungsfaehigkeit, fuer fehlende Bandenstruktur).
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die kriminologische Begriffsgrundlage, die strafrechtlichen Anknuepfungen und das Werkzeug, mit dem die Tatdynamik als Verteidigungsargument genutzt werden kann (etwa für Affektbeweis bei Toetungsdelikten, für Verminderung der Steuerungsfaehigkeit, für fehlende Bandenstruktur).
 
 ## Methodische Grundlagen
 
@@ -864,7 +863,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
  - Spurenbereinigung, Alibis, Falschverdaechtigung.
  - Emotionale Reaktion (Reue, Verdraengung, Distanzierung).
 
-**Affekttat vs. Plantat.** Kriminologisch nicht trennscharf, sondern Kontinuum. Indikatoren fuer Affekttat:
+**Affekttat vs. Plantat.** Kriminologisch nicht trennscharf, sondern Kontinuum. Indikatoren für Affekttat:
 - Hochemotionale Vortatsituation (Streit, Provokation).
 - Spontane Handlung ohne erkennbare Vorbereitung.
 - Tatwerkzeug zufaellig vor Ort.
@@ -872,7 +871,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Nachtatverhalten ohne Tatreinigung.
 - Affektbruch im Verhalten (Erstarrung, Versagen, Selbsttoetungsversuch).
 
-Indikatoren fuer Plantat:
+Indikatoren für Plantat:
 - Vorbereitung, Auskundschaftung.
 - Tatwerkzeug beschafft.
 - Tatbild strukturiert.
@@ -881,7 +880,7 @@ Indikatoren fuer Plantat:
 
 **Modus operandi.** Wiederkehrende Tatmuster eines Taeters (Tatortauswahl, Annaeherungsweise, Mitfuehren bestimmter Werkzeuge, Tatsequenz, Opferauswahl). Bei Serientaeter-Verdacht wesentlich; bei Einzeltaten weniger relevant.
 
-**Bedeutung fuer das Strafrecht.**
+**Bedeutung für das Strafrecht.**
 - Vorsatzformen (§ 15 StGB): Direktvorsatz, dolus directus zweiten Grades, dolus eventualis — laesst sich aus Tatdynamik konkretisieren.
 - Niedrige Beweggruende (§ 211 StGB): Tatmotivation aus der Tatdynamik ableitbar.
 - Heimtuecke (§ 211 StGB): Tatdynamik der Annaeherung entscheidet ueber Arglosigkeit des Opfers.
@@ -915,7 +914,7 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akte
 **Beweisantrag Affekt-SV-Gutachten:**
 "Es wird beantragt, ein psychiatrisch-psychologisches Sachverstaendigengutachten zur Frage der Steuerungsfaehigkeit des Angeklagten zum Tatzeitpunkt nach §§ 20, 21 StGB einzuholen. Konkrete Anhaltspunkte: stundenlange emotional eskalierende Auseinandersetzung vor der Tat (Akte Bl. [X]); Spontaneitaet des Handelns ohne Vorbereitung; postdeliktischer Affektbruch (Erstarrung, Selbstanzeige); psychiatrische Vorgeschichte mit [Diagnose] seit [Datum]."
 
-**Mustersatz fuer Strafzumessung:**
+**Mustersatz für Strafzumessung:**
 "Die Tat hat sich aus einer extrem emotionalen Konfliktsituation entwickelt. Mein Mandant hat nicht geplant, nicht ausgekundschaftet, nicht vorbereitet. Er hat impulsiv und affektgetragen gehandelt — ein Bild, das die Steuerungsfaehigkeit erheblich vermindert hat (§ 21 StGB) und im Rahmen der Strafzumessung deutlich mildernd zu beruecksichtigen ist."
 
 ## Querverweise
@@ -940,7 +939,7 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akte
 
 ## 10. `strafrecht-spezial-markenrecht-143-markeng`
 
-**Fokus:** Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes oeffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport.
+**Fokus:** Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes öffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport.
 
 # Strafvorschriften des Markenrechts nach Paragraph 143 MarkenG
 
@@ -948,14 +947,14 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akte
 
 Paragraph 143 MarkenG sanktioniert vorsaetzliche Verletzungen des Markenrechts. Geschuetzt ist die Marke als gewerbliches Schutzrecht (Paragraph 14 MarkenG zivilrechtlich; Paragraph 143 MarkenG strafrechtlich). Anwendungsfaelle: Counterfeit-Vertrieb von Fashion- und Luxusartikeln, Produktpiraterie ueber Marktplaetze, Parallelimport ohne EU-Erschoepfung, taeuschend aehnliche Markenkennzeichen (Verwechslungsgefahr), Ausnutzung bekannter Marken (Bekanntheitsschutz).
 
-Strafrahmen Paragraph 143 Abs 1 MarkenG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Bandenmaessige Begehung wird ueber Paragraph 143a MarkenG erfasst (drei Monate bis fuenf Jahre). Antragsdelikt nach Paragraph 144 Abs 1 MarkenG; Privatklageweg moeglich; Ausnahme besonderes oeffentliches Interesse fuehrt zur Offizialverfolgung.
+Strafrahmen Paragraph 143 Abs 1 MarkenG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Bandenmäßige Begehung wird ueber Paragraph 143a MarkenG erfasst (drei Monate bis fuenf Jahre). Antragsdelikt nach Paragraph 144 Abs 1 MarkenG; Privatklageweg moeglich; Ausnahme besonderes öffentliches Interesse fuehrt zur Offizialverfolgung.
 
 ## Tatbestand und Geltungsbereich
 
 Paragraph 143 Abs 1 MarkenG knuepft an die zivilrechtlichen Verletzungstatbestaende des Paragraph 14 Abs 2 MarkenG an. Tathandlung ist die widerrechtliche Benutzung eines Zeichens
 
-- **Paragraph 14 Abs 2 Nr 1 MarkenG Doppelidentitaet:** identisches Zeichen fuer identische Waren oder Dienstleistungen.
-- **Paragraph 14 Abs 2 Nr 2 MarkenG Verwechslungsgefahr:** identisches oder aehnliches Zeichen fuer identische oder aehnliche Waren oder Dienstleistungen, sofern Verwechslungsgefahr besteht.
+- **Paragraph 14 Abs 2 Nr 1 MarkenG Doppelidentitaet:** identisches Zeichen für identische Waren oder Dienstleistungen.
+- **Paragraph 14 Abs 2 Nr 2 MarkenG Verwechslungsgefahr:** identisches oder aehnliches Zeichen für identische oder aehnliche Waren oder Dienstleistungen, sofern Verwechslungsgefahr besteht.
 - **Paragraph 14 Abs 2 Nr 3 MarkenG Bekanntheitsschutz:** identisches oder aehnliches Zeichen, das die Wertschaetzung oder Unterscheidungskraft einer bekannten Marke ohne rechtfertigenden Grund ausnutzt oder beeintraechtigt.
 
 Tatobjekt ist die geschuetzte Marke: deutsche eingetragene Marke (Paragraph 4 Nr 1 MarkenG), Benutzungsmarke (Paragraph 4 Nr 2 MarkenG), notorisch bekannte Marke (Paragraph 4 Nr 3 MarkenG), Unionsmarke (Verordnung 2017/1001), international registrierte Marke mit Schutzerstreckung auf Deutschland (Madrider Protokoll).
@@ -968,9 +967,9 @@ Subjektiv Vorsatz, mindestens dolus eventualis. Fahrlaessigkeit ist nicht strafb
 
 Paragraph 144 Abs 1 MarkenG: Antragsdelikt. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter. Antragsberechtigt ist der Markeninhaber, der ausschliessliche Lizenznehmer (Paragraph 30 Abs 3 MarkenG; mit Zustimmung des Inhabers), Rechtsnachfolger.
 
-Praxiswichtig: Bei Lizenznehmern ist die Antragsberechtigung sorgfaeltig zu pruefen. Die zustaendige Antragsperson muss in der Anzeige genau bezeichnet sein. Bei Konzernmarken: Lizenzkette belegen.
+Praxiswichtig: Bei Lizenznehmern ist die Antragsberechtigung sorgfaeltig zu pruefen. Die zuständige Antragsperson muss in der Anzeige genau bezeichnet sein. Bei Konzernmarken: Lizenzkette belegen.
 
-Privatklageweg Paragraph 374 StPO ist eroeffnet. Paragraph 144 Abs 1 MarkenG sieht ausdruecklich Privatklage vor; StA tritt nur bei besonderem oeffentlichem Interesse ein. Praxis: StA uebernimmt regelmaessig bei kommerziellem Vertrieb, hohem Umsatz, mehreren Beteiligten.
+Privatklageweg Paragraph 374 StPO ist eroeffnet. Paragraph 144 Abs 1 MarkenG sieht ausdruecklich Privatklage vor; StA tritt nur bei besonderem öffentlichem Interesse ein. Praxis: StA uebernimmt regelmaessig bei kommerziellem Vertrieb, hohem Umsatz, mehreren Beteiligten.
 
 ## Praktikertipps der Verteidigung
 
@@ -1006,7 +1005,7 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 
 ## Mustertexte
 
-**Strafantrag-Snippet:** "Namens und mit Vollmacht meiner Mandantin, der X AG als Inhaberin der deutschen Marke Nr DE [12345] (Anlage K 1), stelle ich gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 158 StPO Strafantrag wegen vorsaetzlicher Markenverletzung nach Paragraph 143 Abs 1 MarkenG. Mein Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Ein besonderes oeffentliches Interesse an der Strafverfolgung wird bejaht: Der Beschuldigte hat ueber den Online-Marktplatz Y im Tatzeitraum ueber Z Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben."
+**Strafantrag-Snippet:** "Namens und mit Vollmacht meiner Mandantin, der X AG als Inhaberin der deutschen Marke Nr DE [12345] (Anlage K 1), stelle ich gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 158 StPO Strafantrag wegen vorsaetzlicher Markenverletzung nach Paragraph 143 Abs 1 MarkenG. Mein Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Ein besonderes öffentliches Interesse an der Strafverfolgung wird bejaht: Der Beschuldigte hat ueber den Online-Marktplatz Y im Tatzeitraum ueber Z Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben."
 
 **Schutzschrift-Snippet:** "Die streitgegenstaendliche Ware wurde von meinem Mandanten ueber den autorisierten Haendler X in Frankreich (EU-Mitgliedstaat) erworben (Rechnung Anlage SS 1). Es liegt Erschoepfung nach Paragraph 24 Abs 1 MarkenG vor; der Markeninhaber hat das Inverkehrbringen im EWR autorisiert. Eine Markenverletzung scheidet aus. Soweit die StA dies bezweifelt, wird Beweis durch Vernehmung des Zeugen X angeboten."
 
@@ -1016,12 +1015,12 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 
 1. **Erstgespraech und Akteneinsicht Paragraph 147 StPO.** Klaeren, ob parallel zivilrechtliche Abmahnung erfolgte und ob bereits einstweilige Verfuegung anhaengig ist.
 2. **Antragsfrist Paragraph 77b StGB pruefen.** Kenntnis von Tat und Taeter sorgfaeltig recherchieren; internes Wissensmanagement des Anzeigeerstatters offenlegen lassen.
-3. **Markenregister-Pruefung.** DPMAregister, EUIPO eSearch fuer Inhaberschaft, Kategorie, Schutzbereich.
+3. **Markenregister-Pruefung.** DPMAregister, EUIPO eSearch für Inhaberschaft, Kategorie, Schutzbereich.
 4. **Verwechslungsgefahr-Analyse.** Wechselwirkungslehre (Zeichen-Aehnlichkeit, Waren-Aehnlichkeit, Kennzeichnungskraft); ggf. Verkehrsbefragung beantragen.
 5. **Erschoepfung Paragraph 24 MarkenG pruefen.** EU-Lieferketten dokumentieren.
 6. **Verhandlung mit Markeninhaber.** Schadensvergleich nach Lizenzanalogie; Antragsruecknahme Paragraph 77d StGB; Strafverfahren-Einstellung Paragraph 170 Abs 2 StPO.
 7. **Privatklageverweis.** Wenn StA nicht uebernimmt: Hinwirken auf Verweisung; Markeninhaber dann mit Suehneversuch konfrontiert.
-8. **Hauptverhandlung** mit Sachverstaendigem fuer Verkehrskreis.
+8. **Hauptverhandlung** mit Sachverstaendigem für Verkehrskreis.
 
 ## Querverweise
 
@@ -1040,4 +1039,4 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 - Paragraph 77b StGB Antragsfrist; Paragraph 374 StPO Privatklagedelikt.
 - BGH staendige Rspr. zur Verwechslungsgefahr (Wechselwirkungslehre); EuGH staendige Rspr. zur Marke unter Verordnung 2017/1001 und Vorgaengerverordnung. Konkrete Datierung vor Verwendung im Schriftsatz verifizieren.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
-- VO (EU) 608/2013 (Produktpiraterieverordnung) und Paragraph 142a MarkenG fuer Grenzbeschlagnahme; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
+- VO (EU) 608/2013 (Produktpiraterieverordnung) und Paragraph 142a MarkenG für Grenzbeschlagnahme; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.

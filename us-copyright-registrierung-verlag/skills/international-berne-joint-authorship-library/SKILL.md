@@ -1,47 +1,30 @@
 ---
 name: international-berne-joint-authorship-library
-description: "International Berne Joint Authorship Library im Plugin Us Copyright Registrierung Verlag: prüft konkret Prueft foreign works, Berne Convention, TRIPS, URAA restoration. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement im Us Copyright Registrierung Verlag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# International Berne Joint Authorship Library
+# International Copyright, Berne und URAA
 
 ## Arbeitsbereich
 
-**International Berne Joint Authorship Library** ordnet den Fall über die tragenden Prüffelder: Prueft foreign works, Berne Convention, TRIPS. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `international-berne-uruguay` | Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. |
-| `joint-authorship-wmfh` | Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse. |
-| `library-archives-108` | Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung. |
-| `litigation-readiness-section-411-412` | Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel. |
+Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im US-Copyright-Registrierung für Verlage klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: 17 U.S.C. § 412 Registrierung vor Verletzung für statutory damages, § 410(c) Beweisvermutung 5 Jahre nach Erstveröffentlichung, § 302 Schutzdauer 70 Jahre p.m.a..
 - Tragende Normen verifizieren: 17 U.S.C. §§ 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `international-berne-uruguay`
-
-**Fokus:** Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement.
-
-# International Copyright, Berne und URAA
 
 ## Fachkern: International Copyright, Berne und URAA
-- **Spezialgegenstand:** International Copyright, Berne und URAA. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Zweck
 
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
+Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug für Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
 
 Dieser Skill macht aus dem Thema **International Copyright, Berne und URAA** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -51,7 +34,6 @@ Dieser Skill macht aus dem Thema **International Copyright, Berne und URAA** ein
 - Berne/TRIPS as official treaty sources
 - USCO international resources
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -60,13 +42,11 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - War Werk im source country geschützt?
 - Wurde US protection restored?
 
-
 ## Workflow
 
 1. Country timeline bauen.
 2. Restoration and enforcement prüfen.
 3. Foreign counsel/source law issue markieren.
-
 
 ## Output
 
@@ -74,7 +54,6 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - URAA checklist
 - Foreign-work enforcement pack
 
-
 ## Tiefencheck für die Akte
 
 Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
@@ -93,184 +72,3 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 - Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
 - Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 2. `joint-authorship-wmfh`
-
-**Fokus:** Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse.
-
-# Joint Authorship und Work Made for Hire
-
-## Fachkern: Joint Authorship und Work Made for Hire
-- **Spezialgegenstand:** Joint Authorship und Work Made for Hire. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
-- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Zweck
-
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
-
-Dieser Skill macht aus dem Thema **Joint Authorship und Work Made for Hire** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 17 U.S.C. §§ 101, 201
-- Work made for hire definition
-- USCO ownership practice
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Wer hat expressive Beiträge geleistet?
-- Gab es intent to merge contributions?
-- Employee oder independent contractor?
-- Gibt es written WMFH agreement?
-
-
-## Workflow
-
-1. Contributions trennen.
-2. WMFH-Kategorie prüfen.
-3. Fallback assignment verlangen.
-
-
-## Output
-
-- Authorship matrix
-- WMFH risk memo
-- Assignment fallback checklist
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
-
-- Wer ist author, claimant, owner, assignee, employer, commissioned party, joint author oder secured party?
-- Gibt es eine schriftliche Übertragung, Work-made-for-hire-Logik, deutsches Vertragsrecht oder nur operative Gewohnheit?
-- Drohen termination rights, priority conflicts, unrecorded transfers, security interests oder chain-of-title gaps?
-- Welche Dokumente muss der Verlag sammeln: Verträge, Nachträge, invoices, acceptance, employment records, board approvals?
-
-**Mindest-Output:** Chain-of-Title-Gutachten mit Rollen, Dokumenten, Lücken, Recordation-Option und Deal-Risiko.
-
-## Qualitäts- und Risikofilter
-
-- US-Bundesrecht, State-Law-Claims und Vertragsrecht strikt trennen.
-- Bei drohender US-Litigation fruehzeitig US-Counsel einschalten.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 3. `library-archives-108`
-
-**Fokus:** Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung.
-
-# Libraries und Archives § 108
-
-## Fachkern: Libraries und Archives § 108
-- **Spezialgegenstand:** Libraries und Archives § 108. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
-- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Zweck
-
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
-
-Dieser Skill macht aus dem Thema **Libraries und Archives § 108** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 17 U.S.C. § 108
-- USCO circulars for libraries
-- Section 107 fallback
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Ist die Institution eine qualifying library/archive?
-- Preservation, replacement oder patron request?
-- Kommerzielle oder systematische Kopien?
-
-
-## Workflow
-
-1. Institution role prüfen.
-2. Kopierzweck und Umfang erfassen.
-3. § 108 und fair use getrennt dokumentieren.
-
-
-## Output
-
-- Library exception memo
-- Digitization checklist
-- Patron-request risk note
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
-
-- Welche Werkart, Nutzung, Rechtekette und US-Berührung bestimmen den Prüfpfad?
-- Welche Elemente sind schutzfähig, welche sind ausgeschlossen, lizenziert, public domain oder nur vertraglich relevant?
-- Welche aktuelle USCO-Quelle, Title-17-Norm, Plattformregel oder Prozessanforderung muss vor konkreter Verwendung live geprüft werden?
-- Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
-
-**Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
-
-## Qualitäts- und Risikofilter
-
-- US-Bundesrecht, State-Law-Claims und Vertragsrecht strikt trennen.
-- Bei drohender US-Litigation fruehzeitig US-Counsel einschalten.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 4. `litigation-readiness-section-411-412`
-
-**Fokus:** Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel.
-
-# Litigation Readiness 411 und 412
-
-## Fachkern: Litigation Readiness 411 und 412
-- **Spezialgegenstand:** Litigation Readiness 411 und 412. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
-- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Aufgabe
-
-Bereite die Verlagsakte für einen möglichen US-Streit vor. Der Skill gibt keine Prozessstrategie, sondern schafft Ordnung für US-Counsel: Was ist registriert, wann, mit welchem Claim und welchen Belegen?
-
-## Prüfprogramm
-
-- Registration Status: Antrag offen, Certificate, Refusal, Supplementary Registration.
-- Zeitpunkte: Erstveröffentlichung, US-Vertrieb, Verletzung, Antrag, Gebühr, Deposit, Registrierungsdatum.
-- Anspruchsgegenstand: welches Werk, welche Fassung, welche Bestandteile sind beansprucht oder ausgeschlossen?
-- Beweispaket: Werkexemplar, Verträge, Rechtekette, Infringement-Screenshots, Plattformkommunikation, Registrierungsakte.
-- US-Counsel-Fragen: Klagevoraussetzung, Timing, statutory damages/attorney fees, einstweiliger Rechtsschutz, Notice-and-Takedown.
-
-## Output
-
-Ein Litigation-Readiness-Dossier mit Chronologie, Claim-Scope, Nachweisen, roten Flaggen und offener Fragenliste für US-Counsel.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
-
-- Ist registration status pro Werk ausreichend für claim, remedies, statutory damages, fees und injunction strategy?
-- Welche Verletzungshandlung ist belegbar: copying, distribution, display, performance, derivative work, import oder CMI removal?
-- Welche Beweise sichern ownership, access, substantial similarity, screenshots, logs, chain of custody und damages?
-- Welche Business-Lösung ist besser als Klage: takedown, license, settlement, attribution, audit, future-use covenant?
-
-**Mindest-Output:** Litigation-Paket mit claim chart, remedies map, Beweislücken, settlement levers und US-Counsel-Fragen.

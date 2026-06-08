@@ -7,23 +7,40 @@ description: "Bankaufsicht Erlaubnis Emissionsprospekt im Plugin Fachanwalt Bank
 
 ## Arbeitsbereich
 
-**Bankaufsicht Erlaubnis Emissionsprospekt** ordnet den Fall über die tragenden Prüffelder: Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken, Emissionsprospekt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bankaufsicht Erlaubnis Emissionsprospekt** ordnet den Fall über die tragenden Prüfungslinien: Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken, Emissionsprospekt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-bankaufsicht-erlaubnis-und-vertrieb` | Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `spezial-emissionsprospekt-mandantenentscheidung` | Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bank- und Kapitalmarktrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-bankaufsicht-erlaubnis-und-vertrieb`
 
@@ -74,8 +91,6 @@ Wenn Zahlungsdienst, Cloud/IKT, Organanzeige, Beteiligungserwerb oder Kapitalfol
 
 # Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage
 
-
-
 ## Spezialwissen: Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage
 - **Konkreter Gegenstand:** Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
@@ -115,8 +130,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-
-
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Konkreter Gegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

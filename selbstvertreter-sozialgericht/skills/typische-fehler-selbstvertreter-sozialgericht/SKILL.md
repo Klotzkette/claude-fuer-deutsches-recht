@@ -32,7 +32,7 @@ Andere haben schon viele Fehler gemacht. Lernen Sie daraus. Wir zeigen Ihnen die
 
 Generelle SGG- und SGB-Pruefung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Fehler 1 — Frist verpasst
 
@@ -42,15 +42,15 @@ Generelle SGG- und SGB-Pruefung.
 
 ### Fehler 2 — Falscher Empfaenger
 
-**Problem**: Widerspruch ans Gericht statt an die Behoerde.
+**Problem**: Widerspruch ans Gericht statt an die Behörde.
 
-**Loesung**: Widerspruch geht IMMER an die Behoerde, Klage an das SG.
+**Loesung**: Widerspruch geht IMMER an die Behörde, Klage an das SG.
 
-### Fehler 3 — Kein Beweis fuer Versand
+### Fehler 3 — Kein Beweis für Versand
 
 **Problem**: Normalpost am letzten Tag — Brief verschollen.
 
-**Loesung**: Einschreiben, Fax, MJP oder persoenliche Abgabe mit Stempel.
+**Loesung**: Einschreiben, Fax, MJP oder persönliche Abgabe mit Stempel.
 
 ### Fehler 4 — Keine Begruendung beigefuegt
 
@@ -126,7 +126,7 @@ Generelle SGG- und SGB-Pruefung.
 
 ## Worauf Sie besonders achten muessen
 
-- **Fristen oben halten**: 1 Monat fuer alles Wichtige.
+- **Fristen oben halten**: 1 Monat für alles Wichtige.
 - **Beweise sammeln**: jede Behauptung mit Beleg.
 - **Aktualitaet**: Atteste, Pflegeprotokolle aktuell halten.
 
@@ -146,7 +146,6 @@ Die gesamte Skill ist eine Aufzaehlung typischer Fehler — siehe oben Fehler 1 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Erfahrung.
-
 
 ## Qualitäts-Hardening
 

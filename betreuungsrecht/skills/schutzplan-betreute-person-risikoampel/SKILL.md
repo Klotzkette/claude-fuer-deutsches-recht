@@ -5,6 +5,24 @@ description: "Schutzplan für die betreute Person: prüft Risiken bei Gesundheit
 
 # Schutzplan und Risikoampel
 
+## Normenanker
+
+Arbeitsfokus: **Schutzplan und Risikoampel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Betreuerauswahl.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — Anhörung.
+- `§ 280 FamFG` — Gutachten.
+- `§ 5 BtOG` — Beratung.
+- `§ 8 BtOG` — Betreuungsvermeidung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill schützt die betreute Person, ohne sie unnötig zu kontrollieren. Er fragt: Wo droht real Schaden, was will die Person, welches mildere Mittel reicht, und was muss dokumentiert werden?

@@ -1,6 +1,6 @@
 ---
 name: buergergeld-ueberbrueckungsgeld
-description: "Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster."
+description: "Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster."
 ---
 
 # Buergergeld Ueberbrueckungsgeld
@@ -34,9 +34,9 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 ## Schnittstelle
 
-- Jobcenter zustaendig bei Erwerbsfaehigkeit.
+- Jobcenter zuständig bei Erwerbsfaehigkeit.
 - Sozialamt bei Erwerbsunfaehigkeit.
-- Wenn Wohnsitz unklar: oertliche Zustaendigkeit nach § 36 SGB II klaeren.
+- Wenn Wohnsitz unklar: oertliche Zuständigkeit nach § 36 SGB II klaeren.
 
 ## Pruefraster
 

@@ -6,15 +6,12 @@ description: "KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue
 # KI- und Deepfake-Beweise im Strafverfahren
 
 ## Fachkern: KI- und Deepfake-Beweise im Strafverfahren
-- **Spezialgegenstand:** KI- und Deepfake-Beweise im Strafverfahren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: KI- und Deepfake-Beweise im Strafverfahren** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Authentizität, Sachverständige, Bild-/Tonforensik, Beweiswert und Täuschungsrisiko
 
@@ -40,6 +37,20 @@ Dieser Abschnitt bearbeitet **Fachkern: KI- und Deepfake-Beweise im Strafverfahr
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 201a StGB (höchstpersönlicher Lebensbereich)
+- § 263 StGB (CEO-Fraud)
+- § 269 StGB (Datenfälschung)
+- Art. 50 AI-Act (Kennzeichnungspflicht)
+- § 353b StGB (Dienstgeheimnis)
+- Art. 5, 6 DSGVO
+- Art. 22 DSGVO (automatisierte Entscheidungen)
+- Art. 6 AI-Act (Hochrisiko-KI im Strafverfahren)
+- § 500 StPO
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

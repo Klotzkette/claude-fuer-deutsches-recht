@@ -7,10 +7,10 @@ description: "Erstgespraech Mandatsannahme im Plugin Fachanwalt Versicherungsrec
 
 ## Arbeitsbereich
 
-**Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüffelder: Strukturierter Erstgespraechsleitfaden für, Klage bei abgelehnter, Deckungsklage gegen Versicherer auf Versicherungsleistung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüfungslinien: Strukturierter Erstgespraechsleitfaden für, Klage bei abgelehnter, Deckungsklage gegen Versicherer auf Versicherungsleistung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage` | Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen §§ 172 ff. VVG BU-Versicherung § 15 VVG Anzeigepflicht BAG-Begriff Berufsunfähigkeit 50-Prozent-Grenze. Prüfraster Begriff Berufsunfähigkeit letzte berufliche Tätigkeit Verweisung zumutbare andere Tätigkeit Gutachtenstreit Prüfverfahren. Output Klageschrift-Baustein mit Leistungsantrag Sachverständigenantrag Feststellungsantrag und Durchsetzungsstrategie. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen. |
@@ -18,12 +18,12 @@ description: "Erstgespraech Mandatsannahme im Plugin Fachanwalt Versicherungsrec
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
 
@@ -41,7 +41,7 @@ description: "Erstgespraech Mandatsannahme im Plugin Fachanwalt Versicherungsrec
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Versicherungsvertragsrecht (Personen- und Sachversicherung):
+Standard-Fragenraster für Versicherungsvertragsrecht (Personen- und Sachversicherung):
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -54,15 +54,15 @@ Standard-Fragenraster fuer Versicherungsvertragsrecht (Personen- und Sachversich
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung):
 
@@ -76,23 +76,23 @@ Standard-Streitwerte im Bereich Versicherungsvertragsrecht (Personen- und Sachve
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Versicherungsvertragsrecht (Personen- und Sachversicherung).
+- BORA, BRAO, FAO für Fachanwaltschaft Versicherungsvertragsrecht (Personen- und Sachversicherung).
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- VVG, AVB, BU-/UV-Bedingungen, ARB, PflVG (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- VVG, AVB, BU-/UV-Bedingungen, ARB, PflVG (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -115,14 +115,13 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung)). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -132,7 +131,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -174,9 +173,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch Versicherungsrecht
 
@@ -251,7 +250,6 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 - Konkret bestätigt
 
 ## 4) Workflow
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -352,7 +350,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufru
 1. **Anzeige-Pflichten unvollständig** bei Antragstellung
 2. **Privatgutachten ohne BU-Spezialisten**
 3. **Verweisung-Klausel nicht angefochten**
-4. **Verjaehrung 3 Jahre** versäumt
+4. **Verjährung 3 Jahre** versäumt
 
 ## Anschluss
 
@@ -411,7 +409,7 @@ Ablehnung Versicherer?
 │ └─ Ja → Kausalität zwischen Vorerkrankung und BU?
 └─ Verjährung → Verhandlungen dokumentieren (§ 203 BGB Hemmung)
 ```
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -425,7 +423,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — BU nur voruebergehend Reaktivierung moeglich | Teilleistung akzeptieren und beobachten statt Vollklage |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template — Klageschrift BU-Versicherung (Skizze)
 
@@ -466,7 +463,7 @@ Beweis: K1 Police + AVB, K2 Tätigkeitsbeschreibung, K3 Privatgutachten,
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -487,7 +484,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 6. Sind alle Vertragsunterlagen (Police, AVB-Fassung zum Vertragsschluss, Antragsformular, sämtliche Schriftwechsel) vorhanden?
 7. Droht Verjährung (3 Jahre ab Jahresende der Kenntnis §§ 195, 199 BGB)? Hemmung durch Ombudsstelle § 204 BGB aktiv?
 8. Ist eine Streitverkündung an den Versicherungsmakler/Vermittler erforderlich (bei Beratungsfehlern)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -514,7 +511,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -544,11 +540,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Deckungsklage gegen Versicherer | Klageschrift nach Pruefschema; Template unten |
 | Variante A — Versicherer hat nur teilweise abgelehnt | Klage auf Differenzbetrag; Vergleich zu voller Deckung anstreben |
-| Variante B — Verjaehrung droht innerhalb 3 Monaten | Klage sofort; Verhandlung parallel |
+| Variante B — Verjährung droht innerhalb 3 Monaten | Klage sofort; Verhandlung parallel |
 | Variante C — Mandant will keine Eskalation Folgegeschaeft | Mediation oder Ombudsmann-Verfahren zuerst; Klage danach |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -709,11 +704,10 @@ etwaigen Folgeprozess (§ 74 ZPO).
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 

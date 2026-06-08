@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf`](gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 74 KB) | PDF | [`gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf`](gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -31,6 +31,7 @@ Luftrechtsakte: Airline-Krise, Flugzeugpfandrecht, LBA, Flughafen-Slot, LuftSiG,
 | `08-langgutachten-und-sachentscheidung.md` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
 | `09-ausformuliertes-aussenschreiben.md` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
 | `10-interne-entscheidungsvorlage.md` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Passende Plugins
 

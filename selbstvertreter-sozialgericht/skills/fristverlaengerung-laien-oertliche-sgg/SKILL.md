@@ -7,25 +7,25 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 
 ## Arbeitsbereich
 
-**Fristverlaengerung Laien Oertliche SGG** ordnet den Fall über die tragenden Prüffelder: Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Fristverlaengerung Laien Oertliche SGG** ordnet den Fall über die tragenden Prüfungslinien: Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fristverlaengerung-sozialgericht-laien` | Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten. |
-| `oertliche-zustaendigkeit-57-sgg` | Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden. |
-| `sozialgericht-zustaendigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
-| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
+| `oertliche-zuständigkeit-57-sgg` | Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behörde Sondervorschriften. Wie Sie das richtige SG finden. |
+| `sozialgericht-zuständigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
+| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
 | `widerspruchsfrist-84-sgg` | Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fristverlaengerung-sozialgericht-laien`
 
@@ -41,7 +41,6 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Manche Fristen koennen Sie verlaengern lassen. Andere nicht. Diese Skill zeigt den Unterschied und gibt einen Mustertext.
@@ -53,7 +52,7 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 ## Wann brauchen Sie diese Skill?
 
 - Sie schaffen eine Begruendungsfrist nicht.
-- Sie brauchen Zeit fuer aerztliche Atteste.
+- Sie brauchen Zeit für aerztliche Atteste.
 - Sie wollen Stellungnahme zu einem Gutachten nachreichen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -61,15 +60,15 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 - **Fristverlaengerung**: Verlaengerung einer gesetzten Frist.
 - **Gesetzliche Frist**: Im Gesetz festgelegte Frist (nicht verlaengerbar).
 - **Gerichtliche Frist**: Vom Gericht gesetzte Frist (oft verlaengerbar).
-- **Stellungnahmefrist**: Zeit fuer Antwort auf Schriftsatz / Gutachten.
+- **Stellungnahmefrist**: Zeit für Antwort auf Schriftsatz / Gutachten.
 
 ## Rechtsgrundlagen
 
 - **§ 64 SGG** — Fristen allgemein.
-- **§ 106 SGG** — Anhoerung, Stellungnahme.
+- **§ 106 SGG** — Anhörung, Stellungnahme.
 - **§ 224 ZPO analog** — Fristverlaengerung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, welche Frist es ist
 
@@ -150,7 +149,6 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 
 Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -159,9 +157,9 @@ Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `oertliche-zustaendigkeit-57-sgg`
+## 2. `oertliche-zuständigkeit-57-sgg`
 
-**Fokus:** Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden.
+**Fokus:** Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behörde Sondervorschriften. Wie Sie das richtige SG finden.
 
 # Welches Sozialgericht in welcher Stadt? — § 57 SGG
 
@@ -173,10 +171,9 @@ Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Sie wissen, dass das Sozialgericht zustaendig ist. Aber welches? In Deutschland gibt es viele SG. Diese Skill zeigt, welches fuer Sie zustaendig ist.
+Sie wissen, dass das Sozialgericht zuständig ist. Aber welches? In Deutschland gibt es viele SG. Diese Skill zeigt, welches für Sie zuständig ist.
 
 ## In einfacher Sprache
 
@@ -184,24 +181,24 @@ Es gibt viele Sozialgerichte. Das richtige ist meistens dort, wo Sie wohnen. Wir
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen Klage einreichen und kennen das zustaendige SG nicht.
+- Sie wollen Klage einreichen und kennen das zuständige SG nicht.
 - Sie sind umgezogen.
 - Ihr Bescheid kommt aus einer anderen Stadt.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Oertliche Zustaendigkeit**: Welches SG in welcher Region?
+- **Oertliche Zuständigkeit**: Welches SG in welcher Region?
 - **Wohnsitz**: Wo Sie gemeldet sind und tatsaechlich leben.
-- **Behoerden-Sitz**: Wo die beklagte Behoerde sitzt.
+- **Behörden-Sitz**: Wo die beklagte Behörde sitzt.
 
 ## Rechtsgrundlagen
 
 - **§ 57 Abs. 1 SGG** — Grundsatz: das SG, in dessen Bezirk Sie wohnen.
 - **§ 57 Abs. 2 SGG** — Sondervorschriften (z.B. Berufsgenossenschaft am Sitz der BG).
-- **§ 57a SGG** — Sonderzustaendigkeit fuer Vertragsarzt-Sachen.
-- **§ 98 SGG** — Verweisung bei falscher Zustaendigkeit.
+- **§ 57a SGG** — Sonderzuständigkeit für Vertragsarzt-Sachen.
+- **§ 98 SGG** — Verweisung bei falscher Zuständigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ihren Wohnort pruefen
 
@@ -212,7 +209,7 @@ Wo wohnen Sie? Bei welchem SG das ist, sehen Sie hier:
 
 ### Schritt 2 — Sonderregeln pruefen
 
-- **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behoerde.
+- **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behörde.
 - **Berufsgenossenschaft (SGB VII)**: SG am Sitz der BG (also z.B. Berufsgenossenschaft Rohstoffe und Chemische Industrie in Heidelberg).
 - **Vertragsarzt-Streit**: SG am Sitz der Kassenaerztlichen Vereinigung.
 
@@ -234,25 +231,24 @@ Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist I
 ## Worauf Sie besonders achten muessen
 
 - **Verweisung kostet Zeit.** Direkt richtig adressieren spart Wochen.
-- **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behoerde. Manche Behoerden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
+- **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behörde. Manche Behörden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
 
 ## Typische Fehler
 
-- SG der Behoerde gewaehlt → falsch, wenn Sie woanders wohnen
+- SG der Behörde gewaehlt → falsch, wenn Sie woanders wohnen
 - Klage ans LSG geschickt → erste Instanz ist immer SG
 - Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de pruefen
 
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zustaendigkeit-51-sgg` — sachliche Zustaendigkeit
+- `sozialgericht-zuständigkeit-51-sgg` — sachliche Zuständigkeit
 - `klage-zur-niederschrift-90-sgg` — Klage diktieren
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Klage per Post
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung nach § 98 SGG haelt die Frist.
-
 
 ## Qualitäts-Hardening
 
@@ -262,7 +258,7 @@ Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung na
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 3. `sozialgericht-zustaendigkeit-51-sgg`
+## 3. `sozialgericht-zuständigkeit-51-sgg`
 
 **Fokus:** Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht.
 
@@ -276,42 +272,41 @@ Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung na
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Bevor Sie klagen, muessen Sie wissen: Ist das Sozialgericht ueberhaupt zustaendig? Nicht jeder Streit mit einer Behoerde gehoert dorthin. Manche Sachen gehen vor das Verwaltungsgericht. Andere vor das Arbeitsgericht. Diese Skill hilft Ihnen, das richtige Gericht zu finden.
+Bevor Sie klagen, muessen Sie wissen: Ist das Sozialgericht ueberhaupt zuständig? Nicht jeder Streit mit einer Behörde gehoert dorthin. Manche Sachen gehen vor das Verwaltungsgericht. Andere vor das Arbeitsgericht. Diese Skill hilft Ihnen, das richtige Gericht zu finden.
 
 ## In einfacher Sprache
 
-Es gibt verschiedene Gerichte. Nicht jedes Gericht ist fuer Sie zustaendig. Das Sozialgericht macht Sachen wie Rente und Buergergeld. Wir sagen Ihnen, ob Sie richtig sind.
+Es gibt verschiedene Gerichte. Nicht jedes Gericht ist für Sie zuständig. Das Sozialgericht macht Sachen wie Rente und Buergergeld. Wir sagen Ihnen, ob Sie richtig sind.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie sind unsicher, ob Ihr Fall ans Sozialgericht gehoert.
-- Ihr Bescheid kommt von einer Behoerde, die Sie nicht kennen.
+- Ihr Bescheid kommt von einer Behörde, die Sie nicht kennen.
 - Sie haben eine Klage an das falsche Gericht geschickt.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Sachliche Zustaendigkeit**: Welches Gericht macht das Thema?
-- **Oertliche Zustaendigkeit**: Welches Gericht in welcher Stadt? (Siehe `oertliche-zustaendigkeit-57-sgg`.)
+- **Sachliche Zuständigkeit**: Welches Gericht macht das Thema?
+- **Oertliche Zuständigkeit**: Welches Gericht in welcher Stadt? (Siehe `oertliche-zuständigkeit-57-sgg`.)
 - **Verweisung**: Wenn Sie beim falschen Gericht sind, schickt das Gericht den Fall weiter (§ 98 SGG i.V.m. § 17a GVG).
 
 ## Rechtsgrundlagen
 
 - **§ 51 SGG** — Was ist Sozialgerichtsbarkeit?
-- **§ 98 SGG** — Verweisung bei falscher Zustaendigkeit.
+- **§ 98 SGG** — Verweisung bei falscher Zuständigkeit.
 - **§ 17a GVG** — Verfahren der Verweisung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, was im Bescheid steht
 
-Im Bescheid steht oft, welches Gericht zustaendig ist (Rechtsbehelfsbelehrung). Vertrauen Sie der Belehrung, wenn sie da steht.
+Im Bescheid steht oft, welches Gericht zuständig ist (Rechtsbehelfsbelehrung). Vertrauen Sie der Belehrung, wenn sie da steht.
 
-### Schritt 2 — Themen-Liste fuer das Sozialgericht
+### Schritt 2 — Themen-Liste für das Sozialgericht
 
-Das Sozialgericht ist zustaendig fuer:
+Das Sozialgericht ist zuständig für:
 
 - **Krankenversicherung** (SGB V): Kassenpflichten, Krankengeld, Leistungsablehnungen
 - **Pflegeversicherung** (SGB XI): Pflegegrad, Pflegeleistungen
@@ -357,14 +352,13 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `oertliche-zustaendigkeit-57-sgg` — welches SG in Ihrer Stadt
+- `oertliche-zuständigkeit-57-sgg` — welches SG in Ihrer Stadt
 - `sozialleistungen-uebersicht-sgb` — alle Sozialleistungen
 - `klagearten-uebersicht-sgg` — welche Klage passt
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Pruefen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.
-
 
 ## Qualitäts-Hardening
 
@@ -376,7 +370,7 @@ Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialg
 
 ## 4. `widerspruch-vorverfahren-78-sgg`
 
-**Fokus:** Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prüft und wie das Ganze ablaeuft. Mit Mustertext.
+**Fokus:** Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext.
 
 # Das Widerspruchsverfahren — § 78 SGG
 
@@ -388,14 +382,13 @@ Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialg
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Bevor Sie zum Sozialgericht gehen koennen, muessen Sie der Behoerde noch eine Chance geben. Das nennt man Vorverfahren oder Widerspruchsverfahren. Sie schreiben einen Widerspruch, die Behoerde prueft selbst noch einmal — und sagt Ja oder Nein. Erst dann koennen Sie klagen.
+Bevor Sie zum Sozialgericht gehen koennen, muessen Sie der Behörde noch eine Chance geben. Das nennt man Vorverfahren oder Widerspruchsverfahren. Sie schreiben einen Widerspruch, die Behörde prueft selbst noch einmal — und sagt Ja oder Nein. Erst dann koennen Sie klagen.
 
 ## In einfacher Sprache
 
-Vor der Klage kommt der Widerspruch. Sie sagen der Behoerde: Bitte pruefen Sie nochmal. Das ist Pflicht. Erst danach duerfen Sie klagen. Wir zeigen, wie das geht.
+Vor der Klage kommt der Widerspruch. Sie sagen der Behörde: Bitte pruefen Sie nochmal. Das ist Pflicht. Erst danach duerfen Sie klagen. Wir zeigen, wie das geht.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -405,10 +398,10 @@ Vor der Klage kommt der Widerspruch. Sie sagen der Behoerde: Bitte pruefen Sie n
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Vorverfahren**: Die Phase zwischen Bescheid und Klage. Behoerde prueft selbst nochmal.
+- **Vorverfahren**: Die Phase zwischen Bescheid und Klage. Behörde prueft selbst nochmal.
 - **Ausgangsbescheid**: Der erste Bescheid, gegen den Sie sich wehren.
 - **Widerspruchsbescheid**: Die Entscheidung der Widerspruchsstelle. Erst danach koennen Sie klagen.
-- **Abhilfebescheid**: Wenn die Behoerde Ihnen ganz oder teilweise zustimmt.
+- **Abhilfebescheid**: Wenn die Behörde Ihnen ganz oder teilweise zustimmt.
 
 ## Rechtsgrundlagen
 
@@ -416,10 +409,10 @@ Vor der Klage kommt der Widerspruch. Sie sagen der Behoerde: Bitte pruefen Sie n
 - **§ 78 Abs. 1 S. 2 Nr. 1 SGG** — Ausnahmen (z.B. wenn ein Gesetz das Vorverfahren ausschliesst).
 - **§§ 83 ff. SGG** — Verfahren des Widerspruchs.
 - **§ 84 SGG** — Frist (1 Monat, siehe `widerspruchsfrist-84-sgg`).
-- **§ 85 SGG** — Wenn Behoerde abhilft.
+- **§ 85 SGG** — Wenn Behörde abhilft.
 - **§ 86a SGG** — Aufschiebende Wirkung des Widerspruchs.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid lesen und Datum notieren
 
@@ -427,13 +420,13 @@ Schreiben Sie auf den Bescheid: "Eingegangen am [Datum]". Pruefen Sie, ob eine R
 
 ### Schritt 2 — Widerspruch schriftlich verfassen
 
-Adressat ist die Behoerde, die den Bescheid erlassen hat — NICHT das Gericht. Beispiel:
+Adressat ist die Behörde, die den Bescheid erlassen hat — NICHT das Gericht. Beispiel:
 
 ```
 [Ihr Name]
 [Ihre Adresse]
 
-[Behoerde mit Adresse] [Ort, Datum]
+[Behörde mit Adresse] [Ort, Datum]
 
 Az: [aus dem Bescheid uebernehmen]
 Betr: Bescheid vom [Datum], zugegangen am [Datum]
@@ -459,9 +452,9 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Versand und Beweis
 
 - **Einschreiben mit Rueckschein** (sicherster Weg)
-- **Persoenliche Abgabe** mit Empfangsstempel der Behoerde
+- **Persoenliche Abgabe** mit Empfangsstempel der Behörde
 - **Fax mit Sendebericht** (sicher, aber Sendebericht aufheben)
-- **Mein Justizpostfach (MJP)** seit 2024 fuer Buerger
+- **Mein Justizpostfach (MJP)** seit 2024 für Buerger
 
 ### Schritt 4 — Begruendung nachreichen
 
@@ -469,13 +462,13 @@ Nicht zwingend sofort. Sie koennen erst Akteneinsicht beantragen (§ 25 SGB X) u
 
 ### Schritt 5 — Auf Antwort warten
 
-- **Abhilfe** § 85 Abs. 1 SGG: Behoerde gibt Ihnen Recht. Fertig.
-- **Teilabhilfe**: Behoerde gibt teilweise Recht. Sie koennen weiterklagen.
-- **Widerspruchsbescheid** § 85 Abs. 2 SGG: Behoerde lehnt ab. Jetzt koennen Sie klagen.
+- **Abhilfe** § 85 Abs. 1 SGG: Behörde gibt Ihnen Recht. Fertig.
+- **Teilabhilfe**: Behörde gibt teilweise Recht. Sie koennen weiterklagen.
+- **Widerspruchsbescheid** § 85 Abs. 2 SGG: Behörde lehnt ab. Jetzt koennen Sie klagen.
 
 ### Schritt 6 — Untaetigkeit
 
-Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen Sie Untaetigkeitsklage erheben. Siehe `untaetigkeitsklage-88-sgg`.
+Wenn die Behörde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen Sie Untaetigkeitsklage erheben. Siehe `untaetigkeitsklage-88-sgg`.
 
 ## Worauf Sie besonders achten muessen
 
@@ -485,7 +478,7 @@ Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 
 ## Typische Fehler
 
-- Widerspruch ans Gericht statt an die Behoerde → Behoerde nutzen
+- Widerspruch ans Gericht statt an die Behörde → Behörde nutzen
 - Nur Telefon-Anruf → schriftlich machen
 - Begruendung zu kurz, ohne Frist halten → Frist hat Vorrang
 - Falsches Datum verwendet → Bekanntgabedatum, nicht Bescheidsdatum
@@ -501,8 +494,7 @@ Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion fuer Bekanntgabe seit 1.1.2025 (PostModG, § 37 Abs. 2 SGB X). Vorher: drei Tage.
-
+Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion für Bekanntgabe seit 1.1.2025 (PostModG, § 37 Abs. 2 SGB X). Vorher: drei Tage.
 
 ## Qualitäts-Hardening
 
@@ -525,7 +517,6 @@ Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion fuer Bekanntgabe seit 1.1.2025 (P
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -551,12 +542,12 @@ Sie haben einen Monat Zeit. Aber: ab wann? Der Brief ist am vierten Tag nach Auf
 ## Rechtsgrundlagen
 
 - **§ 84 Abs. 1 S. 1 SGG** — Widerspruchsfrist ein Monat ab Bekanntgabe.
-- **§ 37 Abs. 2 SGB X (n.F.)** — Vier-Tage-Fiktion seit 1.1.2025 (PostModG); fuer Aufgabe zur Post vor 1.1.2025: drei Tage a.F.
+- **§ 37 Abs. 2 SGB X (n.F.)** — Vier-Tage-Fiktion seit 1.1.2025 (PostModG); für Aufgabe zur Post vor 1.1.2025: drei Tage a.F.
 - **§ 64 SGG** — Fristberechnung (auf § 187 BGB verweisend).
 - **§ 64 Abs. 3 SGG** — Verlaengerung auf naechsten Werktag, wenn Wochenende/Feiertag.
 - **§ 66 SGG** — Wenn keine ordentliche Rechtsbehelfsbelehrung dabei: 1 Jahr Frist.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Datum auf dem Bescheid finden
 
@@ -596,7 +587,7 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 
 ## Worauf Sie besonders achten muessen
 
-- **Keine ordentliche Rechtsbehelfsbelehrung im Bescheid** → 1 Jahr Frist (§ 66 SGG). Pruefen Sie genau, ob die Belehrung vollstaendig und richtig ist (Behoerde, Frist, Form).
+- **Keine ordentliche Rechtsbehelfsbelehrung im Bescheid** → 1 Jahr Frist (§ 66 SGG). Pruefen Sie genau, ob die Belehrung vollstaendig und richtig ist (Behörde, Frist, Form).
 - **Tatsaechlicher Zugang**: Wenn Sie nachweisen koennen, dass der Brief erst spaeter angekommen ist (Urlaub, Krankheit, Postfehler), gilt der spaetere Zugang. Aber der Beweis liegt bei Ihnen.
 - **PostModG-Wechsel**: Aufgabe zur Post vor dem 1.1.2025 → 3-Tage-Fiktion alt. Aufgabe ab 1.1.2025 → 4-Tage-Fiktion neu. Pruefen Sie das Bescheid-Datum.
 
@@ -618,7 +609,6 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 hat die Drei-Tage-Fiktion auf vier Tage geaendert. § 37 Abs. 2 SGB X n.F. Wer mit alten Bescheiden arbeitet, muss Tage zaehlen. Bei Unsicherheit Geschaeftsstelle anrufen.
-
 
 ## Qualitäts-Hardening
 

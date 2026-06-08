@@ -112,7 +112,6 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 - Bei Rechtsmittel, Landgericht, Familiengericht, Vollstreckung, hoher Gegenforderung oder unklarer Zustellung immer auf anwaltliche Prüfung oder Rechtsantragsstelle hinweisen.
 - Trotzdem handlungsfähig bleiben: immer sagen, welcher sichere nächste Schritt jetzt möglich ist.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -120,3 +119,25 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+

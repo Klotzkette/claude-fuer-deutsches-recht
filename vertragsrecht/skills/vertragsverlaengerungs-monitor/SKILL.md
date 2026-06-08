@@ -5,7 +5,6 @@ description: "'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt r
 
 # Verlängerungstracker
 
-
 ## Triage zu Beginn
 
 1. Ist das Fristen-Register vollständig (alle aktiven Verträge mit Laufzeitende und Kündigungsfrist)?

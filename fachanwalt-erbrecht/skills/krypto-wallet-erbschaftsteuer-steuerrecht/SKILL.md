@@ -7,23 +7,23 @@ description: "Krypto Wallet Erbschaftsteuer Steuerrecht im Plugin Fachanwalt Erb
 
 ## Arbeitsbereich
 
-**Krypto Wallet Erbschaftsteuer Steuerrecht** ordnet den Fall über die tragenden Prüffelder: Krypto-Vermögenswerte und digitale Wallets im Erbfall, Erbschaftsteuer, Steuerrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Krypto Wallet Erbschaftsteuer Steuerrecht** ordnet den Fall über die tragenden Prüfungslinien: Krypto-Vermögenswerte und digitale Wallets im Erbfall, Erbschaftsteuer, Steuerrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig` | Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen. §§ 1922 1967 BGB digitale Nachlasswerte. Prüfraster: Wallet-Zugang Private Keys Multi-Sig Wertermittlung Steuer Erbschaft Sicherung. Output: Sicherungsplan Übergabe-Anleitung Steuerhinweise. Abgrenzung: nicht für allgemeine Nachlassaufnahme. |
-| `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Erbrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig`
 
@@ -39,7 +39,6 @@ description: "Krypto Wallet Erbschaftsteuer Steuerrecht im Plugin Fachanwalt Erb
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Mandantenfragen beim Kaltstart
 
 1. In welcher Wallet-Form sind die Krypto-Assets gespeichert — Hardware-Wallet (Ledger, Trezor), Software-Wallet, Custodial Exchange (Coinbase, Binance, Kraken) oder Multi-Signature-Wallet?
@@ -50,7 +49,7 @@ description: "Krypto Wallet Erbschaftsteuer Steuerrecht im Plugin Fachanwalt Erb
 6. Hat der Exchange Kenntnis vom Erbfall? Wurden Zugangssperrungen vorgenommen?
 7. Wie hoch ist der Anschaffungswert (relevant für § 23 EStG Spekulationsgewinnsteuer)?
 8. Gibt es Hinweise auf Smart-Contract-gebundene Assets (DeFi Liquidity Pools, Staking-Verträge)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -124,7 +123,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Prüfschema — Nachlassbearbeitung Krypto-Assets
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -249,7 +247,6 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Partei | Beweislastgegenstand | Beweismittel |
@@ -320,7 +317,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 ## 2. `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Erbschaftsteuer: Verhandlung, Vergleich und Eskalation
 
@@ -332,13 +329,8 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Erbschaftsteuer: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Erbschaftsteuer: Verhandlung, Vergleich und Eskalation / erbschaftsteuer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -370,7 +362,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-steuerrecht-compliance-dokumentation-und-akte`
 
-**Fokus:** Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Steuerrecht: Compliance-Dokumentation und Aktenvermerk
 
@@ -382,13 +374,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Steuerrecht: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Steuerrecht: Compliance-Dokumentation und Aktenvermerk / steuerrecht compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

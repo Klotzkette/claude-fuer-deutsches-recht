@@ -30,7 +30,7 @@ Jede Anspruchsnorm hat **Tatbestandsmerkmale** — das sind die Voraussetzungen,
 - **§ 286 BGB** — Verzug.
 - **§ 812 BGB** — Bereicherung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Norm im Gesetzbuch nachschlagen
 
@@ -125,7 +125,7 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 ## Worauf Sie besonders achten muessen
 
 - **Jedes Merkmal zaehlt** — auch das "kleinste" Merkmal kann den Prozess kippen.
-- **Beweismittel pro Merkmal** — nicht nur ein Beweis fuer alles.
+- **Beweismittel pro Merkmal** — nicht nur ein Beweis für alles.
 - **Beweislast pruefen**: Wer beweist?
 - **Indizien sammeln**: Bei schlechter Beweis-Lage Hilfstatsachen sammeln.
 
@@ -146,7 +146,6 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
-
 
 ## Qualitäts-Hardening
 

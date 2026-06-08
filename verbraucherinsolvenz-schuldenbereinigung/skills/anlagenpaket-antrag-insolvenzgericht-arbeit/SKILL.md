@@ -7,36 +7,34 @@ description: "Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucheri
 
 ## Arbeitsbereich
 
-**Anlagenpaket Antrag Insolvenzgericht Arbeit** ordnet den Fall über die tragenden Prüffelder: Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anlagenpaket Antrag Insolvenzgericht Arbeit** ordnet den Fall über die tragenden Prüfungslinien: Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `anlagenpaket-fuer-gericht` | Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `antrag-insolvenzgericht` | Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `arbeit-wechsel-und-mehrverdienst` | Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `anlagenpaket-für-gericht` | Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `antrag-insolvenzgericht` | Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `arbeit-wechsel-und-mehrverdienst` | Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `anlagenpaket-fuer-gericht`
+## 1. `anlagenpaket-für-gericht`
 
-**Fokus:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
 
 ## Fachkern: Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
-- **Spezialgegenstand:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -68,16 +66,14 @@ InsO § 305 Abs. 1. Entscheidend ist immer der aktuelle Normstand der InsO, die 
 
 ## 2. `antrag-insolvenzgericht`
 
-**Fokus:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
 
 ## Fachkern: Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
-- **Spezialgegenstand:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -109,16 +105,14 @@ InsO §§ 305, 287, 4a. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 ## 3. `arbeit-wechsel-und-mehrverdienst`
 
-**Fokus:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
 
 ## Fachkern: Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
-- **Spezialgegenstand:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -147,3 +141,16 @@ InsO § 295; ZPO § 850c. Entscheidend ist immer der aktuelle Normstand der InsO
 ## Ergebnisformate
 
 - Unterlagenliste, Gläubigertabelle, Planentwurf, Anschreiben, Gerichtsantrag-Check, P-Konto-Notfallplan, Red-Team-Vermerk oder Laienerklärung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

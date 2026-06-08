@@ -1,6 +1,6 @@
 ---
 name: mandat-erstgespraech-normenkontrolle
-description: "Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorlaeufige Erfolgsaussichten Kostenaufklärung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo."
+description: "Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorläufige Erfolgsaussichten Kostenaufklärung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo."
 ---
 
 # Erstgespräch Normenkontroll-Mandat

@@ -134,6 +134,24 @@ Kaltstartfragen:
 - Kooperationsschreiben aus Vorjahr — Reviewer notiert "Kooperation alt".
 - Publikationsverzeichnis 30 Seiten — fokussiert wirkt 5 bis 10 Seiten mit relevanten Treffern.
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Sachbeihilfe und elan-Formalia**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 | Abschnitt | Ergebnis |

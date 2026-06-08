@@ -7,10 +7,10 @@ description: "RED Team Rentenluecke Rentnerfall Beide im Plugin Fachanwalt Famil
 
 ## Arbeitsbereich
 
-**RED Team Rentenluecke Rentnerfall Beide** ordnet den Fall über die tragenden Prüffelder: Red-Team VA-Beschluss rechnerisch, Rentenlücke nach Scheidung Handlungsoptionen, Rentnerfall beide beziehen Rente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**RED Team Rentenluecke Rentnerfall Beide** ordnet den Fall über die tragenden Prüfungslinien: Red-Team VA-Beschluss rechnerisch, Rentenlücke nach Scheidung Handlungsoptionen, Rentnerfall beide beziehen Rente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `red-team-va-beschluss-rechnerisch` | Red-Team VA-Beschluss rechnerisch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `rentenluecke-nach-scheidung-handlungsoptionen` | Rentenlücke nach Scheidung Handlungsoptionen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -20,12 +20,12 @@ description: "RED Team Rentenluecke Rentnerfall Beide im Plugin Fachanwalt Famil
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Familienrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `red-team-va-beschluss-rechnerisch`
 
@@ -41,16 +41,13 @@ description: "RED Team Rentenluecke Rentnerfall Beide im Plugin Fachanwalt Famil
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Red-Team VA-Beschluss rechnerisch
-- **Spezialgegenstand:** Red-Team VA-Beschluss rechnerisch. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Red-Team VA-Beschluss rechnerisch** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -95,16 +92,13 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Rentenlücke nach Scheidung Handlungsoptionen
-- **Spezialgegenstand:** Rentenlücke nach Scheidung Handlungsoptionen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Rentenlücke nach Scheidung Handlungsoptionen** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -149,16 +143,13 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Rentnerfall beide beziehen Rente
-- **Spezialgegenstand:** Rentnerfall beide beziehen Rente. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Rentnerfall beide beziehen Rente** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -203,16 +194,13 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Riester Rürup Versorgungsausgleich
-- **Spezialgegenstand:** Riester Rürup Versorgungsausgleich. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Riester Rürup Versorgungsausgleich** im Bereich **Fachanwalt Familienrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Familienrecht mit besonderer Vertiefung Versorgungsausgleich, Scheidung, Unterhalt, Zugewinn, Kindschaftssachen und FamFG-Verfahren.
 
@@ -257,13 +245,10 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Schriftsatzkern und Substantiierung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
-- **Spezialgegenstand:** Schriftsatzkern und Substantiierung im Familien-, Kindschafts- und Versorgungsausgleichsrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Aktuelle Rechtsprechung (Schriftsatz-Substantiierung Familienrecht)
 
@@ -284,7 +269,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -346,7 +331,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -354,7 +339,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Familien-, Kindschafts- und Versorgungsausgleichsrecht.
 - §§ 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -365,7 +350,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
@@ -391,7 +375,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Familien-, Kindschafts- und Versorgungsausgleichsrecht (Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -423,7 +407,7 @@ Typische Antraege in Familien-, Kindschafts- und Versorgungsausgleichsrecht (Sch
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -458,5 +442,5 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).

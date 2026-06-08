@@ -7,14 +7,13 @@ description: "Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen: Kau
 
 Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen AGB, die widersprechen sich.
 
-
 ## Triage zu Beginn
 
 1. Haben beide Parteien bei Vertragsschluss auf ihre eigenen AGB verwiesen?
 2. Handelt es sich um B2B oder B2C — nur B2B kommt AGB-Kollision in Betracht?
 3. Welche konkreten Klauseln kollidieren (Rechtswahlklausel, Gerichtsstand, Haftungsbeschränkung)?
 4. Wie haben die Parteien den Vertrag danach vollzogen — ist ein Vertrag zustande gekommen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 
@@ -31,7 +30,6 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -54,7 +52,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template
 
 **Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
@@ -67,7 +64,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

@@ -7,40 +7,36 @@ description: "KI Medizinprodukt Klinische CTR im Medizinrecht: prüft konkret KI
 
 ## Arbeitsbereich
 
-**KI Medizinprodukt Klinische CTR** ordnet den Fall über die tragenden Prüffelder: KI-Medizinprodukt High-Risk, Klinische Prüfung CTR/AMG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**KI Medizinprodukt Klinische CTR** ordnet den Fall über die tragenden Prüfungslinien: KI-Medizinprodukt High-Risk, Klinische Prüfung CTR/AMG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `ki-medizinprodukt-highrisk` | KI-Medizinprodukt High-Risk: moderner Medizinrechts-Skill für KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `klinische-pruefung-ctr-amg` | Klinische Prüfung CTR/AMG: moderner Medizinrechts-Skill für Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `ki-medizinprodukt-highrisk`
 
 **Fokus:** KI-Medizinprodukt High-Risk: moderner Medizinrechts-Skill für KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # KI-Medizinprodukt High-Risk
 
 ## Fachkern: KI-Medizinprodukt High-Risk
-- **Spezialgegenstand:** KI-Medizinprodukt High-Risk wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: KI-Medizinprodukt High-Risk** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung.
 
@@ -79,7 +75,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Nützliche Startquellen
 
-- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-für-alle
 - BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
 - EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
 - BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
@@ -90,19 +86,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Klinische Prüfung CTR/AMG: moderner Medizinrechts-Skill für Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Klinische Prüfung CTR/AMG
 
 ## Fachkern: Klinische Prüfung CTR/AMG
-- **Spezialgegenstand:** Klinische Prüfung CTR/AMG wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Klinische Prüfung CTR/AMG** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR.
 

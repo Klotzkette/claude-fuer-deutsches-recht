@@ -28,7 +28,7 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 309 Nr. 12 BGB (Beweislast) und § 308 Nr. 6 BGB (Zugangsfiktion):**
  - **§ 309 Nr. 12 BGB - Beweislast:** Eine Klausel, durch die der Verwender die Beweislast zum Nachteil des Kunden aendert, ist unwirksam. Hierunter fallen insbesondere:
- - **lit. a:** Klausel, die dem Kunden die Beweislast fuer Umstaende auferlegt, die im Verantwortungsbereich des Verwenders liegen.
+ - **lit. a:** Klausel, die dem Kunden die Beweislast für Umstaende auferlegt, die im Verantwortungsbereich des Verwenders liegen.
  - **lit. b:** Klausel, durch die der Kunde bestimmte Tatsachen bestaetigt (z.B. "Kunde bestaetigt vollstaendige Information").
  - **Konkrete Beispiele unwirksamer Klauseln:**
  - "Der Anspruch des Kunden auf Mangelbeseitigung setzt voraus, dass er den Mangel innerhalb von 14 Tagen anzeigt" (Beweislastumkehr).
@@ -45,13 +45,13 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 
 ### Mustertext (zulaessige Anschriftenklausel)
 
-> Erklaerungen des Anbieters sind dem Kunden an die zuletzt mitgeteilte Anschrift zu senden. Der Kunde verpflichtet sich, Adressaenderungen rechtzeitig in Textform mitzuteilen. Unterlaesst der Kunde die Mitteilung schuldhaft, gehen Erklaerungen ihm in dem Zeitpunkt zu, in dem sie ohne die Anschriftenaenderung zugegangen waeren. Diese Regelung gilt nicht fuer Kuendigungen und sonstige Erklaerungen mit besonderer rechtlicher Bedeutung.
+> Erklaerungen des Anbieters sind dem Kunden an die zuletzt mitgeteilte Anschrift zu senden. Der Kunde verpflichtet sich, Adressaenderungen rechtzeitig in Textform mitzuteilen. Unterlaesst der Kunde die Mitteilung schuldhaft, gehen Erklaerungen ihm in dem Zeitpunkt zu, in dem sie ohne die Anschriftenaenderung zugegangen waeren. Diese Regelung gilt nicht für Kuendigungen und sonstige Erklaerungen mit besonderer rechtlicher Bedeutung.
 
 ## Aktuelle BGH-Linie zu Beweislast und Zugang
 
 ### Norm
 - § 309 Nr. 12 BGB Aenderung der Beweislast zum Nachteil des Vertragspartners ist unwirksam.
-- § 309 Nr. 13 BGB Strengere Form als die Textform fuer Anzeigen oder Erklaerungen.
+- § 309 Nr. 13 BGB Strengere Form als die Textform für Anzeigen oder Erklaerungen.
 
 ### Schriftformklauseln
 - Schriftform statt Textform: gemaess § 309 Nr. 13 BGB unwirksam, soweit AGB strengere Anforderungen vorsehen, als das Gesetz vorschreibt.

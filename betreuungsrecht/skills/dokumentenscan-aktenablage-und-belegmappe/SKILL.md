@@ -57,6 +57,24 @@ Bei Uploads:
 5. Lücken nennen: fehlende Seiten, unleserliche Stellen, fehlende Anlagen.
 6. Nächsten Skill routen: Jahresbericht, Vermögensverzeichnis, Genehmigung, Kontoanalyse oder Gerichtskommunikation.
 
+## Normenanker
+
+Arbeitsfokus: **Dokumentenscan, Aktenablage und Belegmappe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Betreuerauswahl.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — Anhörung.
+- `§ 280 FamFG` — Gutachten.
+- `§ 5 BtOG` — Beratung.
+- `§ 8 BtOG` — Betreuungsvermeidung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - `Aktenindex`

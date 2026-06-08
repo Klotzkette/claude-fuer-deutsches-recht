@@ -1,35 +1,35 @@
 ---
 name: dsfa-edpb-leitlinien-erstellung
-description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkret Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO, DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkret Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO, DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Dsfa Edpb Leitlinien Erstellung
 
 ## Arbeitsbereich
 
-**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüffelder: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüfungslinien: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `dsfa-edpb-leitlinien-9-19-anwendung` | Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien fuer voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis. |
+| `dsfa-edpb-leitlinien-9-19-anwendung` | Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis. |
 | `dsfa-erstellung` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko. |
-| `dsfa-fuer-internationale-datentransfers` | DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion fuer Drittlandbezug. |
-| `dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo` | DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept. |
+| `dsfa-für-internationale-datentransfers` | DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug. |
+| `dsfa-für-ki-systeme-schnittstelle-art-26-kivo` | DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept. |
 | `dsfa-methodik-cnil-pia-vs-bsfd-bsi` | Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenueber dem BSI Standard-Datenschutzmodell (SDM) und dem BSFD-Ansatz. Output: Methodenwahl mit Begruendung, Anwendungshinweisen und Werkzeugauswahl. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `dsfa-edpb-leitlinien-9-19-anwendung`
 
-**Fokus:** Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien fuer voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis.
+**Fokus:** Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis.
 
 # Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
 
@@ -46,9 +46,9 @@ Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.
 
 ## Rechtlicher Rahmen
 
-- EDPB-/EDSA-Leitlinien WP 248 rev.01 (Artikel-29-Gruppe, von EDSA uebernommen): neun Kriterien fuer voraussichtlich hohes Risiko.
+- EDPB-/EDSA-Leitlinien WP 248 rev.01 (Artikel-29-Gruppe, von EDSA uebernommen): neun Kriterien für voraussichtlich hohes Risiko.
 - Art. 35 Abs. 1 DSGVO Generalklausel — die WP-248-Kriterien konkretisieren den Tatbestand.
-- Art. 35 Abs. 2 DSGVO Anhoerung des DSB.
+- Art. 35 Abs. 2 DSGVO Anhörung des DSB.
 - Art. 70 Abs. 1 lit. e DSGVO Aufgabe des EDSA zur Konkretisierung.
 
 ## Die neun WP-248-Kriterien
@@ -56,7 +56,7 @@ Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.
 1. Bewertung oder Scoring (einschliesslich Profiling und Prognose)
 2. Automatisierte Entscheidung mit rechtlicher oder aehnlich erheblicher Wirkung (Art. 22 DSGVO)
 3. Systematische Ueberwachung
-4. Sensible Daten oder hoechstpersoenliche Daten (Art. 9, Art. 10 DSGVO; auch Standortdaten, Finanzdaten, Kommunikationsinhalte)
+4. Sensible Daten oder hoechstpersönliche Daten (Art. 9, Art. 10 DSGVO; auch Standortdaten, Finanzdaten, Kommunikationsinhalte)
 5. Verarbeitung in grossem Umfang (Anzahl Betroffene, Datenmenge, Dauer, geografische Reichweite)
 6. Abgleich oder Zusammenfuehrung von Datensaetzen aus unterschiedlichen Quellen
 7. Daten ueber schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte, Asylsuchende, aeltere Menschen)
@@ -107,7 +107,7 @@ Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
 ```
 
-## Indikatoren fuer Kriterium 5 (grosser Umfang)
+## Indikatoren für Kriterium 5 (grosser Umfang)
 
 - Anzahl Betroffener absolut und relativ zur Bevoelkerung der Zielregion.
 - Datenmenge pro Betroffenem (Datensaetze, Bytes, Dokumente).
@@ -132,14 +132,14 @@ Unterschrift DSB: ____________________
 - Begruendung wird in Floskeln gehalten — Aufsicht erwartet faktenfeste Subsumtion.
 - Die Zahl 2 wird als starre Schwelle verstanden — Art. 35 Abs. 1 DSGVO kennt auch das Einzelkriterium, wenn dessen Intensitaet hoch ist.
 - Negativabgrenzung fehlt — wenn Kriterium nicht erfuellt ist, muss auch das begruendet werden.
-- Mehrfachzaehlung (ein Sachverhalt fuer zwei Kriterien) ohne Begruendung.
+- Mehrfachzaehlung (ein Sachverhalt für zwei Kriterien) ohne Begruendung.
 
 ## Querverweise
 
 - `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md` — Trigger-Gesamtpruefung
 - `datenschutzrecht/skills/dsfa-bfdi-und-laender-blacklist/SKILL.md` — Listenabgleich
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse-Methodik
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA-Schnittstelle
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA-Schnittstelle
 - `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026
@@ -147,7 +147,7 @@ Unterschrift DSB: ____________________
 - EDSA-/EDPB-Leitlinien WP 248 rev.01 — neun Kriterien
 - Art. 35 Abs. 1, 2, 3 DSGVO
 - Art. 70 Abs. 1 lit. e DSGVO
-- EDSA-Stellungnahme 28/2024 zu KI-Modellen — Auslegungshilfe fuer Kriterium 8
+- EDSA-Stellungnahme 28/2024 zu KI-Modellen — Auslegungshilfe für Kriterium 8
 - BfDI- und Landeslisten (live pruefen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
@@ -260,10 +260,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — DSFA fuer neue Verarbeitung durchfuehren | Schwellenwertanalyse und vollstaendige DSFA nach Template unten |
+| Standard — DSFA für neue Verarbeitung durchfuehren | Schwellenwertanalyse und vollstaendige DSFA nach Template unten |
 | Variante A — Verarbeitung schon laeuft ohne DSFA | Nachtraegliche DSFA; Massnahmen-Umsetzungsplan erstellen |
 | Variante B — Ergebnis der DSFA negativ (hohes Restrisiko) | Verarbeitung anpassen oder Aufsichtsbehoerde konsultieren |
-| Variante C — DSFA fuer mehrere aehnliche Verarbeitungen | Muster-DSFA-Dokument erstellen; individuell anpassen |
+| Variante C — DSFA für mehrere aehnliche Verarbeitungen | Muster-DSFA-Dokument erstellen; individuell anpassen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -317,9 +317,9 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 
 ## Faktische Updates (Stand 05/2026)
 
-- **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Ab 02.08.2026 muessen Betreiber bestimmter Hochrisiko-KI-Systeme (oeffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditwuerdigkeitsbewertung, Kranken-/Lebensversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung (Fundamental Rights Impact Assessment, FRIA) durchfuehren. DSFA und FRIA koennen integriert werden, sind aber rechtlich eigenstaendig. Quelle: VO (EU) 2024/1689, Art. 27.
+- **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Ab 02.08.2026 muessen Betreiber bestimmter Hochrisiko-KI-Systeme (öffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditwuerdigkeitsbewertung, Kranken-/Lebensversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung (Fundamental Rights Impact Assessment, FRIA) durchfuehren. DSFA und FRIA koennen integriert werden, sind aber rechtlich eigenstaendig. Quelle: VO (EU) 2024/1689, Art. 27.
 - **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** verbindliche Auslegungshilfe zur DSGVO-Bewertung von KI-Modellen und KI-Diensten, insb. zu personenbezogenen Daten in Modell-Gewichten und Training. Quelle: edpb.europa.eu.
-- **BfDI-/LfDI-Blacklist Art. 35 Abs. 4 DSGVO:** Aktuelle Liste verpflichtender DSFA-Faelle live ueber bfdi.bund.de pruefen; auch Landesdatenschutzbehoerden veroeffentlichen Listen (z.B. LfDI BW, LDA Bayern).
+- **BfDI-/LfDI-Blacklist Art. 35 Abs. 4 DSGVO:** Aktuelle Liste verpflichtender DSFA-Faelle live ueber bfdi.bund.de pruefen; auch Landesdatenschutzbehoerden veröffentlichen Listen (z.B. LfDI BW, LDA Bayern).
 - **Art. 36 DSGVO Vorab-Konsultation:** Bei Restrisiko nach DSFA Pflicht zur Konsultation der Aufsichtsbehoerde. Frist 8 Wochen, Verlaengerung 6 Wochen moeglich.
 
 ## Triage zu Beginn
@@ -328,7 +328,7 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 2. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)
 3. Ist die Verarbeitung auf der BfDI-Blacklist?
 4. Gibt es ein Hausformat in CLAUDE.md?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — DSFA-Zusammenfassung
 
@@ -366,9 +366,9 @@ Datum: [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## 3. `dsfa-fuer-internationale-datentransfers`
+## 3. `dsfa-für-internationale-datentransfers`
 
-**Fokus:** DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion fuer Drittlandbezug.
+**Fokus:** DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug.
 
 # DSFA bei internationalen Datentransfers
 
@@ -380,7 +380,7 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 
 - Bei Auftragsverarbeiter mit Sitz oder Unterauftrag im Drittland
 - Bei eigener Niederlassung im Drittland
-- Bei US-Cloud-Diensten (auch bei EU-Hosting wegen Zugriffsmoeglichkeit US-Behoerden)
+- Bei US-Cloud-Diensten (auch bei EU-Hosting wegen Zugriffsmoeglichkeit US-Behörden)
 - Bei Konzernintern-Transfers ueber Landesgrenzen
 - Bei KI-Anbietern mit Training oder Inferenz im Drittland
 - Bei nationalen Sicherheitsgesetzen des Drittlands (z. B. CLOUD Act, FISA 702, China DSL)
@@ -391,7 +391,7 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 - Art. 45 DSGVO Angemessenheitsbeschluss der Kommission.
 - Art. 46 DSGVO geeignete Garantien (SCC, BCR, Verhaltensregeln, Zertifizierungen).
 - Art. 47 DSGVO Binding Corporate Rules.
-- Art. 49 DSGVO Ausnahmen fuer besondere Faelle (Einwilligung, Vertragserfuellung, oeffentliche Interessen).
+- Art. 49 DSGVO Ausnahmen für besondere Faelle (Einwilligung, Vertragserfuellung, öffentliche Interessen).
 - Schrems II — EuGH Urt. v. 16.07.2020, C-311/18 — Transfer-Pruefungspflicht; TIA erforderlich. (Aktenzeichen verifiziert; sonstige Folgeentscheidungen verifizierungspflichtig.)
 - EDSA Leitlinien 04/2022 zu personenbezogenen Datentransfers (Nutzer sollte Aktualitaet prüfen).
 - Angemessenheitsbeschluss EU-US Data Privacy Framework (DPF) 10.07.2023, Implementing Decision (EU) 2023/1795.
@@ -400,16 +400,16 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Daten gehen wohin, an wen, in welcher Form, wie oft, in welchem Umfang?
-2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer fuer den Zweck erforderlich, oder gaebe es EU-Alternativen?
+2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer für den Zweck erforderlich, oder gaebe es EU-Alternativen?
 3. **Risikoanalyse.**
- - Drittlandrecht: Zugriffsbefugnisse von Behoerden, Rechtsbehelfe Betroffener.
+ - Drittlandrecht: Zugriffsbefugnisse von Behörden, Rechtsbehelfe Betroffener.
  - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
  - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
 4. **Massnahmen.**
  - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
- - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behoerdenanfragen), organisatorisch (Audit, Schulung).
+ - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behördenanfragen), organisatorisch (Audit, Schulung).
 5. **Restrisiko.** Pruefung ob die ergaenzenden Massnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
-6. **Konsultation / Genehmigung.** DSB-Anhoerung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
+6. **Konsultation / Genehmigung.** DSB-Anhörung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
 
 ## Mustertext / Template (Transfer-Sektion einer DSFA)
 
@@ -437,11 +437,11 @@ Sub-AVs: [Liste mit Land]
 [ ] DPF-Zertifizierung Empfaenger: ja / nein, Stand [Datum]
 
 3. Drittlandrechtspruefung
-- Zugriffsbefugnisse Behoerden: [CLOUD Act / FISA 702 / Section 702 / China DSL / Russland TK-Gesetz]
+- Zugriffsbefugnisse Behörden: [CLOUD Act / FISA 702 / Section 702 / China DSL / Russland TK-Gesetz]
 - Rechtsbehelfe Betroffener: [vorhanden / nicht aequivalent]
 - Aufsichtsstruktur: [unabhaengig / nicht unabhaengig]
 - Pruefung Schrems-II-Standard erfuellt: ja / nein
-- Quelle: [EDSA-Laenderbericht, Anbietererklaerung, Stand]
+- Quelle: [EDSA-Länderbericht, Anbietererklaerung, Stand]
 
 4. Ergaenzende Massnahmen
 - Technisch:
@@ -450,12 +450,12 @@ Sub-AVs: [Liste mit Land]
  [ ] Tokenisierung
  [ ] Split-Processing (sensitive Felder in EU)
 - Vertraglich:
- [ ] Transparenz-Pflicht ueber Behoerdenanfragen
+ [ ] Transparenz-Pflicht ueber Behördenanfragen
  [ ] Audit-Recht
  [ ] Loeschpflicht nach Vertragsende
 - Organisatorisch:
  [ ] Anbieterschulung Datenschutz
- [ ] Notfallplan bei Behoerdenzugriff
+ [ ] Notfallplan bei Behördenzugriff
 
 5. Restrisikobewertung
 [GRUEN / GELB / ORANGE / ROT]
@@ -478,10 +478,10 @@ Unterschrift DSB: ____________________
 ## Typische Fehler
 
 - TIA wird separat vom DSFA-Prozess gefuehrt — Schnittstellen gehen verloren.
-- US-Cloud mit EU-Hosting wird als reiner EU-Verarbeitung behandelt — Zugriffsbefugnis US-Behoerden uebersehen.
+- US-Cloud mit EU-Hosting wird als reiner EU-Verarbeitung behandelt — Zugriffsbefugnis US-Behörden uebersehen.
 - SCC-Modul falsch gewaehlt (C-P statt C-C oder umgekehrt).
 - Ergaenzende Massnahmen werden nur rechtlich, nicht technisch dokumentiert.
-- Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur fuer Einzelfaelle gedacht ist.
+- Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur für Einzelfaelle gedacht ist.
 - Re-Pruefung nach Schrems-Folgeurteil unterbleibt.
 - DPF-Zertifizierung des Anbieters wird nicht jaehrlich nachgeprueft.
 
@@ -505,11 +505,11 @@ Unterschrift DSB: ____________________
 - Rechtsprechung: weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
 
-## 4. `dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo`
+## 4. `dsfa-für-ki-systeme-schnittstelle-art-26-kivo`
 
-**Fokus:** DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept.
+**Fokus:** DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept.
 
-# DSFA fuer KI-Systeme an der Schnittstelle zur KI-Verordnung
+# DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung
 
 ## Zweck
 
@@ -530,7 +530,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - VO (EU) 2024/1689 KI-VO:
  - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
  - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
- - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) fuer bestimmte Betreiber (oeffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
+ - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) für bestimmte Betreiber (öffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
  - Art. 50 Transparenzpflichten generative KI
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen (Auslegung DSGVO bei KI).
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA.
@@ -541,7 +541,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - Anbieter (provider) entwickelt oder bringt das KI-System in Verkehr und ist primaer adressiert durch Art. 8 bis Art. 21 KI-VO.
 - Betreiber (deployer) setzt das KI-System ein und ist adressiert durch Art. 26, 27 KI-VO.
 - Die DSGVO-Verantwortlichkeit haengt nicht an dieser Rolle, sondern an der Entscheidung ueber Zwecke und Mittel der Verarbeitung (Art. 4 Nr. 7 DSGVO).
-- Praxisregel: Wer ein KI-System fuer eigene Personalentscheidung, Kundenbewertung oder Behoerdenentscheidung nutzt, ist regelmaessig Betreiber nach KI-VO und Verantwortlicher nach DSGVO.
+- Praxisregel: Wer ein KI-System für eigene Personalentscheidung, Kundenbewertung oder Behördenentscheidung nutzt, ist regelmaessig Betreiber nach KI-VO und Verantwortlicher nach DSGVO.
 
 ## Ablauf 6-Schritte-Methodik
 
@@ -551,8 +551,8 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
  - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
  - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
 4. **Massnahmen.** TOMs nach Art. 32 DSGVO plus KI-VO-Massnahmen: menschliche Aufsicht, Logging, Transparenz, Information Betroffener (Art. 26 Abs. 11 KI-VO).
-5. **Restrisiko.** Doppelte Restrisikobewertung — fuer DSFA (Art. 35 DSGVO) und fuer FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
-6. **Konsultation / Genehmigung.** DSB Anhoerung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.
+5. **Restrisiko.** Doppelte Restrisikobewertung — für DSFA (Art. 35 DSGVO) und für FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
+6. **Konsultation / Genehmigung.** DSB Anhörung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.
 
 ## Integriertes DSFA-FRIA-Konzept Template
 
@@ -608,14 +608,14 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - Betreiberpflichten Art. 26 KI-VO werden auf den Anbieter abgeschoben — die Pflicht trifft den Einsetzenden.
 - Logging-Pflicht Art. 26 Abs. 6 KI-VO wird mit DSGVO-Loeschpflichten konfligierend behandelt, ohne Pruefung der Rechtsgrundlage des Loggings.
 - Anhang III KI-VO wird nicht geprueft — Kategorisierung fehlt.
-- KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-fuer-internationale-datentransfers).
+- KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-für-internationale-datentransfers).
 - Generative KI: Art. 50 KI-VO Transparenzpflichten uebersehen.
 
 ## Querverweise
 
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Vorab-Konsultation
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — Drittlandtransfer
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Drittlandtransfer
 - `datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md` — KI-VO Compliance
 - `references/zitierweise.md` — Zitierweise
 
@@ -636,7 +636,7 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 
 ## Zweck
 
-Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik fuer die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
+Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik für die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
 
 ## Wann dieses Modul hilft
 
@@ -650,7 +650,7 @@ Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNI
 - Art. 35 Abs. 7 DSGVO Mindestinhalte der DSFA — methodenoffen.
 - EDSA-Leitlinien WP 248 rev.01 verweisen auf etablierte Methoden, ohne eine vorzuschreiben.
 - CNIL PIA Methodology (Privacy Impact Assessment): freie Software der franzoesischen Datenschutzbehoerde CNIL, modular, dreiteilig (Knowledge Base, Methodology, Templates).
-- Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz: Schutzziele Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung; Referenz fuer Aufsichtsverfahren in Deutschland.
+- Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz: Schutzziele Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung; Referenz für Aufsichtsverfahren in Deutschland.
 - BSI-Grundschutz mit Datenschutz-Baustein: technische Bausteine mit Bezug zu Schutzbedarfsfeststellung; nicht primaer DSFA-spezifisch, aber kompatibel.
 
 ## Methoden im Vergleich
@@ -673,7 +673,7 @@ Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNI
 3. **Risikoanalyse.** Methodisches Risikomodell waehlen: Schadensszenarien (CNIL), Schutzziele (SDM) oder Schutzbedarf (BSI).
 4. **Massnahmen.** Methode steuert die Massnahmenstruktur: CNIL fragt pro Szenario, SDM pro Schutzziel, BSI pro Baustein.
 5. **Restrisiko.** Methodenwahl beeinflusst Bewertungsmassstab; bei Hybridansatz beide Skalen dokumentieren.
-6. **Konsultation / Genehmigung.** DSB-Anhoerung; Methodenwahl in der DSFA explizit begruenden.
+6. **Konsultation / Genehmigung.** DSB-Anhörung; Methodenwahl in der DSFA explizit begruenden.
 
 ## Mustertext / Template (Methodenwahl-Memo)
 
@@ -697,11 +697,11 @@ Verantwortlicher: [NAME] | Sitzland: [DE/FR/...]
 3. Methodenwahl
 [ ] CNIL PIA (Software-gestuetzt, modular, Schadensszenarien)
 [ ] SDM (Schutzziele, DE-Aufsicht, KI-tauglich)
-[ ] BSI ergaenzend fuer TOM Art. 32
-[ ] Hybrid: SDM-Hauptmethodik plus BSI fuer TOM
+[ ] BSI ergaenzend für TOM Art. 32
+[ ] Hybrid: SDM-Hauptmethodik plus BSI für TOM
 
 4. Begruendung
-[Warum diese Methode fuer diese Verarbeitung]
+[Warum diese Methode für diese Verarbeitung]
 
 5. Werkzeug
 - CNIL: cnil.fr/de/das-pia-tool-software-die-die-durchfuehrung-von-datenschutz
@@ -717,12 +717,12 @@ Unterschrift DSB: ____________________
 - CNIL PIA Software: kostenfrei, Open Source, mehrsprachig (DE-Lokalisierung verfuegbar), Export PDF und XML.
 - SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Pruefkatalog.
 - BSI-Grundschutz: Fachüberblick mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
-- Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software fuer strukturierte Risikoszenarien, BSI fuer TOM nach Art. 32 DSGVO.
+- Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software für strukturierte Risikoszenarien, BSI für TOM nach Art. 32 DSGVO.
 
 ## Anwendungsfaelle
 
 - KI-System mit Profiling: SDM bevorzugt, weil Schutzziele die KI-typischen Risiken (Transparenz, Nicht-Verkettung) sauber adressieren.
-- Cloud-Migration mit US-Anbieter: CNIL PIA Software fuer Risikoszenarien plus BSI-Bausteine fuer technische Schutzmassnahmen.
+- Cloud-Migration mit US-Anbieter: CNIL PIA Software für Risikoszenarien plus BSI-Bausteine für technische Schutzmassnahmen.
 - Beschaeftigtenverarbeitung mit Mitbestimmung: SDM mit ergaenzendem Stakeholder-Modul.
 - Forschungsverarbeitung mit besonderen Kategorien: SDM und CNIL PIA kombinieren; Beweislast-Aspekt nach Art. 5 Abs. 2 DSGVO mitfuehren.
 
@@ -741,7 +741,7 @@ Unterschrift DSB: ____________________
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage DE
 - `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Englische Vollvorlage
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA
 - `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026

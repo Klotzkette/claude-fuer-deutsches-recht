@@ -5,12 +5,27 @@ description: "Fortbestehensprognose: Internationaler Bezug und Schnittstellen im
 
 # Fortbestehensprognose: Internationaler Bezug und Schnittstellen
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 InsO` — Ziele des Insolvenzverfahrens.
+- `§ 13 InsO` — Insolvenzantrag.
+- `§ 15a InsO` — Antragspflicht juristischer Personen.
+- `§ 17 InsO` — Zahlungsunfaehigkeit.
+- `§ 18 InsO` — drohende Zahlungsunfaehigkeit.
+- `§ 19 InsO` — Ueberschuldung.
+- `§ 21 InsO` — Sicherungsmaßnahmen.
+- `§ 35 InsO` — Insolvenzmasse.
+- `§ 80 InsO` — Verwaltungs- und Verfuegungsbefugnis.
+- `§ 129 InsO` — Insolvenzanfechtung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachkern: Fortbestehensprognose: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Fortbestehensprognose: Internationaler Bezug und Schnittstellen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

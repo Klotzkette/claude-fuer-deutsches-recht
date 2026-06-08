@@ -1,9 +1,9 @@
 ---
 name: untaetigkeitsklage-88-sgg
-description: "Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger."
+description: "Die Untätigkeitsklage nach § 88 SGG. Wenn die Behörde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger."
 ---
 
-# Wenn die Behoerde nichts tut — Untaetigkeitsklage § 88 SGG
+# Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
 
 ## Fachlicher Anker
 
@@ -13,23 +13,23 @@ description: "Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tu
 
 ## Worum geht es?
 
-Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behoerde, endlich zu entscheiden.
+Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behörde, endlich zu entscheiden.
 
 ## In einfacher Sprache
 
-Sie haben einen Antrag gestellt. Die Behoerde tut nichts. Nach langer Zeit koennen Sie zum Gericht. Das Gericht zwingt die Behoerde, endlich zu antworten.
+Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit koennen Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben einen Antrag gestellt vor mehr als 6 Monaten.
 - Sie haben Widerspruch eingelegt vor mehr als 3 Monaten.
-- Die Behoerde meldet sich nicht oder verzoegert.
+- Die Behörde meldet sich nicht oder verzoegert.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Untaetigkeitsklage**: Klage darauf, dass die Behoerde endlich entscheidet.
-- **Sachgrund**: Ein objektiver Grund, warum die Behoerde noch nicht entschieden hat.
-- **Bescheidungsurteil**: Das Gericht zwingt die Behoerde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
+- **Untaetigkeitsklage**: Klage darauf, dass die Behörde endlich entscheidet.
+- **Sachgrund**: Ein objektiver Grund, warum die Behörde noch nicht entschieden hat.
+- **Bescheidungsurteil**: Das Gericht zwingt die Behörde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
 
 ## Rechtsgrundlagen
 
@@ -37,11 +37,11 @@ Sie haben einen Antrag gestellt. Die Behoerde tut nichts. Nach langer Zeit koenn
 - **§ 88 Abs. 2 SGG** — Bei Widerspruchsverfahren nach 3 Monaten.
 - **§ 131 SGG** — Bescheidungsurteil.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fristen pruefen
 
-- **Antrag bei Behoerde**: 6 Monate seit Antragsdatum
+- **Antrag bei Behörde**: 6 Monate seit Antragsdatum
 - **Widerspruch**: 3 Monate seit Widerspruchsdatum
 
 Erst nach Ablauf koennen Sie klagen.
@@ -51,7 +51,7 @@ Erst nach Ablauf koennen Sie klagen.
 Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
 
 ```
-[Behoerde] [Ort, Datum]
+[Behörde] [Ort, Datum]
 
 Az: [...]
 
@@ -78,7 +78,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde]
+[Behörde]
 [Adresse]
 
 — Beklagte —
@@ -100,11 +100,11 @@ I. Sachverhalt
 - 6 / 3 Monate sind verstrichen.
 
 II. Rechtliche Wuerdigung
-Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund fuer die Untaetigkeit ist nicht ersichtlich.
+Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund für die Untaetigkeit ist nicht ersichtlich.
 
 Anlagen:
 - Antrag / Widerspruch
-- Schriftverkehr mit der Behoerde
+- Schriftverkehr mit der Behörde
 
 [Unterschrift]
 ```
@@ -117,18 +117,18 @@ Wie sonst: schriftlich, Fax, MJP, oder zur Niederschrift.
 
 Drei Moeglichkeiten:
 
-- **Behoerde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
-- **Sachgrund**: Wenn die Behoerde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
-- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behoerde, binnen [n] Wochen zu entscheiden.
+- **Behörde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
+- **Sachgrund**: Wenn die Behörde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
+- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behörde, binnen [n] Wochen zu entscheiden.
 
 ### Schritt 6 — Inhalt der Entscheidung
 
-Wichtig: Das Gericht entscheidet nur, DASS die Behoerde entscheiden muss — nicht WIE. Wenn die Behoerde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
+Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nicht WIE. Wenn die Behörde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
 
 ## Worauf Sie besonders achten muessen
 
 - **Fristen sind streng**: 6 / 3 Monate. Vorher ist Klage unzulaessig.
-- **Sachgrund**: Pruefen Sie, ob die Behoerde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
+- **Sachgrund**: Pruefen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
 - **Nicht Aufgeben**: Untaetigkeit-Klage ist meist erfolgreich und kostenfrei.
 
 ## Typische Fehler
@@ -148,7 +148,6 @@ Wichtig: Das Gericht entscheidet nur, DASS die Behoerde entscheiden muss — nic
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen oft Sachgrund — aber nicht unbegrenzt.
-
 
 ## Qualitäts-Hardening
 

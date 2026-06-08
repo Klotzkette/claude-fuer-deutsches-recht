@@ -7,36 +7,34 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 ## Arbeitsbereich
 
-**Bescheinigung Inso Datenschutz Schamfreie** ordnet den Fall über die tragenden Prüffelder: Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bescheinigung Inso Datenschutz Schamfreie** ordnet den Fall über die tragenden Prüfungslinien: Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bescheinigung-305-inso` | Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `datenschutz-und-schamfreie-akte` | Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `eigenverwaltung-nicht-verbraucher` | Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `bescheinigung-305-inso` | Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `datenschutz-und-schamfreie-akte` | Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `eigenverwaltung-nicht-verbraucher` | Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bescheinigung-305-inso`
 
-**Fokus:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
 
 ## Fachkern: Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
-- **Spezialgegenstand:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -68,16 +66,14 @@ InsO § 305 Abs. 1 Nr. 1, Abs. 4. Entscheidend ist immer der aktuelle Normstand 
 
 ## 2. `datenschutz-und-schamfreie-akte`
 
-**Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
 
 ## Fachkern: Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
-- **Spezialgegenstand:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -109,16 +105,14 @@ DSGVO Art. 5, 6, 9; Berufsgeheimnis je nach Beratung. Entscheidend ist immer der
 
 ## 3. `eigenverwaltung-nicht-verbraucher`
 
-**Fokus:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
 
 ## Fachkern: Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
-- **Spezialgegenstand:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 

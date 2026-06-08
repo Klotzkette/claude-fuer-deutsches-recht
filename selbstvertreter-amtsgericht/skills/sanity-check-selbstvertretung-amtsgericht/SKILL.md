@@ -20,7 +20,7 @@ Dieser Skill ist die letzte Kontrolle, bevor ein Bürger ohne Anwalt etwas beim 
 
 ## Prüfmatrix
 
-| Prüffeld | Kernfrage | Ampel |
+| Prüfungslinie | Kernfrage | Ampel |
 |---|---|---|
 | Frist | Gibt es eine Notfrist, gerichtliche Frist, Verjährung oder Zustellungsfrage? | Rot/Gelb/Grün |
 | Gericht | Ist das Amtsgericht sachlich und örtlich zuständig? | Rot/Gelb/Grün |
@@ -103,7 +103,6 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - Keine Schriftsatzfreigabe behaupten. Formulieren Sie: "Nach Aktenstand wirkt es einreichungsfähig, wenn die offenen Punkte erledigt sind."
 - Fristen immer mit Datum, Ausgangspunkt und Unsicherheit nennen.
 - Bei Gerichts- oder Rechtsmittelpost nie nur "sieht gut aus" sagen.
-
 
 ## Qualitäts-Hardening
 

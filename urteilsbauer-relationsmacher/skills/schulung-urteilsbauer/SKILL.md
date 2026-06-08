@@ -7,7 +7,6 @@ description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmache
 
 Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 
-
 ## Triage zu Beginn (für Trainer)
 
 1. Wie groß ist die Gruppe und welche Vorkenntnisse haben die Teilnehmenden (Proberichter, Assessoren, Rechtspfleger)?
@@ -50,7 +49,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Block | Dauer | Skills | Lernziel |
 |---|---|---|---|
 | Urteil schreiben | 90 Min | `tenor-bauen-zivil`, `tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben` | Vollständiges Urteil im Urteilsstil |
-| Nebenentscheidungen | 60 Min | `kostenentscheidung-bauen`, `vorlaeufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` | Tenor-Ziff. 2-4 korrekt |
+| Nebenentscheidungen | 60 Min | `kostenentscheidung-bauen`, `vorläufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` | Tenor-Ziff. 2-4 korrekt |
 | Selbstkontrolle | 45 Min | `berufungsfest-pruefen`, `revisionsfest-pruefen` | Fehler selbst erkennen |
 | Render | 45 Min | `dokumente-rendern-urteil-docx` | DOCX live erstellen |
 
@@ -80,7 +79,7 @@ Die Teilnehmenden koennen am Ende
 | Internationales | `internationales-privatrecht`, `cisg-pruefen`, `kollidierende-agb-pruefen`, `incoterms-und-gefahruebergang` |
 | Beweis | `beweisbeschluss-vorbereiten`, `beweiswuerdigung-mit-richter-input` |
 | Urteil schreiben | `tenor-bauen-zivil`, `tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben` |
-| Nebenentscheidungen | `kostenentscheidung-bauen`, `vorlaeufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` |
+| Nebenentscheidungen | `kostenentscheidung-bauen`, `vorläufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` |
 | Selbstkontrolle | `berufungsfest-pruefen`, `revisionsfest-pruefen` |
 | Ausgabe | `dokumente-rendern-urteil-docx` |
 
@@ -112,9 +111,8 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 2. Beide AGB kollidieren - Knock-out Doktrin greift.
 3. CISG ist anwendbar, auch ohne ausdrücklichen Ausschluss in beiden AGB.
 4. Incoterm FOB Galway - Gefahrübergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
-5. Streitwert 1577 EUR - sachlich zustaendig AG nach Paragraf 23 Nr. 1 GVG.
+5. Streitwert 1577 EUR - sachlich zuständig AG nach Paragraf 23 Nr. 1 GVG.
 6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.
-
 
 ---
 

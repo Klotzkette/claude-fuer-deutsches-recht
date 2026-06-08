@@ -1,43 +1,25 @@
 ---
 name: employee-invention-employment-contract
-description: "Employee Invention Employment Contract im Softwarerecht (DE/EU/US): prüft konkret Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, Entwirft Klauseln für deutsche angestellte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Employee Invention Employment Contract
+# Arbeitnehmererfindungen und Softwarepatente DE
 
 ## Arbeitsbereich
 
-**Employee Invention Employment Contract** ordnet den Fall über die tragenden Prüffelder: Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `employee-invention-software-patents-de` | Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. |
-| `employment-contract-software-engineer-de` | Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding. |
-| `enterprise-license-metrics` | Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls. |
-| `entwicklungsprojekt-intake` | Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch. |
+Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Softwarerecht De Eu Us klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: UrhG §§ 69a-g, BGB §§ 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `employee-invention-software-patents-de`
-
-**Fokus:** Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG.
-
-# Arbeitnehmererfindungen und Softwarepatente DE
 
 ## Fachkern: Arbeitnehmererfindungen und Softwarepatente DE
-- **Spezialgegenstand:** Arbeitnehmererfindungen und Softwarepatente DE wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -76,179 +58,6 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 - Wie werden Patent, Copyright und Geschäftsgeheimnis getrennt dokumentiert?
 
 **Mindest-Output:** Erfindungs-/Software-IP-Memo mit ArbEG-Route, Patentoption und Rechtekette.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 2. `employment-contract-software-engineer-de`
-
-**Fokus:** Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding.
-
-# Arbeitsvertrag Software Engineer DE
-
-## Fachkern: Arbeitsvertrag Software Engineer DE
-- **Spezialgegenstand:** Arbeitsvertrag Software Engineer DE wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Arbeitsvertrag Software Engineer DE** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- UrhG § 69b
-- ArbEG
-- GeschGehG
-- BGB/ArbR
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Aufgaben erzeugen Softwarerechte kraft Arbeitsvertrag?
-- Welche private Vorarbeiten und Nebenprojekte müssen offengelegt werden?
-- Wie werden OSS-Beiträge, Hackathons, AI tools und private Geräte geregelt?
-- Welche Offboarding-Pflichten sichern Repository, Dokumentation und Zugänge?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Aufgaben erzeugen Softwarerechte kraft Arbeitsvertrag?
-- Welche private Vorarbeiten und Nebenprojekte müssen offengelegt werden?
-- Wie werden OSS-Beiträge, Hackathons, AI tools und private Geräte geregelt?
-- Welche Offboarding-Pflichten sichern Repository, Dokumentation und Zugänge?
-
-**Mindest-Output:** Arbeitsvertragsmodul mit IP-, OSS-, Erfindungs-, Confidentiality- und Offboarding-Klauseln.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 3. `enterprise-license-metrics`
-
-**Fokus:** Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls.
-
-# Enterprise-Lizenzmetriken
-
-## Fachkern: Enterprise-Lizenzmetriken
-- **Spezialgegenstand:** Enterprise-Lizenzmetriken wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Enterprise-Lizenzmetriken** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- BGB AGB-Recht
-- UrhG § 69c
-- Audit-Klauseln
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Metrik löst Zahlungen aus und wie wird sie gemessen?
-- Sind Konzernunternehmen, externe Dienstleister, Bots, Testnutzer und Admins enthalten?
-- Welche Tools liefern verlässliche Nutzungsdaten und welche sind manipulationsanfällig?
-- Wie werden True-up, Overuse, Audit und Streit über Metriken abgewickelt?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Metrik löst Zahlungen aus und wie wird sie gemessen?
-- Sind Konzernunternehmen, externe Dienstleister, Bots, Testnutzer und Admins enthalten?
-- Welche Tools liefern verlässliche Nutzungsdaten und welche sind manipulationsanfällig?
-- Wie werden True-up, Overuse, Audit und Streit über Metriken abgewickelt?
-
-**Mindest-Output:** Metrik-Chart mit Definitionen, Messquelle, Streitpunkten und Redline-Vorschlägen.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 4. `entwicklungsprojekt-intake`
-
-**Fokus:** Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch.
-
-# Softwareentwicklungsprojekt Intake
-
-## Fachkern: Softwareentwicklungsprojekt Intake
-- **Spezialgegenstand:** Softwareentwicklungsprojekt Intake wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Softwareentwicklungsprojekt Intake** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- BGB Werk-/Dienstvertrag
-- UrhG § 69b
-- DSGVO Art. 25/28
-- CRA
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Deliverables gibt es und wie werden sie abgenommen?
-- Welche Roadmap, Sprintlogik, Change-Requests und Dependencies sind realistisch?
-- Welche IP-, Daten-, Security- und OSS-Checks müssen vor Coding starten?
-- Welche Governance entscheidet bei Scope Creep, Budget, Delay und Defects?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Deliverables gibt es und wie werden sie abgenommen?
-- Welche Roadmap, Sprintlogik, Change-Requests und Dependencies sind realistisch?
-- Welche IP-, Daten-, Security- und OSS-Checks müssen vor Coding starten?
-- Welche Governance entscheidet bei Scope Creep, Budget, Delay und Defects?
-
-**Mindest-Output:** Projekt-Intake mit Deliverables, Rollen, Risiken, Governance und Dokumentenliste.
 
 ## Qualitäts- und Risikofilter
 

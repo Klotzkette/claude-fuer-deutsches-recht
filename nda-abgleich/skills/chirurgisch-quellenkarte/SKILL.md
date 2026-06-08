@@ -37,3 +37,13 @@ Diese Quellenkarte sichert im Bereich **Nda Abgleich** tragende Normen, Rechtspr
 - Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
 - Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
 - Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 305 BGB (AGB-Begriff)
+- § 305c BGB (überraschende Klauseln)
+- § 307 BGB (Inhaltskontrolle)
+- § 90 HGB (Geschäftsgeheimnisse)
+- GeschGehG (Geschäftsgeheimnisgesetz)

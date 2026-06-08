@@ -7,7 +7,7 @@ description: "Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt
 
 ## Worum geht es?
 
-Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjaehrung **nicht** in voller Hoehe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
+Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjährung **nicht** in voller Hoehe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -18,7 +18,7 @@ Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Bekla
 ## Fachbegriffe (kurz erklaert)
 
 - **Gerichtskostenvorschuss**: Vorab-Zahlung der Gerichtskosten, bevor das Gericht zustellt.
-- **§ 167 ZPO "demnaechst"**: Wenn die Zustellung "demnaechst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurueck — wichtig fuer Frist-Wahrung.
+- **§ 167 ZPO "demnaechst"**: Wenn die Zustellung "demnaechst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurueck — wichtig für Frist-Wahrung.
 - **PKH (Prozesskostenhilfe)**: Sozialleistung, wenn Sie die Kosten nicht tragen koennen.
 
 ## Rechtsgrundlagen
@@ -27,9 +27,9 @@ Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Bekla
 - **§ 15 GKG** — Beendigung wegen Nicht-Zahlung.
 - **§ 167 ZPO** — "Demnaechst"-Zustellung.
 - **§ 114 ff. ZPO** — PKH.
-- **§ 204 I Nr. 1 BGB** — Verjaehrungs-Hemmung durch Klage.
+- **§ 204 I Nr. 1 BGB** — Verjährungs-Hemmung durch Klage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vorschuss-Hoehe berechnen
 
@@ -57,14 +57,14 @@ Sehr wichtig: zahlen Sie **innerhalb von 2 Wochen** nach Aufforderung. Praxis-Ti
 - Ueberweisung: Aktenzeichen im Verwendungszweck.
 - Bankueberweisung kann 1-2 Tage dauern — am besten Echtzeit-Ueberweisung.
 
-### Schritt 4 — Bedeutung fuer § 167 ZPO
+### Schritt 4 — Bedeutung für § 167 ZPO
 
-Verjaehrung wird gehemmt durch **Eingang der Klage bei Gericht** (§ 204 I Nr. 1 BGB) **wenn die Zustellung alsbald erfolgt**.
+Verjährung wird gehemmt durch **Eingang der Klage bei Gericht** (§ 204 I Nr. 1 BGB) **wenn die Zustellung alsbald erfolgt**.
 
 - "Alsbald" = i. d. R. innerhalb von 2 Wochen.
 - Verzoegerung durch nicht-Zahlung des Vorschusses geht **zu Ihren Lasten**.
 
-Wenn Sie Vorschuss nicht zahlen: Zustellung erfolgt nicht. Verjaehrungs-Hemmung kann ausfallen. Im schlimmsten Fall: Verjaehrung tritt ein, obwohl Klage eingereicht ist.
+Wenn Sie Vorschuss nicht zahlen: Zustellung erfolgt nicht. Verjährungs-Hemmung kann ausfallen. Im schlimmsten Fall: Verjährung tritt ein, obwohl Klage eingereicht ist.
 
 ### Schritt 5 — Bei nicht-Zahlung: Folgen
 
@@ -89,14 +89,14 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 
 ## Worauf Sie besonders achten muessen
 
-- **Vorschuss = Verjaehrungs-Risiko**: Bei Saumigkeit kann § 167 ZPO ausfallen.
+- **Vorschuss = Verjährungs-Risiko**: Bei Saumigkeit kann § 167 ZPO ausfallen.
 - **Aktenzeichen im Verwendungszweck**: Sonst kann Bank-Buchung nicht zugeordnet werden.
-- **2-Wochen-Frist**: Faustregel fuer "alsbald" § 167 ZPO. Nicht weiter spannen.
+- **2-Wochen-Frist**: Faustregel für "alsbald" § 167 ZPO. Nicht weiter spannen.
 - **Bei PKH**: Vor Einreichung pruefen oder gleichzeitig stellen.
 
 ## Typische Fehler
 
-- "Vorschuss kann ich spaeter zahlen." → Verjaehrung kann eintreten.
+- "Vorschuss kann ich spaeter zahlen." → Verjährung kann eintreten.
 - "Kein Verwendungszweck bei Ueberweisung." → Bank-Zuordnung verzoegert sich.
 - "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
 
@@ -105,7 +105,7 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
 - `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung pruefen.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
 - `einreichung-papierform-mit-abschriften` — Klage einreichen.
 
 ## Quellen und Aktualitaet

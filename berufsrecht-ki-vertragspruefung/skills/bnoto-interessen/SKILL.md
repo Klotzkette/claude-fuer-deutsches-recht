@@ -5,12 +5,26 @@ description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix im Plugin Berufsr
 
 # Bnoto: Mehrparteienkonflikt und Interessenmatrix
 
-## Spezialwissen: Bnoto: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Bnoto: Mehrparteienkonflikt und Interessenmatrix / bnoto mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
+- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
+## Spezialwissen: Bnoto: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

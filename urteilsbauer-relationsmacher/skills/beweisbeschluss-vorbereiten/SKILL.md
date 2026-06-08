@@ -7,7 +7,6 @@ description: "Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Bewe
 
 Vor der Beweisaufnahme das, was streitig und beweisbedürftig ist, förmlich festhalten.
 
-
 ## Triage zu Beginn
 
 1. Welche Tatsachen sind zwischen den Parteien streitig und entscheidungserheblich?

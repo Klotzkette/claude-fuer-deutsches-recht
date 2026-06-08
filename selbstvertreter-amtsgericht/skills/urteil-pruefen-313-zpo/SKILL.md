@@ -7,7 +7,7 @@ description: "Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbesta
 
 ## Worum geht es?
 
-Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — nicht nur den Tenor. Pruefen Sie, ob Tatbestand und Entscheidungsgruende Ihren Vortrag richtig wiedergeben. Fehler koennen Sie binnen Frist korrigieren lassen oder als Grundlage fuer Berufung nutzen.
+Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — nicht nur den Tenor. Pruefen Sie, ob Tatbestand und Entscheidungsgruende Ihren Vortrag richtig wiedergeben. Fehler koennen Sie binnen Frist korrigieren lassen oder als Grundlage für Berufung nutzen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,7 +29,7 @@ Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — 
 - **§ 320 ZPO** — Tatbestandsberichtigung.
 - **§ 321 ZPO** — Urteils-Ergaenzung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tenor pruefen
 
@@ -135,7 +135,7 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 
 ## Worauf Sie besonders achten muessen
 
-- **Frist 2 Wochen** fuer Tatbestandsberichtigung / Ergaenzung.
+- **Frist 2 Wochen** für Tatbestandsberichtigung / Ergaenzung.
 - **Berufung 1 Monat**.
 - **Tatbestand-Fehler** kann fatal sein, weil Berufungsgericht meist Tatsachen aus dem Tatbestand uebernimmt.
 - **Rechtsmittelbelehrung lesen**.
@@ -157,7 +157,6 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 313, 320, 321 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

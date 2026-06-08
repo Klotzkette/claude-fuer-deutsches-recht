@@ -28,7 +28,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 ## Fachbegriffe (kurz erklaert)
 
 - **Dolmetscher**: Person, die uebersetzt.
-- **Gebaerdensprache**: Sprache fuer Gehoerlose.
+- **Gebaerdensprache**: Sprache für Gehoerlose.
 - **§ 185 GVG**: Recht auf Sprachmittler.
 
 ## Rechtsgrundlagen
@@ -37,7 +37,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 - **§ 191a GVG** — Schriftliche Uebersetzung von Urteilen.
 - **§ 110 SGG i.V.m. GVG** — Anwendbarkeit beim SG.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Antrag stellen
 
@@ -54,7 +54,7 @@ Sehr geehrte Damen und Herren,
 
 ich beherrsche die deutsche Sprache nicht ausreichend. Meine Muttersprache ist [Sprache].
 
-Ich beantrage, fuer den Termin am [Datum] sowie fuer die Untersuchung beim Sachverstaendigen am [Datum] einen Dolmetscher fuer [Sprache] zu bestellen.
+Ich beantrage, für den Termin am [Datum] sowie für die Untersuchung beim Sachverstaendigen am [Datum] einen Dolmetscher für [Sprache] zu bestellen.
 
 Mit freundlichen Gruessen
 ```
@@ -67,8 +67,8 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Im Termin
 
 - Dolmetscher sitzt neben Ihnen oder am Tisch.
-- Uebersetzt alles fuer Sie.
-- Sie sprechen in Ihrer Muttersprache, Dolmetscher uebersetzt fuer das Gericht.
+- Uebersetzt alles für Sie.
+- Sie sprechen in Ihrer Muttersprache, Dolmetscher uebersetzt für das Gericht.
 
 ### Schritt 4 — Kosten
 
@@ -76,7 +76,7 @@ Sie zahlen nichts. Staatskasse uebernimmt.
 
 ### Schritt 5 — Bei schriftlichen Unterlagen
 
-Schriftliche Uebersetzung des Urteils oder anderer Schriftstuecke ist eingeschraenkter. Aber: § 191a GVG sieht das fuer Schwerhoerige / Gehoerlose vor.
+Schriftliche Uebersetzung des Urteils oder anderer Schriftstuecke ist eingeschraenkter. Aber: § 191a GVG sieht das für Schwerhoerige / Gehoerlose vor.
 
 ### Schritt 6 — Selbst mitgebrachter Dolmetscher
 
@@ -95,7 +95,7 @@ Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetsc
 - **Sprache genau benennen** (Dialekt nennen, wenn relevant).
 - **Antrag fruehzeitig**: das Gericht muss Dolmetscher organisieren.
 - **Bei Aerzte-Untersuchungen**: ebenfalls Dolmetscher beantragen (Gericht muss organisieren).
-- **Gebaerdensprache** und Schriftdolmetscher fuer Gehoerlose anerkannt.
+- **Gebaerdensprache** und Schriftdolmetscher für Gehoerlose anerkannt.
 
 ## Typische Fehler
 
@@ -113,7 +113,6 @@ Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetsc
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG aktuell. Praxis-erprobt.
-
 
 ## Qualitäts-Hardening
 

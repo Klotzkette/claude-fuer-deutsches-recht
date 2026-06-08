@@ -7,10 +7,10 @@ description: "Mandat Triage Plaedoyer Vorbereitung im Strafrecht: prüft konkret
 
 ## Arbeitsbereich
 
-**Mandat Triage Plaedoyer Vorbereitung** ordnet den Fall über die tragenden Prüffelder: Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Mandat Triage Plaedoyer Vorbereitung** ordnet den Fall über die tragenden Prüfungslinien: Strukturierte Eingangs-Abfrage für Strafmandate, Plaedoyer für Strafverteidigung vorbereiten und, Substantiierter Schriftsatzkern für Strafverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `mandat-triage-strafrecht` | Strukturierte Eingangs-Abfrage für Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftprüfung § 117 StPO, Haftbeschwerde § 304 StPO, Akteneinsicht § 147 StPO, Rechtsmittel und U-Haft-Eskalation. Routing zu Akteneinsicht, Haftmanagement und Strafprozess-Cockpit. |
 | `plaedoyer-vorbereitung-strafverteidigung` | Plaedoyer für Strafverteidigung vorbereiten und strukturieren: Anwendungsfall nach Abschluss der Beweisaufnahme muss Strafverteidiger Schlusspledoyer mit Schuldfrage Strafzumessung und Verfahrenshindernissen vorbereiten. § 258 StPO Schlusspledoyer, § 46 StGB Strafzumessung, § 261 StPO freie Beweiswürdigung. Prüfraster Schuldfrage anhand Beweisaufnahme, Beweiswürdigungs-Angriff, Strafzumessung Milderungsgründe, Verfahrenshindernisse. Output Plaedoyer-Gliederung mit Kernargumentation und Antragsformulierungen. Abgrenzung zu Hauptverhandlung-Vorbereiten für Gesamtvorbereitung und zu Schriftsatzkern. |
@@ -20,12 +20,12 @@ description: "Mandat Triage Plaedoyer Vorbereitung im Strafrecht: prüft konkret
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `mandat-triage-strafrecht`
 
@@ -182,7 +182,7 @@ Das Plädoyer ist der letzte große Auftritt der Verteidigung in der Hauptverhan
 8. Besteht die Möglichkeit einer Verständigung nach § 257c StPO oder ist das Plädoyer ohne Absprache zu halten?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -252,7 +252,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Strafmass streitig | Strafzumessungs-Plaedoyer; § 46 StGB-Aspekte |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -459,7 +458,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Beschuldigte/Angeklagte/Verurteilte (Name, Geburtsdatum, ladungsfaehige Anschrift) - exakte Schreibweise wie in Strafbefehl/Anklage/Urteil.
 - Verteidigerin/Verteidiger mit Beiordnung-/Wahlvermerk (Pflicht-/Wahlverteidigung).
-- Gericht/Staatsanwaltschaft (Zustaendigkeit pruefen; bei Revision zustaendiges Revisionsgericht).
+- Gericht/Staatsanwaltschaft (Zuständigkeit pruefen; bei Revision zuständiges Revisionsgericht).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Bezeichnung der angefochtenen Entscheidung mit Datum.
 
@@ -489,7 +488,7 @@ Strafrechtlicher Pruefungsaufbau:
 1. **Tatbestand** des StGB/Nebenstrafrechts (BtMG, AO §§ 369 ff., StVG, WaffG) nennen.
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal gegen den eigenen Tatsachenvortrag spiegeln (objektive und subjektive Seite; Vorsatz/Fahrlaessigkeit).
 3. **Rechtfertigungsgruende** (§§ 32, 34 StGB) und **Entschuldigungsgruende** (§§ 33, 35 StGB) pruefen.
-4. **Verfahrenshindernisse:** Verjaehrung (§ 78 StGB), Strafklageverbrauch (Art. 103 III GG, ne bis in idem), fehlender Strafantrag (§ 77 StGB), Immunitaet, Verfolgungsverjaehrung im Steuerstrafrecht (§ 376 AO).
+4. **Verfahrenshindernisse:** Verjährung (§ 78 StGB), Strafklageverbrauch (Art. 103 III GG, ne bis in idem), fehlender Strafantrag (§ 77 StGB), Immunitaet, Verfolgungsverjaehrung im Steuerstrafrecht (§ 376 AO).
 5. **Beweiswuerdigung-Kritik:** Indizienkette, Aussage-gegen-Aussage-Konstellation, Glaubwuerdigkeitsanalyse.
 6. **Rechtsprechungs-Verweise:** BGH-Strafsenate, BVerfG (Art. 103 GG, Schuldprinzip), EGMR (Art. 6 EMRK).
 7. **Subsumtions-Ergebnis** klar formulieren (Freispruch, Einstellung, Strafmilderung).
@@ -524,7 +523,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung strafprozessual passend (Freispruch, Einstellung, Aufhebung, Zurueckverweisung)?
 2. Jede Tatbestandsmerkmals-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Einspruchsfrist 2 Wochen § 410 StPO; Revisionseinlegung 1 Woche § 341 StPO, Revisionsbegruendung 1 Monat § 345 StPO; Klageerzwingung 1 Monat § 172 Abs. 2 StPO)?
-4. Verfahrenshindernisse von Amts wegen geprueft (Verjaehrung, Strafantrag)?
+4. Verfahrenshindernisse von Amts wegen geprueft (Verjährung, Strafantrag)?
 5. Beweisantraege bestimmt formuliert (Tatsache + Mittel + Konnexitaet)?
 6. Anlagenverzeichnis vollstaendig?
 7. beA-Konformitaet (PDF/A, ERVV, qeS bzw. sicherer Uebermittlungsweg)?
@@ -585,7 +584,7 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 ### Klageerzwingung
 
-- "Es wird beantragt, die Staatsanwaltschaft ... anzuweisen, oeffentliche Klage gegen die Beschuldigte/n ... wegen ... zu erheben."
+- "Es wird beantragt, die Staatsanwaltschaft ... anzuweisen, öffentliche Klage gegen die Beschuldigte/n ... wegen ... zu erheben."
 
 ### Annex-Antraege
 
@@ -653,9 +652,9 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme und Erstprognose.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Verstaendigung § 257c StPO, Einstellung § 153a StPO und Adhaesion.
-- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` fuer Beweisantraege in der Hauptverhandlung.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für Mandatsannahme und Erstprognose.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für Verstaendigung § 257c StPO, Einstellung § 153a StPO und Adhaesion.
+- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` für Beweisantraege in der Hauptverhandlung.
 
 ## 4. `spezial-adhaesion-formular-portal-und-einreichung`
 
@@ -664,11 +663,7 @@ Vor Versand:
 # Adhaesion: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Adhaesion: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Adhaesion: Formular, Portal und Einreichungslogik / adhaesion formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -705,11 +700,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung / aktenaufbereiter beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, Art. 6, EMRK.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

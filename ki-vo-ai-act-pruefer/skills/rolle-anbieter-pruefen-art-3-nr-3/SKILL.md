@@ -1,6 +1,6 @@
 ---
 name: rolle-anbieter-pruefen-art-3-nr-3
-description: "Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung Entwicklung Inverkehrbringen unter eigenem Namen Inbetriebnahme. Abgrenzung zu Betreiber Einführer Haendler. Output: Rollenentscheidung Anbieter ja/nein mit Begründung und Liste der Anbieter-Pflichten. Abgrenzung zu anbieter-werden-art-25 (Rollenwechsel) und persoenlicher-anwendungsbereich-rollen-art-3 (Übersicht)."
+description: "Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung Entwicklung Inverkehrbringen unter eigenem Namen Inbetriebnahme. Abgrenzung zu Betreiber Einführer Haendler. Output: Rollenentscheidung Anbieter ja/nein mit Begründung und Liste der Anbieter-Pflichten. Abgrenzung zu anbieter-werden-art-25 (Rollenwechsel) und persönlicher-anwendungsbereich-rollen-art-3 (Übersicht)."
 ---
 
 # Rolle-Check: Anbieter — Art. 3 Nr. 3 KI-VO

@@ -7,10 +7,10 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 
 ## Arbeitsbereich
 
-**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüffelder: Chronologie und Belegmatrix im gewerblichen Rechtsschutz, Fristen und Risikoampel im gewerblichen Rechtsschutz, Mandantenkommunikation im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüfungslinien: Chronologie und Belegmatrix im gewerblichen Rechtsschutz, Fristen und Risikoampel im gewerblichen Rechtsschutz, Mandantenkommunikation im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte. |
 | `workflow-fristen-und-risikoampel` | Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise. |
@@ -18,12 +18,12 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 
@@ -32,7 +32,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Prüffeld hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
+Diese Prüfungslinie hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
 
 ## Warum Chronologie und Belegmatrix?
 
@@ -152,7 +152,7 @@ Zeitachse Markenverletzung
 # Fristen und Risikoampel
 
 ## Aufgabe
-Dieser Prüffeld führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
+Diese Prüfungslinie führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
 
 ## Risikoampel-Systematik
 
@@ -239,7 +239,7 @@ Dieser Prüffeld führt einen systematischen Fristencheck durch und bewertet das
 5. Output: Fristenkontroll-Tabelle ausgefüllt, Risikoampel je Frist, Eskalationshinweise?
 
 ## Anschluss-Skills
-- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Normen zu Fristen.
+- `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Normen zu Fristen.
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV-Fristen.
 - `gr-portfolio-pflege-workflow` – Portfolio-Fristen.
 
@@ -260,7 +260,7 @@ Dieser Prüffeld führt einen systematischen Fristencheck durch und bewertet das
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Prüffeld unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
+Diese Prüfungslinie unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
 
 ## BRAO-Informationspflichten
 

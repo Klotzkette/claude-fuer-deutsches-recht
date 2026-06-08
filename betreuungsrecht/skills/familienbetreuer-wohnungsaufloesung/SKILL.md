@@ -9,9 +9,23 @@ description: "Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag
 
 Für schwere Angehörigenentscheidungen rund um Wohnung und Heim.
 
-## Norm- und Quellenanker
+## Normenanker
 
-BGB §§ 1833 ff. Genehmigungen live prüfen; Mietrecht; FamFG; SGB XII.
+Arbeitsfokus: **Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 

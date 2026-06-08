@@ -7,25 +7,25 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 
 ## Arbeitsbereich
 
-**Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** ordnet den Fall über die tragenden Prüffelder: Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** ordnet den Fall über die tragenden Prüfungslinien: Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `avv-audit-und-kontrollrechte` | Audit- und Kontrollrechte des Verantwortlichen gegenueber dem Auftragsverarbeiter nach Art. 28 Abs. 3 lit. h DSGVO. Behandelt Vor-Ort-Audits Selbstauskunft Zertifikate sowie das Verhaeltnis zwischen Audit-Recht und Geschaeftsgeheimnis. Output: Audit-Klausel mit Frequenz Verfahren Kostenregel und Eskalation. |
-| `avv-cloud-und-subverarbeitung-art-28-iv` | Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster fuer Sub-AV-Listen. |
-| `avv-eu-us-data-privacy-framework-bezug` | Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine fuer DPF und Fallback. |
+| `avv-cloud-und-subverarbeitung-art-28-iv` | Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster für Sub-AV-Listen. |
+| `avv-eu-us-data-privacy-framework-bezug` | Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und Fallback. |
 | `avv-konzern-und-multi-party-konstellation` | AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konzern-AVV mit zentraler Group-IT Shared-Service-Center und konzernweiter Liste der Auftragsverarbeiter. Klaert die Frage ob Konzern als Einheit auftritt oder jede Gesellschaft eigenstaendig. Output: Konzern-AVV-Klauselgeruest mit Beitrittsmechanik. |
 | `avv-pruefung` | Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rückgabe Lösung Audits. Output: AVV-Prüfmemo oder Vertragsentwurf. Abgrenzung: nicht für Joint-Controller-Vereinbarungen (joint-controller-vereinbarung). |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `avv-audit-und-kontrollrechte`
 
@@ -50,7 +50,7 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
 - Art. 32 DSGVO: TOM-Pflicht, die Audit-Grundlage ist.
 - Art. 42, Art. 43 DSGVO: Zertifizierungen und Pruefstellen.
 - Art. 40 DSGVO: Verhaltensregeln (Codes of Conduct).
-- § 17 UWG, § 203 StGB: Schutz von Geschaeftsgeheimnissen und Berufsgeheimnis bei Audit.
+- § 17 UWG, § 203 StGB: Schutz von Geschäftsgeheimnissen und Berufsgeheimnis bei Audit.
 
 ## Ablauf / Checkliste
 
@@ -70,19 +70,19 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
  | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
 
 3. **Ankuendigungsfrist und Auditor.**
- - Praxis: 30 Kalendertage Vorankuendigung bei planmaessigem Audit.
+ - Praxis: 30 Kalendertage Vorankuendigung bei planmäßigem Audit.
  - Verzicht auf Vorankuendigung bei akuter Datenpanne.
  - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
  - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
 
 4. **Geschaeftsgeheimnis-Schutz.**
- - NDA fuer Auditoren.
+ - NDA für Auditoren.
  - Schutz von Quellcode, Konfigurationen, Sub-AV-Vertraegen.
  - Recht des Auftragsverarbeiters, sensible Informationen zu schwaerzen oder in Aggregatsform vorzulegen.
  - Bei Berufsgeheimnistraegern (§ 203 StGB): Auditor unterliegt selbst der Schweigepflicht.
 
 5. **Kostenregelung.**
- - Praxis: Verantwortlicher traegt Kosten des planmaessigen Audits.
+ - Praxis: Verantwortlicher traegt Kosten des planmäßigen Audits.
  - Auftragsverarbeiter traegt Kosten bei festgestellten Verstoessen.
  - Bei anlassbezogenen Audits oft 50/50 oder Verursacherprinzip.
 
@@ -100,15 +100,15 @@ Audit-Klausel:
 >
 > (1) Der Auftragsverarbeiter stellt dem Verantwortlichen alle erforderlichen Informationen zum Nachweis der Einhaltung der in Art. 28 DSGVO und in diesem Vertrag festgelegten Pflichten zur Verfuegung (Art. 28 Abs. 3 lit. h DSGVO).
 >
-> (2) Der Verantwortliche kann einmal pro Kalenderjahr ein planmaessiges Audit beim Auftragsverarbeiter durchfuehren oder durch einen von ihm beauftragten unabhaengigen Pruefer durchfuehren lassen. Das planmaessige Audit ist mindestens dreissig (30) Kalendertage im Voraus schriftlich anzukuendigen.
+> (2) Der Verantwortliche kann einmal pro Kalenderjahr ein planmäßiges Audit beim Auftragsverarbeiter durchfuehren oder durch einen von ihm beauftragten unabhaengigen Pruefer durchfuehren lassen. Das planmäßige Audit ist mindestens dreissig (30) Kalendertage im Voraus schriftlich anzukuendigen.
 >
-> (3) Ueber das planmaessige Audit hinaus ist der Verantwortliche bei begruendetem Anlass zur Durchfuehrung eines anlassbezogenen Audits ohne die Frist aus Absatz (2) berechtigt. Ein begruendeter Anlass liegt insbesondere vor bei einer Datenpanne, bei einer Anordnung der Aufsichtsbehoerde sowie bei einem konkreten Hinweis auf eine Pflichtverletzung des Auftragsverarbeiters.
+> (3) Ueber das planmäßige Audit hinaus ist der Verantwortliche bei begruendetem Anlass zur Durchfuehrung eines anlassbezogenen Audits ohne die Frist aus Absatz (2) berechtigt. Ein begruendeter Anlass liegt insbesondere vor bei einer Datenpanne, bei einer Anordnung der Aufsichtsbehoerde sowie bei einem konkreten Hinweis auf eine Pflichtverletzung des Auftragsverarbeiters.
 >
 > (4) Der Auftragsverarbeiter kann anstelle eines Vor-Ort-Audits die Vorlage eines aktuellen Pruefberichts eines unabhaengigen Pruefers nach anerkannten Standards (z. B. ISO 27001 oder SOC 2 Type II oder BSI C5 Typ 2) anbieten. Der Verantwortliche kann dieses Angebot annehmen, wenn der Pruefbericht die zu pruefenden Verarbeitungstaetigkeiten abdeckt und nicht aelter als zwoelf (12) Monate ist.
 >
-> (5) Der Auditor unterliegt der Verschwiegenheit. Der Auftragsverarbeiter kann sensible Geschaeftsgeheimnisse (insbesondere Quellcode, Konfigurationen, Sub-AV-Vertraege) in geschwaerzter Form oder durch geeignete Aggregation vorlegen.
+> (5) Der Auditor unterliegt der Verschwiegenheit. Der Auftragsverarbeiter kann sensible Geschäftsgeheimnisse (insbesondere Quellcode, Konfigurationen, Sub-AV-Vertraege) in geschwaerzter Form oder durch geeignete Aggregation vorlegen.
 >
-> (6) Die Kosten des planmaessigen Audits traegt der Verantwortliche. Werden bei einem Audit Pflichtverletzungen des Auftragsverarbeiters festgestellt, traegt der Auftragsverarbeiter die Kosten des betreffenden Audits sowie etwaiger Folgeaudits zur Nachpruefung.
+> (6) Die Kosten des planmäßigen Audits traegt der Verantwortliche. Werden bei einem Audit Pflichtverletzungen des Auftragsverarbeiters festgestellt, traegt der Auftragsverarbeiter die Kosten des betreffenden Audits sowie etwaiger Folgeaudits zur Nachpruefung.
 >
 > (7) Der Auditbericht ist dem Auftragsverarbeiter binnen dreissig (30) Kalendertagen nach Audit zur Stellungnahme vorzulegen. Der Auftragsverarbeiter erstellt einen Mangelbehebungsplan mit angemessenen Fristen.
 >
@@ -137,7 +137,6 @@ Audit-Klausel:
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -148,7 +147,7 @@ Audit-Klausel:
 
 ## 2. `avv-cloud-und-subverarbeitung-art-28-iv`
 
-**Fokus:** Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster fuer Sub-AV-Listen.
+**Fokus:** Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster für Sub-AV-Listen.
 
 # Cloud und Sub-Auftragsverarbeitung Art. 28 Abs. 2 und Abs. 4 DSGVO
 
@@ -198,7 +197,7 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 
 5. **Drittlandbezug.**
  - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
- - DPF nur fuer US-Sub-AV mit aktiver Selbstzertifizierung.
+ - DPF nur für US-Sub-AV mit aktiver Selbstzertifizierung.
  - TIA nach EDSA-Empfehlungen 01/2020.
 
 ## Mustertext / Template
@@ -213,13 +212,13 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 >
 > (4) Im Fall eines berechtigten Widerspruchs, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Massnahmen ausraeumen kann, ist der Verantwortliche zur ausserordentlichen Kuendigung des Hauptvertrags und dieses Auftragsverarbeitungsvertrags berechtigt.
 >
-> (5) Der Auftragsverarbeiter schliesst mit jedem Sub-Auftragsverarbeiter einen Vertrag im Sinne des Art. 28 Abs. 4 DSGVO, der dem Sub-Auftragsverarbeiter im Wesentlichen die gleichen Datenschutzpflichten auferlegt wie sie in diesem Vertrag fuer den Auftragsverarbeiter festgelegt sind. Der Auftragsverarbeiter haftet gegenueber dem Verantwortlichen fuer die Erfuellung der Pflichten durch den Sub-Auftragsverarbeiter unveraendert weiter.
+> (5) Der Auftragsverarbeiter schliesst mit jedem Sub-Auftragsverarbeiter einen Vertrag im Sinne des Art. 28 Abs. 4 DSGVO, der dem Sub-Auftragsverarbeiter im Wesentlichen die gleichen Datenschutzpflichten auferlegt wie sie in diesem Vertrag für den Auftragsverarbeiter festgelegt sind. Der Auftragsverarbeiter haftet gegenueber dem Verantwortlichen für die Erfuellung der Pflichten durch den Sub-Auftragsverarbeiter unveraendert weiter.
 >
-> (6) Auf Anforderung des Verantwortlichen legt der Auftragsverarbeiter den Sub-Auftragsverarbeiter-Vertrag in einer Form vor, die berechtigte Geschaeftsgeheimnisse des Sub-Auftragsverarbeiters wahrt (z. B. mit Schwaerzungen)."
+> (6) Auf Anforderung des Verantwortlichen legt der Auftragsverarbeiter den Sub-Auftragsverarbeiter-Vertrag in einer Form vor, die berechtigte Geschäftsgeheimnisse des Sub-Auftragsverarbeiters wahrt (z. B. mit Schwaerzungen)."
 
 ## Typische Drafting-Fehler
 
-- Allgemeine Genehmigung "fuer alle gegenwaertigen und zukuenftigen Sub-AV ohne Information" – nicht Art. 28 Abs. 2 DSGVO-konform.
+- Allgemeine Genehmigung "für alle gegenwaertigen und zukuenftigen Sub-AV ohne Information" – nicht Art. 28 Abs. 2 DSGVO-konform.
 - Liste der Sub-AV nicht aktuell, kein Aenderungsverfahren definiert.
 - Frist zu kurz (z. B. 7 Tage) – Einspruchsrecht faktisch ausgehoehlt.
 - Back-to-Back-Vertrag nicht abgeschlossen oder nicht nachweisbar.
@@ -241,7 +240,6 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 - EDSA-Empfehlungen 01/2020 zur Transferfolgenabschaetzung (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -252,7 +250,7 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 
 ## 3. `avv-eu-us-data-privacy-framework-bezug`
 
-**Fokus:** Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine fuer DPF und Fallback.
+**Fokus:** Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und Fallback.
 
 # EU-US Data Privacy Framework (DPF) im AVV
 
@@ -264,7 +262,7 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 
 - US-Anbieter wird als Auftragsverarbeiter beauftragt oder eingebunden.
 - Pruefung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.
-- Vertragsklausel fuer DPF-Nutzung und SCC-Fallback ist erforderlich.
+- Vertragsklausel für DPF-Nutzung und SCC-Fallback ist erforderlich.
 - Aufsichtsbehoerde fragt nach Drittlandtransfer-Absicherung.
 
 ## Rechtlicher Rahmen
@@ -272,9 +270,9 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 ueber die Angemessenheit des Schutzniveaus personenbezogener Daten nach dem EU-US Data Privacy Framework – verifiziert.
 - Art. 45 DSGVO – Angemessenheitsbeschluss.
 - Art. 46 DSGVO – Geeignete Garantien (SCC, BCR) als Fallback.
-- Art. 49 DSGVO – Ausnahmen fuer bestimmte Faelle.
+- Art. 49 DSGVO – Ausnahmen für bestimmte Faelle.
 - Executive Order 14086 vom 07.10.2022 – US-Schutzgarantien (signal intelligence safeguards, DPRC).
-- EuGH C-311/18 (Schrems II) – verifiziert: Vorgaengerregelung Privacy Shield fuer unwirksam erklaert.
+- EuGH C-311/18 (Schrems II) – verifiziert: Vorgaengerregelung Privacy Shield für unwirksam erklaert.
 
 ## Ablauf / Checkliste
 
@@ -282,11 +280,11 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
  - Liste pruefen ueber dataprivacyframework.gov.
  - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
  - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
- - Im Listing fuer den konkreten Datentypus zertifiziert?
+ - Im Listing für den konkreten Datentypus zertifiziert?
 
 2. **Vertragsabsicherung.**
  - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
- - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
+ - SCC nach Beschluss (EU) 2021/914 als Fallback für den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
  - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
 
 3. **Sub-AV-Kette pruefen.**
@@ -345,7 +343,6 @@ DPF-und-Fallback-Klausel:
 - DPF-Listing ueber dataprivacyframework.gov pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -374,7 +371,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 ## Rechtlicher Rahmen
 
 - Art. 28 DSGVO – auch im Konzern keine Privilegierung; jede juristische Person ist eigenstaendige Verantwortliche.
-- Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch fuer interne Verwaltungszwecke.
+- Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch für interne Verwaltungszwecke.
 - Erwaegungsgrund 36 DSGVO – Niederlassung und Verantwortlichkeit im Konzern.
 - Art. 26 DSGVO – Joint Controller, falls gemeinsame Zweckentscheidung.
 - Art. 47 DSGVO – Verbindliche interne Datenschutzvorschriften (BCR).
@@ -385,7 +382,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 1. **Konzernstruktur erfassen.**
  - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
  - Wer ist Vertragspartner des Dienstleisters?
- - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
+ - Wer ist tatsaechlicher Verantwortlicher für die Daten?
 
 2. **Vertragsstrukturen vergleichen.**
 
@@ -394,7 +391,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
  | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
  | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
- | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
+ | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter für Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
 3. **Rollenmix klaeren.**
  - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
@@ -402,8 +399,8 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
 
 4. **Drittlandbezug pruefen.**
- - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
- - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
+ - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 für jede Konzerngesellschaft im Drittland.
+ - DPF nur für US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
 5. **Beitrittsmechanik (Docking Clause).**
  - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
@@ -420,15 +417,15 @@ Konzern-AVV-Klauseln (Auszug):
 >
 > § 1 Verarbeitungstaetigkeiten
 >
-> Die Verarbeitung erfolgt fuer jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
+> Die Verarbeitung erfolgt für jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
 >
 > § 2 Weisungsrechte und Weisungsregister
 >
-> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich fuer die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt fuer jede Konzerngesellschaft ein eigenes Weisungsregister.
+> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich für die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt für jede Konzerngesellschaft ein eigenes Weisungsregister.
 >
 > § 3 Konzerngesamtleitung und Kommunikation
 >
-> Die Muttergesellschaft uebt fuer die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
+> Die Muttergesellschaft uebt für die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
 >
 > § 4 Beitritt und Austritt von Konzerngesellschaften
 >
@@ -458,7 +455,6 @@ Konzern-AVV-Klauseln (Auszug):
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EU-Kommission Beschluss (EU) 2021/914 mit Docking Clause (Klausel 7).
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -553,7 +549,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — AVV eines KI-Anbieters fuer Kanzlei pruefen | Pruefschema Art. 28 DSGVO; Template unten |
+| Standard — AVV eines KI-Anbieters für Kanzlei pruefen | Pruefschema Art. 28 DSGVO; Template unten |
 | Variante A — AVV des Anbieters nicht verhandelbar | Risikoanalyse dokumentieren; Mandantenhinweis erwaegen |
 | Variante B — eigene AVV als Auftragsverarbeiter erstellen | Umgekehrte Perspektive; eigene Pflichten aus Art. 28 Abs. 3 DSGVO |
 | Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert pruefen; Haftungskette sichern |
@@ -634,8 +630,7 @@ Sub-AVs mit Drittlandexposure?
  Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
  Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
 ```
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — AVV-Review-Ergebnis
 

@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsklage-54-sgg
-description: "Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger."
+description: "Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behörde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger."
 ---
 
 # Die Verpflichtungsklage — § 54 Abs. 1 SGG
@@ -13,11 +13,11 @@ description: "Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begeh
 
 ## Worum geht es?
 
-Die Verpflichtungsklage zielt darauf, dass die Behoerde einen positiven Bescheid erlaesst. Sie haben etwas beantragt — z.B. EM-Rente oder Pflegegrad 3 — und es wurde abgelehnt. Mit der Verpflichtungsklage wollen Sie, dass das Gericht die Behoerde verpflichtet, Ihnen das zu geben.
+Die Verpflichtungsklage zielt darauf, dass die Behörde einen positiven Bescheid erlaesst. Sie haben etwas beantragt — z.B. EM-Rente oder Pflegegrad 3 — und es wurde abgelehnt. Mit der Verpflichtungsklage wollen Sie, dass das Gericht die Behörde verpflichtet, Ihnen das zu geben.
 
 ## In einfacher Sprache
 
-Sie haben etwas beantragt. Die Behoerde hat Nein gesagt. Sie wollen, dass das Gericht der Behoerde sagt: Geben Sie es ihm doch. Das nennt man Verpflichtungsklage.
+Sie haben etwas beantragt. Die Behörde hat Nein gesagt. Sie wollen, dass das Gericht der Behörde sagt: Geben Sie es ihm doch. Das nennt man Verpflichtungsklage.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -30,7 +30,7 @@ Sie haben etwas beantragt. Die Behoerde hat Nein gesagt. Sie wollen, dass das Ge
 ## Fachbegriffe (kurz erklaert)
 
 - **Verpflichtungsklage**: Klage auf Erlass eines positiven Verwaltungsakts.
-- **Versagungsgegenklage**: Behoerde hat abgelehnt — Sie klagen dagegen.
+- **Versagungsgegenklage**: Behörde hat abgelehnt — Sie klagen dagegen.
 - **Bescheidungsklage**: Klage auf neuerliche Entscheidung — selten.
 
 ## Rechtsgrundlagen
@@ -40,7 +40,7 @@ Sie haben etwas beantragt. Die Behoerde hat Nein gesagt. Sie wollen, dass das Ge
 - **§ 87 SGG** — Klagefrist 1 Monat.
 - **§ 131 SGG** — Urteil des Gerichts.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, was Sie wollen
 
@@ -66,7 +66,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde] (z.B. Deutsche Rentenversicherung Bund)
+[Behörde] (z.B. Deutsche Rentenversicherung Bund)
 [Adresse]
 
 — Beklagte —
@@ -100,7 +100,7 @@ II. Rechtliche Wuerdigung
  - Belege: [Atteste, Berichte]
 
 3. Verschlossener Teilzeitarbeitsmarkt (bei 3 bis 6 h)
- - Der Arbeitsmarkt fuer Teilzeit-Stellen ist fuer mich nicht verfuegbar.
+ - Der Arbeitsmarkt für Teilzeit-Stellen ist für mich nicht verfuegbar.
 
 III. Beweismittel
 - Befundberichte Hausarzt vom [Datum]
@@ -146,7 +146,7 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 
 - **Genauer Antrag**: "EM-Rente in voller Hoehe ab Antragstellung [Datum]". Nicht nur "Ich will Rente".
 - **Versicherungsrechtliche Voraussetzungen**: Vor jedem EM-Rente-Streit muessen Sie pruefen, ob Wartezeit (5 Jahre) und Pflichtbeitragsdichte (3 von 5) erfuellt sind. Wenn nicht: keine Chance, ausser Ausnahme.
-- **Berufsschutz** § 240 SGB VI nur fuer Jahrgaenge vor 02.01.1961.
+- **Berufsschutz** § 240 SGB VI nur für Jahrgaenge vor 02.01.1961.
 
 ## Typische Fehler
 
@@ -168,7 +168,6 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschlossenen Teilzeitarbeitsmarkt zu beachten. Verifizierung in einer amtlichen oder frei zugänglichen Quelle empfohlen; juris nur bei vorhandenem Lizenzzugriff.
-
 
 ## Qualitäts-Hardening
 

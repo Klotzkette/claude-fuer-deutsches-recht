@@ -13,7 +13,7 @@ description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung m
 
 ## Verbrauchspflegehilfsmittel
 
-§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat fuer zum Verbrauch bestimmte Pflegehilfsmittel.
+§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
 
 - Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
 - Direkter Bezug ueber Anbieter oder Apotheke.

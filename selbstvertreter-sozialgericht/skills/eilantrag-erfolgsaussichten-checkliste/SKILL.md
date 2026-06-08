@@ -39,16 +39,16 @@ Bevor Sie das Sozialgericht anrufen, pruefen Sie Ihre Chancen. Gibt es ein Recht
 - **Art. 19 Abs. 4 GG** — Effektiver Rechtsschutz.
 - **Art. 1 Abs. 1 GG i.V.m. Art. 20 Abs. 1 GG** — Existenzminimum.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: Habe ich Anordnungsanspruch?
 
 Fragen Sie:
 
-- [ ] Habe ich den richtigen Antrag bei der richtigen Behoerde gestellt?
+- [ ] Habe ich den richtigen Antrag bei der richtigen Behörde gestellt?
 - [ ] Erfuelle ich die gesetzlichen Voraussetzungen (z.B. erwerbsfaehig, hilfebeduerftig bei SGB II)?
-- [ ] Habe ich aerztliche Atteste / Belege fuer den Anspruch?
-- [ ] Hat die Behoerde einen Fehler gemacht (Form, Frist, falsche Rechtsanwendung)?
+- [ ] Habe ich aerztliche Atteste / Belege für den Anspruch?
+- [ ] Hat die Behörde einen Fehler gemacht (Form, Frist, falsche Rechtsanwendung)?
 - [ ] Habe ich Widerspruch eingelegt?
 
 Wenn 3 von 5 mit Ja: Anordnungsanspruch wahrscheinlich.
@@ -70,7 +70,7 @@ Wenn die ersten 4 mit Ja: Anordnungsgrund wahrscheinlich.
 Brauchen:
 
 - [ ] Bescheid (Ausgangs- und Widerspruchsbescheid wenn vorhanden)
-- [ ] Antraege und Schriftverkehr mit Behoerde
+- [ ] Antraege und Schriftverkehr mit Behörde
 - [ ] Aerztliche Atteste / Gutachten
 - [ ] Kontoauszuege (bei Geld-Eilantrag)
 - [ ] Mietvertrag, Rechnungen
@@ -113,7 +113,7 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 
 ## Worauf Sie besonders achten muessen
 
-- **Anordnungsgrund ist meist der Engpass**: Behoerden haben oft Recht im Anspruch, aber das Gericht sieht keine akute Notlage.
+- **Anordnungsgrund ist meist der Engpass**: Behörden haben oft Recht im Anspruch, aber das Gericht sieht keine akute Notlage.
 - **Konkrete Beweise sind Gold**: Kontoauszug, aerztliches Attest, Mahnungen — nichts Abstraktes.
 - **Eidesstattliche Versicherung ist wichtig**: schreibt das Gefuehl in eine Form, die das Gericht akzeptiert.
 - **Geduldsstart**: Das Gericht braucht meist 2 bis 4 Wochen; bei wirklich akuten Faellen schneller.
@@ -136,7 +136,6 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BVerfG-Linie zum Eilrechtsschutz unveraendert. Pruefen Sie im konkreten Fall mit Beratungsstelle.
-
 
 ## Qualitäts-Hardening
 

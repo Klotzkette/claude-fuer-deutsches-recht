@@ -6,11 +6,8 @@ description: "Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster,
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
 
 ## Fachkern: Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
-- **Spezialgegenstand:** Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -173,15 +170,14 @@ Bei 🔴 sofort:
 
 Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
 
-
 ## Triage — Liquiditaetsvorschau Einordnung
 
 Bevor losgelegt wird, klaere:
 
 1. **Zweck der Vorschau?** ZU-Pruefung § 17 InsO (3-Wochen-Fenster) → insolvenzrechtliche Vorschau; Fortbestehensprognose § 19 InsO (12 Monate); Glaeubigernachweis (13-Wochen-Vorschau); Bankverhandlung (24 Monate)?
-2. **Methode?** Direkte Methode (Cash-In / Cash-Out) fuer insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) fuer langfristige Unternehmensplanung.
+2. **Methode?** Direkte Methode (Cash-In / Cash-Out) für insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) für langfristige Unternehmensplanung.
 3. **Datenbasis?** OPOS (offene Posten), Kontoauszuege, Steuer- und SV-Verbindlichkeiten — alle aktuell?
-4. **Stichtag?** Fuer InsO-Beurteilung tag-genau festlegen; fuer Prognose ab aktuellem Tag.
+4. **Stichtag?** Fuer InsO-Beurteilung tag-genau festlegen; für Prognose ab aktuellem Tag.
 5. **Sanierungsmassnahmen einbeziehen?** Stundungen, Zuschuss, neue Kreditlinie — nur wenn verbindlich zugesagt.
 
 ## Output-Template 13-Wochen-Liquiditaetsvorschau

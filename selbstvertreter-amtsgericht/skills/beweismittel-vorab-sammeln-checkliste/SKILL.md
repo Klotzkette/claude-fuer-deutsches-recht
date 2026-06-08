@@ -19,7 +19,7 @@ Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen koennen (Be
 
 - **Beweismittel**: Mittel zur Ueberzeugung des Gerichts (Urkunde, Zeuge, Sachverstaendiger, Augenschein, Parteivernehmung).
 - **Beweiswert**: Wie ueberzeugend ein Beweismittel ist (Urkunde > Email > Zeuge mit nicht klarer Erinnerung).
-- **Hilfsbeweis**: Beweis fuer eine Hilfstatsache, aus der das Gericht auf die Haupttatsache schliesst (Indiz).
+- **Hilfsbeweis**: Beweis für eine Hilfstatsache, aus der das Gericht auf die Haupttatsache schliesst (Indiz).
 
 ## Rechtsgrundlagen
 
@@ -31,7 +31,7 @@ Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen koennen (Be
 - **§ 402 ZPO** — Sachverstaendigenbeweis.
 - **§ 445 ZPO** — Parteivernehmung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Chronologie erstellen
 
@@ -101,7 +101,7 @@ Wenn technische / medizinische Fragen offen sind:
 
 Eigene Aussage ist im Zivilprozess **kein** vollwertiges Beweismittel. Sie wirkt erst durch Parteivernehmung (§ 445 ZPO), und nur eingeschraenkt. Skill `parteivernehmung-445-ff-zpo`.
 
-### Schritt 7 — Beweismittel-Liste fuer Klage
+### Schritt 7 — Beweismittel-Liste für Klage
 
 Erstellen Sie eine Tabelle:
 
@@ -129,14 +129,14 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 ## Worauf Sie besonders achten muessen
 
 - **Originale aufbewahren**: Im Prozess werden Originale teilweise verlangt. Kopien reichen am Anfang, aber halten Sie das Original bereit.
-- **Datenschutz**: Bei Email/Chats: Speichern fuer eigene Zwecke ist okay; weitergeben darf nur, wer Berechtigung hat.
+- **Datenschutz**: Bei Email/Chats: Speichern für eigene Zwecke ist okay; weitergeben darf nur, wer Berechtigung hat.
 - **Zeugen-Erinnerung verblasst**: Befragen Sie Zeugen frueh, lassen Sie eine schriftliche Erklaerung schreiben.
 - **Foto-Beweise mit EXIF-Daten**: Stellen Sie sicher, dass Foto-Datum erhalten bleibt. Smartphones speichern das automatisch.
 
 ## Typische Fehler
 
-- "Ich kann das alles vor Gericht erklaeren." → Im Schriftsatz muessen Sie es **vortragen** und Beweis benennen. Erklaerung im Termin reicht nicht fuer den Beweisantrag.
-- "Email reicht als Beweis fuer alles." → Email ist Urkundenbeweis nur eingeschraenkt — Authentizitaet kann bestritten werden.
+- "Ich kann das alles vor Gericht erklaeren." → Im Schriftsatz muessen Sie es **vortragen** und Beweis benennen. Erklaerung im Termin reicht nicht für den Beweisantrag.
+- "Email reicht als Beweis für alles." → Email ist Urkundenbeweis nur eingeschraenkt — Authentizitaet kann bestritten werden.
 - "Zeuge ist mein Ehepartner, der weiss alles." → Naher Angehoeriger hat Zeugnis-Verweigerungsrecht (§ 383 ZPO) und Aussagewert wird kritisch beurteilt.
 - "Ich erinnere mich, dass ..." → Eigene Aussage hat geringen Beweiswert.
 
@@ -152,7 +152,6 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
-
 
 ## Qualitäts-Hardening
 

@@ -37,12 +37,12 @@ Sie koennen nicht mehr arbeiten. Sie wollten Rente wegen Krankheit. Die Rentenve
 ## Rechtsgrundlagen
 
 - **§ 43 SGB VI** — EM-Rente (volle und teilweise).
-- **§ 240 SGB VI** — Berufsschutz fuer Altjahrgaenge.
+- **§ 240 SGB VI** — Berufsschutz für Altjahrgaenge.
 - **§ 50 SGB VI** — Allgemeine Wartezeit.
 - **§ 99 SGB VI** — Rentenbeginn.
 - **§ 109 SGG** — eigenes Gutachten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -105,7 +105,7 @@ Vorlaeufige Begruendung:
  - Belege: Atteste meines Hausarztes Dr. [Name] vom [Datum] und Facharztes Dr. [Name] vom [Datum]
 
 3. Verschlossener Teilzeitarbeitsmarkt (hilfsweise)
- Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
+ Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt für mich verschlossen.
 
 4. Berufsschutz § 240 SGB VI (falls Jahrgang vor 02.01.1961)
  Berufsschutz ist gegeben.
@@ -144,7 +144,7 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 
 - "Ich kann nicht mehr arbeiten" ohne konkrete Stundenangabe → konkret
 - Versicherungsverlauf nicht geprueft → Grundvoraussetzung
-- Berufsschutz fuer falschen Jahrgang behauptet → nur vor 02.01.1961
+- Berufsschutz für falschen Jahrgang behauptet → nur vor 02.01.1961
 - Reha-Bericht ignoriert → wichtigster Beleg
 
 ## Querverweise

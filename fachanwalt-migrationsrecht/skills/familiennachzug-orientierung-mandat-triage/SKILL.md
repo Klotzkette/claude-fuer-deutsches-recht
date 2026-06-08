@@ -7,10 +7,10 @@ description: "Familiennachzug Orientierung Mandat Triage im Migrationsrecht: pr�
 
 ## Arbeitsbereich
 
-**Familiennachzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Mandant will Ehegatten Kinder oder Eltern nach Deutschland, Anwalt will ueberblicken welche Normen und Mandate das, Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Familiennachzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Mandant will Ehegatten Kinder oder Eltern nach Deutschland, Anwalt will ueberblicken welche Normen und Mandate das, Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-migrationsrecht-familiennachzug` | Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Familiennachzug zu Schutzbedürftigen nach § 36a AufenthG. Normen § 27 AufenthG Grundsatz § 28 AufenthG Ehegatten § 32 AufenthG Kinder. Output Nachzugs-Prüf-Memo Antragscheckliste Visum-Entwurf Klage-Option bei Ablehnung. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für eigenständige Titelerteilung. |
 | `fachanwalt-migrationsrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg. |
@@ -19,17 +19,16 @@ description: "Familiennachzug Orientierung Mandat Triage im Migrationsrecht: pr�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Migrationsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-migrationsrecht-familiennachzug`
 
 **Fokus:** Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Familiennachzug zu Schutzbedürftigen nach § 36a AufenthG. Normen § 27 AufenthG Grundsatz § 28 AufenthG Ehegatten § 32 AufenthG Kinder. Output Nachzugs-Prüf-Memo Antragscheckliste Visum-Entwurf Klage-Option bei Ablehnung. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für eigenständige Titelerteilung.
-
 
 # Familiennachzug
 
@@ -44,7 +43,7 @@ Visum / Aufenthaltstitel für Familienangehörige eines in Deutschland lebenden 
 3. Aufenthaltstitel des Stamm-Inhabers?
 4. Wohnraum / Einkommen Stamm-Inhaber?
 5. Sprachkenntnis Antragsteller?
-6. Heimatland und deutsche Botschaft zustaendig?
+6. Heimatland und deutsche Botschaft zuständig?
 
 ## 2) Familiennachzug nach Konstellation
 
@@ -213,18 +212,18 @@ Deutsche Botschaft [HAUPTSTADT/LAND]
 Visumstelle
 [ADRESSE]
 
-Re: Visumsantrag Familiennachzug fuer [ANTRAGSTELLER NAME, geb. DATUM]
+Re: Visumsantrag Familiennachzug für [ANTRAGSTELLER NAME, geb. DATUM]
  zu [STAMMINHABER NAME, AufenthaltsstT/NE, wohnhaft ADRESSE D]
  Visumantrag-Nr.: [falls vorhanden]
 
 Sehr geehrte Damen und Herren,
 
 wir vertreten [STAMMINHABER NAME] und zeigen die anwaltliche Begleitung
-des Visumsantrags fuer [FAMILIENANGEHOERIGE(R)] an.
+des Visumsantrags für [FAMILIENANGEHOERIGE(R)] an.
 
 I. SACHVERHALT
 [NAME STAMMINHABER] lebt seit [DATUM] in Deutschland (Aufenthaltstitel:
-[Art und Gueltigkeit], Anlage 1). Er beantragt Familiennachzug fuer
+[Art und Gueltigkeit], Anlage 1). Er beantragt Familiennachzug für
 seine Ehegattin / sein Kind [NAME].
 
 II. ANSPRUCHSGRUNDLAGE
@@ -232,9 +231,9 @@ II. ANSPRUCHSGRUNDLAGE
 
 III. VORAUSSETZUNGEN LIEGEN VOR
 a) Lebensunterhalt: Netto-Einkommen [BETRAG EUR] (Einkommensnachweise
- Anlage 2). Der Bedarf fuer 2 Personen betraegt nach Sozialrechtssaetzen
+ Anlage 2). Der Bedarf für 2 Personen betraegt nach Sozialrechtssaetzen
  ca. [BETRAG] EUR. Deckung gegeben.
-b) Wohnraum: [Groesse m2] — ausreichend fuer [X] Personen (Anlage 3: Mietvertrag).
+b) Wohnraum: [Groesse m2] — ausreichend für [X] Personen (Anlage 3: Mietvertrag).
 c) Sprachkenntnis: A1-Zertifikat Anlage 4. [ODER: Ausnahme wegen ...]
 d) Keine Ausweisungsinteressen (§ 5 Abs. 1 Nr. 2 AufenthG).
 
@@ -246,7 +245,7 @@ IV. ANLAGEN
 5. Heiratsurkunde / Geburtsurkunde (beglaubigt und apostilliert)
 [...]
 
-Wir bitten um zeitnahe Bearbeitung und stehen fuer Rueckfragen zur Verfuegung.
+Wir bitten um zeitnahe Bearbeitung und stehen für Rueckfragen zur Verfuegung.
 
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
@@ -255,7 +254,6 @@ Wir bitten um zeitnahe Bearbeitung und stehen fuer Rueckfragen zur Verfuegung.
 ## 2. `fachanwalt-migrationsrecht-orientierung`
 
 **Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg.
-
 
 # Fachanwalt für Migrationsrecht — Orientierung
 
@@ -345,12 +343,12 @@ Bevor losgelegt wird, klaere:
 1. Akute Frist — §-36-AsylG-1-Woche-Frist bereits angelaufen? Wenn ja: Sofort-Eilantrag.
 2. Mandantenstatus exakt — Aufenthaltsgestattung, Duldung, bestehender Titel, EU-Buerger?
 3. Besteht bereits Bescheid — BAMF oder Auslaenderbehoerde?
-4. Familienangehoerige in Deutschland mit Titel — Relevant fuer Art. 6 GG / § 60a AufenthG?
-5. Gesundheitszustand Mandant — Attests-Bedarf fuer Reiseunfaehigkeit / psych. Erkrankung?
+4. Familienangehoerige in Deutschland mit Titel — Relevant für Art. 6 GG / § 60a AufenthG?
+5. Gesundheitszustand Mandant — Attests-Bedarf für Reiseunfaehigkeit / psych. Erkrankung?
 
 ## Output-Template: Orientierungs-Memo Migrationsrecht
 
-**Adressat:** Mandant (zur persoenlichen Erklaerung) oder internes Kanzlei-Memo
+**Adressat:** Mandant (zur persönlichen Erklaerung) oder internes Kanzlei-Memo
 **Tonfall:** Verstaendlich-erklaerend
 
 ```
@@ -388,14 +386,13 @@ Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
 Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
 (Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).
 Der allgemeine Grundsatz zu Art. 51 GRCh (Anwendungsbereich der Charta) ist korrekt
-und fuer das Migrationsrecht methodisch relevant; Urteil verifiziert auf
+und für das Migrationsrecht methodisch relevant; Urteil verifiziert auf
 dejure.org/2013,2363 (NJW 2013, 1415).
 -->
 
 ## 3. `mandat-triage-migrationsrecht`
 
 **Fokus:** Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Fachmodule. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
-
 
 # Mandat-Triage Migrationsrecht
 
@@ -575,7 +572,7 @@ Sprache / Dolmetscher: [SPRACHE; Dolmetscher erforderlich: ja/nein]
 [ ] Sonstige Eilbeduerftigkeit: [...]
 
 3. VORGANG
-[ ] Asylantrag / BAMF-Anhoerung
+[ ] Asylantrag / BAMF-Anhörung
 [ ] Asyl-Klage
 [ ] Folgeantrag § 71 AsylG
 [ ] Aufenthaltstitel-Antrag / Verlaengerung
@@ -600,31 +597,26 @@ Aktennummer: [AZ]
 
 **Fokus:** Spezialfall Asyl-Folge- und Zweitantrag: § 71 AsylG, neue Beweismittel, geaenderte Sachlage. Antragsbegruendung, Erfolgschancen, Eilantrag Aufschiebende Wirkung. Mustertexte und aktuelle Rechtsprechung BVerwG.
 
-
 # Migr: Asyl-Folgeantrag
 
 ## Spezialwissen: Migr: Asyl-Folgeantrag
-- **Spezialgegenstand:** Migr: Asyl-Folgeantrag / migr asyl folge und zweitantrag spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AsylG, BVerwG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -641,10 +633,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

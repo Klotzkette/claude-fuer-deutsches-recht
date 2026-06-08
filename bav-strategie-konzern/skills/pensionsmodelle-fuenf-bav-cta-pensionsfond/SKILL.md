@@ -1,35 +1,21 @@
 ---
 name: pensionsmodelle-fuenf-bav-cta-pensionsfond
-description: "Pensionsmodelle Fuenf BAV CTA Pensionsfond im betriebliche Altersversorgung (bAV): prüft konkret Fuenf Durchführungswege der betrieblichen Altersversorgung, Spezialfall Contractual Trust Arrangement CTA, Spezialfall Pensionsfonds mit Rueckdeckungsversicherung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Pensionsmodelle Fuenf BAV CTA Pensionsfond
+# Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
 ## Arbeitsbereich
 
-**Pensionsmodelle Fuenf BAV CTA Pensionsfond** ordnet den Fall über die tragenden Prüffelder: Fuenf Durchführungswege der betrieblichen Altersversorgung, Spezialfall Contractual Trust Arrangement CTA, Spezialfall Pensionsfonds mit Rueckdeckungsversicherung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `pensionsmodelle-fuenf-durchfuehrungswege` | Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG. |
-| `bav-cta-treuhand-spezial` | Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte fuer Trust-Setup im Konzern. |
-| `bav-pensionsfond-rueckdeckung-spezial` | Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Pruefraster und Mustertexte fuer Wechsel Direktzusage zu Pensionsfonds. |
+Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Betriebliche Altersversorgung (bAV) — Konzern klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BetrAVG § 1b Unverfallbarkeitsfrist 3 Jahre/21. Lebensjahr, § 16 Anpassungsprüfung 3 Jahre, EStG § 3 Nr. 63 Beitragsgrenze 8 % BBG, PSV-Beitrag jährlich.
 - Tragende Normen verifizieren: BetrAVG §§ 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG §§ 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG § 5 (Pensionsfonds), VAG (Pensionskassen), HGB § 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (§ 87 Abs. 1 Nr. 10 BetrVG).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Versorgungsordnung, Pensionszusage, Entgeltumwandlungsvereinbarung, PSV-Anzeige, IFRS/HGB-Pensionsgutachten, versicherungsmathematisches Gutachten, Betriebsvereinbarung bAV — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `pensionsmodelle-fuenf-durchfuehrungswege`
-
-**Fokus:** Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG.
-
-# Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
 ## Fachkern: Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
@@ -279,109 +265,3 @@ bAV-Projektteam · fachliche Leitung
 - → `governance-und-anpassungsmechanismen` — für Pension Committee und Trustee-Board-Governance
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Umstellung bestehender Zusagen
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — für VO/BV-Templates je Durchführungsweg
-
-## 2. `bav-cta-treuhand-spezial`
-
-**Fokus:** Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte fuer Trust-Setup im Konzern.
-
-# bAV: CTA Treuhand
-
-## Spezialwissen: bAV: CTA Treuhand
-- **Spezialgegenstand:** bAV: CTA Treuhand / bav cta treuhand spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** CTA, IFRS, HGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 3. `bav-pensionsfond-rueckdeckung-spezial`
-
-**Fokus:** Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Pruefraster und Mustertexte fuer Wechsel Direktzusage zu Pensionsfonds.
-
-# bAV: Pensionsfonds-Rueckdeckung
-
-## Spezialwissen: bAV: Pensionsfonds-Rueckdeckung
-- **Spezialgegenstand:** bAV: Pensionsfonds-Rueckdeckung / bav pensionsfond rueckdeckung spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** PSV.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

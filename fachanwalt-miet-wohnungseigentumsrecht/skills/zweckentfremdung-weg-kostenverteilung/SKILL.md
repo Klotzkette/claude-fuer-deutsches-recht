@@ -7,10 +7,10 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 
 ## Arbeitsbereich
 
-**Zweckentfremdung WEG Kostenverteilung** ordnet den Fall über die tragenden Prüffelder: Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zweckentfremdung WEG Kostenverteilung** ordnet den Fall über die tragenden Prüfungslinien: Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-zweckentfremdung` | Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `weg-kostenverteilung-ruecklage-und-gewerbeprivileg` | Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs. 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23. |
@@ -19,17 +19,16 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Miet Wohnungseigentumsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-zweckentfremdung`
 
 **Fokus:** Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
-
 
 # Zweckentfremdung
 
@@ -40,7 +39,6 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
@@ -76,7 +74,6 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 **Fokus:** Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs. 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23.
 
-
 # WEG: Kostenverteilung, Rücklage, Gewerbeprivileg und § 16 Abs. 2 WEG
 
 ## Verifizierter Kern
@@ -98,7 +95,6 @@ BGH, Urteil vom 14.02.2025 - V ZR 128/23: § 16 Abs. 2 Satz 2 WEG begründet Bes
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-
 # Vergleichsverhandlung und Einigung im Wohnraum-, Gewerberaum- und WEG-Recht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
@@ -108,7 +104,6 @@ BGH, Urteil vom 14.02.2025 - V ZR 128/23: § 16 Abs. 2 Satz 2 WEG begründet Bes
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Wann dieser Arbeitsgang greift
 
@@ -137,7 +132,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -211,7 +206,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -220,7 +215,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -238,7 +233,7 @@ Im Bereich Wohnraum-, Gewerberaum- und WEG-Recht oft uebersehen:
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -253,12 +248,12 @@ Klassische Stolperfalle in Wohnraum-, Gewerberaum- und WEG-Recht:
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht (Stand 05/2026)
 
@@ -266,9 +261,9 @@ BATNA- und ZOPA-relevante BGH-Eckpunkte (Volltext jeweils ueber bundesgerichtsho
 
 - BGH, Urt. v. 24.09.2025 – VIII ZR 289/23: Eigenbedarf bei Umbau-/Verkauf moeglich — Vermieter-BATNA staerker.
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel (§ 574 BGB) wegen Krankheit/Alter muss Tatgericht voll aufklaeren — Mieter-BATNA staerker bei substantieller medizinischer Lage.
-- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: spaetere Mietsenkung im laufenden Mietverhaeltnis nicht ueber Mietpreisbremse angreifbar — Hebel fuer Vermieter, einvernehmliche Senkung als Settlement-Element zu nutzen.
+- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25: spaetere Mietsenkung im laufenden Mietverhaeltnis nicht ueber Mietpreisbremse angreifbar — Hebel für Vermieter, einvernehmliche Senkung als Settlement-Element zu nutzen.
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: Untervermietungs-Gewinngrenze — Untervermieter-Mieter-BATNA schwaecher bei Profitabsicht.
-- BGH, Urt. v. 14.02.2025 – V ZR 236/23: WEG-Kostenverteilung erfordert sachlichen Grund bei erstmaliger Belastung — Verhandlungsraum fuer betroffene Eigentuemer.
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23: WEG-Kostenverteilung erfordert sachlichen Grund bei erstmaliger Belastung — Verhandlungsraum für betroffene Eigentuemer.
 
 ## Paragrafenkette Vergleich Miet-/WEG-Recht
 
@@ -327,7 +322,6 @@ Loesung: Eintrag geloescht.
 
 **Fokus:** Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat. Beschlussarten (einfache Mehrheit, qualifizierte Mehrheit, Allstimmigkeit), Beschlussfaehigkeit nach WEMoG-Reform 2020. Ungueltige und nichtige Beschluesse abgrenzen. Routet in beschlussanfechtung-spezial.
 
-
 # WEG: Organe und Beschluesse
 
 ## Fachlicher Kern — Miet- und WEG-Recht
@@ -338,29 +332,24 @@ Loesung: Eintrag geloescht.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: WEG: Organe und Beschluesse
-- **Spezialgegenstand:** WEG: Organe und Beschluesse / weg einfuehrung organe beschluesse. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** WEMoG, WEG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -377,10 +366,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

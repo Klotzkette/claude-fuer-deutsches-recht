@@ -7,36 +7,34 @@ description: "Vollstreckung Stoppen Vorzeitige im Plugin Verbraucherinsolvenz Sc
 
 ## Arbeitsbereich
 
-**Vollstreckung Stoppen Vorzeitige** ordnet den Fall über die tragenden Prüffelder: Vollstreckung stoppen, Vorzeitige Restschuldbefreiung, Wohnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vollstreckung Stoppen Vorzeitige** ordnet den Fall über die tragenden Prüfungslinien: Vollstreckung stoppen, Vorzeitige Restschuldbefreiung, Wohnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `vollstreckung-stoppen` | Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.; Normanker: ZPO §§ 802c ff., 829 ff.; InsO §§ 88 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `vorzeitige-restschuldbefreiung` | Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `wohnung-miete-energie` | Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.; Normanker: BGB Mietrecht; InsO § 109; SGB II/SGB XII; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `vollstreckung-stoppen` | Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.; Normanker: ZPO §§ 802c ff., 829 ff.; InsO §§ 88 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `vorzeitige-restschuldbefreiung` | Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `wohnung-miete-energie` | Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.; Normanker: BGB Mietrecht; InsO § 109; SGB II/SGB XII; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vollstreckung-stoppen`
 
-**Fokus:** Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.; Normanker: ZPO §§ 802c ff., 829 ff.; InsO §§ 88 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.; Normanker: ZPO §§ 802c ff., 829 ff.; InsO §§ 88 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
 
 ## Fachkern: Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
-- **Spezialgegenstand:** Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -68,16 +66,14 @@ ZPO §§ 802c ff., 829 ff.; InsO §§ 88, 89. Entscheidend ist immer der aktuell
 
 ## 2. `vorzeitige-restschuldbefreiung`
 
-**Fokus:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
 
 ## Fachkern: Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
-- **Spezialgegenstand:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -109,16 +105,14 @@ InsO § 300. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlich
 
 ## 3. `wohnung-miete-energie`
 
-**Fokus:** Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.; Normanker: BGB Mietrecht; InsO § 109; SGB II/SGB XII; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.; Normanker: BGB Mietrecht; InsO § 109; SGB II/SGB XII; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
 
 ## Fachkern: Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
-- **Spezialgegenstand:** Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 

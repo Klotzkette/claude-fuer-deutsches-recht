@@ -74,7 +74,6 @@ Inkongruenz kann ein starkes Indiz für § 133 InsO sein. Sie ersetzt aber nicht
 
 Hinweis: Keine Rechtsberatung. Bei § 131 InsO ist die exakte Kongruenzprüfung oft entscheidender als die Krisenkenntnis.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

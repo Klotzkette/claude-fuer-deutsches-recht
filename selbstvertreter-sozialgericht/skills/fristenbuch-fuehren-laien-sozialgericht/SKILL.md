@@ -3,7 +3,7 @@ name: fristenbuch-fuehren-laien-sozialgericht
 description: "Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt."
 ---
 
-# Fristen sicher fuehren — fuer Buerger
+# Fristen sicher fuehren — für Buerger
 
 ## Fachlicher Anker
 
@@ -34,7 +34,7 @@ Schreiben Sie alle Fristen auf. Sofort. Setzen Sie sich Erinnerungen. So vergess
 
 Nicht spezifisch geregelt, aber gute Praxis.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Werkzeug waehlen
 
@@ -113,7 +113,7 @@ Wer mehrere Sachen hat:
 ## Typische Fehler
 
 - "Ich merke mir das schon" → vergessen ist menschlich
-- Erst am Tag der Frist daran erinnert → zu spaet fuer Recherche / Schreiben
+- Erst am Tag der Frist daran erinnert → zu spaet für Recherche / Schreiben
 - Verschiedene Fristen verwechselt → Az dazuschreiben
 
 ## Querverweise
@@ -127,7 +127,6 @@ Wer mehrere Sachen hat:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Tipps.
-
 
 ## Qualitäts-Hardening
 

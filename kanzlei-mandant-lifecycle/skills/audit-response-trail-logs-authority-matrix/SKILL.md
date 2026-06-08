@@ -1,48 +1,29 @@
 ---
 name: audit-response-trail-logs-authority-matrix
-description: "Audit Response Trail Logs Authority Matrix im Plugin Kanzlei Mandant Lifecycle: prüft konkret Audit Response Legal, Audit Trail und Logs, Authority Matrix, Bad News Memo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Audit Response Trail Logs Authority Matrix
+# Audit Response Legal
 
 ## Arbeitsbereich
 
-**Audit Response Trail Logs Authority Matrix** ordnet den Fall über die tragenden Prüffelder: Audit Response Legal, Audit Trail und Logs, Authority Matrix. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `audit-response-legal` | Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
-| `audit-trail-and-logs` | Audit Trail und Logs: steuert wer hat wann was gesehen, geändert, freigegeben oder exportiert zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
-| `authority-matrix` | Authority Matrix: steuert wer darf Mandat, Budget, Vergleich, Rechtsmittel, Presse und Strategie freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
-| `bad-news-memo` | Bad News Memo: steuert Kanzlei muss schlechte Nachricht liefern, ohne Vertrauen zu zerstören oder Haftung zu verschleiern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
-| `beauty-contest-scoring` | Beauty Contest Scoring: steuert Kanzleien nach Erfahrung, Team, Budget, Chemistry, Konflikten und Umsetzungskraft bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
+Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kanzlei Mandant Lifecycle klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `audit-response-legal`
-
-**Fokus:** Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
-
-# Audit Response Legal
 
 ## Fachkern: Audit Response Legal
-- **Spezialgegenstand:** Audit Response Legal wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
 - **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Audit Response Legal** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern
 
@@ -85,234 +66,16 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
 - BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
 
-## 2. `audit-trail-and-logs`
+## Normen und Rechtsprechung
 
-**Fokus:** Audit Trail und Logs: steuert wer hat wann was gesehen, geändert, freigegeben oder exportiert zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+### Kuratierte Normen-Bibliothek
 
-# Audit Trail und Logs
+- § 203 StGB
+- § 3a RVG
 
-## Fachkern: Audit Trail und Logs
-- **Spezialgegenstand:** Audit Trail und Logs wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
-- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+### Leitentscheidungen
 
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Worum es geht
-
-Dieser Abschnitt bearbeitet **Fachkern: Audit Trail und Logs** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** wer hat wann was gesehen, geändert, freigegeben oder exportiert
-
-## Kaltstart-Fragen
-
-- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
-- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
-- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
-- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** DSGVO, Berufsrecht, IT-Sicherheit, Beweiswert und Records Management.
-- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
-- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
-- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
-- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
-- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
-- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
-
-## 3. `authority-matrix`
-
-**Fokus:** Authority Matrix: steuert wer darf Mandat, Budget, Vergleich, Rechtsmittel, Presse und Strategie freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
-
-# Authority Matrix
-
-## Fachkern: Authority Matrix
-- **Spezialgegenstand:** Authority Matrix wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
-- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Dieser Abschnitt bearbeitet **Fachkern: Authority Matrix** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** wer darf Mandat, Budget, Vergleich, Rechtsmittel, Presse und Strategie freigeben
-
-## Kaltstart-Fragen
-
-- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
-- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
-- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
-- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** Organisationsrecht, Vollmacht, Mandatsvertrag und interne Policies.
-- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
-- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
-- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
-- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
-- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
-- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
-
-## 4. `bad-news-memo`
-
-**Fokus:** Bad News Memo: steuert Kanzlei muss schlechte Nachricht liefern, ohne Vertrauen zu zerstören oder Haftung zu verschleiern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
-
-# Bad News Memo
-
-## Fachkern: Bad News Memo
-- **Spezialgegenstand:** Bad News Memo wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
-- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Dieser Abschnitt bearbeitet **Fachkern: Bad News Memo** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** Kanzlei muss schlechte Nachricht liefern, ohne Vertrauen zu zerstören oder Haftung zu verschleiern
-
-## Kaltstart-Fragen
-
-- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
-- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
-- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
-- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** Anwaltliche Beratungspflichten, Haftung, Berufsrecht und Kommunikationssorgfalt.
-- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
-- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
-- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
-- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
-- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
-- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
-
-## 5. `beauty-contest-scoring`
-
-**Fokus:** Beauty Contest Scoring: steuert Kanzleien nach Erfahrung, Team, Budget, Chemistry, Konflikten und Umsetzungskraft bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
-
-# Beauty Contest Scoring
-
-## Fachkern: Beauty Contest Scoring
-- **Spezialgegenstand:** Beauty Contest Scoring wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
-- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Dieser Abschnitt bearbeitet **Fachkern: Beauty Contest Scoring** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** Kanzleien nach Erfahrung, Team, Budget, Chemistry, Konflikten und Umsetzungskraft bewerten
-
-## Kaltstart-Fragen
-
-- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
-- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
-- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
-- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** Compliance, Datenschutz, Berufsrecht und Beschaffungsvorgaben.
-- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
-- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
-- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
-- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
-- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
-- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html

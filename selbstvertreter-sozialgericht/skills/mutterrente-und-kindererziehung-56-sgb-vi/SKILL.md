@@ -13,7 +13,7 @@ description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill er
 
 ## Grundsatz
 
-§ 56 SGB VI: Erziehungszeit fuer jedes Kind wird der Mutter (oder einem Elternteil) als Beitragszeit gutgeschrieben.
+§ 56 SGB VI: Erziehungszeit für jedes Kind wird der Mutter (oder einem Elternteil) als Beitragszeit gutgeschrieben.
 
 ## Reformen
 
@@ -29,7 +29,7 @@ description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill er
 ## Hoehe
 
 - Pro Erziehungsjahr: 1 Entgeltpunkt (ca. 39 Euro Monatsrente West 2024 — verifizieren).
-- Mutterrente I/II hat zusaetzliche Entgeltpunkte fuer Vor-1992-Kinder.
+- Mutterrente I/II hat zusaetzliche Entgeltpunkte für Vor-1992-Kinder.
 
 ## Aufteilung zwischen Eltern
 

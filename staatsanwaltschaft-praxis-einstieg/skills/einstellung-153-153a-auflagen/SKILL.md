@@ -6,15 +6,12 @@ description: "Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen: P
 # Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen
 
 ## Fachkern: Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen
-- **Spezialgegenstand:** Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Geringfügigkeit, öffentliches Interesse, Zustimmung, Auflagenhöhe und Opferinteressen
 
@@ -40,6 +37,18 @@ Dieser Abschnitt bearbeitet **Fachkern: Einstellung nach §§ 153/153a StPO: Auf
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 153 Abs. 1, 2 StPO (Einstellung wegen Geringfügigkeit)
+- § 153a StPO (Einstellung unter Auflagen und Weisungen)
+- Nr. 75-80 RiStBV (Opportunitätsprinzip)
+- BVerfG NJW 2002, 815 (verfassungsrechtliche Grenzen § 153a StPO)
+- § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts)
+- § 170 Abs. 1 StPO (Anklageerhebung)
+- Nr. 88 ff. RiStBV
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

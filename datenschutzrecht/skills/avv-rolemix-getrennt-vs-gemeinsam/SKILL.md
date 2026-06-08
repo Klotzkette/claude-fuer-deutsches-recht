@@ -1,6 +1,6 @@
 ---
 name: avv-rolemix-getrennt-vs-gemeinsam
-description: "Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema fuer Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung."
+description: "Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung."
 ---
 
 # Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung
@@ -25,7 +25,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EuGH C-25/17 (Zeugen Jehovas) – verifiziert: Mitverantwortung durch organisatorische Mittel auch ohne unmittelbaren Datenzugang.
 - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: Fanpage-Betreiber ist gemeinsam mit Plattform verantwortlich.
-- EuGH C-40/17 (Fashion ID) – verifiziert: Like-Button-Einbinder ist fuer Erhebung und Uebermittlung mitverantwortlich.
+- EuGH C-40/17 (Fashion ID) – verifiziert: Like-Button-Einbinder ist für Erhebung und Uebermittlung mitverantwortlich.
 
 ## Ablauf / Checkliste
 
@@ -46,7 +46,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
  - Wird die Verarbeitung gemeinsam beworben oder organisiert?
 
 3. **Negativindizien gegen Auftragsverarbeitung.**
- - Eigene Verarbeitung fuer eigene Werbung, eigenes KI-Training, eigene Statistik.
+ - Eigene Verarbeitung für eigene Werbung, eigenes KI-Training, eigene Statistik.
  - Eigene Anonymisierung mit nachgelagerter eigener Nutzung.
  - Eigene Rechtsdienstleistung (Inkasso, Steuerberatung, Rechtsanwaltsleistung) im Auftrag des Mandanten – meist Funktionsuebertragung statt Art. 28 (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
  - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
@@ -76,7 +76,7 @@ Datenkategorien: [Stamm-/Verkehrs-/Inhaltsdaten/Art. 9 DSGVO]
 Betroffene: [Kategorien]
 
 1. Zweck der Verarbeitung
- Wer entscheidet? [A allein / A und B gemeinsam / nur fuer A]
+ Wer entscheidet? [A allein / A und B gemeinsam / nur für A]
  Begruendung: [Sachverhaltsbasis]
 
 2. Wesentliche Mittel
@@ -84,7 +84,7 @@ Betroffene: [Kategorien]
  Indizien: [Tool-Auswahl, Speicherort, Loeschfristen, Sicherheitsmassnahmen]
 
 3. Wirtschaftlicher Nutzen
- [Nur A / beide / A nutzt fuer Geschaeft, B nur fuer Entgelt]
+ [Nur A / beide / A nutzt für Geschaeft, B nur für Entgelt]
 
 4. Weisungsgebundenheit B?
  [voll / teilweise / keine]
@@ -113,7 +113,7 @@ Datum, Unterschrift Datenschutzbeauftragter
 - Joint-Agreement abgeschlossen, obwohl getrennte Verantwortliche vorliegen (typischer Fall: Inkasso-Dienstleister).
 - "Standardloesung AVV" ohne Pruefung.
 - Berufsgeheimnistraeger als reine Auftragsverarbeiter behandelt (Funktionsuebertragung uebersehen).
-- Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten fuer eigene Zwecke nutzt.
+- Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten für eigene Zwecke nutzt.
 
 ## Querverweise
 
@@ -132,7 +132,6 @@ Datum, Unterschrift Datenschutzbeauftragter
 - EuGH C-40/17 (Fashion ID) – verifiziert.
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

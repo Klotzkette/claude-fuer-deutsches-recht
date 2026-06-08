@@ -7,10 +7,10 @@ description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: pr�
 
 ## Arbeitsbereich
 
-**Vergleichsverhandlung** ordnet den Fall über die tragenden Prüffelder: Versicherungsrecht, Vergleichsverhandlungs-Strategie für, BaFin-Beschwerde. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: Versicherungsrecht, Vergleichsverhandlungs-Strategie für, BaFin-Beschwerde. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-versicherungsrecht-tatbestand-beweis-und-belege` | Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
@@ -18,12 +18,12 @@ description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: pr�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-versicherungsrecht-tatbestand-beweis-und-belege`
 
@@ -32,11 +32,7 @@ description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: pr�
 # Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / versicherungsrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VVG, VAG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -99,7 +95,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -161,7 +157,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -174,7 +169,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -183,7 +178,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -201,7 +196,7 @@ Im Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung) oft ueber
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -216,12 +211,12 @@ Klassische Stolperfalle in Versicherungsvertragsrecht (Personen- und Sachversich
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Vertiefung — Rechtsprechung Vergleich Versicherungsrecht
 

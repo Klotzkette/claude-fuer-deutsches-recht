@@ -15,7 +15,7 @@ description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill kl
 ## Norm
 
 - DSGVO Art. 6 Abs. 1 Buchst. a (Einwilligung).
-- DSGVO Art. 7 (Bedingungen fuer Einwilligung).
+- DSGVO Art. 7 (Bedingungen für Einwilligung).
 - TDDDG (Telekommunikation-Digitale-Dienste-Datenschutzgesetz, frueher TTDSG), insbesondere § 25.
 - EuGH "Planet49" Rs. C-673/17 (01.10.2019): aktive Einwilligung erforderlich; Voreinstellung "ja" unzulaessig.
 

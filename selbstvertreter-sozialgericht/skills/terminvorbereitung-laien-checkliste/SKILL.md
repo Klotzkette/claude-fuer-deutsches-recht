@@ -3,7 +3,7 @@ name: terminvorbereitung-laien-checkliste
 description: "Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen."
 ---
 
-# Terminvorbereitung — Checkliste fuer Laien
+# Terminvorbereitung — Checkliste für Laien
 
 ## Fachlicher Anker
 
@@ -29,14 +29,14 @@ Vor dem Termin: gut vorbereiten. Was sagen Sie? Welche Papiere haben Sie dabei? 
 - **Sachvortrag**: Was Sie als Tatsachen vortragen.
 - **Rechtsausfuehrung**: Ihre rechtlichen Argumente.
 - **Antrag**: Was Sie konkret vom Gericht wollen.
-- **Erlaeuterungs-Frage**: Fragen, die Sie an Sachverstaendige oder Behoerde stellen.
+- **Erlaeuterungs-Frage**: Fragen, die Sie an Sachverstaendige oder Behörde stellen.
 
 ## Rechtsgrundlagen
 
 - **§ 124 SGG** — Muendliche Verhandlung.
 - **§ 112 SGG** — Verhandlung und Beweisaufnahme.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Akten-Mappe vorbereiten
 
@@ -44,7 +44,7 @@ Eine geordnete Mappe mit:
 
 - Klageschrift (Original und Kopie)
 - Bescheid und Widerspruchsbescheid
-- Schriftwechsel mit Behoerde
+- Schriftwechsel mit Behörde
 - Atteste und medizinische Berichte
 - Sachverstaendigen-Gutachten (falls eingeholt)
 - Eigene Stellungnahme zum Gutachten
@@ -93,7 +93,7 @@ Antworten Sie konkret und ehrlich.
 
 ### Schritt 5 — Auf das Gegenargument vorbereiten
 
-Was wird die Behoerde sagen?
+Was wird die Behörde sagen?
 
 - Pflegeleistung weniger als behauptet
 - EM nicht in dem Umfang
@@ -116,7 +116,7 @@ Wenn ein Gutachter erscheint:
 - Bequem anziehen, aber ordentlich
 - Verpflegung (Sozialgerichts-Verfahren koennen lange dauern)
 - Wasserflasche
-- Notebook / Papier fuer Notizen waehrend Termin
+- Notebook / Papier für Notizen waehrend Termin
 
 ## Worauf Sie besonders achten muessen
 
@@ -143,7 +143,6 @@ Wenn ein Gutachter erscheint:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Hinweise.
-
 
 ## Qualitäts-Hardening
 

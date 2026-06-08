@@ -1,47 +1,46 @@
 ---
 name: plan-pension-erisa-classification
-description: "Plan Pension Erisa Classification im Plugin Us Bankruptcy Code: prüft konkret Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Plan Pension Erisa Classification
+# Pension, ERISA and PBGC
 
 ## Arbeitsbereich
 
-**Plan Pension Erisa Classification** ordnet den Fall über die tragenden Prüffelder: Prueft pension obligations, PBGC claims, retiree benefits. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `pension-erisa-pbgc` | Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. |
-| `plan-classification` | Prueft classification of claims and interests, impairment, gerrymandering risk and voting strategy. |
-| `plan-modification-1127` | Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance. |
-| `plan-support-agreements` | Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics. |
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `pension-erisa-pbgc`
-
-**Fokus:** Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment.
-
-# Pension, ERISA and PBGC
 
 ## Fachkern: Pension, ERISA and PBGC
-- **Spezialgegenstand:** Pension, ERISA and PBGC wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
+Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
 
 Dieser Skill macht aus dem Thema **Pension, ERISA and PBGC** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -51,7 +50,6 @@ Dieser Skill macht aus dem Thema **Pension, ERISA and PBGC** eine belastbare Arb
 - ERISA/PBGC sources via US counsel
 - Plan documents
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -60,20 +58,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Union/retiree benefits?
 - PBGC involvement?
 
-
 ## Workflow
 
 1. Benefit obligations map.
 2. 1113/1114 process if relevant.
 3. Plan funding and claims.
 
-
 ## Output
 
 - Pension bankruptcy memo
 - PBGC issue list
 - Benefit modification checklist
-
 
 ## Tiefencheck für die Akte
 
@@ -85,210 +80,6 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 - Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
 
 **Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 2. `plan-classification`
-
-**Fokus:** Prueft classification of claims and interests, impairment, gerrymandering risk and voting strategy.
-
-# Plan Classification
-
-## Fachkern: Plan Classification
-- **Spezialgegenstand:** Plan Classification wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Plan Classification** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. §§ 1122, 1123
-- 11 U.S.C. § 1126
-- Plan documents
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- What claims/interests?
-- Similar legal rights?
-- Impaired/unimpaired?
-
-
-## Workflow
-
-1. Claims classes map.
-2. Impairment and voting impact.
-3. Classification objections prüfen.
-
-
-## Output
-
-- Classification chart
-- Voting impact memo
-- Objection issue list
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Klassen, impairment, voting thresholds, releases, injunctions und objections entscheiden den Plan?
-- Ist disclosure ausreichend: assets, liabilities, projections, liquidation analysis, feasibility und risk factors?
-- Drohen absolute-priority, unfair discrimination, best-interests oder good-faith-Probleme?
-- Welche deutsche Sicht braucht das Team: Gläubigerposition, Konzerninteressen, Steuern, Sicherheiten, Governance?
-
-**Mindest-Output:** Plan-Roadmap mit class chart, voting status, confirmation issues, objections und negotiation levers.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 3. `plan-modification-1127`
-
-**Fokus:** Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance.
-
-# Plan Modification § 1127
-
-## Fachkern: Plan Modification § 1127
-- **Spezialgegenstand:** Plan Modification § 1127 wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Plan Modification § 1127** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. § 1127
-- 11 U.S.C. § 1129
-- Confirmed plan/order
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Before or after confirmation?
-- Material modification?
-- Need new disclosure/votes?
-
-
-## Workflow
-
-1. Modification type classify.
-2. Affected classes and compliance.
-3. Court approval route.
-
-
-## Output
-
-- Modification memo
-- Resolicitation issue list
-- Order checklist
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Klassen, impairment, voting thresholds, releases, injunctions und objections entscheiden den Plan?
-- Ist disclosure ausreichend: assets, liabilities, projections, liquidation analysis, feasibility und risk factors?
-- Drohen absolute-priority, unfair discrimination, best-interests oder good-faith-Probleme?
-- Welche deutsche Sicht braucht das Team: Gläubigerposition, Konzerninteressen, Steuern, Sicherheiten, Governance?
-
-**Mindest-Output:** Plan-Roadmap mit class chart, voting status, confirmation issues, objections und negotiation levers.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 4. `plan-support-agreements`
-
-**Fokus:** Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics.
-
-# Plan Support Agreements
-
-## Fachkern: Plan Support Agreements
-- **Spezialgegenstand:** Plan Support Agreements wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Plan Support Agreements** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. §§ 1125, 1126
-- Bankruptcy Rule 9019 if approval
-- Agreement docs
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Prepetition or postpetition solicitation?
-- Fiduciary out?
-- Milestones and termination?
-
-
-## Workflow
-
-1. Agreement terms review.
-2. Solicitation and disclosure risks.
-3. Plan leverage map.
-
-
-## Output
-
-- RSA review memo
-- Milestone table
-- Fiduciary-out issues
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Klassen, impairment, voting thresholds, releases, injunctions und objections entscheiden den Plan?
-- Ist disclosure ausreichend: assets, liabilities, projections, liquidation analysis, feasibility und risk factors?
-- Drohen absolute-priority, unfair discrimination, best-interests oder good-faith-Probleme?
-- Welche deutsche Sicht braucht das Team: Gläubigerposition, Konzerninteressen, Steuern, Sicherheiten, Governance?
-
-**Mindest-Output:** Plan-Roadmap mit class chart, voting status, confirmation issues, objections und negotiation levers.
 
 ## Qualitäts- und Risikofilter
 

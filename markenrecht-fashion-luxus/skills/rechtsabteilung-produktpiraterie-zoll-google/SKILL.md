@@ -1,43 +1,26 @@
 ---
 name: rechtsabteilung-produktpiraterie-zoll-google
-description: "Rechtsabteilung Produktpiraterie Zoll Google im Plugin Markenrecht Fashion Luxus: prüft konkret Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme, Rechtsabteilungs-Fachmodul für Google Ads und, Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen, Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Rechtsabteilung Produktpiraterie Zoll Google
+# Produktpiraterie und Zollbeschlagnahme
 
 ## Arbeitsbereich
 
-**Rechtsabteilung Produktpiraterie Zoll Google** ordnet den Fall über die tragenden Prüffelder: Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme, Rechtsabteilungs-Fachmodul für Google Ads und, Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. |
-| `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen` | Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-influencer-brand-use-und-erschoepfung` | Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Markenrecht für Fashion und Luxus klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
 - Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `produktpiraterie-und-zoll`
-
-**Fokus:** Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz.
-
-# Produktpiraterie und Zollbeschlagnahme
 
 ## Fachkern: Produktpiraterie und Zollbeschlagnahme
-- **Spezialgegenstand:** Produktpiraterie und Zollbeschlagnahme; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 Produktpiraterie kostet klôtzzkètté SA nach internen Schätzungen jährlich EUR 8-12 Millionen im EU-Markt — gefälschte Handtaschen aus Guangzhou, Parfumkopien aus der Türkei, Schals mit klôtzzkètté-Muster aus Bangladesch. Die Zollbehörden sind unsere wichtigsten Verbündeten.
 
@@ -169,9 +152,9 @@ beantragt. Der Importeur wurde von uns unterrichtet.
 ## Triage-Fragen bei Produktpiraterie
 
 Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
-1. Ist ein aktueller AWA-Antrag fuer alle eingetragenen Marken (DE und EU) beim Zoll hinterlegt?
+1. Ist ein aktueller AWA-Antrag für alle eingetragenen Marken (DE und EU) beim Zoll hinterlegt?
 2. Hat der Zoll bereits Sendungen beschlagnahmt — wenn ja, laeuft die 3-Werktage-Frist zur Einwilligung?
-3. Ist der Importeur / Anmelder bekannt und inlaendisch greifbar (fuer Vernichtungsklage)?
+3. Ist der Importeur / Anmelder bekannt und inlaendisch greifbar (für Vernichtungsklage)?
 4. Kommt das vereinfachte Vernichtungsverfahren (Art. 23 VO 608/2013) in Betracht?
 
 ## Aktuelle Rechtsprechung
@@ -202,146 +185,5 @@ Zoll-Kooperationspartner:
 
 ---
 <!-- AUDIT 27.05.2026 | bundle_037 | task 2/5
-Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NICHT fuer digitale Fälschungen — das Gegenteil des Urteilsinhalts.
+Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NICHT für digitale Fälschungen — das Gegenteil des Urteilsinhalts.
 -->
-
-## 2. `rechtsabteilung-google-ads-und-keyword-kollision`
-
-**Fokus:** Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
-
-# Rechtsabteilung: Google Ads und Keyword-Kollision
-
-## Fachkern: Rechtsabteilung: Google Ads und Keyword-Kollision
-- **Spezialgegenstand:** Rechtsabteilung: Google Ads und Keyword-Kollision; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Spezialkern: Rechtsabteilung: Google Ads und Keyword-Kollision
-
-- **Konkretes Problem:** Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet.
-- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-EuGH/BGH-Rechtsprechung live prüfen; MarkenG § 14; UWG
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
-## 3. `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen`
-
-**Fokus:** Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
-
-# Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
-
-## Fachkern: Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
-- **Spezialgegenstand:** Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Spezialkern: Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
-
-- **Konkretes Problem:** Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet.
-- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-VO EU 608/2013; MarkenG; Zollpraxis
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
-## 4. `rechtsabteilung-influencer-brand-use-und-erschoepfung`
-
-**Fokus:** Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
-
-# Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
-
-## Fachkern: Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
-- **Spezialgegenstand:** Rechtsabteilung: Influencer-Brand-Use und Erschöpfung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Spezialkern: Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
-
-- **Konkretes Problem:** Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft.
-- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-MarkenG §§ 14, 24; UWG; Plattform-AGB
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

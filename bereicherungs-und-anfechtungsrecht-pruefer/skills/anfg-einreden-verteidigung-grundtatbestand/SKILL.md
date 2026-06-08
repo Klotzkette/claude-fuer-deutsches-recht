@@ -1,36 +1,21 @@
 ---
 name: anfg-einreden-verteidigung-grundtatbestand
-description: "Anfg Einreden Verteidigung Grundtatbestand im Plugin Bereicherungs Und Anfechtungsrecht Pruefer: prüft konkret Mandant ist Anfechtungsgegner und will sich gegen, Grundvoraussetzungen der außerinsolvenzlichen, Kongruente und inkongruente Deckung sowie mittelbare, Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anfg Einreden Verteidigung Grundtatbestand
+# Einreden und Verteidigung des Anfechtungsgegners — AnfG
 
 ## Arbeitsbereich
 
-**Anfg Einreden Verteidigung Grundtatbestand** ordnet den Fall über die tragenden Prüffelder: Mandant ist Anfechtungsgegner und will sich gegen, Grundvoraussetzungen der außerinsolvenzlichen, Kongruente und inkongruente Deckung sowie mittelbare. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `anfg-einreden-und-verteidigung-anfechtungsgegner` | Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO. |
-| `anfg-grundtatbestand-und-anfechtungsberechtigte` | Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung. |
-| `anfg-mittelbare-benachteiligung-und-kongruenz` | Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmöglichkeit. Output: Prüfliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzprüfung §§ 130 131 InsO. |
-| `anfg-rechtsfolge-rueckgewaehr-11` | Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz, Bösgläubigkeit, Umfang der Rückgewähr. Output: Tenorvorschlag Duldungsurteil und Wertersatzberechnung. Abgrenzung: nicht InsO-Rechtsfolgen §§ 143 ff. InsO. |
+Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: §§ 812 ff. BGB, AnfG und Insolvenzanfechtung; §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten; § 135 Gesellschafterdarlehen, Bargeschäft; § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `anfg-einreden-und-verteidigung-anfechtungsgegner`
-
-**Fokus:** Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO.
-
-# Einreden und Verteidigung des Anfechtungsgegners — AnfG
 
 ## Triage — kläre die Verteidigungsstrategie
 
@@ -93,200 +78,31 @@ Hat der Anfechtungsgegner für das Empfangene eine Gegenleistung erbracht, kann 
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
-## 2. `anfg-grundtatbestand-und-anfechtungsberechtigte`
-
-**Fokus:** Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung.
-
-# AnfG-Grundtatbestand und Anfechtungsberechtigte
-
-## Zweck des Anfechtungsgesetzes
-
-Das Anfechtungsgesetz (AnfG) ermöglicht Gläubigern außerhalb des Insolvenzverfahrens, Vermögensverschiebungen des Schuldners rückgängig zu machen, die ihre Befriedigung vereiteln oder erschweren. Zentraler Unterschied zur Insolvenzanfechtung (§§ 129 ff. InsO): hier handelt der einzelne Gläubiger mit eigenem Vollstreckungstitel.
-
-## Triage — kläre vor Prüfung
-
-1. Liegt ein vollstreckbarer Titel des Gläubigers gegen den Schuldner vor?
-2. Ist die Forderung fällig und noch nicht verjährt?
-3. Ist die Vollstreckung fruchtlos verlaufen oder voraussichtlich fruchtlos?
-4. Wann wurde die anfechtbare Rechtshandlung vorgenommen? (Anfechtungsfristen §§ 3-8 AnfG)
-
-## Zentrale Normen
-
-- § 2 AnfG — Anfechtungsberechtigung (vollstreckbarer Titel + fällige Forderung + Fruchtlosigkeit)
-- §§ 3-8 AnfG — Anfechtungstatbestände (Vorsatzanfechtung, unentgeltliche Leistung, Deckungsanfechtung)
-- § 11 AnfG — Rechtsfolge: Duldung der Zwangsvollstreckung
-- § 13 AnfG — Klageform (Klage oder Widerspruch)
-- §§ 195 199 BGB — Verjährung (3 Jahre ab Kenntnis)
-- §§ 704-945 ZPO — Zwangsvollstreckung (Grundlage des Vollstreckungstitels)
-
-## Rechtsprechung (BGH — Leitsätze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Anfechtungsberechtigung — § 2 AnfG
-
-**Voraussetzungen:**
-1. **Vollstreckbarer Titel:** Der Gläubiger muss einen vollstreckbaren Schuldtitel gegen den Schuldner besitzen (Urteil, Vollstreckungsbescheid, vollstreckbare notarielle Urkunde nach § 794 Abs. 1 Nr. 5 ZPO).
-2. **Fällige Forderung:** Die Forderung muss fällig und durchsetzbar sein.
-3. **Fruchtlosigkeit der Zwangsvollstreckung:** § 2 AnfG verlangt, dass eine Vollstreckung in das Vermögen des Schuldners nicht zu vollständiger Befriedigung geführt hat oder voraussichtlich nicht führen wird (Fruchtlosigkeitstatbestand).
-
-**Prüffragen:**
-- Liegt ein Vollstreckungstitel vor?
-- Ist die Forderung fällig?
-- Ist die Zwangsvollstreckung fruchtlos verlaufen oder aussichtslos?
-
-## Anfechtungsgegner
-
-Anfechtungsgegner ist, wer die anfechtbare Rechtshandlung vorgenommen hat oder zu wessen Gunsten sie vorgenommen wurde.
-
-## Begriff der Rechtshandlung
-
-**Definition:** Jedes Handeln oder Unterlassen des Schuldners, das rechtlich erheblich ist und sein Vermögen zu Lasten der Gläubiger verändert.
-
-**Beispiele:**
-- Übereignung von Grundstücken oder Sachen.
-- Abtretung von Forderungen.
-- Belastung mit Grundpfandrechten.
-- Zahlung auf eine Schuld (kongruente Deckung).
-- Bestellung einer Sicherheit ohne entsprechende Vereinbarung (inkongruente Deckung).
-
-## Verfahren
-
-Die Anfechtung erfolgt durch Erhebung einer Anfechtungsklage (§ 13 AnfG) oder durch Widerspruch in der Zwangsvollstreckung.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-## 3. `anfg-mittelbare-benachteiligung-und-kongruenz`
-
-**Fokus:** Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmöglichkeit. Output: Prüfliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzprüfung §§ 130 131 InsO.
-
-# Mittelbare Benachteiligung und Kongruenz — AnfG
-
-## Triage — kläre vor Benachteiligungsprüfung
-
-1. Handelt es sich um unmittelbare oder mittelbare Benachteiligung?
-2. Entsprach die Leistung dem vertraglich Geschuldeten (kongruent) oder nicht (inkongruent)?
-3. Ist ein Bargeschäft (gleichwertiger Austausch) denkbar, das Benachteiligung entfallen lässt?
-4. Kausalzusammenhang zwischen Rechtshandlung und Benachteiligung nachweisbar?
-
-## Zentrale Normen
-
-- § 1 AnfG — Gläubigerbenachteiligung als allgemeine Voraussetzung aller Anfechtungstatbestände
-- § 3 AnfG — Vorsatzanfechtung (verschärft durch inkongruente Deckung als Indiz)
-- § 4 AnfG — Unentgeltliche Leistung (stets unmittelbare Benachteiligung)
-- § 142 InsO — Bargeschäftsprivileg (analoge Anwendung im AnfG str.)
-
-## Rechtsprechung (BGH — Benachteiligung und Kongruenz)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Gläubigerbenachteiligung als Voraussetzung
-
-Alle Anfechtungstatbestände des AnfG setzen voraus, dass Gläubiger durch die Rechtshandlung benachteiligt werden. Unterschieden wird zwischen unmittelbarer und mittelbarer Benachteiligung.
-
-## Unmittelbare Benachteiligung
-
-Die Rechtshandlung selbst (ohne weitere Zwischenschritte) verschlechtert die Befriedigungsaussichten der Gläubiger.
-
-**Beispiele:**
-- Unentgeltliche Übertragung von Vermögenswerten.
-- Bestellung einer Sicherheit ohne Gegenleistung.
-
-## Mittelbare Benachteiligung
-
-Die Benachteiligung tritt erst durch das Hinzutreten weiterer Umstände ein.
-
-**Beispiel:** Schuldner verwendet Kaufpreiserlös aus Grundstücksverkauf für eigenen Konsum statt für Gläubigerbefriedigung. Der Verkauf selbst war entgeltlich; die Benachteiligung entsteht erst durch die zweckfremde Verwendung des Erlöses.
-
-**Relevanz für AnfG:** Mittelbare Benachteiligung kann ausreichen, wenn der Kausalzusammenhang zwischen Rechtshandlung und Gläubigerbenachteiligung feststeht.
-
-## Kongruente Deckung
-
-**Definition:** Der Anfechtungsgegner erhält genau das, was ihm nach dem Vertrag und zur rechten Zeit zusteht.
-
-**Anfechtung kongruenter Deckung:** Nur über § 3 AnfG (Vorsatzanfechtung) möglich; höhere Anforderungen.
-
-## Inkongruente Deckung
-
-**Definition:** Der Anfechtungsgegner erhält etwas, das er in dieser Art, zu diesem Zeitpunkt oder überhaupt nicht hätte beanspruchen können.
-
-**Beispiele:**
-- Sicherheitsübereignung ohne vertragliche Verpflichtung dazu.
-- Vorzeitige Tilgung noch nicht fälliger Schulden.
-- Zahlung mit einem Gegenstand statt Geld (sofern nicht vereinbart).
-
-**Relevanz:** Inkongruente Deckung ist ein starkes Indiz für Benachteiligungsvorsatz (§ 3 AnfG) und erleichtert den Beweis erheblich.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-## 4. `anfg-rechtsfolge-rueckgewaehr-11`
-
-**Fokus:** Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz, Bösgläubigkeit, Umfang der Rückgewähr. Output: Tenorvorschlag Duldungsurteil und Wertersatzberechnung. Abgrenzung: nicht InsO-Rechtsfolgen §§ 143 ff. InsO.
-
-# Rechtsfolge: Rückgewähr — § 11 AnfG
-
-## Triage — kläre vor Vollstreckung
-
-1. Ist der Gegenstand noch beim Anfechtungsgegner vorhanden? (Duldungsklage möglich)
-2. Wurde der Gegenstand weiterveräußert oder verbraucht? (Wertersatz nach § 11 Abs. 2 AnfG)
-3. War der Anfechtungsgegner bösgläubig? (verschärfte Haftung für Nutzungen und Wertminderungen)
-4. Hat der Anfechtungsgegner eine Gegenleistung erbracht? (Rückforderungsrecht gegen Schuldner)
-
-## Zentrale Normen
-
-- § 11 Abs. 1 AnfG — Duldungspflicht: Anfechtungsgegner duldet Zwangsvollstreckung in den Gegenstand
-- § 11 Abs. 2 AnfG — Wertersatz bei Untergang; verschärfte Haftung bei Bösgläubigkeit
-- §§ 888 890 ZPO — Vollstreckung aus Duldungsurteil
-- §§ 812 ff. BGB — Bereicherungsrecht (Gegenleistungs-Rückforderung gegen Schuldner)
-- § 143 InsO — Rechtsfolge Insolvenzanfechtung (Vergleich: dort Rückgewähr zur Masse, hier nur Duldung)
-
-## Rechtsprechung (BGH — Rechtsfolge AnfG)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Grundsatz
-
-Die Anfechtung nach dem AnfG führt nicht zur Nichtigkeit der angefochtenen Rechtshandlung. Sie begründet nur eine Duldungspflicht des Anfechtungsgegners.
-
-## § 11 Abs. 1 AnfG — Duldungspflicht
-
-**Rechtsfolge:** Der Anfechtungsgegner ist verpflichtet, dem Gläubiger gegenüber so zu dulden, als ob die angefochtene Rechtshandlung nicht stattgefunden hätte. Der Anfechtungsgegner muss die Zwangsvollstreckung in den weggegebenen Gegenstand dulden.
-
-**Unterschied zu InsO:** Bei der InsO-Anfechtung ist der Gegenstand zur Insolvenzmasse zurückzugewähren (§ 143 InsO). Beim AnfG genügt die Duldung der Zwangsvollstreckung durch den klagenden Gläubiger.
-
-## Rückgewähr in Natur
-
-Ist die Rückgewähr des Gegenstands möglich und verhältnismäßig, kann der Gläubiger statt bloßer Duldung die Herausgabe verlangen (Naturalrestitution).
-
-## Wertersatz bei Unmöglichkeit
-
-Ist die Rückgewähr des Gegenstands unmöglich (Weiterveräußerung, Verbrauch, Untergang), schuldet der Anfechtungsgegner Wertersatz in Höhe des Verkehrswertes zum Zeitpunkt des Empfangs.
-
-**Bösgläubigkeit:** Kannte der Anfechtungsgegner den Anfechtungsgrund, haftet er für alle nach der Kenntnis eingetretenen Wertminderungen und für gezogene Nutzungen.
-
-## Gegenleistungs-Rückforderung
-
-Hat der Anfechtungsgegner eine Gegenleistung erbracht, kann er bei Rückgewähr des Gegenstands Rückforderung seiner Gegenleistung nach §§ 812 ff. BGB verlangen — dies nur gegen den Schuldner, nicht gegen den anfechtenden Gläubiger (h.M.).
-
-## Praktische Konsequenzen
-
-- Klageziel: Verurteilung des Anfechtungsgegners zur Duldung der Zwangsvollstreckung in den Gegenstand.
-- Hilfsantrag: Verurteilung zur Zahlung von Wertersatz.
-- Absicherung: Einstweilige Verfügung zur Sicherung des Duldungsanspruchs vor der Hauptsacheentscheidung.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung)
+- § 813 BGB (Leistung trotz Einrede)
+- § 814 BGB (Kenntnis der Nichtschuld)
+- § 815 BGB (Nichteintritt des Erfolges)
+- § 817 BGB (Verstoß gegen Verbotsgesetz)
+- § 818 BGB (Umfang des Bereicherungsanspruchs)
+- § 819 BGB (verschärfte Haftung)
+- § 820 BGB (Verbrauchskondiktion)
+- § 821 BGB (Einrede der Bereicherung)
+- §§ 119, 123 BGB (Anfechtung Willenserklärung)
+
+### Leitentscheidungen
+
+- BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
+- BGH VIII ZR 91/04 (Saldotheorie)
+- BGH V ZR 215/11 (Nichteintritt des Erfolges)
+- BGH IX ZR 196/14 (Insolvenzanfechtung)
+- BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung)
+
+### Anwendung im Skill
+
+- Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
+- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell pruefen.
+- Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.

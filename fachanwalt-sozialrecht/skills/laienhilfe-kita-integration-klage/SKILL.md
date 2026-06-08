@@ -7,28 +7,28 @@ description: "Laienhilfe Kita Integration Klage im Plugin Fachanwalt Sozialrecht
 
 ## Arbeitsbereich
 
-**Laienhilfe Kita Integration Klage** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Kita Integration, Laienverstaendlicher Sozialrechts-Skill zu Klage, Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Laienhilfe Kita Integration Klage** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Kita Integration, Laienverstaendlicher Sozialrechts-Skill zu Klage, Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-kita-integration` | Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-klage-sozialgericht-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-konto-pfaendung-sozialleistungen` | Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-krankengeld-ablauf` | Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-kita-integration` | Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-klage-sozialgericht-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-konto-pfaendung-sozialleistungen` | Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-krankengeld-ablauf` | Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-kita-integration`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Kita Integration
 
@@ -39,7 +39,6 @@ description: "Laienhilfe Kita Integration Klage im Plugin Fachanwalt Sozialrecht
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -88,7 +87,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -99,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-klage-sozialgericht-einfach`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Klage Sozialgericht Einfach
 
@@ -111,7 +109,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum es geht
 
 Dieser Skill erklaert **Klage Sozialgericht Einfach** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
@@ -120,7 +117,7 @@ Dieser Skill erklaert **Klage Sozialgericht Einfach** so, dass auch Menschen ohn
 
 - Klagefrist: § 87 SGG – einen Monat ab Zustellung Widerspruchsbescheid; drei Monate bei fehlender/fehlerhafter Belehrung § 66 SGG.
 - Klagearten: Anfechtungsklage § 54 Abs. 1 SGG (gegen Verwaltungsakt), Verpflichtungsklage § 54 Abs. 1 (auf Erlass VA), Leistungsklage § 54 Abs. 5 (auf konkrete Leistung), Feststellungsklage § 55 SGG.
-- Sachliche Zustaendigkeit: § 51 SGG – Sozialgericht (SG) erstinstanzlich; ortliche Zustaendigkeit § 57 SGG (Wohnsitz Klaeger).
+- Sachliche Zuständigkeit: § 51 SGG – Sozialgericht (SG) erstinstanzlich; ortliche Zuständigkeit § 57 SGG (Wohnsitz Klaeger).
 - Klage zu Protokoll: § 90 SGG – Klage auch zur Niederschrift der Geschaeftsstelle moeglich (besondere Erleichterung Selbstvertreter).
 - Postulationsfaehigkeit: § 73 SGG – vor SG kein Anwaltszwang (vor LSG/BSG anders, § 73 Abs. 4 SGG).
 - Gerichtskostenfreiheit: § 183 SGG – Versicherte, Leistungsempfaenger und Behinderte sind gerichtskostenfrei; nur Anwaltskosten.
@@ -169,7 +166,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -180,7 +176,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-konto-pfaendung-sozialleistungen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Konto Pfaendung Sozialleistungen
 
@@ -191,7 +187,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -240,7 +235,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -251,7 +245,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-krankengeld-ablauf`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Krankengeld Ablauf
 
@@ -262,7 +256,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -331,7 +324,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **EM-Rente § 43 SGB VI** bei dauerhafter Erwerbsminderung.
  - **Buergergeld** subsidiaer.
 - **Praxis-Tipp:** AU-Bescheinigungen immer am letzten Tag der AU verlaengern (besser einen Tag vorher); nie auf den Postweg verlassen; eAU bei Kasse pruefen lassen; Aerztewechsel mit aktueller Information vermeiden Lueckentage.
-
 
 ## Qualitäts-Hardening
 

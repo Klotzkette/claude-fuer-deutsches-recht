@@ -1,36 +1,21 @@
 ---
 name: persoenlicher-anwendungsbereich-polizeiliche
-description: "Persoenlicher Anwendungsbereich Polizeiliche im EU KI-VO (AI Act): prüft konkret Erster Schritt der KI-VO-Prüfung, Polizeiliche KI-Anwendungen, KI-Beschaffung der oeffentlichen Hand, Rechtsabteilungs-Fachmodul für General Purpose AI im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume) im Ki Vo Ai Act Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Persoenlicher Anwendungsbereich Polizeiliche
+# Persönlicher Anwendungsbereich — Rollen nach Art. 3 KI-VO
 
 ## Arbeitsbereich
 
-**Persoenlicher Anwendungsbereich Polizeiliche** ordnet den Fall über die tragenden Prüffelder: Erster Schritt der KI-VO-Prüfung, Polizeiliche KI-Anwendungen, KI-Beschaffung der oeffentlichen Hand. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `persoenlicher-anwendungsbereich-rollen-art-3` | Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume). |
-| `polizeiliche-ki-vertrauenswuerdigkeit-din-spec` | Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz. |
-| `public-sector-ai-procurement-ausschreibung` | KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme. |
-| `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun` | Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im EU KI-Verordnung (AI Act) — Prüfung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: KI-VO Art. 5 Verbote ab 02.02.2025, Art. 51-55 GPAI ab 02.08.2025, Hochrisiko Anhang III ab 02.08.2026, Hochrisiko Anhang I ab 02.08.2027, schwerwiegender Vorfall 15 Tage / 2 Tage (Tod).
 - Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `persoenlicher-anwendungsbereich-rollen-art-3`
-
-**Fokus:** Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume).
-
-# Persönlicher Anwendungsbereich — Rollen nach Art. 3 KI-VO
 
 ## Zweck
 
@@ -140,143 +125,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-
-## 2. `polizeiliche-ki-vertrauenswuerdigkeit-din-spec`
-
-**Fokus:** Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz.
-
-# Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit
-
-## Einsatzfälle
-
-- Bild- oder Videoanalyse.
-- Lagebild- und Einsatzpriorisierung.
-- Ermittlungsassistenz.
-- Mustererkennung in Massendaten.
-- Übersetzung, Transkription, Kommunikationsanalyse.
-- Prognose- oder Risikomodelle.
-
-## Prüffragen
-
-1. Rechtsgrundlage und Zweck: Gefahrenabwehr, Strafverfolgung, Verwaltung?
-2. KI-VO: Anhang III Strafverfolgung oder Biometrie betroffen?
-3. Daten: Herkunft, Qualität, Bias, Aktualität, Löschung.
-4. Menschliche Kontrolle: Wer darf übersteuern und wie wird das dokumentiert?
-5. Audit: Logs, Modellversion, Trainings-/Testdaten, Fehlerraten.
-6. Grundrechte: Einschüchterung, Diskriminierung, Versammlungsfreiheit, Datenschutz.
-7. Beschaffung: Anforderungen in Leistungsbeschreibung und Vertrag.
-
-## Mindestanforderungen
-
-- Zweckbindung statt Datenstaubsauger.
-- dokumentierte Fehlerraten und Grenzen.
-- unabhängige Überprüfung kritischer Treffer.
-- klare Nichtnutzungsszenarien.
-- Betroffenen- und Rechtsschutzperspektive.
-
-## Output
-
-Ein Beschaffungs- oder Einsatzvermerk mit Ampel und Abhilfen.
-
-## Warnung
-
-Bei Polizei-KI ist "Treffer" nur ein Hinweis. Er darf nicht unbemerkt zum Beweis, zur Verdachtsbegründung oder zur Einsatzentscheidung mutieren.
-
-## 3. `public-sector-ai-procurement-ausschreibung`
-
-**Fokus:** KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme.
-
-# Öffentliche KI-Beschaffung
-
-## Ziel
-
-Behörden sollen KI nicht blind einkaufen. Dieser Skill baut Ausschreibungs- und Abnahmeanforderungen, die KI-VO, Datenschutz, Grundrechte und technische Wirklichkeit zusammenbringen.
-
-## Normanker
-
-- KI-VO Art. 3 Nr. 1, Art. 6 Abs. 2 und Anhang III für KI-System, Hochrisiko und Zweckbestimmung.
-- KI-VO Art. 9 bis 15 und Art. 26 für Hochrisiko-Anforderungen und Betreiberpflichten; Art. 27 für Grundrechte-Folgenabschätzung, soweit einschlägig.
-- KI-VO Art. 50 für Transparenzpflichten bei bestimmten KI-Systemen, insbesondere Interaktion, synthetische Inhalte und Deepfakes.
-- DSGVO Art. 5, 6, 22, 25, 28, 32, 35; BDSG/Landesdatenschutzrecht je nach Behörde.
-- GWB §§ 97 ff., VgV/UVgO und Haushaltsrecht für Vergabe, Wirtschaftlichkeit, Eignung, Zuschlagskriterien und Dokumentation.
-- BSI-IT-Grundschutz, Cloud-/Souveränitätsvorgaben, Barrierefreiheit und Open-Source-/Exit-Anforderungen nur konkret nach Beschaffungsgegenstand einbauen.
-
-## Ausschreibungsfragen
-
-1. Welcher Verwaltungsprozess soll unterstützt werden?
-2. Gibt es Entscheidungsvorbereitung mit Bürgerwirkung?
-3. Ist Anhang III betroffen?
-4. Welche Daten werden verarbeitet?
-5. Gibt es Transparenz gegenüber Betroffenen?
-6. Wie wird menschliche Kontrolle organisiert?
-7. Welche Abnahme- und Testdaten gibt es?
-8. Wie wird Vendor Lock-in verhindert?
-9. Welche Zweckänderungen sind verboten und wie werden sie technisch verhindert?
-10. Welche Nachweise muss der Anbieter vor Zuschlag, vor Abnahme und laufend liefern?
-11. Welche Mindestanforderungen sind Ausschlusskriterien und welche nur Wertungskriterien?
-12. Wie werden Beschwerden, Akteneinsicht, IFG-Anfragen und gerichtliche Kontrolle später bedient?
-
-## Vertragsanforderungen
-
-- Zweckbestimmung und verbotene Zweckänderungen.
-- KI-VO-Dokumentation.
-- Audit- und Einsichtsrechte.
-- Modelländerungsanzeige.
-- Incident-Meldung.
-- Daten- und Exit-Rechte.
-- Barrierefreiheit und Nachvollziehbarkeit.
-- Unterauftragnehmer- und Modellkettenoffenlegung.
-- Testdaten-Governance, Bias-/Fehleranalyse und Regressionsprüfung vor Produktivsetzung.
-- Auditierbare menschliche Aufsicht: wer darf überstimmen, stoppen, freigeben, protokollieren?
-- Change-Control für Modellupdates, Prompt-/Systemänderungen, neue Datenquellen und neue Einsatzbereiche.
-
-## Output
-
-- Ausschreibungsklauseln.
-- Bewertungsmatrix.
-- Abnahmeprotokoll.
-- Grundrechte- und Datenschutz-Gate.
-
-## Merksatz
-
-Der öffentliche Auftraggeber beschafft nicht nur Software, sondern Verwaltungsmacht. Die muss prüfbar bleiben.
-
-## 4. `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun`
-
-**Fokus:** Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
-
-# Rechtsabteilung: General Purpose AI im Konzern und Zweckbestimmung
-
-## Spezialkern: Rechtsabteilung: General Purpose AI im Konzern und Zweckbestimmung
-
-- **Konkretes Problem:** Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft.
-- **Norm-/Quellenanker:** KI-Verordnung (EU) 2024/1689, Art. 3, 5, 6, 9-15, 16 ff., 26, 50, 53 ff., Anhänge I und III; DSGVO; Produktsicherheits-/Produkthaftungsrecht; nationale Aufsichtspraxis.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-VO EU 2024/1689 Art. 3, 6, 53 ff.; Anhang III
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

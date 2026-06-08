@@ -27,7 +27,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **§ 139 ZPO** — Hinweispflicht.
 - **§ 141 ZPO** — Persoenliches Erscheinen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — 2 Wochen vor Termin
 
@@ -53,7 +53,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **Klage-Akten** (alle Schriftsaetze).
 - **Originale der Urkunden**.
 - **Stichwort-Notizen** der eigenen Argumente.
-- **Anfangs-Vorschlag fuer Vergleich** (falls eroeffnet).
+- **Anfangs-Vorschlag für Vergleich** (falls eroeffnet).
 - **Schreibmaterial**.
 
 ### Schritt 5 — Schluessel-Argumente vorbereiten
@@ -98,9 +98,9 @@ Vor Termin entscheiden:
 
 Bei Vergleich im Termin: nicht spontan entscheiden, sondern auf vorbereitete Spielraeume zurueckgreifen. Skill `vergleich-richtervorschlag-278-ii-zpo`.
 
-### Schritt 8 — Bei persoenlichem Erscheinen (§ 141 ZPO)
+### Schritt 8 — Bei persönlichem Erscheinen (§ 141 ZPO)
 
-Wenn Gericht persoenliches Erscheinen anordnet:
+Wenn Gericht persönliches Erscheinen anordnet:
 
 - Sie muessen selbst kommen.
 - Sie werden ggf. informatorisch befragt.
@@ -120,7 +120,7 @@ Wenn Gericht persoenliches Erscheinen anordnet:
 
 ## Worauf Sie besonders achten muessen
 
-- **Anwesenheit pflichtschuldig** bei persoenlichem Erscheinen.
+- **Anwesenheit pflichtschuldig** bei persönlichem Erscheinen.
 - **Originale dabei**.
 - **Eigene Schriftsaetze kennen**: Sie muessen wissen, was Sie geschrieben haben.
 - **Vergleichs-Spielraum** vorab definieren.
@@ -142,7 +142,6 @@ Wenn Gericht persoenliches Erscheinen anordnet:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

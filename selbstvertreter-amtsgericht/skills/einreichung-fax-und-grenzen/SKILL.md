@@ -7,7 +7,7 @@ description: "Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schrif
 
 ## Worum geht es?
 
-Fax war jahrzehntelang der Standard fuer kurzfristige Einreichungen im Justizalltag. Auch heute ist es nicht tot — viele Gerichte halten Fax-Anschluesse. Fuer Buerger ist Fax oft eine pragmatische Loesung, wenn die Frist droht und MJP nicht eingerichtet ist. Aber: Fax ist fehleranfaellig und nicht uneingeschraenkt rechtssicher. Diese Skill zeigt die Grenzen.
+Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizalltag. Auch heute ist es nicht tot — viele Gerichte halten Fax-Anschluesse. Fuer Buerger ist Fax oft eine pragmatische Loesung, wenn die Frist droht und MJP nicht eingerichtet ist. Aber: Fax ist fehleranfaellig und nicht uneingeschraenkt rechtssicher. Diese Skill zeigt die Grenzen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Fax war jahrzehntelang der Standard fuer kurzfristige Einreichungen im Justizall
 - **§ 130a ZPO** — Elektronisches Dokument (Fax faellt grundsaetzlich darunter, wenn Anforderungen erfuellt).
 - **§ 167 ZPO** — Rueckwirkung Zustellung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fax-Nummer des Gerichts ermitteln
 
@@ -85,7 +85,7 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 
 - "Ich sende und vergesse Sendebericht." → Beweisfrei.
 - "Ich sehe nur 'gesendet' im Display." → "Gesendet" heisst nicht "empfangen". Sendebericht "OK" ist entscheidend.
-- "Fax statt MJP fuer staendige Einreichung." → Auf Dauer zu fehleranfaellig. Wenden Sie sich an MJP.
+- "Fax statt MJP für staendige Einreichung." → Auf Dauer zu fehleranfaellig. Wenden Sie sich an MJP.
 
 ## Querverweise
 
@@ -97,7 +97,6 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.
-
 
 ## Qualitäts-Hardening
 

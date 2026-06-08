@@ -1,33 +1,33 @@
 ---
 name: anlageberatung-fehlerhaft-cybertrading
-description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüffeld für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Anlageberatung Fehlerhaft Cybertrading
 
 ## Arbeitsbereich
 
-**Anlageberatung Fehlerhaft Cybertrading** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anlageberatung Fehlerhaft Cybertrading** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Prüffeld für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Prüfungslinie für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung). |
-| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Prüffeld für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Prüfungslinie für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bank- und Kapitalmarktrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`
 
-**Fokus:** Prüffeld für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anlageberatung fehlerhaft
 
@@ -38,7 +38,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 3. Welche Risikoklasse hat der Mandant in seinem WpHG-Bogen angegeben? Wurde Risikobereitschaft und Anlageziel erfragt?
 4. Hat die Bank über Rückvergütungen (Kick-backs) oder Innenprovisionen aufgeklärt?
 5. Wie hoch ist der eingetretene Schaden (Erwerbsschaden, entgangener Gewinn)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -60,7 +60,6 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 ```
 1. Beratungssituation (Beratungsvertrag konkludent?)
 2. Pflicht zu anleger- und anlagegerechter Beratung
@@ -71,7 +70,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
  - Totalverlustrisiko (geschlossene Fonds)
 4. Geeignetheitserklaerung § 64 Abs. 4 WpHG analysieren (bzw. § 34 Abs. 2a WpHG aF bis 02.01.2018)
 5. Schaden berechnen (Erwerbsschaden + entgangener Gewinn)
-6. Verjaehrung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
+6. Verjährung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
 ```
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -123,7 +122,6 @@ Mit freundlichen Gruessen
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Übergabe
 
 - Bei Ablehnung: Klage am Sitz der Bank bzw. Wohnsitz des Anlegers § 32b ZPO bei kapitalanlegerrechtlichem Musterverfahren prüfen.
@@ -143,7 +141,7 @@ Mit freundlichen Gruessen
 ### Ergaenzende Leitsaetze
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Schritt-fuer-Schritt-Anlageberatungsfehler
+### Schritt-für-Schritt-Anlageberatungsfehler
 1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.
 2. **Beratungsprotokoll anfordern** (§ 83 WpHG, § 64 Abs. 4 WpHG): 3-Tage-Frist auf Herausgabe.
 3. **Pruefung Kickbacks:** Bank-interne Vertriebsprovision vom Emittenten = aufklaerungspflichtig.
@@ -409,7 +407,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Cybertrading-Betrug
-- § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmaessiger Betrug
+- § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmäßiger Betrug
 - § 263a StGB — Computerbetrug
 - § 261 StGB — Geldwaesche
 - § 826 BGB — vorsaetzliche sittenwidrige Schaedigung (Vermittler)
@@ -422,7 +420,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`
 
-**Fokus:** Prüffeld für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Kreditkündigung
 
@@ -569,3 +567,29 @@ Wir fordern Zuruecknahme der Kuendigung bis [DATUM +7 Tage].
 
 [Rechtsanwalt/-anwaeltin]
 ```
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 82 DSGVO
+- § 64 WpHG
+- § 263 StGB
+- § 4b FinDAG
+- § 31 BDSG
+- § 44 KWG
+- § 10 ZAG
+- § 1 KWG
+- § 32 KWG
+- § 25a KWG
+- § 1 ZAG
+- Art. 22 DSGVO
+
+### Leitentscheidungen
+
+- BGH XI ZR 22/24
+- BGH XI ZR 133/24
+- EuGH C-26/22
+- EuGH C-634/21
+- BGH VI ZR 183/22
+

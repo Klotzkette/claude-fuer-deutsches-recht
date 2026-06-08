@@ -1,32 +1,7 @@
 ---
 name: stellungnahme-evaluationsklausel
-description: "Stellungnahme Evaluationsklausel im Plugin Normenkontrollrat Nkr: prüft konkret Fachmodul fuer den NKR-Empfehlungs-Baustein, Behandlung von Formulierungshilfen der Bundesregierung an. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fachmodul für den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen für die Stellungnahme."
 ---
-
-# Stellungnahme Evaluationsklausel
-
-## Arbeitsbereich
-
-**Stellungnahme Evaluationsklausel** ordnet den Fall über die tragenden Prüffelder: Fachmodul fuer den NKR-Empfehlungs-Baustein, Behandlung von Formulierungshilfen der Bundesregierung an. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-stellungnahme-evaluationsklausel-vorschlag` | Fachmodul fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme. |
-| `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf` | Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung. |
-
-## Arbeitsweg
-
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
-- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-stellungnahme-evaluationsklausel-vorschlag`
-
-**Fokus:** Fachmodul fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme.
 
 # NKR-Stellungnahme — Vorschlag einer Evaluationsklausel
 
@@ -50,7 +25,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - **Konzept zur Evaluierung neuer Regelungsvorhaben** der Bundesregierung
 - **Leitfaden BMI / NKR** — Evaluierungsmodul
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Frist** waehlen — 3, 5 oder 10 Jahre (siehe Skill `nkr-evaluierung-befristung-sunset-klausel`)
 2. **Adressat** bestimmen — meist Bundestag
@@ -108,10 +83,10 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 >
 > *(2) Der Bericht enthaelt insbesondere Aussagen zu*
 > *1. der tatsaechlichen Fallzahl der nach diesem Gesetz Verpflichteten,*
-> *2. dem tatsaechlichen jaehrlich laufenden Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung sowie dem einmaligen Umstellungsaufwand,*
+> *2. dem tatsaechlichen jaehrlich laufenden Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung sowie dem einmaligen Umstellungsaufwand,*
 > *3. der Zielereichung im Sinne von [Konkretisierung des Gesetzeszwecks],*
 > *4. unbeabsichtigten Folgen, insbesondere Ausweich- und Vermeidungsverhalten,*
-> *5. der Vollzugspraxis bei den zustaendigen Behoerden,*
+> *5. der Vollzugspraxis bei den zuständigen Behörden,*
 > *6. den Auswirkungen auf kleine und mittlere Unternehmen, sowie*
 > *7. Vorschlaegen zur Anpassung dieses Gesetzes.*
 
@@ -138,103 +113,3 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-
-**Fokus:** Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung.
-
-# NKR-Formulierungshilfe vs. Referentenentwurf
-
-## Worum geht es konkret
-
-Formulierungshilfen der Bundesregierung an Koalitionsfraktionen sind ein parlamentarisch eingespieltes Instrument. Sie umgehen formal die regulaere Ressortabstimmung — und damit auch die foermliche NKR-Befassungspflicht. Die Praxis hat sich aber so entwickelt, dass der NKR auch bei Formulierungshilfen befasst wird (faktisch).
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Vorgang wird als "Formulierungshilfe" gekennzeichnet
-- Inhaltlich entspricht es einem Referentenentwurf
-- NKR wird informell oder formell um Stellungnahme gebeten
-- Politisch heikles Vorhaben mit knapper Frist
-
-Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung an die Koalitionsfraktionen vor oder ein formaler Referentenentwurf?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **NKRG** § 4 — Befassungspflicht (formal nur fuer Regierungsvorhaben)
-- **GGO** § 62 — Befassungspflicht vor Kabinett
-- **GO BT** §§ 75 ff. — Initiativen aus der Mitte des Bundestages
-- **Praxis** — faktische NKR-Beteiligung bei Formulierungshilfen
-- **NKR-Jahresbericht** — wiederholte Mahnungen zur Umgehungsproblematik
-
-## Pruefraster / Schritt fuer Schritt
-
-### 1. Identifikation
-
-- Wird das Vorhaben als "Formulierungshilfe" bezeichnet?
-- Wer ist der formale Initiator (Fraktionen) und materielle Initiator (Ressort)?
-- Welcher Inhalt — entspricht es einem Referentenentwurf?
-
-### 2. NKR-Befassung
-
-- Formelle Pflicht? -> nein (Initiative aus der Mitte des BT)
-- Faktische Praxis? -> ja, in der Regel wird der NKR informell oder formell befasst
-- Ggf. Anhoerung im Ausschuss als formales Aequivalent
-
-### 3. Methodische Besonderheiten
-
-- Begruendungstext oft luckenhaft
-- Erfuellungsaufwand-Darstellung haeufig unvollstaendig
-- Methodik kann unklar sein
-
-### 4. Stellungnahme-Konsequenz
-
-- Hinweis auf Umgehung der formalen Beteiligung
-- Methodischer Standard wie bei Referentenentwurf
-- Empfehlung an Bundestag, Erfuellungsaufwand-Darstellung nachzuziehen
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Formulierungshilfe ohne Erfuellungsaufwand-Darstellung
-- Verkuerzte Fristen
-- Gezielte Umgehung der NKR-Befassung
-- Politisch motivierte Eilbeduerftigkeit
-- Wiederholte Umgehungspraxis (-> Jahresbericht)
-
-## Trade-off-Matrix
-
-| Konstellation | NKR-Position |
-|---|---|
-| Formulierungshilfe mit vollstaendiger Begruendung | normale Pruefung |
-| Formulierungshilfe mit unvollstaendiger Begruendung | Mahnung, Empfehlung zur Nachbesserung |
-| Eilfall mit sachlicher Begruendung | knappe Stellungnahme |
-| Eilfall ohne sachliche Begruendung | Mahnung, Jahresbericht |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der NKR ist mit dem Vorhaben in Form einer Formulierungshilfe der Bundesregierung an die Koalitionsfraktionen befasst worden. Die foermliche Befassungspflicht nach NKRG ist insoweit zwar nicht ausgeloest, der NKR nimmt jedoch in Wahrnehmung seiner Aufgabe Stellung."
-- "Der NKR weist darauf hin, dass die mit der Formulierungshilfe vorgesehene Regelung gemaess Inhalt und Umfang einem Referentenentwurf entspricht und sich deshalb an den methodischen Anforderungen fuer Regierungsentwuerfe messen lassen muss."
-- "Der NKR empfiehlt, die im Rahmen der Formulierungshilfe noch nicht vollstaendige Darstellung des Erfuellungsaufwands im weiteren Beratungsverlauf des Bundestages durch die Bundesregierung zu ergaenzen."
-- "Der NKR wird auf das Phaenomen der wiederholten Inanspruchnahme von Formulierungshilfen ohne vollstaendige methodische Darstellung in seinem naechsten Jahresbericht eingehen."
-
-## Typische Fehler in Ressort-Entwuerfen / Formulierungshilfen
-
-- "Formal nur eine Empfehlung an die Fraktionen"
-- "Erfuellungsaufwand-Darstellung erfolgt im weiteren Verfahren"
-- "NKR-Befassung nicht erforderlich, da Initiative aus der Mitte"
-- Begruendungstext fragmentarisch
-
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-stellungnahme-pressepolitik-und-jahresbericht`
-- `legistik-werkstatt/legw-gesetzgebungsverfahren-bauleiter`
-
-## Quellen Stand 06/2026
-
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- §§ 47, 62 GGO
-- GO BT §§ 75 ff.
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe) — wiederholt zur Umgehungsproblematik
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundestag.de](https://www.bundestag.de)

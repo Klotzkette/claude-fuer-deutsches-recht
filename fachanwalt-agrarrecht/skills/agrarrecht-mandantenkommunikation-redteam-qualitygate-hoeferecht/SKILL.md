@@ -7,23 +7,40 @@ description: "Mandantenkommunikation Redteam Qualitygate Hoeferecht im Agrarrech
 
 ## Arbeitsbereich
 
-**Mandantenkommunikation Redteam Qualitygate Hoeferecht** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Mandantenkommunikation Redteam Qualitygate Hoeferecht** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-agrarrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-agrarrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-hoeferecht-fristen-form-und-zustaendigkeit` | Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hoeferecht-fristen-form-und-zuständigkeit` | Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; landesrechtliche Wald-, Jagd-, Naturschutz- und Landwirtschaftsregeln live ergänzen, wenn sie den konkreten Auftrag tragen:
+
+- `§ 581 Abs. 1 BGB` — Pachtvertrag als Grundtyp.
+- `§ 585 Abs. 1 BGB` — Landpachtvertrag.
+- `§ 594a Abs. 1 BGB` — Kündigung und Fristen im Landpachtrecht.
+- `§ 1 GrdstVG` — Genehmigungspflicht im landwirtschaftlichen Grundstücksverkehr.
+- `§ 9 GrdstVG` — Versagungsgründe.
+- `§ 1 HöfeO` — Hofeigenschaft.
+- `§ 5 HöfeO` — Hoferbenstellung und Wirtschaftsfähigkeit live prüfen.
+- `§ 9 BWaldG` — Waldumwandlung.
+- `§ 11 BWaldG` — ordnungsgemäße Bewirtschaftung des Waldes.
+- `§ 14 BWaldG` — Betreten des Waldes.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Agrarrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -95,18 +112,14 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
-## 3. `spezial-hoeferecht-fristen-form-und-zustaendigkeit`
+## 3. `spezial-hoeferecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg / hoeferecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

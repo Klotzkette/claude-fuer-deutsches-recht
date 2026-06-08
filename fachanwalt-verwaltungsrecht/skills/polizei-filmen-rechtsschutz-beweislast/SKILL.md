@@ -7,10 +7,10 @@ description: "Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwal
 
 ## Arbeitsbereich
 
-**Polizei Filmen Rechtsschutz Beweislast** ordnet den Fall über die tragenden Prüffelder: Polizei, Polizeirecht, Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Polizei Filmen Rechtsschutz Beweislast** ordnet den Fall über die tragenden Prüfungslinien: Polizei, Polizeirecht, Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-polizei-compliance-dokumentation-und-akte` | Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb` | Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung, Beschlagnahme und verwaltungsgerichtliche Abwehr. |
@@ -18,12 +18,12 @@ description: "Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwal
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verwaltungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-polizei-compliance-dokumentation-und-akte`
 
@@ -32,11 +32,7 @@ description: "Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwal
 # Polizei: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Polizei: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Polizei: Compliance-Dokumentation und Aktenvermerk / polizei compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, VwVfG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -155,11 +151,7 @@ Ein pauschales Einschreiten gegen das Anfertigen von Bild- oder Videoaufnahmen t
 # Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung / rechtsschutz beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, VwVfG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

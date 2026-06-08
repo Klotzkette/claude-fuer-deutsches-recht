@@ -13,39 +13,39 @@ description: "Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG er
 
 ## Worum geht es?
 
-Bevor Sie klagen, muessen Sie wissen: Ist das Sozialgericht ueberhaupt zustaendig? Nicht jeder Streit mit einer Behoerde gehoert dorthin. Manche Sachen gehen vor das Verwaltungsgericht. Andere vor das Arbeitsgericht. Diese Skill hilft Ihnen, das richtige Gericht zu finden.
+Bevor Sie klagen, muessen Sie wissen: Ist das Sozialgericht ueberhaupt zuständig? Nicht jeder Streit mit einer Behörde gehoert dorthin. Manche Sachen gehen vor das Verwaltungsgericht. Andere vor das Arbeitsgericht. Diese Skill hilft Ihnen, das richtige Gericht zu finden.
 
 ## In einfacher Sprache
 
-Es gibt verschiedene Gerichte. Nicht jedes Gericht ist fuer Sie zustaendig. Das Sozialgericht macht Sachen wie Rente und Buergergeld. Wir sagen Ihnen, ob Sie richtig sind.
+Es gibt verschiedene Gerichte. Nicht jedes Gericht ist für Sie zuständig. Das Sozialgericht macht Sachen wie Rente und Buergergeld. Wir sagen Ihnen, ob Sie richtig sind.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie sind unsicher, ob Ihr Fall ans Sozialgericht gehoert.
-- Ihr Bescheid kommt von einer Behoerde, die Sie nicht kennen.
+- Ihr Bescheid kommt von einer Behörde, die Sie nicht kennen.
 - Sie haben eine Klage an das falsche Gericht geschickt.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Sachliche Zustaendigkeit**: Welches Gericht macht das Thema?
-- **Oertliche Zustaendigkeit**: Welches Gericht in welcher Stadt? (Siehe `oertliche-zustaendigkeit-57-sgg`.)
+- **Sachliche Zuständigkeit**: Welches Gericht macht das Thema?
+- **Oertliche Zuständigkeit**: Welches Gericht in welcher Stadt? (Siehe `oertliche-zuständigkeit-57-sgg`.)
 - **Verweisung**: Wenn Sie beim falschen Gericht sind, schickt das Gericht den Fall weiter (§ 98 SGG i.V.m. § 17a GVG).
 
 ## Rechtsgrundlagen
 
 - **§ 51 SGG** — Was ist Sozialgerichtsbarkeit?
-- **§ 98 SGG** — Verweisung bei falscher Zustaendigkeit.
+- **§ 98 SGG** — Verweisung bei falscher Zuständigkeit.
 - **§ 17a GVG** — Verfahren der Verweisung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, was im Bescheid steht
 
-Im Bescheid steht oft, welches Gericht zustaendig ist (Rechtsbehelfsbelehrung). Vertrauen Sie der Belehrung, wenn sie da steht.
+Im Bescheid steht oft, welches Gericht zuständig ist (Rechtsbehelfsbelehrung). Vertrauen Sie der Belehrung, wenn sie da steht.
 
-### Schritt 2 — Themen-Liste fuer das Sozialgericht
+### Schritt 2 — Themen-Liste für das Sozialgericht
 
-Das Sozialgericht ist zustaendig fuer:
+Das Sozialgericht ist zuständig für:
 
 - **Krankenversicherung** (SGB V): Kassenpflichten, Krankengeld, Leistungsablehnungen
 - **Pflegeversicherung** (SGB XI): Pflegegrad, Pflegeleistungen
@@ -91,14 +91,13 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `oertliche-zustaendigkeit-57-sgg` — welches SG in Ihrer Stadt
+- `oertliche-zuständigkeit-57-sgg` — welches SG in Ihrer Stadt
 - `sozialleistungen-uebersicht-sgb` — alle Sozialleistungen
 - `klagearten-uebersicht-sgg` — welche Klage passt
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Pruefen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.
-
 
 ## Qualitäts-Hardening
 

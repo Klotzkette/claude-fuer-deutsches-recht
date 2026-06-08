@@ -7,10 +7,10 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 
 ## Arbeitsbereich
 
-**Pflichtteilsergaenzung Schenkung** ordnet den Fall über die tragenden Prüffelder: Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Pflichtteilsergaenzung Schenkung** ordnet den Fall über die tragenden Prüfungslinien: Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` | Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung). |
 | `fachanwalt-erbrecht-testamentsvollstreckung` | Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung. |
@@ -18,12 +18,12 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Erbrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-erbrecht-pflichtteilsergaenzung-2325`
 
@@ -38,7 +38,6 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -137,7 +136,7 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 - Abschmelzungs-Tabelle
 - Niederstwertprinzip korrekt anwenden
 
-## 7) Verjaehrung
+## 7) Verjährung
 
 - **3 Jahre** ab Kenntnis des Erbfalls und der Schenkung
 - Hoechstens 30 Jahre ab Erbfall
@@ -179,7 +178,6 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Mandantenfragen beim Kaltstart
 
 1. Art der TV: Abwicklungs-TV (§ 2203 BGB), Verwaltungs-TV (§ 2209 BGB) oder Dauer-TV (§ 2210 BGB)?
@@ -190,7 +188,7 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 6. Bestehen Konflikte zwischen Erben, zwischen Erben und TV oder mit Pflichtteilsberechtigten?
 7. Hat der TV das Amt bereits angenommen oder wird Beratung vor der Annahme-Entscheidung begehrt?
 8. Liegt Pflichtverletzung des TV vor — Grundlage Entlassungsantrag § 2227 BGB?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -222,7 +220,6 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 ## Prüfschema — TV-Amtsführung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -470,7 +467,6 @@ Anlagen: Beweise für Pflichtverletzungen
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Partei | Beweislastgegenstand | Beweismittel |
@@ -550,12 +546,10 @@ Anlagen: Beweise für Pflichtverletzungen
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Mediation / Vergleich bei Erbengemeinschaft
 
 - **Spezialfrage (Mediation / Vergleich bei Erbengemeinschaft):** Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
-
 
 ## Aktuelle Rechtsprechung
 

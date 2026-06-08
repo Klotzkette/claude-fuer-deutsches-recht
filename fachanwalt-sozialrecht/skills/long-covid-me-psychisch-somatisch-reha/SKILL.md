@@ -7,24 +7,24 @@ description: "Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozial
 
 ## Arbeitsbereich
 
-**Long Covid ME Psychisch Somatisch Reha** ordnet den Fall über die tragenden Prüffelder: ME/CFS, PEM und Beweisführung, Long-Covid psychisch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Long Covid ME Psychisch Somatisch Reha** ordnet den Fall über die tragenden Prüfungslinien: ME/CFS, PEM und Beweisführung, Long-Covid psychisch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `long-covid-me-cfs-pem-beweis` | ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.; Normanker: SGB VI § 43; SGB IX § 152; SGG §§ 103 und 106; AWMF Long/Post-COVID; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 | `long-covid-psychisch-oder-somatisch` | Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.; Normanker: SGB X Amtsermittlung; SGB VI § 43; SGB IX § 152; ICD U09.9 als Zusatzkennzeichen; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 | `long-covid-reha-und-teilhabe` | Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.; Normanker: SGB IX Teilhabe; SGB VI Reha; SGB V Heil-/Hilfsmittel; SGB III; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `mandanten-intake` | Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check). |
+| `mandanten-intake` | Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behörden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check). |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `long-covid-me-cfs-pem-beweis`
 
@@ -39,7 +39,6 @@ description: "Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozial
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Auftrag
 
@@ -75,7 +74,6 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Auftrag
 
 Dieser Skill prüft Long-Covid/Post-Covid nicht als Schlagwort, sondern als sozialrechtliche Funktions- und Beweisfrage. Entscheidend sind Leistungsvermögen, Teilhabe, Kausalität, Dauer, objektivierbare Befunde, konsistente Alltagsschilderung und verwertbare ärztliche Unterlagen.
@@ -110,7 +108,6 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Auftrag
 
 Dieser Skill prüft Long-Covid/Post-Covid nicht als Schlagwort, sondern als sozialrechtliche Funktions- und Beweisfrage. Entscheidend sind Leistungsvermögen, Teilhabe, Kausalität, Dauer, objektivierbare Befunde, konsistente Alltagsschilderung und verwertbare ärztliche Unterlagen.
@@ -133,7 +130,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 4. `mandanten-intake`
 
-**Fokus:** Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check).
+**Fokus:** Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behörden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check).
 
 # Mandanten-Intake (Sozialrecht)
 
@@ -144,7 +141,6 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 

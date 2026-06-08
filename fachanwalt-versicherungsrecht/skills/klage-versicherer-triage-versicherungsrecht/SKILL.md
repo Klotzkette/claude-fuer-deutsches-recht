@@ -7,10 +7,10 @@ description: "Klage Versicherer Triage Versicherungsrecht im Plugin Fachanwalt V
 
 ## Arbeitsbereich
 
-**Klage Versicherer Triage Versicherungsrecht** ordnet den Fall über die tragenden Prüffelder: Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatzkern für Deckungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Klage Versicherer Triage Versicherungsrecht** ordnet den Fall über die tragenden Prüfungslinien: Klagestrategie gegen Versicherer nach erfolgloser, Strukturierte Eingangs-Abfrage für versicherungsrechtliche, Substantiierter Schriftsatzkern für Deckungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `klage-versicherer-strategie` | Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz. Anwendungsfall alle außergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Fälligkeit Verzug § 215 VVG örtliche Zuständigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Prüfraster Streitwert Zuständigkeit Klageantrag Substantiierung Beweisangebote Sachverständiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung. |
 | `mandat-triage-versicherungsrecht` | Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjährung drei Jahre §§ 12 14 VVG Fälligkeit Schadensmeldung AVB-Klagefristen. Prüfraster Sparte Ereignis Stichtag Deckungsablehnung Hoehe Frist-Sofort-Check Eskalation bei BU-Ablehnung oder lebensbedrohlichen Krankheitskosten. Output Triage-Ergebnis mit Routing zu deckungsanfrage-prüfen und Fristen-Eskalationshinweis. Abgrenzung zu deckungsanfrage-prüfen und erstgespraech-mandatsannahme. |
@@ -18,12 +18,12 @@ description: "Klage Versicherer Triage Versicherungsrecht im Plugin Fachanwalt V
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `klage-versicherer-strategie`
 
@@ -45,7 +45,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 7. Wurde die Ombudsstelle eingeschaltet — Hemmungswirkung § 204 BGB dokumentiert?
 8. Droht Verjährung (3 Jahre §§ 195, 199 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -72,7 +72,6 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -106,7 +105,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mehrere Versicherer beteiligt Abstimmung noetig | Federführungs-Versicherer bestimmen; Klagen koordiniert stellen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -250,11 +248,10 @@ Ratenzahlung in Höhe von EUR [Betrag] monatlich wird angeboten.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 
@@ -491,7 +488,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -553,7 +550,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -561,7 +558,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Versicherungsvertragsrecht (Personen- und Sachversicherung).
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Versicherungsvertragsrecht (Personen- und Sachversicherung).
 - VVG, AVB, BU-/UV-Bedingungen, ARB, PflVG sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -572,7 +569,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
@@ -598,7 +594,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Versicherungsvertragsrecht (Personen- und Sachversicherung) (Deckungsklage, Klage BU/UB, Klage Sachversicherung, RSV-Deckungsklage):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -630,7 +626,7 @@ Typische Antraege in Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -665,8 +661,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung — Rechtsprechung Deckungsklage Schriftsatz
 

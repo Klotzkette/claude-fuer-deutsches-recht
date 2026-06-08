@@ -42,7 +42,7 @@ Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie koennen zum
 - **§ 40 SGB V** — Reha.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Genehmigungsfiktion pruefen
 

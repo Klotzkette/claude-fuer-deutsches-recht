@@ -1,0 +1,136 @@
+---
+name: ressortaufgaben-bmv-bmvg-bmwe-bmwsb-bmz
+description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung) im Legistik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Ressortaufgaben BMV
+
+## Arbeitsbereich
+
+Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Normenanker
+
+Arbeitsfokus: **Ressortaufgaben BMV**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
+- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
+- `§ 45 GGO` — Beteiligung.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: GGO Ressortbeteiligung i.d.R. 4 Wochen, NKR-Stellungnahme 4 Wochen, Bundesrat 1. Durchgang 6 Wochen / 9 Wochen, Vermittlungsausschuss nach Bedarf.
+- Tragende Normen verifizieren: GGO §§ 40-49 (Rechtsetzungsverfahren), Handbuch der Rechtsförmlichkeit (BMJ), NKR-Gesetz, BGleiG, IT-Konsolidierungs-Konzept, eNorm-Standard, GG Art. 76, 77, 78 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Ressort (BMJ und Fachressort), Bundeskanzleramt, Bundesrat, NKR, Bundestagsausschüsse, Bundesregierung, Wissenschaftliche Dienste, Lobbyregister.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Referentenentwurf, BT-Drucksache, Gesetzesfolgenabschätzung, NKR-Stellungnahme, Verbändeanhörungs-Stellungnahme, Synopse, Erfüllungsaufwandsberechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+> Dritter Skill in der Ressort-Kette. Nach `legw-ressort-bmv` (Heranfuehrung) und vor den
+> fuenf Spezialfeldern. Bricht die typische Legistik-Aufgabe auf das BMV herunter.
+
+## Eingaben
+
+- Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMV
+- Ressort-Kompass aus `legw-ressort-bmv`
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+
+## Vorgehen
+
+### Schritt 1 - Vorhabenart einordnen
+
+| Vorhabenart | Zuständigkeit im BMV | Vorlageweg |
+|---|---|---|
+| Eckpunktepapier | Fachreferat plus Hausleitung | Hausintern; ggf. Ressortbesprechung |
+| Referentenentwurf | Fachreferat fuehrt; Hauspruefung (Z; ZA; ZB) | Verbaendeanhoerung; Ressortabstimmung |
+| Kabinettsentwurf | Hausleitung legt vor | Staatssekretaersausschuss; Kabinettsvorlage |
+| Rechtsverordnung | Fachreferat plus ggf. Bundesrat-Zustimmung | RV-Vorlage; ggf. Bundesrat |
+| Aenderungsantrag aus der Mitte | Fraktion zusammen mit BMV | Bundestagsausschuss |
+
+### Schritt 2 - Begruendungspflichten klaeren
+
+- **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+- **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG.).
+- Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
+
+### Schritt 3 - Verbaendeanhoerung nach GGO Paragraf 47
+
+Im Geschaeftsbereich BMV sind typische Beteiligte:
+
+- Spitzenverbaende der Materie (siehe `legw-bmv-strassenverkehrsrecht-und-stvg-stvo` und folgende)
+- Länder (Bundesrat-Spiegel; KOM-Vertreter)
+- Wissenschaftliche Sachverstaendige und Beiraete des BMV
+- EU-Generaldirektion (bei EU-Bezug)
+- Bei Eingriff in Grundrechte: Datenschutzkonferenz; Bundesbeauftragte; ggf. EDSA
+
+Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
+
+### Schritt 4 - Ressortabstimmung und Mitzeichnung
+
+- **Mitzeichnende Ressorts** typisch für BMV-Vorhaben: BMI (Verwaltung), BMF
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
+- **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
+- Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
+
+### Schritt 5 - NKR und Erfuellungsaufwand
+
+- **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+- Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
+
+### Schritt 6 - Kabinettsweg
+
+- Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+- Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
+
+### Schritt 7 - Bundestag und Bundesrat
+
+- **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
+- **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
+ `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
+- **Fachausschuss im Bundestag** (BMV-Spiegel).
+
+### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
+
+Nachgeordnete Behörden des BMV im Vollzug einbinden. Vollzugsfolgen pruefen.
+
+## Output
+
+Aufgabenmatrix:
+
+```
+Ressort: BMV
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMV-Spiegel
+Aufsicht/Vollzug: <Behörde>; Vollzugsfolgen
+Naechste Skills: legw-bmv-<thema>; normhierarchie-routing
+```
+
+## Abgrenzung
+
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
+
+## Quellenregel
+
+Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

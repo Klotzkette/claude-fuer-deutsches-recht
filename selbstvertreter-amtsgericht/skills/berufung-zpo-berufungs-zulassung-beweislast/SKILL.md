@@ -7,10 +7,10 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 ## Arbeitsbereich
 
-**Berufung ZPO Berufungs Zulassung Beweislast** ordnet den Fall über die tragenden Prüffelder: Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Berufung ZPO Berufungs Zulassung Beweislast** ordnet den Fall über die tragenden Prüfungslinien: Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `berufung-amtsgericht-511-zpo` | Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter. |
 | `berufungs-zulassung-niedrig-streitwert` | Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht. |
@@ -18,12 +18,12 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `berufung-amtsgericht-511-zpo`
 
@@ -33,7 +33,7 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 ## Worum geht es?
 
-Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht **Anwaltszwang** (§ 78 ZPO). Sie koennen die Berufung selbst einlegen (§ 78 III ZPO), aber **die Begruendung muss von einem Anwalt** kommen. Wenn Sie sich keinen leisten koennen: PKH pruefen.
+Wenn Sie ein AG-Urteil für falsch halten, koennen Sie **Berufung** einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht **Anwaltszwang** (§ 78 ZPO). Sie koennen die Berufung selbst einlegen (§ 78 III ZPO), aber **die Begruendung muss von einem Anwalt** kommen. Wenn Sie sich keinen leisten koennen: PKH pruefen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -44,9 +44,9 @@ Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Be
 ## Fachbegriffe (kurz erklaert)
 
 - **Berufung**: Rechtsmittel gegen Urteile erster Instanz.
-- **Landgericht (LG)**: Berufungsinstanz fuer AG-Urteile.
+- **Landgericht (LG)**: Berufungsinstanz für AG-Urteile.
 - **Beschwer**: Differenz zwischen Ihrem Antrag und der Entscheidung — der Betrag, mit dem Sie "verloren" haben.
-- **Wertgrenze**: Mindest-Beschwer fuer Berufung **ohne Zulassung**.
+- **Wertgrenze**: Mindest-Beschwer für Berufung **ohne Zulassung**.
 - **Zulassung der Berufung**: Bei niedriger Beschwer kann das AG die Berufung ausdruecklich zulassen.
 
 ## Rechtsgrundlagen
@@ -60,7 +60,7 @@ Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Be
 - **§ 520 ZPO** — Berufungsbegruendung 2 Monate.
 - **§ 78 III ZPO** — Berufungs-Einlegung selbst moeglich, Begruendung mit Anwalt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Berufungs-Wertgrenze pruefen (Stand 2026)
 
@@ -84,7 +84,7 @@ Beschwer = Differenz zwischen Ihrem Antrag und der Entscheidung.
 - die Rechtssache **grundsaetzliche Bedeutung** hat,
 - die **Fortbildung des Rechts** oder die **Sicherung einer einheitlichen Rechtsprechung** eine Entscheidung des Berufungsgerichts erfordert.
 
-**Wichtig:** Die Zulassung erfolgt **durch das AG selbst im Urteil**. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO **nicht** vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer Beschwer von 1.000 EUR oder weniger **endgueltig ausgeschlossen** (Ausnahme: Anhoerungsruege § 321a ZPO bei Verletzung des rechtlichen Gehoers — sehr enger Anwendungsbereich).
+**Wichtig:** Die Zulassung erfolgt **durch das AG selbst im Urteil**. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO **nicht** vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer Beschwer von 1.000 EUR oder weniger **endgueltig ausgeschlossen** (Ausnahme: Anhörungsruege § 321a ZPO bei Verletzung des rechtlichen Gehoers — sehr enger Anwendungsbereich).
 
 Skill `berufungs-zulassung-niedrig-streitwert` zur Strategie.
 
@@ -140,7 +140,7 @@ Sie haben 2 Monate, einen Anwalt zu finden:
 - Preise erfragen.
 - PKH gleichzeitig beantragen, wenn beduerftig.
 
-PKH-Antrag fuer Berufung Skill `prozesskostenhilfe-pkh-114-zpo`. Wichtig: PKH-Antrag **vor** Ablauf der Berufungsbegruendungs-Frist stellen. Bewilligung hemmt Frist (BGH-Rechtsprechung).
+PKH-Antrag für Berufung Skill `prozesskostenhilfe-pkh-114-zpo`. Wichtig: PKH-Antrag **vor** Ablauf der Berufungsbegruendungs-Frist stellen. Bewilligung hemmt Frist (BGH-Rechtsprechung).
 
 ### Schritt 7 — Inhalt der Berufungsbegruendung
 
@@ -188,7 +188,6 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 
 Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Anwaltszwang § 78 ZPO unveraendert. Eine Zulassungs-Beschwerde zum LG existiert in § 511 ZPO nicht.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -211,7 +210,7 @@ Wenn Ihre Beschwer **1.000 EUR oder weniger** betraegt, ist Berufung grundsaetzl
 
 **Wichtig:** Die Zulassung erfolgt **nur durch das erstinstanzliche Gericht (AG)**. Wenn das AG nicht zugelassen hat, gibt es **keinen separaten Rechtsbehelf zum LG** — keine "Zulassungs-Beschwerde", keine "Nichtzulassungsbeschwerde" wie etwa in der Revision (§ 544 ZPO). Das AG-Urteil ist dann endgueltig.
 
-Eine sehr enge Ausnahme bietet die **Anhoerungsruege § 321a ZPO** bei Verletzung des rechtlichen Gehoers — keine Vollkontrolle, sondern Korrektur eines Verfahrensfehlers durch das AG selbst.
+Eine sehr enge Ausnahme bietet die **Anhörungsruege § 321a ZPO** bei Verletzung des rechtlichen Gehoers — keine Vollkontrolle, sondern Korrektur eines Verfahrensfehlers durch das AG selbst.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -224,17 +223,17 @@ Eine sehr enge Ausnahme bietet die **Anhoerungsruege § 321a ZPO** bei Verletzun
 - **Beschwer**: Differenz zwischen Antrag und Urteil zu Ihren Lasten.
 - **Grundsaetzliche Bedeutung**: Frage, deren Beantwortung ueber den Einzelfall hinaus klaerend wirkt.
 - **Zulassung der Berufung**: Erklaerung des AG im Urteil, dass Berufung ausnahmsweise statthaft ist.
-- **Anhoerungsruege**: Rechtsbehelf bei Verletzung des rechtlichen Gehoers (§ 321a ZPO).
+- **Anhörungsruege**: Rechtsbehelf bei Verletzung des rechtlichen Gehoers (§ 321a ZPO).
 
 ## Rechtsgrundlagen
 
 - **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung als Voraussetzung der Berufung bei geringer Beschwer.
 - **§ 511 IV ZPO** — Voraussetzungen der Zulassung. Zulassung erfolgt **durch das Gericht erster Instanz** (= AG).
-- **§ 47 EGZPO** — Uebergangsvorschrift Justizstandort-Staerkungsgesetz: alte Wertgrenze 600 EUR gilt fort fuer Altverfahren mit Stichtag 31.12.2025.
-- **§ 321a ZPO** — Anhoerungsruege bei Gehoersverletzung (enge Ausnahme).
+- **§ 47 EGZPO** — Uebergangsvorschrift Justizstandort-Staerkungsgesetz: alte Wertgrenze 600 EUR gilt fort für Altverfahren mit Stichtag 31.12.2025.
+- **§ 321a ZPO** — Anhörungsruege bei Gehoersverletzung (enge Ausnahme).
 - **§ 522 ZPO** — Verwerfung unstatthafter Berufung durch LG.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Zulassungsgruende pruefen
 
@@ -267,13 +266,13 @@ Schauen Sie im Urteil unter "Tenor" oder am Ende der Entscheidungsgruende. Dort 
 
 Wenn das AG die Berufung nicht zugelassen hat und Ihre Beschwer 1.000 EUR oder weniger betraegt, ist die Berufung **endgueltig ausgeschlossen**. Eine separate "Zulassungs-Beschwerde" zum LG sieht § 511 ZPO **nicht** vor.
 
-Versuche, dennoch eine Berufung einzulegen, werden vom LG nach § 522 I ZPO als unzulaessig verworfen — mit Kostenfolge fuer Sie.
+Versuche, dennoch eine Berufung einzulegen, werden vom LG nach § 522 I ZPO als unzulaessig verworfen — mit Kostenfolge für Sie.
 
 **Uebergangsfall pruefen:** Wenn Ihre Beschwer zwischen 600 und 1.000 EUR liegt, kontrollieren Sie: Wurde das AG-Urteil bis 31.12.2025 verkuendet oder die muendliche Verhandlung bis dahin geschlossen? Dann gilt nach § 47 EGZPO die alte Wertgrenze 600 EUR — Berufung ist ohne Zulassung statthaft.
 
-### Schritt 5 — Enge Ausnahme: Anhoerungsruege § 321a ZPO
+### Schritt 5 — Enge Ausnahme: Anhörungsruege § 321a ZPO
 
-Wenn das AG **Ihr rechtliches Gehoer verletzt** hat (z.B. einen entscheidungserheblichen Vortrag vollstaendig ignoriert), koennen Sie binnen 2 Wochen ab Kenntnis Anhoerungsruege erheben — beim **AG selbst** (nicht beim LG). Voraussetzungen sind eng:
+Wenn das AG **Ihr rechtliches Gehoer verletzt** hat (z.B. einen entscheidungserheblichen Vortrag vollstaendig ignoriert), koennen Sie binnen 2 Wochen ab Kenntnis Anhörungsruege erheben — beim **AG selbst** (nicht beim LG). Voraussetzungen sind eng:
 
 - Konkrete Gehoersverletzung darlegen.
 - Entscheidungserheblichkeit.
@@ -283,7 +282,7 @@ Das AG prueft seine eigene Entscheidung. Bei Erfolg fuehrt es das Verfahren fort
 
 ### Schritt 6 — Realistisch: meist Urteil akzeptieren
 
-Bei niedriger Beschwer ist oft sinnvoller, das AG-Urteil zu akzeptieren — selbst wenn Sie es fuer falsch halten. Die Kosten eines Berufungs- oder Anhoerungsruege-Versuchs uebersteigen oft den Streitwert.
+Bei niedriger Beschwer ist oft sinnvoller, das AG-Urteil zu akzeptieren — selbst wenn Sie es für falsch halten. Die Kosten eines Berufungs- oder Anhörungsruege-Versuchs uebersteigen oft den Streitwert.
 
 ### Schritt 7 — Bei Zulassung: Berufung einlegen
 
@@ -293,7 +292,7 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 
 - **Zulassung passiert im AG-Urteil** — nicht spaeter.
 - **Keine separate Zulassungs-Beschwerde** zum LG. Wer trotzdem versucht, zahlt drauf.
-- **Anhoerungsruege § 321a ZPO** ist die einzige Notfall-Option bei Gehoersverletzung — kein Allzweck-Rechtsmittel.
+- **Anhörungsruege § 321a ZPO** ist die einzige Notfall-Option bei Gehoersverletzung — kein Allzweck-Rechtsmittel.
 - **Wertgrenze 1.000 EUR** (Stand 2026; frueher 600 EUR).
 - **Uebergangsfaelle § 47 EGZPO**: Alte 600-EUR-Grenze gilt fort, wenn Urteil bis 31.12.2025 verkuendet oder muendliche Verhandlung bis dahin geschlossen wurde.
 
@@ -301,7 +300,7 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 
 - "Mein Fall ist grundsaetzlich, ich bekomme Zulassung." → Praxis sehr restriktiv; ohne Anregung im AG-Verfahren so gut wie nie.
 - "Wenn AG nicht zulaesst, lege ich Beschwerde beim LG ein." → Existiert nicht. Eine Zulassungs-Beschwerde gibt es in § 511 ZPO **nicht**.
-- "Anhoerungsruege bedeutet zweite Chance auf alles." → Falsch. Nur bei konkreter, entscheidungserheblicher Gehoersverletzung.
+- "Anhörungsruege bedeutet zweite Chance auf alles." → Falsch. Nur bei konkreter, entscheidungserheblicher Gehoersverletzung.
 - "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR — ausser in Uebergangsfaellen nach § 47 EGZPO.
 - "Mein altes Urteil ist nicht mehr berufungsfaehig, weil ich nur 800 EUR Beschwer habe." → Falsch, wenn das Urteil bis 31.12.2025 verkuendet wurde: dort gilt noch 600 EUR (§ 47 EGZPO).
 
@@ -314,8 +313,7 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Uebergangsregel § 47 EGZPO: Alte Wertgrenze 600 EUR gilt fort fuer Verfahren mit anzufechtender Entscheidung bis 31.12.2025 bzw. mit bis dahin geschlossener muendlicher Verhandlung. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
-
+Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Uebergangsregel § 47 EGZPO: Alte Wertgrenze 600 EUR gilt fort für Verfahren mit anzufechtender Entscheidung bis 31.12.2025 bzw. mit bis dahin geschlossener muendlicher Verhandlung. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
 
 ## Qualitäts-Hardening
 
@@ -347,7 +345,7 @@ Im Zivilprozess gilt eine klare Grundregel: **Wer eine Norm zu seinen Gunsten ge
 - **Anspruchsbegruendend**: Tatsachen, die den Anspruch entstehen lassen.
 - **Anspruchshindernd**: Tatsachen, die das Entstehen verhindert haben.
 - **Anspruchsvernichtend**: Tatsachen, die den Anspruch zerstoeren (Erfuellung, Erlass).
-- **Anspruchshemmend**: Tatsachen, die den Anspruch nur voruebergehend stoppen (Verjaehrung).
+- **Anspruchshemmend**: Tatsachen, die den Anspruch nur voruebergehend stoppen (Verjährung).
 
 ## Rechtsgrundlagen
 
@@ -355,7 +353,7 @@ Im Zivilprozess gilt eine klare Grundregel: **Wer eine Norm zu seinen Gunsten ge
 - **§ 138 ZPO** — Wahrheitspflicht; sekundaere Darlegungslast.
 - **§ 280 I 2 BGB, § 7 II StVG, § 836 BGB** — Beispiele Beweislast-Umkehr.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Grundregel
 
@@ -371,7 +369,7 @@ Beispiel:
 § 433 II BGB (Kaufpreis):
 
 - Klaeger beweist: Vertrag, Faelligkeit.
-- Beklagter beweist: Erfuellung, Mangel, Aufrechnung, Verjaehrung.
+- Beklagter beweist: Erfuellung, Mangel, Aufrechnung, Verjährung.
 
 § 823 I BGB (Delikt):
 
@@ -389,13 +387,13 @@ Manche Normen kehren die Beweislast um.
 
 § 7 II StVG: Halter haftet, **es sei denn**, hoehere Gewalt. → Halter beweist hoehere Gewalt.
 
-Diese Umkehr ist guenstig fuer den Geschaedigten.
+Diese Umkehr ist guenstig für den Geschaedigten.
 
 ### Schritt 4 — Anscheinsbeweis
 
 Bei typischen Geschehensablaeufen kann das Gericht von Erfahrungssatzen ausgehen.
 
-Beispiel: Auffahrunfall → Anscheinsbeweis fuer Verschulden des Auffahrenden.
+Beispiel: Auffahrunfall → Anscheinsbeweis für Verschulden des Auffahrenden.
 
 Sie als Klaeger profitieren — der Beklagte muss den Anschein erschuettern.
 

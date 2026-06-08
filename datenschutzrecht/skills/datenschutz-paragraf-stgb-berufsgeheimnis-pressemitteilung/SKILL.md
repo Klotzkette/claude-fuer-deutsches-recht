@@ -7,10 +7,10 @@ description: "Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung im Date
 
 ## Arbeitsbereich
 
-**Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung** ordnet den Fall über die tragenden Prüffelder: Bewertet einen Datenschutzvorfall bei, Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall bei, Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `dsv-paragraf-203-stgb-berufsgeheimnis` | Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige. |
 | `dsv-pressemitteilung-krisenkommunikation` | Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel. |
@@ -20,12 +20,12 @@ description: "Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung im Date
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `dsv-paragraf-203-stgb-berufsgeheimnis`
 
@@ -299,20 +299,20 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
 
  | Konstellation | Einordnung | Vertragstyp |
  |---|---|---|
- | Steuerberater erstellt Buchhaltung fuer Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
+ | Steuerberater erstellt Buchhaltung für Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
  | Rechtsanwalt vertritt Mandant | Funktionsuebertragung | Mandatsvertrag |
  | Wirtschaftspruefer prueft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
  | Inkassodienstleister treibt Forderungen ein | Funktionsuebertragung (typisch) | Inkassovertrag |
  | Arzt behandelt Patient | Funktionsuebertragung | Behandlungsvertrag § 630a BGB |
  | Externe IT betreut Kanzlei-IT mit Datenzugang | regelmaessig Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
  | Externes Schreibbuero schreibt Diktate | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
- | Cloud-Speicher fuer Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
+ | Cloud-Speicher für Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
 
 4. **§ 203 Abs. 3 StGB beachten (nur bei Auftragsverarbeitung erforderlich).**
  - Mitwirkende Personen muessen zur Verschwiegenheit verpflichtet sein.
  - Berufstraeger muss "im erforderlichen Umfang" offenbaren duerfen.
  - Schriftliche Verpflichtung der mitwirkenden Personen ratsam.
- - § 11 BORA fuer Rechtsanwaelte; entsprechende Regeln fuer Steuerberater und Aerzte.
+ - § 11 BORA für Rechtsanwaelte; entsprechende Regeln für Steuerberater und Aerzte.
 
 5. **Datenfluss-Vertrag bei Funktionsuebertragung.**
  - Kein AVV erforderlich (Dritter ist eigener Verantwortlicher).
@@ -349,7 +349,7 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - Externe IT oder Schreibbuero ohne AVV beschaeftigt – § 203 StGB-Strafbarkeitsrisiko.
 - Keine Verpflichtung mitwirkender Personen nach § 203 Abs. 3 StGB.
 - Informationspflichten Art. 13/14 DSGVO nicht beruecksichtigt.
-- Cloud-Speicher fuer Mandantenakten ohne AVV oder ohne § 203-Klausel.
+- Cloud-Speicher für Mandantenakten ohne AVV oder ohne § 203-Klausel.
 
 ## Querverweise
 
@@ -365,7 +365,6 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - § 57 Abs. 1 StBerG; § 43 Abs. 1 WPO.
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021), edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

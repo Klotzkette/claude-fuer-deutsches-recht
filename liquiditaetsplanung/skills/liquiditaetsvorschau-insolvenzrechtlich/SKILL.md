@@ -1,16 +1,13 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Prüffeld für liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für liquiditaetsvorschau insolvenzrechtlich im Liquiditaetsplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
 
 ## Fachkern: Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
-- **Spezialgegenstand:** Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -145,15 +142,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin). Für Sanierungskonzept-/Bankfähigkeit: `idw-s6-integrierte-sanierungsplanung` (dieses Plugin).
 
-
 ## Triage — Liquiditaetsvorschau Einordnung
 
 Bevor losgelegt wird, klaere:
 
 1. **Zweck der Vorschau?** ZU-Pruefung § 17 InsO (3-Wochen-Fenster) → insolvenzrechtliche Vorschau; Fortbestehensprognose § 19 InsO (12 Monate); Glaeubigernachweis (13-Wochen-Vorschau); Bankverhandlung (24 Monate)?
-2. **Methode?** Direkte Methode (Cash-In / Cash-Out) fuer insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) fuer langfristige Unternehmensplanung.
+2. **Methode?** Direkte Methode (Cash-In / Cash-Out) für insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) für langfristige Unternehmensplanung.
 3. **Datenbasis?** OPOS (offene Posten), Kontoauszuege, Steuer- und SV-Verbindlichkeiten — alle aktuell?
-4. **Stichtag?** Fuer InsO-Beurteilung tag-genau festlegen; fuer Prognose ab aktuellem Tag.
+4. **Stichtag?** Fuer InsO-Beurteilung tag-genau festlegen; für Prognose ab aktuellem Tag.
 5. **Sanierungsmassnahmen einbeziehen?** Stundungen, Zuschuss, neue Kreditlinie — nur wenn verbindlich zugesagt.
 
 ## Output-Template 13-Wochen-Liquiditaetsvorschau

@@ -28,11 +28,11 @@ Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moegl
 - **§ 273 ZPO** — Vorbereitung der Verhandlung.
 - **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klageerwiderung pruefen
 
-Lesen Sie Wort fuer Wort:
+Lesen Sie Wort für Wort:
 
 - Welche Tatsachen bestreitet der Beklagte?
 - Welche Einreden erhebt er?
@@ -51,9 +51,9 @@ Wenn Beklagter neue Tatsachen vortraegt — Sie muessen darauf reagieren:
 
 ### Schritt 3 — Auf Einreden reagieren
 
-Wenn Beklagter Verjaehrung einredet:
+Wenn Beklagter Verjährung einredet:
 
-- Verjaehrungs-Berechnung pruefen.
+- Verjährungs-Berechnung pruefen.
 - Hemmung darlegen (Verhandlungen, Mahnbescheid).
 - Neubeginn pruefen (Anerkenntnis).
 
@@ -73,7 +73,7 @@ Wenn Ihre Klage Beweis nicht klar hatte, jetzt ergaenzen:
 ```
 Beweis: Zeugnis des Herrn X,
 [ladungsfaehige Anschrift],
-zum Beweis dafuer, dass ...
+zum Beweis dafür, dass ...
 ```
 
 ### Schritt 5 — Replik strukturieren
@@ -102,7 +102,7 @@ Wuerdigung):
 [Stellungnahme]
 
 Zu III. der Klageerwiderung (Einreden):
-- Verjaehrungs-Einrede: [Erwiderung]
+- Verjährungs-Einrede: [Erwiderung]
 - Aufrechnung: [Erwiderung]
 
 III. Ergaenzender Sachvortrag
@@ -151,7 +151,7 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 ## Worauf Sie besonders achten muessen
 
 - **Pro Beklagten-Tatsache eine Antwort** — sonst Geltend.
-- **Beweismittel benennen** auch fuer neue Tatsachen.
+- **Beweismittel benennen** auch für neue Tatsachen.
 - **Frist einhalten** oder Verlaengerung beantragen.
 - **Wahrheitspflicht** beachten.
 
@@ -172,7 +172,6 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

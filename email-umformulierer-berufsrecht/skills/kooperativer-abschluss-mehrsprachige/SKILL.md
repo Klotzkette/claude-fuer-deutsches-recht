@@ -1,45 +1,27 @@
 ---
 name: kooperativer-abschluss-mehrsprachige
-description: "Kooperativer Abschluss Mehrsprachige im Plugin Email Umformulierer Berufsrecht: prüft konkret E-Mail oder Schreiben mit kooperativem und, Anwaltskorrespondenz in einer anderen Sprache, Korrespondenz von Notaren und Notarinnen auf. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Kooperativer Abschluss Mehrsprachige
+# Kooperativer Abschluss
 
 ## Arbeitsbereich
 
-**Kooperativer Abschluss Mehrsprachige** ordnet den Fall über die tragenden Prüffelder: E-Mail oder Schreiben mit kooperativem und, Anwaltskorrespondenz in einer anderen Sprache, Korrespondenz von Notaren und Notarinnen auf. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `kooperativer-abschluss` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln). |
-| `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz. |
-| `notare-bnotk-modus` | Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit Urkundssprache. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz. |
+E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Email Umformulierer Berufsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `kooperativer-abschluss`
-
-**Fokus:** E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln).
-
-# Kooperativer Abschluss
 
 ## Fachkern: Kooperativer Abschluss
-- **Spezialgegenstand:** Kooperativer Abschluss wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspassagen bereit. Selbst in einem sachlichen oder kritischen Schreiben signalisiert ein kooperativer Abschluss, dass die Kommunikation offen bleibt und eine einvernehmliche Lösung angestrebt wird.
-
 
 ## Triage zu Beginn
 1. Welchen Ton hat das Schreiben insgesamt: sachlich-neutral, kritisch oder freundlich?
@@ -66,7 +48,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Streitig, sachlich | "Fuer Ruckfragen stehe ich zur Verfügung. Mit freundlichen Gruessen" |
 | Laufendes Mandat | "Ich freue mich auf Ihre Rueckmeldung. Mit freundlichen Gruessen" |
 | Kooperativ, einigungsorientiert | "Im Sinne einer einvernehmlichen Loesung freue ich mich auf Ihre Nachricht. Mit kollegialen Gruessen" |
-| Foermlich, Behoerde | "Fuer Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
+| Foermlich, Behörde | "Fuer Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
 
 ## Funktion des Abschlusses
 
@@ -106,124 +88,3 @@ In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne 
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Vorgeschlagene Schlusspassage passend zum Ton des Schreibens. (2) Alternative kooperative Formeln nach Intensitätsstufe. (3) Hinweis auf geeignete Schlussformel.
-
-## 2. `mehrsprachige-umformulierung`
-
-**Fokus:** Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz.
-
-# Mehrsprachige Umformulierung
-
-## Fachkern: Mehrsprachige Umformulierung
-- **Spezialgegenstand:** Mehrsprachige Umformulierung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale berufliche Korrespondenz in den vier wichtigsten Weltsprachen der deutschen Rechtspraxis bereit: Englisch, Französisch, Italienisch und Spanisch. Er enthält Anreden, Schlussformeln und typische Phrasen für anwaltliche und berufliche Schreiben.
-
-
-## Triage zu Beginn
-1. In welcher Sprache soll die Korrespondenz verfasst werden: Englisch, Franzoesisch, Italienisch oder Spanisch?
-2. Welcher Berufsstand: Rechtsanwalt, Notar, Steuerberater oder allgemeines Unternehmen?
-3. Welche Jurisdiktion gilt: Deutschland mit auslaendischem Empfaenger, oder auslaendisches Recht anwendbar?
-4. Gibt es berufsrechtliche Besonderheiten der Zielsprach-Jurisdiktion zu beachten?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot gilt sprachunabhaengig
-- Art. 56, 57 AEUV — Dienstleistungsfreiheit fuer grenzueberschreitende Anwaltskorrespondenz
-- § 184 GVG — Gerichtssprache Deutsch; Ausnahmen bei internationalen Sachverhalten
-- Richtlinie 77/249/EWG — Dienstleistungsrichtlinie fuer Anwaelte (grenzueberschreitend)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Englisch (Englischsprachige Jurisdiktionen und internationale Praxis)
-
-Anreden: "Dear Sir or Madam" (allgemein), "Dear Mr./Ms. Smith" (namentlich), "Dear Counsel" (unter Anwälten), "Dear Judge Smith" (an Richter im angloamerikanischen Raum). Schlussformeln: "Yours sincerely" (wenn Name bekannt), "Yours faithfully" (wenn nur Firma/Funktion bekannt), "Kind regards" (förmlich-freundlich), "Best regards" (kollegial). Berufliche Anreden in Schriftsätzen: "To the Honourable Court", "Dear Registrar".
-
-## Französisch (Frankophone Jurisdiktionen)
-
-Anreden: "Maître" (für Anwälte und Notare in Frankreich/Belgien/Schweiz — die korrekte Berufsbezeichnung), "Monsieur le Conseiller" (für Richter am Obersten Gericht), "Madame la Présidente" (für Vorsitzende Richterin). "Cher Maître" ist die kollegiale Variante unter Kollegen. Schlussformeln: "Veuillez agréer, Maître, l'expression de mes salutations distinguées" (formal), "Avec mes cordiales salutations" (kollegial).
-
-## Italienisch (Italienische Jurisdiktion und Mandanten)
-
-Anreden: "Egregio Avvocato Rossi" (für Rechtsanwälte), "Gentile Notaio Bianchi" (für Notare), "Ill.mo Signor Giudice" (Abkürzung für Illustrissimo, für Richter). Schlussformeln: "Con distinti saluti" (allgemein höflich), "Con cordiali saluti" (kollegial-freundlich), "In attesa di un Suo cortese riscontro" (mit Rückmeldebitte — wörtlich: in Erwartung einer freundlichen Rückmeldung).
-
-## Spanisch (Spanische und lateinamerikanische Jurisdiktionen)
-
-Anreden: "Estimado/a Letrado/a" (für Anwälte in Spanien), "Distinguido/a Señor/a" (förmlich allgemein), "Señoría" (an Richter). Schlussformeln: "Reciba un cordial saludo" (freundlich), "En espera de su respuesta, le saluda atentamente" (mit Rückmeldebitte), "Un saludo muy atento" (kurze höfliche Form).
-
-## Grenzüberschreitendes Berufsrecht
-
-Für grenzüberschreitende anwaltliche Kommunikation gilt: Die BRAO schreibt keine Mindeststandards für fremdsprachige Korrespondenz vor, aber das allgemeine Sachlichkeitsgebot gilt auch für Schreiben in anderen Sprachen. Bei Schreiben in den USA ist das ABA Model Rules of Professional Conduct zu beachten, in Frankreich die Règlement Intérieur National (RIN) des Conseil National des Barreaux.
-
-## Typische Phrasen für internationale anwaltliche Korrespondenz
-
-"Please find enclosed..." → "Veuillez trouver ci-joint..." → "In allegato trova..." → "Adjunto encontrará..." "We refer to our previous correspondence..." → "Suite à notre précédente correspondance..." "We look forward to your response." → "Nous attendons votre réponse avec intérêt." → "In attesa di una Sua risposta..." → "Quedamos a la espera de su respuesta."
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Empfohlene Anrede in der Zielsprache. (2) Schlussformel mit Varianten nach Förmlichkeitsgrad. (3) Überarbeiteter Text in der Zielsprache (soweit gegeben). (4) Hinweis auf berufsrechtliche Besonderheiten der Zielsprache/Jurisdiktion.
-
-## 3. `notare-bnotk-modus`
-
-**Fokus:** Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit Urkundssprache. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz.
-
-# Notar-Modus (BNotO/BNotK)
-
-## Fachkern: Notar-Modus (BNotO/BNotK)
-- **Spezialgegenstand:** Notar-Modus (BNotO/BNotK) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill spezialisiert den Umformulierungsprozess auf die besonderen Anforderungen notarieller Korrespondenz. Notare nehmen als Träger eines öffentlichen Amts eine besondere Stellung ein, die sich in Kommunikationspflichten und Stilanforderungen niederschlägt, die über die allgemeinen anwaltlichen Standards hinausgehen.
-
-## § 14 BNotO — Berufspflichten und Unparteilichkeit
-
-§ 14 BNotO verpflichtet Notare zu unparteiischer Amtsausübung. Anders als Rechtsanwälte sind Notare nicht Interessenvertreter einer Partei, sondern neutrale Urkundspersonen. Ihre Korrespondenz muss diese Neutralität widerspiegeln: keine einseitigen Formulierungen, keine Parteinahme auch wenn eine Partei offensichtlich im Recht erscheint, keine emotionalen Stellungnahmen. Diese besondere Neutralitätspflicht macht notarielle Korrespondenz in mancher Hinsicht noch strenger als anwaltliche.
-
-## Anredeformeln für Notare
-
-Notarspezifische Anreden: "Sehr geehrte Frau Notarin Muster", "Sehr geehrter Herr Notar Dr. Muster", "Sehr geehrtes Notariat Muster". In Urkunden und Niederschriften wird keine persönliche Anrede verwendet; diese sind in Amtssprache zu verfassen. Bei Schreiben an Beteiligte gilt die allgemeine Förmlichkeitshierarchie; die Amtsfunktion des Notars als Absender erhöht aber die Erwartung an die Stilhöhe.
-
-## Besonderheiten notarieller Korrespondenz
-
-Typische Kommunikationssituationen: Schreiben an Beteiligte zur Vorbereitung von Beurkundungen, Anfragen bei Registergerichten und Grundbuchämtern, Korrespondenz mit anderen Notaren über Amtshilfefragen, Belehrungsschreiben nach § 17 BeurkG. Alle diese Schreiben verlangen besondere Sachlichkeit, da sie Teil eines öffentlich-rechtlichen Verfahrens sind oder sein können.
-
-## Richtlinien der Bundesnotarkammer
-
-Die BNotK-Richtlinien konkretisieren die Berufspflichten aus der BNotO. Sie schreiben u. a. vor: korrekte Amtsbezeichnung in der Unterschrift, keine werblichen Aussagen (strengeres Werbeverbot als im Anwaltsrecht), Wahrung der Würde des Amts auch in informellen Schreiben.
-
-## Berufsrechtlicher Hintergrund
-
-Einschlägige Normen: § 14 BNotO (Berufspflichten), § 15 BNotO (Amtsverweigerung), § 17 BeurkG (Belehrungspflicht), BNotK-Richtlinien. Das Notariat ist ein Ehrenamt im staatsrechtlichen Sinne; entsprechend hoch ist der Pflichtenmaßstab.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Sie müssen das Dokument bis Freitag unterschreiben, sonst wird es schwierig."
-**Nachher:** "Ich weise darauf hin, dass die Beurkundung nach dem Terminplan bis TT.MM.JJJJ vorgesehen ist. Falls eine andere Terminierung erforderlich ist, bitte ich um frühzeitige Rückmeldung."
-
-**Vorher:** "Ihr Vertragspartner verhält sich nicht kooperativ."
-**Nachher:** "Im Rahmen der Vorbereitung der Beurkundung sind noch offene Punkte zu klären, zu denen ich die Stellungnahmen aller Beteiligten erbitte."
-
-**Vorher:** "Das ist offensichtlich unsinnig, was die andere Seite verlangt."
-**Nachher:** "Der vorgebrachte Wunsch der Beteiligten zu Ziffer X weist rechtliche Besonderheiten auf, über die ich gerne vorab belehre."
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Analyse auf notarrechtliche Besonderheiten. (2) Identifizierte Neutralitätsverstöße oder Stilprobleme. (3) Konforme Alternativformulierung in notarischer Amtssprache. (4) Einschlägige BNotO-Norm oder BNotK-Richtlinie.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

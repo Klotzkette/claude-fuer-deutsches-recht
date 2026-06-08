@@ -1,35 +1,21 @@
 ---
 name: kanzleitag-simulation-kanzlei
-description: "Kanzleitag Simulation Kanzlei im Plugin Kanzlei Allgemein: prüft konkret Führt im Simulationsmodus durch einen achtstuendigen, Schnellstart und Command Center für Kanzlei-Allgemein-Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Kanzleitag Simulation Kanzlei
+# Kanzleitag-Simulation
 
 ## Arbeitsbereich
 
-**Kanzleitag Simulation Kanzlei** ordnet den Fall über die tragenden Prüffelder: Führt im Simulationsmodus durch einen achtstuendigen, Schnellstart und Command Center für Kanzlei-Allgemein-Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `kanzlei-allgemein-kanzleitag-simulation` | Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart. |
-| `kanzlei-allgemein-kommandocenter` | Schnellstart und Command Center für Kanzlei-Allgemein-Plugin. Erkennt aus einem Satz den passenden Kanzlei-Workflow, routet zu Mandatsannahme GwG Klage Replik Vertrag Rechtsprechung beA Fristen Rechnung Buchhaltung HR UStVA oder Simulation, stellt nur die nötigsten Rückfragen und erzeugt eine Freigabeampel. |
+Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kanzlei Allgemein klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `kanzlei-allgemein-kanzleitag-simulation`
-
-**Fokus:** Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart.
-
-# Kanzleitag-Simulation
-
 
 ## Triage zu Beginn
 1. Soll die Simulation in Echtzeit oder beschleunigt ablaufen?
@@ -42,7 +28,7 @@ description: "Kanzleitag Simulation Kanzlei im Plugin Kanzlei Allgemein: prüft 
 
 ## Zentrale Normen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus; keine echten Mandatsdaten ohne Anonymisierung
-- Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch fuer Trainingsumgebungen
+- Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch für Trainingsumgebungen
 - § 43 BRAO — Fortbildungspflicht des Anwalts: Simulation als anerkanntes Fortbildungsmittel
 - § 26 BDSG — Beschaeftigtendatenschutz: gilt auch bei internem Onboarding mit Simulationsdaten
 
@@ -103,113 +89,3 @@ Wenn Mandatsannahme oder GwG nicht echt angebunden ist, an `kanzlei-allgemein-ma
 ## Ausgabe
 
 `assets/templates/kanzleitag-simulation.md` verwenden.
-
-## 2. `kanzlei-allgemein-kommandocenter`
-
-**Fokus:** Schnellstart und Command Center für Kanzlei-Allgemein-Plugin. Erkennt aus einem Satz den passenden Kanzlei-Workflow, routet zu Mandatsannahme GwG Klage Replik Vertrag Rechtsprechung beA Fristen Rechnung Buchhaltung HR UStVA oder Simulation, stellt nur die nötigsten Rückfragen und erzeugt eine Freigabeampel.
-
-# Kommandocenter
-
-## Zweck
-
-Dieser Skill ist die schnelle Oberfläche des Plugins. Er verhindert, dass Nutzer erst wissen müssen, welcher Fachmodul passt. Aus einem Satz, einer Datei oder einem chaotischen Eingang entsteht eine klare Arbeitskarte mit nächstem Schritt, passenden Skills und Freigabeampel.
-
-## Grundregel
-
-Erst Tempo, dann Tiefe:
-
-1. Ziel erkennen.
-2. Risiko erkennen.
-3. maximal drei Rückfragen stellen.
-4. sofort eine Arbeitskarte erzeugen.
-5. `kanzlei-allgemein-look-and-feel` anwenden, wenn eine sichtbare Dashboard-, Status- oder Startausgabe entsteht.
-6. an den passenden Fachmodul übergeben.
-
-Nicht alle Checklisten auf einmal öffnen. Nur die Checkliste verwenden, die den nächsten Arbeitsschritt wirklich freischaltet.
-
-## Schnellbefehle
-
-| Nutzer sagt | Route |
-| --- | --- |
-| `Neue Sache` | Intake, Akte, Mandatsannahme/GwG, Aktenzeichen, Kontoblatt |
-| `Mach Klage` | Schriftsatz-Turbo, Anlagen, Rechtsprechung, Qualitätsgate, Versand |
-| `Mach Replik` | Replikmatrix, Anlagen, Rechtsprechung, Qualitätsgate, Versand |
-| `Mach Vertrag` | Vertragsentwurf, Handelsregister, Datenschutz, Qualitätsgate |
-| `Post machen` | Postlauf, beA-Journal, Fristen, EB, Aktenablage |
-| `Rechnung machen` | Zeitnarrative, Rechnung, E-Rechnung, GoBD, offene Posten |
-| `GwG prüfen` | Mandatsannahme/GwG, KYC, PEP, wirtschaftlich Berechtigte, Verdachtslogik |
-| `Recherche machen` | Rechtsprechungsrecherche, Fundstellenregister, Verwertungsnotiz |
-| `Kanzleitag simulieren` | Integrationen, Simulation, Kalender, Postlauf, Mandatsannahme, Output |
-| `Was ist offen?` | Fristen, Action-Items, Rechnungen, GwG-Reminder, Post, HR, UStVA |
-
-## Freigabeampel
-
-Immer eine Ampel ausgeben:
-
-- `GRÜN`: Weiterarbeiten möglich. Keine bekannte Stoppschwelle.
-- `GELB`: Nutzbarer Entwurf, aber offene Punkte.
-- `ROT`: Nicht versenden, nicht annehmen, nicht buchen oder nicht melden, bevor ein Mensch freigibt.
-
-Typische rote Schwellen:
-
-- Frist unklar.
-- beA-Versand oder EB ohne Einzelbestätigung.
-- Mandatsannahme ohne Konfliktcheck oder GwG-Status.
-- Verdachtsfall, PEP-/Hochrisiko- oder Mittelherkunftsproblem ungeklärt.
-- Rechnung ohne Freigabe oder E-Rechnungsvalidierung.
-- Rechtsprechung nicht verifiziert.
-- Handelsregister, Partei oder Vertretung ungeprüft.
-
-## Arbeitskarte
-
-Immer mit dieser Struktur starten:
-
-```markdown
-# Kanzlei-Allgemein-Plugin
-
-## Kommandocenter
-
-| Akte | Ampel | Frist | Nächste Aktion |
-| --- | --- | --- | --- |
-| | | | |
-
-## Jetzt
-
-1.
-2.
-3.
-```
-
-## Anfängerfreundlichkeit
-
-- Fachworte kurz übersetzen.
-- Nicht mit 20 Fragen beginnen.
-- Fehlendes als `TODO` markieren.
-- Unsichere Nutzer mit einem konkreten Vorschlag führen.
-- Bei Profis knapper werden und direkt an die Fachmodule übergeben.
-
-## Übergabe
-
-- Neue Sache oder Dokumenteneingang: `kanzlei-allgemein-intake`, danach `kanzlei-allgemein-akte` und bei Bedarf `kanzlei-allgemein-mandatsannahme-gwg`.
-- Klage/Replik/Antrag: `kanzlei-allgemein-schriftsatz-turbo`, `kanzlei-allgemein-rechtsprechungsrecherche`, `kanzlei-allgemein-qualitaetsgate-hardening`.
-- Vertrag: `kanzlei-allgemein-vertragsentwurf`, `kanzlei-allgemein-handelsregisterabruf`, `kanzlei-allgemein-qualitaetsgate-hardening`.
-- beA/Post: `kanzlei-allgemein-postlauf`, `kanzlei-allgemein-bea-journal`, `kanzlei-allgemein-fristen-monitor`.
-- Rechnung/Buchhaltung: `kanzlei-allgemein-zeitnarrative`, `kanzlei-allgemein-rechnung`, `kanzlei-allgemein-erechnung`, `kanzlei-allgemein-buchhaltung-konten`.
-- Kanzleibetrieb: `kanzlei-allgemein-kanzleikalender`, `kanzlei-allgemein-automationen`, HR-/Payroll-Skills.
-
-## Ausgabe
-
-- `assets/templates/workflow-kommandocenter.md`
-- `assets/templates/workflow-schnellstartkarte.md`
-- `assets/templates/workflow-freigabeampel.md`
-- optional `assets/templates/workflow-naechste-beste-aktion.md`
-- für hochwertige Cowork-Ausgaben zusätzlich `assets/templates/cowork-dashboard.md`, `assets/templates/cowork-statuskarte.md` und `assets/templates/cowork-freigabekarte.md`.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

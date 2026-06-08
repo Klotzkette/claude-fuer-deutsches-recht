@@ -5,7 +5,21 @@ description: "Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
+## Normenanker
 
+Arbeitsfokus: **Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 138 Abs. 1 ZPO` — vollständiger und wahrer Tatsachenvortrag.
+- `§ 138 Abs. 2 ZPO` — Erklärungslast.
+- `§ 253 Abs. 2 Nr. 2 ZPO` — bestimmter Klagegrund.
+- `§ 284 ZPO` — Beweisaufnahme.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+- `§ 416 ZPO` — Beweiskraft privater Urkunden.
+- `§ 420 ZPO` — Vorlegung durch Beweisführer.
+- `§ 142 Abs. 1 ZPO` — Urkundenvorlegung durch Partei/Dritte.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Konkreter Gegenstand:** Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

@@ -7,28 +7,28 @@ description: "Bescheidanalyse Eilantrag Sozialrecht im Plugin Fachanwalt Sozialr
 
 ## Arbeitsbereich
 
-**Bescheidanalyse Eilantrag Sozialrecht** ordnet den Fall über die tragenden Prüffelder: Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegleitung und Eltern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bescheidanalyse Eilantrag Sozialrecht** ordnet den Fall über die tragenden Prüfungslinien: Mandant hat Sozialleistungsbescheid erhalten und Anwalt, Mandant ist auf Sozialleistung angewiesen die sofort, Kind mit Behinderung benoetigt Schulbegleitung und Eltern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bescheidanalyse` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf). |
+| `bescheidanalyse` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhörung. Prüfraster: Behörde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf). |
 | `eilantrag-sozialrecht` | Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Wohnungslosigkeit Krankenversicherung). § 86b SGG Eilrechtsschutz. Prüfraster: Abs. 1 SGG aufschiebende Wirkung bei Aufhebungs-/Rückforderungsbescheiden vs. Abs. 2 SGG einstweilige Anordnung bei Leistungsbegehren. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung § 920 Abs. 2 ZPO. Output: Eilantrag SG fertig zum Versand. Abgrenzung zu klage-sozialgericht (Hauptsache) und fachanwalt-sozialrecht-widerspruch-sozialleistung. |
 | `eingliederungshilfe-schule` | Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Prüfraster: Behinderungsbegriff § 99 SGB IX zuständiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bescheidanalyse`
 
-**Fokus:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
+**Fokus:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhörung. Prüfraster: Behörde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
 
 # Bescheidanalyse Sozialrecht
 
@@ -40,12 +40,10 @@ description: "Bescheidanalyse Eilantrag Sozialrecht im Plugin Fachanwalt Sozialr
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Bescheidanalyse Sozialrecht
 
-- **Spezialfrage (Bescheidanalyse Sozialrecht):** Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
+- **Spezialfrage (Bescheidanalyse Sozialrecht):** Behörde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
-
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -116,7 +114,6 @@ Die Analyse ersetzt nicht die anwaltliche Entscheidung. Sie strukturiert die Vor
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aktuelle Rechtsprechung
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -195,7 +192,6 @@ Bei drohendem Wegfall von Bürgergeld oder Asylbewerberleistungen: das BVerfG ha
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruchsgrundlagen
 
@@ -301,7 +297,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage — kläre vor Mandatsannahme Sozialrecht
 1. Liegt eine laufende Frist vor (Widerspruch 1 Monat § 84 SGG, Klage 1 Monat § 87 SGG, Überprüfungsantrag § 44 SGB X 4 Jahre)? Sofort sichern.
 2. Gegenstand: Buergergeld, Rente EM/Alter, GdB/SchwbR, Pflegegrad, Krankengeld, Reha, BG-Unfall?
@@ -327,7 +322,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Sozialrecht (SGB I-XIV):
+Standard-Fragenraster für Sozialrecht (SGB I-XIV):
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -340,15 +335,15 @@ Standard-Fragenraster fuer Sozialrecht (SGB I-XIV):
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Sozialrecht (SGB I-XIV):
 
@@ -362,23 +357,23 @@ Standard-Streitwerte im Bereich Sozialrecht (SGB I-XIV):
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Sozialrecht (SGB I-XIV).
+- BORA, BRAO, FAO für Fachanwaltschaft Sozialrecht (SGB I-XIV).
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- SGB I-XIV, SGG, AsylbLG, BVG, SchwbVwV (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- SGB I-XIV, SGG, AsylbLG, BVG, SchwbVwV (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -401,14 +396,13 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Sozialrecht (SGB I-XIV)). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -418,7 +412,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -460,6 +454,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.

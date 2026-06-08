@@ -7,25 +7,25 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 
 ## Arbeitsbereich
 
-**Anwaltszwang SGG Arbeitslosengeld I** ordnet den Fall über die tragenden Prüffelder: Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG, Arbeitslosengeld I nach SGB III, Arbeitsunfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anwaltszwang SGG Arbeitslosengeld I** ordnet den Fall über die tragenden Prüfungslinien: Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG, Arbeitslosengeld I nach SGB III, Arbeitsunfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen. |
 | `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
 | `arbeitsunfall-bg-anerkennung-anzeige` | Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage. |
 | `arztberichte-vorlegen-laien-leitfaden` | Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext. |
-| `aufrechnung-laufende-leistungen-51-sgb-i` | Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine. |
+| `aufrechnung-laufende-leistungen-51-sgb-i` | Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `anwaltszwang-pruefen-73-sgg`
 
@@ -41,10 +41,9 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behoerde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
+Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behörde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
 
 ## In einfacher Sprache
 
@@ -60,7 +59,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 
 - **Anwaltszwang**: Pflicht, sich von einem Anwalt vertreten zu lassen. Gibt es in vielen Gerichts-Arten, aber nicht beim SG/LSG.
 - **Postulationsfaehigkeit**: Wer vor Gericht auftreten darf. Beim SG sind Sie selbst postulationsfaehig.
-- **Bevollmaechtigter**: Eine Person, die fuer Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
+- **Bevollmaechtigter**: Eine Person, die für Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
 
 ## Rechtsgrundlagen
 
@@ -68,7 +67,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 - **§ 73 Abs. 2 SGG** — Sie duerfen einen Bevollmaechtigten waehlen. Erlaubt sind: Anwalt, Rechtsbeistand, Mitglieder von Gewerkschaft / Sozialverband, andere Personen mit Befaehigung zum Richteramt.
 - **§ 73 Abs. 4 SGG** — Vor dem BSG ist ein Anwalt oder Hochschullehrer zwingend.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, in welcher Instanz Sie sind
 
@@ -91,7 +90,7 @@ Anwalt nehmen, wenn:
 
 - der Fall medizinisch komplex ist
 - mehrere Bescheide zusammenhaengen
-- die Behoerde ein juristisch schwieriges Argument bringt
+- die Behörde ein juristisch schwieriges Argument bringt
 - der Streitwert hoch ist
 - es um Existenz geht (laufende Leistung gestoppt)
 
@@ -99,7 +98,7 @@ Selbst vertreten ist gut, wenn:
 
 - der Fall einfach ist (Rechenfehler, klarer Sachverhalt)
 - Sie Zeit haben, sich einzulesen
-- Sie schon Erfahrung mit Behoerden haben
+- Sie schon Erfahrung mit Behörden haben
 
 ### Schritt 4 — Bei Berufung zum LSG nachdenken
 
@@ -137,7 +136,6 @@ Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage ei
 
 Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen Anwaelte auf www.bsg.bund.de.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -160,7 +158,6 @@ Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen A
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 ALG I ist Versicherungsleistung. Sie haben gearbeitet, jetzt sind Sie arbeitslos. Streit gibt es vor allem um Sperrzeiten, Hoehe und Anwartschaft.
@@ -180,7 +177,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **ALG I**: Arbeitslosengeld bei Arbeitslosigkeit (12 bis 24 Monate je nach Lebensalter).
 - **Sperrzeit**: Kuerzung wegen versicherungswidrigem Verhalten (z.B. selbst gekuendigt).
 - **Anwartschaftszeit**: 12 Monate sozialversicherungspflichtige Beschaeftigung in den letzten 30 Monaten.
-- **Bemessungsentgelt**: Berechnungsgrundlage fuer Hoehe.
+- **Bemessungsentgelt**: Berechnungsgrundlage für Hoehe.
 
 ## Rechtsgrundlagen
 
@@ -190,7 +187,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **§ 149 SGB III** — Hoehe.
 - **§ 159 SGB III** — Sperrzeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruch pruefen
 
@@ -215,12 +212,12 @@ Bei Eigenkuendigung "wichtiger Grund":
 - Schwerwiegende Vertragsverletzungen des Arbeitgebers
 - Familiaere Gruende (Pflege von Angehoerigen)
 - Wegfall der Zumutbarkeit des Arbeitswegs (z.B. bei Umzug zu pflegebeduerftigem Angehoerigen) — BSG-Linie pruefen
-- Aufhebungsvertrag fuer Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
+- Aufhebungsvertrag für Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
 
 ### Schritt 4 — Widerspruch
 
 ```
-Agentur fuer Arbeit [Ort] [Ort, Datum]
+Agentur für Arbeit [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -232,7 +229,7 @@ gegen den o.g. Bescheid mit Sperrzeit von 12 Wochen lege ich Widerspruch ein.
 
 Begruendung:
 
-1. Wichtiger Grund fuer Eigenkuendigung lag vor:
+1. Wichtiger Grund für Eigenkuendigung lag vor:
  - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
  - Aerztliches Attest zur psychischen Belastung (Anlage 2)
  - Beschwerde beim Betriebsrat (Anlage 3)
@@ -275,7 +272,6 @@ Bei abweisendem Widerspruchsbescheid.
 
 Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pruefen in juris.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -297,7 +293,6 @@ Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pr
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Unfallbegriff § 8 SGB VII
 
@@ -353,10 +348,9 @@ Plotzlich von aussen einwirkendes Ereignis das zu einem Gesundheitsschaden oder 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Die meisten SG-Verfahren entscheiden sich an der medizinischen Frage. Ob Sie Pflegegrad 3 bekommen, EM-Rente, GdB 50 — alles haengt von Aerzten ab. Diese Skill zeigt, wie Sie aerztliche Belege gezielt fuer Ihre Sache nutzen.
+Die meisten SG-Verfahren entscheiden sich an der medizinischen Frage. Ob Sie Pflegegrad 3 bekommen, EM-Rente, GdB 50 — alles haengt von Aerzten ab. Diese Skill zeigt, wie Sie aerztliche Belege gezielt für Ihre Sache nutzen.
 
 ## In einfacher Sprache
 
@@ -372,7 +366,7 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 
 - **Befundbericht**: Aerztlicher Bericht ueber Untersuchung und Ergebnis.
 - **Attest**: Schriftliche aerztliche Bescheinigung.
-- **ICD-Code**: Diagnose-Code (z.B. F33.2 fuer Depression).
+- **ICD-Code**: Diagnose-Code (z.B. F33.2 für Depression).
 - **AU-Bescheinigung**: Arbeitsunfaehigkeits-Bescheinigung.
 - **Reha-Entlassungsbericht**: Bericht nach Reha-Aufenthalt.
 
@@ -382,12 +376,12 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 - **§ 60 SGB I** — Mitwirkungspflicht (Belege beibringen).
 - **§ 25 SGB X** — Akteneinsicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Aerzte brauchen Sie?
 
 - **Hausarzt** als Generalist
-- **Facharzt** fuer Ihre Hauptdiagnose (Orthopaedie, Psychiatrie, Innere etc.)
+- **Facharzt** für Ihre Hauptdiagnose (Orthopaedie, Psychiatrie, Innere etc.)
 - **Krankenhaus / Klinik**: Entlassungsberichte
 - **Reha-Klinik**: Entlassungsbericht
 - **Spezialambulanzen** (z.B. Schmerzklinik)
@@ -432,7 +426,7 @@ Im Pflegestreit zusaetzlich:
 ### Schritt 4 — Atteste einreichen
 
 - Original aufheben.
-- Kopie an Behoerde / Gericht.
+- Kopie an Behörde / Gericht.
 - Bei Klage: als Anlage K[n] mit klarer Bezeichnung.
 
 ### Schritt 5 — Mehrere Atteste sind besser
@@ -459,7 +453,7 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 - Beim Hausarzt freundlich bleiben, kurze Bitte.
 - Wenn keine Reaktion: das Gericht kann den Arzt zur Befundauskunft auffordern (§ 103 SGG).
-- Sie geben dafuer Adresse und Schweigepflichtsentbindung.
+- Sie geben dafür Adresse und Schweigepflichtsentbindung.
 
 ## Worauf Sie besonders achten muessen
 
@@ -489,7 +483,6 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern, koennen aber Honorar verlangen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -500,7 +493,7 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 ## 5. `aufrechnung-laufende-leistungen-51-sgb-i`
 
-**Fokus:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine.
+**Fokus:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine.
 
 # Aufrechnung Laufende Leistungen 51 Sgb I
 
@@ -512,17 +505,16 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Wann darf aufgerechnet werden
 
 § 51 Abs. 1 SGB I: Aufrechnung mit Geldleistungsanspruch nur in Hoehe der Haelfte der laufenden Geldleistung, soweit die Aufrechnung nicht dazu fuehrt, dass der Berechtigte hilfebeduerftig wird.
 
 ## Voraussetzungen
 
-- Gegenforderung der Behoerde aus Erstattung oder Schadensersatz.
+- Gegenforderung der Behörde aus Erstattung oder Schadensersatz.
 - Hoehe und Faelligkeit feststellbar.
 
-## Anhoerungspflicht
+## Anhörungspflicht
 
 - § 24 SGB X — vor Aufrechnung anhoeren.
 - Aenderung des bewilligten Leistungsbetrags = belastender VA.
@@ -541,10 +533,39 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 1. Bestehende Rueckforderung?
 2. Laufende Leistung des selben Traegers?
-3. Anhoerung erfolgt?
+3. Anhörung erfolgt?
 4. Hilfebeduerftigkeit durch Aufrechnung?
 5. Pfaendungsfreigrenze gewahrt?
 
 ## Vorlage Widerspruch
 
 "Gegen die mit Bescheid vom [...] erklaerte Aufrechnung lege ich Widerspruch ein. Die Aufrechnung wuerde die Pfaendungsfreigrenze unterschreiten und mich hilfebeduerftig machen — Anlage Berechnung des Bedarfs."
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
+- §§ 51-55 SGG (Klagearten)
+- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
+- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
+- § 105 SGG (Gerichtsbescheid)
+- § 109 SGG (Sachverständiger nach Wahl)
+- § 131 SGG (Urteilsformen)
+- §§ 183-197a SGG (Kosten)
+- §§ 12, 14 SGB I (Auskunft, Beratung)
+- § 44 SGB X (Zugunstenverfahren)
+
+### Leitentscheidungen
+
+- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
+- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
+- BVerfG 1 BvL 1/09 (Regelbedarf)
+- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
+- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+
+### Anwendung im Skill
+
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
+- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

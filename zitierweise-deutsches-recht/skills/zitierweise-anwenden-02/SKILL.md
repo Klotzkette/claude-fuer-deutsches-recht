@@ -1,28 +1,28 @@
 ---
 name: zitierweise-anwenden-02
-description: "Anwenden 02 im Zitierweise im deutschen Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Anwenden 02 im Zitierweise im deutschen Recht im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Anwenden 02
 
 ## Arbeitsbereich
 
-**Anwenden 02** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Anwenden 02** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zitierweise-anwenden` | Wende deutsche juristische Hauszitierweise v4.1 an. Rechtsprechung nur mit Gericht Entscheidungsform Datum Az. Aktenzeichen und verifizierbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Unverifizierte Entscheidungen als Prüfbedarf markieren oder weglassen. Keine aktuellen Palandt-/Pahlen-Zitate. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Zitierweise im deutschen Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: keine prozessualen — Aktualitäts-Heuristik: Zitate ≤ 12 Monate alt für aktuelle Lage, Leitentscheidungen wann immer einschlägig.
 - Tragende Normen verifizieren: BVerfG, BGH, BAG, BSG, BFG, BVerwG, EuGH, OLG-Zitierregeln (BGHZ, BVerfGE, NJW, ZIP, NZG, NJW-RR), § 1 GVG, ZPO/StPO/VwGO-Berichtspflichten, OSCOLA/Bluebook nur am Rande — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verfasser (Anwalt, Wissenschaftler, Richter), Adressat (Gericht, Behörde, Mandant, Peer-Review), Verlage (C.H.Beck, Nomos, Otto Schmidt).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schriftsatz, Beschluss, Aufsatz, Festschrift-Beitrag, Hausarbeit, Dissertation, Habilitation, Klausur — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zitierweise-anwenden`
 

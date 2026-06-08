@@ -7,25 +7,25 @@ description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im 
 
 ## Arbeitsbereich
 
-**Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS** ordnet den Fall über die tragenden Prüffelder: Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS** ordnet den Fall über die tragenden Prüfungslinien: Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `avv-pruefung-bestehender-vertraege-audit` | Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan. |
-| `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich` | Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema fuer Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung. |
-| `avv-tom-art-32-dsgvo-anlage` | TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmaessige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch. |
+| `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich` | Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung. |
+| `avv-tom-art-32-dsgvo-anlage` | TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch. |
 | `datenpanne-meldung` | Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenenbenachrichtigung Dokumentation. Output: Meldeschreiben an Aufsichtsbehoerde Betroffenenbenachrichtigung Dokumentationsprotokoll. Abgrenzung: nicht für praeventive Massnahmen (dsfa-erstellung). |
 | `datenschutz-auskunftei-restschuldbefreiung-art17` | Art. 17 DSGVO im Auskunfteifall: Interessenabwägung, öffentliche Registerfrist, Einschränkung, Widerspruch und gerichtliche Durchsetzung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `avv-pruefung-bestehender-vertraege-audit`
 
@@ -50,7 +50,7 @@ Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege a
 - Art. 30 DSGVO – Verarbeitungsverzeichnis.
 - Art. 32 DSGVO – TOM (regelmaessig Anlage zum AVV).
 - Art. 44 bis 49 DSGVO – Drittlandtransfer.
-- Beschluss (EU) 2021/914 – SCC seit 27.06.2021; Altmuster (2001/497/EG, 2004/915/EG, 2010/87/EU) sind seit 27.12.2022 fuer Altbestand abgeloest.
+- Beschluss (EU) 2021/914 – SCC seit 27.06.2021; Altmuster (2001/497/EG, 2004/915/EG, 2010/87/EU) sind seit 27.12.2022 für Altbestand abgeloest.
 - Beschluss (EU) 2023/1795 – DPF seit 10.07.2023.
 
 ## Ablauf / Checkliste
@@ -132,7 +132,7 @@ Frist: [DATUM]
 
 ## Typische Drafting-Fehler
 
-- AVV-Bestand wird nur per Stichprobe geprueft – fuer aufsichtsbehoerdliche Pruefung unzureichend.
+- AVV-Bestand wird nur per Stichprobe geprueft – für aufsichtsbehoerdliche Pruefung unzureichend.
 - Altbestand mit SCC-Altmustern (2001/497/EG, 2010/87/EU) nicht umgestellt.
 - DPF-Listing nicht periodisch geprueft.
 - TOM-Anlage Stand 2018 ohne Aktualisierung.
@@ -157,7 +157,6 @@ Frist: [DATUM]
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -168,7 +167,7 @@ Frist: [DATUM]
 
 ## 2. `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich`
 
-**Fokus:** Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema fuer Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung.
+**Fokus:** Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung.
 
 # Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung
 
@@ -192,7 +191,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EuGH C-25/17 (Zeugen Jehovas) – verifiziert: Mitverantwortung durch organisatorische Mittel auch ohne unmittelbaren Datenzugang.
 - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: Fanpage-Betreiber ist gemeinsam mit Plattform verantwortlich.
-- EuGH C-40/17 (Fashion ID) – verifiziert: Like-Button-Einbinder ist fuer Erhebung und Uebermittlung mitverantwortlich.
+- EuGH C-40/17 (Fashion ID) – verifiziert: Like-Button-Einbinder ist für Erhebung und Uebermittlung mitverantwortlich.
 
 ## Ablauf / Checkliste
 
@@ -213,7 +212,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
  - Wird die Verarbeitung gemeinsam beworben oder organisiert?
 
 3. **Negativindizien gegen Auftragsverarbeitung.**
- - Eigene Verarbeitung fuer eigene Werbung, eigenes KI-Training, eigene Statistik.
+ - Eigene Verarbeitung für eigene Werbung, eigenes KI-Training, eigene Statistik.
  - Eigene Anonymisierung mit nachgelagerter eigener Nutzung.
  - Eigene Rechtsdienstleistung (Inkasso, Steuerberatung, Rechtsanwaltsleistung) im Auftrag des Mandanten – meist Funktionsuebertragung statt Art. 28 (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
  - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
@@ -243,7 +242,7 @@ Datenkategorien: [Stamm-/Verkehrs-/Inhaltsdaten/Art. 9 DSGVO]
 Betroffene: [Kategorien]
 
 1. Zweck der Verarbeitung
- Wer entscheidet? [A allein / A und B gemeinsam / nur fuer A]
+ Wer entscheidet? [A allein / A und B gemeinsam / nur für A]
  Begruendung: [Sachverhaltsbasis]
 
 2. Wesentliche Mittel
@@ -251,7 +250,7 @@ Betroffene: [Kategorien]
  Indizien: [Tool-Auswahl, Speicherort, Loeschfristen, Sicherheitsmassnahmen]
 
 3. Wirtschaftlicher Nutzen
- [Nur A / beide / A nutzt fuer Geschaeft, B nur fuer Entgelt]
+ [Nur A / beide / A nutzt für Geschaeft, B nur für Entgelt]
 
 4. Weisungsgebundenheit B?
  [voll / teilweise / keine]
@@ -280,7 +279,7 @@ Datum, Unterschrift Datenschutzbeauftragter
 - Joint-Agreement abgeschlossen, obwohl getrennte Verantwortliche vorliegen (typischer Fall: Inkasso-Dienstleister).
 - "Standardloesung AVV" ohne Pruefung.
 - Berufsgeheimnistraeger als reine Auftragsverarbeiter behandelt (Funktionsuebertragung uebersehen).
-- Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten fuer eigene Zwecke nutzt.
+- Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten für eigene Zwecke nutzt.
 
 ## Querverweise
 
@@ -300,7 +299,6 @@ Datum, Unterschrift Datenschutzbeauftragter
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -311,7 +309,7 @@ Datum, Unterschrift Datenschutzbeauftragter
 
 ## 3. `avv-tom-art-32-dsgvo-anlage`
 
-**Fokus:** TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmaessige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch.
+**Fokus:** TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch.
 
 # TOM-Anlage Art. 32 DSGVO
 
@@ -329,7 +327,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
 ## Rechtlicher Rahmen
 
 - Art. 32 Abs. 1 DSGVO: Geeignete TOM unter Beruecksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstaende und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos.
-- Art. 32 Abs. 1 lit. a bis d DSGVO: Pseudonymisierung und Verschluesselung, Vertraulichkeit, Integritaet, Verfuegbarkeit, Belastbarkeit, Wiederherstellbarkeit, regelmaessige Pruefung.
+- Art. 32 Abs. 1 lit. a bis d DSGVO: Pseudonymisierung und Verschluesselung, Vertraulichkeit, Integritaet, Verfuegbarkeit, Belastbarkeit, Wiederherstellbarkeit, regelmäßige Pruefung.
 - Art. 25 DSGVO: Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
 - Art. 28 Abs. 3 lit. c DSGVO: TOM als Pflichtklausel im AVV.
 
@@ -338,7 +336,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
 1. **Risikobewertung.**
  - Art der Daten (Stamm-, Verkehrs-, Inhaltsdaten, Art. 9 DSGVO).
  - Umfang und Zweck.
- - Eintrittswahrscheinlichkeit und Schwere des Risikos fuer Betroffene.
+ - Eintrittswahrscheinlichkeit und Schwere des Risikos für Betroffene.
 
 2. **Mindestkategorien (Art. 32 Abs. 1 DSGVO).**
 
@@ -351,7 +349,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
  | Verfuegbarkeit | Backup, RPO/RTO, Notfallplan, geo-redundante Speicherung |
  | Belastbarkeit | DDoS-Schutz, Lastverteilung, Failover-Verfahren |
  | Wiederherstellbarkeit | Backup-Tests, dokumentierte Wiederherstellungsverfahren |
- | Regelmaessige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
+ | Regelmäßige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
 
 3. **Organisatorische Massnahmen.**
  - Datenschutzbeauftragter, Datenschutzschulungen (jaehrlich), Vertraulichkeitsverpflichtungen, IT-Sicherheits-Richtlinie, Incident-Response-Plan, Need-to-Know-Prinzip, Berechtigungsverwaltung, Joiner-Mover-Leaver-Prozess.
@@ -381,28 +379,28 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 
 1. Pseudonymisierung (Art. 32 Abs. 1 lit. a DSGVO)
  1.1 In Entwicklungs- und Testumgebungen werden personenbezogene Daten ausschliesslich in pseudonymisierter Form verarbeitet.
- 1.2 Die Zuordnungstabelle wird getrennt gespeichert; Zugriff nur fuer den Datenschutzbeauftragten.
+ 1.2 Die Zuordnungstabelle wird getrennt gespeichert; Zugriff nur für den Datenschutzbeauftragten.
 
 2. Verschluesselung (Art. 32 Abs. 1 lit. a DSGVO)
  2.1 In Transit: TLS 1.3 mit Forward Secrecy; SSL/TLS-Konfiguration gemaess BSI TR-02102.
- 2.2 At Rest: AES-256 (CBC oder GCM) fuer alle Datenbanken und Backups.
+ 2.2 At Rest: AES-256 (CBC oder GCM) für alle Datenbanken und Backups.
  2.3 Schluesselverwaltung: HSM oder gleichwertige Loesung; jaehrliche Rotation.
 
 3. Vertraulichkeit (Art. 32 Abs. 1 lit. b DSGVO)
  3.1 Zutrittskontrolle: physische Sicherung der Rechenzentren (24/7-Bewachung, Mehrfaktor-Zutritt).
- 3.2 Zugangskontrolle: Multi-Faktor-Authentifizierung fuer alle priviligierten Konten.
+ 3.2 Zugangskontrolle: Multi-Faktor-Authentifizierung für alle priviligierten Konten.
  3.3 Zugriffskontrolle: rollenbasiertes Berechtigungsmodell, Least Privilege, periodische Rezertifizierung.
  3.4 Trennungskontrolle: mandantenfaehige Trennung; logische Trennung mit eigener Zugriffskontrolle.
 
 4. Integritaet (Art. 32 Abs. 1 lit. b DSGVO)
- 4.1 Weitergabekontrolle: dokumentierte Schnittstellen, Audit-Log fuer alle Datenexporte.
+ 4.1 Weitergabekontrolle: dokumentierte Schnittstellen, Audit-Log für alle Datenexporte.
  4.2 Eingabekontrolle: nachvollziehbare Protokollierung aller Schreibvorgaenge auf personenbezogene Daten.
- 4.3 Hash-Funktionen: SHA-256 oder besser fuer Integritaetspruefungen.
+ 4.3 Hash-Funktionen: SHA-256 oder besser für Integritaetspruefungen.
 
 5. Verfuegbarkeit und Belastbarkeit (Art. 32 Abs. 1 lit. b DSGVO)
  5.1 Backup: taegliche inkrementelle Backups, woechentliche Vollbackups, Aufbewahrung 30 Tage.
  5.2 RPO (Recovery Point Objective): hoechstens 24 Stunden.
- 5.3 RTO (Recovery Time Objective): hoechstens 8 Stunden fuer kritische Verarbeitungen.
+ 5.3 RTO (Recovery Time Objective): hoechstens 8 Stunden für kritische Verarbeitungen.
  5.4 Geo-Redundanz: synchrone Replikation in mindestens zwei EU-Rechenzentren.
  5.5 DDoS-Schutz: vorgeschalteter Filter; SLA mit Provider.
 
@@ -411,7 +409,7 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
  6.2 Dokumentierte Wiederherstellungsverfahren.
  6.3 Verifikation der Wiederherstellbarkeit durch tatsaechlichen Wiederherstellungstest mindestens halbjaehrlich.
 
-7. Regelmaessige Pruefung (Art. 32 Abs. 1 lit. d DSGVO)
+7. Regelmäßige Pruefung (Art. 32 Abs. 1 lit. d DSGVO)
  7.1 Penetrationstest durch unabhaengige Dritte mindestens jaehrlich.
  7.2 Vulnerability Scan monatlich.
  7.3 ISMS-internes Audit jaehrlich; externes Audit nach ISO 27001 jaehrlich.
@@ -459,7 +457,6 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - BSI C5:2020.
 - SOC 2 Trust Services Criteria.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -593,7 +590,7 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 - **NIS-2-UmsuCG (deutsches Umsetzungsgesetz):** in Kraft seit Ende 2025 (BSIG n. F.). Bei meldepflichtigen Datenpannen, die zugleich Cyber-Sicherheitsvorfaelle bei wichtigen oder besonders wichtigen Einrichtungen sind, parallel zur DSGVO-Meldung an die Aufsichtsbehoerde die BSI-Meldung nach § 32 BSIG n. F. binnen 24 h (Fruehwarnung), 72 h (Vorfallsmeldung) und 1 Monat (Abschlussbericht) abgeben. Quelle: BGBl 2025, BSI-Portal bsi.bund.de.
 - **Art. 82 DSGVO — Schadensersatz EuGH-Linie:** Der blosse Kontrollverlust kann immateriellen Schaden begruenden, ein automatischer Anspruch entsteht aber nicht. Verschulden des Verantwortlichen wird vermutet, Entlastung moeglich. Konkrete Aktenzeichen vor Zitat live ueber curia.europa.eu pruefen.
 - **EDSA Guidelines 9/2022 zu Datenpannen:** Endfassung (angenommen 28.03.2023) ist verbindliche Auslegungshilfe; enthaelt Fallkatalog Ransomware, Phishing, Exfiltration, Fehlversand, Diebstahl mit konkreten Risikoampeln. Quelle: edpb.europa.eu/our-work-tools/our-documents/guidelines.
-- **BfDI / Landesdatenschutzbehoerden:** Bei standortuebergreifenden Vorfaellen Federfuehrung nach Art. 56 DSGVO (One-Stop-Shop) klaeren. BfDI fuer Bundes- und TK-/Postwesen; LDA-Bayern, LfDI BW etc. fuer privatwirtschaftliche Verantwortliche.
+- **BfDI / Landesdatenschutzbehoerden:** Bei standortuebergreifenden Vorfaellen Federfuehrung nach Art. 56 DSGVO (One-Stop-Shop) klaeren. BfDI für Bundes- und TK-/Postwesen; LDA-Bayern, LfDI BW etc. für privatwirtschaftliche Verantwortliche.
 
 **Querverweise:**
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Datenpannen mit Drittlandbezug (Benachrichtigungspflicht des Importeurs)

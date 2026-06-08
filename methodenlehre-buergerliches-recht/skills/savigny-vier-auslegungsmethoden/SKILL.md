@@ -1,6 +1,6 @@
 ---
 name: savigny-vier-auslegungsmethoden
-description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest fuer jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills fuer Wortlaut, System, Historie und Telos."
+description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest für jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills für Wortlaut, System, Historie und Telos."
 ---
 
 # Savigny und der Vierer-Kanon der Auslegung
@@ -13,7 +13,7 @@ description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, 
 
 ## Worum geht es?
 
-Friedrich Carl von Savigny (1779-1861) hat im ersten Band des "System des heutigen Roemischen Rechts" (Berlin 1840) die vier klassischen Auslegungselemente formuliert, die bis heute das Geruest jeder juristischen Auslegung in Deutschland bilden. Diese Skill ist die Eingangstuer fuer alle Auslegungsfragen: Sie ordnet die vier Elemente, klaert ihr Verhaeltnis und verweist auf die spezialisierten Skills fuer jede einzelne Methode.
+Friedrich Carl von Savigny (1779-1861) hat im ersten Band des "System des heutigen Roemischen Rechts" (Berlin 1840) die vier klassischen Auslegungselemente formuliert, die bis heute das Geruest jeder juristischen Auslegung in Deutschland bilden. Diese Skill ist die Eingangstuer für alle Auslegungsfragen: Sie ordnet die vier Elemente, klaert ihr Verhaeltnis und verweist auf die spezialisierten Skills für jede einzelne Methode.
 
 Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, sondern von "Elementen" einer einheitlichen Auslegung, die zusammen wirken. Erst die Spaetrezeption hat daraus den modernen Kanon der vier Auslegungsmethoden gemacht.
 
@@ -36,7 +36,7 @@ Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, 
 3. Historisches Element (Zustand des Rechts zur Zeit des Gesetzes, Wirkung des Gesetzes auf den Zustand).
 4. Systematisches Element (Verbindung zu allen Rechtsinstituten und Rechtsregeln in einem grossen Ganzen).
 
-Das spaeter ergaenzte teleologische Element gehoert nicht zu Savignys urspruenglicher Vierer-Liste, sondern wurde insbesondere durch Rudolf von Jhering (1818-1892, "Der Zweck im Recht", 1877-1883) und spaeter die Interessen- und Wertungsjurisprudenz nachgeschoben. Heute werden Savignys "logisches" und "systematisches" Element zur systematischen Auslegung zusammengefasst, dafuer steht die teleologische Auslegung neben den anderen drei.
+Das spaeter ergaenzte teleologische Element gehoert nicht zu Savignys urspruenglicher Vierer-Liste, sondern wurde insbesondere durch Rudolf von Jhering (1818-1892, "Der Zweck im Recht", 1877-1883) und spaeter die Interessen- und Wertungsjurisprudenz nachgeschoben. Heute werden Savignys "logisches" und "systematisches" Element zur systematischen Auslegung zusammengefasst, dafür steht die teleologische Auslegung neben den anderen drei.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -49,9 +49,9 @@ Beispiel § 433 BGB (Kaufvertrag):
 - **Historie:** Gesetzesmaterialien des BGB von 1900, Schuldrechtsmodernisierung 2002 (BT-Drs. 14/6040).
 - **Telos:** Synallagmatische Verknuepfung von Sach- und Geldleistung, Erfuellungs- und Gewaehrleistungsfunktion.
 
-Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck ergibt; vgl. fuer den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
+Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck ergibt; vgl. für den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Norm und Streitfrage benennen.** Welche Tatbestandsmerkmale sind streitig?
 2. **Wortlaut pruefen** (siehe Skill `wortlaut-grammatikalische-auslegung`). Allgemein- oder Fachsprache? Wortlaut-Grenze beachten.

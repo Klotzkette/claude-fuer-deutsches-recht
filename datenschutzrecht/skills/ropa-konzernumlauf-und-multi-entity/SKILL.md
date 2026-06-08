@@ -1,18 +1,18 @@
 ---
 name: ropa-konzernumlauf-und-multi-entity
-description: "Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage fuer Master-RoPA und Entity-Anhaenge."
+description: "Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Master-RoPA und Entity-Anhaenge."
 ---
 
 # RoPA im Konzern und in Multi-Entity-Strukturen
 
 ## Zweck
 
-Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur fuer Master-RoPA mit Entity-Anhaengen.
+Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur für Master-RoPA mit Entity-Anhaengen.
 
 ## Wann dieses Modul hilft
 
 - Konzernweiter RoPA-Roll-out (Mutter- und Tochtergesellschaften).
-- Shared-Service-Center fuer HR, IT, Buchhaltung, Recht (typischerweise Processor-Konstellation).
+- Shared-Service-Center für HR, IT, Buchhaltung, Recht (typischerweise Processor-Konstellation).
 - Intercompany Data Transfer Agreements (IDTA, hier deutscher Begriff: konzerninterne Datentransfer-Vereinbarung).
 - Binding Corporate Rules (BCR) im Aufbau.
 - M&A-Due-Diligence (Datenschutz-DD).
@@ -38,7 +38,7 @@ Konzerninterne Uebermittlungen in Drittlaender unterliegen Art. 44 ff. DSGVO. Lo
 
 - BCR (Art. 47 DSGVO) – aufwendig, aber genehmigungsfaehig.
 - SCC (Beschluss (EU) 2021/914) zwischen den konzernzugehoerigen Stellen.
-- Angemessenheitsbeschluss (z. B. EU-US DPF fuer US-Tochter im DPF).
+- Angemessenheitsbeschluss (z. B. EU-US DPF für US-Tochter im DPF).
 
 ### EDSA-Leitlinien
 
@@ -47,8 +47,8 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 ## Ablauf / Checkliste
 
 1. **Strukturkarte:** Liste aller Konzerngesellschaften mit Sitz, Rechtsform, taetigem Personal, Datenkategorien.
-2. **Rollen-Mapping:** Wer ist fuer welchen Datenfluss Controller, Joint Controller oder Processor?
-3. **Master-RoPA:** zentrales Dokument fuer gruppenuebergreifende Prozesse (Konzern-HR, Konzern-CRM, Konzern-Compliance).
+2. **Rollen-Mapping:** Wer ist für welchen Datenfluss Controller, Joint Controller oder Processor?
+3. **Master-RoPA:** zentrales Dokument für gruppenuebergreifende Prozesse (Konzern-HR, Konzern-CRM, Konzern-Compliance).
 4. **Entity-Anhaenge:** pro Gesellschaft eigene Tabelle mit Spezifika.
 5. **Intercompany-Vertraege:** AVV oder Joint-Controllership-Vereinbarung verlinken.
 6. **BCR-Status:** wenn vorhanden, in jedem Entity-RoPA als Garantie referenzieren; sonst SCC.
@@ -62,7 +62,7 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 Konzern: [Mutter AG]
 Konzernweite DSB: [Name, Kontakt]
 Geltungsbereich: [Liste der Tochtergesellschaften, EU/EWR + Drittlaender]
-Konzerninterne Garantie: [BCR genehmigt YYYY-MM-DD durch Lead-Behoerde XY] oder [SCC-Rahmenvertrag YYYY]
+Konzerninterne Garantie: [BCR genehmigt YYYY-MM-DD durch Lead-Behörde XY] oder [SCC-Rahmenvertrag YYYY]
 Erstellt: [Datum]
 Letzte Aenderung: [Datum]
 Version: [v1.0]
@@ -109,11 +109,11 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Basis.
-- `avv-konzern-und-multi-party-konstellation` fuer Vertragsseite.
-- `avv-art-26-joint-controllership-deutsch` fuer Joint Controllership.
-- `bcr-binding-corporate-rules` (falls Skill existiert) fuer BCR-Verfahren.
-- `tia-template-deutsch-vollvorlage` fuer Transferpruefung.
+- `ropa-art-30-dsgvo-grundlagen` für Basis.
+- `avv-konzern-und-multi-party-konstellation` für Vertragsseite.
+- `avv-art-26-joint-controllership-deutsch` für Joint Controllership.
+- `bcr-binding-corporate-rules` (falls Skill existiert) für BCR-Verfahren.
+- `tia-template-deutsch-vollvorlage` für Transferpruefung.
 
 ## Quellen Stand 06/2026
 
@@ -122,7 +122,6 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (verabschiedet 07.07.2021).
 - EDPB Working Document on Approval Procedure for BCR (zuletzt aktualisiert 2022).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-
 
 ## Qualitäts-Hardening
 

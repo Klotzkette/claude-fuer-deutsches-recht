@@ -7,7 +7,7 @@ description: "Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO
 
 ## Worum geht es?
 
-Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht **Anwaltszwang** (§ 78 ZPO). Sie koennen die Berufung selbst einlegen (§ 78 III ZPO), aber **die Begruendung muss von einem Anwalt** kommen. Wenn Sie sich keinen leisten koennen: PKH pruefen.
+Wenn Sie ein AG-Urteil für falsch halten, koennen Sie **Berufung** einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht **Anwaltszwang** (§ 78 ZPO). Sie koennen die Berufung selbst einlegen (§ 78 III ZPO), aber **die Begruendung muss von einem Anwalt** kommen. Wenn Sie sich keinen leisten koennen: PKH pruefen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -18,9 +18,9 @@ Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Be
 ## Fachbegriffe (kurz erklaert)
 
 - **Berufung**: Rechtsmittel gegen Urteile erster Instanz.
-- **Landgericht (LG)**: Berufungsinstanz fuer AG-Urteile.
+- **Landgericht (LG)**: Berufungsinstanz für AG-Urteile.
 - **Beschwer**: Differenz zwischen Ihrem Antrag und der Entscheidung — der Betrag, mit dem Sie "verloren" haben.
-- **Wertgrenze**: Mindest-Beschwer fuer Berufung **ohne Zulassung**.
+- **Wertgrenze**: Mindest-Beschwer für Berufung **ohne Zulassung**.
 - **Zulassung der Berufung**: Bei niedriger Beschwer kann das AG die Berufung ausdruecklich zulassen.
 
 ## Rechtsgrundlagen
@@ -34,7 +34,7 @@ Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Be
 - **§ 520 ZPO** — Berufungsbegruendung 2 Monate.
 - **§ 78 III ZPO** — Berufungs-Einlegung selbst moeglich, Begruendung mit Anwalt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Berufungs-Wertgrenze pruefen (Stand 2026)
 
@@ -58,7 +58,7 @@ Beschwer = Differenz zwischen Ihrem Antrag und der Entscheidung.
 - die Rechtssache **grundsaetzliche Bedeutung** hat,
 - die **Fortbildung des Rechts** oder die **Sicherung einer einheitlichen Rechtsprechung** eine Entscheidung des Berufungsgerichts erfordert.
 
-**Wichtig:** Die Zulassung erfolgt **durch das AG selbst im Urteil**. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO **nicht** vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer Beschwer von 1.000 EUR oder weniger **endgueltig ausgeschlossen** (Ausnahme: Anhoerungsruege § 321a ZPO bei Verletzung des rechtlichen Gehoers — sehr enger Anwendungsbereich).
+**Wichtig:** Die Zulassung erfolgt **durch das AG selbst im Urteil**. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO **nicht** vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer Beschwer von 1.000 EUR oder weniger **endgueltig ausgeschlossen** (Ausnahme: Anhörungsruege § 321a ZPO bei Verletzung des rechtlichen Gehoers — sehr enger Anwendungsbereich).
 
 Skill `berufungs-zulassung-niedrig-streitwert` zur Strategie.
 
@@ -114,7 +114,7 @@ Sie haben 2 Monate, einen Anwalt zu finden:
 - Preise erfragen.
 - PKH gleichzeitig beantragen, wenn beduerftig.
 
-PKH-Antrag fuer Berufung Skill `prozesskostenhilfe-pkh-114-zpo`. Wichtig: PKH-Antrag **vor** Ablauf der Berufungsbegruendungs-Frist stellen. Bewilligung hemmt Frist (BGH-Rechtsprechung).
+PKH-Antrag für Berufung Skill `prozesskostenhilfe-pkh-114-zpo`. Wichtig: PKH-Antrag **vor** Ablauf der Berufungsbegruendungs-Frist stellen. Bewilligung hemmt Frist (BGH-Rechtsprechung).
 
 ### Schritt 7 — Inhalt der Berufungsbegruendung
 
@@ -161,7 +161,6 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Anwaltszwang § 78 ZPO unveraendert. Eine Zulassungs-Beschwerde zum LG existiert in § 511 ZPO nicht.
-
 
 ## Qualitäts-Hardening
 

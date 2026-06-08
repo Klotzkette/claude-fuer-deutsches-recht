@@ -20,7 +20,7 @@ Dieser Fehlerkatalog prüft im Bereich **Hausarbeitenmacher** Ergebnisse vor Abg
 - `gutachtenstil-vs-haus-fussnotenstil-literaturrecherche-leitfaden`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `haus-plagiatscheck-haus-themaeingrenzung-meinungsstreit`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 - `juristische-liefert-beweislast-rechtstheorie`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
-- `methodenlehre-auslegung-oeffentliches-statthaft-professor`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
+- `methodenlehre-auslegung-öffentliches-statthaft-professor`: typischen Fehler aus diesem Fachpfad aktiv gegenprüfen.
 
 ## Red-Team-Fragen
 

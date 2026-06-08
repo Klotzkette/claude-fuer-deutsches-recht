@@ -1,34 +1,21 @@
 ---
 name: evaluation-jahresbericht-fallzahlen
-description: "Evaluation Jahresbericht Fallzahlen im Plugin Normenkontrollrat Nkr: prüft konkret Beschreibt Evaluierungspraxis ex-post-Pruefung und, Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen für Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Evaluation Jahresbericht Fallzahlen
+# NKR-Evaluation und Jahresbericht
 
 ## Arbeitsbereich
 
-**Evaluation Jahresbericht Fallzahlen** ordnet den Fall über die tragenden Prüffelder: Beschreibt Evaluierungspraxis ex-post-Pruefung und, Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-evaluation-und-jahresbericht` | Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen. |
-| `nkr-fallzahlen-schaetzung-bandbreiten` | Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme. |
+Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen für Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-evaluation-und-jahresbericht`
-
-**Fokus:** Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen.
-
-# NKR-Evaluation und Jahresbericht
 
 ## Worum geht es konkret
 
@@ -51,7 +38,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 - **Erfuellungsaufwand-Leitfaden** Kapitel ex-post
 - **Better Regulation Guidelines** (EU) Tool 22 Evaluation
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Jahresbericht
 
@@ -102,7 +89,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der NKR empfiehlt, eine Evaluierungsklausel aufzunehmen, die [3 / 5] Jahre nach Inkrafttreten die tatsaechlichen Auswirkungen anhand der Indikatoren [Fallzahlen, Aufwand, Zielereichung] ueberprueft."
-- "Der NKR weist darauf hin, dass eine Evaluierungsklausel im Vorhaben fehlt, obwohl der ausgewiesene Erfuellungsaufwand fuer die Wirtschaft die Schwelle von 100 Mio EUR jaehrlich uebersteigt."
+- "Der NKR weist darauf hin, dass eine Evaluierungsklausel im Vorhaben fehlt, obwohl der ausgewiesene Erfuellungsaufwand für die Wirtschaft die Schwelle von 100 Mio EUR jaehrlich uebersteigt."
 - "Im Jahresbericht [Jahr] hatte der NKR auf den hohen Erfuellungsaufwand vergleichbarer Regelungen hingewiesen. Diese Hinweise sind im vorliegenden Vorhaben aufgenommen worden."
 
 ### Jahresbericht-Kapitelueberschriften (Standard)
@@ -134,119 +121,5 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 - §§ 44, 45 GGO
 - Konzept zur Evaluierung neuer Regelungsvorhaben (Bundesregierung, jeweils aktuelle Fassung)
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-fallzahlen-schaetzung-bandbreiten`
-
-**Fokus:** Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme.
-
-# NKR-Fallzahlen — Schaetzung und Bandbreiten
-
-## Worum geht es konkret
-
-Bei vielen Vorhaben gibt es keine harten Fallzahlen aus Statistik. Trotzdem muss der Erfuellungsaufwand quantifiziert werden. Der NKR akzeptiert **Schaetzungen mit Bandbreiten**, sofern die Methodik transparent ist und eine Sensitivitaetsanalyse erfolgt.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Keine direkte Statistik zur Pflicht-Adressatengruppe
-- Neue Pflicht ohne historische Datenbasis
-- Hohe Unsicherheit ueber tatsaechliche Inanspruchnahme
-- Dunkelziffer-Problematik (z.B. faktische Nicht-Befolgung)
-
-Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher Bandbreite koennten Sie sich vorstellen?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **Leitfaden BMI / NKR** — Kapitel "Datenermittlung und Bandbreiten"
-- **OECD-SKM-Toolkit** — Sensitivity Analysis
-- **EU Better Regulation Toolbox** Tool 25 Quantification
-
-## Pruefraster / Schritt fuer Schritt
-
-1. **Statistikrecherche** vollstaendig dokumentieren (auch wenn keine Treffer)
-2. **Hilfsdaten** identifizieren: vergleichbare Pflichten, Branchenkennzahlen, Erfahrungswerte
-3. **Bandbreite** bestimmen:
- - **Untergrenze** (konservative Annahme, eher zu wenig Faelle)
- - **Punktschaetzung** (realistische Mittel-Annahme)
- - **Obergrenze** (vorsichtige Annahme, eher zu viele Faelle)
-4. **Sensitivitaetsanalyse**: Auswirkung auf Erfuellungsaufwand bei Min / Max
-5. **Begruendung** offenlegen: woher kommt jede Annahme?
-6. **Aktualisierung**: Empfehlung an Ressort, nach Inkrafttreten zu evaluieren
-
-## Methoden im Detail
-
-### Top-down
-
-Aggregierter Wert (z.B. Anzahl Unternehmen) wird heruntergebrochen auf relevante Teilmenge (z.B. nur GmbHs ueber Schwellenwert).
-
-### Bottom-up
-
-Einzelfaelle werden hochgerechnet ueber typische Verteilung.
-
-### Analoge Vorhaben
-
-Vergleich mit vergleichbarer Pflicht in anderem Rechtsgebiet (z.B. Berichtspflicht im Steuerrecht als Analogon).
-
-### Befragung / Anhoerung
-
-Verbaende, Kammern, Vertreter der Wirtschaft befragen. Aussagen dokumentieren.
-
-### Pilotdaten
-
-Aus Pilotphase oder einer ersten kleinen Stichprobe hochrechnen.
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- "Schaetzung" ohne dargelegte Methode
-- Punktwert ohne Bandbreite bei hoher Unsicherheit
-- Verzicht auf Sensitivitaetsanalyse trotz hoher Unsicherheit
-- Begruendung "auf Grundlage von Erfahrungswerten" ohne Konkretisierung
-- Annahmen entgegen Verbandsbeitraegen, ohne deren Beruecksichtigung
-
-## Trade-off-Matrix
-
-| Datenlage | Pflicht zur Bandbreite |
-|---|---|
-| Harte Statistik vorhanden | nicht zwingend, aber empfohlen |
-| Statistik mit Lueckenbereich | ja, fuer Lueckenbereich |
-| Reine Schaetzung | zwingend |
-| Hohe politische Bedeutung | zwingend plus Sensitivitaet |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Mangels statistischer Erfassung schaetzt das Ressort die Fallzahl auf [Punktwert] mit einer Bandbreite von [Min] bis [Max]. Der NKR haelt die Methodik fuer nachvollziehbar."
-- "Die Sensitivitaetsanalyse zeigt: bei Variation der Fallzahl um ± 20% bewegt sich der Erfuellungsaufwand zwischen [X] und [Y] Mio EUR jaehrlich."
-- "Der NKR weist darauf hin, dass die Fallzahl auf einer Schaetzung beruht und empfiehlt eine Nacherhebung im Rahmen der Evaluierung nach [Frist]."
-- "Der NKR begruesst die transparente Darstellung der Datenherkunft und die Sensitivitaetsanalyse."
-
-### Bandbreitendarstellung in Tabelle
-
-| Szenario | Fallzahl | Erfuellungsaufwand jaehrlich |
-|---|---|---|
-| konservativ | [Min] | [X] Mio EUR |
-| realistisch | [Mittel] | [Y] Mio EUR |
-| pessimistisch | [Max] | [Z] Mio EUR |
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- "Etwa 100.000 Faelle" ohne Quelle
-- "Genauere Daten liegen nicht vor" als Begruendung fuer Verzicht auf Schaetzung
-- Punktschaetzung ohne Bandbreite
-- Keine Sensitivitaet
-
-## Querverweise
-
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-standardkostenmodell-skm`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
-## Quellen Stand 06/2026
-
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- OECD Standard Cost Model Manual Sensitivity Analysis
-- EU Better Regulation Toolbox Tool 25
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

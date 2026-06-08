@@ -7,10 +7,10 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 
 ## Arbeitsbereich
 
-**Erstgespraech Mandatsannahme Fachanwalt** ordnet den Fall über die tragenden Prüffelder: Erstgespraech im Urheber- und Medienrechtsmandat, Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen, Filesharing-Abmahnung verteidigen und Gegenargumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Erstgespraech Mandatsannahme Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Erstgespraech im Urheber- und Medienrechtsmandat, Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen, Filesharing-Abmahnung verteidigen und Gegenargumente. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Prüfraster: Sachverhaltserfassung Schutzfähigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills. |
 | `fachanwalt-urheber-medienrecht-abmahnung-pruefen` | Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Hoehe Abgrenzung modifizierte Unterlassungserklärung. Streitwertbegrenzung § 97a Abs. 3 UrhG Verbraucher 1000 EUR Abmahnkostenanspruch. Rückforderung bei missbraeuchlicher Abmahnung § 8c UWG analog. Negative Feststellungsklage. |
@@ -18,12 +18,12 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheber- und Medienrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
 
@@ -37,7 +37,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 2. Welches **Sachgebiet:** Urheberrecht (Werknutzung), Persoenlichkeitsrecht/KUG, Presserecht (Gegendarstellung), Rundfunk/Streaming, Plattformhaftung, Musikrecht/Verwertungsgesellschaft?
 3. **Mandantenrolle:** Urheber (Schutzsuchender), Werknutzer (ggf. Verletzer), Medienhaus (Abgemahnter), Betroffener (Presserecht, KUG), Plattformbetreiber?
 4. Liegt **Eilbeduerftigkeit** vor (Berichterstattung in 2 Tagen, Bild im Netz, einstweilige Verfuegung zugestellt)?
-5. Sind **mehrere Parteien** am Sachverhalt beteiligt, fuer die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
+5. Sind **mehrere Parteien** am Sachverhalt beteiligt, für die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -45,7 +45,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 - § 97 Abs. 1, 2 UrhG — Unterlassung und Schadensersatz lizenzanalog
 - §§ 22, 23 KUG — Recht am eigenen Bild
 - §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG — Persoenlichkeitsrechtsverletzung
-- §§ 195, 199 BGB — Verjaehrung 3 Jahre; § 102 UrhG spezielle Verjährungsregel
+- §§ 195, 199 BGB — Verjährung 3 Jahre; § 102 UrhG spezielle Verjährungsregel
 - LPG (jeweiliges Bundesland) — Gegendarstellungsanspruch
 - § 43a Abs. 4 BRAO, § 3 BORA — Interessenkonflikt
 - §§ 10 ff. GwG — Identifizierungspflicht
@@ -73,9 +73,9 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Vollmacht
-- Ggf. Sondervollmacht fuer DPMA-Schiedsstelle-Verfahren (VGG) oder beA-Einreichung
+- Ggf. Sondervollmacht für DPMA-Schiedsstelle-Verfahren (VGG) oder beA-Einreichung
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Urheber- und Medienrecht:
 
@@ -130,7 +130,7 @@ Mit freundlichen Gruessen
 [KANZLEI / NAME]
 ```
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Frist identifizieren
@@ -156,7 +156,7 @@ Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
 | Reaktion auf Abmahnung | 7-14 Tage (Abmahnfrist) | § 97a UrhG |
 | Gegendarstellung | 2-3 Monate ab Kenntnis | LPG (landesrechtl.) |
 | Widerspruch einstweilige Verfuegung | 14 Tage § 924 ZPO | § 924 ZPO |
-| Verjaehrung Urheberrecht | 3 Jahre ab Kenntnis | §§ 195, 199 BGB; § 102 UrhG |
+| Verjährung Urheberrecht | 3 Jahre ab Kenntnis | §§ 195, 199 BGB; § 102 UrhG |
 | Einstweilige Verfuegung (aktiv) | max. 4 Wochen Kenntnis | Selbstwiderlegungsfrist OLG |
 
 ## Cross-Refs
@@ -194,7 +194,7 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 8. Liegt der Verletzungszeitpunkt innerhalb der Verjährungsfrist (3 Jahre ab Kenntnis)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -256,7 +256,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 

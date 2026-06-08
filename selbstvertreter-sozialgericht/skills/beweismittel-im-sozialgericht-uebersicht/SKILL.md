@@ -42,7 +42,7 @@ Sie muessen beweisen, was Sie sagen. Es gibt verschiedene Beweise. Papiere, Aerz
 - **§§ 415 ff. ZPO analog** — Urkunden.
 - **§§ 371 ff. ZPO analog** — Augenscheinseinnahme.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Urkundenbeweis
 
@@ -144,7 +144,6 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
-
 
 ## Qualitäts-Hardening
 

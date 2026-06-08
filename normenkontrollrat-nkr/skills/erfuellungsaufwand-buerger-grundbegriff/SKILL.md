@@ -1,38 +1,25 @@
 ---
 name: erfuellungsaufwand-buerger-grundbegriff
-description: "Erfuellungsaufwand Buerger Grundbegriff im Plugin Normenkontrollrat Nkr: prüft konkret Trennt den Erfuellungsaufwand methodisch nach den drei, Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Erfuellungsaufwand Buerger Grundbegriff
+# NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung
 
 ## Arbeitsbereich
 
-**Erfuellungsaufwand Buerger Grundbegriff** ordnet den Fall über die tragenden Prüffelder: Trennt den Erfuellungsaufwand methodisch nach den drei, Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung` | Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle fuer die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe. |
-| `nkr-erfuellungsaufwand-grundbegriff` | Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stellungnahme zugrunde gelegt wird sowie methodische Praezisierungen aus dem Leitfaden. |
+Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-
-**Fokus:** Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle fuer die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe.
-
-# NKR-Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung
 
 ## Worum geht es konkret
 
-Der Erfuellungsaufwand wird methodisch **separat fuer drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
+Der Erfuellungsaufwand wird methodisch **separat für drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -49,15 +36,15 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
 - **DESTATIS Zeitwerttabellen** als Datenbasis
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Buerger
 
 - **Adressat**: natuerliche Personen in Privatangelegenheiten
-- **Aufwand**: Zeitaufwand fuer Antraege, Anzeigen, Belege, Anhoerungen
+- **Aufwand**: Zeitaufwand für Antraege, Anzeigen, Belege, Anhörungen
 - **Bewertung**: Zeitkosten (Stand 06/2026 als Bandbreite ca. 28 EUR/h gemaess Leitfaden — vom Anwender mit aktueller Tabelle zu pruefen)
-- **Sachkosten**: nur wenn relevant (z.B. Gebuehren, ggf. Notar)
-- **Falltypen**: Antrag stellen, Pflicht erfuellen, Anhoerung wahrnehmen
+- **Sachkosten**: nur wenn relevant (z.B. Gebühren, ggf. Notar)
+- **Falltypen**: Antrag stellen, Pflicht erfuellen, Anhörung wahrnehmen
 - **Bandbreiten**: stark adressatenabhaengig (Senioren, Migranten, mit/ohne digitale Affinitaet)
 
 ### Wirtschaft
@@ -84,8 +71,8 @@ Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — B
 - Gesamtsumme ohne Adressatentrennung
 - Buerger-Aufwand "vernachlaessigbar" ohne Begruendung
 - Wirtschaft-Aufwand ohne Lohnsatz-Begruendung
-- Verwaltung-Aufwand auf "fuer die Verwaltung kostenneutral" gesetzt, obwohl Pflichten neu sind
-- Konnexitaetsfrage nicht angesprochen (Pflicht fuer Kommunen)
+- Verwaltung-Aufwand auf "für die Verwaltung kostenneutral" gesetzt, obwohl Pflichten neu sind
+- Konnexitaetsfrage nicht angesprochen (Pflicht für Kommunen)
 
 ## Trade-off-Matrix
 
@@ -109,22 +96,22 @@ Tabelle in der Stellungnahme:
 | Wirtschaft | [X] Mio EUR | [Y] Mio EUR |
 | davon KMU | [X] Mio EUR | [Y] Mio EUR |
 | Verwaltung Bund | [X] Mio EUR | [Y] Mio EUR |
-| Verwaltung Laender | [X] Mio EUR | [Y] Mio EUR |
+| Verwaltung Länder | [X] Mio EUR | [Y] Mio EUR |
 | Verwaltung Kommunen | [X] Mio EUR | [Y] Mio EUR |
 | **Gesamt** | **[X] Mio EUR** | **[Y] Mio EUR** |
 
 Bausteine:
 
-- "Der Erfuellungsaufwand fuer Buerger entsteht hauptsaechlich durch [konkrete Pflicht]. Der NKR haelt die zugrundegelegten Fallzahlen fuer plausibel."
-- "Der Erfuellungsaufwand fuer die Wirtschaft wird durch [konkrete Pflicht] verursacht. Davon entfallen auf KMU [Anteil]."
-- "Der NKR weist darauf hin, dass der Erfuellungsaufwand fuer die kommunale Verwaltung in Hoehe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
+- "Der Erfuellungsaufwand für Buerger entsteht hauptsaechlich durch [konkrete Pflicht]. Der NKR haelt die zugrundegelegten Fallzahlen für plausibel."
+- "Der Erfuellungsaufwand für die Wirtschaft wird durch [konkrete Pflicht] verursacht. Davon entfallen auf KMU [Anteil]."
+- "Der NKR weist darauf hin, dass der Erfuellungsaufwand für die kommunale Verwaltung in Hoehe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
 - Nur Gesamtsumme statt aufgeschluesselter Tabelle
 - Verwaltung "kostenneutral" trotz neuer Pflichten
 - KMU nicht ausgewiesen
-- Konnexitaet ignoriert (Pflichten fuer Laender / Kommunen)
+- Konnexitaet ignoriert (Pflichten für Länder / Kommunen)
 - Buerger pauschal "geringfuegig"
 
 ## Querverweise
@@ -143,112 +130,3 @@ Bausteine:
 - DESTATIS Verdienststrukturerhebung (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-erfuellungsaufwand-grundbegriff`
-
-**Fokus:** Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stellungnahme zugrunde gelegt wird sowie methodische Praezisierungen aus dem Leitfaden.
-
-# NKR-Erfuellungsaufwand — Grundbegriff
-
-## Worum geht es konkret
-
-Erfuellungsaufwand ist der **zentrale Pruefgegenstand des NKR**. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Dieser Skill liefert die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Anfaengerschulung
-- Stellungnahme braucht den Grundbegriff im Aufschlag
-- Ressort verwechselt Erfuellungsaufwand mit Buerokratiekosten
-- Diskussion mit BMF / BRH ueber Abgrenzung
-
-Keine Rueckfrage noetig.
-
-## Rechtlicher und methodischer Rahmen
-
-- **§ 4 NKRG** — Pruefungsgegenstand Erfuellungsaufwand
-- **§ 44 GGO** — Gesetzesfolgenabschaetzung
-- **§ 45 GGO** — Darstellung in der Begruendung
-- **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
-- **HdR** Teil C
-
-## Standarddefinition
-
-**Erfuellungsaufwand** ist der gesamte messbare zeitliche **und** finanzielle Aufwand, der bei Buergerinnen und Buergern, der Wirtschaft sowie der oeffentlichen Verwaltung durch die **Befolgung** einer bundesrechtlichen Vorschrift entsteht.
-
-Erfuellungsaufwand umfasst alle erforderlichen:
-
-- Tatigkeiten zur Erfuellung einer Pflicht (Antraege, Anzeigen, Berichte, Bauten, Schulungen)
-- Anschaffungen (Geraete, Software, Material)
-- Dienstleistungen Dritter (Berater, Pruefer, Sachverstaendige)
-- internen Prozesse (Schulung, Dokumentation, IT-Anpassung)
-
-## Pruefraster / Schritt fuer Schritt
-
-1. **Pflichtinhalt identifizieren** — welche konkrete Handlung wird angeordnet?
-2. **Adressaten bestimmen** — Buerger / Wirtschaft / Verwaltung
-3. **Aufwandskomponenten zerlegen**:
- - Zeit (Personalstunden)
- - Sachmittel (Material, IT)
- - Externe Dienstleistungen
-4. **Einmalig vs. laufend** trennen
-5. **Pro-Fall-Aufwand** ermitteln
-6. **Fallzahl** ermitteln (jaehrlich)
-7. **Aufwand pro Jahr** berechnen = Fallzahl × Pro-Fall-Aufwand
-8. **Aggregation** ueber alle Adressatengruppen
-9. **Plausibilisierung** (Vergleich mit Referenzwerten)
-
-## Abgrenzung zu benachbarten Kostenbegriffen
-
-| Begriff | Definition | Wer prueft? |
-|---|---|---|
-| Erfuellungsaufwand | Aufwand fuer Befolgung der Norm | NKR |
-| Buerokratiekosten | Teilmenge: nur Informationspflichten | NKR (historisch) |
-| Vollzugskosten | Verwaltungsaufwand bei Behoerden | NKR (Teil von Erfuellungsaufwand) |
-| Haushaltskosten | Bundeshaushalt | BMF, BRH |
-| Folgekosten | Wirtschaftliche Sekundaereffekte | Wissenschaft, BMF |
-| Sachkosten | Anschaffungen | Teil von Erfuellungsaufwand |
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Begriff wird vom Ressort eng (nur Buerokratiekosten) ausgelegt
-- Sachmittel oder externe Dienstleistungen werden vergessen
-- Schulungs- oder Anpassungsaufwand fehlt
-- IT-Investitionen nicht erfasst
-
-## Trade-off-Matrix
-
-| Konstellation | Behandlung |
-|---|---|
-| Klare gesetzliche Pflicht | Erfuellungsaufwand 100% einrechnen |
-| Faktische Pflicht (z.B. Befolgungsdruck) | dokumentieren, ggf. einrechnen |
-| Freiwillige Inanspruchnahme | nicht einrechnen, aber transparent machen |
-| Sekundaere Wirtschaftsfolgen | nicht Erfuellungsaufwand, ggf. eigener Abschnitt |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der Erfuellungsaufwand bezeichnet gemaess Leitfaden BMI/NKR den gesamten messbaren Zeitaufwand und die Kosten, die durch Befolgung einer Vorschrift bei Buergern, Wirtschaft und Verwaltung entstehen."
-- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand fuer die Wirtschaft in Hoehe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
-- "Die Darstellung des Erfuellungsaufwands beschraenkt sich im Ressortentwurf auf Informationspflichten. Der NKR weist darauf hin, dass auch IT-Anpassungs- und Schulungskosten zum Erfuellungsaufwand gehoeren."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- Begriff "Buerokratiekosten" wird mit "Erfuellungsaufwand" gleichgesetzt
-- Sachkosten werden vergessen
-- Folgekosten werden eingerechnet, obwohl nicht Erfuellungsaufwand
-- "Kein nennenswerter Aufwand" ohne Begruendung
-
-## Querverweise
-
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-buerokratiekosten-vs-erfuellungsaufwand`
-- `nkr-standardkostenmodell-skm`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
-## Quellen Stand 06/2026
-
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- §§ 44, 45 GGO
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- Handbuch der Rechtsfoermlichkeit Teil C
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bmi.bund.de](https://www.bmi.bund.de)

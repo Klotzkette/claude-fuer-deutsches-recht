@@ -6,11 +6,9 @@ description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Min
 # Kaufrecht: Nacherfüllung, Rücktritt und Minderung
 
 ## Fachkern: Kaufrecht: Nacherfüllung, Rücktritt und Minderung
-- **Spezialgegenstand:** Kaufrecht: Nacherfüllung, Rücktritt und Minderung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 

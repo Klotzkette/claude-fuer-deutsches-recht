@@ -1,6 +1,6 @@
 ---
 name: mandanteninterview-agb
-description: "Einstiegs- und Prüffeld für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüfungslinie für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Mandanteninterview AGB

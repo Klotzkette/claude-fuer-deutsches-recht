@@ -1,38 +1,25 @@
 ---
 name: buerokratieabbau-katalog-buerokratiekosten-vs
-description: "Buerokratieabbau Katalog Buerokratiekosten VS im Plugin Normenkontrollrat Nkr: prüft konkret Katalog konkreter Buerokratieabbau-Vorschlaege als, Trennt den engen Begriff Buerokratiekosten von dem. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Buerokratieabbau Katalog Buerokratiekosten VS
+# NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
 
 ## Arbeitsbereich
 
-**Buerokratieabbau Katalog Buerokratiekosten VS** ordnet den Fall über die tragenden Prüffelder: Katalog konkreter Buerokratieabbau-Vorschlaege als, Trennt den engen Begriff Buerokratiekosten von dem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-buerokratieabbau-katalog-konkrete-vorschlaege` | Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme. |
-| `nkr-buerokratiekosten-vs-erfuellungsaufwand` | Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen fuer Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung fuer Ressort-Schulung. |
+Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-buerokratieabbau-katalog-konkrete-vorschlaege`
-
-**Fokus:** Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme.
-
-# NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
 
 ## Worum geht es konkret
 
-Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire fuer Empfehlungen in NKR-Stellungnahmen und fuer One-in-one-out-Gegenrechnung.
+Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire für Empfehlungen in NKR-Stellungnahmen und für One-in-one-out-Gegenrechnung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -55,11 +42,11 @@ Rueckfrage nur wenn unklar: *"Soll der Vorschlag in einer aktuellen Stellungnahm
 
 ### Muster 1 — Schwellenwerte
 
-Statt Pflicht fuer alle: Pflicht nur ab Schwellenwert (Beschaeftigte, Umsatz, Bilanzsumme, Transaktionsvolumen).
+Statt Pflicht für alle: Pflicht nur ab Schwellenwert (Beschaeftigte, Umsatz, Bilanzsumme, Transaktionsvolumen).
 
 ### Muster 2 — Bagatell-Ausnahmen
 
-Komplette Befreiung fuer Kleinstfaelle.
+Komplette Befreiung für Kleinstfaelle.
 
 ### Muster 3 — Once-Only / Datenwiederverwendung
 
@@ -89,7 +76,7 @@ Pflichten, die parallel zu EU-Vorgaben bestehen, harmonisieren.
 
 Frequenzreduktion bei vergleichbarem Effekt.
 
-### Muster 10 — Ausnahmen fuer kleine Branchen
+### Muster 10 — Ausnahmen für kleine Branchen
 
 Branchenspezifische Befreiung, sofern Risiko gering.
 
@@ -101,11 +88,11 @@ Alte Normen, die durch neuere ersetzt sind, ausdruecklich aufheben.
 
 Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Belastung identifizieren** (welche Pflicht? welcher Aufwand?)
 2. **Geeignetes Muster aus Katalog** waehlen
-3. **Konkretisierung** fuer das Vorhaben
+3. **Konkretisierung** für das Vorhaben
 4. **Aufwandsreduktion schaetzen** (Vorher / Nachher)
 5. **Empfehlung** in Stellungnahme formulieren
 6. **Bei One-in-one-out**: Gegenrechnung dokumentieren
@@ -167,100 +154,26 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Best-Practice-Kapitel
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
 
-## 2. `nkr-buerokratiekosten-vs-erfuellungsaufwand`
+## Normen und Rechtsprechung
 
-**Fokus:** Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen fuer Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung fuer Ressort-Schulung.
+### Kuratierte Normen-Bibliothek
 
-# NKR-Buerokratiekosten vs. Erfuellungsaufwand
+- § 4 NKRG
+- § 5 NKRG
+- § 1 NKRG
+- § 6 NKRG
+- § 7 NKRG
+- Art. 5 EUV
+- § 1 BGleiG
+- § 3 NKRG
+- Art. 288 AEUV
+- § 9 NKRG
+- Art. 104a GG
+- Art. 82 GG
 
-## Worum geht es konkret
+### Leitentscheidungen
 
-Bis 2011 prueftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prueft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Ressort verwendet beide Begriffe synonym
-- Schulung fuer neue Referenten
-- Diskussion mit aelteren Aktenstuecken
-- Vergleich mit EU-SKM-Methodik (die noch enger ist)
-
-Keine Rueckfrage noetig.
-
-## Rechtlicher und methodischer Rahmen
-
-- **NKRG 2006** — Urfassung beschraenkte den NKR auf Buerokratiekosten / Informationspflichten
-- **NKRG-Aenderung 2011** — Ausweitung auf den vollen Erfuellungsaufwand
-- **Leitfaden BMI / NKR** — definiert beide Begriffe getrennt
-- **OECD-SKM** — Internationale Standardisierung
-- **EU Better Regulation** — Administrative Burdens
-
-## Pruefraster / Schritt fuer Schritt
-
-### Buerokratiekosten (enger Begriff)
-
-- **Inhalt**: nur Aufwand aus **Informationspflichten** (Mitteilung, Bericht, Anzeige, Statistik)
-- **Beispiele**: Berichtspflicht nach AWV, statistische Meldung, Steuererklaerung-Anhang, Geschaeftsbericht
-- **Bewertung**: ueber SKM
-- **Bedeutung historisch**: Ursprung der NKR-Methodik (2006), heute Teil-Konzept
-
-### Erfuellungsaufwand (umfassender Begriff)
-
-- **Inhalt**: gesamter Aufwand zur Befolgung der Norm
-- **Beispiele**: Buerokratiekosten **plus** Anschaffungen, IT-Anpassungen, bauliche Pflichten, Schulungen, Compliance-Prozesse, Verwaltungsaufwand
-- **Bewertung**: ueber SKM (erweitert um Sachkosten und externe Dienstleistungen)
-- **Bedeutung heute**: Standard-Pruefgegenstand des NKR seit 2011
-
-## Vergleichstabelle
-
-| Aspekt | Buerokratiekosten | Erfuellungsaufwand |
-|---|---|---|
-| Umfang | nur Informationspflichten | gesamte Befolgung |
-| Beispiele | Bericht, Anzeige, Statistik | + IT-Investitionen, Schulung, bauliche Pflicht |
-| Bewertung | SKM-Standard | SKM erweitert |
-| Adressaten | meist Wirtschaft | Buerger, Wirtschaft, Verwaltung |
-| Pruefer | NKR (historisch) | NKR (seit 2011) |
-| Berichtswesen | "Buerokratiekosten-Index" | "Erfuellungsaufwand-Saldo" |
-| One-in-one-out | bilanziert | bilanziert (laufender Aufwand) |
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Ressort prueft nur Buerokratiekosten und uebersieht IT- / Schulungs-Anteil
-- Begriffsverwechslung fuehrt zu Unterschaetzung des Aufwands
-- Verweis auf "alten" Bericht ohne Anpassung an erweiterten Begriff
-
-## Trade-off-Matrix
-
-| Sachverhalt | Behandlung |
-|---|---|
-| Reiner Informationsaufwand | Buerokratiekosten-Teilkonzept |
-| Investiver Anteil zusaetzlich | Erfuellungsaufwand insgesamt |
-| Historischer Vergleich noetig | beide Werte ausweisen |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der Erfuellungsaufwand umfasst gemaess Leitfaden BMI/NKR mehr als die Buerokratiekosten im engeren Sinne und schliesst Sachkosten und externe Dienstleistungen ein."
-- "Der NKR weist darauf hin, dass die Ressortdarstellung nur die Informationspflichten quantifiziert; der Erfuellungsaufwand einschliesslich IT-Anpassung und Schulung wurde nicht ermittelt."
-- "Davon entfallen [X] Mio EUR auf Buerokratiekosten im engeren Sinne (Informationspflichten) und [Y] Mio EUR auf weiteren Erfuellungsaufwand."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- Ueberschrift "Buerokratiekosten" statt "Erfuellungsaufwand"
-- IT-Investitionen vergessen
-- Schulungsaufwand nicht erfasst
-- Vergleich mit Altvorhaben ohne methodische Anpassung
-
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-standardkostenmodell-skm`
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
-## Quellen Stand 06/2026
-
-- NKRG vom 14.08.2006 (BGBl. I S. 1866), Aenderungen 2011 ff.
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- EU Better Regulation Toolbox (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

@@ -1,28 +1,28 @@
 ---
 name: wesentliche-vertraege
-description: "Wesentliche Vertraege im Plugin Gesellschaftsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Wesentliche Vertraege im Plugin Gesellschaftsrecht im Gesellschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wesentliche Vertraege
 
 ## Arbeitsbereich
 
-**Wesentliche Vertraege** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Wesentliche Vertraege** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wesentliche-vertraege-anlage` | Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Gesellschaftsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wesentliche-vertraege-anlage`
 
@@ -38,13 +38,10 @@ description: "Wesentliche Vertraege im Plugin Gesellschaftsrecht: fachlicher Arb
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Material-Vertragsverzeichnis (Disclosure Schedule)
-- **Spezialgegenstand:** Material-Vertragsverzeichnis (Disclosure Schedule). Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Triage zu Beginn
 
@@ -55,7 +52,7 @@ Vor der Anhangs-Erstellung klaeren:
 3. **Due-Diligence-Daten verfuegbar?** Vertragsbestand aus Datenraum oder Disclosure Schedule extrahiert? Falls nicht: DD-Ergebnisse zuerst importieren (Skill `dd-findings-extraktion` oder `tabellenpruefung`).
 4. **Anhangformat bekannt?** Gibt es andere Anhaenge im SPA-Entwurf als Formatvorlage? Nummerierte Liste oder Tabelle?
 5. **Over-Disclosure-Risiko beachten?** Der Anhang ist eine Gewaehrleistung, kein Datendump. Nur Vertraege aufnehmen, die ein SPA-Kriterium erfuellen.
-6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, oeffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
+6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
 
 ## Zweck
 
@@ -189,7 +186,7 @@ Vor Übergabe:
 ## Ausgabeformat
 
 - Anhang im SPA-konformen Format (Markdown, uebertragbar in Word/PDF)
-- Internes Zustimmungs-Overlay als Tabelle (fuer Abschluss-Checkliste)
+- Internes Zustimmungs-Overlay als Tabelle (für Abschluss-Checkliste)
 - Flaggenliste mit Grenzfaellen zur menschlichen Entscheidung
 
 ## Output-Template

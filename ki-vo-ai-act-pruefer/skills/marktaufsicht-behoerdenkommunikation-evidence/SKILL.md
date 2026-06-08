@@ -1,6 +1,6 @@
 ---
 name: marktaufsicht-behoerdenkommunikation-evidence
-description: "Marktaufsicht und Behoerdenkommunikation: Evidence Room fuer KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie."
+description: "Marktaufsicht und Behördenkommunikation: Evidence Room für KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie."
 ---
 
 # Marktaufsicht: Evidence Room

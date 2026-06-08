@@ -1,6 +1,6 @@
 ---
 name: rechtspluralismus-und-mehrebenen-system
-description: "Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts."
+description: "Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts."
 ---
 
 # Rechtspluralismus und Mehrebenen-System
@@ -54,7 +54,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel Verbraucher-IPR:** Bei B2C-Vertraegen mit Auslandsbezug greift Rom-I-VO (VO (EG) Nr. 593/2008). Art. 6 Rom-I-VO sichert dem Verbraucher die guenstigeren Schutzvorschriften seines gewoehnlichen Aufenthaltsstaates — auch wenn die Parteien anderes Recht waehlen.
 
-**Beispiel Bauvertrag mit FIDIC:** Internationaler Bauvertrag nach FIDIC-Bedingungen — private Regelwerke greifen vor dem BGB-Werkvertragsrecht (§§ 631 ff. BGB), soweit kein Verstoss gegen zwingendes Recht oder oeffentliche Ordnung.
+**Beispiel Bauvertrag mit FIDIC:** Internationaler Bauvertrag nach FIDIC-Bedingungen — private Regelwerke greifen vor dem BGB-Werkvertragsrecht (§§ 631 ff. BGB), soweit kein Verstoss gegen zwingendes Recht oder öffentliche Ordnung.
 
 **Beispiel Sport-Schiedsgerichtsbarkeit (CAS):** Sportler unterwerfen sich durch Mitgliedschaft im Verband privaten Regelwerken (z. B. FIFA-Statuten, IOC-Charter). Streitigkeiten werden vom CAS (Court of Arbitration for Sport) entschieden. Das deutsche Recht (insbesondere § 1059 ZPO) kontrolliert nur Verfahrensfragen, nicht die Anwendbarkeit der Verbandsregeln.
 
@@ -62,7 +62,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel kommunale Bauordnung:** Im Streit ueber Nachbarrecht koennen kommunale Satzungen (Bebauungsplan) ueber Landesbauordnung neben § 906 BGB stehen.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Sachverhalt vorlegen.** Welche Akteure, welche Orte, welche Rechtsbereiche?
 2. **Anwendbares Recht pruefen.** IPR-Analyse: Rom-I-VO, Rom-II-VO, HUEbk, autonome Anknuepfungen.
@@ -102,7 +102,6 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 - Art. 25, 59 GG (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

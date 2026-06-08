@@ -6,15 +6,12 @@ description: "Ermittlungsauftrag an die Polizei: Nachsteuerung: Praxis-Skill fü
 # Ermittlungsauftrag an die Polizei: Nachsteuerung
 
 ## Fachkern: Ermittlungsauftrag an die Polizei: Nachsteuerung
-- **Spezialgegenstand:** Ermittlungsauftrag an die Polizei: Nachsteuerung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Ermittlungsauftrag an die Polizei: Nachsteuerung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** klare Beweisfragen, Verhältnismäßigkeit, Rücklaufkontrolle und Entlastendes
 
@@ -40,6 +37,17 @@ Dieser Abschnitt bearbeitet **Fachkern: Ermittlungsauftrag an die Polizei: Nachs
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Nr. 3 RiStBV (Wächterin des Gesetzes)
+- § 168b StPO (Aufzeichnung)
+- § 169a StPO (Schlussvermerk)
+- Nr. 9-13 RiStBV (Aktenführung)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

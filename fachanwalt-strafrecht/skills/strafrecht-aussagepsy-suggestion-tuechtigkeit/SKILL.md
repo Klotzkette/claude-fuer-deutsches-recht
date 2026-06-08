@@ -7,40 +7,40 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 
 ## Arbeitsbereich
 
-**Aussagepsy Suggestion Tuechtigkeit** ordnet den Fall über die tragenden Prüffelder: Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Aussagepsy Suggestion Tuechtigkeit** ordnet den Fall über die tragenden Prüfungslinien: Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung` | Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung. |
+| `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung` | Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata für die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung. |
 | `strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft` | Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin. |
-| `strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand` | Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug fuer Beweisverwertungsverbot und Plaedoyer-Argumentation. |
+| `strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand` | Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug für Beweisverwertungsverbot und Plaedoyer-Argumentation. |
 | `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze` | BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger. |
-| `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen` | Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster fuer die Verteidigung, Replik gegen mangelhafte Gutachten. |
-| `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung` | Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit jugendlichen Belastungszeugen. |
-| `strafrecht-spezial-aussagepsychologie-kindliche-zeugen` | Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit kindlicher Belastungszeugin. |
-| `strafrecht-spezial-aussagepsychologie-konstanzanalyse` | Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge fuer das Kreuzverhoer. |
-| `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen` | Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug fuer die Aussagegenese-Pruefung bei Vielfach-Vernehmungen. |
-| `strafrecht-spezial-aussagepsychologie-realkennzeichen` | Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster fuer die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit. |
+| `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen` | Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster für die Verteidigung, Replik gegen mangelhafte Gutachten. |
+| `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung` | Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug für Aussage-gegen-Aussage mit jugendlichen Belastungszeugen. |
+| `strafrecht-spezial-aussagepsychologie-kindliche-zeugen` | Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug für Aussage-gegen-Aussage mit kindlicher Belastungszeugin. |
+| `strafrecht-spezial-aussagepsychologie-konstanzanalyse` | Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge für das Kreuzverhoer. |
+| `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen` | Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug für die Aussagegenese-Pruefung bei Vielfach-Vernehmungen. |
+| `strafrecht-spezial-aussagepsychologie-realkennzeichen` | Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster für die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung`
 
-**Fokus:** Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung.
+**Fokus:** Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata für die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung.
 
 # Suggestion und Falscherinnerung
 
 ## Worum geht es
 
-Erinnerung ist kein Videoband, sondern ein rekonstruktiver Prozess. Sie ist nachweislich anfaellig fuer post-event-Information, suggestive Fragestellung, Wiederholung, Imagination und externe Vorgaben. In Strafverfahren bedeutet das: eine subjektiv ehrlich vorgetragene und konstant erzaehlte Belastung kann auf einer Falscherinnerung beruhen, ohne dass die Aussagende luegt. Diese Differenzierung — Luege vs. Falscherinnerung — ist methodisch zentral und in der Praxis der Staatsanwaltschaft oft unzureichend gewuerdigt.
+Erinnerung ist kein Videoband, sondern ein rekonstruktiver Prozess. Sie ist nachweislich anfaellig für post-event-Information, suggestive Fragestellung, Wiederholung, Imagination und externe Vorgaben. In Strafverfahren bedeutet das: eine subjektiv ehrlich vorgetragene und konstant erzaehlte Belastung kann auf einer Falscherinnerung beruhen, ohne dass die Aussagende luegt. Diese Differenzierung — Luege vs. Falscherinnerung — ist methodisch zentral und in der Praxis der Staatsanwaltschaft oft unzureichend gewuerdigt.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die psychologischen Grundlagen, die typischen Risikoquellen und das Replik-Werkzeug.
 
@@ -61,7 +61,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Vorhalte von Beweisstuecken (Fotos, Skizzen).
 - Erwartungsdruck (Therapeutin teilt mit, dass etwas geschehen sein muesse).
 
-**Risikobewertung.** Je groesser die zeitliche Latenz zwischen Tat und Aussage, je intensiver suggestive Einfluesse, je staerker die Belohnung fuer eine bestimmte Aussage, desto hoeher das Falscherinnerungsrisiko.
+**Risikobewertung.** Je groesser die zeitliche Latenz zwischen Tat und Aussage, je intensiver suggestive Einfluesse, je staerker die Belohnung für eine bestimmte Aussage, desto hoeher das Falscherinnerungsrisiko.
 
 ## Praktikertipps Verteidigung
 
@@ -78,7 +78,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 |---|---|---|
 | Suggestionsthese im Plaedoyer | Methodisch elegant; macht die Zeugin nicht zur Luegnerin | Tatrichter kann mit Eindruck argumentieren |
 | Hilfsbeweisantrag SV-Gutachten zur Aussagegenese | Methodisch fundiert; revisionsfest | Zeitverzug; SV koennte Suggestion verneinen |
-| Therapeutenakte beiziehen | Direkter Beleg fuer Aussagegenese | Setzt Schweigepflichtsentbindung voraus, Mandant hat keinen Zugriff |
+| Therapeutenakte beiziehen | Direkter Beleg für Aussagegenese | Setzt Schweigepflichtsentbindung voraus, Mandant hat keinen Zugriff |
 | Sachverstaendigen-Zeugin Therapeutin laden | Aufklaerend | Gefahr der Solidarisierung mit Belastungszeugin |
 
 ## Verwendung im Plaedoyer
@@ -90,7 +90,7 @@ Im Plaedoyer trennen Sie klar: "Es ist nicht zu unterstellen, die Zeugin luege. 
 **Hilfsbeweisantrag aussagepsychologisches Gutachten zur Aussagegenese:**
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Frage einzuholen, ob die Aussage der Zeugin [Name] aufgrund der konkreten Aussagegenese (Latenz [Monate/Jahre], [N] Vernehmungen, therapeutische Behandlung bei [Therapeutin/Therapeut] seit [Datum], Familienkonflikt um [Sachverhalt]) ein erhoehtes Suggestions- und Falscherinnerungsrisiko aufweist."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Die Annahme, die Zeugin luege, ist nicht zu treffen — und sie ist methodisch auch nicht der richtige Pruefansatz. Der richtige Ansatz ist: Ist die Erinnerung erlebnisbasiert oder suggestiv kontaminiert? Nach dem Stand der aussagepsychologischen Forschung (Loftus, Volbert/Steller) sind die Faktoren Latenz von [Zeitraum], die [N] vorausgegangenen Vernehmungen und die therapeutische Aufdeckung seit [Datum] geeignet, eine Falscherinnerung zu erzeugen. Damit ist die Suggestionshypothese nicht ausgeraeumt."
 
 ## Querverweise
@@ -122,7 +122,7 @@ Im Plaedoyer trennen Sie klar: "Es ist nicht zu unterstellen, die Zeugin luege. 
 
 Bevor die Glaubhaftigkeit einer Aussage anhand der Realkennzeichen und der Konstanz geprueft wird, ist zunaechst eine vorgeschaltete Frage zu beantworten: Ist die Zeugin oder der Zeuge ueberhaupt aussagetuechtig — also kognitiv und emotional in der Lage, ein Geschehen wahrzunehmen, zu speichern, abzurufen und zu kommunizieren? Und ist die Person aussagebereit — also motivational gewillt, eine wahrheitsgemaesse Aussage zu machen? Diese beiden Vorfragen werden in der Praxis haeufig nicht hinreichend getrennt.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodische Trennung, die Pruefkriterien und das Replik-Werkzeug fuer den Fall, dass die Belastungszeugin psychisch erkrankt, traumatisiert, kognitiv eingeschraenkt oder hochgradig motivational beeinflusst ist.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodische Trennung, die Pruefkriterien und das Replik-Werkzeug für den Fall, dass die Belastungszeugin psychisch erkrankt, traumatisiert, kognitiv eingeschraenkt oder hochgradig motivational beeinflusst ist.
 
 ## Methodische Grundlagen
 
@@ -147,7 +147,7 @@ Aussagebereitschaft ist nicht gleichbedeutend mit Falschaussage. Eine ehrliche, 
 ## Praktikertipps Verteidigung
 
 - **Aussagetuechtigkeit aktiv adressieren.** Nicht erst in der Hauptverhandlung. Schon im Ermittlungsverfahren bei der Einlassung anregen, dass im Vorhinein zu pruefen ist.
-- **Indikatoren fuer beschraenkte Aussagetuechtigkeit dokumentieren.** Psychische Vorbehandlung, Medikation, Drogen oder Alkohol zur Tatzeit, neurologische Erkrankungen, traumatische Vorgeschichte mit Folgen, schwere Persoenlichkeitsstoerung, dissoziative Phaenomene, Intelligenzminderung.
+- **Indikatoren für beschraenkte Aussagetuechtigkeit dokumentieren.** Psychische Vorbehandlung, Medikation, Drogen oder Alkohol zur Tatzeit, neurologische Erkrankungen, traumatische Vorgeschichte mit Folgen, schwere Persoenlichkeitsstoerung, dissoziative Phaenomene, Intelligenzminderung.
 - **Akteneinsicht in medizinische Unterlagen.** Mit Schweigepflichtsentbindung der Zeugin oder ueber Beweisantrag (§ 244 StPO).
 - **Motivlage offenlegen.** Wer hat etwas zu gewinnen oder zu verlieren? Sorgerechtsstreit dokumentieren, Trennungs- und Scheidungsverfahren, finanzielle Anspruechee (Adhaesion, Schmerzensgeld, Verletztenrente, OEG).
 - **Hilfsbeweisantrag SV-Gutachten zur Aussagetuechtigkeit.** Bei substanziellen Anhaltspunkten geboten. Anders als das Glaubhaftigkeitsgutachten kann das Tuechtigkeitsgutachten auch von einem Psychiater oder Neurologen erstellt werden, je nach Fragestellung.
@@ -164,14 +164,14 @@ Aussagebereitschaft ist nicht gleichbedeutend mit Falschaussage. Eine ehrliche, 
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der Aussage steht die Pruefung der Aussagetuechtigkeit. Diese ist hier zweifelhaft, weil [konkret: schwere psychische Vorerkrankung mit Dissoziationsneigung; Drogenkonsum zur Tatzeit; Demenz; etc.]. Zudem ist die Aussagebereitschaft nicht neutral, sondern motivational gefaerbt durch [konkret: laufendes Sorgerechtsverfahren; Anspruchsgrundlage fuer Schmerzensgeld; Familiendruck]. Beides ist im Rahmen der Beweiswuerdigung zu beruecksichtigen."
+Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der Aussage steht die Pruefung der Aussagetuechtigkeit. Diese ist hier zweifelhaft, weil [konkret: schwere psychische Vorerkrankung mit Dissoziationsneigung; Drogenkonsum zur Tatzeit; Demenz; etc.]. Zudem ist die Aussagebereitschaft nicht neutral, sondern motivational gefaerbt durch [konkret: laufendes Sorgerechtsverfahren; Anspruchsgrundlage für Schmerzensgeld; Familiendruck]. Beides ist im Rahmen der Beweiswuerdigung zu beruecksichtigen."
 
 ## Mustertexte
 
 **Hilfsbeweisantrag Aussagetuechtigkeitsgutachten:**
 "Hilfsweise wird beantragt, ein psychiatrisches Sachverstaendigengutachten zur Aussagetuechtigkeit der Zeugin [Name] einzuholen. Konkrete Anhaltspunkte: Aerztliche Behandlung in [Klinik] seit [Datum] wegen [Diagnose]; ausweislich der Behandlungsunterlagen dissoziative Phaenomene und Gedaechtnisluecken; Medikation [Wirkstoff] in Dosierung [X]. Das Gericht verfuegt nicht ueber die fachliche Kompetenz, ohne sachverstaendige Hilfe ueber die Aussagetuechtigkeit zu entscheiden."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Es ist methodisch nicht ausreichend, die Aussage einer Zeugin auf Realkennzeichen und Konstanz zu pruefen, wenn die vorgeschaltete Frage der Aussagetuechtigkeit nicht geklaert ist. Im vorliegenden Fall ist die Aussagetuechtigkeit substanziell zweifelhaft. [Begruendung]. Bevor das Gericht ueber die Glaubhaftigkeit befindet, muss die Tuechtigkeit geklaert sein. Andernfalls baut die Beweiswuerdigung auf einem nicht tragfaehigen Fundament."
 
 ## Querverweise
@@ -193,7 +193,7 @@ Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der A
 
 ## 3. `strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand`
 
-**Fokus:** Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug fuer Beweisverwertungsverbot und Plaedoyer-Argumentation.
+**Fokus:** Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug für Beweisverwertungsverbot und Plaedoyer-Argumentation.
 
 # Falschgestaendnisse und Vernehmungsfehler
 
@@ -201,7 +201,7 @@ Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der A
 
 Menschen gestehen Taten, die sie nicht begangen haben. Das ist nicht eine theoretische Moeglichkeit, sondern eine empirisch belegte Tatsache. Studien der US-amerikanischen Innocence Project-Bewegung dokumentieren, dass in einem signifikanten Anteil der durch DNA-Analyse aufgedeckten Fehlverurteilungen ein Gestaendnis des spaeter freigesprochenen Beschuldigten vorlag. Das Phaenomen ist auch in Deutschland anerkannt — wenn auch weniger erforscht — und betrifft typische Risikokonstellationen: lange Vernehmungen, suggestive Befragungstechnik, vulnerable Beschuldigte, psychische Belastung.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Typologie der Falschgestaendnisse, die Risikofaktoren und die Replik-Werkzeuge fuer Beweisverwertungsverbot und Plaedoyer.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Typologie der Falschgestaendnisse, die Risikofaktoren und die Replik-Werkzeuge für Beweisverwertungsverbot und Plaedoyer.
 
 ## Methodische Grundlagen
 
@@ -225,7 +225,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Schlafentzug.
 - Verstaendigungs- und Sprachhindernisse.
 
-**Indikatoren fuer ein Falschgestaendnis.**
+**Indikatoren für ein Falschgestaendnis.**
 - Gestaendnis ohne Detailwissen ueber die Tat (Person wiederholt nur das, was die Vernehmung vorgelegt hat).
 - Faktische Unrichtigkeit (das Gestaendnis enthaelt Details, die nicht zur Tat passen).
 - Widerruf des Gestaendnisses unmittelbar nach Ende der Vernehmungssituation.
@@ -265,7 +265,7 @@ Im Plaedoyer methodisch arbeiten: "Mein Mandant hat gestanden — aber ein Gesta
 **Antrag Beweisverwertungsverbot wegen § 136a StPO:**
 "Es wird geruegt, dass die Aussage des Beschuldigten vom [Datum] unter Verletzung des § 136a StPO zustande gekommen ist und nicht verwertet werden darf. Hierzu wird vorgetragen: [a] Vernehmungsdauer von [X] Stunden mit kurzer Pause. [b] Beschuldigter zum Zeitpunkt der Vernehmung [Alter] Jahre alt, ohne Verteidigerbeistand. [c] Vernehmungsbeamter hat dem Beschuldigten mitgeteilt, ein DNA-Treffer liege vor, was tatsaechlich nicht der Fall war. [d] Gestaendnis erfolgte nach diesem Vorhalt; Beschuldigter widerrief im Anschluss an die Hinzuziehung des Verteidigers am [Datum] vollstaendig."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Wer eine Verurteilung allein auf ein widerrufenes Gestaendnis stuetzt, das unter den Bedingungen einer lang andauernden, ohne Verteidiger gefuehrten Vernehmung entstanden ist, baut auf einer brueckigen Beweisbasis. Die kriminologische und aussagepsychologische Forschung kennt das Phaenomen des Falschgestaendnisses seit Jahrzehnten. Im vorliegenden Fall liegen genau jene Risikofaktoren vor, die in der Forschung als gestaendniskontaminierend identifiziert sind. Damit bleibt Restzweifel. Freispruch."
 
 ## Querverweise
@@ -296,13 +296,13 @@ Im Plaedoyer methodisch arbeiten: "Mein Mandant hat gestanden — aber ein Gesta
 
 ## Worum geht es
 
-Wenn ein Strafverfahren wesentlich auf eine einzige Belastungszeugin oder einen einzigen Belastungszeugen gestuetzt ist (Aussage-gegen-Aussage-Konstellation), verlangt der BGH eine besonders sorgfaeltige Beweiswuerdigung. Die methodischen Massstaebe hierfuer hat der BGH in seinem Leiturteil BGH, Urteil vom 30.07.1999, Az. 1 StR 618/98, BGHSt 45, 164, ausgeformt. Dieses Urteil ist die zentrale Grundlage saemtlicher aussagepsychologischer Sachverstaendigengutachten in Deutschland und definiert zugleich, was das Gericht selbst als Tatrichter zu pruefen hat, wenn es kein Gutachten einholt.
+Wenn ein Strafverfahren wesentlich auf eine einzige Belastungszeugin oder einen einzigen Belastungszeugen gestuetzt ist (Aussage-gegen-Aussage-Konstellation), verlangt der BGH eine besonders sorgfaeltige Beweiswuerdigung. Die methodischen Massstaebe hierfür hat der BGH in seinem Leiturteil BGH, Urteil vom 30.07.1999, Az. 1 StR 618/98, BGHSt 45, 164, ausgeformt. Dieses Urteil ist die zentrale Grundlage saemtlicher aussagepsychologischer Sachverstaendigengutachten in Deutschland und definiert zugleich, was das Gericht selbst als Tatrichter zu pruefen hat, wenn es kein Gutachten einholt.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger und liefert die methodischen Werkzeuge, mit denen sich die Staatsanwaltsbehauptung "der Zeuge luegt" oder umgekehrt "der Zeuge sagt die Wahrheit" sachlich auf den fachlichen Pruefstand stellen laesst.
 
 ## Methodische Grundlagen
 
-**Hypothesen-gegen-Hypothesen-Methode (HGH).** Die aussagepsychologische Begutachtung arbeitet nicht mit Wahrheitssuggestion, sondern mit dem Versuch, alternative Erklaerungshypothesen fuer das Zustandekommen der Aussage zu pruefen und nur dann zu verwerfen, wenn sie methodisch nicht haltbar sind.
+**Hypothesen-gegen-Hypothesen-Methode (HGH).** Die aussagepsychologische Begutachtung arbeitet nicht mit Wahrheitssuggestion, sondern mit dem Versuch, alternative Erklaerungshypothesen für das Zustandekommen der Aussage zu pruefen und nur dann zu verwerfen, wenn sie methodisch nicht haltbar sind.
 
 Hypothesen-System:
 - Wahrhypothese (H0 inhaltlich): Die Aussage beruht auf einem tatsaechlich erlebten Ereignis.
@@ -341,9 +341,9 @@ Im Schlussvortrag arbeiten Sie nicht mit Vorwuerfen ("die Zeugin luegt"), sonder
 ## Mustertexte
 
 **Hilfsbeweisantrag aussagepsychologisches Gutachten:**
-"Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Frage der Erlebnisbasiertheit der Aussage der Zeugin [Name] vom [Datum] einzuholen. Begruendung: Die Verurteilung wuerde sich wesentlich auf die Aussage einer einzigen Zeugin stuetzen (Aussage-gegen-Aussage-Konstellation). Es bestehen konkrete Anhaltspunkte fuer suggestive Einfluesse (Mehrfachvernehmung am [Datum], therapeutische Bindung an Behandlerin [Name], Konflikt mit Mandant um [Sachverhalt]). Nach der staendigen Rechtsprechung des BGH (Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164) ist in solchen Konstellationen die Hypothesen-gegen-Hypothesen-Methode mit besonderer Sorgfalt zur Anwendung zu bringen. Hierzu bedarf es sachverstaendiger Hilfe."
+"Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Frage der Erlebnisbasiertheit der Aussage der Zeugin [Name] vom [Datum] einzuholen. Begruendung: Die Verurteilung wuerde sich wesentlich auf die Aussage einer einzigen Zeugin stuetzen (Aussage-gegen-Aussage-Konstellation). Es bestehen konkrete Anhaltspunkte für suggestive Einfluesse (Mehrfachvernehmung am [Datum], therapeutische Bindung an Behandlerin [Name], Konflikt mit Mandant um [Sachverhalt]). Nach der staendigen Rechtsprechung des BGH (Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164) ist in solchen Konstellationen die Hypothesen-gegen-Hypothesen-Methode mit besonderer Sorgfalt zur Anwendung zu bringen. Hierzu bedarf es sachverstaendiger Hilfe."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Die Annahme, die Zeugin luege, ist methodisch unzulaessig, weil sie eine Beweisrichtung verkennt: Nach der Hypothesen-gegen-Hypothesen-Methode (BGH, 1 StR 618/98) ist nicht zu beweisen, dass die Zeugin luegt, sondern dass die Aussage ueberhaupt erlebnisbasiert ist. Bleiben alternative Hypothesen — Suggestion, Falscherinnerung, Motivation — methodisch offen, ist die Null-Hypothese nicht widerlegt, und der Angeklagte muss freigesprochen werden."
 
 ## Querverweise
@@ -368,7 +368,7 @@ Im Schlussvortrag arbeiten Sie nicht mit Vorwuerfen ("die Zeugin luegt"), sonder
 
 ## 5. `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
 
-**Fokus:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster fuer die Verteidigung, Replik gegen mangelhafte Gutachten.
+**Fokus:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster für die Verteidigung, Replik gegen mangelhafte Gutachten.
 
 # Anforderungen an aussagepsychologische Sachverstaendigengutachten
 
@@ -376,7 +376,7 @@ Im Schlussvortrag arbeiten Sie nicht mit Vorwuerfen ("die Zeugin luegt"), sonder
 
 Ein aussagepsychologisches Sachverstaendigengutachten ist nicht ein freier Eindrucksbericht, sondern ein methodisch strukturiertes Dokument, das den BGH-Vorgaben (insbesondere aus 1 StR 618/98, BGHSt 45, 164) entsprechen muss. Wer als Verteidigerin oder Verteidiger ein Gutachten zu analysieren hat — sei es weil die Staatsanwaltschaft eines vorgelegt hat, sei es weil das Gericht eines eingeholt hat — braucht ein Pruefraster, an dem die methodische Qualitaet des Gutachtens gemessen werden kann.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodischen Mindeststandards, das strukturierte Pruefraster fuer die Gutachtenanalyse und die Replik-Werkzeuge gegen unzureichende Gutachten.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodischen Mindeststandards, das strukturierte Pruefraster für die Gutachtenanalyse und die Replik-Werkzeuge gegen unzureichende Gutachten.
 
 ## Methodische Grundlagen
 
@@ -413,14 +413,14 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - **Hypothesen einzeln pruefen.** Sind alle Hypothesen explizit benannt? Wird die Verwerfung methodisch begruendet oder pauschal? Eine bloss erwaehnte Hypothese, die nicht geprueft wird, ist methodisch nicht widerlegt.
 - **Aussagegenese pruefen.** Welche Erstaussagen liegen vor? Welche Suggestionsfaktoren werden diskutiert? Welche werden uebergangen?
 - **Qualifikation der Gutachterin pruefen.** Forensische Erfahrung mit aussagepsychologischer Methodik? Frueherer Behandlerkontakt? Naehe zur Belastungszeugin?
-- **Schwachstellen-Anhoerung.** Falls Gutachten substanzielle Maengel hat: Beweisantrag auf Anhoerung der Sachverstaendigen mit konkreten Fragenkatalog, ggf. Antrag auf Gegen-Sachverstaendige.
+- **Schwachstellen-Anhörung.** Falls Gutachten substanzielle Maengel hat: Beweisantrag auf Anhörung der Sachverstaendigen mit konkreten Fragenkatalog, ggf. Antrag auf Gegen-Sachverstaendige.
 
 ## Trade-off-Matrix
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
 | Gegen-Sachverstaendige beantragen | Methodische Gegen-Expertise | Kostenpflicht, Zeitverzug, ggf. nicht bewilligt |
-| SV-Anhoerung mit detailliertem Fragenkatalog | Methodische Schwachstellen werden offengelegt | Anhoerung kann Gutachten festigen |
+| SV-Anhörung mit detailliertem Fragenkatalog | Methodische Schwachstellen werden offengelegt | Anhörung kann Gutachten festigen |
 | Methodenkritik im Plaedoyer | Schlanker, billiger | Tatrichter kann der Gutachterin folgen |
 | Schriftliche Stellungnahme der Verteidigung mit Methodenkritik | Strukturiert, dokumentiert | Aufwendig, setzt eigene Methodenkenntnis voraus |
 
@@ -433,7 +433,7 @@ Im Plaedoyer methodisch arbeiten: "Das vorgelegte aussagepsychologische Gutachte
 **Beweisantrag Gegen-Sachverstaendige:**
 "Es wird beantragt, ein weiteres aussagepsychologisches Sachverstaendigengutachten zur Aussage der Zeugin [Name] einzuholen. Das bisher vorgelegte Gutachten der Sachverstaendigen [Name] vom [Datum] genuegt den methodischen Anforderungen nicht. Konkret: [a] Es fehlt eine vollstaendige CBCA-Analyse. [b] Die Suggestionshypothese wird nicht methodisch geprueft. [c] Die Aussagetuechtigkeit wird nicht eigenstaendig untersucht. [d] Die behandelnde Therapeutin der Zeugin wurde nicht zur Aussagegenese befragt."
 
-**Fragenkatalog fuer die Anhoerung der Sachverstaendigen:**
+**Fragenkatalog für die Anhörung der Sachverstaendigen:**
 "Frau Sachverstaendige, ich bitte um Beantwortung folgender Fragen:
 1. Welche der 19 CBCA-Kriterien nach Steller und Koehnken haben Sie bei der Aussage konkret geprueft? Welche Belege bestehen jeweils?
 2. Welche alternativen Hypothesen haben Sie geprueft? Mit welcher Begruendung haben Sie die Suggestionshypothese verworfen?
@@ -460,7 +460,7 @@ Im Plaedoyer methodisch arbeiten: "Das vorgelegte aussagepsychologische Gutachte
 
 ## 6. `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung`
 
-**Fokus:** Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit jugendlichen Belastungszeugen.
+**Fokus:** Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug für Aussage-gegen-Aussage mit jugendlichen Belastungszeugen.
 
 # Jugendliche Zeugen und Aussage unter Belastung
 
@@ -468,19 +468,19 @@ Im Plaedoyer methodisch arbeiten: "Das vorgelegte aussagepsychologische Gutachte
 
 Jugendliche Zeugen (etwa 14 bis 17 Jahre alt) und Heranwachsende (18 bis 20) liegen aussagepsychologisch zwischen den klar geregelten Kategorien des kindlichen und des erwachsenen Zeugen. Sie verfuegen ueber weitgehend ausgebildete sprachliche und kognitive Faehigkeiten, sind aber besonders in Identitaetsbildung, Peergroup-Orientierung, Loyalitaetskonflikten und emotionaler Regulation. Diese Spezifika beeinflussen Aussagebereitschaft und Aussageinhalt — und werden in der Praxis oft unterschaetzt.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die entwicklungspsychologischen Grundlagen, die typischen Fehlerquellen und das Replik-Werkzeug fuer Verfahren mit jugendlichen Belastungszeugen.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die entwicklungspsychologischen Grundlagen, die typischen Fehlerquellen und das Replik-Werkzeug für Verfahren mit jugendlichen Belastungszeugen.
 
 ## Methodische Grundlagen
 
 **Entwicklungspsychologische Besonderheiten 14 bis 20 Jahre.**
-- Praefrontaler Cortex (zustaendig fuer Impulskontrolle, Risikobewertung, Konsequenzbedenken) reift bis etwa zum 25. Lebensjahr.
+- Praefrontaler Cortex (zuständig für Impulskontrolle, Risikobewertung, Konsequenzbedenken) reift bis etwa zum 25. Lebensjahr.
 - Emotional regulationsfaehig, aber unter Stress eingeschraenkt.
 - Identitaetsbildung mit starker Peergroup-Orientierung.
 - Loyalitaetskonflikte (Eltern, Freundeskreis, Partner) ausgepraegt.
 - Sexualitaet und Sexualbeziehungen werden mit Unsicherheit, Scham und Ambivalenz erlebt.
 - Risikobereitschaft und Realitaetstest schwanken.
 
-**Typische Motivationen fuer jugendliche Belastung.**
+**Typische Motivationen für jugendliche Belastung.**
 - Schutz Dritter (Peer-Group, eigene Freunde).
 - Vermeidung eigener Sanktion (eigener Drogenkonsum, eigene Straftat).
 - Eltern-Druck (z. B. wenn Eltern eine Affaere entdecken und das Kind zur Anzeige draengen).
@@ -524,10 +524,10 @@ Im Plaedoyer differenziert und respektvoll: "Die Zeugin ist 16 Jahre alt. Sie is
 
 ## Mustertexte
 
-**Hilfsbeweisantrag aussagepsychologisches Gutachten fuer jugendliche Zeugin:**
+**Hilfsbeweisantrag aussagepsychologisches Gutachten für jugendliche Zeugin:**
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter besonderer Beruecksichtigung der entwicklungspsychologischen Besonderheiten Jugendlicher zur Aussage der Zeugin [Name], geboren am [Datum], einzuholen. Schwerpunkte: Aussagebereitschaft im Kontext der Loyalitaetslage; Suggestibilitaet gegenueber Autoritaetspersonen; Stresseinfluss in den Vernehmungssituationen am [Daten]; Peer-Einfluss durch [konkret]; Familienkonflikt durch [konkret]."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Eine jugendliche Zeugin ist nicht unglaubwuerdig — und sie ist auch nicht automatisch glaubhaft. Sie ist in einer Lebensphase, in der die Aussage von mehr als nur dem Erlebnis abhaengt: Loyalitaeten zur Familie, zum Freundeskreis, zur Partnerschaft; Sexualgrauzonen mit Unsicherheit; Stress unter Vernehmung. Diese Faktoren erfordern eine sorgfaeltige aussagepsychologische Pruefung. Eine Eindrucksbewertung genuegt nicht."
 
 ## Querverweise
@@ -552,7 +552,7 @@ Im Plaedoyer differenziert und respektvoll: "Die Zeugin ist 16 Jahre alt. Sie is
 
 ## 7. `strafrecht-spezial-aussagepsychologie-kindliche-zeugen`
 
-**Fokus:** Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit kindlicher Belastungszeugin.
+**Fokus:** Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug für Aussage-gegen-Aussage mit kindlicher Belastungszeugin.
 
 # Kindliche Zeugen in Strafverfahren
 
@@ -569,13 +569,13 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Grundschulalter (etwa 6 bis 10 Jahre): Bessere sprachliche Faehigkeiten, weiterhin Suggestibilitaet, beginnende Faehigkeit zur Quellentrennung.
 - Vorpubertaet und Pubertaet (etwa 10 bis 14 Jahre): Aussagepsychologisch zunehmend mit Erwachsenen vergleichbar. Aber: Belastungs-, Loyalitaets- und Motivationskonflikte besonders ausgepraegt.
 
-**Suggestibilitaet kindlicher Zeugen.** Empirisch belegt: Kinder sind in suggestiven Befragungssituationen besonders anfaellig fuer Falschaussagen, weil sie:
+**Suggestibilitaet kindlicher Zeugen.** Empirisch belegt: Kinder sind in suggestiven Befragungssituationen besonders anfaellig für Falschaussagen, weil sie:
 - Erwartungen erwachsener Befragungspersonen erkennen und beantworten.
 - Wiederholte Fragen als Signal verstehen, dass die erste Antwort falsch war.
 - Bildhafte Vorstellungen mit Erinnerungen vermengen.
 - Quellen schlecht trennen.
 
-**Audiovisuelle Vernehmung § 58a StPO.** Bei minderjaehrigen Zeugen, insbesondere in Sexualstrafverfahren, soll die Vernehmung in Bild und Ton aufgezeichnet werden. Sie kann zur Vermeidung wiederholter Vernehmung in der Hauptverhandlung verwendet werden. Vorteil fuer die Verteidigung: die Aufzeichnung dokumentiert die konkrete Befragungstechnik und ermoeglicht spaetere Auswertung suggestiver Elemente.
+**Audiovisuelle Vernehmung § 58a StPO.** Bei minderjaehrigen Zeugen, insbesondere in Sexualstrafverfahren, soll die Vernehmung in Bild und Ton aufgezeichnet werden. Sie kann zur Vermeidung wiederholter Vernehmung in der Hauptverhandlung verwendet werden. Vorteil für die Verteidigung: die Aufzeichnung dokumentiert die konkrete Befragungstechnik und ermoeglicht spaetere Auswertung suggestiver Elemente.
 
 **Mehrfachvernehmung problematisch.** Jede zusaetzliche Vernehmung erhoeht das Risiko suggestiver Kontamination. Erstvernehmung durch qualifizierte Beamtin oder qualifizierten Beamten ist methodisch entscheidend.
 
@@ -585,7 +585,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 - **Aussagegenese akribisch rekonstruieren.** Wer hat das Kind zuerst befragt? In welchem Kontext? Mit welchen Fragen? Wer war dabei?
 - **§ 58a-StPO-Aufzeichnung verlangen.** Wenn nicht vorhanden, dokumentieren und im Beweisantrag thematisieren. Wenn vorhanden, vollstaendig auswerten (Wortlaut, Befragungsfuehrung, suggestive Elemente).
-- **Suggestionsindikatoren in der Vernehmung.** Geschlossene Fragen, Lobpunkte fuer bestimmte Antworten, Wiederholungen, Vorhalt von Materialien, Anwesenheit involvierter Erwachsener.
+- **Suggestionsindikatoren in der Vernehmung.** Geschlossene Fragen, Lobpunkte für bestimmte Antworten, Wiederholungen, Vorhalt von Materialien, Anwesenheit involvierter Erwachsener.
 - **Familiendynamik adressieren.** Trennungs- und Sorgerechtsstreit, Geschwisterkonflikte, neue Lebenspartner, schulische Probleme — alles mitdenken.
 - **Hilfsbeweisantrag aussagepsychologisches Gutachten.** Bei kindlichen Zeugen in Aussage-gegen-Aussage-Konstellationen ist die Einholung eines SV-Gutachtens nahezu Standard. Der Tatrichter besitzt regelmaessig nicht die entwicklungspsychologische Kompetenz.
 - **Pflichtverteidigung pruefen.** Bei Sexualdelikten in der Regel notwendige Verteidigung (§ 140 StPO). Antrag fruehzeitig.
@@ -595,7 +595,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
 | Hilfsbeweisantrag SV-Gutachten | Methodisch fundiert; revisionsfest | Zeitverzug |
-| Kreuzverhoer des Kindes in Hauptverhandlung | Direkter Eindruck fuer Verteidigung | Belastung des Kindes; ggf. Empoerungseffekt beim Tatrichter |
+| Kreuzverhoer des Kindes in Hauptverhandlung | Direkter Eindruck für Verteidigung | Belastung des Kindes; ggf. Empoerungseffekt beim Tatrichter |
 | Verwendung der § 58a-Aufzeichnung statt Kreuzverhoer | Schonend; methodisch sauberer | Aufzeichnung kann fixierte Aussage darstellen, die nicht mehr hinterfragbar ist |
 | Therapeutenakte beiziehen | Aussagegenese nachvollziehbar | Schweigepflichtsentbindung erforderlich |
 
@@ -608,7 +608,7 @@ Im Plaedoyer respektvoll, niemals herabsetzend: "Die Aussage des Kindes ist nich
 **Hilfsbeweisantrag aussagepsychologisches Gutachten zur Aussage einer kindlichen Zeugin:**
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter Beruecksichtigung der entwicklungspsychologischen Besonderheiten zur Aussage der Zeugin [Name], geboren am [Datum], einzuholen. Die Begutachtung soll insbesondere die Aussagetuechtigkeit, die Aussagegenese, die Suggestibilitaet und die Realkennzeichen bewerten. Hintergrund: Erstvernehmung am [Datum] durch [Person] in [Kontext]; nachfolgende Befragungen durch [Personen] in [Kontexten]; Latenz zwischen behaupteter Tat und Erstaussage betraegt [Zeitraum]."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Die Aussage eines Kindes verdient besonderen Respekt — aber sie verdient auch besondere Sorgfalt. Bei einem Kind im Alter von [X] Jahren ist die Suggestibilitaet entwicklungspsychologisch erhoeht, das Quellengedaechtnis noch nicht voll ausgebildet, die zeitliche Verortung schwach. Wenn dann [N] Befragungen vorausgehen, in einem Kontext der bereits erhobenen Anschuldigung, ist die Annahme einer kontaminierten Erinnerung nicht von der Hand zu weisen. Damit bleibt Restzweifel — Freispruch."
 
 ## Querverweise
@@ -633,15 +633,15 @@ Im Plaedoyer respektvoll, niemals herabsetzend: "Die Aussage des Kindes ist nich
 
 ## 8. `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
 
-**Fokus:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge fuer das Kreuzverhoer.
+**Fokus:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge für das Kreuzverhoer.
 
 # Konstanzanalyse, Aussageentwicklung und Inkonstanzen
 
 ## Worum geht es
 
-Die Konstanzanalyse ist das zweite tragende Pruefelement der aussagepsychologischen Begutachtung neben den Realkennzeichen. Sie fragt: Wie konstant sind die wesentlichen Aussageelemente ueber die Zeit hinweg, und wo variieren sie? Konstanz spricht — bei sonst plausibler Aussagegenese — fuer Erlebnisbasiertheit; auffaellige Inkonstanzen oder eine schrittweise Steigerung der Belastung indizieren Suggestion, Konfabulation oder bewusste Anpassung.
+Die Konstanzanalyse ist das zweite tragende Pruefelement der aussagepsychologischen Begutachtung neben den Realkennzeichen. Sie fragt: Wie konstant sind die wesentlichen Aussageelemente ueber die Zeit hinweg, und wo variieren sie? Konstanz spricht — bei sonst plausibler Aussagegenese — für Erlebnisbasiertheit; auffaellige Inkonstanzen oder eine schrittweise Steigerung der Belastung indizieren Suggestion, Konfabulation oder bewusste Anpassung.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert ein strukturiertes Werkzeug fuer die Aufbereitung der Aussagechronologie und das Kreuzverhoer.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert ein strukturiertes Werkzeug für die Aufbereitung der Aussagechronologie und das Kreuzverhoer.
 
 ## Methodische Grundlagen
 
@@ -671,9 +671,9 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 ## Praktikertipps Verteidigung
 
 - **Chronologie-Tabelle anlegen.** Jede Aussage chronologisch in eine Tabelle mit Spalten: Datum, Quelle, Vernehmungsperson, Kerninhalt (Wer/Wo/Was), Variante (Detail X), Belastungstendenz.
-- **Steigerungsmuster suchen.** Wenn die Aussage von "ein einmaliger Vorfall" zu "regelmaessige Vorfaelle ueber Jahre" wandert, ist das ein klassisches Suggestionsmuster.
+- **Steigerungsmuster suchen.** Wenn die Aussage von "ein einmaliger Vorfall" zu "regelmäßige Vorfaelle ueber Jahre" wandert, ist das ein klassisches Suggestionsmuster.
 - **Quelle der Steigerung verorten.** Welche Vernehmung, welcher Therapeut, welcher Gespraechspartner hat die Steigerung ausgeloest?
-- **Kreuzverhoer strukturiert vorbereiten.** Konkrete Frageblock-Module fuer das Kreuzverhoer: Frage zum Kern, Frage zum Detail in Vernehmung 1, Frage zum Detail in Vernehmung 2, ggf. Vorhalt nach § 253 StPO.
+- **Kreuzverhoer strukturiert vorbereiten.** Konkrete Frageblock-Module für das Kreuzverhoer: Frage zum Kern, Frage zum Detail in Vernehmung 1, Frage zum Detail in Vernehmung 2, ggf. Vorhalt nach § 253 StPO.
 - **Aussage zur Aussagegenese erfragen.** Wer hat zuerst was gesagt? Hat die Zeugin mit Therapeutin gesprochen? In Selbsthilfegruppe?
 - **Konstanz ist kein Wahrheitstest.** Replik gegen StA: "Die Aussage ist konstant — aber Konstanz allein indiziert nicht Erlebnis. Es koennte ein verfestigtes, durch Wiederholung gefestigtes Gedaechtnisbild sein, das mit dem urspruenglichen Erlebnis nicht mehr identisch ist."
 
@@ -695,7 +695,7 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 **Vorhalt im Kreuzverhoer:**
 "Frau Zeugin, ich halte Ihnen vor, dass Sie in der polizeilichen Vernehmung vom [Datum], Akte Blatt [X], angegeben haben, der Vorfall habe sich in der Kueche zugetragen. In der richterlichen Vernehmung vom [Datum], Akte Blatt [Y], haben Sie das Schlafzimmer als Tatort angegeben. Wie erklaeren Sie diese Abweichung?"
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Die Aussage der Zeugin weist erhebliche Inkonstanzen im Tatkern auf. Diese betreffen nicht periphere Details, sondern den Tatort, den Tatablauf und die zeitliche Einordnung. Die Inkonstanzen lassen sich plausibel mit suggestiven Einfluessen erklaeren, die durch Mehrfachvernehmungen, therapeutische Bezugspersonen und Gespraeche im familiaeren Umfeld entstanden sind. Damit ist die Wahrhypothese nicht mit der notwendigen Sicherheit nachweisbar."
 
 ## Querverweise
@@ -718,7 +718,7 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 
 ## 9. `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
 
-**Fokus:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug fuer die Aussagegenese-Pruefung bei Vielfach-Vernehmungen.
+**Fokus:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug für die Aussagegenese-Pruefung bei Vielfach-Vernehmungen.
 
 # Mehrfach vernommene Zeugen und Aussageverfestigung
 
@@ -768,14 +768,14 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus einer Vernehmung. Sie ist das Ergebnis von acht Vernehmungen ueber 14 Monate. Zwischen der polizeilichen Erstvernehmung vom [Datum] und der heutigen Hauptverhandlung liegen sieben weitere Aussage-Setting: zwei polizeiliche Vernehmungen, eine richterliche Vernehmung nach § 58a StPO, vier dokumentierte Therapeutengespraeche mit Aufdeckungs-Schwerpunkt, regelmaessige Treffen einer Selbsthilfegruppe. In jeder Phase ist neue Information hinzugekommen. Die Erstaussage war kuerzer, weniger detailliert, ohne die jetzt zentralen Belastungsmomente. Diese sind erst in den spaeteren Aussagen aufgetaucht — eine klassische Aussageverfestigung. Damit ist die Aussage nicht unabhaengig, sondern aufeinander aufbauend, und ihre Beweiskraft ist erheblich reduziert."
+Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus einer Vernehmung. Sie ist das Ergebnis von acht Vernehmungen ueber 14 Monate. Zwischen der polizeilichen Erstvernehmung vom [Datum] und der heutigen Hauptverhandlung liegen sieben weitere Aussage-Setting: zwei polizeiliche Vernehmungen, eine richterliche Vernehmung nach § 58a StPO, vier dokumentierte Therapeutengespraeche mit Aufdeckungs-Schwerpunkt, regelmäßige Treffen einer Selbsthilfegruppe. In jeder Phase ist neue Information hinzugekommen. Die Erstaussage war kuerzer, weniger detailliert, ohne die jetzt zentralen Belastungsmomente. Diese sind erst in den spaeteren Aussagen aufgetaucht — eine klassische Aussageverfestigung. Damit ist die Aussage nicht unabhaengig, sondern aufeinander aufbauend, und ihre Beweiskraft ist erheblich reduziert."
 
 ## Mustertexte
 
 **Hilfsbeweisantrag aussagepsychologisches Gutachten zur Aussagegenese bei Mehrfachvernehmung:**
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Frage einzuholen, ob die Aussage der Zeugin [Name] in der Hauptverhandlung als unabhaengig oder als verfestigt aus den vorangegangenen [N] Vernehmungssituationen zu bewerten ist. Hintergrund: Vernehmungen am [Daten] mit [Vernehmungspersonen] in [Setting]; therapeutische Behandlung seit [Datum] mit Schwerpunkt auf [Methode]; Teilnahme an Selbsthilfegruppe [Name] seit [Datum]."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Konstanz ist nicht Erlebnis. Eine Aussage, die ueber acht Vernehmungen hinweg gleich bleibt, kann erlebnisbasiert sein — sie kann aber auch ein durch Wiederholung verfestigtes Skript sein. Die aussagepsychologische Forschung kennt diesen Skripteffekt seit Jahrzehnten. Bei den hier dokumentierten Aussagesituationen ist die Annahme einer reinen Erlebnisbasierung methodisch nicht gestuetzt. Damit traegt die Aussage die Verurteilung nicht."
 
 ## Querverweise
@@ -799,7 +799,7 @@ Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus e
 
 ## 10. `strafrecht-spezial-aussagepsychologie-realkennzeichen`
 
-**Fokus:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster fuer die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
+**Fokus:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster für die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
 
 # Realkennzeichen nach Steller und Koehnken
 
@@ -842,7 +842,7 @@ Motivationsbezogene Inhalte:
 18. Verzeihende Angaben.
 
 Deliktsspezifische Inhalte:
-19. Deliktsspezifische Details (z. B. Tatabwicklung typisch fuer Sexualdelikt im Familienverband).
+19. Deliktsspezifische Details (z. B. Tatabwicklung typisch für Sexualdelikt im Familienverband).
 
 **Wertung.** Die blosse Anzahl erfuellter Kriterien ist nicht entscheidend, sondern die qualitative Gesamtbewertung. Realkennzeichen sind kein Wahrheitstest, sondern eine von mehreren Bewertungsdimensionen.
 
@@ -872,7 +872,7 @@ Im Schlussvortrag arbeiten Sie strukturiert: erstes Kriterium, Beleg, Bewertung;
 **Hilfsbeweisantrag CBCA-Analyse durch SV:**
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten unter Anwendung der Criteria-Based Content Analysis (CBCA) nach Steller und Koehnken zur Frage einzuholen, ob die Aussage der Zeugin [Name] hinreichende Realkennzeichen aufweist, um die Annahme der Erlebnisbasiertheit zu stuetzen."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Eine sorgfaeltige Pruefung der Aussage anhand der 19 Realkennzeichen nach Steller und Koehnken ergibt: Komplikationen im Tatverlauf werden nicht beschrieben. Woertliche Rede fehlt vollstaendig. Ungewoehnliche Details kommen nicht vor. Nebensaechlichkeiten sind nicht erinnert. Eigenpsychische Vorgaenge bleiben Floskeln. Diese Aussage zeigt nicht das Profil eines erlebten Ereignisses, sondern das einer konstruierten Erzaehlung. Restzweifel bleiben — Freispruch nach in dubio pro reo."
 
 ## Querverweise
@@ -892,7 +892,6 @@ Im Schlussvortrag arbeiten Sie strukturiert: erstes Kriterium, Beleg, Bewertung;
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).
 - Zitierregeln siehe `references/zitierweise.md`.
 - Bei jeder konkreten Fundstelle: Verifizierung in lizenzierten Datenbanken oder amtlichen Quellen.
-
 
 ## Qualitäts-Hardening
 

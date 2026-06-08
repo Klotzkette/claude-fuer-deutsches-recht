@@ -5,6 +5,22 @@ description: "Überführt Datenraum-/SharePoint-/DMS-Exporte in Anlagenlogik: Pf
 
 # Datenraum und SharePoint als Anlagenquelle
 
+## Normenanker
+
+Arbeitsfokus: **Datenraum und SharePoint als Anlagenquelle**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill ist für moderne Akten, in denen der Beweis nicht aus einem Ordner, sondern aus Datenraum-Exports, SharePoint-Links und DMS-Versionen kommt.
@@ -46,7 +62,6 @@ Dieser Skill ist für moderne Akten, in denen der Beweis nicht aus einem Ordner,
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
 
-
 ## Vertiefter Anlagen-Workflow
 
 Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Beweisfunktion sichern, dann technische Einreichbarkeit prüfen.
@@ -62,3 +77,20 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 31 VVG
+- § 16 GeschGehG
+- § 174 GVG
+- Art. 32 DSGVO
+- § 29 VwVfG
+- § 203 StGB
+- § 184 GVG
+
+### Leitentscheidungen
+
+- BGH X ZR 39/16
+

@@ -1,42 +1,25 @@
 ---
 name: wartungs-servicevertrag-beweislast
-description: "Wartungs Servicevertrag Beweislast im Robotik- und KI-Recht: prüft konkret Prüft Wartungs-, Kalibrierungs- und Serviceverträge, Prüft Beweislast, Indizien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Wartungs Servicevertrag Beweislast
+# Wartungs- und Servicevertrag
 
 ## Arbeitsbereich
 
-**Wartungs Servicevertrag Beweislast** ordnet den Fall über die tragenden Prüffelder: Prüft Wartungs-, Kalibrierungs- und Serviceverträge, Prüft Beweislast. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `wartungs-und-servicevertrag-robotik` | Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation. |
-| `beweislast-und-offenlegung-produkthaftung` | Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, Kausalität und Schwierigkeiten komplexer Robotiksysteme. |
+Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Robotik- und KI-Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko (Art. 6 Anhang III), Verbote ab 02.02.2025, Maschinen-VO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, KI-VO Art. 73 schwerwiegender Vorfall innerhalb 15 Tagen.
 - Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `wartungs-und-servicevertrag-robotik`
-
-**Fokus:** Prüft Wartungs-, Kalibrierungs- und Serviceverträge: Reaktionszeiten, Ersatzteile, Remote-Zugriff, Logdaten, Haftungsgrenzen und Dokumentation.
-
-
-# Wartungs- und Servicevertrag
 
 ## Fachkern: Wartungs- und Servicevertrag
-- **Spezialgegenstand:** Wartungs- und Servicevertrag wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
 - **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
@@ -75,104 +58,3 @@ Liefere je nach Auftrag eines der folgenden Formate:
 - **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
 
 Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
-
-## 2. `beweislast-und-offenlegung-produkthaftung`
-
-**Fokus:** Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, Kausalität und Schwierigkeiten komplexer Robotiksysteme.
-
-
-# Beweislast und Offenlegung in der Robotik-Produkthaftung
-
-## Fachkern: Beweislast und Offenlegung in der Robotik-Produkthaftung
-- **Spezialgegenstand:** Beweislast und Offenlegung in der Robotik-Produkthaftung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
-- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum geht es konkret
-
-Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und KI-gestützten Produkten mit (i) Offenlegungspflichten technischer Unterlagen vor und im Prozess (Art. 9 RL), (ii) Vermutungen zur Fehlerhaftigkeit (Art. 10) und (iii) Vermutungen zur Kausalität (Art. 10 Abs. 4). Parallel bleibt nationales Prozessrecht (§§ 142, 144, 421-432 ZPO, § 810 BGB, § 242 BGB, Auskunfts- und Stufenklage § 254 ZPO) anwendbar. Dieser Skill bearbeitet die Tools, prioritisiert sie und gibt Schriftsatzpassagen für beide Seiten.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-1. **Rolle:** Geschädigter/Anspruchsteller, Hersteller-Verteidigung, Versicherer, Sachverständiger, Gericht.
-2. **Vorfall:** Personen-, Sach- oder Datenschaden; Robotik-System komplex (KI, Cloud, OTA-Updates)?
-3. **Zeitlicher Rahmen:** Vor oder nach 09.12.2026 (Anwendungsbeginn der neuen ProdHaftRL)?
-4. **Stand:** Vorgerichtlich, vor Klage, im Prozess, Berufung?
-5. **Unterlagen:** Welche technische Dokumentation, Logs, SBOM, Wartungsprotokolle sind dem Geschädigten zugänglich?
-
-## Rechtlicher Rahmen
-
-- **ProdHaftG** (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (§ 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände § 1 Abs. 2 ProdHaftG.
-- **VO (EU) 2024/2853 (neue ProdHaftRL)**: Art. 9 Disclosure of evidence; Art. 10 Vermutungen.
-- **ZPO** §§ 142, 144 (Anordnung der Vorlage), §§ 421-432 (Urkunden), § 286 freie Beweiswürdigung.
-- **§ 810 BGB** Einsicht in Urkunden bei rechtlichem Interesse.
-- **§ 242 BGB** Auskunft als Nebenpflicht.
-- **§ 254 ZPO** Stufenklage.
-- **Data Act** VO (EU) 2023/2854 (Datenzugang bei vernetzten Produkten ab 12.09.2025) als Hilfsinstrument.
-- **DSGVO** Art. 15 Auskunftsrecht.
-- **§ 99 PatG / § 145a MarkenG** für Geschäftsgeheimnisschutz im Disclosure-Verfahren (GeschGehG).
-
-## Schritt für Schritt
-
-1. **Beweissicherung vor Klage.** Logs, Fotos, Zeugenaussagen, Sachverständigengutachten privat; Hash-Sicherung.
-2. **Disclosure-Antrag** nach neuer ProdHaftRL (für Schäden ab 09.12.2026): Antrag auf Vorlage konkret bezeichneter Unterlagen, "necessary and proportionate"; Schutz von Geschäftsgeheimnissen Art. 9 Abs. 4 RL i. V. m. GeschGehG.
-3. **Nationaler Hilfsweg (§ 142 ZPO).** Anordnung der Vorlage, wenn Partei darauf Bezug genommen hat; § 144 ZPO Augenschein.
-4. **Vermutungen Art. 10 RL.** Bei Verletzung der Disclosure-Pflicht oder bei "übermäßiger technischer Komplexität" Vermutung des Fehlers/Kausalität.
-5. **Kausalkette technisch aufbereiten.** Sensorik – Software – KI-Modell – Aktorik – Schadensereignis; Schwachstellen jedes Glieds.
-6. **Sachverständigenbeweis** ZPO §§ 402 ff.: Robotik-Sachverständiger mit Forensik-Expertise.
-7. **Schutz von Geschäftsgeheimnissen** im Disclosure-Verfahren: in-camera-Verfahren, Geheimhaltungsanordnung, Schwärzungen; § 16 ff. GeschGehG.
-8. **Strafrechtliche Schiene** zurückhaltend: § 230 StGB fahrlässige Körperverletzung; nur wenn Indizien dies tragen.
-
-## Trade-off-Matrix
-
-| Schritt | Geschädigter | Hersteller | Empfehlung |
-|---|---|---|---|
-| Frühe Disclosure | wertvoll, kostet Aufwand | Geschäftsgeheimnis-Risiko | präzise gefasste Anträge; nicht "alles" |
-| Sachverständiger | überzeugt Gericht | bestritten | gemeinsamen SV vorschlagen |
-| Vergleich | begrenzt Risiko | Reputationsschutz | bei klarem Indizienbild realistisch |
-| Strafanzeige | Druckmittel | Reputationsschaden | nur bei klaren Anhaltspunkten |
-
-## Praxistipps
-
-- **Logs sichern, bevor sie überschrieben werden** – innerhalb 24-48 h.
-- **SBOM und Software-Versionsstand** zum Zeitpunkt des Vorfalls anfordern.
-- **Wartungstickets** der letzten 12 Monate.
-- **Update-Historie** der KI-Modelle.
-- **Kommunikation mit Marktüberwachung** parallel verfolgen.
-
-## Mustertexte
-
-**Antrag auf Vorlage (Auszug Klageschrift):**
-
-> Die Beklagte hat gemäß Art. 9 RL (EU) 2024/2853 i. V. m. § 142 ZPO die folgenden Unterlagen offenzulegen: (1) Risikobeurteilung des Roboters Typ X, Seriennummer Y, Stand zum [Datum des Inverkehrbringens]; (2) Logauszug vom [Datum 24h vor Vorfall] bis [Datum Vorfall+1h]; (3) SBOM und Software-Versionsstand zum Vorfallszeitpunkt; (4) Wartungstickets der vergangenen 12 Monate. Vorgeschlagen wird ein in-camera-Verfahren unter Schwärzung sensibler Geschäftsgeheimnisse gemäß §§ 16 ff. GeschGehG.
-
-**Verteidigungsantwort (Hersteller, Auszug):**
-
-> Die mit Klageschrift vom [Datum] beantragte Vorlage ist teilweise unverhältnismäßig: Die SBOM enthält Geschäftsgeheimnisse über Drittlieferanten. Wir bieten Vorlage in geschwärzter Fassung und Bestätigung durch unabhängige IT-Forensik (TÜV) an. Die Risikobeurteilung legen wir wie beantragt vor (Anlage B1). Bezüglich Logauszug schlagen wir eine zeitliche Eingrenzung auf 2 Stunden vor/nach dem Vorfall sowie technische Schwärzung personenbezogener Telemetrie vor.
-
-## Typische Fehler
-
-- **Disclosure-Antrag pauschal** ("sämtliche Unterlagen"); Gericht reduziert oder lehnt ab.
-- **Logs überschrieben**, weil keine sofortige Sicherung erfolgt ist.
-- **GeschGehG nicht beachtet** – im Prozess Schutzlücke.
-- **Vermutungen Art. 10** nicht ausgenutzt durch Geschädigte (Komplexitäts-Argument).
-- **Sachverständiger ohne Robotik-Expertise** – Gutachten wenig verwertbar.
-
-## Querverweise
-
-- `betreiber-mitverschulden-und-fehlbedienung`
-- `deliktische-haftung-paragraph-823-bgb`
-- `data-act-roboterdaten`
-
-## Quellen Stand 06/2026
-
-- VO (EU) 2024/2853 (neue ProdHaftRL), Art. 9, 10, 11.
-- ProdHaftG.
-- ZPO §§ 142, 144, 286, 402 ff., 421-432.
-- § 810 BGB; § 242 BGB; § 254 ZPO.
-- VO (EU) 2023/2854 (Data Act).
-- GeschGehG §§ 16-20.
-- VO (EU) 2024/1689 (KI-VO), Art. 12, 19 (Logs).
-- Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.

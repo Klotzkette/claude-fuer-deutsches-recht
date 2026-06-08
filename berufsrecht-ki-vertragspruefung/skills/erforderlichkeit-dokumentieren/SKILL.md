@@ -46,7 +46,7 @@ Bei zwei Konstellationen verlässt der Vorgang den Bereich des nach Abs. 1 Erfor
 - Ist der Zweck mit dem konkret geplanten Einsatz konsistent?
 - Werden Daten erkennbar über den Zweck hinaus verarbeitet (Training, Statistik, Modellverbesserung)?
 - Gibt es Zweckbindungsklauseln im Vertrag?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output
 

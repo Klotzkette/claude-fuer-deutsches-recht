@@ -7,28 +7,28 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 
 ## Arbeitsbereich
 
-**Laienhilfe Nachzahlung Zinsen Pflegegrad MD** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Laienhilfe Nachzahlung Zinsen Pflegegrad MD** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-nachzahlung-zinsen` | Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-pflegegrad-md-begutachtung` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-pflegegrad-widerspruch-module` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-reha-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-nachzahlung-zinsen` | Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-pflegegrad-md-begutachtung` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-pflegegrad-widerspruch-module` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-reha-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-nachzahlung-zinsen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Nachzahlung Zinsen
 
@@ -39,7 +39,6 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -88,7 +87,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -99,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-pflegegrad-md-begutachtung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Pflegegrad Md Begutachtung
 
@@ -110,7 +108,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -175,7 +172,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Erst-/Zweitgutachten:** Klage nach Widerspruch zum SG; § 109 SGG Wahl-Sachverstaendiger im Klageverfahren.
 - **Praxis-Tipp:** Bei Begutachtungstermin Bezugsperson dabei haben; Krankheitsbild nicht "schoenreden"; Diagnosen nennen und konkrete Beispiele aus dem Alltag.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -186,7 +182,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-pflegegrad-widerspruch-module`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Pflegegrad Widerspruch Module
 
@@ -197,7 +193,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -257,14 +252,13 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Modul 6 Gestaltung Alltagsleben und sozialer Kontakte (15 %):** Tagesablauf, freie Zeit, ausgewaehlte Kontakte, Ausflug.
 - **Pflegegrade-Punkteschwellen § 15 SGB XI:** PG 1 (12,5-26,99), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
 - **Widerspruchsstrategie:**
- - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul fuer Modul kritisch lesen.
- - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben fuer jede Hilfeleistung).
+ - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul für Modul kritisch lesen.
+ - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben für jede Hilfeleistung).
  - **Stellungnahmen** Bezugspersonen / Pflegekraefte / Hausarzt; Schweigepflichtentbindung.
  - **Konkrete Beispiele** aus Alltag - Diagnosen allein reichen nicht; Funktionsbeeintraechtigung beschreiben.
  - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.
 - **Klage SG** nach erfolglosem Widerspruch (1 Monat § 87 SGG); **§ 109 SGG** Wahl-Sachverstaendiger.
 - **Praxis-Tipp:** Bei demenzkranken Personen Module 2, 3, 5, 6 detailliert dokumentieren; bei orthopaedischen / neurologischen Erkrankungen Module 1 und 4; objektivierende Hilfsmittel zur Beweisstaerkung (Bewegungsmessungen, Verbrauchsdokumentation Inkontinenz).
-
 
 ## Qualitäts-Hardening
 
@@ -276,7 +270,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-reha-antrag`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Reha Antrag
 
@@ -287,7 +281,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -335,7 +328,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
 
 ## Qualitäts-Hardening
 

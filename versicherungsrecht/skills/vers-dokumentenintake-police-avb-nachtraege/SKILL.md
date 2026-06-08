@@ -9,8 +9,21 @@ description: "Dokumentenintake für Versicherungsakten: Versicherungsschein, AVB
 
 Der Skill verhindert, dass ein Mandat an einer falschen Bedingungsversion, einem übersehenen Nachtrag oder einer lückenhaften Maklerakte scheitert.
 
-## Norm- und Quellenanker
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG §§ 1, 3, 6, 7, 8, 59 ff.; BGB §§ 133, 157, 305 ff.; DSGVO Art. 5, 6, 15.
 
 ## Arbeitsfragen

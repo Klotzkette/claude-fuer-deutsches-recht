@@ -1,6 +1,6 @@
 ---
 name: methoden-mix-in-der-praxis-anwaltsschriftsatz
-description: "Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins."
+description: "Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins."
 ---
 
 # Methoden-Mix in der Praxis (Anwaltsschriftsatz)
@@ -13,7 +13,7 @@ description: "Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut
 
 ## Worum geht es?
 
-In der anwaltlichen Praxis arbeitet niemand mit einer einzigen Methode. Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren werden kombiniert. Was der BGH macht und was die meisten Methodenlehre-Lehrbuecher als idealtypischen Kanon beschreiben, ist nicht dasselbe. Diese Skill macht den Methoden-Mix sichtbar und gibt konkrete Strategien fuer den Schriftsatz.
+In der anwaltlichen Praxis arbeitet niemand mit einer einzigen Methode. Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren werden kombiniert. Was der BGH macht und was die meisten Methodenlehre-Lehrbuecher als idealtypischen Kanon beschreiben, ist nicht dasselbe. Diese Skill macht den Methoden-Mix sichtbar und gibt konkrete Strategien für den Schriftsatz.
 
 Die Spannung "Larenz (strukturierter Wertungs-Kanon) vs. BGH-Pragmatik" ist nicht zu eliminieren — sie ist Teil der juristischen Praxis. Diese Skill hilft, sie produktiv zu nutzen.
 
@@ -91,7 +91,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 **BGH-Pragmatik:** Keine erkennbare Rangfolge. In stRspr. wird der "objektivierte Wille des Gesetzgebers" aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck gemeinsam erschlossen. Telos ist meist Hauptargument, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
 
-**Praktische Konsequenz fuer den Schriftsatz:**
+**Praktische Konsequenz für den Schriftsatz:**
 
 - Alle einschlaegigen Methoden nennen.
 - Schwergewicht auf Telos und Wertungsjurisprudenz legen, weil das im BGH-Stil ueberzeugt.
@@ -99,7 +99,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - Verfassungs- und Unionsrecht als zusaetzliche Argumentationsebene staerken.
 - Argumentum-Figuren als Verstaerker einsetzen.
 
-## Schritt-fuer-Schritt: Schriftsatz-Aufbau
+## Schritt-für-Schritt: Schriftsatz-Aufbau
 
 **1. Rechtsfrage praezise formulieren.** Welches Tatbestandsmerkmal oder welcher Anspruch genau ist streitig?
 
@@ -156,7 +156,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 Alle anderen Skills dieses Plugins:
 
 - `methodenlehre-buergerliches-recht-allgemein` — Workflow- und Triage-Skill.
-- `methodenlehre-anwenden` — Praxis-Skill fuer Fallpruefung.
+- `methodenlehre-anwenden` — Praxis-Skill für Fallpruefung.
 - `savigny-vier-auslegungsmethoden` — Grundkanon.
 - `wortlaut-grammatikalische-auslegung`, `systematische-auslegung`, `historische-auslegung`, `teleologische-auslegung` — Einzelmethoden.
 - `verfassungs-und-unionsrechtskonforme-auslegung` — Querschnittskanones.
@@ -175,7 +175,6 @@ Alle anderen Skills dieses Plugins:
 - §§ 133, 138, 157, 242, 280, 311, 433, 437, 823, 826, 985, 1004, 1626 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

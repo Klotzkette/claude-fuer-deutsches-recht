@@ -6,15 +6,12 @@ description: "Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit:
 # Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
 
 ## Fachkern: Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
-- **Spezialgegenstand:** Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Sozialversicherungsbeiträge, Subunternehmerketten, Lohnunterlagen und Einziehung
 
@@ -40,6 +37,14 @@ Dieser Abschnitt bearbeitet **Fachkern: Arbeitsstrafrecht: § 266a StGB, MiLoG u
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 266a Abs. 1 StGB (Arbeitnehmeranteile)
+- § 266a Abs. 6 StGB (tätige Reue)
+- BGHSt 47, 318 (Vorsatz und Zahlungsfähigkeit)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -7,10 +7,10 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 ## Arbeitsbereich
 
-**Wohngeld Wohngeldverwaltung Zeugenbeweis** ordnet den Fall über die tragenden Prüffelder: Wohngeld nach dem Wohngeldgesetz (WoGG), Zeugen vor dem Sozialgericht, Zugunstenantrag nach § 44 SGB X. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Wohngeld Wohngeldverwaltung Zeugenbeweis** ordnet den Fall über die tragenden Prüfungslinien: Wohngeld nach dem Wohngeldgesetz (WoGG), Zeugen vor dem Sozialgericht, Zugunstenantrag nach § 44 SGB X. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wohngeld-wohngeldverwaltung` | Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster. |
 | `zeugenbeweis-sozialgericht-373-zpo-analog` | Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt. |
@@ -19,12 +19,12 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wohngeld-wohngeldverwaltung`
 
@@ -40,13 +40,12 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Anspruch
 
 § 3 WoGG:
 
-- Mietzuschuss fuer Mieter.
-- Lastenzuschuss fuer Eigentuemer.
+- Mietzuschuss für Mieter.
+- Lastenzuschuss für Eigentuemer.
 
 ## Voraussetzungen
 
@@ -98,10 +97,9 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Manchmal weiss eine andere Person etwas Wichtiges fuer Ihre Sache. Diese Person kann als Zeuge / Zeugin auftreten. Diese Skill zeigt, wann das Sinn macht und wie Sie das beantragen.
+Manchmal weiss eine andere Person etwas Wichtiges für Ihre Sache. Diese Person kann als Zeuge / Zeugin auftreten. Diese Skill zeigt, wann das Sinn macht und wie Sie das beantragen.
 
 ## In einfacher Sprache
 
@@ -109,7 +107,7 @@ Andere Menschen koennen erzaehlen, was sie gesehen haben. Das nennt man Zeugen. 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben Personen, die etwas Wichtiges fuer Sie wissen.
+- Sie haben Personen, die etwas Wichtiges für Sie wissen.
 - Sie wollen wissen, wie Sie diese benennen.
 - Sie ueberlegen, ob ein Zeuge die Sache klaeren kann.
 
@@ -126,7 +124,7 @@ Andere Menschen koennen erzaehlen, was sie gesehen haben. Das nennt man Zeugen. 
 - **§ 376 ZPO analog** — Auslagen / Verdienstausfall.
 - **§§ 383, 384 ZPO analog** — Zeugnisverweigerungsrecht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann lohnt sich Zeugenbeweis?
 
@@ -170,10 +168,10 @@ Sie koennen mehrere Zeugen benennen. Jeder mit klarem Beweisthema.
 - Belehrt ueber Wahrheitspflicht.
 - Stellt Fragen zum Beweisthema.
 - Sie koennen erlaeutern, was Sie noch wissen wollen.
-- Behoerde kann fragen.
+- Behörde kann fragen.
 - Protokoll wird angefertigt.
 
-### Schritt 7 — Auslagen-Erstattung fuer den Zeugen
+### Schritt 7 — Auslagen-Erstattung für den Zeugen
 
 Zeuge bekommt aus der Staatskasse (JVEG):
 
@@ -206,8 +204,7 @@ Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze fuer Zeugenentschaedigung pruefen.
-
+Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigung pruefen.
 
 ## Qualitäts-Hardening
 
@@ -231,7 +228,6 @@ Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze fuer Zeugenentschaedigu
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Anwendungsfall
 
 Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen zu Unrecht nicht erhalten oder zu Unrecht erstattet. § 44 SGB X ermoeglicht Korrektur im Nachhinein.
@@ -253,7 +249,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 ## Verhaeltnis zum Widerspruch
 
-- Widerspruch ist die regelmaessige Korrekturschiene.
+- Widerspruch ist die regelmäßige Korrekturschiene.
 - Zugunstenantrag tritt erst nach Bestandskraft.
 
 ## Vorlage
@@ -281,7 +277,6 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 

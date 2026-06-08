@@ -1,19 +1,19 @@
 ---
 name: strafrecht-urheberrecht-urhg-108a-gewerblich
-description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur, Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur, Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Urheberrecht Urhg 108a Gewerblich
 
 ## Arbeitsbereich
 
-**Urheberrecht Urhg 108a Gewerblich** ordnet den Fall über die tragenden Prüffelder: Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Urheberrecht Urhg 108a Gewerblich** ordnet den Fall über die tragenden Prüfungslinien: Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe` | Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG. Lichtbildner Tontraegerhersteller Sendeunternehmen Filmhersteller Datenbankhersteller ausuebende Kuenstler. Verwertung Vervielfaeltigung Verbreitung ohne Einwilligung. Strafrahmen bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Abgrenzung zu Paragraph 106 UrhG. Verteidigungsstrategien Schutzfrist Beweis der Inhaberschaft. |
-| `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich` | Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmaessigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle. |
+| `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich` | Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmäßigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle. |
 | `strafrecht-spezial-urheberrecht-108b-urhg-tpm` | Unerlaubte Eingriffe in technische Schutzmassnahmen und zur Rechtewahrnehmung erforderliche Informationen nach Paragraph 108b UrhG. Umgehung von DRM Kopierschutz CSS DVD-Schutz Streaming-Verschluesselung. Strafrahmen bis 1 Jahr Freiheitsstrafe gewerblich bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Privatgebrauchsausnahme. Verteidigung Vorsatz Bestimmungsmerkmal. |
 | `strafrecht-spezial-vergewaltigung-177-stgb` | Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst Nein. Sexueller Uebergriff Abs. 1; Regelbeispiele Abs. 2; sexuelle Noetigung Abs. 5; Qualifikationen Abs. 6 Vergewaltigung; Abs. 7 schwere sexuelle Noetigung; Abs. 8 schwere Vergewaltigung. Strafrahmenstufung. Praxisleitfaden Aussage gegen Aussage. |
 | `strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht` | Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB. Wartepflicht und Nachholobliegenheit. Vier Tatbestandsvarianten Absatz 1 Nummer 1 bis 2 und Absatz 2 Nummer 1 bis 2. Bagatellschaden-Streit. Taetige Reue Absatz 4. Verteidigung Vorsatz Unfallbegriff bedeutender Sachschaden Anwesenheit feststellungsbereiter Personen. |
@@ -25,12 +25,12 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
 
@@ -42,7 +42,7 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 
 Paragraph 108 UrhG schuetzt strafrechtlich die Rechte aus den Paragraphen 70 bis 87m UrhG, also die sogenannten verwandten Schutzrechte: Lichtbildner (Paragraph 72), ausuebender Kuenstler (Paragraphen 73 ff.), Tontraegerhersteller (Paragraph 85), Sendeunternehmen (Paragraph 87), Filmhersteller (Paragraph 94), Datenbankhersteller (Paragraph 87a). Anwendungsfall: Verkauf von Live-Mitschnitten ohne Einwilligung des Kuenstlers, Verbreitung von Pressefotos ohne Lizenz, Mitschnitt und Wiederveroeffentlichung von Rundfunksendungen, unerlaubte Uebernahme von Datenbankinhalten (Webscraping mit Weiterverwertung).
 
-Der Tatbestand parallelisiert Paragraph 106 UrhG, schuetzt aber nicht den Urheber selbst, sondern den Inhaber des verwandten Schutzrechts. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Gewerbsmaessige Begehung wird ueber Paragraph 108a UrhG erfasst (bis fuenf Jahre). Antragsdelikt nach Paragraph 109 UrhG mit Ausnahme besonderes oeffentliches Interesse.
+Der Tatbestand parallelisiert Paragraph 106 UrhG, schuetzt aber nicht den Urheber selbst, sondern den Inhaber des verwandten Schutzrechts. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Gewerbsmäßige Begehung wird ueber Paragraph 108a UrhG erfasst (bis fuenf Jahre). Antragsdelikt nach Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse.
 
 ## Tatbestand und Geltungsbereich
 
@@ -53,9 +53,9 @@ Tathandlung ist die unerlaubte Verwertung. Geschuetzte Rechte und typische Verle
 - **Paragraph 85 UrhG Tontraegerhersteller.** Mitschnitt einer Studioproduktion und Online-Vertrieb. Sampling-Faelle (BGH Metall auf Metall in Tateinheit mit Paragraph 106 UrhG, BVerfG zur Kunstfreiheit ist zivilrechtlich, nicht im Strafverfahren tragend).
 - **Paragraph 87 UrhG Sendeunternehmen.** Aufnahme und Wiederausstrahlung von TV- oder Radiosendungen.
 - **Paragraph 87a UrhG Datenbankhersteller.** Webscraping mit Uebernahme wesentlicher Teile einer Datenbank.
-- **Paragraph 94 UrhG Filmhersteller.** Vervielfaeltigung von Filmproduktionen ohne Lizenz, parallel zu Paragraph 106 UrhG fuer den Schutz des Filmwerks.
+- **Paragraph 94 UrhG Filmhersteller.** Vervielfaeltigung von Filmproduktionen ohne Lizenz, parallel zu Paragraph 106 UrhG für den Schutz des Filmwerks.
 
-Tatbestandsobjektiv: Vervielfaeltigung, Verbreitung oder oeffentliche Wiedergabe entgegen dem ausschliesslichen Verwertungsrecht des Berechtigten ohne dessen Einwilligung. Subjektiv Vorsatz, mindestens dolus eventualis. Versuch ist strafbar (Paragraph 108 Abs 2 UrhG).
+Tatbestandsobjektiv: Vervielfaeltigung, Verbreitung oder öffentliche Wiedergabe entgegen dem ausschliesslichen Verwertungsrecht des Berechtigten ohne dessen Einwilligung. Subjektiv Vorsatz, mindestens dolus eventualis. Versuch ist strafbar (Paragraph 108 Abs 2 UrhG).
 
 ## Strafantrag und Antragsbefugnis
 
@@ -67,8 +67,8 @@ Praxiswichtig: Der ausschliessliche Lizenznehmer ist umstritten antragsberechtig
 
 - **Schutzfristen pruefen.** Lichtbildner Paragraph 72 Abs 3 UrhG 50 Jahre nach Erscheinen oder Herstellung; Tontraeger Paragraph 85 Abs 3 UrhG 70 Jahre nach Erscheinen; ausuebender Kuenstler Paragraph 82 UrhG 70 Jahre; Sendeunternehmen Paragraph 87 Abs 3 UrhG 50 Jahre; Datenbank Paragraph 87d UrhG 15 Jahre ab Veroeffentlichung. Bei alten Aufnahmen ist die Schutzfrist die erste Verteidigungslinie.
 - **Inhaberschaftsnachweis verlangen.** Bei Verbreitung von Pressefotos ueber Bildagenturen muss die Anzeigeerstatter-Agentur die luekenlose Rechtekette belegen (Lichtbildner-Vertrag, Uebertragung, Sublizenz). Fehlt eine Stufe, fehlt die Antragsberechtigung.
-- **Zitatfreiheit Paragraph 51 UrhG.** Bei Verwendung in journalistischem Kontext, in Rezensionen, in wissenschaftlichen Arbeiten pruefen, ob Zitatzweck und Belegfunktion gegeben sind. Schranke gilt auch fuer verwandte Schutzrechte (Paragraph 51 UrhG iVm den verwandten Schutzrechtsabschnitten).
-- **Privatkopie Paragraph 53 UrhG.** Bei Tontraeger- und Bildmitschnitten fuer den privaten Gebrauch greift die Schranke, solange die Vorlage nicht offensichtlich rechtswidrig hergestellt oder oeffentlich zugaenglich gemacht wurde.
+- **Zitatfreiheit Paragraph 51 UrhG.** Bei Verwendung in journalistischem Kontext, in Rezensionen, in wissenschaftlichen Arbeiten pruefen, ob Zitatzweck und Belegfunktion gegeben sind. Schranke gilt auch für verwandte Schutzrechte (Paragraph 51 UrhG iVm den verwandten Schutzrechtsabschnitten).
+- **Privatkopie Paragraph 53 UrhG.** Bei Tontraeger- und Bildmitschnitten für den privaten Gebrauch greift die Schranke, solange die Vorlage nicht offensichtlich rechtswidrig hergestellt oder oeffentlich zugaenglich gemacht wurde.
 - **Datenbank-Sonderregel.** Paragraph 87b UrhG schuetzt nur wesentliche Teile oder die wiederholte und systematische Entnahme unwesentlicher Teile. Quantitatives und qualitatives Kriterium streng pruefen.
 
 ## Trade-off-Matrix
@@ -132,13 +132,13 @@ Strafrahmen Paragraph 108 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 
 ## 2. `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
 
-**Fokus:** Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmaessigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle.
+**Fokus:** Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmäßigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle.
 
-# Gewerbsmaessige unerlaubte Verwertung nach Paragraph 108a UrhG
+# Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG
 
 ## Worum geht es
 
-Paragraph 108a UrhG ist die Qualifikation der Grundtatbestaende Paragraph 106 und Paragraph 108 UrhG fuer gewerbsmaessiges Handeln. Anwendungsfaelle: Betreiber illegaler Streaming-Plattformen mit Werbeeinnahmen, gewerbliche Bootleg-Presser, organisierte Filesharing-Strukturen mit Mitgliedsbeitraegen, kommerziell gefuehrte Plattformen fuer Software-Cracks. Auch der "gewerbliche Anwender" einer Raubkopien-Datenbank im eigenen Geschaeftsbetrieb kommt in Betracht.
+Paragraph 108a UrhG ist die Qualifikation der Grundtatbestaende Paragraph 106 und Paragraph 108 UrhG für gewerbsmäßiges Handeln. Anwendungsfaelle: Betreiber illegaler Streaming-Plattformen mit Werbeeinnahmen, gewerbliche Bootleg-Presser, organisierte Filesharing-Strukturen mit Mitgliedsbeitraegen, kommerziell gefuehrte Plattformen für Software-Cracks. Auch der "gewerbliche Anwender" einer Raubkopien-Datenbank im eigenen Geschaeftsbetrieb kommt in Betracht.
 
 Strafrahmen drei Monate bis fuenf Jahre Freiheitsstrafe; Geldstrafe nicht moeglich (vgl. Wortlaut). Wesentlicher Unterschied zu Paragraph 106 UrhG: Es ist kein Antragsdelikt, sondern Offizialdelikt. Die Staatsanwaltschaft verfolgt von Amts wegen, sobald der Anfangsverdacht der Gewerbsmaessigkeit besteht. Damit entfaellt die Strafantragsfrist Paragraph 77b StGB.
 
@@ -153,7 +153,7 @@ Indikatoren in der Praxis:
 - Mehrere Mitarbeiter, Mitvertraege, Buchhaltung.
 - Organisationsgrad mit Lager, Versand, Buchhaltung.
 
-Tathandlungen sind identisch zu Paragraphen 106 / 108 UrhG (Vervielfaeltigung, Verbreitung, oeffentliche Wiedergabe). Versuch strafbar (Paragraph 108a iVm Paragraph 106 Abs 2 UrhG fuer Paragraph 106; Paragraph 108 Abs 2 UrhG fuer Paragraph 108).
+Tathandlungen sind identisch zu Paragraphen 106 / 108 UrhG (Vervielfaeltigung, Verbreitung, öffentliche Wiedergabe). Versuch strafbar (Paragraph 108a iVm Paragraph 106 Abs 2 UrhG für Paragraph 106; Paragraph 108 Abs 2 UrhG für Paragraph 108).
 
 ## Strafantrag und Antragsbefugnis
 
@@ -161,7 +161,7 @@ Tathandlungen sind identisch zu Paragraphen 106 / 108 UrhG (Vervielfaeltigung, V
 
 Praxisrelevant: Die Strafanzeige der Rechteinhaber ist trotzdem das uebliche Ausloesemoment des Ermittlungsverfahrens. Der Rechteinhaber kann ueber Strafanzeige nach Paragraph 158 StPO mit aufbereiteten Beweismitteln (Test-Kaeufe, Plattform-Logs, Werbeschaltungen) den Anfangsverdacht der Gewerbsmaessigkeit substantiieren.
 
-Nebenklageberechtigung: Paragraph 395 StPO sieht keine Nebenklageberechtigung fuer Paragraph 108a UrhG vor. Adhaesionsverfahren Paragraph 403 StPO bleibt moeglich.
+Nebenklageberechtigung: Paragraph 395 StPO sieht keine Nebenklageberechtigung für Paragraph 108a UrhG vor. Adhaesionsverfahren Paragraph 403 StPO bleibt moeglich.
 
 ## Praktikertipps der Verteidigung
 
@@ -231,8 +231,7 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 - Paragraphen 9, 25, 27, 49 StGB Anwendungsbereich, Mittaeterschaft, Beihilfe, Strafrahmenverschiebung.
 - Paragraph 257c StPO Verstaendigung; Paragraph 153a StPO Einstellung gegen Auflage.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
-- VO (EU) 608/2013 (Produktpiraterieverordnung) fuer Zollverfahren; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
-
+- VO (EU) 608/2013 (Produktpiraterieverordnung) für Zollverfahren; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
 
 ## Qualitäts-Hardening
 
@@ -252,7 +251,7 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 
 Paragraph 108b UrhG sanktioniert die Umgehung wirksamer technischer Schutzmassnahmen (TPM = Technical Protection Measures) sowie das Entfernen oder Veraendern von Informationen zur Rechtewahrnehmung (RMI = Rights Management Information). Hintergrund ist die Umsetzung der Informationsgesellschaft-Richtlinie 2001/29/EG, Art. 6 und 7. Anwendungsfaelle: Knacken eines CSS-DVD-Kopierschutzes, Umgehung der HDCP-Verschluesselung bei Streaming, Cracken von Software-Aktivierungssystemen, Entfernen digitaler Wasserzeichen aus Bildern, Manipulation von Metadaten zur Verschleierung der Rechteinhaberschaft.
 
-Strafrahmen Paragraph 108b Abs 1 UrhG: bis ein Jahr Freiheitsstrafe oder Geldstrafe. Qualifikation Paragraph 108b Abs 3 UrhG bei gewerbsmaessigem Handeln: bis drei Jahre. Antragsdelikt nach Paragraph 109 UrhG mit Ausnahme besonderes oeffentliches Interesse.
+Strafrahmen Paragraph 108b Abs 1 UrhG: bis ein Jahr Freiheitsstrafe oder Geldstrafe. Qualifikation Paragraph 108b Abs 3 UrhG bei gewerbsmäßigem Handeln: bis drei Jahre. Antragsdelikt nach Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse.
 
 ## Tatbestand und Geltungsbereich
 
@@ -275,7 +274,7 @@ Bei gewerblicher Tatbegehung Paragraph 108b Abs 3 UrhG bleibt es nach hM beim An
 
 ## Praktikertipps der Verteidigung
 
-- **Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG.** Wenn Mandant das DVD-Kopierschutzsystem nur fuer eine eigene Backupkopie umgangen hat, ist Paragraph 108b Abs 1 Nr 1 UrhG nicht erfuellt. Wichtig: Ausnahme gilt nur fuer Nr 1, nicht fuer Nr 2 (Entfernung der RMI bleibt strafbar).
+- **Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG.** Wenn Mandant das DVD-Kopierschutzsystem nur für eine eigene Backupkopie umgangen hat, ist Paragraph 108b Abs 1 Nr 1 UrhG nicht erfuellt. Wichtig: Ausnahme gilt nur für Nr 1, nicht für Nr 2 (Entfernung der RMI bleibt strafbar).
 - **Wirksamkeit der Schutzmassnahme bestreiten.** Schutzmassnahme muss "wirksam" sein. Eine triviale Massnahme (z. B. einfacher Hinweis ohne technische Sperre) ist nicht wirksam. Auch eine Schutzmassnahme, die durch Routineoperation umgangen wird (z. B. nur ein vergessenes Default-Passwort), kann Wirksamkeit verlieren.
 - **Bestimmungserfordernis.** Schutzmassnahme muss "im normalen Betrieb dazu bestimmt" sein. Massnahmen, die primaer anderen Zwecken dienen (Datenintegritaet, Kompatibilitaet) und nur akzessorisch Schutzfunktionen haben, koennten ausser Reichweite liegen.
 - **Vorsatz bei Werkzeugen.** Bei Verwendung eines im Internet frei zugaenglichen Crackers (z. B. open-source Tool) kann der Vorsatz hinsichtlich der Wirksamkeit der Schutzmassnahme erschuettert sein, wenn der Mandant es als legales Backup-Werkzeug angesehen hat.
@@ -287,7 +286,7 @@ Bei gewerblicher Tatbegehung Paragraph 108b Abs 3 UrhG bleibt es nach hM beim An
 | --- | --- | --- |
 | Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG einwenden; nur dann tragfaehig, wenn Tat ausschliesslich privat und keine Verbreitung erfolgte | Bei geringer Tatfolge Einstellung nach Paragraph 153 oder 153a StPO durch StA anregen; ggf. Geldauflage an Berechtigten | Bei klaren Privatgebrauchs-Faellen: Pfad A. Wenn Privatgebrauchsausnahme nicht greift (Verbreitung erfolgte) und Tatfolge gering: Pfad B. Bei gewerblichem Vertrieb von Umgehungswerkzeugen: vollumfaengliche Verteidigung. |
 
-Praxistipp: Bei der Tat einer einzelnen Umgehung ohne Verbreitung ist die Privatgebrauchsausnahme das wichtigste Verteidigungsargument; sie ist bisher seit Einfuehrung 2003 in der Praxis eher selten in der Rechtsprechung aufgegriffen worden, was Anlass fuer sorgfaeltige Live-Verifikation der aktuellen Linie ist.
+Praxistipp: Bei der Tat einer einzelnen Umgehung ohne Verbreitung ist die Privatgebrauchsausnahme das wichtigste Verteidigungsargument; sie ist bisher seit Einfuehrung 2003 in der Praxis eher selten in der Rechtsprechung aufgegriffen worden, was Anlass für sorgfaeltige Live-Verifikation der aktuellen Linie ist.
 
 ## Konkurrenzen
 
@@ -308,7 +307,7 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten einzuholen zum Beweis der Tatsache, dass der streitgegenstaendliche Kopierschutz CSS in der hier vorliegenden Konfiguration durch Standard-Konsumentensoftware ohne Spezialkenntnisse umgangen werden kann, so dass die Wirksamkeit der technischen Schutzmassnahme nach Paragraph 95a Abs 2 UrhG nicht gegeben ist."
 
-**Einlassungssnippet:** "Ich habe das Programm X im Jahr 2024 aus einem oeffentlichen open-source-Repository heruntergeladen und im Glauben angewendet, es handele sich um ein legales Backup-Werkzeug. Eine bewusste Umgehung einer wirksamen Schutzmassnahme war nicht beabsichtigt."
+**Einlassungssnippet:** "Ich habe das Programm X im Jahr 2024 aus einem öffentlichen open-source-Repository heruntergeladen und im Glauben angewendet, es handele sich um ein legales Backup-Werkzeug. Eine bewusste Umgehung einer wirksamen Schutzmassnahme war nicht beabsichtigt."
 
 ## Verfahrensschritte im Mandat
 
@@ -359,7 +358,7 @@ Strafrahmen:
 - **§ 177 Abs. 8 StGB Schwere Tatfolgen / Bandentat:** Freiheitsstrafe nicht unter fuenf Jahren.
 - **Minder schwerer Fall § 177 Abs. 9 StGB:** Strafrahmenverschiebung mit teils Geldstrafe.
 
-Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle Noetigung **mit Gewalt, Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben oder Ausnutzung einer schutzlosen Lage**. Reine Willensueberlagerung ohne diese Mittel war nicht erfasst. Bei Altfaellen (Tat vor 10.11.2016) gilt § 177 StGB a.F. (§ 2 Abs. 1 StGB).
+Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle Noetigung **mit Gewalt, Drohung mit gegenwaertiger Gefahr für Leib oder Leben oder Ausnutzung einer schutzlosen Lage**. Reine Willensueberlagerung ohne diese Mittel war nicht erfasst. Bei Altfaellen (Tat vor 10.11.2016) gilt § 177 StGB a.F. (§ 2 Abs. 1 StGB).
 
 ## Tatbestand und Auslegung
 
@@ -370,10 +369,10 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 - Nr. 1: Opfer aus koerperlichen oder psychischen Gruenden unfaehig, Willen zu bilden oder zu aeussern (Behinderung, schwere Krankheit).
 - Nr. 2: Opfer aufgrund seines koerperlichen oder psychischen Zustands erheblich eingeschraenkt (Schlaf, Trunkenheit).
 - Nr. 3: Opfer wird vom Taeter ueberrascht.
-- Nr. 4: Opfer befuerchtet ein empfindliches Uebel.
+- Nr. 4: Opfer befürchtet ein empfindliches Uebel.
 - Nr. 5: Drohung mit empfindlichem Uebel oder Ausnutzen einer Lage, in der das Opfer Gewalt oder Drohung schutzlos ausgeliefert ist.
 
-**§ 177 Abs. 5 StGB:** Sexuelle Noetigung mit Gewalt, Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben oder Ausnutzung schutzloser Lage (klassisches Gesicht des alten § 177 StGB a.F.).
+**§ 177 Abs. 5 StGB:** Sexuelle Noetigung mit Gewalt, Drohung mit gegenwaertiger Gefahr für Leib oder Leben oder Ausnutzung schutzloser Lage (klassisches Gesicht des alten § 177 StGB a.F.).
 
 **§ 177 Abs. 6 StGB Vergewaltigung (Regelbeispiel):** Sexuelle Handlung verbunden mit dem Eindringen in den Koerper (vaginal, oral, anal). **Beischlaef-aehnliche Tat.** Wird bei Vorliegen der Abs. 1, Abs. 2 oder Abs. 5 als Regelbeispiel besonders schwerer Fall gewertet; Strafrahmen nicht unter zwei Jahren.
 
@@ -394,7 +393,7 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 
 **Sexuelle Handlung:** § 184h Nr. 1 StGB: von einigem Gewicht hinsichtlich des in § 177 StGB geschuetzten Rechtsguts (sexueller Bezug; nicht nur fluechtige Beruehrung). Auch ueber Bekleidung, ohne Eindringen.
 
-**Erkennbarer entgegenstehender Wille:** Aeusserung des Opfers, die fuer einen objektiven Dritten als Ablehnung erkennbar ist. Verbale Ablehnung, Kopfschuetteln, Wegdrehen, Schubsen. **Keine Erforderlichkeit von Widerstand mehr** seit Reform 2016.
+**Erkennbarer entgegenstehender Wille:** Aeusserung des Opfers, die für einen objektiven Dritten als Ablehnung erkennbar ist. Verbale Ablehnung, Kopfschuetteln, Wegdrehen, Schubsen. **Keine Erforderlichkeit von Widerstand mehr** seit Reform 2016.
 
 **Subjektiver Tatbestand:** Vorsatz hinsichtlich der sexuellen Handlung und hinsichtlich des entgegenstehenden Willens. Tatbestandsirrtum nach § 16 StGB moeglich.
 
@@ -402,7 +401,7 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 
 - **Anwendbares Recht pruefen:** Tatzeitpunkt entscheidet (§ 2 Abs. 1 StGB). Vor 10.11.2016: § 177 StGB a.F.; ab dann: § 177 StGB n.F.
 - **Erkennbarkeit des entgegenstehenden Willens:** Bei nicht eindeutiger Aeusserung kann Tatbestandsirrtum (§ 16 StGB) vorliegen. Verteidigung muss diesen Punkt strukturiert herausarbeiten – ohne in Opferverdaechtigung zu verfallen.
-- **Aussage gegen Aussage:** Klassische Konstellation. **Glaubwuerdigkeitspruefung nach staendiger BGH-Rechtsprechung:** Nullhypothese – Aussage wird ohne Vorannahme analysiert; Realkennzeichen (Detailreichtum, Konstanz, Kompliziertheit, ungewoehnliche Einzelheiten) sprechen fuer Glaubhaftigkeit. **Aussagepsychologisches Sachverstaendigengutachten** bei Komplexfaellen.
+- **Aussage gegen Aussage:** Klassische Konstellation. **Glaubwuerdigkeitspruefung nach staendiger BGH-Rechtsprechung:** Nullhypothese – Aussage wird ohne Vorannahme analysiert; Realkennzeichen (Detailreichtum, Konstanz, Kompliziertheit, ungewoehnliche Einzelheiten) sprechen für Glaubhaftigkeit. **Aussagepsychologisches Sachverstaendigengutachten** bei Komplexfaellen.
 - **Forensische Spuren:** DNA, Verletzungsspuren, Tatortspuren. Auch fehlende Spuren koennen aussagekraeftig sein.
 - **Vorbeziehung:** Bei vorbestehender Beziehung Indizienlage komplexer; Verteidigung muss die konkrete Tatdynamik darstellen.
 - **§ 184h StGB Erheblichkeit:** Bei Bagatell-Handlungen Eingang in § 184i StGB sexuelle Belaestigung pruefen (geringerer Strafrahmen).
@@ -447,7 +446,7 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 > Der Angeklagte hat mit der Geschaedigten einen einvernehmlichen sexuellen Kontakt gehabt. Es gab in der Tatnacht keinen erkennbaren Widerspruch der Geschaedigten. Die Geschaedigte hat sich freiwillig zum Angeklagten begeben, gemeinsam mit ihm Alkohol konsumiert und ist ihm in das Schlafzimmer gefolgt. Erst am naechsten Morgen hat die Geschaedigte die Situation als Uebergriff geschildert.
 
 **Hilfsbeweisantrag (Glaubhaftigkeitsgutachten):**
-> Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Glaubhaftigkeit der Aussage der Geschaedigten einzuholen. Beweisthema: Die Aussage der Geschaedigten erfuellt nicht die Realkennzeichen, die nach staendiger BGH-Rechtsprechung fuer die Annahme der Glaubhaftigkeit erforderlich sind.
+> Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Glaubhaftigkeit der Aussage der Geschaedigten einzuholen. Beweisthema: Die Aussage der Geschaedigten erfuellt nicht die Realkennzeichen, die nach staendiger BGH-Rechtsprechung für die Annahme der Glaubhaftigkeit erforderlich sind.
 
 **Plaedoyer-Snippet:**
 > Bei Aussage gegen Aussage ist nach staendiger BGH-Rechtsprechung die Nullhypothese anzuwenden. Die Aussage der Geschaedigten weist Inkonsistenzen, Detailarmut und atypisches Verhalten auf. Das Vertrauenswuerdigkeitsmerkmal "fehlende Belastungstendenz" ist nicht zu bejahen. Es bleibt der Zweifelsgrundsatz iSd § 261 StPO. Freispruch ist die Folge.
@@ -520,7 +519,7 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 - **Wartepflicht erfuellt — Bestreiten als Pfad B.** Mandant hat gewartet, Zeugen waren keine da — Anwesenheit am Unfallort dokumentiert (Standort-Daten, Kassenbon Tankstelle).
 - **Nachholobliegenheit Absatz 3 nach 24 Stunden.** Nachweis Anruf bei Polizei oder Schadensmitteilung an Halter. Wenn unverzueglich gehandelt: Absatz 4 taetige Reue.
 - **Im OLG-Bezirk Bagatellgrenze klaeren.** OLG Hamm, OLG Stuttgart, OLG Bremen vertreten teils unterschiedliche Wertgrenzen.
-- **Vorsicht: Fahrerlaubnisentzug regelmaessig.** Schon Tatverdacht fuehrt zu vorlaeufigem Entzug Paragraph 111a StPO bei Schaden ueber 1500 Euro.
+- **Vorsicht: Fahrerlaubnisentzug regelmaessig.** Schon Tatverdacht fuehrt zu vorläufigem Entzug Paragraph 111a StPO bei Schaden ueber 1500 Euro.
 
 ## Trade-off-Matrix
 
@@ -563,7 +562,7 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 
 - Paragraph 142 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 69 StGB Entziehung Fahrerlaubnis; Paragraph 69a StGB Sperre; Regelvermutung Paragraph 69 Abs 2 Nr 3.
-- Paragraph 111a StPO vorlaeufige Entziehung.
+- Paragraph 111a StPO vorläufige Entziehung.
 - OLG-Rspr. zur Bagatellschwelle und zur Schwelle des "nicht bedeutenden Sachschadens" — uneinheitlich; nur ueber freie Quellen verifizieren.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - BGH staendige Rspr. zum Unfallbegriff und zum Vorsatzerfordernis.
@@ -578,7 +577,7 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 
 ## Worum geht es
 
-Paragraph 315c StGB ist das **konkrete Gefaehrdungsdelikt** des Strassenverkehrsstrafrechts. Bestraft wird, wer beim Fuehren eines Fahrzeugs durch alkohol- oder rauschmittelbedingte Fahruntuechtigkeit oder durch einen der sieben Verkehrsverstoesse aus Absatz 1 Nummer 2 eine konkrete Gefahr fuer Leib oder Leben eines anderen Menschen oder fuer fremde Sachen von bedeutendem Wert herbeifuehrt. Anders als bei Paragraph 316 StGB genuegt das blosse Fahren im fahruntuechtigen Zustand nicht; es muss ein Beinaheunfall hinzukommen.
+Paragraph 315c StGB ist das **konkrete Gefaehrdungsdelikt** des Strassenverkehrsstrafrechts. Bestraft wird, wer beim Fuehren eines Fahrzeugs durch alkohol- oder rauschmittelbedingte Fahruntuechtigkeit oder durch einen der sieben Verkehrsverstoesse aus Absatz 1 Nummer 2 eine konkrete Gefahr für Leib oder Leben eines anderen Menschen oder für fremde Sachen von bedeutendem Wert herbeifuehrt. Anders als bei Paragraph 316 StGB genuegt das blosse Fahren im fahruntuechtigen Zustand nicht; es muss ein Beinaheunfall hinzukommen.
 
 Anwendungsfaelle: Lkw-Fahrer mit 1.2 Promille verursacht Beinaheunfall an Ampel; Falschfahrer auf Autobahn; rechts ueberholendes Fahrzeug zwingt anderen zur Vollbremsung mit Blechschaden-Naehe. Gefahr von bedeutendem Wert wird in der Praxis bei rund 750 Euro angesetzt (uneinheitliche Schwelle in der Rspr.; je nach OLG zwischen 750 und 1500 Euro).
 
@@ -610,7 +609,7 @@ Konkrete Gefahr setzt eine Situation voraus, in der nur noch der Zufall den Scha
 
 ### Subjektiver Tatbestand
 
-Vorsatz hinsichtlich der Verkehrsverstoesse und mindestens Fahrlaessigkeit hinsichtlich der Gefahr (Vorsatz-Fahrlaessigkeit-Kombination); fuer Absatz 1 Nummer 2 zusaetzlich die innere Tatseite "grob verkehrswidrig und ruecksichtslos".
+Vorsatz hinsichtlich der Verkehrsverstoesse und mindestens Fahrlaessigkeit hinsichtlich der Gefahr (Vorsatz-Fahrlaessigkeit-Kombination); für Absatz 1 Nummer 2 zusaetzlich die innere Tatseite "grob verkehrswidrig und ruecksichtslos".
 
 ### Absatz 3 Fahrlaessigkeitsvariante
 
@@ -619,10 +618,10 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 ## Praktikertipps Verteidigung
 
 - **Gefahrnaehe rekonstruieren.** Lichtbilder, Bremsspuren, Zeugenaussagen. Polizeibericht enthaelt oft pauschale Wertungen; substantiierte Rekonstruktion kann den Beinaheunfall zur "blossen Behinderung" entkraeften.
-- **Ruecksichtslosigkeit bestreiten.** Subjektives Merkmal; der Mandant darf nicht "gleichgueltig gegen die Verkehrsbelange anderer" gehandelt haben. Plausible Erklaerung (Konzentrationsmangel, Sekundenschlaf, Notfall) entkraeftet.
+- **Rücksichtslosigkeit bestreiten.** Subjektives Merkmal; der Mandant darf nicht "gleichgueltig gegen die Verkehrsbelange anderer" gehandelt haben. Plausible Erklaerung (Konzentrationsmangel, Sekundenschlaf, Notfall) entkraeftet.
 - **Promille-Verteidigung bei Alkoholfall.** Bei Werten knapp ueber 1.1 Promille Messzeitpunkt klaeren; Rueckrechnung BAK auf Tatzeit; Sicherheitsabschlaege. Bei Wert unter 1.1 Promille relative Fahruntuechtigkeit nur mit Ausfallerscheinungen — diese muessen substantiiert dokumentiert sein.
 - **Schwelle "bedeutender Wert" pruefen.** Bei kleinen Schaeden (unter 750 Euro) kann der Tatbestand entfallen — dann nur Paragraph 316 StGB oder OWi nach Paragraph 24a StVG.
-- **Fahrerlaubnis verteidigen.** Schon das Verfahren fuehrt regelmaessig zur vorlaeufigen Entziehung nach Paragraph 111a StPO. Antrag auf Aussetzung der Vollziehung pruefen, wenn Gefahrnaehe oder Vorsatz wackelig.
+- **Fahrerlaubnis verteidigen.** Schon das Verfahren fuehrt regelmaessig zur vorläufigen Entziehung nach Paragraph 111a StPO. Antrag auf Aussetzung der Vollziehung pruefen, wenn Gefahrnaehe oder Vorsatz wackelig.
 
 ## Trade-off-Matrix
 
@@ -651,9 +650,9 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 
 **Schriftsatz-Snippet (Beinaheunfall bestreiten):** "Eine konkrete Gefahr im Sinne von Paragraph 315c Abs 1 StGB lag nicht vor. Der Zeuge X hat ausgesagt, er habe sein Fahrzeug ohne Vollbremsung lediglich um 10 km/h verlangsamt. Der Abstand zum Fahrzeug meines Mandanten habe stets mindestens 8 Meter betragen. Damit fehlt es an einem Beinaheunfall."
 
-**Antrag auf Aufhebung der vorlaeufigen Entziehung Paragraph 111a StPO:** "Es wird beantragt, den Beschluss vom DD.MM.JJJJ ueber die vorlaeufige Entziehung der Fahrerlaubnis aufzuheben. Es bestehen nicht mehr dringende Gruende fuer die Annahme, dass die Fahrerlaubnis entzogen wird, weil ..."
+**Antrag auf Aufhebung der vorläufigen Entziehung Paragraph 111a StPO:** "Es wird beantragt, den Beschluss vom DD.MM.JJJJ ueber die vorläufige Entziehung der Fahrerlaubnis aufzuheben. Es bestehen nicht mehr dringende Gruende für die Annahme, dass die Fahrerlaubnis entzogen wird, weil ..."
 
-**Einlassungs-Snippet:** "Ich habe das Stoppschild uebersehen, weil meine Aufmerksamkeit kurzzeitig von einem Wespenstich abgelenkt war. Ich habe das andere Fahrzeug sofort gesehen und gebremst; eine Gefaehrdung war fuer mich subjektiv nicht erkennbar."
+**Einlassungs-Snippet:** "Ich habe das Stoppschild uebersehen, weil meine Aufmerksamkeit kurzzeitig von einem Wespenstich abgelenkt war. Ich habe das andere Fahrzeug sofort gesehen und gebremst; eine Gefaehrdung war für mich subjektiv nicht erkennbar."
 
 ## Querverweise
 
@@ -668,13 +667,12 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 - Paragraph 315c StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 316 StGB als Auffangtatbestand.
 - Paragraph 69 StGB Entziehung der Fahrerlaubnis; Paragraph 69a StGB Sperre.
-- Paragraph 111a StPO vorlaeufige Entziehung.
+- Paragraph 111a StPO vorläufige Entziehung.
 - Paragraph 24a StVG Alkohol- und Drogenverstoss als OWi (subsidiaer).
 - BGH staendige Rspr. zur absoluten Fahruntuechtigkeit ab 1.1 Promille.
 - BGH staendige Rspr. zur konkreten Gefahr als Beinaheunfall.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -694,7 +692,7 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 
 Paragraph 315d StGB pona­lisiert seit der Reform 2017 verbotene Kraftfahrzeugrennen. Vorher war das Rennen lediglich Ordnungswidrigkeit nach Paragraph 29 StVO. Nach mehreren toedlichen Stadtrennen in Berlin und Koeln (2016) hat der Gesetzgeber das Verhalten in das Kernstrafrecht gehoben. Geschuetztes Rechtsgut: Sicherheit des Strassenverkehrs und Leib und Leben der Verkehrsteilnehmer.
 
-Anwendungsfaelle: zwei Fahrer auf Autobahn ueberholen sich gegenseitig mit ueber 200 km/h; Stadtrennen Kurfuerstendamm nachts; einzelner Fahrer mit "Renncharakter" wegen Polizeiflucht durch Innenstadt. Letztere Variante (Einzelrennen Nummer 2) ist die in der Praxis haeufigste und am staerksten kritisierte.
+Anwendungsfaelle: zwei Fahrer auf Autobahn ueberholen sich gegenseitig mit ueber 200 km/h; Stadtrennen Kurfürstendamm nachts; einzelner Fahrer mit "Renncharakter" wegen Polizeiflucht durch Innenstadt. Letztere Variante (Einzelrennen Nummer 2) ist die in der Praxis haeufigste und am staerksten kritisierte.
 
 ## Tatbestand und Auslegung
 
@@ -716,7 +714,7 @@ Vorsatz bezueglich der Renn- oder Hoechstgeschwindigkeitsabsicht. Die Hoechstges
 
 ### Absatz 2 konkrete Gefahr
 
-Qualifikation bei Eintritt einer konkreten Gefahr fuer Leib oder Leben eines anderen oder fuer fremde Sachen von bedeutendem Wert; Strafrahmen bis 5 Jahre.
+Qualifikation bei Eintritt einer konkreten Gefahr für Leib oder Leben eines anderen oder für fremde Sachen von bedeutendem Wert; Strafrahmen bis 5 Jahre.
 
 ### Absatz 5 Erfolgsqualifikation Todesfolge
 
@@ -807,7 +805,7 @@ Erfasst sind alle Fahrzeuge im Strassenverkehr, einschliesslich E-Scooter, Mofas
 
 ### Absolute Fahruntuechtigkeit ab 1.1 Promille
 
-Bei einer Blutalkoholkonzentration von 1.1 Promille oder mehr ist die Fahruntuechtigkeit unwiderleglich vermutet (BGH staendige Rspr. seit 1990). Es ist kein Gegenbeweis durch Alkoholgewoehnung oder Leistungstest moeglich. Die Grenze fuer Fahrradfahrer liegt bei 1.6 Promille.
+Bei einer Blutalkoholkonzentration von 1.1 Promille oder mehr ist die Fahruntuechtigkeit unwiderleglich vermutet (BGH staendige Rspr. seit 1990). Es ist kein Gegenbeweis durch Alkoholgewoehnung oder Leistungstest moeglich. Die Grenze für Fahrradfahrer liegt bei 1.6 Promille.
 
 ### Relative Fahruntuechtigkeit ab 0.3 Promille
 
@@ -830,7 +828,7 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 - **Promille-Wert kritisch pruefen.** Atemalkohol-Voranzeige ist nicht beweiserheblich; Blutprobe ist ausschlaggebend. Messmethode (Headspace-Gaschromatographie + ADH-Methode) ueberpruefen. Doppelmessung erforderlich.
 - **Rueckrechnung auf Tatzeit.** BAK steigt nach Konsum noch an (Resorptionsphase bis 60 Minuten); Rueckrechnung vom Messzeitpunkt zur Tatzeit ist erforderlich. Faustregel: 0.1 Promille pro Stunde Abbau, dazu Sicherheitszuschlag.
 - **Nachtrunk-Einrede.** Mandant hat nach der Fahrt getrunken? Detailrekonstruktion mit Zeugen, Belegen, Trinkmenge.
-- **Begleitschuetzungen — Trinkende.** Der Aufnahmezeitpunkt vor und nach der Fahrt klaeren; falls Anhaltspunkte fuer "verfaelschende Begleiterscheinungen" (Mundalkohol-Restwert, Medikamenteneinnahme) bestehen.
+- **Begleitschuetzungen — Trinkende.** Der Aufnahmezeitpunkt vor und nach der Fahrt klaeren; falls Anhaltspunkte für "verfaelschende Begleiterscheinungen" (Mundalkohol-Restwert, Medikamenteneinnahme) bestehen.
 - **Vorsatz angreifen.** Bei knappem Wert ueber 1.1 Promille: Mandant haette wirklich erkennen muessen, dass er fahruntuechtig ist? Bei "Restalkohol am Morgen" oft nur Fahrlaessigkeit nach Absatz 2.
 - **Berufstaetigkeit als Argument gegen Sperrfrist.** Kein Argument gegen Schuldspruch, aber gegen Hoehe der Sperrfrist nach Paragraph 69a StGB.
 
@@ -879,12 +877,11 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 - BGH staendige Rspr. seit 1990 zur absoluten Fahruntuechtigkeit ab 1.1 Promille bei Kraftfahrzeugen.
 - BGH staendige Rspr. zur absoluten Fahruntuechtigkeit ab 1.6 Promille bei Fahrraedern.
 - Paragraph 69 StGB Entziehung; Paragraph 69a StGB Sperre.
-- Paragraph 111a StPO vorlaeufige Entziehung.
+- Paragraph 111a StPO vorläufige Entziehung.
 - Paragraph 24a StVG OWi-Tatbestand bei Alkohol ab 0.5 Promille.
 - KCanG Cannabisgesetz mit aktuellem THC-Grenzwert (siehe Fachmodul).
 - Fahrerlaubnis-Verordnung (FeV) zur Eignungsbegutachtung.
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen.
-
 
 ## Qualitäts-Hardening
 
@@ -902,7 +899,7 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 
 ## Worum geht es
 
-Paragraph 323a StGB ist der Auffangtatbestand fuer den Fall, dass der Taeter im Zustand der **Schuldunfaehigkeit nach Paragraph 20 StGB** (regelmaessig durch Alkohol oder Rauschmittel) eine rechtswidrige Tat begeht. Geschuetzt ist die allgemeine Rechtsordnung vor den Risiken berauschter Personen.
+Paragraph 323a StGB ist der Auffangtatbestand für den Fall, dass der Taeter im Zustand der **Schuldunfaehigkeit nach Paragraph 20 StGB** (regelmaessig durch Alkohol oder Rauschmittel) eine rechtswidrige Tat begeht. Geschuetzt ist die allgemeine Rechtsordnung vor den Risiken berauschter Personen.
 
 Anwendungsfaelle: Mandant trinkt sich derart in den Rausch, dass er schuldunfaehig wird, und faehrt dann Auto, schlaegt oder zerstoert; im Strafverfahren wegen Trunkenheit am Steuer kann nicht festgestellt werden, ob er bei Tatbegehung schuldfaehig war — dann tritt Paragraph 323a StGB als Auffangtatbestand ein. Die Norm ist auch ein wichtiges Sicherheitsnetz, wenn die Verteidigung mit Schuldunfaehigkeit argumentiert.
 
@@ -926,7 +923,7 @@ Der Vorsatz oder die Fahrlaessigkeit bezieht sich nur auf das Sich-Berauschen, n
 
 ### Strafrahmen-Deckelung Absatz 2
 
-Strafrahmen darf das Strafmass, das fuer die Rauschtat angedroht ist, nicht ueberschreiten. Bedeutet: Wer im Vollrausch eine Beleidigung begeht, kann nicht mehr Strafe bekommen als fuer Paragraph 185 StGB angedroht (= bis ein Jahr). Wer im Vollrausch eine schwere Koerperverletzung begeht, kann bis zur angedrohten Strafe fuer Paragraph 226 StGB bestraft werden.
+Strafrahmen darf das Strafmass, das für die Rauschtat angedroht ist, nicht ueberschreiten. Bedeutet: Wer im Vollrausch eine Beleidigung begeht, kann nicht mehr Strafe bekommen als für Paragraph 185 StGB angedroht (= bis ein Jahr). Wer im Vollrausch eine schwere Koerperverletzung begeht, kann bis zur angedrohten Strafe für Paragraph 226 StGB bestraft werden.
 
 ### Antragserfordernis Absatz 3
 
@@ -935,11 +932,11 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 ## Praktikertipps Verteidigung
 
 - **Schuldunfaehigkeit Paragraph 20 StGB beweisen — und damit Paragraph 323a StGB ausloesen.** Bei klarer Schuldunfaehigkeit ist Hauptdelikt nicht strafbar; nur Paragraph 323a StGB tritt ein. Die Strafrahmen-Deckelung kann erhebliche Entlastung bringen.
-- **Vorsicht: Doppelnatur des Promillearguments.** Hohe Promille hilft fuer Paragraph 20 StGB, aktiviert aber Paragraph 323a StGB. Strafzumessung kann insgesamt nicht milder werden, manchmal nur anders.
+- **Vorsicht: Doppelnatur des Promillearguments.** Hohe Promille hilft für Paragraph 20 StGB, aktiviert aber Paragraph 323a StGB. Strafzumessung kann insgesamt nicht milder werden, manchmal nur anders.
 - **Actio libera in causa pruefen.** Wenn Mandant sich vorsaetzlich besoffen hat, um Tat begehen zu koennen ("Mut antrinken"), greift actio libera in causa und Paragraph 323a StGB tritt zurueck; Mandant ist voll wegen Hauptdelikt strafbar. Das ist meist unguenstig.
 - **Sachverstaendigengutachten zur Schuldfaehigkeit.** Sachverstaendiger muss psychiatrisch-toxikologisch begutachten; Verteidigung sollte Begutachtungsfragen aktiv formulieren.
 - **Massregeln Paragraph 64 StGB Entziehungsanstalt.** Bei Trunksucht oder Drogensucht im Vollrausch kommt Massregel Paragraph 64 StGB in Betracht; Verteidiger sollte taktisch entscheiden, ob Massregel statt Haftstrafe als guenstiger gilt.
-- **Erinnerungsluecken.** Mandant erinnert sich nicht — Indiz fuer Schuldunfaehigkeit, aber nicht zwingend.
+- **Erinnerungsluecken.** Mandant erinnert sich nicht — Indiz für Schuldunfaehigkeit, aber nicht zwingend.
 
 ## Trade-off-Matrix
 
@@ -958,7 +955,7 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 ## Strafzumessung und Folgen
 
 - **Strafrahmen Absatz 1:** Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
-- **Strafrahmen Absatz 2 Deckelung:** nicht hoeher als die fuer die Rauschtat angedrohte Strafe.
+- **Strafrahmen Absatz 2 Deckelung:** nicht hoeher als die für die Rauschtat angedrohte Strafe.
 - **Fahrerlaubnisentzug Paragraph 69 StGB**, wenn Rauschtat eine Verkehrsdelikt war.
 - **Massregel Paragraph 64 StGB Entziehungsanstalt** moeglich bei Hang zu Alkohol oder Drogen.
 - **Massregel Paragraph 63 StGB** psychiatrisches Krankenhaus moeglich bei dauerhafter Gefaehrlichkeit.
@@ -967,11 +964,11 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 
 ## Mustertexte
 
-**Schriftsatz-Snippet (Schuldunfaehigkeit anregen):** "Es wird angeregt, ein Sachverstaendigengutachten zur Schuldfaehigkeit meines Mandanten zur Tatzeit einzuholen. Die festgestellte BAK von 3.2 Promille spricht nach BGH staendige Rspr. fuer eine sichere Schuldunfaehigkeit nach Paragraph 20 StGB. In diesem Fall waere Paragraph 323a StGB einschlaegig mit der Strafrahmen-Deckelung des Absatzes 2."
+**Schriftsatz-Snippet (Schuldunfaehigkeit anregen):** "Es wird angeregt, ein Sachverstaendigengutachten zur Schuldfaehigkeit meines Mandanten zur Tatzeit einzuholen. Die festgestellte BAK von 3.2 Promille spricht nach BGH staendige Rspr. für eine sichere Schuldunfaehigkeit nach Paragraph 20 StGB. In diesem Fall waere Paragraph 323a StGB einschlaegig mit der Strafrahmen-Deckelung des Absatzes 2."
 
 **Einlassungs-Snippet:** "Ich erinnere mich nicht an die Geschehnisse am Tatabend. Ich weiss nur, dass ich gegen 22 Uhr in einer Bar Bier und Schnaps getrunken habe. Ab 23 Uhr habe ich eine Erinnerungsluecke."
 
-**Antrag auf Massregel Paragraph 64 StGB:** "Es wird hilfsweise beantragt, die Unterbringung in einer Entziehungsanstalt nach Paragraph 64 StGB anzuordnen. Mein Mandant leidet an einem Hang zum uebermaessigen Alkoholkonsum. Eine erfolgversprechende Therapie ist nach Sachverstaendigengutachten vom DD.MM.JJJJ moeglich."
+**Antrag auf Massregel Paragraph 64 StGB:** "Es wird hilfsweise beantragt, die Unterbringung in einer Entziehungsanstalt nach Paragraph 64 StGB anzuordnen. Mein Mandant leidet an einem Hang zum uebermäßigen Alkoholkonsum. Eine erfolgversprechende Therapie ist nach Sachverstaendigengutachten vom DD.MM.JJJJ moeglich."
 
 ## Querverweise
 
@@ -984,12 +981,11 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 - Paragraph 323a StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 20 StGB Schuldunfaehigkeit; Paragraph 21 StGB verminderte Schuldfaehigkeit.
 - Paragraph 64 StGB Massregel der Entziehung; Paragraph 63 StGB psychiatrisches Krankenhaus.
-- BGH staendige Rspr. zur Promillegrenze fuer Schuldunfaehigkeit (Verkehr ab 3.0; sonst je nach Tat ab 2.0).
+- BGH staendige Rspr. zur Promillegrenze für Schuldunfaehigkeit (Verkehr ab 3.0; sonst je nach Tat ab 2.0).
 - BGH staendige Rspr. zur Rauschtat als objektive Bedingung der Strafbarkeit.
 - BGH staendige Rspr. zur actio libera in causa.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
-
 
 ## Qualitäts-Hardening
 
@@ -1033,21 +1029,21 @@ Wie bei Paragraph 283 StGB: Strafbarkeit nur bei Eintritt der Zahlungseinstellun
 
 ### Anknuepfungsnorm Paragraph 257 HGB
 
-Aufbewahrungspflichten: 10 Jahre fuer Handelsbuecher, Inventare, Eroeffnungsbilanzen, Jahresabschluesse, Lageberichte und die zu ihrem Verstaendnis erforderlichen Arbeitsanweisungen sowie Buchungsbelege; 6 Jahre fuer empfangene Handelsbriefe und Wiedergaben abgesandter Handelsbriefe.
+Aufbewahrungspflichten: 10 Jahre für Handelsbuecher, Inventare, Eroeffnungsbilanzen, Jahresabschluesse, Lageberichte und die zu ihrem Verstaendnis erforderlichen Arbeitsanweisungen sowie Buchungsbelege; 6 Jahre für empfangene Handelsbriefe und Wiedergaben abgesandter Handelsbriefe.
 
 ## Praktikertipps der alten Hasen
 
 - **Buchhaltung mit Steuerberater rekonstruierbar.** Wenn der StB ueber die Buchhaltung verfuegt (Datev-Mandat), ist Vorwurf der Vernichtung schnell entkraeftet. Steuerberater zeitig kontaktieren und Datev-Auszuege vorlegen.
 - **Verlust durch Brand, Diebstahl, Server-Crash.** Mit Polizeianzeige, Versicherungsmeldung oder IT-Sachverstaendigem dokumentieren. Ohne Beleg wirkt "Festplatte kaputt" wie Schutzbehauptung.
 - **Tatbestand: "Erschwerung der Uebersicht".** Voraussetzung ist *Erschwerung*, nicht Unmoeglichkeit. Bei restituierbarer Buchhaltung argumentiert Verteidigung, die Uebersicht sei mit zumutbarem Aufwand wieder herstellbar.
-- **Verjaehrung.** Die Tat ist verjaehrungsrechtlich an die Tathandlung gebunden; die Strafbarkeitsbedingung Insolvenzeroeffnung muss eintreten, hemmt die Verjaehrung aber nicht. Bei alten Buchfuehrungssuenden Paragraph 78 StGB pruefen.
+- **Verjährung.** Die Tat ist verjaehrungsrechtlich an die Tathandlung gebunden; die Strafbarkeitsbedingung Insolvenzeroeffnung muss eintreten, hemmt die Verjährung aber nicht. Bei alten Buchfuehrungssuenden Paragraph 78 StGB pruefen.
 - **Mehrheit von Pflichtverletzungen.** Mehrere Nichtfuehrungen ueber Jahre koennen Tateinheit oder Tatmehrheit sein, je nachdem, ob es eine fortdauernde Unterlassung war (BGH staendige Rspr. zur Dauerstraftat).
 
 ## Trade-off-Matrix
 
 | Pfad A Komplettbestreiten | Pfad B Teilgestaendnis nur 283b StGB | Empfehlung |
 | --- | --- | --- |
-| Schwierig bei klaren Indizien (Insolvenzverwalter findet nichts) | Buchfuehrungsverstoss zugeben, dafuer Paragraph 283 Abs 1 Nr 1 StGB (Beiseiteschaffen Vermoegen) verteidigen | Bei fehlender Buchhaltung in der Insolvenz Pfad B fast immer sinnvoll: 283b ist mild, schafft Glaubwuerdigkeit, isoliert den schweren Vorwurf. |
+| Schwierig bei klaren Indizien (Insolvenzverwalter findet nichts) | Buchfuehrungsverstoss zugeben, dafür Paragraph 283 Abs 1 Nr 1 StGB (Beiseiteschaffen Vermoegen) verteidigen | Bei fehlender Buchhaltung in der Insolvenz Pfad B fast immer sinnvoll: 283b ist mild, schafft Glaubwuerdigkeit, isoliert den schweren Vorwurf. |
 
 ## Konkurrenzen
 
@@ -1068,7 +1064,7 @@ Aufbewahrungspflichten: 10 Jahre fuer Handelsbuecher, Inventare, Eroeffnungsbila
 
 **Schutzschrift-Snippet:** "Mein Mandant hat seine Buchfuehrung nicht selbst gefuehrt, sondern an die Kanzlei X delegiert. Die Buchhaltung ist im Datev-System der Kanzlei vollstaendig vorhanden (Anlage SS 1). Eine Erschwerung der Uebersicht ueber den Vermoegensstand iSv Paragraph 283b Abs 1 Nr 1 StGB liegt nicht vor."
 
-**Einlassungs-Snippet:** "Die Belege fuer 2024 sind im November 2025 bei einem Wasserschaden im Keller verloren gegangen. Die Schadensmeldung an die Versicherung vom DD.MM.JJJJ und die Niederschrift der Feuerwehr liegen vor. Ich habe versucht, die Unterlagen vom Steuerberater und der Hausbank zu rekonstruieren."
+**Einlassungs-Snippet:** "Die Belege für 2024 sind im November 2025 bei einem Wasserschaden im Keller verloren gegangen. Die Schadensmeldung an die Versicherung vom DD.MM.JJJJ und die Niederschrift der Feuerwehr liegen vor. Ich habe versucht, die Unterlagen vom Steuerberater und der Hausbank zu rekonstruieren."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Datev-Mandantenliste der Kanzlei X (Stichtag DD.MM.JJJJ) zu erheben zum Beweis der Tatsache, dass die laufende Buchhaltung bis zum Insolvenzantrag vollstaendig in Datev gefuehrt war."
 
@@ -1087,7 +1083,6 @@ Aufbewahrungspflichten: 10 Jahre fuer Handelsbuecher, Inventare, Eroeffnungsbila
 - Paragraph 264 HGB Pflicht zur Aufstellung des Jahresabschlusses bei Kapitalgesellschaften.
 - BGH staendige Rspr. zur Subsidiaritaet des Paragraph 283b StGB gegenueber Paragraph 283 Abs 1 Nr 5 bis 7 StGB.
 - BGH staendige Rspr. zur Dauerstraftat bei fortlaufender Unterlassung der Buchfuehrung.
-
 
 ## Qualitäts-Hardening
 

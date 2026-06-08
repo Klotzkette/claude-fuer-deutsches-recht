@@ -7,10 +7,10 @@ description: "FA INT Wirtschaft Start Chronologie Fristen im Internationalen Wir
 
 ## Arbeitsbereich
 
-**FA INT Wirtschaft Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Internationales, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**FA INT Wirtschaft Start Chronologie Fristen** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Internationales, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Internationales Wirtschaftsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-internationales-wirtschaftsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
@@ -18,12 +18,12 @@ description: "FA INT Wirtschaft Start Chronologie Fristen im Internationalen Wir
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Wirtschaftsrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
@@ -37,8 +37,6 @@ description: "FA INT Wirtschaft Start Chronologie Fristen im Internationalen Wir
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
 
 # Fachanwalt Internationales Wirtschaftsrecht — Allgemein
 
@@ -141,9 +139,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und… |
 | `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner über Kaufvertrag und fragt: Gilt UN-Kaufrecht und welche Ansprüche bestehen? CISG UN-Kaufrecht. Prüfraster: Anwendungsbereich Art. 1-5 CISG Abbedingung… |
 | `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC.… |
-| `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit` | Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4… |
+| `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit` | Vertragsparteien aus verschiedenen Ländern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4… |
 | `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` | Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New… |
-| `fachanwalt-iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz… |
+| `fachanwalt-iwr-brussels-ia-zuständigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz… |
 | `fachanwalt-iwr-cisg-anwendbarkeit` | Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1… |
 | `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow… |
 | `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` | EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA.… |
@@ -165,7 +163,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
-
 
 ## Qualitäts-Hardening
 

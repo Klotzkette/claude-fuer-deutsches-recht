@@ -6,15 +6,12 @@ description: "Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwält
 # Ermittlungsvermerk schreiben
 
 ## Fachkern: Ermittlungsvermerk schreiben
-- **Spezialgegenstand:** Ermittlungsvermerk schreiben wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Ermittlungsvermerk schreiben** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Sachstand, Tatverdacht, Beweislage, offene Ermittlungen und Entscheidungsvorschlag in einem brauchbaren Vermerk bündeln
 
@@ -34,13 +31,20 @@ Dieser Abschnitt bearbeitet **Fachkern: Ermittlungsvermerk schreiben** im Bereic
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-
 ## Spezielle Leitplanken
 
 - Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 168b StPO (Aufzeichnung)
+- § 169a StPO (Schlussvermerk)
+- Nr. 9-13 RiStBV (Aktenführung)
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

@@ -13,13 +13,13 @@ Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im
 
 - Bei DSFA mit Beschaeftigtendaten (Betriebsrat als Vertretung)
 - Bei DSFA mit Patientendaten oder Kundendaten in grossem Umfang
-- Bei oeffentlichen Konsultationen (z. B. Smart-City-Projekte)
+- Bei öffentlichen Konsultationen (z. B. Smart-City-Projekte)
 - Wenn die Aufsichtsbehoerde im Vorabkonsultationsverfahren Art. 36 Stakeholder-Beteiligung erwartet
 - Bei KI-Systemen, die viele Betroffene treffen
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 9 DSGVO: Der Verantwortliche holt gegebenenfalls den Standpunkt der betroffenen Personen oder ihrer Vertreter zu der beabsichtigten Verarbeitung ein, unbeschadet des Schutzes gewerblicher oder oeffentlicher Interessen oder der Sicherheit der Verarbeitungsvorgaenge.
+- Art. 35 Abs. 9 DSGVO: Der Verantwortliche holt gegebenenfalls den Standpunkt der betroffenen Personen oder ihrer Vertreter zu der beabsichtigten Verarbeitung ein, unbeschadet des Schutzes gewerblicher oder öffentlicher Interessen oder der Sicherheit der Verarbeitungsvorgaenge.
 - § 26 BDSG, BetrVG (§§ 87, 90, 94): Beteiligung des Betriebsrats bei Beschaeftigtendatenverarbeitungen mit Mitbestimmungsbezug.
 - EDSA-Leitlinien WP 248 rev.01 zur Konsultation.
 - EDSA-Stellungnahmen zur Konsultation in komplexen Verarbeitungen.
@@ -33,7 +33,7 @@ Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im
  - Schriftliche Konsultation des Betriebsrats mit Beschreibung der Verarbeitung
  - Umfrage unter Betroffenenstichprobe
  - Workshop oder Diskussionsrunde
- - Oeffentliche Anhoerung (oeffentliche Stellen)
+ - Oeffentliche Anhörung (öffentliche Stellen)
  - Verbaendekonsultation (Verbraucherzentralen, Datenschutzvereine)
 5. **Restrisiko.** Bewertung des Konsultationsergebnisses und Eingang in die DSFA. Wenn Konsultation unterbleibt: Begruendung dokumentieren (Art. 35 Abs. 9 Halbsatz 2 — Schutzinteressen).
 6. **Konsultation / Genehmigung.** DSB einbinden; Ergebnis der Stakeholder-Konsultation explizit in der DSFA verarbeiten.
@@ -63,7 +63,7 @@ Verantwortlicher: [NAME]
 [ ] schriftliche Stellungnahme Betriebsrat (BetrVG §§ 87, 90, 94)
 [ ] strukturierte Umfrage (Stichprobe N=[X])
 [ ] Workshop / Diskussionsrunde
-[ ] oeffentliche Anhoerung
+[ ] öffentliche Anhörung
 [ ] Verbaendebeteiligung
 
 5. Zeitplan
@@ -86,7 +86,7 @@ Unterschrift DSB: ____________________
 
 - KI-Personalauswahl im Konzern: schriftliche Stellungnahme Betriebsrat plus Mitarbeiterumfrage.
 - Patientenakten-Migration in Cloud: Patientenvertretung anhoeren, Patienteninformation vorbereiten.
-- Smart-City-Sensorik: oeffentliche Anhoerung, Verbaendebeteiligung Datenschutzverein.
+- Smart-City-Sensorik: öffentliche Anhörung, Verbaendebeteiligung Datenschutzverein.
 - Connected-Vehicle-Telematik: Verbraucherverbaende anhoeren, ggf. Nutzerstichprobe.
 - Schueler-Lernplattform: Eltern- und Schuelervertretung anhoeren, Landesdatenschutz informieren.
 
@@ -105,7 +105,7 @@ Unterschrift DSB: ____________________
 - Betriebsrat wird umgangen, obwohl Mitbestimmung nach BetrVG ausgeloest ist.
 - Konsultation wird nach DSFA-Abschluss durchgefuehrt — verfehlt den Zweck der Risikoabwaegung.
 - Schutzinteressen werden pauschal behauptet ohne konkrete Begruendung.
-- Bei oeffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
+- Bei öffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
 - Eingaenge der Stakeholder werden nicht im Verarbeitungsverzeichnis Art. 30 verlinkt.
 
 ## Querverweise

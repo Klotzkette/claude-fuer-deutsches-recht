@@ -1,42 +1,26 @@
 ---
 name: plattform-notice-upload-art17
-description: "Plattform Notice Upload Art17 im Plugin Urheberrecht De Eu: prüft konkret Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Plattform Notice Upload Art17
+# Notice, Takedown und Restore
 
 ## Arbeitsbereich
 
-**Plattform Notice Upload Art17** ordnet den Fall über die tragenden Prüffelder: Prueft Takedown, Counter-Notice, Content-ID. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `plattform-notice-takedown` | Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie. |
-| `plattform-upload-art17-dsa` | Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen. |
-| `presseleistungsschutz-snippets` | Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung. |
+Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheberrecht De Eu klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `plattform-notice-takedown`
-
-**Fokus:** Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie.
-
-# Notice, Takedown und Restore
 
 ## Fachkern: Notice, Takedown und Restore
-- **Spezialgegenstand:** Notice, Takedown und Restore. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -55,7 +39,6 @@ Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbe
 - DSA
 - §§ 97 ff. UrhG
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -63,7 +46,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Welche Plattform und welcher Prozess?
 - Welche Rechtebelege fordert sie?
 - Ist Wiederherstellung wegen Schranke oder Lizenz möglich?
-
 
 ## Prüflogik
 
@@ -83,7 +65,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Counter-Notice
 - Belegpaket
 
-
 ## Qualitätsfilter
 
 - Plattformfristen und Gerichtsfristen parallel tracken.
@@ -95,141 +76,13 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
 
-## 2. `plattform-upload-art17-dsa`
+## Normen & Rechtsprechung
 
-**Fokus:** Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen.
+Konkret zu prüfen:
 
-# Plattformen, Uploads und Art. 17 DSM
-
-## Fachkern: Plattformen, Uploads und Art. 17 DSM
-- **Spezialgegenstand:** Plattformen, Uploads und Art. 17 DSM. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- UrhDaG
-- DSM-RL Art. 17
-- DSA VO 2022/2065
-
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Ist die Plattform Host, UGC-Plattform oder eigener Anbieter?
-- Liegt erlaubte Nutzung, mutmaßlich erlaubte Nutzung oder Beschwerde vor?
-- Welche Notice-and-Action-Schritte sind dokumentiert?
-
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Plattformstrategie
-- Takedown- oder Restore-Antrag
-- DSA/UrhDaG-Matrix
-
-
-## Qualitätsfilter
-
-- Urheberrechtliche und DSA-Prozesse laufen parallel, aber mit unterschiedlichen Rollen.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## 3. `presseleistungsschutz-snippets`
-
-**Fokus:** Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung.
-
-# Presseleistungsschutz und Snippets
-
-## Fachkern: Presseleistungsschutz und Snippets
-- **Spezialgegenstand:** Presseleistungsschutz und Snippets. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- §§ 87f ff. UrhG
-- DSM-RL Art. 15
-
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Ist es eine Presseveröffentlichung?
-- Sind nur einzelne Wörter, sehr kurze Auszüge oder relevante Snippets betroffen?
-- Welche Plattform- oder Lizenzbeziehung gibt es?
-
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Snippet-Check
-- Lizenzanfrage
-- Verteidigungslinie
-
-
-## Qualitätsfilter
-
-- Nicht jedes Zitat aus Presse ist Presseleistungsschutzverletzung.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+- § 1 UrhDaG (Verantwortlichkeit Diensteanbieter)
+- §§ 4-12 UrhDaG
+- Art. 17 RL 2019/790
+- RL 2001/29/EG (InfoSoc)
+- RL (EU) 2019/790 (DSM)
+- RL 2014/26/EU

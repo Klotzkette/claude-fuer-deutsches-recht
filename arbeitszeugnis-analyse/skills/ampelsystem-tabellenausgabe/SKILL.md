@@ -65,3 +65,25 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. Welche Analyse-Skills wurden bereits ausgeführt? (Leistungsbeurteilung, Verhaltensbeurteilung, Schlussformel)
 2. Liegt ein vollständiges Zeugnisdokument vor oder nur Auszüge?
 3. Ist das Ziel: Mandantenbericht, Klageantrag-Vorbereitung oder interne Einschätzung?
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 16 BBiG
+- § 46 ArbGG
+- § 1 KSchG
+- § 7 KSchG
+- § 102 BetrVG
+- § 2 NachwG
+- § 42 GKG
+- § 29 VwVfG
+- § 11 ArbGG
+- § 13 BBiG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

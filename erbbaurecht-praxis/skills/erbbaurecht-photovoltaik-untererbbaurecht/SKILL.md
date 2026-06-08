@@ -1,34 +1,38 @@
 ---
 name: erbbaurecht-photovoltaik-untererbbaurecht
-description: "Photovoltaik Untererbbaurecht im Plugin Erbbaurecht Praxis: prüft konkret Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Photovoltaik Untererbbaurecht
+# PV, Wärmepumpe, Ladepunkte
 
 ## Arbeitsbereich
 
-**Photovoltaik Untererbbaurecht** ordnet den Fall über die tragenden Prüffelder: Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `erbbaurecht-und-photovoltaik` | Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. |
-| `erbbaurecht-untererbbaurecht-und-weitergabe` | Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen. |
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Erbbaurecht Praxis klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `erbbaurecht-und-photovoltaik`
-
-**Fokus:** Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung.
-
-# PV, Wärmepumpe, Ladepunkte
 
 ## Fachlicher Zuschnitt
 
@@ -57,37 +61,3 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 - **Fragen an die Akte:** maximal 10 präzise Nachfragen, nur soweit entscheidungserheblich.
 - **Arbeitsprodukt:** der passende Entwurf oder die passende Checkliste.
 - **Warnung:** welche falsche Sicherheit hier besonders gefährlich wäre.
-
-## 2. `erbbaurecht-untererbbaurecht-und-weitergabe`
-
-**Fokus:** Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen.
-
-# Untererbbaurecht und Weitergabe
-
-## Fachlicher Zuschnitt
-
-Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen.
-
-## Spezialfokus
-
-Der Skill verhindert, dass schuldrechtliche Betreiberverträge dingliche Zustimmungs- und Heimfallrisiken verdecken.
-
-## Aufgabe
-
-Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches Amt/Gericht, welcher Rang oder welche Eintragung betroffen ist. Trenne streng zwischen materieller Rechtslage, Formnachweis, Vollzugshindernis und taktischer Kommunikation.
-
-## Arbeitsmodus
-
-1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
-2. **Normanker setzen:** Nur Normen verwenden, die für den konkreten Schritt wirklich gebraucht werden.
-3. **Hindernis qualifizieren:** behebbar, streitig, rangrelevant, zustimmungsbedürftig, genehmigungsbedürftig oder nur erläuterungsbedürftig.
-4. **Arbeitsprodukt liefern:** Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel.
-5. **Belegdisziplin:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
-
-## Ausgabe
-
-- Kurzbefund
-- Prüf- und Nachweismatrix
-- offene entscheidende Fragen
-- konkreter Entwurf oder Checkliste
-- Risiko, das in der Praxis leicht übersehen wird

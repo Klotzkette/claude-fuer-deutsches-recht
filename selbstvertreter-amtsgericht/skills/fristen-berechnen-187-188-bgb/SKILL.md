@@ -7,7 +7,7 @@ description: "Berechnung von Prozessfristen nach §§ 187 188 BGB. Beginn am Tag
 
 ## Worum geht es?
 
-Fristen sind das groesste Risiko fuer Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der §§ 187, 188 BGB.
+Fristen sind das groesste Risiko für Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der §§ 187, 188 BGB.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,7 +29,7 @@ Fristen sind das groesste Risiko fuer Selbstvertreter. Eine verpasste Frist kann
 - **§ 193 BGB** — Sonn-, Feiertag, Samstag.
 - **§ 222 ZPO** — Prozessfristen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fristausloesendes Ereignis
 
@@ -133,7 +133,6 @@ In der Praxis: 2-3 Tage Reserve einplanen. Bote/Post-Verspaetung tragen Sie als 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 187, 188, 193 BGB unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -1,30 +1,30 @@
 ---
 name: bautraeger-gemeinschaftliche
-description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Gemeinschaftliche Maengelverfolgung in der WEG, Aufflassung nach § 925 BGB beim Bautraegervertrag, Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag, Bautraeger-Insolvenz Konsequenzen fuer den Erwerber. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Gemeinschaftliche Maengelverfolgung in der WEG, Aufflassung nach § 925 BGB beim Bautraegervertrag, Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag, Bautraeger-Insolvenz Konsequenzen für den Erwerber. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Bautraeger Gemeinschaftliche
 
 ## Arbeitsbereich
 
-**Bautraeger Gemeinschaftliche** ordnet den Fall über die tragenden Prüffelder: Gemeinschaftliche Maengelverfolgung in der WEG, Aufflassung nach § 925 BGB beim Bautraegervertrag, Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Gemeinschaftliche** ordnet den Fall über die tragenden Prüfungslinien: Gemeinschaftliche Maengelverfolgung in der WEG, Aufflassung nach § 925 BGB beim Bautraegervertrag, Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bautraeger-gemeinschaftliche-maengelverfolgung-weg` | Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster. |
 | `bautraeger-grundbuchaufflassung-925-bgb` | Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster. |
-| `bautraeger-grundbuchgebuehren-rangwahrung` | Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebuehren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster. |
-| `bautraeger-insolvenz-konsequenzen-erwerber` | Bautraeger-Insolvenz Konsequenzen fuer den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster. |
+| `bautraeger-grundbuchgebuehren-rangwahrung` | Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster. |
+| `bautraeger-insolvenz-konsequenzen-erwerber` | Bautraeger-Insolvenz Konsequenzen für den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-gemeinschaftliche-maengelverfolgung-weg`
 
@@ -95,11 +95,11 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 ## 3. `bautraeger-grundbuchgebuehren-rangwahrung`
 
-**Fokus:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebuehren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster.
+**Fokus:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster.
 
 # Bautraeger Grundbuchgebuehren Rangwahrung
 
-## Gebuehren
+## Gebühren
 
 ### Notarkosten
 - Beurkundung Bautraegervertrag.
@@ -125,13 +125,13 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 ## Pruefraster
 
-1. Gebuehrenaufstellung im Vertrag?
+1. Gebührenaufstellung im Vertrag?
 2. Aufteilung klar?
 3. Realistische Kalkulation?
 
 ## 4. `bautraeger-insolvenz-konsequenzen-erwerber`
 
-**Fokus:** Bautraeger-Insolvenz Konsequenzen fuer den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster.
+**Fokus:** Bautraeger-Insolvenz Konsequenzen für den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster.
 
 # Bautraeger Insolvenz Konsequenzen Erwerber
 
@@ -144,7 +144,7 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 ### Wohnung im Bau
 - MaBV-Buergschaft greift, wenn vorhanden.
-- Andernfalls: Erwerber wird Insolvenzglaeubiger fuer bisher gezahlte Raten.
+- Andernfalls: Erwerber wird Insolvenzglaeubiger für bisher gezahlte Raten.
 - Bisher vorhandenes Bauwerk wird ggf. von einem anderen Bautraeger fertiggestellt.
 
 ### Wohnung noch nicht begonnen

@@ -7,29 +7,29 @@ description: "WEG Anfechtung Start Eigentuemer Intake im Miet- und Wohnungseigen
 
 ## Arbeitsbereich
 
-**WEG Anfechtung Start Eigentuemer Intake** ordnet den Fall über die tragenden Prüffelder: WEG-Anfechtung-Start, WEG-Eigentümer-Intake, WEG-Protokoll nachbereiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**WEG Anfechtung Start Eigentuemer Intake** ordnet den Fall über die tragenden Prüfungslinien: WEG-Anfechtung-Start, WEG-Eigentümer-Intake, WEG-Protokoll nachbereiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-weg-anfechtung-start` | WEG-Anfechtung-Start: Prüffeld für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-eigentuemer-intake` | WEG-Eigentümer-Intake: Prüffeld für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-protokoll-nachbereiten` | WEG-Protokoll nachbereiten: Prüffeld für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-versammlung-vorbereiten` | Eigentümerversammlung vorbereiten: Prüffeld für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-whatsapp-email-beweis` | WhatsApp-/E-Mail-Beweis: Prüffeld für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-anfechtung-start` | WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-eigentuemer-intake` | WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-protokoll-nachbereiten` | WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-versammlung-vorbereiten` | Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-whatsapp-email-beweis` | WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Miet Wohnungseigentumsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-weg-anfechtung-start`
 
-**Fokus:** WEG-Anfechtung-Start: Prüffeld für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WEG-Anfechtung-Start
 
@@ -41,9 +41,8 @@ description: "WEG Anfechtung Start Eigentuemer Intake im Miet- und Wohnungseigen
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -74,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-weg-eigentuemer-intake`
 
-**Fokus:** WEG-Eigentümer-Intake: Prüffeld für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WEG-Eigentümer-Intake
 
@@ -86,9 +85,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -119,7 +117,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-weg-protokoll-nachbereiten`
 
-**Fokus:** WEG-Protokoll nachbereiten: Prüffeld für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WEG-Protokoll nachbereiten
 
@@ -131,9 +129,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -164,7 +161,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-weg-versammlung-vorbereiten`
 
-**Fokus:** Eigentümerversammlung vorbereiten: Prüffeld für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Eigentümerversammlung vorbereiten
 
@@ -176,9 +173,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -209,7 +205,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-whatsapp-email-beweis`
 
-**Fokus:** WhatsApp-/E-Mail-Beweis: Prüffeld für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WhatsApp-/E-Mail-Beweis
 
@@ -221,9 +217,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

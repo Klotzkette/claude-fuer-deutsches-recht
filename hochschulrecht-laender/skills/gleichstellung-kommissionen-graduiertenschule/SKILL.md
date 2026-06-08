@@ -1,43 +1,44 @@
 ---
 name: gleichstellung-kommissionen-graduiertenschule
-description: "Gleichstellung Kommissionen Graduiertenschule im Hochschulrecht der Länder: prüft konkret Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfeh, Prüft Zulassung zur Graduiertenschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Gleichstellung Kommissionen Graduiertenschule
+# Gleichstellung in Kommissionen
 
 ## Arbeitsbereich
 
-**Gleichstellung Kommissionen Graduiertenschule** ordnet den Fall über die tragenden Prüffelder: Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfeh. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `gleichstellung-kommissionen` | Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler. |
-| `graduiertenschule-zulassung` | Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz. |
-| `grundordnung-und-satzung` | Prüft Grundordnung, Satzungskompetenz und Bekanntmachung. |
-| `gute-wissenschaftliche-praxis` | Prüft gute wissenschaftliche Praxis und Ombudsverfahren. |
+## Normenanker
+
+Arbeitsfokus: **Gleichstellung in Kommissionen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Hochschulrecht der Länder klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Lehrende, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `gleichstellung-kommissionen`
-
-**Fokus:** Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler.
-
-# Gleichstellung in Kommissionen
 
 ## Fachkern: Gleichstellung in Kommissionen
-- **Spezialgegenstand:** Gleichstellung in Kommissionen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -86,198 +87,3 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 - **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
 - **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
 - **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
-
-## 2. `graduiertenschule-zulassung`
-
-**Fokus:** Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz.
-
-# Graduiertenschule Zulassung
-
-## Fachkern: Graduiertenschule Zulassung
-- **Spezialgegenstand:** Graduiertenschule Zulassung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
-- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studierende oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz.
-- **Erste Trennlinie:** Ist das Problem wirklich Graduiertenschule Zulassung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
-- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
-- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
-- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
-
-## Kaltstartfragen
-
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
-
-## Prüfprogramm
-
-1. **Normhierarchie trennen:** Landeshochschulgesetz, Grundordnung, Satzung, Berufungsordnung, Haushaltsrecht, Verwaltungsverfahrensrecht und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
-
-## Fachliche Leitplanken
-
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
-
-## Output-Muster
-
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
-
-## 3. `grundordnung-und-satzung`
-
-**Fokus:** Prüft Grundordnung, Satzungskompetenz und Bekanntmachung.
-
-# Grundordnung Und Satzung
-
-## Fachkern: Grundordnung Und Satzung
-- **Spezialgegenstand:** Grundordnung Und Satzung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
-- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Ermächtigungsgrundlage, Organbeschluss, Genehmigung, Veröffentlichung und Übergangsrecht.
-
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Grundordnung, Satzungskompetenz und Bekanntmachung.
-- **Erste Trennlinie:** Ist das Problem wirklich Grundordnung Und Satzung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
-- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
-- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
-- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
-
-## Kaltstartfragen
-
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
-
-## Arbeitslogik
-
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
-
-## Fachanker
-
-- Primäre Anker: Landeshochschulgesetz; Satzungsrecht.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
-
-## Typische Fehler
-
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Satzungscheck. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
-
-## 4. `gute-wissenschaftliche-praxis`
-
-**Fokus:** Prüft gute wissenschaftliche Praxis und Ombudsverfahren.
-
-# Gute Wissenschaftliche Praxis
-
-## Fachkern: Gute Wissenschaftliche Praxis
-- **Spezialgegenstand:** Gute Wissenschaftliche Praxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
-- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Plagiat, Datenmanipulation, Autorschaft, Anhörung, Sanktion und Forschungsförderer.
-
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft gute wissenschaftliche Praxis und Ombudsverfahren.
-- **Erste Trennlinie:** Ist das Problem wirklich Gute Wissenschaftliche Praxis, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
-- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
-- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
-- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
-
-## Kaltstartfragen
-
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studierende, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
-
-## Arbeitslogik
-
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
-
-## Fachanker
-
-- Primäre Anker: DFG-Kodex; Satzungen GWP.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
-
-## Typische Fehler
-
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: GWP-Fahrplan. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.

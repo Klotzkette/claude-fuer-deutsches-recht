@@ -7,23 +7,23 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 
 ## Arbeitsbereich
 
-**Befristung FAO Unwirksam Fristennotiz** ordnet den Fall über die tragenden Prüffelder: Befristungscompliance und Aktenführung, Fachanwalt für Arbeitsrecht (FAO § 10), Unwirksamkeit erkannt — Fristennotiz und nächster Schritt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Befristung FAO Unwirksam Fristennotiz** ordnet den Fall über die tragenden Prüfungslinien: Befristungscompliance und Aktenführung, Fachanwalt für Arbeitsrecht (FAO § 10), Unwirksamkeit erkannt — Fristennotiz und nächster Schritt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-befristung-compliance-dokumentation-und-akte` | Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG. |
-| `spezial-fao-fristen-form-und-zustaendigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
+| `spezial-fao-fristen-form-und-zuständigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
 | `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-befristung-compliance-dokumentation-und-akte`
 
@@ -38,7 +38,6 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Systematische Compliance-Prüfung für befristete Arbeitsverhältnisse — von der Formkontrolle über die Sachgrundprüfung bis zur Dokumentationsanforderung. Besonderer Fokus auf die häufigsten Fehler, die zur ungewollten Entfristung führen.
@@ -148,7 +147,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 - Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
 - Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).
 
-## 2. `spezial-fao-fristen-form-und-zustaendigkeit`
+## 2. `spezial-fao-fristen-form-und-zuständigkeit`
 
 **Fokus:** Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang.
 
@@ -161,7 +160,6 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständiger Überblick über das arbeitsgerichtliche Verfahrensrecht — Zuständigkeit, Instanzen, Fristen, Anwaltszwang und prozessuale Form. Grundlage für jede gerichtliche Tätigkeit im Arbeitsrecht.
@@ -280,7 +278,6 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Sofortiger Handlungsleitfaden, wenn ein Unwirksamkeitsgrund bei einer Kündigung oder Befristung erkannt wurde. Dieser Skill stellt sicher, dass die laufende Frist gewahrt wird und der Mandant klar über den nächsten Schritt informiert wird.

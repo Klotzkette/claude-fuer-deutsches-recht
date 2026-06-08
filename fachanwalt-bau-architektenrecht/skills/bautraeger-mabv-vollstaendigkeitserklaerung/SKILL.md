@@ -7,24 +7,24 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 ## Arbeitsbereich
 
-**Bautraeger Mabv Vollstaendigkeitserklaerung** ordnet den Fall über die tragenden Prüffelder: MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Mabv Vollstaendigkeitserklaerung** ordnet den Fall über die tragenden Prüfungslinien: MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bautraeger-mabv-vollstaendigkeitserklaerung-7` | MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster. |
 | `bautraeger-maengelruegen-und-formerfordernis` | Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage. |
 | `bautraeger-pfandfreigabe-und-loeschung` | Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster. |
-| `bautraeger-rangruecktritt-grundpfandrechte` | Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung fuer Erwerberschutz. Liefert Pruefraster. |
+| `bautraeger-rangruecktritt-grundpfandrechte` | Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-mabv-vollstaendigkeitserklaerung-7`
 
@@ -40,7 +40,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 - Selbstschuldnerische Buergschaft eines Kreditinstituts oder Versicherers.
 - Hoehe 105 Prozent (gegenwaertige Fassung pruefen — frueher 110 Prozent bei manchen Auslegungen).
-- Schutz auch fuer Maengelansprueche.
+- Schutz auch für Maengelansprueche.
 
 ## Praxis
 
@@ -127,7 +127,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 ## 4. `bautraeger-rangruecktritt-grundpfandrechte`
 
-**Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung fuer Erwerberschutz. Liefert Pruefraster.
+**Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster.
 
 # Bautraeger Rangruecktritt Grundpfandrechte
 

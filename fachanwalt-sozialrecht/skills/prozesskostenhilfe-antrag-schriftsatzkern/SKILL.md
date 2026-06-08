@@ -7,28 +7,28 @@ description: "Prozesskostenhilfe Antrag Schriftsatzkern im Plugin Fachanwalt Soz
 
 ## Arbeitsbereich
 
-**Prozesskostenhilfe Antrag Schriftsatzkern** ordnet den Fall über die tragenden Prüffelder: Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und, Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Prozesskostenhilfe Antrag Schriftsatzkern** ordnet den Fall über die tragenden Prüfungslinien: Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und, Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `prozesskostenhilfe-antrag` | Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persoenliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht. |
+| `prozesskostenhilfe-antrag` | Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persönliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `schulung-fallbesprechung` | Strukturierte Fallbesprechung für Schulung Inhouse-Fortbildung Referendariats-AG oder Prüfungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und führt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Erwartungshorizont. Eignet sich für 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Arbeitsakte sozialrecht-rollstuhl-tannenberg, in der vier disparate Fälle einer Familie parallel bearbeitet werden. |
 | `sozialrecht-fallaufnahme-routing` | Master-Routing-Skill der sozialrechtlichen Kanzlei. Nimmt einen frischen Fall an und entscheidet in drei Schritten welche weiteren Skills wann gezogen werden. Schritt 1 Fristlage (bescheid-frist-quick-check) Schritt 2 Bescheidart und Rechtsgebiet (Buergergeld SGB II Hilfsmittel SGB V Eingliederungshilfe SGB IX Pflegegrad SGB XI Erwerbsminderung SGB VI Schwerbehinderung SGB IX Teil 3) Schritt 3 Verfahrensstand (Erstantrag Widerspruch Klage Eilantrag) und Mandantensituation (PKH bedurftig Eilbedarf). Endet mit einer konkreten Skill-Reihenfolge für den vorliegenden Fall und einem Aktenanlage-Eintrag. Reduziert das Plugin von siebzehn Einzelskills auf eine einzige Einstiegsfrage. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `prozesskostenhilfe-antrag`
 
-**Fokus:** Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persoenliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht.
+**Fokus:** Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persönliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht.
 
 # Prozesskostenhilfe-Antrag (Sozialgericht)
 
@@ -39,7 +39,6 @@ description: "Prozesskostenhilfe Antrag Schriftsatzkern im Plugin Fachanwalt Soz
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Rechtsgrundlagen
 
@@ -100,7 +99,7 @@ beantrage ich namens und im Auftrag des Klägers:
 1. Bewilligung von Prozesskostenhilfe ohne Ratenzahlung;
 2. Beiordnung des unterzeichnenden Rechtsanwalts gemäß § 121 ZPO.
 
-Die Erklärung über die persoenlichen und wirtschaftlichen Verhältnisse
+Die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse
 (Formular ZP1a) nebst Belegen ist beigefuegt.
 
 Erfolgsaussichten: Begründung siehe Klageschrift vom (Datum) Az (...).
@@ -154,7 +153,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage — kläre vor Schriftsatz-Erstellung
 1. Klage-, Widerspruchs- oder Einspruchsfrist gesichert (Kalender, beA-Sendebestätigung)?
 2. Klageart korrekt: Anfechtungs- + Leistungsklage (§ 54 Abs. 4 SGG) für abgelehnte Leistung; reine Anfechtungsklage bei Aufhebungsbescheid?
@@ -180,7 +178,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -242,7 +240,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -250,7 +248,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Sozialrecht (SGB I-XIV).
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Sozialrecht (SGB I-XIV).
 - SGB I-XIV, SGG, AsylbLG, BVG, SchwbVwV sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -261,7 +259,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Sozialrecht (SGB I-XIV)
 
@@ -287,7 +284,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Sozialrecht (SGB I-XIV) (Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -319,7 +316,7 @@ Typische Antraege in Sozialrecht (SGB I-XIV) (Widerspruch + SG-Klage, Eilantrag 
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -354,8 +351,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## 3. `schulung-fallbesprechung`
 
@@ -370,7 +367,6 @@ Vor Versand:
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testakte ein nachvollziehbares Training mit fünf Stationen.
 
@@ -524,7 +520,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Du bist die zentrale Triage. Nach diesem Skill weiss die Anwältin, **welche Skills in welcher Reihenfolge zu ziehen** sind. Nie wieder "welches Werkzeug zuerst?" — diese Frage beantwortest du.
 

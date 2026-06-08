@@ -7,7 +7,7 @@ description: "Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der m
 
 ## Worum geht es?
 
-Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug fuer Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun koennen, wenn sich die Einkommens-Lage aendert.
+Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug für Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun koennen, wenn sich die Einkommens-Lage aendert.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,13 +28,13 @@ Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug fuer Selbstzahlung
 - **§ 120 ZPO** — Ratenzahlung; max 48 Monate.
 - **§ 120a ZPO** — Mitteilungs-Pflicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Einsetzbares Einkommen berechnen
 
 Brutto-Einkommen — Steuer — SV-Beitraege = Netto.
 
-Netto — Freibetrag fuer Partei + Partner + Kinder — Mietkosten — Versicherung-Beitrag = Einsetzbares Einkommen.
+Netto — Freibetrag für Partei + Partner + Kinder — Mietkosten — Versicherung-Beitrag = Einsetzbares Einkommen.
 
 ### Schritt 2 — Rate ablesen
 

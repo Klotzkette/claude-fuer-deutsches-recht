@@ -1,40 +1,25 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Konkurrentenschutz Bestenauslese ART Richter im Beamtenrecht: prüft konkret Pruefschema zum Grundsatz der Bestenauslese aus Art, Konkurrentenschutz bei Richtern, Professoren und Führungsämtern, Konkurrentenschutz-Sofortprogramm. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Konkurrentenschutz Bestenauslese ART Richter
+# Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG
 
 ## Arbeitsbereich
 
-**Konkurrentenschutz Bestenauslese ART Richter** ordnet den Fall über die tragenden Prüffelder: Pruefschema zum Grundsatz der Bestenauslese aus Art, Konkurrentenschutz bei Richtern, Professoren und Führungsämtern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `konkurrentenschutz-bestenauslese-art-33-ii-gg` | Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im oeffentlichen Dienst. Liefert Bausteine fuer Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz. |
-| `konkurrentenschutz-richter-professoren-fuehrungsaemter` | Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage. |
-| `konkurrentenschutz-sofortprogramm-einzelgerechtigkeit` | Konkurrentenschutz-Sofortprogramm: Bewerbungsverfahrensanspruch, Konkurrentenmitteilung, Stillhaltefrist, Eilantrag, Akteneinsicht und Einzelgerechtigkeit. |
+Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `konkurrentenschutz-bestenauslese-art-33-ii-gg`
-
-**Fokus:** Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im oeffentlichen Dienst. Liefert Bausteine fuer Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz.
-
-
-# Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Bewerber im oeffentlichen Dienst, die in einem Auswahlverfahren um Einstellung, Beförderung oder Übertragung eines höherwertigen Dienstpostens unterlegen sind oder unterliegen koennten. Liefert das materielle Pruefschema des Art. 33 Abs. 2 GG (Bestenauslese als grundrechtsgleiches Recht / bewerbungsverfahrensrechtlicher Anspruch).
+Skill für Bewerber im öffentlichen Dienst, die in einem Auswahlverfahren um Einstellung, Beförderung oder Übertragung eines höherwertigen Dienstpostens unterlegen sind oder unterliegen koennten. Liefert das materielle Pruefschema des Art. 33 Abs. 2 GG (Bestenauslese als grundrechtsgleiches Recht / bewerbungsverfahrensrechtlicher Anspruch).
 
 Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweiliger-rechtsschutz`, `anlassbeurteilung-vs-regelbeurteilung`, `anforderungsprofil-konstitutiv-deklaratorisch`, `auswahlgespraech-dokumentationspflicht`, `plausibilisierung-gleicher-gesamtnoten`.
 
@@ -93,75 +78,3 @@ Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweilig
 ## 7. Beispiel (Kurzfassung)
 
 Mandant ist Polizeihauptkommissar Besoldungsgruppe A11. Dienstposten A12 wird ausgeschrieben. Ranking ergibt 17 Bewerber. Mandant Rang 3 mit Gesamtnote "uebertrifft die Anforderungen". Rang 1 hat dieselbe Gesamtnote. Aufgabe: Pruefe Anforderungsprofil, Binnendifferenzierung, Auswahlvermerk; bereite Antrag auf einstweiligen Rechtsschutz nach § 123 VwGO vor.
-
-## 2. `konkurrentenschutz-richter-professoren-fuehrungsaemter`
-
-**Fokus:** Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage.
-
-
-# konkurrentenschutz-richter-professoren-fuehrungsaemter
-
-## Aufgabe
-
-Überträgt Art. 33 Abs. 2 GG auf sensible Auswahlverfahren ohne Schema-Falle.
-
-## Pflichtfragen
-
-- Bund oder welches Bundesland, welcher Dienstherr und welcher Status: Beamter, Richter, Versorgungsempfänger, Bewerber oder Ruhestandsfall?
-- Welcher Bescheid, welche Verfügung, welche Auswahlmitteilung, welche Versorgungsauskunft oder welcher Beihilfebescheid liegt vor?
-- Datum, Zugang, Frist, Rechtsbehelf und gewünschtes Ziel?
-- Welche Aktenbestandteile fehlen: Personalakte, Auswahlvermerk, Beurteilungen, Berechnungsblatt, amtsärztliches Gutachten, Beihilfeakte, PKV-Schreiben?
-
-## Prüfprogramm
-
-1. **Rechtsquelle trennen:** Bundesrecht, Landesrecht, Richterrecht und Satzungs-/Versorgungsrecht sauber auseinanderhalten.
-2. **Eilbedürftigkeit prüfen:** Konkurrentenschutz, Widerspruchsfrist, Klagefrist, Beihilfefrist, Dienstunfallmeldung oder Ruhestandsdatum sichern.
-3. **Materiellen Kern prüfen:** Art. 33 Abs. 2 oder Abs. 5 GG, BeamtVG, BBhV/landesrechtliche Beihilfe, BBesG/Landesbesoldung, BeamtStG/BBG und VwGO.
-4. **Akte auswerten:** Nicht nur Normen, sondern Dokumentation, Ermessen, Beteiligung, Begründung, Plausibilität und Beweiswert bewerten.
-5. **Output bauen:** Sofortmaßnahme, Antrag, Widerspruch, Eilantrag, Akteneinsicht, Mandantenbrief oder Berechnungsmatrix.
-
-## Ausgabe
-
-- Kurzbild mit Frist und Ziel.
-- Prüfmatrix mit Normgruppe, Tatsachen, Unterlagen und Risiken.
-- Konkreter nächster Schritt mit Entwurf oder Anlagenliste.
-
-## Quellen-Hardening
-
-Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
-
-## 3. `konkurrentenschutz-sofortprogramm-einzelgerechtigkeit`
-
-**Fokus:** Konkurrentenschutz-Sofortprogramm: Bewerbungsverfahrensanspruch, Konkurrentenmitteilung, Stillhaltefrist, Eilantrag, Akteneinsicht und Einzelgerechtigkeit.
-
-
-# konkurrentenschutz-sofortprogramm-einzelgerechtigkeit
-
-## Aufgabe
-
-Sichert den konkreten Bewerber, bevor die Ernennung vollendete Tatsachen schafft.
-
-## Pflichtfragen
-
-- Bund oder welches Bundesland, welcher Dienstherr und welcher Status: Beamter, Richter, Versorgungsempfänger, Bewerber oder Ruhestandsfall?
-- Welcher Bescheid, welche Verfügung, welche Auswahlmitteilung, welche Versorgungsauskunft oder welcher Beihilfebescheid liegt vor?
-- Datum, Zugang, Frist, Rechtsbehelf und gewünschtes Ziel?
-- Welche Aktenbestandteile fehlen: Personalakte, Auswahlvermerk, Beurteilungen, Berechnungsblatt, amtsärztliches Gutachten, Beihilfeakte, PKV-Schreiben?
-
-## Prüfprogramm
-
-1. **Rechtsquelle trennen:** Bundesrecht, Landesrecht, Richterrecht und Satzungs-/Versorgungsrecht sauber auseinanderhalten.
-2. **Eilbedürftigkeit prüfen:** Konkurrentenschutz, Widerspruchsfrist, Klagefrist, Beihilfefrist, Dienstunfallmeldung oder Ruhestandsdatum sichern.
-3. **Materiellen Kern prüfen:** Art. 33 Abs. 2 oder Abs. 5 GG, BeamtVG, BBhV/landesrechtliche Beihilfe, BBesG/Landesbesoldung, BeamtStG/BBG und VwGO.
-4. **Akte auswerten:** Nicht nur Normen, sondern Dokumentation, Ermessen, Beteiligung, Begründung, Plausibilität und Beweiswert bewerten.
-5. **Output bauen:** Sofortmaßnahme, Antrag, Widerspruch, Eilantrag, Akteneinsicht, Mandantenbrief oder Berechnungsmatrix.
-
-## Ausgabe
-
-- Kurzbild mit Frist und Ziel.
-- Prüfmatrix mit Normgruppe, Tatsachen, Unterlagen und Risiken.
-- Konkreter nächster Schritt mit Entwurf oder Anlagenliste.
-
-## Quellen-Hardening
-
-Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.

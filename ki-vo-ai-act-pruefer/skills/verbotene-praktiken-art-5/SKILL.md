@@ -91,7 +91,7 @@ Art. 5 KI-VO enthält einen abschließenden Katalog von acht verbotenen KI-Prakt
 ## Faktische Updates (Stand 05/2026)
 
 - **02.02.2025 — Anwendung Art. 5 KI-VO:** Die acht verbotenen Praktiken sind seit dem 02.02.2025 verbindlich. Quelle: VO (EU) 2024/1689, Art. 113 lit. a — eur-lex.europa.eu/eli/reg/2024/1689/oj.
-- **Kommissions-Leitlinien zu Art. 5:** Die EU-Kommission hat Anfang 2025 Leitlinien zu Art. 5 KI-VO veroeffentlicht, die die Tatbestandsmerkmale fuer Anwender konkretisieren (u.a. Begriff "subliminale Technik", "Vulnerabilitaetsausnutzung", Abgrenzung zu zulaessigem Profiling). Stand und aktuelle Fassung live pruefen ueber digital-strategy.ec.europa.eu/en/policies/ai-act.
+- **Kommissions-Leitlinien zu Art. 5:** Die EU-Kommission hat Anfang 2025 Leitlinien zu Art. 5 KI-VO veroeffentlicht, die die Tatbestandsmerkmale für Anwender konkretisieren (u.a. Begriff "subliminale Technik", "Vulnerabilitaetsausnutzung", Abgrenzung zu zulaessigem Profiling). Stand und aktuelle Fassung live pruefen ueber digital-strategy.ec.europa.eu/en/policies/ai-act.
 - **02.08.2025 — Sanktionen wirksam:** Art. 99 KI-VO ist seit dem 02.08.2025 vollumfaenglich anwendbar; Marktueberwachungsbehoerden in den Mitgliedstaaten koennen Bussgeldverfahren einleiten.
 
 ---
@@ -109,12 +109,12 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 5 Abs. 1 lit. e KI-VO — Untargeted Scraping biometrischer Daten
 - Art. 5 Abs. 1 lit. f KI-VO — Emotionserkennung am Arbeitsplatz / Bildung
 - Art. 5 Abs. 1 lit. g KI-VO — biometrische Kategorisierung nach geschuetzten Merkmalen
-- Art. 5 Abs. 1 lit. h KI-VO — Echtzeit-Biometrie-Fernidentifizierung oeffentlicher Raum
+- Art. 5 Abs. 1 lit. h KI-VO — Echtzeit-Biometrie-Fernidentifizierung öffentlicher Raum
 - Art. 99 Abs. 3 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz
 
 ## Triage zu Beginn
 1. Welche der acht verbotenen Praktiken (lit. a-h) koennte potentiell einschlaegig sein?
-2. Sind staatliche oder private Akteure beteiligt (Social Scoring lit. c gilt fuer beide)?
+2. Sind staatliche oder private Akteure beteiligt (Social Scoring lit. c gilt für beide)?
 3. Richten sich Techniken an besonders schutzbeduertige Personen (Vulnerabilitaet lit. b)?
 4. Sind biometrische Daten oder Emotionserkennung beteiligt (lit. f, g, h)?
 5. Gibt es Ausnahmen nach Art. 5 Abs. 2-8 KI-VO (Echtzeit-RBI in Ausnahmefaellen)?
@@ -133,7 +133,7 @@ Geprueft (lit. a-h):
 ☑/☐ lit. e — Untargeted Scraping Biometrie: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. f — Emotionserkennung Arbeitsplatz/Bildung: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. g — biometrische Kategorisierung: [JA — VERBOTEN / NEIN]
-☑/☐ lit. h — Echtzeit-RBI oeffentlicher Raum: [JA — VERBOTEN / Ausnahme: BESCHREIBUNG]
+☑/☐ lit. h — Echtzeit-RBI öffentlicher Raum: [JA — VERBOTEN / Ausnahme: BESCHREIBUNG]
 
 Ergebnis: [KEIN VERBOT / VERBOT: lit. X — Sanktion bis 35 Mio. EUR Art. 99 Abs. 3 KI-VO]
 Naechster Schritt: [EINSTELLUNG DES BETRIEBS / sachlicher-ausschluss-art-2 / Weiter-Pruefung]

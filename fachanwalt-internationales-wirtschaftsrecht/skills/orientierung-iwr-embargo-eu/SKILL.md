@@ -7,10 +7,10 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 
 ## Arbeitsbereich
 
-**Orientierung IWR Embargo EU** ordnet den Fall über die tragenden Prüffelder: Einstieg in den Skill-Verbund Internationales, Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO, EU-US Data Privacy Framework (DPF) seit 10.7.2023 als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Orientierung IWR Embargo EU** ordnet den Fall über die tragenden Prüfungslinien: Einstieg in den Skill-Verbund Internationales, Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO, EU-US Data Privacy Framework (DPF) seit 10.7.2023 als. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung. |
 | `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung. |
@@ -18,12 +18,12 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Wirtschaftsrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-internationales-wirtschaftsrecht-orientierung`
 
@@ -44,7 +44,7 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 | Gerichtsstand EU | Bruessel Ia VO (EU 1215/2012): https://eur-lex.europa.eu/eli/reg/2012/1215 |
 | Anwendbares Recht Vertrag | Rom I VO (EG 593/2008): https://eur-lex.europa.eu/eli/reg/2008/593 |
 | Anwendbares Recht ausservertraglich | Rom II VO (EG 864/2007): https://eur-lex.europa.eu/eli/reg/2007/864 |
-| Anerkennung Auslandsurteile | HAVUe 2019 (fuer EU in Kraft seit 01.09.2023; UK seit 01.07.2025): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137 ; Haager Gerichtsstandsuebereinkommen 2005 |
+| Anerkennung Auslandsurteile | HAVUe 2019 (für EU in Kraft seit 01.09.2023; UK seit 01.07.2025): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137 ; Haager Gerichtsstandsuebereinkommen 2005 |
 | Anerkennung Schiedssprueche | New Yorker UN-Uebereinkommen 1958 (ueber 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2 |
 | Schiedsverfahren | UNCITRAL Modellgesetz 1985/2006, ICC Rules 2021, LCIA Rules 2020, HKIAC Rules 2024, SIAC Rules 2025 (7th ed.), DIS-SchO 2018, ZPO §§ 1025 ff. (Reform BMJ pendent) |
 | Investitionsschutz | ICSID-Konvention; ICSID Rules 2022 (seit 01.07.2022); BIT-Netzwerk; Achmea (EuGH C-284/16); Komstroy (EuGH C-741/19) intra-EU-Beschraenkung |
@@ -104,7 +104,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Normen-Ueberblick IWR
 | Materie | Zentralnorm |
 |---|---|
-| Intl. Zustaendigkeit (EU) | Bruessel Ia VO Art. 4, 7, 25 |
+| Intl. Zuständigkeit (EU) | Bruessel Ia VO Art. 4, 7, 25 |
 | Anwendb. Recht Vertrag (EU) | Rom I VO Art. 3, 4 |
 | Anwendb. Recht Delikt (EU) | Rom II VO Art. 4, 14 |
 | UN-Kaufrecht | CISG Art. 1, 6, 39 |
@@ -140,7 +140,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. Wurde bisher ein Sanktionslistenabgleich durchgeführt? Gibt es Treffer oder Anhaltspunkte für Treffer?
 7. Wann soll das Geschäft abgeschlossen werden? Bei Dringlichkeit: BAFA-Voranfrage und Gesprächstermin prüfen.
 8. Besteht Cyber-Versicherung oder Directors-&-Officers-Versicherung mit Sanktionsklausel?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -154,7 +154,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | VO (EU) 2022/328 | Erweiterung Medien-Sanktionen (RT, Sputnik) | In Kraft |
 
 Konsolidierte Fassung VO 833/2014: https://eur-lex.europa.eu/eli/reg/2014/833
-16. Paket (VO (EU) 2025/395 vom 24.02.2025): https://eur-lex.europa.eu/eli/reg/2025/395/oj — u. a. Aluminium-Importverbot, Erweiterung Schattenflotte-Liste (Anhang XLII), neue Sorgfaltspflichten Art. 12gb VO 833/2014 ab 26.05.2025 fuer Anhang XLVIII.
+16. Paket (VO (EU) 2025/395 vom 24.02.2025): https://eur-lex.europa.eu/eli/reg/2025/395/oj — u. a. Aluminium-Importverbot, Erweiterung Schattenflotte-Liste (Anhang XLII), neue Sorgfaltspflichten Art. 12gb VO 833/2014 ab 26.05.2025 für Anhang XLVIII.
 17. Paket (Beschluss des Rates vom 20.05.2025): https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/russia-s-war-of-aggression-against-ukraine-eu-agrees-17th-package-of-sanctions/ — ca. 189 zusaetzliche Schattenflotte-Schiffe; ueber 45 weitere Eintraege militaerischer Versorger; Listungsumfang VO 269/2014 nun ueber 2.400 Eintraege.
 Chronologische Uebersicht GTAI: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
 
@@ -201,7 +201,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Sanktions-Klausel im Handelsvertrag
@@ -220,7 +219,7 @@ Schadensersatzpflicht zu beenden, wenn
 a) die andere Partei in eine Sanktionsliste aufgenommen wird oder
 b) die Erfullung des Vertrages nach Massgabe anwendbarer Sanktions-
 vorschriften rechtswidrig wird oder einem ernsthaften Sanktions-
-risiko fuer eine der Parteien ausgesetzt wird.
+risiko für eine der Parteien ausgesetzt wird.
 
 3. Die sanktionsbedingte Vertragsbeendigung gilt nicht als
 Ruecktritt nach §§ 323 ff. BGB und loest keine Leistungs-
@@ -237,13 +236,13 @@ Endverwendungserklaerung gemaess Artikel [X] VO (EU) 833/2014
 Wir, [Unternehmen, Adresse], bestaetigen hiermit:
 
 1. Die gelieferten Waren [Beschreibung, CN-Code] werden
-ausschliesslich fuer eigene gewerbliche Zwecke verwendet.
+ausschliesslich für eigene gewerbliche Zwecke verwendet.
 
 2. Die Waren werden nicht an natuerliche oder juristische Personen
 in der Russischen Foderation oder der Republik Belarus weitergegeben
 und nicht in diese Lander re-exportiert.
 
-3. Die Waren werden nicht fuer militarische Zwecke oder zur
+3. Die Waren werden nicht für militarische Zwecke oder zur
 Unterstutzung der russischen Ruestungsindustrie verwendet.
 
 Ort, Datum: [...]
@@ -420,7 +419,6 @@ Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
 - **Spezialfrage (EU-US Data Privacy Framework — Folgen für Verträge):** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. grenzüberschreitende Vertragsklauseln Updates.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
-
 ## Zweck
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -440,8 +438,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **DSGVO Art. 46** — Geeignete Garantien (SCC, BCR) als Fallback
 - **EO 14086** US-Executive Order (07.10.2022) zur Begrenzung des US-Geheimdienst-Zugriffs
 - **Standard Contractual Clauses (SCC) 2021/914** (Durchfuehrungsbeschluss vom 04.06.2021): https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj
-- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II; ECLI:EU:C:2020:559)** — Privacy Shield fuer ungueltig erklaert; SCC bleiben gueltig, aber Empfaengerland-Pruefung erforderlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311
-- Hinweis Stand 05/2026: Schrems III-Verfahren vor EuGH gegen den DPF-Angemessenheitsbeschluss anhaengig; aktuellen Stand pruefen, da Aufhebung Folgen fuer Datentransfers haette.
+- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II; ECLI:EU:C:2020:559)** — Privacy Shield für ungueltig erklaert; SCC bleiben gueltig, aber Empfaengerland-Pruefung erforderlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311
+- Hinweis Stand 05/2026: Schrems III-Verfahren vor EuGH gegen den DPF-Angemessenheitsbeschluss anhaengig; aktuellen Stand pruefen, da Aufhebung Folgen für Datentransfers haette.
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertragsklauseln-Update

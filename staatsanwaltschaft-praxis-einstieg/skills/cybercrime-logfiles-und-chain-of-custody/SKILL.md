@@ -6,15 +6,12 @@ description: "Cybercrime: Logfiles und Chain of Custody: Praxis-Skill für neue 
 # Cybercrime: Logfiles und Chain of Custody
 
 ## Fachkern: Cybercrime: Logfiles und Chain of Custody
-- **Spezialgegenstand:** Cybercrime: Logfiles und Chain of Custody wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Cybercrime: Logfiles und Chain of Custody** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Serverdaten, Hashwerte, Sicherung, Zuständigkeit und internationale Provider
 
@@ -40,6 +37,23 @@ Dieser Abschnitt bearbeitet **Fachkern: Cybercrime: Logfiles und Chain of Custod
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 100a StPO (TKÜ)
+- § 100b StPO (Online-Durchsuchung)
+- § 100g StPO (Verkehrsdaten)
+- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- §§ 202a, 202c StGB
+- BVerfGE 125, 260; BVerfGE 154, 152
+- § 100j StPO (Bestandsdaten)
+- § 113 TKG
+- BVerfGE 154, 152 (Bestandsdatenauskunft II)
+- § 168b StPO (Aufzeichnung)
+- § 110 StPO
+- RL 2016/680/EU Art. 25
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

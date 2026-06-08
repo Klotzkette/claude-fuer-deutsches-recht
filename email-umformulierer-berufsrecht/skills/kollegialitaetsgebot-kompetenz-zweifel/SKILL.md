@@ -1,50 +1,32 @@
 ---
 name: kollegialitaetsgebot-kompetenz-zweifel
-description: "Kollegialitaetsgebot Kompetenz Zweifel im Plugin Email Umformulierer Berufsrecht: prüft konkret E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber, Zweifel an Kompetenz oder Entscheidung des Gegners oder, Eskalierte oder hitzige Korrespondenz deeskalieren und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Kollegialitaetsgebot Kompetenz Zweifel
+# Kollegialitätsgebot-Prüfung
 
 ## Arbeitsbereich
 
-**Kollegialitaetsgebot Kompetenz Zweifel** ordnet den Fall über die tragenden Prüffelder: E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber, Zweifel an Kompetenz oder Entscheidung des Gegners oder, Eskalierte oder hitzige Korrespondenz deeskalieren und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `kollegialitaetsgebot-pruefung` | E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation. |
-| `kompetenz-zweifel-respektvoll` | Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen). |
-| `konfliktdeeskalation-formulierungen` | Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Eskalationsniveau Interessenidentifikation deeskalierende Formulierungen Angebote zur Lösung. Output: deeskalierende Version Kommunikationsstrategie. Abgrenzung: nicht für allgemeine Umformulierung. |
+E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Email Umformulierer Berufsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `kollegialitaetsgebot-pruefung`
-
-**Fokus:** E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation.
-
-# Kollegialitätsgebot-Prüfung
 
 ## Fachkern: Kollegialitätsgebot-Prüfung
-- **Spezialgegenstand:** Kollegialitätsgebot-Prüfung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kollegialitätsgebots nach § 25 BORA. Der kollegiale Umgang unter Rechtsanwälten ist nicht nur eine Frage des guten Tons, sondern eine berufsrechtliche Pflicht, deren Verletzung zu Rüge- oder Ahndungsverfahren führen kann.
 
-
 ## Triage zu Beginn
 1. Wer ist Adressat des Schreibens: Kollege direkt, Mandant ueber den Kollegen oder Gericht?
-2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persoenliche Eigenschaften (unzulaessig)?
-3. Ist die Aeusserung ueber den Kollegen notwendig fuer den sachlichen Inhalt des Schreibens?
+2. Bezieht sich die Aeusserung auf fachliche Kritik (zulaessig) oder auf persönliche Eigenschaften (unzulaessig)?
+3. Ist die Aeusserung ueber den Kollegen notwendig für den sachlichen Inhalt des Schreibens?
 4. Hat die Gegenseite ihrerseits das Kollegialitaetsgebot verletzt — und verleitet das zur Erwiderung?
 
 ## Aktuelle Rechtsprechung
@@ -95,134 +77,3 @@ Schritt 1: Kommt der Name oder die Berufsbezeichnung eines Kollegen im Schreiben
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Zitate kollegialitätsgefährdender Aussagen. (2) Einordnung (formal/substantiell problematisch). (3) Berufsrechtliches Risiko. (4) Konforme Alternativformulierung. (5) Hinweis, ob die Aussage gänzlich gestrichen werden sollte.
-
-## 2. `kompetenz-zweifel-respektvoll`
-
-**Fokus:** Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen).
-
-# Kompetenz-Zweifel respektvoll formulieren
-
-## Fachkern: Kompetenz-Zweifel respektvoll formulieren
-- **Spezialgegenstand:** Kompetenz-Zweifel respektvoll formulieren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines Adressaten so zu formulieren, dass der sachliche Kern erhalten bleibt, die Person aber nicht angegriffen wird. Diese Unterscheidung ist im Berufsrecht zentral: Sachkritik ist erlaubt, Personenabwertung ist es nicht.
-
-
-## Triage zu Beginn
-1. Bezieht sich die Fachkritik auf ein konkretes Dokument/Ergebnis (Sachkritik) oder auf die Person (Personenabwertung)?
-2. Wer ist der Adressat: Kollege direkt, eigener Mandant ueber den Kollegen oder Gericht?
-3. Gibt es einschlaeige Rechtsprechung oder Normen, auf die die Sachkritik gestuetzt werden kann?
-4. Ist die Aeusserung notwendig fuer den Inhalt des Schreibens oder kann sie weggelassen werden?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Sachkritik erlaubt, Personenabwertung verboten
-- § 25 BORA — Kollegialitaetsgebot: respektvoller Umgang auch bei Fachkritik
-- Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik
-- § 824 BGB — Kreditgefaehrdung: unwahre Kompetenzabsprachen loesen Haftung aus
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Der Unterschied: Sachkritik vs. Personenabwertung
-
-Sachkritik bezieht sich auf ein konkretes Handeln, Dokument oder Ergebnis. Sie ist nachprüfbar, begründet und verhältnismäßig. Personenabwertung bezieht sich auf die Person selbst — ihre Intelligenz, Ausbildung, Persönlichkeit — und ist nicht nachprüfbar. Die Grenze: "Dieser Schriftsatz enthält keinen Verweis auf § 278 BGB" ist Sachkritik. "Sie kennen § 278 BGB offenbar nicht" ist Personenabwertung.
-
-## Technik: Vom Vorwurf zum Sachverhalt
-
-Statt die Person als inkompetent zu bezeichnen, wird das konkrete Ergebnis bewertet und auf sachliche Maßstäbe (Gesetze, Rechtsprechung, anerkannte Standards) verwiesen. Dies vermeidet den Vorwurf, schafft aber denselben sachlichen Klärungsbedarf.
-
-## Technik: Rechtsprechungsverweis statt Urteil
-
-Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige Normen oder Rechtsprechung: Nicht "Sie liegen falsch", sondern "Nach dem Urteil des BGH vom TT.MM.JJJJ (Az. XY) ist davon auszugehen, dass..." — dieser Verweis zeigt die Abweichung auf, ohne die Person anzugreifen.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO (Sachlichkeitsgebot), § 25 BORA (Kollegialitätsgebot). Der BGH hat in Beschlüssen zum Berufsrecht klargestellt, dass sachliche Fachkritik auch dann zulässig ist, wenn sie unangenehm für den Adressaten ist — vorausgesetzt, sie bezieht sich auf nachprüfbare Tatsachen und überschreitet nicht die Schwelle zur Schmähkritik.
-
-## Vorher-Nachher-Tabelle
-
-| Kompetenzangriff | Respektvolle Sachkritik |
-|---|---|
-| "Sie haben keine Ahnung" | "Die fachliche Einordnung erscheint mir abweichend von Rechtsprechung XY" |
-| "Das ist dilettantisch" | "Die Ausführung entspricht nicht dem üblichen Standard in dieser Frage" |
-| "Ihr Gutachten ist wertlos" | "Das Gutachten enthält keine Auseinandersetzung mit dem einschlägigen BGH-Urteil XY" |
-| "Ihr Anwalt ist überfordert" | "Die gewählte Strategie erscheint mir in Anbetracht von XY nicht optimal" |
-| "Das haben Sie falsch berechnet" | "In der Berechnung ergibt sich nach meiner Prüfung ein abweichender Wert" |
-| "Sie verstehen das Gesetz nicht" | "Die Norm des § XY wird in der Fachliteratur überwiegend anders ausgelegt" |
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Identifizierte Kompetenzabsprache. (2) Sachlicher Kern der Kritik. (3) Respektvolle Alternativformulierung mit Sachverhaltsbezug. (4) Ggf. geeigneter Normen- oder Rechtsprechungsverweis als Ersatz für die persönliche Bewertung.
-
-## 3. `konfliktdeeskalation-formulierungen`
-
-**Fokus:** Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Eskalationsniveau Interessenidentifikation deeskalierende Formulierungen Angebote zur Lösung. Output: deeskalierende Version Kommunikationsstrategie. Abgrenzung: nicht für allgemeine Umformulierung.
-
-# Konfliktdeeskalation: Formulierungsbausteine
-
-## Fachkern: Konfliktdeeskalation: Formulierungsbausteine
-- **Spezialgegenstand:** Konfliktdeeskalation: Formulierungsbausteine wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill stellt eine kuratierte Sammlung deeskalierender Formulierungsbausteine bereit. Ziel ist es, in angespannten Korrespondenzsituationen den Ton zu senken, ohne die eigene Position aufzugeben oder dem Adressaten nachzugeben. Deeskalation bedeutet nicht Kapitulation, sondern Steuerung des Kommunikationsklimas.
-
-
-## Triage zu Beginn
-1. Auf welcher Konfliktebene befindet sich die Situation: sachlich, emotional oder eskaliert?
-2. Will die eigene Seite deeskalieren oder hat sie berechtigte Interessen, die klar formuliert werden muessen?
-3. Steht ein Gerichtsverfahren kurz bevor oder gibt es noch Raum fuer aussergerichtliche Einigung?
-4. Wer ist der Adressat der deeskalierenden Formulierung: Kollege, Mandant, Gegner oder Gericht?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 17 BORA — Aussergerichtliche Streitbeilegung als berufsrechtlich unterstuetzter Weg
-- § 242 BGB — Treu und Glauben: Kooperationspflichten der Parteien
-- § 278 ZPO — Gueteverhandlung: Gericht foerdert Einigung; kooperativer Ton staerkt Glaubwuerdigkeit
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot als Grundlage deeskalierender Kommunikation
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Prinzipien der Deeskalation
-
-Deeskalierende Kommunikation folgt vier Grundprinzipien: (1) Verständnis zeigen ohne zuzustimmen — man nimmt die Perspektive zur Kenntnis, ohne sie zu teilen. (2) Sachlichkeit einfordern ohne zu provozieren — man benennt das Kommunikationsproblem, ohne es dem Adressaten anzulasten. (3) Konstruktiven Ausblick geben — man zeigt einen Weg zur Klärung auf. (4) Gemeinsame Interessen betonen — man hebt hervor, was beide Seiten wollen.
-
-## Bausteine für Verständnis ohne Zustimmung
-
-"Es ist mir ein Anliegen, Ihren Standpunkt vollständig zu verstehen." — "Ich nehme Ihre Schilderung zur Kenntnis und möchte gerne dazu Stellung nehmen." — "Ich verstehe, dass diese Situation für Sie belastend ist." — "Ich kann nachvollziehen, dass Sie mit dem bisherigen Verlauf nicht zufrieden sind." — "Ihre Perspektive ist mir wichtig, auch wenn ich in der Sache anderer Auffassung bin."
-
-## Bausteine für sachliche Klärung
-
-"Im Sinne einer sachlichen Klärung schlage ich vor..." — "Ich bitte darum, die Angelegenheit auf der Sachebene zu erörtern." — "Zur Vermeidung von Missverständnissen möchte ich folgendes klarstellen..." — "Es wäre hilfreich, wenn wir uns auf die wesentlichen Punkte konzentrieren könnten." — "Ich bin gerne bereit, die Situation gemeinsam zu klären."
-
-## Bausteine für konstruktiven Ausblick
-
-"Ich freue mich auf eine gemeinsame Lösung." — "Ich schlage vor, dass wir..." — "Im Sinne einer einvernehmlichen Regelung..." — "Ich stehe für ein klärendes Gespräch jederzeit zur Verfügung." — "Eine Lösung, die für alle Seiten akzeptabel ist, erscheint mir erreichbar."
-
-## Bausteine für Missverständnis-Auflösung
-
-"Es scheint hier zu einem Missverständnis gekommen zu sein, das ich gerne aufklären möchte." — "Vielleicht habe ich mich in meinem letzten Schreiben nicht klar genug ausgedrückt." — "Ich möchte meinen Standpunkt noch einmal präzisieren." — "Es tut mir leid, wenn meine Formulierung zu Irritationen geführt hat."
-
-## Bausteine für Entschärfung von Drohgebärden
-
-"Ich hoffe, wir können die Angelegenheit ohne förmliche Maßnahmen regeln." — "Selbstverständlich stehen Ihnen alle rechtlichen Wege offen; gleichzeitig lade ich Sie ein, zunächst..." — "Ich bin zuversichtlich, dass eine Einigung im gemeinsamen Interesse beider Seiten liegt."
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO verlangt sachliche Kommunikation. Deeskalation ist berufsrechtlich nicht vorgeschrieben, aber strategisch klug: Sie hält die Kommunikation offen und vermeidet unnötige Eskalation, die häufig zu berufsrechtlich problematischen Reaktionen auf beiden Seiten führt. § 17 BORA (außergerichtliche Streitbeilegung) unterstreicht den Wert einvernehmlicher Lösungen.
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Vorgeschlagene Deeskalations-Bausteine passend zur Situation. (2) Hinweis auf die Funktion jedes Bausteins. (3) Überarbeiteter Gesamttext mit integrierten Deeskalationselementen.

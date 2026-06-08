@@ -6,11 +6,9 @@ description: "Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Scho
 # Delikt: Psychische Schäden
 
 ## Fachkern: Delikt: Psychische Schäden
-- **Spezialgegenstand:** Delikt: Psychische Schäden; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -75,7 +73,6 @@ Ersatzfähigkeit psychischer und psychosomatischer Schäden nach § 823 Abs. 1 B
 - schadensrecht-paragraphen-249-253
 - dienstvertrag-und-behandlungsvertrag
 - workflow-beweislast-und-belegmatrix
-
 
 ## Quellen
 

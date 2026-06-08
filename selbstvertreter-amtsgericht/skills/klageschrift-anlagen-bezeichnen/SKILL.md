@@ -7,7 +7,7 @@ description: "Bezeichnung Sortierung und Beifuegung von Anlagen zur Klageschrift
 
 ## Worum geht es?
 
-Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnummeriert (K1, K2, K3 ... fuer Klaeger; B1, B2, B3 ... fuer Beklagten) und im Sachvortrag mit dieser Bezeichnung referenziert. Eine gute Anlagen-Struktur erleichtert Richter und Gegenseite die Lesefuehrung — was bei Selbstvertretung Eindruck macht.
+Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnummeriert (K1, K2, K3 ... für Klaeger; B1, B2, B3 ... für Beklagten) und im Sachvortrag mit dieser Bezeichnung referenziert. Eine gute Anlagen-Struktur erleichtert Richter und Gegenseite die Lesefuehrung — was bei Selbstvertretung Eindruck macht.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -19,7 +19,7 @@ Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnumme
 
 - **Anlage**: Dokument, das einer Schriftsatz beigefuegt ist.
 - **Anlagenverzeichnis**: Liste aller Anlagen am Ende des Schriftsatzes.
-- **Abschrift**: Kopie eines Schriftsatzes, die fuer die Gegenseite bestimmt ist.
+- **Abschrift**: Kopie eines Schriftsatzes, die für die Gegenseite bestimmt ist.
 
 ## Rechtsgrundlagen
 
@@ -27,7 +27,7 @@ Beweisdokumente werden der Klage als "Anlagen" beigefuegt. Sie werden durchnumme
 - **§ 133 II ZPO** — Beifuegung der Abschriften.
 - **§ 253 III ZPO** — Klage mit Anlagen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Sortierung festlegen
 
@@ -104,9 +104,9 @@ Pro Beklagtem **eine vollstaendige Abschrift** der Klageschrift inklusive aller 
 
 Also:
 
-- 1 Original fuer das Gericht.
-- 1 Abschrift fuer jeden Beklagten.
-- 1 Kopie fuer Sie zu Ihren Akten.
+- 1 Original für das Gericht.
+- 1 Abschrift für jeden Beklagten.
+- 1 Kopie für Sie zu Ihren Akten.
 
 Bei einem Beklagten: 3 Saetze. Bei zwei Beklagten: 4 Saetze.
 
@@ -149,7 +149,6 @@ Skill `einreichung-mein-justizpostfach-mjp-2024`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Konvention.
-
 
 ## Qualitäts-Hardening
 

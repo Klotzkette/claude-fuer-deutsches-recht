@@ -33,7 +33,7 @@ Wenn die politische Vorgabe nur Verwaltungspraxis aendern soll, reicht ein Erlas
 
 1. Prüfung **ausschließliche Gesetzgebung Bund** (Art. 71 und 73 GG): auswärtige Angelegenheiten, Verteidigung, Staatsangehoerigkeit, Wahrungseinheit, Bundeseisenbahnen, Luftverkehr, Postwesen, Telekommunikation, Bundeskriminalpolizei, Zoelle, Schutz deutsches Kulturgut.
 2. Prüfung **konkurrierende Gesetzgebung** (Art. 72 und 74 GG): Bürgerliches Recht, Strafrecht, Gerichtsverfassung, Aufenthaltsrecht, Sozialrecht, Wirtschaftsrecht, Arbeitsrecht, Straßenverkehr, öffentliche Fürsorge, Recht der Wirtschaft, etc. Prüfung **Erforderlichkeitsklausel** Art. 72 Abs. 2 GG bei den dort genannten Materien.
-3. Wenn weder Art. 71 noch Art. 73 noch Art. 74: **Landeszustaendigkeit** Art. 70 Abs. 1 GG (Auffangkompetenz).
+3. Wenn weder Art. 71 noch Art. 73 noch Art. 74: **Landeszuständigkeit** Art. 70 Abs. 1 GG (Auffangkompetenz).
 
 Bei Landeszuständigkeit:
 

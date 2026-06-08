@@ -1,43 +1,26 @@
 ---
 name: soundmarke-bewegungsmarke-alicante-boutique
-description: "Soundmarke Bewegungsmarke Alicante Boutique im Plugin Markenrecht Fashion Luxus: prüft konkret Hoermarken (Soundmarken) und Bewegungsmarken für Jingles, Alicante, Boutique, Dpma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Soundmarke Bewegungsmarke Alicante Boutique
+# Hörmarken (Soundmarken) und Bewegungsmarken
 
 ## Arbeitsbereich
 
-**Soundmarke Bewegungsmarke Alicante Boutique** ordnet den Fall über die tragenden Prüffelder: Hoermarken (Soundmarken) und Bewegungsmarken für Jingles, Alicante, Boutique. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `soundmarke-und-bewegungsmarke` | Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke. |
-| `spezial-alicante-schriftsatz-brief-und-memo-bausteine` | Alicante: Schriftsatz-, Brief- und Memo-Bausteine im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-boutique-tatbestand-beweis-und-belege` | Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dpma-risikoampel-und-gegenargumente` | Dpma: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Markenrecht für Fashion und Luxus klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
 - Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `soundmarke-und-bewegungsmarke`
-
-**Fokus:** Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Prüfraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen für Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke.
-
-# Hörmarken (Soundmarken) und Bewegungsmarken
 
 ## Fachkern: Hörmarken (Soundmarken) und Bewegungsmarken
-- **Spezialgegenstand:** Hörmarken (Soundmarken) und Bewegungsmarken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 Die akustische Identität eines Luxushauses ist heute so wertvoll wie das visuelle Logo. Für klôtzzkètté SA habe ich das charakteristische Eröffnungs-Arpeggio der Modeschauen (fünf absteigende Harfentöne in e-Moll) und die Türklingelmelodik des Flagship-Stores auf der Maximilianstraße als Hörmarken abzusichern. Bewegungsmarken schützen animierte Logos und charakteristische Bewegungssequenzen.
 
@@ -150,127 +133,4 @@ Bevor die Hörmarke eingereicht wird, klaere:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsaetzlich eintragungsfaehig fuer Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).
-
-## 2. `spezial-alicante-schriftsatz-brief-und-memo-bausteine`
-
-**Fokus:** Alicante: Schriftsatz-, Brief- und Memo-Bausteine im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Alicante: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Spezialwissen: Alicante: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Alicante: Schriftsatz-, Brief- und Memo-Bausteine / alicante schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Alicante** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 3. `spezial-boutique-tatbestand-beweis-und-belege`
-
-**Fokus:** Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-## Spezialwissen: Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage / boutique tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Boutique** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 4. `spezial-dpma-risikoampel-und-gegenargumente`
-
-**Fokus:** Dpma: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Dpma: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Spezialwissen: Dpma: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Dpma: Risikoampel, Gegenargumente und Verteidigungslinien / dpma risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Dpma** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+> **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsaetzlich eintragungsfaehig für Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).

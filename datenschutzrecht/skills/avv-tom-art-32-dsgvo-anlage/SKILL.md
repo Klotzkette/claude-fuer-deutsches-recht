@@ -1,6 +1,6 @@
 ---
 name: avv-tom-art-32-dsgvo-anlage
-description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmaessige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch."
+description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch."
 ---
 
 # TOM-Anlage Art. 32 DSGVO
@@ -19,7 +19,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
 ## Rechtlicher Rahmen
 
 - Art. 32 Abs. 1 DSGVO: Geeignete TOM unter Beruecksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstaende und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos.
-- Art. 32 Abs. 1 lit. a bis d DSGVO: Pseudonymisierung und Verschluesselung, Vertraulichkeit, Integritaet, Verfuegbarkeit, Belastbarkeit, Wiederherstellbarkeit, regelmaessige Pruefung.
+- Art. 32 Abs. 1 lit. a bis d DSGVO: Pseudonymisierung und Verschluesselung, Vertraulichkeit, Integritaet, Verfuegbarkeit, Belastbarkeit, Wiederherstellbarkeit, regelmäßige Pruefung.
 - Art. 25 DSGVO: Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
 - Art. 28 Abs. 3 lit. c DSGVO: TOM als Pflichtklausel im AVV.
 
@@ -28,7 +28,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
 1. **Risikobewertung.**
  - Art der Daten (Stamm-, Verkehrs-, Inhaltsdaten, Art. 9 DSGVO).
  - Umfang und Zweck.
- - Eintrittswahrscheinlichkeit und Schwere des Risikos fuer Betroffene.
+ - Eintrittswahrscheinlichkeit und Schwere des Risikos für Betroffene.
 
 2. **Mindestkategorien (Art. 32 Abs. 1 DSGVO).**
 
@@ -41,7 +41,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
  | Verfuegbarkeit | Backup, RPO/RTO, Notfallplan, geo-redundante Speicherung |
  | Belastbarkeit | DDoS-Schutz, Lastverteilung, Failover-Verfahren |
  | Wiederherstellbarkeit | Backup-Tests, dokumentierte Wiederherstellungsverfahren |
- | Regelmaessige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
+ | Regelmäßige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
 
 3. **Organisatorische Massnahmen.**
  - Datenschutzbeauftragter, Datenschutzschulungen (jaehrlich), Vertraulichkeitsverpflichtungen, IT-Sicherheits-Richtlinie, Incident-Response-Plan, Need-to-Know-Prinzip, Berechtigungsverwaltung, Joiner-Mover-Leaver-Prozess.
@@ -71,28 +71,28 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 
 1. Pseudonymisierung (Art. 32 Abs. 1 lit. a DSGVO)
  1.1 In Entwicklungs- und Testumgebungen werden personenbezogene Daten ausschliesslich in pseudonymisierter Form verarbeitet.
- 1.2 Die Zuordnungstabelle wird getrennt gespeichert; Zugriff nur fuer den Datenschutzbeauftragten.
+ 1.2 Die Zuordnungstabelle wird getrennt gespeichert; Zugriff nur für den Datenschutzbeauftragten.
 
 2. Verschluesselung (Art. 32 Abs. 1 lit. a DSGVO)
  2.1 In Transit: TLS 1.3 mit Forward Secrecy; SSL/TLS-Konfiguration gemaess BSI TR-02102.
- 2.2 At Rest: AES-256 (CBC oder GCM) fuer alle Datenbanken und Backups.
+ 2.2 At Rest: AES-256 (CBC oder GCM) für alle Datenbanken und Backups.
  2.3 Schluesselverwaltung: HSM oder gleichwertige Loesung; jaehrliche Rotation.
 
 3. Vertraulichkeit (Art. 32 Abs. 1 lit. b DSGVO)
  3.1 Zutrittskontrolle: physische Sicherung der Rechenzentren (24/7-Bewachung, Mehrfaktor-Zutritt).
- 3.2 Zugangskontrolle: Multi-Faktor-Authentifizierung fuer alle priviligierten Konten.
+ 3.2 Zugangskontrolle: Multi-Faktor-Authentifizierung für alle priviligierten Konten.
  3.3 Zugriffskontrolle: rollenbasiertes Berechtigungsmodell, Least Privilege, periodische Rezertifizierung.
  3.4 Trennungskontrolle: mandantenfaehige Trennung; logische Trennung mit eigener Zugriffskontrolle.
 
 4. Integritaet (Art. 32 Abs. 1 lit. b DSGVO)
- 4.1 Weitergabekontrolle: dokumentierte Schnittstellen, Audit-Log fuer alle Datenexporte.
+ 4.1 Weitergabekontrolle: dokumentierte Schnittstellen, Audit-Log für alle Datenexporte.
  4.2 Eingabekontrolle: nachvollziehbare Protokollierung aller Schreibvorgaenge auf personenbezogene Daten.
- 4.3 Hash-Funktionen: SHA-256 oder besser fuer Integritaetspruefungen.
+ 4.3 Hash-Funktionen: SHA-256 oder besser für Integritaetspruefungen.
 
 5. Verfuegbarkeit und Belastbarkeit (Art. 32 Abs. 1 lit. b DSGVO)
  5.1 Backup: taegliche inkrementelle Backups, woechentliche Vollbackups, Aufbewahrung 30 Tage.
  5.2 RPO (Recovery Point Objective): hoechstens 24 Stunden.
- 5.3 RTO (Recovery Time Objective): hoechstens 8 Stunden fuer kritische Verarbeitungen.
+ 5.3 RTO (Recovery Time Objective): hoechstens 8 Stunden für kritische Verarbeitungen.
  5.4 Geo-Redundanz: synchrone Replikation in mindestens zwei EU-Rechenzentren.
  5.5 DDoS-Schutz: vorgeschalteter Filter; SLA mit Provider.
 
@@ -101,7 +101,7 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
  6.2 Dokumentierte Wiederherstellungsverfahren.
  6.3 Verifikation der Wiederherstellbarkeit durch tatsaechlichen Wiederherstellungstest mindestens halbjaehrlich.
 
-7. Regelmaessige Pruefung (Art. 32 Abs. 1 lit. d DSGVO)
+7. Regelmäßige Pruefung (Art. 32 Abs. 1 lit. d DSGVO)
  7.1 Penetrationstest durch unabhaengige Dritte mindestens jaehrlich.
  7.2 Vulnerability Scan monatlich.
  7.3 ISMS-internes Audit jaehrlich; externes Audit nach ISO 27001 jaehrlich.
@@ -149,7 +149,6 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - BSI C5:2020.
 - SOC 2 Trust Services Criteria.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

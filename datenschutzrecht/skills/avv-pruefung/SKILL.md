@@ -84,7 +84,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — AVV eines KI-Anbieters fuer Kanzlei pruefen | Pruefschema Art. 28 DSGVO; Template unten |
+| Standard — AVV eines KI-Anbieters für Kanzlei pruefen | Pruefschema Art. 28 DSGVO; Template unten |
 | Variante A — AVV des Anbieters nicht verhandelbar | Risikoanalyse dokumentieren; Mandantenhinweis erwaegen |
 | Variante B — eigene AVV als Auftragsverarbeiter erstellen | Umgekehrte Perspektive; eigene Pflichten aus Art. 28 Abs. 3 DSGVO |
 | Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert pruefen; Haftungskette sichern |
@@ -165,8 +165,7 @@ Sub-AVs mit Drittlandexposure?
  Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
  Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
 ```
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — AVV-Review-Ergebnis
 

@@ -7,47 +7,47 @@ description: "Verwr Verwaltungsverfahren Eilantrag ABS im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-**Verwr Verwaltungsverfahren Eilantrag ABS** ordnet den Fall über die tragenden Prüffelder: Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verwr Verwaltungsverfahren Eilantrag ABS** ordnet den Fall über die tragenden Prüfungslinien: Checkliste Verwaltungsverfahren VwVfG, Eilantrag auf Wiederherstellung oder Anordnung, Rechtsschutz gegen Planfeststellungsbeschluss für Strom-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `verwr-verwaltungsverfahren-checkliste` | Checkliste Verwaltungsverfahren VwVfG: Anhoerung § 28, Begruendung § 39, Bekanntgabe § 41, Anhoerung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler. |
-| `eilantrag-80-abs-5-vwgo` | Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behoerde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift. |
+| `verwr-verwaltungsverfahren-checkliste` | Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler. |
+| `eilantrag-80-abs-5-vwgo` | Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behörde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift. |
 | `energietrassen-planfeststellung-rechtsschutz` | Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Prüfraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verwaltungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `verwr-verwaltungsverfahren-checkliste`
 
-**Fokus:** Checkliste Verwaltungsverfahren VwVfG: Anhoerung § 28, Begruendung § 39, Bekanntgabe § 41, Anhoerung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler.
+**Fokus:** Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler.
 
 # VerwR: Verwaltungsverfahren-Checkliste
 
 ## Aufgabe
-Checkliste Verwaltungsverfahren VwVfG: Anhoerung § 28, Begruendung § 39, Bekanntgabe § 41, Anhoerung bei Ermessensentscheidungen.
+Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Verwaltungsverfahren (formelle Rechtmaessigkeit des VA)
 
-1. **Zustaendigkeit** — sachlich, oertlich, instanziell (§§ 3, 4 VwVfG). Auch funktionelle Zustaendigkeit pruefen.
+1. **Zuständigkeit** — sachlich, oertlich, instanziell (§§ 3, 4 VwVfG). Auch funktionelle Zuständigkeit pruefen.
 2. **Verfahren**
- - **Anhoerung Beteiligter** § 28 VwVfG vor Erlass eines belastenden VA; Heilung nach § 45 I Nr. 3, II VwVfG bis Abschluss letzte Tatsacheninstanz.
+ - **Anhörung Beteiligter** § 28 VwVfG vor Erlass eines belastenden VA; Heilung nach § 45 I Nr. 3, II VwVfG bis Abschluss letzte Tatsacheninstanz.
  - **Mitwirkung** Drittbetroffener (§ 13 VwVfG).
  - **Akteneinsicht** § 29 VwVfG; **Geheimhaltung** § 30 VwVfG.
  - **Befangenheit** §§ 20, 21 VwVfG (Mitwirkungsverbot, Besorgnis der Befangenheit).
@@ -56,19 +56,19 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
  - Schriftform, elektronische Form, muendlich (§ 37 II VwVfG). Bei elektronischem VA: § 37 III, IV VwVfG.
  - **Begruendung** § 39 VwVfG (Ausnahmen § 39 II); fehlende/unzureichende Begruendung heilbar nach § 45 I Nr. 2 VwVfG.
  - **Rechtsbehelfsbelehrung** § 37 VI VwVfG; Folge fehlerhafter Belehrung: Jahresfrist (§ 58 II VwGO).
-4. **Bekanntgabe** § 41 VwVfG — Zugang, Drei-Tages-Fiktion (§ 41 II VwVfG), oeffentliche Bekanntgabe (§ 41 III, IV VwVfG); elektronische Bekanntgabe § 41 IIa VwVfG.
+4. **Bekanntgabe** § 41 VwVfG — Zugang, Drei-Tages-Fiktion (§ 41 II VwVfG), öffentliche Bekanntgabe (§ 41 III, IV VwVfG); elektronische Bekanntgabe § 41 IIa VwVfG.
 
 ## Fehlerfolgen
 
-- **Nichtigkeit** § 44 VwVfG: schwerer und offenkundiger Fehler (z. B. Erlass durch nicht existierende Behoerde, Unmoeglichkeit).
-- **Heilung** § 45 VwVfG: Antrag, Begruendung, Anhoerung, Mitwirkung, Beschluss eines Ausschusses nachholbar bis zum Abschluss der letzten Tatsacheninstanz (§ 45 II VwVfG idF seit 1996).
+- **Nichtigkeit** § 44 VwVfG: schwerer und offenkundiger Fehler (z. B. Erlass durch nicht existierende Behörde, Unmoeglichkeit).
+- **Heilung** § 45 VwVfG: Antrag, Begruendung, Anhörung, Mitwirkung, Beschluss eines Ausschusses nachholbar bis zum Abschluss der letzten Tatsacheninstanz (§ 45 II VwVfG idF seit 1996).
 - **Unbeachtlichkeit** § 46 VwVfG: bei gebundenen Entscheidungen, wenn offensichtlich, dass Fehler die Entscheidung in der Sache nicht beeinflusst hat. Bei Ermessen jedoch keine Unbeachtlichkeit.
 - **Umdeutung** § 47 VwVfG.
 
 ## Praxisfallen
 
-- **Anhoerung** wird gerne uebersehen; im Klageverfahren regelmaessig erfolgreich rugbar, wenn keine Heilung nachgeholt wurde.
-- **Begruendungstiefe**: bei Ermessensentscheidungen muss die Begruendung die wesentlichen Ermessensgesichtspunkte erkennen lassen (§ 39 I 3 VwVfG). Fehlende Ermessensausuebung = Ermessensnichtgebrauch, nicht durch Begruendungsnachholung heilbar.
+- **Anhörung** wird gerne uebersehen; im Klageverfahren regelmaessig erfolgreich rugbar, wenn keine Heilung nachgeholt wurde.
+- **Begruendungstiefe**: bei Ermessensentscheidungen muss die Begruendung die wesentlichen Ermessensgesichtspunkte erkennen lassen (§ 39 I 3 VwVfG). Fehlende Ermessensausübung = Ermessensnichtgebrauch, nicht durch Begruendungsnachholung heilbar.
 - **Drei-Tages-Fiktion** § 41 II VwVfG nur bei Versendung im Inland; bei Auslandszustellung andere Regeln (§ 41 II 4 VwVfG).
 
 ## Plugin-Kontext
@@ -88,14 +88,14 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## 2. `eilantrag-80-abs-5-vwgo`
 
-**Fokus:** Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behoerde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift.
+**Fokus:** Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behörde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift.
 
 # Eilantrag § 80 Abs. 5 VwGO
 
@@ -113,7 +113,7 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 6. Liegt ein Fall des § 80a VwGO vor (drittbetroffener Nachbar gegen Baugenehmigung)?
 7. Wurde ein Aussetzungsantrag bei der Behörde nach § 80 Abs. 4 VwGO gestellt und abgelehnt?
 8. Welches Gericht ist zuständig — VG, OVG, BVerwG (NABEG/EnLAG)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -141,7 +141,6 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema § 80 Abs. 5 VwGO
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -202,12 +201,11 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Eilantrag nach § 80 Abs. 5 VwGO gegen sofortvollziehbaren VA | Eilantragsschriftsatz nach Pruefschema; Template unten |
-| Variante A — Aussetzung der Vollziehung direkt bei Behoerde realistisch | Antrag bei Behoerde § 80 Abs. 4 VwGO zuerst; Gericht nur bei Ablehnung |
+| Variante A — Aussetzung der Vollziehung direkt bei Behörde realistisch | Antrag bei Behörde § 80 Abs. 4 VwGO zuerst; Gericht nur bei Ablehnung |
 | Variante B — Mandant akzeptiert VA aber nicht die sofortige Vollziehung | Nur Aussetzungsantrag ohne Widerspruch in der Hauptsache |
 | Variante C — Eilantrag hat geringe Erfolgsaussichten Folgenabwaegung | Folgenabwaegung in den Vordergrund stellen statt summarischer Pruefung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -402,11 +400,10 @@ und die aufschiebende Wirkung wiederherzustellen.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Streitwert und Kosten
 
@@ -468,7 +465,7 @@ Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Off
 6. Liegt Enteignung oder Entschädigungsanspruch des Grundeigentümers vor?
 7. Hat der Verband im Planfeststellungsverfahren ordnungsgemäß mitgewirkt (Pflichtvoraussetzung UmwRG)?
 8. Welche konkreten Fehler bestehen — Alternativenprüfung, UVP-Defizit, Artenschutz-saP, Lärmschutz, Erdkabel-Abwägung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -493,7 +490,6 @@ Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Off
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Planfeststellungs-Rechtsschutz
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -560,7 +556,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Oeffentlichkeit will Gesamtprojekt verhindern | Normenkontrolle oder UVP-Ruege als staerkere Angriffspunkte |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -707,11 +702,10 @@ vorherige Unterrichtung über den Erörterungstermin.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Streitwert und Kosten
 

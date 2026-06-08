@@ -1,38 +1,25 @@
 ---
 name: beweiswuerdigung-richter-cisg-dsgvo
-description: "Beweiswuerdigung Richter CISG DSGVO im Plugin Urteilsbauer Relationsmacher: prüft konkret Strukturierte Beweiswürdigung nach § 286 ZPO schreiben, UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen, Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Beweiswuerdigung Richter CISG DSGVO
+# Beweiswürdigung mit haendischem Richter-Input
 
 ## Arbeitsbereich
 
-**Beweiswuerdigung Richter CISG DSGVO** ordnet den Fall über die tragenden Prüffelder: Strukturierte Beweiswürdigung nach § 286 ZPO schreiben, UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen, Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `beweiswuerdigung-mit-richter-input` | Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben. |
-| `cisg-pruefen` | UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang. |
-| `dsgvo-rechtswidriges-produkt` | Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (räumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), Art. 13-14 (Informationspflichten), Art. 44 ff. (Drittlandtransfer), Art. 22 (automatisierte Entscheidung). Prüfraster: Anwendbarkeit, Rechtsgrundlage, Sonderkateg. Daten, Drittlandtransfer. Output DSGVO-Prüfschema mit Ergebnis und Empfehlung. Abgrenzung: allgemeine DSGVO-Beratung siehe datenschutzrecht-Plugin; DSA siehe dsa-dma-Plugin. |
+Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `beweiswuerdigung-mit-richter-input`
-
-**Fokus:** Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben.
-
-# Beweiswürdigung mit haendischem Richter-Input
+## Spezialwissen
 
 Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laesst sich nicht automatisieren - aber strukturieren.
-
 
 ## Triage zu Beginn
 
@@ -114,187 +101,3 @@ Auf das Sitzungsprotokoll und auf das Sachverständigengutachten ist nach Paragr
 ## Output
 
 Strukturierte Datei `beweiswuerdigung.md` mit den Aussagen, der Würdigung und der zusammenfassenden Feststellung.
-
-## 2. `cisg-pruefen`
-
-**Fokus:** UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang.
-
-# CISG-Prüfung
-
-Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf) ist ein direkt anwendbares Einheitskaufrecht und geht dem IPR vor, soweit es eingreift.
-
-
-## Triage zu Beginn
-
-1. Sind beide Parteien Kaufleute mit Niederlassung in verschiedenen Vertragsstaaten des CISG?
-2. Ist der Gegenstand eine bewegliche körperliche Sache (kein Konsumkauf, keine Dienstleistung)?
-3. Haben die Parteien die Anwendung des CISG wirksam ausgeschlossen (Art. 6 CISG — ausdrücklicher Ausschluss nötig)?
-4. Welche Rügefrist gilt — ist die Rügeobliegenheit nach Art. 38, 39 CISG gewahrt?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- Art. 1 CISG — sachlicher, persönlicher, räumlicher Anwendungsbereich
-- Art. 6 CISG — Ausschluss durch Vereinbarung (muss ausdrücklich sein)
-- Art. 25 CISG — wesentliche Vertragsverletzung
-- Art. 35 CISG — Vertragsgemäßheit der Ware
-- Art. 38, 39 CISG — Untersuchungs- und Rügeobliegenheit
-- Art. 49 CISG — Aufhebungsrecht des Käufers
-- Art. 74-78 CISG — Schadensersatz und Zinsen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-für-Schritt-Workflow
-
-1. **Anwendbarkeit prüfen:** Vertragsstaaten? Warenkauf? Kein Konsumkauf? Kein wirksamer Ausschluss?
-2. **Vertragsgemäßheit prüfen (Art. 35 CISG):** War die Ware vertragsgemäß geliefert?
-3. **Rüge geprüft (Art. 38, 39 CISG):** Wurde innerhalb angemessener Frist gerügt? (Bei Fristversäumnis: Verlust der Mängelrechte.)
-4. **Wesentliche Vertragsverletzung (Art. 25 CISG):** Nur dann Vertragsaufhebung (Art. 49 CISG).
-5. **Rechtsbehelfe prüfen:** Minderung, Schadensersatz (Art. 74 ff. CISG), Zinsen (Art. 78 CISG).
-
-## Output-Template
-
-**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
-
-```
-## CISG-Prüfung
-
-**Anwendbarkeit:** Das CISG ist anwendbar, weil [PARTEI A] ihre Niederlassung in [STAAT A]
-und [PARTEI B] ihre Niederlassung in [STAAT B] hat, beides CISG-Vertragsstaaten (Art. 1 Abs. 1 lit. a CISG).
-Ein Ausschluss nach Art. 6 CISG liegt nicht vor. [Alternativ: CISG ausgeschlossen durch Klausel ...]
-
-**Vertragsgemäßheit (Art. 35 CISG):** Die Ware war [vertragsgemäß / nicht vertragsgemäß], weil [BEGRÜNDUNG].
-
-**Rügeobliegenheit (Art. 38, 39 CISG):** [Die Rüge erfolgte am DATUM, innerhalb angemessener Frist.
-/ Die Rüge erfolgte nicht fristgerecht, so dass Käufer seine Mängelrechte verloren hat.]
-
-**Ergebnis:** [PARTEI] hat Anspruch auf [Minderung / Schadensersatz / Aufhebung] nach Art. [NORM] CISG.
-```
-
-## Anwendungsbereich
-
-1. **Sachlich** (Artikel 1-5 CISG): Kauf von Waren (bewegliche koerperliche Sachen). Ausnahmen: Konsumkauf, Versteigerung, Wertpapiere, Geld, Schiffe, Luftfahrzeuge, Elektrizitaet.
-2. **Persönlich** (Artikel 1 CISG): Parteien haben ihre Niederlassung in verschiedenen Vertragsstaaten ODER IPR führt zur Anwendung des Rechts eines Vertragsstaates.
-3. **Raeumlich**: Beide Parteien in Vertragsstaaten (Deutschland, Schweiz, USA, China, Frankreich, Italien, alle EU außer UK seit Brexit, ...).
-4. **Zeitlich**: nach 1. Januar 1991 für Deutschland.
-
-## Ausschluss
-
-- Artikel 6 CISG: Parteien koennen die Anwendung ganz oder teilweise ausschließen.
-- Wirksamer Ausschluss erfordert klare Vereinbarung. **Nicht ausreichend** ist die blosse Rechtswahl "deutsches Recht" - CISG ist Teil des deutschen Rechts. Erforderlich: ausdruecklicher Ausschluss ("unter Ausschluss des UN-Kaufrechts").
-
-## Wichtige Vorschriften
-
-- **Artikel 25 CISG** - wesentliche Vertragsverletzung
-- **Artikel 35 CISG** - Vertragsmaessigkeit der Ware
-- **Artikel 38 und 39 CISG** - Untersuchungs- und Ruegeobliegenheit; kurze Frist
-- **Artikel 49 CISG** - Aufhebung des Vertrages bei wesentlicher Vertragsverletzung
-- **Artikel 74-77 CISG** - Schadensersatz
-- **Artikel 78 CISG** - Zinsen ab Fälligkeit (Höhe nach nationalem Recht)
-
-## Kollisionsfälle
-
-Wenn die Parteien gleichzeitig deutsches und Schweizer Recht wählen (kollidierende AGB), greift in der Regel CISG, weil beide Staaten Vertragsstaaten sind und die Rechtswahl in beiden Fällen auf einen Vertragsstaat führt. Falls eine Partei den Ausschluss in ihren AGB hat und die andere nicht, ist nach der Theorie der Resstgültigkeit / Knock-out-Doktrin (Artikel 19 CISG, herrschende Meinung in Deutschland) der Ausschluss nicht wirksam vereinbart.
-
-## 3. `dsgvo-rechtswidriges-produkt`
-
-**Fokus:** Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (räumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), Art. 13-14 (Informationspflichten), Art. 44 ff. (Drittlandtransfer), Art. 22 (automatisierte Entscheidung). Prüfraster: Anwendbarkeit, Rechtsgrundlage, Sonderkateg. Daten, Drittlandtransfer. Output DSGVO-Prüfschema mit Ergebnis und Empfehlung. Abgrenzung: allgemeine DSGVO-Beratung siehe datenschutzrecht-Plugin; DSA siehe dsa-dma-Plugin.
-
-# DSGVO-rechtswidriges Produkt
-
-Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
-
-
-## Triage zu Beginn
-
-1. Unterliegt das Produkt dem räumlichen Anwendungsbereich der DSGVO (Art. 3 Abs. 1 oder Abs. 2 DSGVO)?
-2. Welche Kategorien personenbezogener Daten werden verarbeitet — biometrische Daten (Art. 9 DSGVO)?
-3. Werden Daten in Drittländer übermittelt ohne SCC oder anderen Mechanismus (Art. 44 ff. DSGVO)?
-4. Hat der Käufer wirksame Einwilligung erteilt oder scheidet Einwilligung aus (Art. 7 DSGVO)?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- Art. 3 DSGVO — räumlicher Anwendungsbereich (Niederlassungs- und Marktortprinzip)
-- Art. 6 DSGVO — Rechtsgrundlagen für Verarbeitung
-- Art. 7 DSGVO — wirksame Einwilligung
-- Art. 9 DSGVO — besondere Kategorien (biometrische Daten, Gesundheitsdaten)
-- Art. 44 ff. DSGVO — Drittlandübermittlung (SCC, Angemessenheitsbeschluss)
-- Art. 82 DSGVO — Schadensersatz (materiell und immateriell)
-- § 134 BGB — Nichtigkeit bei Verstoß gegen Verbotsgesetz
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-für-Schritt-Workflow
-
-1. **Anwendbarkeit DSGVO prüfen (Art. 3):** Niederlassungsprinzip oder Marktortprinzip.
-2. **Verarbeitungsarten inventarisieren:** Welche Daten werden vom Produkt verarbeitet?
-3. **Rechtsgrundlage prüfen (Art. 6, 7, 9):** Für jede Verarbeitungsart.
-4. **Drittlandübermittlung (Art. 44 ff.):** SCC vorhanden? Angemessenheitsbeschluss?
-5. **Privatrechtliche Konsequenzen:** Nichtigkeit § 134 BGB? Sachmangel § 434 BGB? CISG Art. 35?
-6. **Schadensersatz (Art. 82 DSGVO):** Materiell und immateriell — konkreten Schaden darlegen.
-
-## Output-Template
-
-**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
-
-```
-## DSGVO-Prüfung
-
-**Anwendbarkeit Art. 3 DSGVO:** Ja, weil [Niederlassungsprinzip / Marktortprinzip: Produkt
-richtet sich an Personen in der EU].
-
-**Verarbeitungsarten:** [Produkt X] verarbeitet [DATENART, z.B. biometrische Daten nach Art. 9 DSGVO].
-
-**Rechtsgrundlage Art. 6 DSGVO:** Keine wirksame Rechtsgrundlage, weil [BEGRÜNDUNG].
-
-**Folge:** [Sachmangel § 434 BGB / Nichtigkeit § 134 BGB / Schadensersatz Art. 82 DSGVO].
-```
-
-## Pruefstationen
-
-### A - Anwendbarkeit der DSGVO
-
-- Art. 3 Abs. 1 DSGVO: Niederlassungsprinzip
-- Art. 3 Abs. 2 DSGVO: Marktortprinzip - Anbieten von Waren oder Dienstleistungen an Personen in der Union ODER Verhaltensbeobachtung in der Union
-- DSGVO ist Eingriffsnorm im Sinne Art. 9 Rom-I (deutsche Gerichte wenden sie auch dann an, wenn das Vertragsstatut ausländisch ist)
-
-### B - Verstöße prüfen
-
-1. **Art. 5 Abs. 1 DSGVO** - Grundsätze (Rechtmäßigkeit, Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integritaet, Rechenschaftspflicht)
-2. **Art. 6 DSGVO** - Rechtsgrundlage
-3. **Art. 7 DSGVO** - Einwilligung (informiert, freiwillig, widerrufbar)
-4. **Art. 9 DSGVO** - besondere Kategorien (Gesundheits-, biometrische Daten)
-5. **Art. 13 und 14 DSGVO** - Informationspflichten
-6. **Art. 22 DSGVO** - automatisierte Entscheidung im Einzelfall
-7. **Art. 25 DSGVO** - privacy by design und by default
-8. **Art. 32 DSGVO** - Sicherheit der Verarbeitung
-9. **Art. 44 ff DSGVO** - Datenübermittlung in Drittlaender
-
-### C - Folgen für den Privatrechtsstreit
-
-- Verstoß gegen ein Verbotsgesetz (Art. 6 DSGVO i. V. m. nationaler Norm)? -> Nichtigkeit nach Paragraf 134 BGB?
-- Sachmangel im Sinne Paragraf 434 BGB i. V. m. Art. 6 ProduktsicherheitsVO 2023?
-- Mangel im Sinne Art. 35 CISG (Vertragsmaessigkeit)?
-
-## Smartglasses und Wearables - typische Verstöße
-
-- heimliche Aufzeichnung Dritter ohne deren Wissen (Verletzung Persönlichkeitsrecht aller in der Umgebung)
-- Live-Streaming der Kameraperspektive ohne Hinweis-LED
-- Gesichtserkennung in Echtzeit
-- Datenübertragung in Drittlaender ohne SCC oder anderen Mechanismus
-
-## Im Urteil
-
-Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgründen konkret die verletzten DSGVO-Artikel benennen und subsumieren.
-
-<!-- AUDIT 27.05.2026 -->
-<!-- BGH VI ZR 39/20 (claimed: DSGVO-Versto\u00dfe Schadensersatz Art. 82, NJW 2021, 3041): NOT_FOUND auf dejure.org. NJW 2021, 3041 gehoert zu BGH VI ZR 40/20 (VW-Abgasskandal §826 BGB) – thematisch unverwandt. Eintrag geloescht. DSGVO-Schadensersatz wird durch bereits vorhandene EuGH-Zitate C-300/21 und C-340/21 abgedeckt. -->

@@ -7,10 +7,10 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 
 ## Arbeitsbereich
 
-**AR Aufhebungsvertrag Konkurrenzklausel** ordnet den Fall über die tragenden Prüffelder: Aufhebungsvertrag in der Praxis, Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog, Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**AR Aufhebungsvertrag Konkurrenzklausel** ordnet den Fall über die tragenden Prüfungslinien: Aufhebungsvertrag in der Praxis, Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog, Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `ar-aufhebungsvertrag-praxis` | Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden. |
 | `ar-konkurrenzklausel-spezial` | Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel. |
@@ -18,12 +18,12 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `ar-aufhebungsvertrag-praxis`
 
@@ -38,7 +38,6 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständige anwaltliche Begleitung beim Aufhebungsvertrag — von der Erstprüfung über die Verhandlung bis zur Unterzeichnung. Kritische Weichen: Sperrzeitrisiko, Klageverzichtswert, AGB-Kontrolle der Klauseln und steuerliche Gestaltung.
@@ -147,7 +146,6 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständige Prüfung nachvertraglicher Wettbewerbsverbote — von der Klauselwirksamkeit über die Karenzentschädigungsberechnung bis zur Verteidigungsstrategie bei behauptetem Verstoß.
@@ -270,7 +268,6 @@ Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzi
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur für Arbeit erleidet (§ 159 SGB III).
@@ -290,7 +287,7 @@ Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch
 
 ### Konstellation A: Drohende ordentliche AG-Kündigung
 
-Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen ordentlichen betriebsbedingten Kuendigung des AG bei eingehaltener Kuendigungsfrist begruendet wichtigen Grund i.S.d. § 159 SGB III. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 
 - AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
@@ -403,10 +400,10 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## 9) BSG-Linien
 
-- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmaessigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. § 144 SGB III a.F. (= heute § 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- **BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R**: Aufhebungsvertrag zur Abwendung einer drohenden, objektiv rechtmäßigen betriebsbedingten Kuendigung des Arbeitgebers begruendet wichtigen Grund i.S.d. § 144 SGB III a.F. (= heute § 159 SGB III), sofern die Hinnahme der Kuendigung dem Arbeitnehmer nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
 - **BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R**: Praezisierung der Anforderungen an die "objektive Rechtmaessigkeit" der drohenden Kuendigung; die Drohung muss konkret und ernsthaft sein. Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
-- **BSG, Urteil vom 17.11.2005 - B 11a/11 AL 69/04 R**: Sondernutzen fuer leitende Angestellte; vermeidende Aufhebungsvereinbarung. Quelle: dejure.org.
-- Fachliche Weisungen der Bundesagentur fuer Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- **BSG, Urteil vom 17.11.2005 - B 11a/11 AL 69/04 R**: Sondernutzen für leitende Angestellte; vermeidende Aufhebungsvereinbarung. Quelle: dejure.org.
+- Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Praxisliterature und neueres BSG-Aktenzeichen ohne offene Quelle nicht zitieren.
 
 ## Anschluss
@@ -417,7 +414,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmaessiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
+- BSG, 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender objektiv rechtmäßiger betriebsbedingter Kuendigung mit eingehaltener Frist. Quelle: dejure.org.
 - BSG, 02.05.2012 - B 11 AL 6/11 R: Drohung muss konkret und ernsthaft sein. Quelle: dejure.org.
 - Hinweis: Weitere BSG-Entscheidungen (Q4/2025 - Q2/2026) konnten zum Stand der Aktualisierung nicht ueber dejure.org/openjur.de mit Volltext und konkretem Aktenzeichen verifiziert werden. Anwaltlicher Beratungsstandard: Pruefung der jeweils aktuellen Fachlichen Weisungen der BA zu § 159 SGB III.
 

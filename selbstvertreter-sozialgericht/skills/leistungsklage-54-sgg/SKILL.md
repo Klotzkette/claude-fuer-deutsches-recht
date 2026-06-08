@@ -1,6 +1,6 @@
 ---
 name: leistungsklage-54-sgg
-description: "Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger."
+description: "Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behörde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger."
 ---
 
 # Die Leistungsklage — § 54 Abs. 5 SGG
@@ -13,11 +13,11 @@ description: "Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkre
 
 ## Worum geht es?
 
-Manchmal hat die Behoerde Ihnen schon zugesagt, dass Sie etwas bekommen. Aber sie zahlt nicht oder erbringt nicht. Dann brauchen Sie keinen neuen Bescheid — Sie brauchen konkret eine Handlung. Die Leistungsklage zielt direkt auf das Tun.
+Manchmal hat die Behörde Ihnen schon zugesagt, dass Sie etwas bekommen. Aber sie zahlt nicht oder erbringt nicht. Dann brauchen Sie keinen neuen Bescheid — Sie brauchen konkret eine Handlung. Die Leistungsklage zielt direkt auf das Tun.
 
 ## In einfacher Sprache
 
-Die Behoerde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmittel kommt nicht. Sie verklagen die Behoerde direkt auf das, was sie tun soll.
+Die Behörde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmittel kommt nicht. Sie verklagen die Behörde direkt auf das, was sie tun soll.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Die Behoerde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmitte
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Leistungsklage**: Klage direkt auf eine Handlung der Behoerde.
+- **Leistungsklage**: Klage direkt auf eine Handlung der Behörde.
 - **Schlichte Geldleistung**: Konkreter Geldbetrag, der gezahlt werden muss.
 - **Vollstreckung**: Wenn auch nach Urteil nicht gezahlt wird, koennen Sie das Geld eintreiben.
 
@@ -37,7 +37,7 @@ Die Behoerde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmitte
 - **§ 131 SGG** — Urteil.
 - **§ 199 SGG** — Vollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Leistungsklage passt
 
@@ -47,7 +47,7 @@ Leistungsklage ohne Vorverfahren ist moeglich, wenn:
 - Es um schlichte Zahlung geht (Bewilligung schon erfolgt).
 - Es um schlichte Handlung geht (Hilfsmittel-Lieferung).
 
-Wenn die Behoerde noch einen ablehnenden Bescheid hat: Sie brauchen erst Widerspruch und dann kombinierte Klage.
+Wenn die Behörde noch einen ablehnenden Bescheid hat: Sie brauchen erst Widerspruch und dann kombinierte Klage.
 
 ### Schritt 2 — Klageschrift
 
@@ -61,7 +61,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde]
+[Behörde]
 [Adresse]
 
 — Beklagte —
@@ -99,13 +99,13 @@ Wie alle Klagen: schriftlich, Fax, MJP, oder zur Niederschrift.
 
 ### Schritt 4 — Bei Erfolg Vollstreckung
 
-Wenn die Behoerde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199 SGG). Selten noetig, weil Behoerden meistens dann zahlen.
+Wenn die Behörde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199 SGG). Selten noetig, weil Behörden meistens dann zahlen.
 
 ## Worauf Sie besonders achten muessen
 
 - **Wenn doch noch ein Ablehnungsbescheid existiert**: Leistungsklage allein nicht ausreichend, dann Anfechtungs- und Leistungsklage.
 - **Verzugszinsen**: Bei Sozialleistungen gibt es regelmaessig Verzinsung nach § 44 SGB I (4 % p.a. ab dem 7. Monat nach Antragsmonat).
-- **Vor Klage erinnern**: Schicken Sie eine schriftliche Erinnerung mit Fristsetzung an die Behoerde.
+- **Vor Klage erinnern**: Schicken Sie eine schriftliche Erinnerung mit Fristsetzung an die Behörde.
 
 ## Typische Fehler
 
@@ -123,7 +123,6 @@ Wenn die Behoerde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
-
 
 ## Qualitäts-Hardening
 

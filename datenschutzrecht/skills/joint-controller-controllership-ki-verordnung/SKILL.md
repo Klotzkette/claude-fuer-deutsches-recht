@@ -7,10 +7,10 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 
 ## Arbeitsbereich
 
-**Joint Controller Controllership KI Verordnung** ordnet den Fall über die tragenden Prüffelder: Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Joint Controller Controllership KI Verordnung** ordnet den Fall über die tragenden Prüfungslinien: Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `joint-controller-vereinbarung` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung). |
 | `joint-controllership-en-template` | English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2) GDPR. Output: complete English joint controller agreement template. |
@@ -20,12 +20,12 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `joint-controller-vereinbarung`
 
@@ -473,7 +473,7 @@ Das Wesentliche dieser Vereinbarung wird Betroffenen gemäß Art. 26 Abs. 2 DSGV
 
 ## Zweck / Purpose
 
-English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
+English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
 
 ## Wann dieses Modul hilft
 
@@ -626,7 +626,6 @@ Date: Date:
 - Full texts available via curia.europa.eu.
 - Citation rules: `../../../references/zitierweise.md`.
 ```
-
 
 ## Qualitäts-Hardening
 
@@ -915,8 +914,8 @@ Verbote (Auswahl):
 - **Stufenweise Anwendung KI-VO (Art. 113):** 02.02.2025 — Verbote Art. 5 und Art. 4 KI-Kompetenz; 02.08.2025 — GPAI-Pflichten Art. 51-55, Sanktionsregime Art. 99; 02.08.2026 — Hochrisiko Anhang III, Art. 50 Transparenzpflichten; 02.08.2027 — Hochrisiko Anhang I. Quelle: VO (EU) 2024/1689, eur-lex.europa.eu/eli/reg/2024/1689/oj.
 - **EDSA-Schnittstelle KI-VO / DSGVO:** EDSA-Stellungnahme 28/2024 (Modelle, die mit personenbezogenen Daten trainiert wurden) — verbindliche Auslegungshilfe zur DSGVO-Grundlage bei KI-Training und -Deployment. Quelle: edpb.europa.eu.
 - **GPAI Code of Practice:** seit 2025 verfuegbar; Anbieter, die zeichnen, geniessen Vermutung der Compliance (Art. 56 KI-VO). Live-Status der Saeulen (Transparenz, Urheberrecht, Safety/Security) ueber digital-strategy.ec.europa.eu pruefen.
-- **EU AI Office:** seit Anfang 2025 voll operativ; zustaendig fuer GPAI, Koordination mit nationalen Behoerden, Code of Practice.
-- **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zustaendigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live ueber bundestag.de pruefen.
+- **EU AI Office:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
+- **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live ueber bundestag.de pruefen.
 - **Schnittstelle Art. 22 DSGVO / KI-VO:** Bei automatisierten Einzelentscheidungen mit erheblicher Wirkung (Scoring, Personalauswahl, Kredit) parallele Pruefung Art. 22 DSGVO + Art. 26 KI-VO + ggf. FRIA Art. 27 KI-VO erforderlich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber curia.europa.eu verifizieren.
 

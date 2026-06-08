@@ -13,7 +13,7 @@ description: "Prueft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer 
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
+Anwendungsfall: eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
 
 ## Prüfroutine
 
@@ -29,6 +29,23 @@ Dieses Fachmodul greift, wenn eine neue Auslegung, geänderte Rechtsprechung ode
 - Der Normzweck wird so weit gefasst, dass frühere Dispositionen entwertet werden.
 - Verkehrskreise hätten den neuen Maßstab nur mit Spezialwissen erkennen können.
 - Einzelfallgerechtigkeit verdrängt Rechtssicherheit, ohne dies offen zu sagen.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 

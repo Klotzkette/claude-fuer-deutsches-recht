@@ -5,12 +5,24 @@ description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt im Forschung
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt
 
-## Spezialwissen: Mehrjahresroadmap: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Mehrjahresroadmap: Fristennotiz und nächster Schritt / mehrjahresroadmap fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** FZulG, BSFZ.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Arbeitsfokus: **Mehrjahresroadmap: Fristennotiz und nächster Schritt**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1 FZulG` — Anspruchsberechtigung.
+- `§ 2 Abs. 1 FZulG` — begünstigtes F&E-Vorhaben.
+- `§ 3 FZulG` — förderfähige Aufwendungen.
+- `§ 4 FZulG` — Höhe der Zulage.
+- `§ 5 FZulG` — Antrag.
+- `§ 6 FZulG` — Bescheinigung.
+- `§ 10 FZulG` — Festsetzung/Auszahlung.
+- `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Mehrjahresroadmap: Fristennotiz und nächster Schritt
+- **Normen-/Quellenanker:** FZulG, BSFZ.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

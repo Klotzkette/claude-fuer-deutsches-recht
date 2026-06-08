@@ -7,7 +7,7 @@ description: "Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenu
 
 ## Zweck
 
-Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik fuer die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
+Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik für die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
 
 ## Wann dieses Modul hilft
 
@@ -21,7 +21,7 @@ Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNI
 - Art. 35 Abs. 7 DSGVO Mindestinhalte der DSFA — methodenoffen.
 - EDSA-Leitlinien WP 248 rev.01 verweisen auf etablierte Methoden, ohne eine vorzuschreiben.
 - CNIL PIA Methodology (Privacy Impact Assessment): freie Software der franzoesischen Datenschutzbehoerde CNIL, modular, dreiteilig (Knowledge Base, Methodology, Templates).
-- Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz: Schutzziele Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung; Referenz fuer Aufsichtsverfahren in Deutschland.
+- Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz: Schutzziele Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung; Referenz für Aufsichtsverfahren in Deutschland.
 - BSI-Grundschutz mit Datenschutz-Baustein: technische Bausteine mit Bezug zu Schutzbedarfsfeststellung; nicht primaer DSFA-spezifisch, aber kompatibel.
 
 ## Methoden im Vergleich
@@ -44,7 +44,7 @@ Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNI
 3. **Risikoanalyse.** Methodisches Risikomodell waehlen: Schadensszenarien (CNIL), Schutzziele (SDM) oder Schutzbedarf (BSI).
 4. **Massnahmen.** Methode steuert die Massnahmenstruktur: CNIL fragt pro Szenario, SDM pro Schutzziel, BSI pro Baustein.
 5. **Restrisiko.** Methodenwahl beeinflusst Bewertungsmassstab; bei Hybridansatz beide Skalen dokumentieren.
-6. **Konsultation / Genehmigung.** DSB-Anhoerung; Methodenwahl in der DSFA explizit begruenden.
+6. **Konsultation / Genehmigung.** DSB-Anhörung; Methodenwahl in der DSFA explizit begruenden.
 
 ## Mustertext / Template (Methodenwahl-Memo)
 
@@ -68,11 +68,11 @@ Verantwortlicher: [NAME] | Sitzland: [DE/FR/...]
 3. Methodenwahl
 [ ] CNIL PIA (Software-gestuetzt, modular, Schadensszenarien)
 [ ] SDM (Schutzziele, DE-Aufsicht, KI-tauglich)
-[ ] BSI ergaenzend fuer TOM Art. 32
-[ ] Hybrid: SDM-Hauptmethodik plus BSI fuer TOM
+[ ] BSI ergaenzend für TOM Art. 32
+[ ] Hybrid: SDM-Hauptmethodik plus BSI für TOM
 
 4. Begruendung
-[Warum diese Methode fuer diese Verarbeitung]
+[Warum diese Methode für diese Verarbeitung]
 
 5. Werkzeug
 - CNIL: cnil.fr/de/das-pia-tool-software-die-die-durchfuehrung-von-datenschutz
@@ -88,12 +88,12 @@ Unterschrift DSB: ____________________
 - CNIL PIA Software: kostenfrei, Open Source, mehrsprachig (DE-Lokalisierung verfuegbar), Export PDF und XML.
 - SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Pruefkatalog.
 - BSI-Grundschutz: Fachüberblick mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
-- Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software fuer strukturierte Risikoszenarien, BSI fuer TOM nach Art. 32 DSGVO.
+- Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software für strukturierte Risikoszenarien, BSI für TOM nach Art. 32 DSGVO.
 
 ## Anwendungsfaelle
 
 - KI-System mit Profiling: SDM bevorzugt, weil Schutzziele die KI-typischen Risiken (Transparenz, Nicht-Verkettung) sauber adressieren.
-- Cloud-Migration mit US-Anbieter: CNIL PIA Software fuer Risikoszenarien plus BSI-Bausteine fuer technische Schutzmassnahmen.
+- Cloud-Migration mit US-Anbieter: CNIL PIA Software für Risikoszenarien plus BSI-Bausteine für technische Schutzmassnahmen.
 - Beschaeftigtenverarbeitung mit Mitbestimmung: SDM mit ergaenzendem Stakeholder-Modul.
 - Forschungsverarbeitung mit besonderen Kategorien: SDM und CNIL PIA kombinieren; Beweislast-Aspekt nach Art. 5 Abs. 2 DSGVO mitfuehren.
 
@@ -112,7 +112,7 @@ Unterschrift DSB: ____________________
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage DE
 - `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Englische Vollvorlage
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA
 - `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026

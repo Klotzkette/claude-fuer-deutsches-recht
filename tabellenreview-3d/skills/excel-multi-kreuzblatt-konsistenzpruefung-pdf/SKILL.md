@@ -1,36 +1,21 @@
 ---
 name: excel-multi-kreuzblatt-konsistenzpruefung-pdf
-description: "Excel Multi Kreuzblatt Konsistenzpruefung PDF im Plugin Tabellenreview 3D: prüft konkret 3D-Review-Ergebnis als Excel-Datei mit mehreren, Kreuzblatt-Konsistenzprüfung, 3D-Review-Ergebnis als PDF-Bericht erzeugen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht im Tabellenreview 3d: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Excel Multi Kreuzblatt Konsistenzpruefung PDF
+# /tabellenreview-3d:excel-multi-sheet-export
 
 ## Arbeitsbereich
 
-**Excel Multi Kreuzblatt Konsistenzpruefung PDF** ordnet den Fall über die tragenden Prüffelder: 3D-Review-Ergebnis als Excel-Datei mit mehreren, Kreuzblatt-Konsistenzprüfung, 3D-Review-Ergebnis als PDF-Bericht erzeugen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `excel-multi-sheet-export` | 3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht. |
-| `kreuzblatt-konsistenzpruefung` | Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Prüfbericht mit Fehlerliste. Abgrenzung: nicht Risikoampel-Aggregation. |
-| `pdf-bericht-erzeugen` | 3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Prüfraster: Vollständigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview. Abgrenzung: nicht Excel-Export. |
+3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Tabellenreview 3D klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `excel-multi-sheet-export`
-
-**Fokus:** 3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht.
-
-# /tabellenreview-3d:excel-multi-sheet-export
-
 
 ## Triage zu Beginn
 
@@ -42,7 +27,6 @@ description: "Excel Multi Kreuzblatt Konsistenzpruefung PDF im Plugin Tabellenre
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 
@@ -106,146 +90,3 @@ Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anz
 ## Grenzen
 
 Excel kann große Stapel handeln; ab 100.000 Zellen sind PDF und CSV pro Reiter zu erwägen (siehe Skill `pdf-bericht-erzeugen`).
-
-## 2. `kreuzblatt-konsistenzpruefung`
-
-**Fokus:** Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Prüfbericht mit Fehlerliste. Abgrenzung: nicht Risikoampel-Aggregation.
-
-# /tabellenreview-3d:kreuzblatt-konsistenzprüfung
-
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-## Zweck
-
-Eine Zelle die rechtlich grün aber datenschutzrechtlich rot ist ist nicht automatisch ein Fehler — sie ist eine perspektivische Abweichung. Oft aber ist sie ein Fehler: dieselbe Tatsache wurde in zwei Arbeitsblättern unterschiedlich erfasst. Dieser Skill findet beides.
-
-## Methodik
-
-1. **Achsen-Match:** dieselbe Zeile dieselbe Spalte aber unterschiedliches Arbeitsblatt: vergleichen.
-2. **Faktischer Widerspruch:** beide Arbeitsblätter haben das Vertragsdatum extrahiert; das eine sagt 2021-03-15, das andere 2021-03-25. Das ist ein Datenfehler — Prüfer-Flag.
-3. **Perspektivischer Widerspruch:** ein Arbeitsblatt sagt 'wirksam' das andere 'unwirksam'. Wenn beide Arbeitsblätter dieselbe Norm benutzen ist es Datenfehler; wenn unterschiedliche Normen (Recht vs Steuer) ist es legitime Abweichung — als `legitim` markieren.
-4. **Ampel-Inkonsistenz:** dieselbe Zeile in einem Arbeitsblatt rot in einem gelb in einem grün — Konsolidierungsempfehlung an `risikoampel-aggregation`.
-5. **Norm-Bezugs-Widerspruch:** ein Arbeitsblatt verweist auf BGB Paragraph 307, ein anderes auf BGB Paragraph 305c bei derselben Klausel. Beides möglich — Prüfer-Hinweis.
-
-## Konflikt-Klassifikation
-
-- **echter Widerspruch:** beide Antworten beanspruchen dieselbe Tatsache aber unterscheiden sich. Prüfer-Flag rot.
-- **legitime perspektivische Abweichung:** Arbeitsblätter haben unterschiedliche Pruefmassstaebe. Vermerk gelb.
-- **Datenfehler:** OCR-Konfidenz schwach in einem der Arbeitsblätter — Re-Run dieser Zelle.
-- **Klassifikationsfehler:** Dokumenttyp falsch erkannt — Zeile neu klassifizieren.
-
-## Ausgabe
-
-- `widerspruchsbericht.md` mit pro Widerspruch:
- - Zeile (Dokument)
- - Spalte (Datenpunkt)
- - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
- - Konflikt-Klassifikation
- - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
-
-## Beispiele
-
-- **echter Widerspruch:** Kundenvertrag-042. Spalte 'Laufzeit'. Recht: '3 Jahre + 1 Jahr Verlängerung'. Wirtschaft: '4 Jahre Festlaufzeit'. Echter Widerspruch — Wirtschaft hat den Vertrag verkürzt gelesen.
-- **legitime Abweichung:** Lizenzvertrag-018. Spalte 'Haftung'. Recht: 'unwirksam BGB Paragraph 309 Nr 7'. Steuer: 'irrelevant — Pauschalhaftungs-Aufwand absetzbar'. Legitim — unterschiedliche Pruefmassstaebe.
-
-## 3. `pdf-bericht-erzeugen`
-
-**Fokus:** 3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Prüfraster: Vollständigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview. Abgrenzung: nicht Excel-Export.
-
-# /tabellenreview-3d:pdf-bericht-erzeugen
-
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-## Zweck
-
-Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzählfassung des Würfels: vom Aggregat über die Perspektiven bis in die Belegkette.
-
-## Struktur
-
-### 1. Deckblatt
-
-- Projektname und kurzer Anlassbezug (z. B. 'M&A-DD Erwerb der X-GmbH zum Stichtag YYYY-MM-DD')
-- Mandant und anwaltlicher Prüfer
-- Anzahl Dokumente Anzahl Datenpunkte Anzahl Arbeitsblatt-Perspektiven
-- Würfel-Gesamtampel
-- Prüfer-Abnahme-Status
-
-### 2. Management-Summary (Ein Blatt)
-
-- Würfel-Ampel mit Begründung in drei Sätzen
-- Top-5-Hotspots (Datenpunkte mit überproportional vielen roten Zellen)
-- Top-5-rote-Zeilen (Dokumente die das größte Risiko tragen)
-- Top-3-Widersprüche aus `kreuzblatt-konsistenzpruefung`
-- Anzahl Prüfer-Flags und Status der Abnahme
-
-### 3. Pro Arbeitsblatt-Perspektive (ein Abschnitt)
-
-- Perspektive (Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb / Compliance)
-- Arbeitsblatt-Ampel mit Begründung
-- Top-Findings dieser Perspektive (max 10)
-- Hinweis auf zuständigen Prüfer (Rechtsanwalt / Steuerberater / DSB usw.)
-
-### 4. Vollständige Tabellen (Anhang A)
-
-Pro Arbeitsblatt eine Tabelle mit allen Zeilen und Spalten. Ampelfarben als Hintergrund. Zell-Inhalt: Antwort plus Fundstelle plus Prüfer-Flag.
-
-### 5. Belegkette (Anhang B)
-
-Alle zitierten Quellen mit:
-- Datei-ID
-- Pfad
-- SHA-256-Hash
-- Seitenzahl bei Fundstelle
-- OCR-Konfidenz pro Seite (bei gescannten Dokumenten)
-
-### 6. Audit-Anhang (Anhang C)
-
-- Prompt-Versionen (Spalten und Zeilen)
-- Verwendete Modell-Version und Konfiguration
-- Reviewlauf-Zeitstempel und Laufdauer
-- Cache-Trefferquote
-- Prüfer-Abnahme-Historie
-
-## Bedingte Formatierung
-
-- Rote Hintergrundfarbe bei roter Ampel
-- Gelbe Hintergrundfarbe bei gelber Ampel
-- Schwacher Grüner-Ton bei grüner Ampel (sonst zu unruhig)
-- Schraffur bei Prüfer-Flag
-
-## Sicherheit
-
-- PDF mit eingebetteten Schriften (kein nachträgliches Ersetzen)
-- Optional: Schreibschutz und Signaturfeld für den Prüfer
-- Optional: Wasserzeichen 'VERTRAULICH ARBEITSERGEBNIS' bei unsignierter Fassung
-
-## Ausgabe
-
-- `<projekt>-bericht.pdf`
-- `<projekt>-bericht-quellen.zip` (optional) — alle in der Belegkette referenzierten Quelldokumente
-
-## Grenzen
-
-Bei sehr großen Würfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur für Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollständige Daten weiter in Excel.

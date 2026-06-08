@@ -1,6 +1,6 @@
 ---
 name: legal-note-redline-output
-description: "Einstiegs- und Prüffeld für Legal Note Redline Output: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüfungslinie für Legal Note Redline Output: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Legal Note Redline Output

@@ -7,23 +7,40 @@ description: "Krisenverfassung Permanenter im Rechtstheorie und Rechtsphilosophi
 
 ## Arbeitsbereich
 
-**Krisenverfassung Permanenter** ordnet den Fall über die tragenden Prüffelder: Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Krisenverfassung Permanenter** ordnet den Fall über die tragenden Prüfungslinien: Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
 | `legalitaetsprinzipien-als-rechtsstaatsmotor` | Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung. |
 | `legitimitaet-richterlicher-rechtsfortbildung` | Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen. |
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im Rechtstheorie und Rechtsphilosophie klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `krisenverfassung-und-permanenter-notstand`
 
@@ -39,13 +56,10 @@ description: "Krisenverfassung Permanenter im Rechtstheorie und Rechtsphilosophi
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Krisenverfassung und permanenter Notstand
-- **Spezialgegenstand:** Krisenverfassung und permanenter Notstand; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -110,17 +124,14 @@ Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, ab
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Legalitätsprinzipien als Rechtsstaatsmotor
-- **Spezialgegenstand:** Legalitätsprinzipien als Rechtsstaatsmotor; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
+Anwendungsfall: eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
 
 ## Acht Prüfsteine
 
@@ -172,13 +183,10 @@ Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, insti
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Legitimität richterlicher Rechtsfortbildung
-- **Spezialgegenstand:** Legitimität richterlicher Rechtsfortbildung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 

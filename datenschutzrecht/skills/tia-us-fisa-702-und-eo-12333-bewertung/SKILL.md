@@ -1,13 +1,13 @@
 ---
 name: tia-us-fisa-702-und-eo-12333-bewertung
-description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 fuer das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen fuer Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten fuer Schritt 3 EDPB-Roadmap."
+description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 EDPB-Roadmap."
 ---
 
-# US-Ueberwachungsgrundlagen FISA 702 und EO 12333 fuer das TIA
+# US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA
 
 ## Zweck
 
-Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachungsgrundlagen, die der EuGH in Schrems II als ausschlaggebend fuer das fehlende Schutzniveau identifiziert hat:
+Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachungsgrundlagen, die der EuGH in Schrems II als ausschlaggebend für das fehlende Schutzniveau identifiziert hat:
 
 - **FISA Section 702** (Foreign Intelligence Surveillance Act, 50 U.S.C. § 1881a) – Zugriff auf elektronische Kommunikation von Non-US-Personen ueber US-Anbieter ("electronic communication service providers", ECSP).
 - **Executive Order 12333** vom 04.12.1981 (zuletzt geaendert) – Auslandsaufklaerung der US-Geheimdienste; deckt z. B. Bulk Collection bei Glasfasertrassen ab.
@@ -16,7 +16,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 
 ## Wann dieses Modul hilft
 
-- TIA fuer US-Cloud-/SaaS-Anbieter.
+- TIA für US-Cloud-/SaaS-Anbieter.
 - Diskussion mit Anbieter, ob er als ECSP gilt.
 - Bewertung des Schutzniveaus jenseits des DPF (SCC-Faelle).
 - Pruefung des Restrisikos trotz DPF-Zertifizierung.
@@ -34,7 +34,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 ### Executive Order 12333
 
 - Vom 04.12.1981, Praesident Reagan; mehrfach modifiziert.
-- Grundlage fuer SIGINT, einschliesslich Erfassung von Daten in Transit ausserhalb der USA.
+- Grundlage für SIGINT, einschliesslich Erfassung von Daten in Transit ausserhalb der USA.
 - Kein gerichtlicher Vorbehalt; Aufsicht ueber DNI/PCLOB beschraenkt.
 
 ### Executive Order 14086 vom 07.10.2022
@@ -46,7 +46,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 
 ### EuGH Schrems II – tragende Beanstandungen
 
-- FISA 702: keine ausreichende Verhaeltnismaessigkeitskontrolle, keine effektive Rechtsschutzmoeglichkeit fuer Betroffene aus der EU.
+- FISA 702: keine ausreichende Verhaeltnismaessigkeitskontrolle, keine effektive Rechtsschutzmoeglichkeit für Betroffene aus der EU.
 - EO 12333: bulk collection ohne Anlassbezug, kein Rechtsschutz.
 
 ### Bewertung post EO 14086
@@ -62,7 +62,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 3. **Transparenzbericht:** Veroeffentlicht der Importeur Zahlen zu FISA-/NSL-Anfragen?
 4. **Reaktionsmoeglichkeit:** Hat der Importeur die Befugnis und Praxis, FISA-Anfragen anzufechten?
 5. **EDPB-EEG-Pruefung** durchfuehren (Garantien A bis D der Empfehlung 02/2020).
-6. **DPF-Pruefung:** Ist der Importeur aktiv im DPF gelistet fuer die konkrete Datenart (HR/Non-HR)?
+6. **DPF-Pruefung:** Ist der Importeur aktiv im DPF gelistet für die konkrete Datenart (HR/Non-HR)?
 7. **Restrisiko:** Auch bei DPF-Listing besteht ein Restrisiko aus FISA 702 / EO 12333; technische Massnahmen erwaegen.
 8. **Dokumentation** im TIA-Schritt 3.
 
@@ -91,15 +91,15 @@ Baustein TIA-Schritt 3 (US):
 - EO 12333 vergessen, weil "wir sind ja im DPF".
 - Annahme, dass Anbieter Anfragen anficht – ohne Beleg.
 - Quellenangaben aus Modellwissen statt Verifikation an offiziellen Texten.
-- Annahme, Schrems II sei "ueberholt" durch DPF – TIA fuer SCC-Faelle bleibt zwingend.
+- Annahme, Schrems II sei "ueberholt" durch DPF – TIA für SCC-Faelle bleibt zwingend.
 
 ## Querverweise
 
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` fuer EuGH-Grundlage.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` fuer DPF.
-- `tia-edpb-roadmap-6-schritte-deutsch` fuer Schritt-3-Einbindung.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` fuer Step 4.
-- `us-transfer-tia-dokumentation` fuer Output-Paket.
+- `tia-schrems-ii-eugh-c-311-18-grundlagen` für EuGH-Grundlage.
+- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
+- `tia-edpb-roadmap-6-schritte-deutsch` für Schritt-3-Einbindung.
+- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Step 4.
+- `us-transfer-tia-dokumentation` für Output-Paket.
 
 ## Quellen Stand 06/2026
 
@@ -111,7 +111,6 @@ Baustein TIA-Schritt 3 (US):
 - EDPB Empfehlung 02/2020 vom 10.11.2020 (EEG).
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
-
 
 ## Qualitäts-Hardening
 

@@ -7,28 +7,28 @@ description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialr
 
 ## Arbeitsbereich
 
-**Laienhilfe Krankenversicherungsschutz** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen, Frist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Laienhilfe Krankenversicherungsschutz** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen, Frist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-krankenversicherungsschutz` | Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-merkzeichen` | Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-muendliche-verhandlung-sg` | Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-mutterschaft-elterngeld-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-krankenversicherungsschutz` | Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-merkzeichen` | Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-muendliche-verhandlung-sg` | Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-mutterschaft-elterngeld-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-krankenversicherungsschutz`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Krankenversicherungsschutz
 
@@ -39,7 +39,6 @@ description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialr
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -88,7 +87,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -99,7 +97,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-merkzeichen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Merkzeichen
 
@@ -110,7 +108,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -162,21 +159,20 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Merkzeichen - Themenspezifika
 - **Rechtsgrundlage:** § 229 SGB IX (Merkzeichen-Voraussetzungen); § 3 Schwerbehindertenausweisverordnung (SchwbAwV); VersorgungsmedizinV / VersorgungsmedizinG.
 - **Wichtige Merkzeichen mit Voraussetzungen und Vorteilen:**
- - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: oeffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
+ - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: öffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
  - **aG (aussergewoehnliche Gehbehinderung):** dauerhafte Mobilitaetseinschraenkung erheblich; Voraussetzung u. a. Querschnittlaehmung, beidseitige Beinamputation, doppelte Oberschenkelamputation, vergleichbare schwerere Faelle (VersMedV strenge BSG-Linie); Vorteil: Behindertenparkplatz; KFZ-Steuerbefreiung.
- - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im oeffentlichen Verkehr kostenlos mit.
+ - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im öffentlichen Verkehr kostenlos mit.
  - **H (Hilflosigkeit):** dauerhaft hilflos im taeglichen Leben (vergleichbar Pflegegrad 4-5); KFZ-Steuerbefreiung, hoehere Pauschbetraege.
  - **Bl (Blindheit):** mehr als 1/50 Sehkraft beidaeugig; Landesblindengeld; KFZ-Steuerbefreiung.
  - **Gl (Gehoerlosigkeit):** Hoer-/Sprachverlust seit dem Spracherwerb; Vorteil Telefonpauschale.
  - **RF (Rundfunkbeitragsbefreiung):** wegen Schwerbehinderung Teilhabe an Veranstaltungen ausgeschlossen.
- - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Foerderungen.
+ - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Förderungen.
 - **Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2):** Mindestkriterien je Merkzeichen; behandelnder Arzt mit konkreten Funktionsbefunden untermauern.
 - **Antrag / Widerspruch:**
  - **Antrag** beim Versorgungsamt; **Aenderungsantrag** bei Verschlechterung.
  - **Widerspruch § 84 SGG:** 1 Monat; Klage SG 1 Monat.
  - **§ 109 SGG-Wahl-Sachverstaendiger** bei Klage.
 - **Praxis-Tipp:** Fokus auf Funktionsbeeintraechtigung im Alltag (Gehstrecke konkret in Metern; Hilfsmittelbedarf; Begleitnotwendigkeit). Bei aG-Verweigerung: BSG-Linie zur Gleichstellung (vergleichbare schwerwiegende Faelle); Stellungnahme Facharzt unverzichtbar.
-
 
 ## Qualitäts-Hardening
 
@@ -188,7 +184,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-muendliche-verhandlung-sg`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Muendliche Verhandlung Sg
 
@@ -199,7 +195,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -248,7 +243,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -259,7 +253,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-mutterschaft-elterngeld-schnittstelle`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Mutterschaft Elterngeld Schnittstelle
 
@@ -270,7 +264,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -318,7 +311,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
 
 ## Qualitäts-Hardening
 

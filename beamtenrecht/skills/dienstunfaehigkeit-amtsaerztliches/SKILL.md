@@ -1,41 +1,25 @@
 ---
 name: dienstunfaehigkeit-amtsaerztliches
-description: "Dienstunfaehigkeit Amtsaerztliches im Beamtenrecht: prüft konkret Skill zum amtsaerztlichen Gutachten im Verfahren der, Dienstunfähigkeit und Zurruhesetzung, Dienstunfall, Wegeunfall. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Dienstunfaehigkeit Amtsaerztliches
+# Amtsaerztliches Gutachten Dienstunfaehigkeit
 
 ## Arbeitsbereich
 
-**Dienstunfaehigkeit Amtsaerztliches** ordnet den Fall über die tragenden Prüffelder: Skill zum amtsaerztlichen Gutachten im Verfahren der, Dienstunfähigkeit und Zurruhesetzung, Dienstunfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `dienstunfaehigkeit-amtsaerztliches-gutachten` | Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine fuer Widerspruch und Klage. |
-| `dienstunfaehigkeit-zurruhesetzung` | Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz. |
-| `dienstunfall-anerkennung` | Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge. |
-| `dienstunfall-anerkennung-45-beamtvg` | Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage. |
+Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `dienstunfaehigkeit-amtsaerztliches-gutachten`
-
-**Fokus:** Skill zum amtsaerztlichen Gutachten im Verfahren der Dienstunfaehigkeit. Klaert die Mitwirkungspflicht des Beamten an der Untersuchung den Vorrang des amtsaerztlichen Gutachtens vor dem Privatgutachten die Anforderungen an Begruendung und Nachvollziehbarkeit den Anspruch auf Kenntnisnahme des Gutachtens den Schutzbereich des Personlichkeitsrechts und die Folgen der Verweigerung der Untersuchung. Liefert Pruefraster und Schriftsatzbausteine fuer Widerspruch und Klage.
-
-
-# Amtsaerztliches Gutachten Dienstunfaehigkeit
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit ueber Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
+Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbesondere im Streit ueber Auswahl, Reichweite und Verwertbarkeit des amtsaerztlichen Gutachtens.
 
 ## 2. Eingaben
 
@@ -87,142 +71,3 @@ Skill fuer Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbeson
 ## 7. Beispiel (Kurzfassung)
 
 Mandant erhaelt pauschale Aufforderung zur Untersuchung "wegen wiederholter Erkrankung". Skill liefert Widerspruch gegen Aufforderung wegen mangelnder Bestimmtheit und Pruefraster.
-
-## 2. `dienstunfaehigkeit-zurruhesetzung`
-
-**Fokus:** Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz.
-
-
-# Dienstunfaehigkeit Zurruhesetzung
-
-## Aufgabe
-
-Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz.
-
-## Arbeitsweise
-
-Prüfe Gesundheitsstatus, Gutachtenqualität, Prognose, Rehabilitationspflicht, anderweitige Verwendung und Verfahrensbeteiligte.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 3. `dienstunfall-anerkennung`
-
-**Fokus:** Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge.
-
-
-# Dienstunfall Anerkennung
-
-## Aufgabe
-
-Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge.
-
-## Arbeitsweise
-
-Erhebe Ereignis, Ort, Zeit, dienstliche Verrichtung, Kausalität, Meldedatum, ärztliche Unterlagen. Output: Anerkennungsantrag oder Widerspruch.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 4. `dienstunfall-anerkennung-45-beamtvg`
-
-**Fokus:** Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und die zehn-Jahres-Ausschlussfrist sowie die Glaubhaftmachung der Dienstunfallursaechlichkeit bei Vorerkrankungen. Liefert Pruefraster Antragsschriftbausteine und Hinweise zum amtsaerztlichen Gutachten und zur Beweislage.
-
-
-# Dienstunfall — Anerkennung und Meldefristen
-
-## 1. Zweck und Anwendungsfall
-
-Skill fuer Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitliche Beeintraechtigung dienstunfallbedingt ist. Hilft bei rechtzeitiger Meldung und bei Streit um die Anerkennung.
-
-## 2. Eingaben
-
-- Datum des Vorfalls
-- Ort und genaue Schilderung des Ereignisses
-- Zeugen
-- Aerztliche Unterlagen
-- Datum der ersten Meldung an den Dienstherrn
-
-## 3. Ablauf / Checkliste
-
-### a) Dienstunfallbegriff
-- § 31 BeamtVG: ein auf aeussere Einwirkung beruhendes, ploetzliches, oertlich und zeitlich bestimmtes, einen Koerperschaden verursachendes Ereignis in Ausuebung oder infolge des Dienstes.
-- Wegeunfaelle nach § 31 Abs. 2 BeamtVG (Hin- und Rueckweg).
-
-### b) Meldefristen § 45 BeamtVG
-- Schriftliche Meldung innerhalb von zwei Jahren ab dem Unfall.
-- Bei Spaetfolgen oder verspaeteter Erkennbarkeit: Frist beginnt mit Kenntnis; absolute Ausschlussfrist zehn Jahre.
-
-### c) Vorerkrankungen
-- Vorerkrankungen schliessen Anerkennung nicht aus, soweit der Unfall mit Wahrscheinlichkeit eine wesentliche Mitursache fuer die Verschlechterung war.
-- Massgeblich ist die "rechtlich wesentliche Mitursache" (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
-
-### d) Beweislast
-- Grundsaetzlich Beweislast beim Beamten; an die Glaubhaftmachung des Unfallhergangs sind im Eilrechtsschutz keine ueberhoehten Anforderungen zu stellen.
-
-### e) Folgen der Anerkennung
-- Unfallfuersorge: Unfallruhegehalt, Heilverfahrenskosten, Pflegezulage, Unterhaltsbeitrag, einmalige Unfallentschaedigung — Skill `unfallruhegehalt-36-beamtvg`.
-
-## 4. Quellenpflicht
-
-- Normen: §§ 30 bis 47 BeamtVG; landesrechtliche Aequivalente.
-- Rspr.: BVerwG zum Dienstunfallbegriff und zur Kausalitaet — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Schriftliche Dienstunfallmeldung.
-- Pruefraster fuer Spaetfolgenmeldungen.
-
-## 6. Verifizierte Quellenanker
-
-- § 31 BeamtVG (Dienstunfallbegriff); § 31 Abs. 2 BeamtVG (Wegeunfall); § 45 BeamtVG (Meldefristen zwei Jahre / zehn Jahre).
-- §§ 30 bis 47 BeamtVG (Unfallfuersorge insgesamt).
-- Massgeblich Lehre der rechtlich wesentlichen Mitursache; konstante Linie des BVerwG zur Kausalitaetspruefung.
-- BVerwG zum Dienstunfallbegriff und zur Kausalitaetsfrage — Datum und Az vor Zitat live verifizieren.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandantin Lehrerin stuerzt im Klassenzimmer; zunaechst nur Hautabschuerfung, drei Jahre spaeter Bandscheibenschaden mit gutachterlich nachgewiesener Mitursache. Skill liefert Spaetfolgenmeldung innerhalb der Zehn-Jahres-Frist mit Kausalitaetsbegruendung.

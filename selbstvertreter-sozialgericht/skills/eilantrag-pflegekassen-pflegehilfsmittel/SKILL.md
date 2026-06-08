@@ -29,9 +29,9 @@ Die Pflegekasse blockiert Hilfe. Sie brauchen die Hilfe schnell. Sie koennen zum
 ## Fachbegriffe (kurz erklaert)
 
 - **Pflegegrad**: Einstufung Ihres Pflegebedarfs (1 bis 5).
-- **Pflegehilfsmittel** (§ 40 SGB XI): Verbrauchsmittel und Geraete fuer die Pflege.
+- **Pflegehilfsmittel** (§ 40 SGB XI): Verbrauchsmittel und Geraete für die Pflege.
 - **Verhinderungspflege**: Ersatzpflege, wenn die Pflegeperson Urlaub / krank ist.
-- **Wohnumfeldverbesserung**: Zuschuss fuer Umbau bis 4.000 EUR pro Massnahme.
+- **Wohnumfeldverbesserung**: Zuschuss für Umbau bis 4.000 EUR pro Massnahme.
 - **Medizinischer Dienst (MD)**: Begutachter; frueher MDK.
 
 ## Rechtsgrundlagen
@@ -42,7 +42,7 @@ Die Pflegekasse blockiert Hilfe. Sie brauchen die Hilfe schnell. Sie koennen zum
 - **§ 14, 15 SGB XI** — Pflegegrad.
 - **§ 18 SGB XI** — Begutachtung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Lage analysieren
 
@@ -128,7 +128,7 @@ Argument: "Ohne sofortigen Pflegegrad 3 kann die ambulante Pflegekraft mit XYZ S
 
 ### Schritt 5 — Wohnumfeldverbesserung
 
-Hier ist Eilantrag selten erfolgreich, weil Umbau Zeit braucht. Aber: bei akuter Sturzgefahr (Bad-Umbau, Treppenlift fuer Rollstuhlfahrer) moeglich.
+Hier ist Eilantrag selten erfolgreich, weil Umbau Zeit braucht. Aber: bei akuter Sturzgefahr (Bad-Umbau, Treppenlift für Rollstuhlfahrer) moeglich.
 
 ### Schritt 6 — Verhinderungspflege
 
@@ -136,14 +136,14 @@ Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist ploetzlich krank / 
 
 ## Worauf Sie besonders achten muessen
 
-- **Pflegeprotokoll fuer 14 Tage** ist Gold wert. Tagesgenau: was wann wer wieviele Minuten.
+- **Pflegeprotokoll für 14 Tage** ist Gold wert. Tagesgenau: was wann wer wieviele Minuten.
 - **MD (Medizinischer Dienst)** heisst seit 2022 nicht mehr MDK. Pruefen Sie die richtige Bezeichnung im Bescheid.
 - **§ 109 SGG-Gutachten** zur Pflegegrad-Streitigkeit kann das Verfahren entscheiden — Sie tragen aber Kosten (siehe `sachverstaendigen-wahlrecht-109-sgg`).
 - **Akut nur was nicht warten kann**: Hilfsmittel akut, Pflegegrad-Streit eher Hauptsache.
 
 ## Typische Fehler
 
-- Eilantrag fuer langfristigen Streit → meist abgewiesen, da nicht akut
+- Eilantrag für langfristigen Streit → meist abgewiesen, da nicht akut
 - Kein Pflegeprotokoll → Eilantrag kaum zu fuehren
 - Pflegekasse direkt verklagt ohne Widerspruch → Eilantrag geht parallel zum Widerspruch
 - Begriffe MDK/MD verwechselt → MD seit 2022
@@ -158,7 +158,6 @@ Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist ploetzlich krank / 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XI in aktueller Fassung. MD-Reform 2022 (Umbenennung MDK zu MD). Bei der Pflegegrad-Frage BSG-Linie u.a. zu Konstellation der Minutenrechnung pruefen in juris.
-
 
 ## Qualitäts-Hardening
 

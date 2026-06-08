@@ -11,7 +11,6 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 
 ## Schritt 1 — DIN 18005 Schallschutz im Städtebau
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Orientierungswerte (in dB(A))
@@ -210,7 +209,7 @@ Kläre bei Mandantenübernahme:
 3. Wurde eine Lärmkumulation aller Quellen berechnet?
 4. Sind Außenwohnbereiche (Balkone Terrassen) ausgewiesen und geschützt?
 5. Welche Schutzkonzeption sieht der Plan vor — aktiv oder nur passiv?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -224,7 +223,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Betroffener ist Gewerbetreibender selbst | Eigene Emittenten-Stellung beachten; defensivere Argumentation |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template Lärm-Rüge im Schriftsatz
 
@@ -254,7 +252,7 @@ IV. Verstoß gegen § 50 BImSchG und § 2 Abs. 3 BauGB — Lärmermittlung unvol
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

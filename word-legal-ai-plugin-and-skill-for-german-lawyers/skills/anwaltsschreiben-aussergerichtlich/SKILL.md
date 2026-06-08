@@ -1,34 +1,21 @@
 ---
 name: anwaltsschreiben-aussergerichtlich
-description: "Anwaltsschreiben Aussergerichtlich im Word-Legal-AI für Anwälte: prüft konkret Außergerichtliches Anwaltsschreiben in drei Spielarten, Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungspositi. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anwaltsschreiben Aussergerichtlich
+# Anwaltsschreiben aussergerichtlich
 
 ## Arbeitsbereich
 
-**Anwaltsschreiben Aussergerichtlich** ordnet den Fall über die tragenden Prüffelder: Außergerichtliches Anwaltsschreiben in drei Spielarten, Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungspositi. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `anwaltsschreiben-aussergerichtlich` | Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern. |
-| `argumentationsarchitektur-schreiben` | Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung. |
+Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Word Legal AI für deutsche Anwälte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `anwaltsschreiben-aussergerichtlich`
-
-**Fokus:** Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern.
-
-# Anwaltsschreiben aussergerichtlich
 
 ## Zweck
 
@@ -200,7 +187,6 @@ Rechtsanwältin
 - § 126, § 126b BGB zur Schriftform und Textform.
 - `references/zitierweise.md` für Belegpflicht.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -209,70 +195,26 @@ Rechtsanwältin
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `argumentationsarchitektur-schreiben`
+## Normen und Rechtsprechung
 
-**Fokus:** Baut die Argumentationsarchitektur für Schriftsatz, Memo oder Verhandlungsposition. Ordnet These, Norm, Tatsache, Beleg, Gegenargument, Antwort und Ergebnis. Erkennt Sprünge, verdeckte Prämissen, fehlende Beweisangebote und unklare Rechtsfolge und erzeugt eine tragfähige Gliederung.
+### Kuratierte Normen-Bibliothek
 
-# Argumentationsarchitektur Schreiben
+- § 203 StGB
+- Art. 28 DSGVO
+- § 11 ProdHaftG
+- § 41 UrhG
+- § 31a UrhG
+- § 32 UrhG
+- § 35 UrhG
+- Art. 32 DSGVO
+- § 2 GeschGehG
+- § 29 UrhG
+- § 31 UrhG
+- § 34 UrhG
 
-## Zweck
+### Leitentscheidungen
 
-Viele juristische Texte scheitern nicht an Sprache, sondern an Architektur. Dieser Skill baut die tragende Linie: Was soll bewiesen werden, worauf stützt es sich, was ist die Rechtsfolge, wo sitzt das Gegenargument?
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Bausteine
-
-| Baustein | Frage |
-|---|---|
-| These | Was soll am Ende gelten? |
-| Norm oder Klausel | Worauf stützt sich die These? |
-| Tatsache | Welche konkrete Tatsache trägt die Subsumtion? |
-| Beleg | Wo steht das in Akte, Anlage, Vertrag, E-Mail oder Zeugnis? |
-| Gegenargument | Was wird die Gegenseite sagen? |
-| Antwort | Warum trägt das Gegenargument nicht? |
-| Rechtsfolge | Was folgt praktisch? |
-
-## Ablauf
-
-1. Ziel des Textes bestimmen.
-2. Hauptthese in einem Satz formulieren.
-3. Unterthesen bilden.
-4. Für jede These Norm, Tatsache und Beleg zuordnen.
-5. Gegenargumente danebenstellen.
-6. Reihenfolge festlegen: stärkstes Argument zuerst, hilfsweise danach.
-7. Überschriften als Ergebnisse formulieren.
-
-## Beispiel-Überschriften
-
-Schwach:
-
-```text
-Zur Kündigung
-```
-
-Stark:
-
-```text
-Die außerordentliche Kündigung ist unwirksam, weil die Abmahnung fehlt.
-```
-
-## Output
-
-- Argumentationslandkarte.
-- Gliederung mit Ergebnisüberschriften.
-- Liste fehlender Belege.
-- Erste ausformulierte Kernpassage.
-
-## Querverweise
-
-- `schriftsatz-ueberarbeiten-richterlesbar`
-- `mandantenmemo-und-partner-update`
-- `drafting-prinzipien-klarheit-bestimmtheit-praezision`
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

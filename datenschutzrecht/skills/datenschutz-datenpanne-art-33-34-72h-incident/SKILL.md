@@ -1,6 +1,6 @@
 ---
 name: datenschutz-datenpanne-art-33-34-72h-incident
-description: "Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-fuer-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte fuer Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
+description: "Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-für-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte für Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
 ---
 
 # Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO
@@ -19,25 +19,25 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 2. **Welche Datenkategorien sind betroffen?** Allgemein, Art. 9 DSGVO (Gesundheit, Religion, Gewerkschaft, sexuelle Orientierung, biometrisch), Art. 10 DSGVO (Strafrechtsdaten), Art. 8 DSGVO (Minderjaehrige), Bankdaten, Authentifizierungsdaten?
 3. **Anzahl Betroffener?** Geschaetzt — Mindest- und Maximalwert.
 4. **Welche Schutzziele verletzt?** Vertraulichkeit (Offenlegung), Integritaet (Veraenderung), Verfuegbarkeit (Verlust)?
-5. **Welche TOM nach Art. 32 DSGVO** waren wirksam (Verschluesselung, Pseudonymisierung, Backup)? **Wichtig** fuer Art. 34 III a DSGVO Ausnahme.
+5. **Welche TOM nach Art. 32 DSGVO** waren wirksam (Verschluesselung, Pseudonymisierung, Backup)? **Wichtig** für Art. 34 III a DSGVO Ausnahme.
 6. **Ist ein Auftragsverarbeiter beteiligt?** Wer ist Verantwortlicher? Wer meldet?
-7. **Risiko fuer Betroffene?** Identitaetsdiebstahl, finanzieller Schaden, Diskriminierung, Rufschaedigung, Verlust der Kontrolle, unbefugte Aufhebung der Pseudonymisierung?
+7. **Risiko für Betroffene?** Identitaetsdiebstahl, finanzieller Schaden, Diskriminierung, Rufschaedigung, Verlust der Kontrolle, unbefugte Aufhebung der Pseudonymisierung?
 
 ## Rechtlicher Rahmen
 
 - **Art. 4 Nr. 12 DSGVO** Definition Verletzung des Schutzes personenbezogener Daten: Vernichtung, Verlust, Veraenderung, unbefugte Offenlegung oder Zugang.
-- **Art. 33 I DSGVO** Meldepflicht innerhalb 72 Stunden ab Kenntnis des Verantwortlichen, ausser unwahrscheinliches Risiko fuer Rechte und Freiheiten.
+- **Art. 33 I DSGVO** Meldepflicht innerhalb 72 Stunden ab Kenntnis des Verantwortlichen, ausser unwahrscheinliches Risiko für Rechte und Freiheiten.
 - **Art. 33 II DSGVO** Auftragsverarbeiter meldet unverzueglich an Verantwortlichen.
 - **Art. 33 III DSGVO** Pflichtinhalt: Art der Verletzung, Kategorien und Anzahl Betroffener, DSB-Kontakt, wahrscheinliche Folgen, ergriffene oder vorgeschlagene Massnahmen.
 - **Art. 33 IV DSGVO** Stufenmeldung zulaessig.
 - **Art. 33 V DSGVO** Dokumentationspflicht aller Verletzungen unabhaengig von Meldung.
 - **Art. 34 I DSGVO** Benachrichtigung Betroffener bei voraussichtlich hohem Risiko.
-- **Art. 34 III DSGVO** Ausnahmen: (a) wirksame Verschluesselung, (b) Folgemassnahmen verhindern Risiko, (c) Unverhaeltnismaessigkeit / oeffentliche Bekanntmachung.
+- **Art. 34 III DSGVO** Ausnahmen: (a) wirksame Verschluesselung, (b) Folgemassnahmen verhindern Risiko, (c) Unverhaeltnismaessigkeit / öffentliche Bekanntmachung.
 - **Art. 32 DSGVO** TOM-Pflicht.
 - **§ 65 BDSG** Spezifische Meldepflichten Strafverfolgung.
 - **EDSA Leitlinien 9/2022** zur Meldung von Datenpannen (angenommen 28.03.2023).
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Sachverhalt klaeren — NICHT vorschnell handeln.** Erste 4-8 Stunden: Fakten sammeln, Zeitstrahl, Personenkreis. Noch nichts ausserhalb des Mandanten kommunizieren. Vermeiden Sie pauschale Selbstvorwuerfe in Mails (werden im Bussgeldverfahren zur Akte).
 2. **Risikobewertung dokumentieren.** Matrix: Eintrittswahrscheinlichkeit Risiko x Schwere. EDSA-Leitlinien 9/2022 als Massstab.
@@ -99,7 +99,7 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 > Was Sie tun koennen: [Passwortwechsel, Konto-Monitoring, Hotline].
 >
 > Datenschutzbeauftragter: [Kontakt nach Art. 37 VII DSGVO].
-> Sie koennen sich beschweren bei der zustaendigen Aufsichtsbehoerde nach Art. 77 DSGVO: [Adresse].
+> Sie koennen sich beschweren bei der zuständigen Aufsichtsbehoerde nach Art. 77 DSGVO: [Adresse].
 >
 > Mit freundlichen Gruessen
 
@@ -127,9 +127,8 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 - DSGVO Art. 4 Nr. 12, 32, 33, 34, 37, 82, 83.
 - BDSG § 65.
 - EDSA, Leitlinien 9/2022 zur Meldung von Verletzungen des Schutzes personenbezogener Daten, Version 2.0, angenommen 28.03.2023.
-- EDSA, Leitlinien 01/2021 zu Beispielen fuer Meldungen von Datenpannen.
+- EDSA, Leitlinien 01/2021 zu Beispielen für Meldungen von Datenpannen.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

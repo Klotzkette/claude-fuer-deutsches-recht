@@ -1,33 +1,50 @@
 ---
 name: besitzdogmatik-historische-daseinsvorsorge
-description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formal, Prueft Daseinsvorsorge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal, Prueft Daseinsvorsorge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Besitzdogmatik Historische Daseinsvorsorge
 
 ## Arbeitsbereich
 
-**Besitzdogmatik Historische Daseinsvorsorge** ordnet den Fall über die tragenden Prüffelder: Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Besitzdogmatik Historische Daseinsvorsorge** ordnet den Fall über die tragenden Prüfungslinien: Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `besitzdogmatik-historische-schule-und-systemdenken` | Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
+| `besitzdogmatik-historische-schule-und-systemdenken` | Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
 | `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz. |
 | `demokratie-gesetzgeber-gericht` | Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen. |
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im Rechtstheorie und Rechtsphilosophie klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `besitzdogmatik-historische-schule-und-systemdenken`
 
-**Fokus:** Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
+**Fokus:** Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
 
 # Besitzdogmatik, historische Schule und Systemdenken
 
@@ -39,13 +56,10 @@ description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Re
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Besitzdogmatik, historische Schule und Systemdenken
-- **Spezialgegenstand:** Besitzdogmatik, historische Schule und Systemdenken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -108,13 +122,10 @@ Schließe mit einem Satz, ob die historische Dogmatik das Ergebnis trägt, nur e
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Daseinsvorsorge und Verwaltungsrealismus
-- **Spezialgegenstand:** Daseinsvorsorge und Verwaltungsrealismus; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -175,13 +186,10 @@ Gib eine Daseinsvorsorge-Prüfung mit:
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Demokratie, Gesetzgeber und Gericht
-- **Spezialgegenstand:** Demokratie, Gesetzgeber und Gericht; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 

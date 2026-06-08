@@ -35,12 +35,12 @@ Sie haben einen Monat Zeit. Aber: ab wann? Der Brief ist am vierten Tag nach Auf
 ## Rechtsgrundlagen
 
 - **§ 84 Abs. 1 S. 1 SGG** — Widerspruchsfrist ein Monat ab Bekanntgabe.
-- **§ 37 Abs. 2 SGB X (n.F.)** — Vier-Tage-Fiktion seit 1.1.2025 (PostModG); fuer Aufgabe zur Post vor 1.1.2025: drei Tage a.F.
+- **§ 37 Abs. 2 SGB X (n.F.)** — Vier-Tage-Fiktion seit 1.1.2025 (PostModG); für Aufgabe zur Post vor 1.1.2025: drei Tage a.F.
 - **§ 64 SGG** — Fristberechnung (auf § 187 BGB verweisend).
 - **§ 64 Abs. 3 SGG** — Verlaengerung auf naechsten Werktag, wenn Wochenende/Feiertag.
 - **§ 66 SGG** — Wenn keine ordentliche Rechtsbehelfsbelehrung dabei: 1 Jahr Frist.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Datum auf dem Bescheid finden
 
@@ -80,7 +80,7 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 
 ## Worauf Sie besonders achten muessen
 
-- **Keine ordentliche Rechtsbehelfsbelehrung im Bescheid** → 1 Jahr Frist (§ 66 SGG). Pruefen Sie genau, ob die Belehrung vollstaendig und richtig ist (Behoerde, Frist, Form).
+- **Keine ordentliche Rechtsbehelfsbelehrung im Bescheid** → 1 Jahr Frist (§ 66 SGG). Pruefen Sie genau, ob die Belehrung vollstaendig und richtig ist (Behörde, Frist, Form).
 - **Tatsaechlicher Zugang**: Wenn Sie nachweisen koennen, dass der Brief erst spaeter angekommen ist (Urlaub, Krankheit, Postfehler), gilt der spaetere Zugang. Aber der Beweis liegt bei Ihnen.
 - **PostModG-Wechsel**: Aufgabe zur Post vor dem 1.1.2025 → 3-Tage-Fiktion alt. Aufgabe ab 1.1.2025 → 4-Tage-Fiktion neu. Pruefen Sie das Bescheid-Datum.
 
@@ -102,7 +102,6 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 hat die Drei-Tage-Fiktion auf vier Tage geaendert. § 37 Abs. 2 SGB X n.F. Wer mit alten Bescheiden arbeitet, muss Tage zaehlen. Bei Unsicherheit Geschaeftsstelle anrufen.
-
 
 ## Qualitäts-Hardening
 

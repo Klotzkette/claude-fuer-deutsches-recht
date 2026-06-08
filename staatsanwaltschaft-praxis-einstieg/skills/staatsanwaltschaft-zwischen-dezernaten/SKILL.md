@@ -6,15 +6,12 @@ description: "Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, F
 # Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten
 
 ## Fachkern: Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten
-- **Spezialgegenstand:** Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
+Anwendungsfall: eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
 
 ## Einstieg
 
@@ -31,6 +28,17 @@ Dieses Fachmodul greift, wenn eine Akte übernommen, vertreten oder kurzfristig 
 - **Risikokontrolle:** Haftfristen, Verjährung, Beschlagnahmen, Grundrechtseingriffe und entlastende Tatsachen zuerst prüfen.
 - **Kommunikation:** klare Verfügung an Geschäftsstelle oder Polizei, keine unklaren Wiedervorlagen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Nr. 3 RiStBV (Wächterin des Gesetzes)
+- § 168b StPO (Aufzeichnung)
+- § 169a StPO (Schlussvermerk)
+- Nr. 9-13 RiStBV (Aktenführung)
 ## Output
 
 Erzeuge einen Übergabevermerk mit Ampel, Fristenblatt, offenen Punkten, Sofortverfügung und Vorschlag für die nächste Abschlussentscheidung.

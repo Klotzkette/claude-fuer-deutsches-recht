@@ -7,10 +7,10 @@ description: "Fachanwaltsbereich Familienrecht: Einstieg, Verfahrenswahl und Rou
 
 ## Arbeitsbereich
 
-Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in das tragende Prüffeld. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüffelder bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
-## Prüffelder
+Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` | Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen. |
 | `fachanwalt-familienrecht-mediation-156-famfg-cochemer` | Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation § 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel § 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung § 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach § 1684 BGB. |
@@ -20,12 +20,12 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er kl
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Familienrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag`
 
@@ -41,13 +41,10 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er kl
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Kindeswohlgefährdung — Eilanordnung
-- **Spezialgegenstand:** Kindeswohlgefährdung — Eilanordnung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Zweck
 
@@ -252,7 +249,6 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Mandantenfragen beim Kaltstart
 
 1. Haben Sie bereits einen Scheidungs- oder Sorge-/Umgangsrechtsantrag beim Familiengericht eingereicht, oder steht das noch aus?
@@ -263,7 +259,7 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 6. Wie alt sind die betroffenen Kinder, und wurde ein Verfahrensbeistand nach § 158 FamFG bestellt?
 7. Welche finanziellen Rahmenbedingungen gelten — Prozesskostenhilfe, Scheidungskosten bereits beziffert?
 8. Wurden Vereinbarungen bisher mündlich getroffen, und ist die Gegenseite grundsätzlich einigungsbereit?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -316,7 +312,6 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 ## Prüfschema § 156 FamFG
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -450,7 +445,6 @@ Rechtsanwalt/Rechtsanwältin [Name]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -548,13 +542,10 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 4
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Fachanwalt für Familienrecht — Orientierung
-- **Spezialgegenstand:** Fachanwalt für Familienrecht — Orientierung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
 
@@ -633,7 +624,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 
 ## 4. `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen`
 
-**Fokus:** Prüffeld für fachanwalt familienrecht sbgg personenstandswechsel folgen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt familienrecht sbgg personenstandswechsel folgen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
 
@@ -645,13 +636,10 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
-- **Spezialgegenstand:** Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -663,7 +651,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 6. Gibt es Versorgungsanrechte bei berufsständischen Versorgungswerken mit geschlechtsspezifischen Tabellen?
 7. Handelt es sich um einen Minderjährigen (ab 14 — Zustimmung Sorgeberechtigte § 2 SBGG; unter 14 — ausschließlich durch gesetzlichen Vertreter)?
 8. Ist Mandatskonflikt möglich — vertritt Kanzlei auch den anderen Ehegatten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -697,7 +685,6 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 ## Prüfschema — SBGG-Verfahren und Familienrechtsfolgen
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -916,7 +903,6 @@ eines Vermittlungstermins innerhalb eines Monats.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Partei | Beweislastgegenstand | Beweismittel |
@@ -981,16 +967,15 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 ## 5. `fachanwalt-familienrecht-scheidungsantrag-stellen`
 
-**Fokus:** Prüffeld für fachanwalt familienrecht scheidungsantrag stellen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt familienrecht scheidungsantrag stellen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
 - **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -1002,7 +987,7 @@ eines Vermittlungstermins innerhalb eines Monats.
 6. Wie hoch sind die monatlichen Nettoeinkommen beider Ehegatten (relevant für Verfahrenswert und VKH-Prüfung)?
 7. Haben Sie bereits einen Ehevertrag oder Scheidungsfolgenvereinbarung mit Ihrem Ehegatten oder dessen Anwalt ausgehandelt?
 8. Kennen Sie das Datum der Eheschließung und liegt die Heiratsurkunde vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

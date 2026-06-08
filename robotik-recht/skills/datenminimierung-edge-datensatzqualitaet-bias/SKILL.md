@@ -1,42 +1,25 @@
 ---
 name: datenminimierung-edge-datensatzqualitaet-bias
-description: "Datenminimierung Edge Datensatzqualitaet Bias im Robotik- und KI-Recht: prüft konkret Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention im Robotik-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Datenminimierung Edge Datensatzqualitaet Bias
+# Datenminimierung in der Edge/Cloud-Architektur
 
 ## Arbeitsbereich
 
-**Datenminimierung Edge Datensatzqualitaet Bias** ordnet den Fall über die tragenden Prüffelder: Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `datenminimierung-edge-cloud` | Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention. |
-| `datensatzqualitaet-und-bias-hri` | Prüft Datenqualität und Bias bei Robotern, die Menschen erkennen, unterstützen, bewerten oder priorisieren. |
+Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Robotik- und KI-Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko (Art. 6 Anhang III), Verbote ab 02.02.2025, Maschinen-VO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, KI-VO Art. 73 schwerwiegender Vorfall innerhalb 15 Tagen.
 - Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `datenminimierung-edge-cloud`
-
-**Fokus:** Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention.
-
-
-# Datenminimierung in der Edge/Cloud-Architektur
 
 ## Fachkern: Datenminimierung in der Edge/Cloud-Architektur
-- **Spezialgegenstand:** Datenminimierung in der Edge/Cloud-Architektur wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
 - **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum geht es konkret
 
@@ -124,102 +107,3 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 - BSI C5; ISO/IEC 27001/27017/27018.
 - EDPB Guidelines on Anonymisation (in Bearbeitung 2024-2026); EDPB Recommendations 01/2020 Supplementary Measures.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BfDI, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
-
-## 2. `datensatzqualitaet-und-bias-hri`
-
-**Fokus:** Prüft Datenqualität und Bias bei Robotern, die Menschen erkennen, unterstützen, bewerten oder priorisieren.
-
-
-# Datenqualität und Bias in der Human-Robot Interaction (HRI)
-
-## Fachkern: Datenqualität und Bias in der Human-Robot Interaction (HRI)
-- **Spezialgegenstand:** Datenqualität und Bias in der Human-Robot Interaction (HRI) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
-- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum geht es konkret
-
-Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen (Service-, Pflege-, Sicherheitsrobotik, Liefer- und autonome Mobilität, Recruiting-/Empfangsroboter) sind regelmäßig auf Trainingsdaten angewiesen, deren Qualität und Repräsentativität über Sicherheit und Diskriminierungsfreiheit entscheidet. Art. 10 KI-VO setzt für Hochrisiko-KI verbindliche Anforderungen an Daten-Governance, Repräsentativität, Bias-Behandlung und Annotationsprozesse. Dazu kommen DSGVO, AGG, BFSG und Grundrechte. Dieser Skill liefert Prüfschema, Test-Matrix und Vertragsklauseln.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-1. **Rolle:** Anbieter Hochrisiko-KI, Betreiber, Auditor, Aufsichtsbehörde, betroffene Person/Verband.
-2. **Funktion:** Personenerkennung, Gestenerkennung, Spracherkennung, Verhaltensprädiktion, Risikoeinschätzung, Triage-Unterstützung.
-3. **Trainingsdaten-Quelle:** öffentlich, lizenziert, synthetisch, betriebseigene Aufnahmen, gemischt.
-4. **Anlass:** Konformitätsbewertung, Audit Notified Body, Bias-Beschwerde, AGG-Prozess, KI-VO-Inspektion.
-5. **Unterlagen:** Data Sheets, Model Cards, Annotationsrichtlinien, Test-/Validierungsberichte, Demographic Statistics.
-
-## Rechtlicher Rahmen
-
-- **KI-VO Art. 10** Daten-Governance bei Hochrisiko-KI: relevante, repräsentative, fehlerfreie und vollständige Trainings-, Validierungs- und Testdaten; Verfahren zur Erkennung möglicher Verzerrungen ("biases") und ihrer Behebung; Art. 10 Abs. 5 erlaubt Verarbeitung besonderer Kategorien (Art. 9 DSGVO) zur Bias-Korrektur unter strikten Voraussetzungen.
-- **KI-VO Art. 9** Risikomanagement.
-- **KI-VO Art. 15** Genauigkeit, Robustheit, Cybersicherheit.
-- **DSGVO** Art. 5, 9, 22, 25, 35.
-- **AGG** §§ 1, 2, 7, 19, 20.
-- **BFSG** für Verbraucherrobotik.
-- **EU-Grundrechtecharta** Art. 21 Diskriminierungsverbot.
-
-## Schritt für Schritt
-
-1. **Use-Case-spezifische Datenanforderungen.** Was muss der Roboter erkennen, in welcher Umgebung, bei welcher Bevölkerung?
-2. **Data Sheet** je Datensatz: Quelle, Sammelmethode, Annotatoren, Lizenzen, Verteilungsstatistiken nach geschützten Merkmalen (soweit zulässig erhebbar).
-3. **Repräsentativitäts-Audit.** Vergleich Trainings-Demografie vs. Zielpopulation; Gap-Analyse.
-4. **Annotationsqualität.** Inter-Annotator-Agreement (Cohen's Kappa), Quality Gates, Konfliktauflösung.
-5. **Bias-Tests.** Disparate Performance je Subgruppe (Confusion-Matrix pro Subgruppe; Equal Opportunity / Demographic Parity / Calibration).
-6. **Mitigations.** Re-Sampling, Re-Weighting, Data Augmentation, Synthese, Adversarial Debiasing; Folgen für Performance dokumentieren.
-7. **Beschäftigtenkontext.** Im Recruiting-/HR-Kontext besondere Vorsicht; AGG-Audit; KI-VO Anhang III Nr. 4.
-8. **Dokumentation Art. 10 KI-VO** im technischen Dossier.
-9. **Post-Market-Monitoring** Art. 72 KI-VO: kontinuierliche Bias-Überwachung nach Inverkehrbringen.
-
-## Trade-off-Matrix
-
-| Ansatz | Pro | Contra | Empfehlung |
-|---|---|---|---|
-| Demographic Parity | klare Gleichheit | Performance-Einbuße | bei stark normativer Pflicht (z. B. Recruiting) |
-| Equal Opportunity | TPR-Gleichheit | komplizierter | bei sicherheitsbezogenen Anwendungen |
-| Synthese fehlende Subgruppen | Coverage erhöhen | Verteilungsverschiebung | nur wenn kontrolliert, mit Trennung Real vs. Synth |
-| Subgruppen-Performance nicht messen | "blind" | KI-VO-Verstoß | Messung notwendig (Art. 10 Abs. 2 lit. f) |
-
-## Praxistipps
-
-- **Subgroup-Reports** pro Release.
-- **Halbjährliches Real-World-Audit** mit unabhängiger Stelle.
-- **Annotations-SLA** mit Sub-Anbietern; Cohen's Kappa min. 0,75.
-- **Transparenz an Nutzer** über Performance-Grenzen (Art. 13 KI-VO).
-- **Daten-Aufbewahrung** mit Wiederverwendbarkeit für Re-Audit.
-
-## Mustertexte
-
-**Klausel Trainingsdaten-Lieferant (Auszug):**
-
-> Der Lieferant stellt Trainingsdatensätze mit einem detaillierten Data Sheet im Format Anhang B bereit. Der Lieferant garantiert: (a) rechtmäßige Erhebung (DSGVO/Lizenzen), (b) Repräsentativität bezogen auf die in Anlage C definierte Zielpopulation, (c) Annotationsqualität mit Cohen's Kappa nicht unter 0,80, (d) Subgruppen-Statistik nach Alter, Geschlecht, Hautfarbe (soweit zulässig erhebbar) inklusive Performance-Erwartung. Der Lieferant haftet für Vertragsverletzungen, die zu KI-VO-Konformitätsverlust führen, mit pauschalisiertem Schadensersatz von 250.000 EUR je Vorfall; weitergehende Schäden bleiben unberührt.
-
-**Auszug Model Card (Bias-Sektion):**
-
-> Bekannte Limitierungen: Die Erkennungsrate von Personen unter 1,40 m Körpergröße ist mit 92,1 % gegenüber dem Mittelwert von 97,5 % deutlich niedriger. Bei Rollstuhl-Nutzern liegt die Erkennungsrate bei 95,3 %. Empfehlung an den Betreiber: in Umgebungen mit Kindern oder Rollstuhl-Nutzern reduzierte Maximalgeschwindigkeit, redundante Sensorik aktivieren.
-
-## Typische Fehler
-
-- **Trainingsdaten nicht repräsentativ** für reale Bevölkerung – AGG-/KI-VO-Risiko.
-- **Keine Subgruppen-Metriken** dokumentiert.
-- **Annotationsrichtlinie informell**; keine Inter-Annotator-Tests.
-- **Bias-Mitigation einmalig**, ohne Post-Market-Monitoring.
-- **Drift** durch Modell-Updates nicht überwacht.
-
-## Querverweise
-
-- `accuracy-robustness-cybersecurity-ai`
-- `biometrie-emotion-und-personenerkennung`
-- `barrierefreiheit-und-inklusion-robotik`
-
-## Quellen Stand 06/2026
-
-- VO (EU) 2024/1689 (KI-VO), Art. 9, 10, 13, 15, 72.
-- DSGVO Art. 5, 9, 22, 35.
-- AGG §§ 1, 7, 19, 20.
-- EU-Grundrechtecharta Art. 21.
-- BFSG.
-- NIST AI Risk Management Framework; ISO/IEC TR 24027 Bias.
-- Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BAuA, antidiskriminierungsstelle.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.

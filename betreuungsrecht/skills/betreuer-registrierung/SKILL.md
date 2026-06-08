@@ -172,3 +172,25 @@ Bei Beratung zur Berufsbetreuung immer mitnehmen:
 - BtRegV vom 26.10.2022, BGBl. I S. 1934.
 - BGB §§ 1814, 1816 Abs. 5, 1865, 1871, 1872, 1877, 1878 (jeweils n.F.).
 - VBVG §§ 7 ff. für die Vergueturung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 278 FamFG
+- § 5 BtOG
+- § 274 FamFG
+- § 280 FamFG
+- § 30 BtOG
+- § 23 BtOG
+- § 8 BtOG
+- § 293 FamFG
+- § 292 FamFG
+- § 299 FamFG
+- § 312 FamFG
+- § 319 FamFG
+
+### Leitentscheidungen
+
+- BGH XII ZB 174/18
+

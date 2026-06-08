@@ -12,11 +12,8 @@ description: "Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährl
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Erhaltung, Modernisierung und Baumängel
-- **Spezialgegenstand:** Erhaltung, Modernisierung und Baumängel wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Stand: 05/2026.
 
@@ -82,7 +79,6 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .
-
 
 ## Qualitäts-Hardening
 

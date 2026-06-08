@@ -1,42 +1,26 @@
 ---
 name: arbeitsnaher-dienstvertrag-bauvertrag
-description: "Arbeitsnaher Dienstvertrag Bauvertrag im Plugin Bgb Bt Pruefer: prüft konkret Prüft zivilrechtliche Dienstleistungsverhältnisse mit, Scheins, Prüft Bauvertrag §§ 650a ff, Verbraucherbauvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Arbeitsnaher Dienstvertrag Bauvertrag
+# Arbeitsnaher Dienstvertrag im BGB
 
 ## Arbeitsbereich
 
-**Arbeitsnaher Dienstvertrag Bauvertrag** ordnet den Fall über die tragenden Prüffelder: Prüft zivilrechtliche Dienstleistungsverhältnisse mit, Scheins, Prüft Bauvertrag §§ 650a ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. |
-| `bauvertrag-und-verbraucherbauvertrag` | Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung. |
-| `bt-vertragsentwurf-modellvertrag` | Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle. |
+Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Bgb Bt Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `arbeitsnaher-dienstvertrag-bgb`
-
-**Fokus:** Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB.
-
-# Arbeitsnaher Dienstvertrag im BGB
 
 ## Fachkern: Arbeitsnaher Dienstvertrag im BGB
-- **Spezialgegenstand:** Arbeitsnaher Dienstvertrag im BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -114,183 +98,24 @@ Zivilrechtliche Dienstverträge mit Nähe zum Arbeitsrecht systematisch prüfen:
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `bauvertrag-und-verbraucherbauvertrag`
+## Normen und Rechtsprechung
 
-**Fokus:** Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung.
+### Kuratierte Normen-Bibliothek
 
-# Bauvertrag und Verbraucherbauvertrag
+- § 3 ProdHaftG
+- Art. 32 DSGVO
+- § 4 ProdHaftG
+- § 8 ProdHaftG
+- § 2 ProdHaftG
+- § 1 ProdHaftG
+- § 10 ProdHaftG
+- § 9 ProdHaftG
+- § 2 WoVermG
+- Art. 82 DSGVO
 
-## Fachkern: Bauvertrag und Verbraucherbauvertrag
-- **Spezialgegenstand:** Bauvertrag und Verbraucherbauvertrag; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+### Leitentscheidungen
 
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Zweck
-
-Bauvertragsrecht nach §§ 650a–650v BGB und VOB/B-Parallelrecht prüfen: Leistungspflichten, Abnahme, Mängelrechte, Vergütungsanpassung und Sonderkündigungsrecht.
-
-## Normanker
-
-- §§ 650a–650v BGB: Bauvertrag, Verbraucherbauvertrag, Architekten- und Ingenieurvertrag
-- §§ 631–650 BGB: allgemeines Werkvertragsrecht als Basis
-- § 640 BGB: Abnahme und Abnahmepflicht
-- § 641 BGB: Fälligkeit der Vergütung
-- § 650b BGB: Anordnungsrecht des Bestellers
-- § 650c BGB: Vergütungsanpassung bei Anordnungen
-- § 650e BGB: Sicherungshypothek des Unternehmers
-- § 650f BGB: Bauhandwerkersicherheit
-- §§ 650i–650n BGB: Verbraucherbauvertrag (Informationspflichten, Widerrufsrecht)
-- VOB/B als ergänzendes Regelwerk (nur wenn vereinbart)
-
-## Intake
-
-- Handelt es sich um einen einfachen Bauvertrag oder einen Verbraucherbauvertrag?
-- Ist die VOB/B wirksam in den Vertrag einbezogen worden?
-- Welche Leistungspflichten wurden vereinbart und welche Abweichungen sind eingetreten?
-- Wurde die Abnahme erklärt oder verweigert; liegen Mängel vor?
-- Gibt es Anordnungen des Bestellers nach § 650b BGB und wie wurde die Vergütung angepasst?
-- Welche Sicherheiten wurden gestellt oder gefordert?
-- Bestehen Kündigungsrechte nach § 648 oder § 648a BGB?
-
-## Prüfraster
-
-1. Vertragstyp: Bauvertrag (§ 650a BGB), Verbraucherbauvertrag (§ 650i BGB) oder allgemeiner Werkvertrag?
-2. VOB/B-Einbeziehung und AGB-Wirksamkeit nach §§ 305 ff. BGB prüfen
-3. Abnahme: ordnungsgemäße Erklärung, fiktive Abnahme, verweigerte Abnahme mit Mängelrüge
-4. Mängel: Sachmangel nach § 633 BGB, Nacherfüllungspflicht, Fristsetzung
-5. Vergütungsanpassung bei Anordnungen nach § 650c BGB
-6. Sicherungshypothek (§ 650e BGB) und Bauhandwerkersicherheit (§ 650f BGB) prüfen
-7. Kündigung: freie Kündigung (§ 648 BGB), außerordentliche Kündigung (§ 648a BGB)
-8. Verjährung der Mängelrechte: § 634a BGB (5 Jahre bei Bauwerken)
-
-## Fallstricke
-
-- Beim Verbraucherbauvertrag gelten strenge Informationspflichten und ein Widerrufsrecht nach § 650l BGB.
-- Die fiktive Abnahme setzt eine ordnungsgemäße Fristsetzung voraus.
-- Vergütungsanpassung nach § 650c BGB muss rechtzeitig geltend gemacht werden.
-- VOB/B-Klauseln können gegenüber Verbrauchern als AGB unwirksam sein.
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Vertragstyp-Einordnung mit Risikoampel
-- Abnahme- und Mängelrechtsprüfung
-- Vergütungsmatrix mit Anordnungsfolgen
-- Kündigungsfolgenabschätzung und Lückenliste
-
-## Qualitätsregeln
-
-- Abnahme immer als Zäsur für Gewährleistungsfrist und Beweislastumkehr markieren.
-- Bei Verbraucherbauvertrag Informationspflichten und Widerrufsrecht gesondert prüfen.
-- VOB/B nur anwenden, wenn wirksam einbezogen.
-
-## Anschluss-Skills
-
-- werkvertrag-grundschema-paragraph-631
-- werkvertrag-abnahme-und-faelligkeit
-- werkvertrag-maengelrechte
-- workflow-fristen-ruecktritt-kuendigung
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `bt-vertragsentwurf-modellvertrag`
-
-**Fokus:** Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle.
-
-# BT-Vertragsentwurf und Modellvertrag
-
-## Fachkern: BT-Vertragsentwurf und Modellvertrag
-- **Spezialgegenstand:** BT-Vertragsentwurf und Modellvertrag; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Zweck
-
-Vertragsentwürfe im BGB Schuldrecht BT erstellen, prüfen und roten Fäden zuordnen: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und Geschäftsbesorgung mit AGB-Konformität.
-
-## Normanker
-
-- §§ 241 ff. BGB: Schuldverhältnis und Nebenpflichten
-- §§ 305–310 BGB: AGB-Recht, Einbeziehung, Inhaltskontrolle
-- §§ 433 ff. BGB: Kaufvertrag
-- §§ 535 ff. BGB: Mietvertrag
-- §§ 631 ff. BGB: Werkvertrag
-- §§ 662 ff. BGB: Auftrag
-- § 675 BGB: Geschäftsbesorgungsvertrag
-- §§ 312 ff. BGB: Verbrauchervertragsrecht, Fernabsatz, Widerruf
-
-## Intake
-
-- Welcher Vertragstyp soll entworfen oder geprüft werden?
-- Handelt es sich um ein B2B- oder B2C-Verhältnis (AGB-Kontrolle relevant)?
-- Welche Hauptleistungspflichten und Nebenpflichten sollen geregelt werden?
-- Bestehen gesetzliche Formvorgaben (§ 311b BGB, § 550 BGB, § 578 BGB)?
-- Welche Haftungsbeschränkungen und Gewährleistungsausschlüsse sind gewünscht?
-- Gibt es Fernabsatz- oder Haustürgeschäftselemente?
-
-## Prüfraster
-
-1. Vertragstyp-Identifikation und anwendbare Normen bestimmen
-2. Vertragsschluss: Angebot, Annahme, Form, AGB-Einbeziehung nach § 305 Abs. 2 BGB
-3. Hauptleistungspflichten vollständig und eindeutig formulieren
-4. Nebenpflichten nach § 241 Abs. 2 BGB: Informations-, Schutz- und Aufklärungspflichten
-5. Gewährleistungsregelungen: gesetzliche Ansprüche, Verkürzungen, § 309 Nr. 8 BGB
-6. Haftungsbeschränkungen: § 309 Nr. 7 BGB, § 307 BGB Generalklausel
-7. Laufzeit, Kündigung und Verlängerungsklauseln
-8. Fernabsatz- und Widerrufsrecht nach §§ 312 ff. BGB bei Verbraucherverträgen
-
-## Fallstricke
-
-- Gewährleistungsausschlüsse gegenüber Verbrauchern sind nach § 309 Nr. 8 BGB weitgehend unwirksam.
-- Überraschende Klauseln nach § 305c BGB werden nicht Vertragsbestandteil.
-- Zu kurze Mängelrügefristen können bei Bauwerken gegen § 309 Nr. 8 BGB verstoßen.
-- Formvorschriften (Schriftform, notarielle Beurkundung) müssen explizit geprüft werden.
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Vertragsentwurf mit kommentierten Klauseln
-- AGB-Risikoliste (unwirksame Klauseln markiert)
-- Formcheckliste
-- Empfehlungen zur Überarbeitung
-
-## Qualitätsregeln
-
-- Jede Klausel auf AGB-Wirksamkeit und Transparenzgebot prüfen.
-- B2C-Verträge immer gesondert auf Verbraucherschutzrecht prüfen.
-- Formvorgaben nicht durch Checkliste pauschal abhaken; individuell prüfen.
-
-## Anschluss-Skills
-
-- schnittstelle-bgb-at-methodenlehre-agb
-- vertragstypen-mischvertrag-router
-- kaufvertrag-grundschema-paragraph-433
-- bt-fristen-erklaerungen-zugang
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

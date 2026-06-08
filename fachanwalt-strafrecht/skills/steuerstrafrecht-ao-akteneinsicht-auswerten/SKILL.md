@@ -7,10 +7,10 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 
 ## Arbeitsbereich
 
-**Steuerstrafrecht AO Akteneinsicht Auswerten** ordnet den Fall über die tragenden Prüffelder: Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Steuerstrafrecht AO Akteneinsicht Auswerten** ordnet den Fall über die tragenden Prüfungslinien: Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige` | Selbstanzeige nach Paragraph 371 AO. Strafbefreiungsgrund bei vorsaetzlicher Steuerhinterziehung. Strenge Voraussetzungen seit Reform 2015. Vollstaendigkeitsgebot Sperrgruende Absatz 2 fristgerechte Zahlung. Abgrenzung zu Paragraph 153 AO Berichtigungsanzeige. Praxis Vorbereitung Zeitpunkt Aufbau Anlagen. Mehrheit von Steuerpflichtigen koordinieren. |
 | `akteneinsicht-strafrecht-auswerten` | Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Prüfung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisanträgen Befangenheits-Prüfung und Vermerk für Beweisverwertung. |
@@ -20,12 +20,12 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
 
@@ -43,7 +43,7 @@ Anwendungsfaelle: Schwarzgeld auf Schweizer Konto melden bevor die Bank meldet; 
 
 ### Vollstaendigkeitsgebot Absatz 1
 
-Die Selbstanzeige muss **vollstaendig** sein — fuer **alle** Steuerstraftaten einer Steuerart **innerhalb der letzten zehn Jahre**, soweit nicht bereits verjaehrt. Reform 2015 hat diese Vollstaendigkeitsanforderung erheblich verschaerft; teilweise Selbstanzeige ist unwirksam.
+Die Selbstanzeige muss **vollstaendig** sein — für **alle** Steuerstraftaten einer Steuerart **innerhalb der letzten zehn Jahre**, soweit nicht bereits verjaehrt. Reform 2015 hat diese Vollstaendigkeitsanforderung erheblich verschaerft; teilweise Selbstanzeige ist unwirksam.
 
 Praktisch heisst das: Bei Einkommensteuer-Hinterziehung muss die Anzeige alle hinterzogenen Veranlagungszeitraeume umfassen. Bei Umsatzsteuer-Hinterziehung alle Voranmeldezeitraeume oder Veranlagungen. Bei mehreren Steuerarten ggf. mehrere Selbstanzeigen.
 
@@ -76,9 +76,9 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 ## Praktikertipps Verteidigung
 
-- **Frueh handeln — vor Tatentdeckung.** Sobald Mandant Anhaltspunkte fuer eine bevorstehende Pruefung oder Steuerfahndung hat: sofort Selbstanzeige. Jeder Tag zaehlt.
+- **Frueh handeln — vor Tatentdeckung.** Sobald Mandant Anhaltspunkte für eine bevorstehende Pruefung oder Steuerfahndung hat: sofort Selbstanzeige. Jeder Tag zaehlt.
 - **Vollstaendigkeit gruendlich vorbereiten.** Vor Abgabe alle Unterlagen sichten — Bankauszuege, Belege, Notizen. Lieber zwei Wochen Vorbereitung als unvollstaendige Anzeige.
-- **Zehn-Jahres-Ruecksicht.** Verjaehrungsfristen exakt berechnen. Bei Tat unter Paragraph 370 Abs 3 AO (grosses Ausmass) gilt 15-jaehrige Steuerstrafverjaehrung.
+- **Zehn-Jahres-Rücksicht.** Verjährungsfristen exakt berechnen. Bei Tat unter Paragraph 370 Abs 3 AO (grosses Ausmass) gilt 15-jaehrige Steuerstrafverjaehrung.
 - **Steuerberater oder Anwalt einbinden — von Anfang an.** Selbstanzeige durch Laien ist hochrisikobehaftet.
 - **Zuschlag rechtzeitig kalkulieren.** Bei Betraegen ab 25.000 Euro Zuschlag in Hoehe von 10 bis 20 Prozent zusaetzlich zur Mehrsteuer einplanen.
 - **Mehrere Steuerpflichtige koordinieren.** Bei Ehegatten oder Bruder-/Schwester-Konstellationen Selbstanzeigen synchronisieren — sonst Sperrgrund Tatentdeckung droht.
@@ -92,7 +92,7 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 ## Konkurrenzen
 
-- **Paragraph 371 AO und Paragraph 153 AO.** Paragraph 153 AO Berichtigung gilt fuer nicht-vorsaetzliche Falscherklaerungen ("Tatbestandsirrtum spaet erkannt"). Bei Vorsatz Selbstanzeige nach Paragraph 371 AO erforderlich.
+- **Paragraph 371 AO und Paragraph 153 AO.** Paragraph 153 AO Berichtigung gilt für nicht-vorsaetzliche Falscherklaerungen ("Tatbestandsirrtum spaet erkannt"). Bei Vorsatz Selbstanzeige nach Paragraph 371 AO erforderlich.
 - **Paragraph 371 AO und Paragraph 46 StGB.** Wenn Selbstanzeige unwirksam (Sperrgrund), gilt sie als Strafmilderungsgrund nach Paragraph 46 StGB (gefestigte BGH-Rspr.).
 - **Paragraph 371 AO und Paragraph 398 AO Verfahrenseinstellung.** Bei wirksamer Selbstanzeige: Verfahrenseinstellung nach Paragraph 170 Abs 2 StPO.
 
@@ -107,7 +107,7 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 ## Mustertexte
 
-**Selbstanzeige-Muster:** "An das Finanzamt X, Steuernummer Y. Hiermit erstatte ich nach Paragraph 371 AO vollstaendige Selbstanzeige fuer die Einkommensteuer der Jahre 2015 bis 2024. Ich erklaere folgende, bisher nicht erklaerte Einkuenfte: [Liste]. In der Anlage finden Sie die berichtigten Erklaerungen. Die berechnete Mehrsteuer betraegt EUR X (siehe Berechnung Anlage SA 1). Ich beantrage die Erstreckung der Selbstanzeige auf alle eventuell weiter betroffenen Veranlagungszeitraeume. Die Mehrsteuer einschliesslich Hinterziehungszinsen werde ich binnen 30 Tagen nach Mitteilung des Finanzamts ueberweisen."
+**Selbstanzeige-Muster:** "An das Finanzamt X, Steuernummer Y. Hiermit erstatte ich nach Paragraph 371 AO vollstaendige Selbstanzeige für die Einkommensteuer der Jahre 2015 bis 2024. Ich erklaere folgende, bisher nicht erklaerte Einkuenfte: [Liste]. In der Anlage finden Sie die berichtigten Erklaerungen. Die berechnete Mehrsteuer betraegt EUR X (siehe Berechnung Anlage SA 1). Ich beantrage die Erstreckung der Selbstanzeige auf alle eventuell weiter betroffenen Veranlagungszeitraeume. Die Mehrsteuer einschliesslich Hinterziehungszinsen werde ich binnen 30 Tagen nach Mitteilung des Finanzamts ueberweisen."
 
 **Schriftsatz-Snippet (Unwirksamkeit als Strafmilderung):** "Auch wenn die Selbstanzeige meines Mandanten infolge der Pruefungsanordnung als unwirksam zu betrachten ist, ist die freiwillige Mitwirkung als Strafmilderungsgrund nach Paragraph 46 Abs 2 StGB strafmildernd zu beruecksichtigen. BGH staendige Rspr. wertet die Selbstanzeige auch im Sperrfall regelmaessig erheblich strafmildernd."
 
@@ -130,7 +130,6 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 - BGH staendige Rspr. zur Selbstanzeige als Strafmilderungsgrund bei Unwirksamkeit.
 - BGH staendige Rspr. zum Vollstaendigkeitsgebot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -306,14 +305,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Allgemeines und Wirtschaftsstrafrecht (Telefon, Mail, Empfehlung, Walk-in).
-- Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; oft mit Vorladung, Strafbefehl, Durchsuchungsbeschluss, Anklageschrift, U-Haft-Anordnung, Anhoerung als Zeuge oder Anklageschrift mit Nebenklage-Option.
-- Vor jeder weiteren Bearbeitung: erst Annahme klaeren, Rolle bestimmen (Beschuldigte/r, Verletzte/r oder Nebenklage, Zeuge/in mit Beistand), Konflikt- und GwG-Pruefung, Vollmacht, Gebuehrenvereinbarung, Fristen.
+- Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; oft mit Vorladung, Strafbefehl, Durchsuchungsbeschluss, Anklageschrift, U-Haft-Anordnung, Anhörung als Zeuge oder Anklageschrift mit Nebenklage-Option.
+- Vor jeder weiteren Bearbeitung: erst Annahme klaeren, Rolle bestimmen (Beschuldigte/r, Verletzte/r oder Nebenklage, Zeuge/in mit Beistand), Konflikt- und GwG-Pruefung, Vollmacht, Gebührenvereinbarung, Fristen.
 
 ## Phasen des Erstgespraechs
 
 ### 1. Rollenklarheit und Konstellation (10-15 Min.)
 
-Erste Frage: Wofuer braucht Mandantschaft Sie?
+Erste Frage: Wofür braucht Mandantschaft Sie?
 
 - **Beschuldigte oder Angeklagte** - Verteidigung im Strafverfahren.
 - **Verletzte oder Anzeigeerstattende** - Beratung, Strafanzeige, Akteneinsicht der Verletzten, ggf. Nebenklage-Anschluss.
@@ -325,7 +324,7 @@ Standard-Fragenraster:
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle und Aktenzeichen StA / Gericht).
 - Tatvorwurf in einem Satz (StGB-Paragraf, OWiG, Nebenstrafrecht).
 - Konkrete fachliche Stossrichtung: Akteneinsicht, Beschuldigtenvernehmung, U-Haft, Strafbefehl-Einspruch, Hauptverhandlung, Revision, Anklage gegen Beschuldigte/n als Nebenklage.
-- Bisherige Korrespondenz (Vorladung, Anhoerungsbogen, Durchsuchung, Bescheide).
+- Bisherige Korrespondenz (Vorladung, Anhörungsbogen, Durchsuchung, Bescheide).
 - **Fristenscreening sofort:** Einspruch gegen Strafbefehl 2 Wochen (§ 410 Abs. 1 StPO), Revisionseinlegung 1 Woche (§ 341 StPO), Revisionsbegruendung 1 Monat (§ 345 StPO), Klageerzwingung 1 Monat (§ 172 Abs. 2 StPO), Antrag auf gerichtliche Entscheidung (§ 23 EGGVG) 1 Monat, Beschwerdefristen § 311 StPO.
 
 ### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
@@ -340,36 +339,36 @@ Standard-Fragenraster:
 ### 3. Vollmacht und Akteneinsicht
 
 - Strafprozessvollmacht (§§ 137 ff. StPO, BORA, RVG).
-- Akteneinsichtsantrag gemaess § 147 StPO (Verteidigung) oder § 406e StPO (Verletzten-/Nebenklagevertretung) oder ohne Sondervorschrift fuer Zeugenbeistand.
+- Akteneinsichtsantrag gemaess § 147 StPO (Verteidigung) oder § 406e StPO (Verletzten-/Nebenklagevertretung) oder ohne Sondervorschrift für Zeugenbeistand.
 - Bei Pflichtverteidigerbestellung Antrag gemaess § 141 StPO frueh stellen (Belehrung gemaess § 136 Abs. 1 S. 3 StPO).
 - Bei Nebenklage: Anschlusserklaerung gemaess § 396 StPO und Pruefung der Nebenklage-Befugnis gemaess § 395 StPO.
 
-### 4. Gebuehrenvereinbarung im Strafverfahren
+### 4. Gebührenvereinbarung im Strafverfahren
 
-Strafrechtsspezifische Gebuehrentatbestaende statt zivilrechtlicher Streitwert-Logik:
+Strafrechtsspezifische Gebührentatbestaende statt zivilrechtlicher Streitwert-Logik:
 
 - **RVG-Strafsachen-Tatbestaende** (VV-RVG Teil 4 Abschnitt 1): Grundgebuehr Nr. 4100, Verfahrensgebuehr Ermittlungsverfahren Nr. 4104, Verfahrensgebuehr Gerichtsverfahren erster Instanz Nr. 4106 oder 4112 bzw. 4118 je nach Gericht, Terminsgebuehr Nr. 4108 bzw. Nr. 4114 bzw. Nr. 4120, Hauptverhandlungstag-Zuschlag bei Strafkammer.
 - **Bei Bussgeldverfahren:** VV-RVG Teil 5 (Nrn. 5100 ff.).
-- **Pflichtverteidigung:** Festgebuehren gemaess RVG-Tabelle Teil 4 Abschnitt 1 mit besonderem Gebuehrentatbestand fuer den bestellten Verteidiger.
+- **Pflichtverteidigung:** Festgebuehren gemaess RVG-Tabelle Teil 4 Abschnitt 1 mit besonderem Gebührentatbestand für den bestellten Verteidiger.
 - **Vereinbarungshonorar / Stundenhonorar:** zulaessig nach § 3a RVG mit Schriftform und ausdruecklichem Hinweis; oberhalb der gesetzlichen Gebuehr ueblich bei Wirtschaftsstrafrecht.
 - **Erfolgshonorar:** nur in engen Grenzen gemaess § 4a RVG; im Strafverfahren regelmaessig problematisch (kein Erfolg im klassischen Sinne, Risiko des Wertungs-Widerspruchs).
 - **Vorschuss:** Vorschussanforderung nach § 9 RVG, in Strafsachen ueblich pro Instanz oder pro Hauptverhandlungstag.
-- **Bei Nebenklage:** Gebuehren VV-RVG Teil 4 Abschnitt 2 (Nrn. 4124 ff.). Streitwert-Aequivalent nur fuer adhaesionsrechtliche Anspruche relevant.
-- **Bei Adhaesion (§§ 403 ff. StPO):** Gebuehren VV-RVG Teil 4 Abschnitt 6 (Nrn. 4143-4147), berechnet nach Gegenstandswert des geltend gemachten Anspruchs.
+- **Bei Nebenklage:** Gebühren VV-RVG Teil 4 Abschnitt 2 (Nrn. 4124 ff.). Streitwert-Aequivalent nur für adhaesionsrechtliche Anspruche relevant.
+- **Bei Adhaesion (§§ 403 ff. StPO):** Gebühren VV-RVG Teil 4 Abschnitt 6 (Nrn. 4143-4147), berechnet nach Gegenstandswert des geltend gemachten Anspruchs.
 
 ### 5. Strategie-Erstskizze
 
 Drei Weichen am Ende des Erstgespraechs:
 
-- **Mandat annehmen:** vollstaendig (Verteidigung durch alle Instanzen) oder begrenzt (nur Akteneinsicht und Gutachten, nur Erstellung Einspruch gegen Strafbefehl, nur Zeugenbeistand fuer einen Vernehmungstermin).
-- **Verweisen:** wenn Spezialgebiet ausserhalb (Wirtschaftsstrafrecht vs. allgemeines Strafrecht), oertlich unzustaendig oder Mehrfachbeschuldigtenkonstellation.
+- **Mandat annehmen:** vollstaendig (Verteidigung durch alle Instanzen) oder begrenzt (nur Akteneinsicht und Gutachten, nur Erstellung Einspruch gegen Strafbefehl, nur Zeugenbeistand für einen Vernehmungstermin).
+- **Verweisen:** wenn Spezialgebiet ausserhalb (Wirtschaftsstrafrecht vs. allgemeines Strafrecht), oertlich unzuständig oder Mehrfachbeschuldigtenkonstellation.
 - **Ablehnen:** Konflikt mit § 146 StPO, GwG-Hit beim Honorar, fehlende Vertrauensbasis.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Rolle, Konflikt-Check, GwG-Status, Tatvorwurf, Aktenzeichen.
 2. **Frist-Liste** (Einspruch, Revisionseinlegung, Revisionsbegruendung, Beschwerdefristen, Anschluss-Frist Nebenklage, U-Haft-Pruefungsfristen § 121 StPO).
-3. **Anlagenverzeichnis** des uebergebenen Datenraums (Bescheide, Schreiben, Anhoerungsbogen).
+3. **Anlagenverzeichnis** des uebergebenen Datenraums (Bescheide, Schreiben, Anhörungsbogen).
 4. **Naechster-Schritt-Plan:** binnen 24 / 48 / 72 h, Owner, Output (Akteneinsicht stellen, Pflichtverteidigerbeiordnung beantragen, U-Haft-Beschwerde).
 5. **Honorarvereinbarung** unterschrieben oder Hinweis auf RVG-Festgebuehr / Pflichtverteidiger-Beiordnung.
 
@@ -379,13 +378,13 @@ Drei Weichen am Ende des Erstgespraechs:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG, Nebenstrafrecht (StVG, WaffG, KCanG, AWG, WiStrG 1954).
 - RVG mit VV-RVG Teil 4 (Strafsachen) und Teil 5 (Bussgeldsachen).
-- DSGVO und BDSG fuer den Umgang mit Mandanten- und Verletzten-Daten.
+- DSGVO und BDSG für den Umgang mit Mandanten- und Verletzten-Daten.
 
 ## Typische Fehler im Erstgespraech
 
 - Rolle der Mandantschaft nicht klar getrennt - Mehrfachvertretung Beschuldigter und Nebenklaegerin im gleichen Verfahren ist berufsrechtswidrig.
 - Frist uebersehen, weil Mandantschaft sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen, insbesondere Strafbefehl mit Zustellungsdatum).
-- Pflichtverteidiger-Antrag erst spaet gestellt - Vergutungsrisiko fuer Wahlverteidiger bis Beiordnung.
+- Pflichtverteidiger-Antrag erst spaet gestellt - Vergutungsrisiko für Wahlverteidiger bis Beiordnung.
 - Akteneinsicht zu spaet beantragt - Hauptverhandlungsvorbereitung leidet.
 - Honorarvereinbarung muendlich oder ohne § 3a-RVG-Form - Honorar nur in Hoehe der gesetzlichen Gebuehr durchsetzbar.
 - GwG-Pruefung verfehlt - Risiko § 261 StGB beim Honorar-Bezug aus inkriminierter Quelle.
@@ -428,7 +427,7 @@ Mandantschaft sitzt seit Wochen in U-Haft. Pflichtverteidiger noch nicht beantra
 
 Mandantschaft ist Opfer einer Sexualstraftat oder schweren Koerperverletzung.
 
-1. Akteneinsichtsantrag fuer Verletztenvertretung (§ 406e StPO).
+1. Akteneinsichtsantrag für Verletztenvertretung (§ 406e StPO).
 2. Pruefung Nebenklagebefugnis (§ 395 StPO).
 3. Antrag auf Beiordnung als Opferanwalt (§ 397a StPO).
 4. Adhaesion (§§ 403 ff. StPO) und psychosoziale Prozessbegleitung (§ 406g StPO) erwaegen.
@@ -448,7 +447,7 @@ Mandantschaft hat Vorladung als Zeuge in einem Verfahren erhalten, ist aber selb
 Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemaess § 14 InsO gestellt, parallel laeuft Strafverfahren wegen Insolvenzverschleppung (§ 15a InsO) oder Untreue (§ 266 StGB).
 
 1. Doppelgleisige Strategie: Strafverteidigung + Insolvenzverteidigung.
-2. Pruefung Anhoerungsantraege im InsO-Verfahren.
+2. Pruefung Anhörungsantraege im InsO-Verfahren.
 3. Vermoegensabschoepfung gemaess §§ 73 ff. StGB und Beschlagnahme gemaess § 111b StPO im Auge behalten.
 4. Cross-Ref: `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`.
 
@@ -459,7 +458,7 @@ Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemae
 - Verstaendigungschance gemaess § 257c StPO und Einstellung gemaess § 153a StPO als Option offen halten.
 - Schriftliche Zusammenfassung des Erstgespraechs binnen 48 h.
 
-## Mandatsbogen-Muster (Mindestinhalt fuer Strafsachen)
+## Mandatsbogen-Muster (Mindestinhalt für Strafsachen)
 
 - Mandantschaft (Name, Geburtsdatum, Anschrift, Telefon, E-Mail).
 - Rolle (Beschuldigte, Nebenklaegerin, Zeugin, Insolvenzschuldnerin/GF).
@@ -469,20 +468,20 @@ Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemae
 - Ziel des Mandats (eine Zeile).
 - Strittige Fragen (bullet).
 - Geprueft: Konflikt - GwG - Vollmacht.
-- Gebuehrentatbestaende (Nrn. 4100 ff. VV-RVG / Vereinbarung).
+- Gebührentatbestaende (Nrn. 4100 ff. VV-RVG / Vereinbarung).
 - Frist-Liste.
 - Aktenanlage Datum.
 - Naechster-Schritt.
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Verstaendigung gemaess § 257c StPO, Einstellung gemaess § 153a StPO und Adhaesion.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer Verteidigungsschriftsaetze (Einspruch, Revision, Klageerzwingung).
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) fuer Verletzten- und Nebenklagevertretung.
-- `fachanwalt-strafrecht-zeugenbeistand` (im selben Plugin) fuer Zeugenbeistand gemaess § 68b StPO.
-- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) fuer Adhaesion.
-- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` (im selben Plugin) fuer parallelen Insolvenzantrag der StA.
-- `kanzlei-allgemein` fuer Konflikt-, GwG- und Aktenanlage-Routinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für Verstaendigung gemaess § 257c StPO, Einstellung gemaess § 153a StPO und Adhaesion.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für Verteidigungsschriftsaetze (Einspruch, Revision, Klageerzwingung).
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) für Verletzten- und Nebenklagevertretung.
+- `fachanwalt-strafrecht-zeugenbeistand` (im selben Plugin) für Zeugenbeistand gemaess § 68b StPO.
+- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) für Adhaesion.
+- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` (im selben Plugin) für parallelen Insolvenzantrag der StA.
+- `kanzlei-allgemein` für Konflikt-, GwG- und Aktenanlage-Routinen.
 
 ## Aktuelle Rechtsprechung Erstgespraech / Mandatsannahme
 
@@ -559,7 +558,7 @@ der vollstaendigen Verfahrensakten einschliesslich saemtlicher
 Beiakten Asservatenverzeichnisse und beigezogener Akten zur
 Kanzlei wird gebeten.
 
-Falls eine Versagung erwogen wird wird um vorherige Anhoerung mit
+Falls eine Versagung erwogen wird wird um vorherige Anhörung mit
 Begruendung gebeten.
 
 Bis zur Akteneinsicht macht der Beschuldigte von seinem Schweige-
@@ -590,7 +589,7 @@ Mit kollegialen Gruessen
 - § 147 Abs. 4 StPO — eigenes Akteneinsichtsrecht des nicht verteidigten Beschuldigten
 - § 147 Abs. 5 StPO — Rechtsbehelf: Antrag auf gerichtliche Entscheidung
 - § 32f StPO — elektronische Akten; digitale Bereitstellung
-- § 406e StPO — Akteneinsicht fuer Verletzte / Nebenklaeger (beschraenkt)
+- § 406e StPO — Akteneinsicht für Verletzte / Nebenklaeger (beschraenkt)
 
 ## 5. `fachanwalt-strafrecht-anklage-reaktion`
 
@@ -766,7 +765,7 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 ## Aktuelle Rechtsprechung Anklage-Reaktion (Stand Mai 2026)
 
-- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Kommunikation): Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation im Strafverfahren — relevant fuer die Frage des hinreichenden Tatverdachts (§ 203 StPO) bei Anklagen, die auf ANOM-Datensaetze gestuetzt sind. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Kommunikation): Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation im Strafverfahren — relevant für die Frage des hinreichenden Tatverdachts (§ 203 StPO) bei Anklagen, die auf ANOM-Datensaetze gestuetzt sind. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - BGH (GSSt) 03.02.2025 — GSSt 1/24: KCanG — Verfolgungsausschluss bei sanktionsfreien Eigenkonsummengen; bei Cannabisanklage zu pruefen, ob nicht schon die Eroeffnung (§ 203 StPO) am fehlenden Tatverdacht scheitert. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Pruefungsdichte des Eroeffnungsbeschlusses ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 203 StPO hinreichender Tatverdacht" durchführen.
 
@@ -779,7 +778,6 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - § 207 StPO — Eroffnungsbeschluss mit Aenderungen
 - § 153 StPO — Einstellung Geringfuegigkeit
 - § 153a StPO — Einstellung gegen Auflage
-
 
 ## Qualitäts-Hardening
 

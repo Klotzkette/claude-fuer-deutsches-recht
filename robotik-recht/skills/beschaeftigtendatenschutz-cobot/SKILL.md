@@ -6,11 +6,8 @@ description: "Prüft Beschäftigtendatenschutz bei Cobots: Leistungsdaten, Stand
 # Beschäftigtendatenschutz bei Cobot-Einsatz
 
 ## Fachkern: Beschäftigtendatenschutz bei Cobot-Einsatz
-- **Spezialgegenstand:** Beschäftigtendatenschutz bei Cobot-Einsatz wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
 - **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum geht es konkret
 

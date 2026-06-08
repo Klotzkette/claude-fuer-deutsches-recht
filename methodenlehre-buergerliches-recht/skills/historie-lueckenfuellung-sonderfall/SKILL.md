@@ -7,10 +7,10 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 
 ## Arbeitsbereich
 
-**Historie Lueckenfuellung Sonderfall** ordnet den Fall über die tragenden Prüffelder: Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Historie Lueckenfuellung Sonderfall** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-historie-compliance-dokumentation-und-akte` | Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung. |
 | `spezial-lueckenfuellung-sonderfall-und-edge-case` | Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht. |
@@ -20,12 +20,12 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-historie-compliance-dokumentation-und-akte`
 
@@ -40,7 +40,6 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die historisch-genetische Auslegungsmethode setzt voraus, dass Vertragsentstehung und Parteiwille lückenlos dokumentiert sind. Gleichzeitig verlangen compliance-rechtliche Anforderungen eine revisionssichere Aktenführung. Dieses Skill bearbeitet methodische Dokumentationsanforderungen mit den praktischen Grundlagen der anwaltlichen und unternehmerischen Aktenführung.
 
@@ -134,7 +133,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Das Gesetz kann nicht alle denkbaren Sachverhalte regeln. Sonderfälle und Grenzkonstellationen erfordern methodisch präzise Lückenfüllung — sei es durch Analogie, teleologische Extension oder Reduktion. Dieses Skill trainiert die saubere Identifikation und Schließung solcher Lücken im bürgerlichen Recht, ohne die Grenzen zur unzulässigen Rechtsfortbildung zu überschreiten.
 
 ## Mandantenfall
@@ -227,7 +225,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die erste methodische Weichenstellung eines Mandats entscheidet über Effizienz und Erfolg der gesamten Bearbeitung. Wer das Mandatsziel präzise definiert und die Erstprüfung methodisch strukturiert, vermeidet Sackgassen und Doppelarbeit. Dieses Skill trainiert den systematischen Einstieg in neue Mandate, von der ersten Mandantenschilderung bis zur belastbaren Ersteinschätzung.
 
 ## Mandantenfall
@@ -318,7 +315,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Sachverhalte mit internationalem Bezug stellen Anwälte vor methodische Zusatzanforderungen: Welches Recht gilt? Welcher Richter ist zuständig? Können Urteile vollstreckt werden? Dieses Skill gibt eine pragmatische Anleitung, wie internationale Schnittstellen effizient erkannt und die relevanten Rechtsfragen priorisiert werden, ohne sich in kollisionsrechtlichen Details zu verlieren, wenn der Fall es nicht verlangt.
 
@@ -411,7 +407,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Rechtliche Argumentation ohne Beweisfundament ist im Prozess wertlos. Dieses Skill bearbeitet die materiell-rechtliche Tatbestandsprüfung unmittelbar mit der prozessrechtlichen Beweisplanung, sodass für jedes Tatbestandsmerkmal von Beginn an die erforderlichen Beweismittel und Belege identifiziert und gesichert werden.
 

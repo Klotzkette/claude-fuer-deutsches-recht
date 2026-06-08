@@ -7,7 +7,7 @@ description: "Bei an die Stelle des Erlangten ein Ersatzwert getreten sein kann.
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: an die Stelle des Erlangten ein Ersatzwert getreten sein kann. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -82,7 +82,6 @@ Ein Surrogat muss nicht denselben Namen tragen wie das Erlangte. Entscheidend is
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

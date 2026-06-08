@@ -5,12 +5,28 @@ description: "Red-Team einer Ehenichtigkeitsakte: Fachmodul für CIC, Katechismu
 
 # Red-Team einer Ehenichtigkeitsakte
 
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachkern: Red-Team einer Ehenichtigkeitsakte
-- **Spezialgegenstand:** Red-Team einer Ehenichtigkeitsakte; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
 - **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Auftrag
 

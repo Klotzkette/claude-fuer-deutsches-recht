@@ -7,7 +7,7 @@ description: "Bei das praktische Rückabwicklungsziel in eine belastbare Anspruc
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -100,7 +100,6 @@ Dieses Fachmodul greift, wenn das praktische Rückabwicklungsziel in eine belast
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

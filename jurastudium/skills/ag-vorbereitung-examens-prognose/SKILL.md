@@ -1,39 +1,24 @@
 ---
 name: ag-vorbereitung-examens-prognose
-description: "AG Vorbereitung Examens Prognose im Jurastudium: prüft konkret AG-Vorbereitung und Cold-Call-Prep für Jurastudium, Examensprognose auf Basis bisheriger JPA-Klausuren und, Examensvorbereitungs-Fragen für 1. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# AG Vorbereitung Examens Prognose
+# AG/Seminar-Vorbereitung (Cold-Call-Prep)
 
 ## Arbeitsbereich
 
-**AG Vorbereitung Examens Prognose** ordnet den Fall über die tragenden Prüffelder: AG-Vorbereitung und Cold-Call-Prep für Jurastudium, Examensprognose auf Basis bisheriger JPA-Klausuren und, Examensvorbereitungs-Fragen für 1. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ag-vorbereitung` | AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen. |
-| `examens-prognose` | Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan. |
-| `examensvorbereitung-fragen` | Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Prüfraster Fachgebiet Zivilrecht Strafrecht öffentliches Recht, Zeitdruck-Simulation oder Verstaendnis-Training, Bundesland-spezifisch. Output Uebungsfragen mit Musterlösung und Hinweis auf Schwachstellen. Abgrenzung zu Examensprognose für Themengewichtung und zu Gutachten-Uebung für Klausur-Training. |
+AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Jurastudium klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `ag-vorbereitung`
-
-**Fokus:** AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen.
-
-# AG/Seminar-Vorbereitung (Cold-Call-Prep)
-
 
 ## Triage zu Beginn
-1. In welchem Fachgebiet findet die AG statt: Zivilrecht, Strafrecht, oeffentliches Recht?
+1. In welchem Fachgebiet findet die AG statt: Zivilrecht, Strafrecht, öffentliches Recht?
 2. Welches Thema oder welcher Fall steht auf dem AG-Plan?
 3. Wie viel Zeit bis zur AG — und welche Vorbereitung ist bisher erfolgt?
 4. Gibt es spezifische Fragen oder Schwachpunkte, die besonders geuebt werden sollen?
@@ -45,7 +30,7 @@ description: "AG Vorbereitung Examens Prognose im Jurastudium: prüft konkret AG
 - §§ 133, 157 BGB — Auslegung als AG-Dauerthema
 - § 280 Abs. 1 BGB — Schadensersatz: Standard-AG-Anspruch
 - §§ 32, 34 StGB — Notwehr/Notstand: AG-Klassiker Strafrecht
-- §§ 40, 42 VwGO — Rechtsweg und Klagearten: AG-Grundlage oeffentliches Recht
+- §§ 40, 42 VwGO — Rechtsweg und Klagearten: AG-Grundlage öffentliches Recht
 
 ## Quellenregel
 
@@ -189,328 +174,24 @@ Nachbohren: "Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Defensives Schweigen:** Lieber eine strukturierte Antwort auf falschem Fundament als gar keine Antwort – der AG-Leiter kann nur korrigieren, was er hört.
 
-## 2. `examens-prognose`
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 242 StGB
+- § 35 VwVfG
+- § 15 StGB
+- § 1 StGB
+- § 70 VwG
+- Art. 3 GG
+- § 32 StGB
+- § 16 StGB
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+
+### Leitentscheidungen
+
+- BGH VI ZR 116/12
 
-**Fokus:** Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan.
-
-# Examensprognose / JPA-Statistik
-
-## Zweck
-
-Dieser Skill analysiert **vergangene Examsklausuren** desselben Justizprüfungsamts (JPA) und erstellt eine **gewichtete Prognose** für kommende Prüfungen. Er hilft dabei, Lernzeit auf examensrelevante Themen zu konzentrieren, statt gleichmäßig über alle Rechtsgebiete zu verteilen.
-
-Grundlage:
-- Vom Nutzer hochgeladene **JPA-Klausuren** aus dem Lernprofil
-- Öffentlich bekannte **Statistiken des BMJV** (Bundesministerium der Justiz) zur Bestehensquote und Fächerverteilung
-- **JPA-spezifische Schwerpunkte** (bekannte Präferenzen einzelner Prüfungsämter)
-- **Aktuelle Rechtsentwicklungen** (z. B. BGB-Reformen, neue BGH-Leitentscheidungen)
-
-**Wichtiger Vorbehalt:** Eine Prognose ist eine Gewichtungshilfe für die Lernzeitplanung, keine Vorhersage. Alle Prognosepunkte werden mit `[UNSICHER – Prognose]` markiert.
-
-## Eingaben
-
-1. Lernprofil (`~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`) → Bundesland/JPA, Prüfungsziel, hochgeladene Klausuren
-2. Optional: Pfad zu spezifischen Altklausuren (selbes JPA oder vergleichbares JPA)
-3. Optional: `--statistik` → zeigt BMJV-Statistiken und bekannte Bundesland-Daten
-4. Rechtsgebiet (Argument oder interaktiv)
-
-## Ablauf
-
-### Schritt 1: Materialprüfung
-
-Das Plugin prüft, welche JPA-Klausuren vorliegen:
-- Weniger als 5 Klausuren vom selben JPA → Ausgabe mit `WENIG MATERIAL`-Hinweis
-- Klausuren von einem anderen JPA desselben Bundeslandes → verwendbar, aber mit Hinweis
-- Keine eigenen Klausuren → reine BMJV-Statistik und bekannte Muster, stark generisch
-
-### Schritt 2: Klausuranalyse
-
-Für jede vorliegende Klausur:
-- Welches Rechtsgebiet? Welche Normen stehen im Mittelpunkt?
-- Welcher Aufbautyp (Anspruchsgrundlagenprüfung / Straftatprüfung / Verwaltungsakt)?
-- Welche Streitstände wurden abgefragt?
-- Wiederholungsmuster: Was kam in 2 oder mehr Klausuren vor?
-
-### Schritt 3: Gewichtungsmatrix
-
-Das Plugin erstellt eine gewichtete Themenmatrix:
-
-| Thema | Häufigkeit (eigene Klausuren) | BMJV-Relevanz | Letzte Prüfung | Gewicht |
-|---|---|---|---|---|
-| § 280 Abs. 1 BGB – Schadensersatz | hoch | hoch | 2023 | ⬆⬆ |
-| § 823 Abs. 1 BGB – Deliktsrecht | mittel | hoch | 2022 | ⬆ |
-| § 812 BGB – Bereicherungsrecht | niedrig | mittel | 2021 | ↔ |
-| § 985 BGB – Herausgabeanspruch | niedrig | niedrig | 2020 | ⬇ |
-
-`[UNSICHER – Prognose]` auf alle Gewichtungen.
-
-### Schritt 4: Aktuelle Rechtsentwicklungen
-
-Das Plugin prüft bekannte aktuelle Themen:
-- **BGB-Reform 2022** (Sachmangelbegriff § 434, Verbrauchsgüterkauf): examensrelevant seit 2022/2023
-- **DSA/DDG:** relevant in Medien- und IT-rechtlichen Schwerpunkten
-- **BGH-Leitentscheidungen** der letzten 2 Jahre im jeweiligen Rechtsgebiet
-
-Alle aktuellen Angaben: `[Modellwissen – prüfen; Stand des Trainings kann veraltet sein]`
-
-### Schritt 5: Lernempfehlung
-
-Auf Basis der Gewichtungsmatrix:
-- **Priorität A:** Themen mit hoher Häufigkeit + hoher BMJV-Relevanz → höchste Lernzeit
-- **Priorität B:** Mittel-Häufigkeit + aktuelle BGH-Relevanz → zweite Lernphase
-- **Priorität C:** Selten + bereits gut beherrscht → nur Auffrischung nötig
-
-## Quellen und Zitierweise
-
-→ `../references/zitierweise.md`
-
-**Für Prognosearbeit relevante Quellen:**
-- BMJV, *Statistik der Rechtspflege* (jährlich, online), Bestehensquoten und Fächerverteilung
-- NJW: jährliche Examensbesprechungen und Berichte zu Schwerpunktthemen
-- JuS: regelmäßige Aufsätze zu examensrelevanten Problemkreisen
-- RÜ (Repetitorium – Examensfälle): aktuelle Fallbesprechungen aus echten Examensklausuren
-
-**Für Bundesland-spezifische Daten:**
-- JPA-Websites (Bayern: www.justizexamen.de; NRW: www.jpa.nrw.de; BW: www.justiz.bwl.de)
-- Öffentlich zugängliche Klausurensammlungen der Universitäten
-
-**Für inhaltliche Kontrolle:**
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Ausgabeformat
-
-### Examensprognose (Vollformat)
-
-```
-**Examensprognose – [Rechtsgebiet] – [Bundesland] / JPA [X]**
-Stand: [Datum der Analyse]
-
-⚠️ Hinweis: Diese Prognose ist eine Lernzeit-Gewichtungshilfe, keine Vorhersage.
-Alle Punkte mit [UNSICHER – Prognose] markiert.
-
-**Datenbasis:**
-- [N] eigene JPA-Klausuren analysiert [WENIG MATERIAL falls <5]
-- BMJV-Statistik [Jahr]
-- Bekannte JPA-Präferenzen [Bundesland]
-
-**Gewichtungsmatrix:**
-[Tabelle]
-
-**Priorität A – Schwerpunkt Lernzeit:**
-1. [Thema]: [Begründung] [UNSICHER – Prognose]
-2. [Thema]: …
-
-**Priorität B – Zweite Lernphase:**
-[…]
-
-**Aktuelle Rechtsentwicklungen die du kennen solltest:**
-- [Thema]: [Kurzbeschreibung] [Modellwissen – prüfen]
-
-**Verknüpfte Skills:**
-→ /jurastudium:lernplan (Prognose in Lernplan übertragen)
-→ /jurastudium:examensvorbereitung-fragen --bundesland [X] [Rechtsgebiet]
-```
-
-## Beispiel
-
-**Anfrage:** Examensprognose BGB Schuldrecht, Bayern, basierend auf 7 JPA-Klausuren
-
-**Ausgabe (Auszug):**
-
-Gewichtungsmatrix (Auszug):
-
-| Thema | Klausur-Häufigkeit | BMJV-Relevanz | Gewicht |
-|---|---|---|---|
-| Leistungsstörungen §§ 280, 281, 323 BGB | 6/7 | sehr hoch | ⬆⬆ `[UNSICHER – Prognose]` |
-| Kaufrecht §§ 433, 434, 437 BGB n. F. | 5/7 | hoch (seit Reform 2022) | ⬆⬆ |
-| Deliktsrecht § 823 BGB | 4/7 | hoch | ⬆ |
-| Stellvertretung §§ 164 ff. BGB | 3/7 | mittel | ↔ |
-| Bereicherungsrecht §§ 812 ff. BGB | 2/7 | mittel | ↔ |
-
-Priorität A: Leistungsstörungsrecht – kommt in fast jeder BGB-Klausur vor. Fokus auf §§ 280 Abs. 1, 3, 281 BGB; Fristlosigkeit § 323 Abs. 2 BGB; Rücktritt vs. Schadensersatz. lizenzpflichtige Literaturquelle/Ernst, §§ 280, 281 beherrschen. `[UNSICHER – Prognose]`
-
-Aktuelle Rechtsentwicklungen:
-BGB-Reform 2022 (VerbrRRL): Neuer § 434 BGB – subjektiver, objektiver und montagebezogener Mangelbegriff. In Bayern erstmals in Klausuren ab Frühjahr 2023 abgefragt. `[Modellwissen – prüfen]`
-
-## Risiken / typische Fehler
-
-- **Prognose als Gewissheit behandeln:** `[UNSICHER – Prognose]` ist kein Disclaimer-Floskeln, sondern echter Vorbehalt. JPAs können spontan Schwerpunkte wechseln.
-- **Altklausuren von anderem JPA als gleichwertig behandeln:** Zwischen NRW-JPA Düsseldorf und Bayern bestehen erhebliche Unterschiede im Klausurstil (NRW: sehr langer Sachverhalt; Bayern: kompakter mit vielen Prüfungspunkten).
-- **Aktualitätslücken:** BGH-Entscheidungen der letzten 12 Monate sind im Modell möglicherweise nicht vollständig. Vor dem Examen: NJW und JuS der letzten zwei Hefte prüfen.
-- **Nur Priorität-A-Themen lernen:** Examsklausuren enthalten bewusst seltene Normen als Differenzierungspunkte. Priorität-C-Themen nicht weglassen.
-- **BMJV-Statistik fehlinterpretieren:** Bestehensquoten sagen nichts über Themenverteilung aus. Nur Klausuranalyse ergibt Themengewichtung.
-
-## 3. `examensvorbereitung-fragen`
-
-**Fokus:** Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Prüfraster Fachgebiet Zivilrecht Strafrecht öffentliches Recht, Zeitdruck-Simulation oder Verstaendnis-Training, Bundesland-spezifisch. Output Uebungsfragen mit Musterlösung und Hinweis auf Schwachstellen. Abgrenzung zu Examensprognose für Themengewichtung und zu Gutachten-Uebung für Klausur-Training.
-
-# Examensvorbereitungs-Fragen
-
-
-## Triage zu Beginn
-1. Welches Examen und welches Bundesland (1. StEx, 2. StEx; Bayern, NRW, Hamburg)?
-2. Welches Fachgebiet soll geuebt werden (Zivilrecht, Strafrecht, oeffentliches Recht, Verfahrensrecht)?
-3. Zeitdruck-Simulation oder inhaltliches Verstaendnis-Training?
-4. Welche Schwachpunkte wurden in frueheren Uebungsklausuren identifiziert?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmassstab (exemplarisch fuer alle Bundeslaender)
-- § 195 BGB — Regelverjaehrung: Dauerklassiker in Zivilrecht-Klausuren
-- § 1 Abs. 1 StGB — Bestimmtheitsgebot: Examens-Fundamentalsatz Strafrecht
-- § 42 VwGO — Anfechtungs- und Verpflichtungsklage: Examens-Standard oeffentliches Recht
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill generiert Übungsfragen und -klausuren für das **Erste Juristische Staatsexamen (Erste Juristische Prüfung / FJP)** sowie das **Zweite Juristische Staatsexamen (Assessorexamen)**. Er berücksichtigt:
-
-- das jeweilige **Bundesland** und seine **JAG** (Juristenausbildungsgesetz)
-- die **Prüfungsgebiete** des zuständigen **Justizprüfungsamts (JPA)**
-- aktuelle **Schwerpunkte** aus JPA-Statistiken und bekannten Examensklausuren
-- das individuelle **Schwächeprofil** aus dem Lernprofil
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Eingaben
-
-1. Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Bundesland, JAG, Schwächefächer, Lernstil
-2. Optional: `lernplan.yaml` – zeigt, welches Fach heute auf dem Plan steht und welche Teilgebiete noch schwach sind
-3. Rechtsgebiet (Argument oder interaktiv erfragen)
-4. Prüfungstyp: `--schriftlich` (Klausur, 5h) oder `--mündlich` (Aktenvortrag, AG-Fragen)
-
-## Ablauf
-
-### 1. Prüfungstyp-Gate (nicht überspringen)
-
-Falls Bundesland/JAG oder Prüfungstyp nicht im Profil vorhanden sind, **vor der Fragengenerierung fragen**:
-
-- "In welchem Bundesland legst du das Examen ab?"
-- "1. oder 2. Staatsexamen?"
-- "Schriftlich oder mündlich?"
-
-Falsche Annahmen beim JAG-Rahmen sind der Fehler, der sich nicht aufholen lässt.
-
-### 2. JAG-Prüfungsgebiet-Gate
-
-Falls das Rechtsgebiet außerhalb des JAG-Prüfungsstoffs liegt oder es eine bundeslandspezifische Besonderheit gibt:
-
-> "In [Bundesland] enthält die JAG folgende schriftliche Prüfungsfächer: [Liste]. [Rechtsgebiet] ist [enthalten / nicht enthalten / Pflicht-/Wahlstation]. Soll ich trotzdem fortfahren?"
-
-### 3. Fragengenerierung
-
-- Fragen gewichtet nach **Schwächeprofil** aus dem Lernprofil
-- **Examenstypische Sachverhalte** (Falllösung, nicht Theoriefragen): kurze Sachverhalte mit mehreren Anspruchsgrundlagen, Streitständen und bewusstem Ablenkungspotenzial
-- **Schwierigkeitsmarkierung:** `[Grundniveau]` / `[Examensniveau]` / `[Schwerpunkt]`
-- **JAG-Markierung:** kennzeichnet, ob eine Regel bundeseinheitlich oder länderspezifisch ist
-
-### 4. Auswertung
-
-Nach jeder Antwort:
-1. Struktur prüfen: War der Obersatz klar hypothetisch formuliert? Wurde die Definition zitiert?
-2. Subsumtion prüfen: Wurden alle Tatbestandsmerkmale geprüft?
-3. Streitstände: Wurden h.M. und Mindermeinung mit Belegen genannt?
-4. Zitierweise: Entsprechen die Literaturzitate dem Standard aus `../references/zitierweise.md`?
-5. Ergebnis festhalten, Muster in Fehlern protokollieren
-
-`--session <n>` läuft N Fragen durch und schreibt anschließend eine Zusammenfassung der Fehlermuster.
-
-## Quellen und Zitierweise
-
-→ `../references/zitierweise.md` (maßgeblich für alle Zitate)
-
-**Quellenregel je Rechtsgebiet:**
-
-| Rechtsgebiet | Standardkommentar |
-|---|---|
-| BGB AT / Schuldrecht | Normtext, bereitgestellte Materialien, verifizierte Rechtsprechung |
-| Sachenrecht | Normtext, bereitgestellte Materialien, verifizierte Rechtsprechung |
-| BGB Allgemein | Normtext, bereitgestellte Materialien, verifizierte Rechtsprechung |
-| Handelsrecht | Normtext, Register-/Gesetzesquellen, bereitgestellte Materialien |
-| Gesellschaftsrecht | Normtext, Register-/Gesetzesquellen, bereitgestellte Materialien |
-| ZPO | Normtext, amtliche Hinweise, verifizierte Rechtsprechung |
-| StGB | Normtext, verifizierte Rechtsprechung, bereitgestellte Materialien |
-| Verwaltungsrecht | Normtext, amtliche Materialien, verifizierte Rechtsprechung |
-
-**Ausbildungszeitschriften:**
-Nur verwenden, wenn der Nutzer den konkreten Aufsatz bereitstellt oder ein lizenzierter Live-Zugriff die Fundstelle verifiziert.
-
-## Ausgabeformat
-
-### Sachverhalts-Aufgabe (Klausurstil)
-
-```
-**Sachverhalt:**
-[3–8 Sätze, examenstypische Verdichtung mit Ablenkungsmanövern]
-
-**Aufgabe:**
-Prüfe alle in Betracht kommenden Ansprüche des A gegen B.
-[Bundesland: Bayern / JAG-Prüfungsgebiet: Schuldrecht / Niveau: Examensniveau]
-```
-
-### Musterlösung (nach Nutzerantwort)
-
-```
-**Lösungsskizze – Gutachtenstil**
-
-A. Ansprüche des A gegen B
-
-I. Anspruch aus § 433 Abs. 2 BGB
- Obersatz: A könnte gegen B einen Anspruch auf Kaufpreiszahlung
- gemäß § 433 Abs. 2 BGB haben.
- Voraussetzungen: wirksamer Kaufvertrag, Fälligkeit, kein Einrederecht.
- Definition Kaufvertrag: …
- Subsumtion: …
- Ergebnis: Der Anspruch besteht / besteht nicht.
-
-II. Anspruch aus § 280 Abs. 1 BGB
- Obersatz: …
-
-**Literaturnachweise:**
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Deine Lücken diese Sitzung:** [Protokoll]
-```
-
-## Beispiel
-
-**Sachverhalt:** Verkäufer V verkauft Käufer K sein gebrauchtes Fahrrad für 300 €. K überweist den Betrag, V liefert das Rad jedoch nicht. K setzt V eine Frist von 10 Tagen. V lässt die Frist verstreichen.
-
-**Aufgabe:** Prüfe alle Ansprüche des K gegen V.
-
-**Musterlösung (Auszug):**
-
-*I. Anspruch des K gegen V auf Übereignung und Übergabe des Fahrrads gemäß §§ 433 Abs. 1 S. 1, 929 S. 1 BGB*
-
-Obersatz: K könnte gegen V einen Anspruch auf Übereignung und Übergabe des Fahrrads gemäß § 433 Abs. 1 S. 1 BGB haben.
-
-Definition: Ein Kaufvertrag setzt zwei übereinstimmende Willenserklärungen (Angebot und Annahme) voraus, die auf Übertragung des Eigentums gegen Entgeltzahlung gerichtet sind.
-
-Subsumtion: V und K haben sich über Fahrrad und Preis einig, § 433 Abs. 1 S. 1 BGB. Ein Kaufvertrag liegt vor.
-
-Ergebnis: Der Anspruch aus § 433 Abs. 1 S. 1 BGB besteht. Da V nicht geliefert hat, ist der Anspruch nicht erfüllt.
-
-*II. Anspruch auf Schadensersatz statt der Leistung gemäß §§ 280 Abs. 1, 3, 281 Abs. 1 BGB*
-
-Obersatz: K könnte nach fruchtlosem Fristablauf einen Anspruch auf Schadensersatz statt der Leistung gemäß §§ 280 Abs. 1, 3, 281 Abs. 1 BGB haben.
-
-[…] Frist wurde gesetzt und ist abgelaufen, § 281 Abs. 1 S. 1 BGB. Vertretenmüssen wird gemäß § 280 Abs. 1 S. 2 BGB vermutet; V hat sich nicht exkulpiert.
-
-Ergebnis: Der Anspruch auf Schadensersatz statt der Leistung besteht.
-
-*Quellenhinweis:*
-Literaturfundstellen nur ergänzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff die Fundstelle verifiziert.
-
-## Risiken / typische Fehler
-
-- **Falscher JAG-Rahmen:** BGB-Inhalte die in einem Bundesland nicht prüfungsrelevant sind, kosten Lernzeit. Bundesland immer zuerst prüfen.
-- **Urteilsstil statt Gutachtenstil:** Der Obersatz muss hypothetisch sein. "A hat einen Anspruch" ist Urteilsstil – falsch für Klausuren.
-- **h.M. ohne Beleg:** "nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen.
-- **Scheinprobleme ignorieren:** Examsklausuren enthalten bewusste Ablenkungen. Offensichtlich vorliegende Tatbestandsmerkmale kurz abarbeiten, nicht übergehen.
-- **Konkurrenzprobleme:** Reihenfolge der Anspruchsgrundlagen (vertraglich vor außervertraglich) beachten – vgl. `../references/methodik-buergerliches-recht.md`.
-- **Fehlende Fundstellen im Gutachten:** Im 1. StEx ist das Fehlen von Kommentarzitaten ein Bewertungsminus.

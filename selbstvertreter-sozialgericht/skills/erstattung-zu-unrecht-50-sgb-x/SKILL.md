@@ -25,20 +25,20 @@ description: "Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skil
 
 1. **Aufhebungsbescheid angreifen**: Wenn die Aufhebung selbst rechtswidrig ist, faellt auch die Erstattung weg.
 2. **Vertrauensschutz**: § 45 SGB X — Vertrauensschutz schliesst Aufhebung aus, dann auch keine Erstattung.
-3. **Verjaehrung**: § 50 Abs. 4 SGB X — 4 Jahre nach Ablauf des Kalenderjahrs der Bekanntgabe.
-4. **Aufrechnung**: § 51 SGB I — Behoerde rechnet die Forderung mit kuenftigen Leistungen auf. Pruefen ob Pfaendungsfreigrenze gewahrt.
+3. **Verjährung**: § 50 Abs. 4 SGB X — 4 Jahre nach Ablauf des Kalenderjahrs der Bekanntgabe.
+4. **Aufrechnung**: § 51 SGB I — Behörde rechnet die Forderung mit kuenftigen Leistungen auf. Pruefen ob Pfaendungsfreigrenze gewahrt.
 
 ## Stundung und Erlass
 
 - Stundung: § 76 Abs. 2 Nr. 1 SGB IV.
 - Erlass: § 76 Abs. 2 Nr. 3 SGB IV (Haerteklausel).
-- Antrag schriftlich bei der Behoerde — Beleg der wirtschaftlichen Lage.
+- Antrag schriftlich bei der Behörde — Beleg der wirtschaftlichen Lage.
 
 ## Pruefraster
 
 1. Aufhebungsbescheid bestandskraeftig?
 2. Hoehe nachvollziehbar berechnet?
 3. Vertrauensschutz vorgebracht?
-4. Verjaehrung pruefen?
+4. Verjährung pruefen?
 5. Aufrechnung — Pfaendungsfreigrenze?
 6. Erlass moeglich?

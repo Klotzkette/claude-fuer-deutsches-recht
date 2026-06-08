@@ -7,10 +7,10 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 
 ## Arbeitsbereich
 
-**TIA Zusaetzliche US Transfer** ordnet den Fall über die tragenden Prüffelder: Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**TIA Zusaetzliche US Transfer** ordnet den Fall über die tragenden Prüfungslinien: Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` | Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung. |
 | `us-transfer-tia-dokumentation` | US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender. |
@@ -18,18 +18,18 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung`
 
 **Fokus:** Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung.
 
-# Zusaetzliche Schutzmassnahmen fuer das TIA (Schritt 4 EDPB-Roadmap)
+# Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
 
 ## Zweck
 
@@ -58,7 +58,7 @@ Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl un
 |---|---|---|
 | 1 | Datenspeicherung mit Verschluesselung; Schluessel ausschliesslich beim Exporteur in der EU | Ja (effektiv) |
 | 2 | Uebermittlung pseudonymisierter Daten ohne Moeglichkeit der Re-Identifizierung durch Importeur | Ja (effektiv) |
-| 3 | Verschluesselter Transit fuer Empfaenger im Drittland mit gesetzlich geschuetztem Berufsgeheimnis | Bedingt |
+| 3 | Verschluesselter Transit für Empfaenger im Drittland mit gesetzlich geschuetztem Berufsgeheimnis | Bedingt |
 | 4 | Geteilte Verarbeitung (Split Processing) mehrerer unabhaengiger Importeure | Bedingt |
 | 5 | Importeur und Exporteur teilen Zugriff im EU-Gebiet; Drittlandimporteur erhaelt nur statistische Aggregate | Ja |
 | 6 | Daten zur Klartextverarbeitung an Importeur im Drittland mit Zugriffsbefugnissen ohne adaequaten Schutz | Nein – keine wirksamen Massnahmen |
@@ -77,17 +77,17 @@ Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl un
 
 ### Vertragliche Massnahmen
 
-- Berichtspflicht zu Behoerdenanfragen (Art und Anzahl, soweit zulaessig); **Warrant Canary**.
+- Berichtspflicht zu Behördenanfragen (Art und Anzahl, soweit zulaessig); **Warrant Canary**.
 - Anfechtungspflicht des Importeurs ("challenge any legally available avenue").
-- Erweiterte Audit-Rechte fuer Exporteur und Aufsichtsbehoerde.
+- Erweiterte Audit-Rechte für Exporteur und Aufsichtsbehoerde.
 - Sofortige Aussetzungspflicht bei Anweisung, die nicht abgewehrt werden kann.
 - Klausel zur Mitteilung bei Aenderung der Rechtslage.
 - Haftungs- und Schadensersatzregelungen verstaerken.
 
 ### Organisatorische Massnahmen
 
-- Mitarbeiterschulung mit Schwerpunkt Behoerdenanfragen-Reaktion.
-- Standardisierte interne Pruefprozesse fuer eingehende Government Requests.
+- Mitarbeiterschulung mit Schwerpunkt Behördenanfragen-Reaktion.
+- Standardisierte interne Pruefprozesse für eingehende Government Requests.
 - Veroeffentlichte Privacy Policy / Transparenzberichte des Importeurs.
 - Datenminimierung an der Quelle.
 - Klare Rollendefinition: wer entscheidet Aussetzung?
@@ -100,9 +100,9 @@ Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl un
 
 ## Mustertext / Template
 
-Vertragsbaustein – Behoerdenanfragen:
+Vertragsbaustein – Behördenanfragen:
 
-> Der Datenimporteur verpflichtet sich, jede Anfrage einer staatlichen Stelle oder einer Sicherheitsbehoerde, die auf Herausgabe der uebermittelten personenbezogenen Daten oder auf direkten Zugriff hierauf gerichtet ist, unverzueglich dem Datenexporteur mitzuteilen, soweit dies rechtlich zulaessig ist. Ist die Mitteilung gesetzlich untersagt, verpflichtet sich der Datenimporteur, sich auf rechtmaessigem Wege fuer eine Aufhebung oder Lockerung des Verbots einzusetzen und mindestens halbjaehrlich aggregierte Statistiken zu solchen Anfragen zu veroeffentlichen. Der Datenimporteur stellt sicher, dass jede Anfrage auf ihre Rechtmaessigkeit, Notwendigkeit und Verhaeltnismaessigkeit geprueft wird und dass alle rechtlichen Mittel zur Begrenzung der Datenherausgabe ausgeschoepft werden.
+> Der Datenimporteur verpflichtet sich, jede Anfrage einer staatlichen Stelle oder einer Sicherheitsbehoerde, die auf Herausgabe der uebermittelten personenbezogenen Daten oder auf direkten Zugriff hierauf gerichtet ist, unverzueglich dem Datenexporteur mitzuteilen, soweit dies rechtlich zulaessig ist. Ist die Mitteilung gesetzlich untersagt, verpflichtet sich der Datenimporteur, sich auf rechtmäßigem Wege für eine Aufhebung oder Lockerung des Verbots einzusetzen und mindestens halbjaehrlich aggregierte Statistiken zu solchen Anfragen zu veröffentlichen. Der Datenimporteur stellt sicher, dass jede Anfrage auf ihre Rechtmaessigkeit, Notwendigkeit und Verhaeltnismaessigkeit geprueft wird und dass alle rechtlichen Mittel zur Begrenzung der Datenherausgabe ausgeschoepft werden.
 
 Technischer Baustein:
 
@@ -120,10 +120,10 @@ Technischer Baustein:
 
 ## Querverweise
 
-- `tia-edpb-roadmap-6-schritte-deutsch` fuer Roadmap.
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer US-Use Case.
-- `avv-tom-art-32-dsgvo-anlage` fuer TOMs.
-- `tia-template-deutsch-vollvorlage` fuer Vollvorlage.
+- `tia-edpb-roadmap-6-schritte-deutsch` für Roadmap.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Use Case.
+- `avv-tom-art-32-dsgvo-anlage` für TOMs.
+- `tia-template-deutsch-vollvorlage` für Vollvorlage.
 
 ## Quellen Stand 06/2026
 
@@ -133,7 +133,6 @@ Technischer Baustein:
 - DSGVO, Art. 25, 32.
 - BSI Technische Richtlinie TR-02102 (kryptografische Verfahren), aktueller Stand auf bsi.bund.de pruefen.
 - ENISA Guidelines for SMEs on the security of personal data processing (Dezember 2016) und Folgepapiere.
-
 
 ## Qualitäts-Hardening
 

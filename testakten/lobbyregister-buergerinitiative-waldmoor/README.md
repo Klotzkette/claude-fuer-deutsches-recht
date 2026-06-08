@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 97 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 98 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

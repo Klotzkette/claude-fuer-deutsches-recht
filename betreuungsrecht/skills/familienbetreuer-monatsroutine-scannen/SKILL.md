@@ -1,46 +1,43 @@
 ---
 name: familienbetreuer-monatsroutine-scannen
-description: "Familienbetreuer Monatsroutine Scannen im Plugin Betreuungsrecht: prüft konkret Monatlicher Betreuungsrhythmus, Digitale Betreuungsakte für Angehörige, Wohnungskündigung, Haushaltsauflösung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Familienbetreuer Monatsroutine Scannen
+# Familienbetreuer: Monatsroutine und Kalender
 
 ## Arbeitsbereich
 
-**Familienbetreuer Monatsroutine Scannen** ordnet den Fall über die tragenden Prüffelder: Monatlicher Betreuungsrhythmus, Digitale Betreuungsakte für Angehörige, Wohnungskündigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `familienbetreuer-monatsroutine-kalender` | Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. |
-| `familienbetreuer-scannen-ordner-datenschutz` | Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe. |
-| `familienbetreuer-wohnungsaufloesung-genehmigung` | Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall. |
+Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Betreuungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `familienbetreuer-monatsroutine-kalender`
-
-**Fokus:** Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht.
-
-# Familienbetreuer: Monatsroutine und Kalender
 
 ## Einsatz
 
 Für Überforderungsschutz: kleine regelmäßige Schritte statt Chaos.
 
-## Norm- und Quellenanker
+## Normenanker
 
-- BGB §§ 1814 ff. für Betreuung, Aufgabenkreise, Wunschbeachtung und unterstützte Entscheidungsfindung.
-- BGB §§ 1821 ff. für Pflichten des Betreuers, Vermögenssorge, Genehmigungen und Berichtspflichten je nach Aufgabenkreis.
-- FamFG für Kommunikation mit Betreuungsgericht, Anhörung, Genehmigung und Beschwerde.
-- BtOG: Betreuungsverein, Betreuungsbehörde und Unterstützung ehrenamtlicher Betreuer aktiv nutzen.
+Arbeitsfokus: **Familienbetreuer: Monatsroutine und Kalender**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 
@@ -62,74 +59,6 @@ Monatscheckliste, Kalenderstruktur, Besuchsnotiz, Gerichtskommunikation, Genehmi
 - keine Besuchsnotizen
 - Rechnungen bezahlt, aber Wunsch/Einwilligung der betreuten Person nicht dokumentiert
 - Familienkonflikt verdrängt die Interessen der betreuten Person
-
-## Arbeitsstil
-
-Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-
-## 2. `familienbetreuer-scannen-ordner-datenschutz`
-
-**Fokus:** Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe.
-
-# Familienbetreuer: Scannen, Ordner, Datenschutz
-
-## Einsatz
-
-Für Familienbetreuer, die Dokumente in ein KI-/Ordnersystem bringen wollen, ohne alles preiszugeben.
-
-## Norm- und Quellenanker
-
-DSGVO; BGB Betreuungsführung; FamFG; BtOG Beratungsunterstützung.
-
-## Arbeitsfragen
-
-1. Welche Dokumente müssen digitalisiert werden?
-2. Welche Daten sind besonders sensibel?
-3. Wer darf Zugriff haben?
-
-## Output
-
-Ordnerstruktur, Dateinamenstandard, Datenschutzcheck und Übergabeindex.
-
-## Red Flags
-
-- alles in eine Cloud ohne Rechte
-- Gesundheitsdaten breit geteilt
-- Originale verloren
-
-## Arbeitsstil
-
-Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-
-## 3. `familienbetreuer-wohnungsaufloesung-genehmigung`
-
-**Fokus:** Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall.
-
-# Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung
-
-## Einsatz
-
-Für schwere Angehörigenentscheidungen rund um Wohnung und Heim.
-
-## Norm- und Quellenanker
-
-BGB §§ 1833 ff. Genehmigungen live prüfen; Mietrecht; FamFG; SGB XII.
-
-## Arbeitsfragen
-
-1. Will/kann die betreute Person zurück?
-2. Welche Genehmigung braucht Kündigung/Aufgabe?
-3. Welche Vermögens- und Erinnerungsgegenstände?
-
-## Output
-
-Genehmigungsantrag, Umzugs-/Auflösungsplan und Schutzliste persönlicher Dinge.
-
-## Red Flags
-
-- Wohnung vorschnell gekündigt
-- Gerichtsgenehmigung fehlt
-- Familienstreit über Gegenstände
 
 ## Arbeitsstil
 

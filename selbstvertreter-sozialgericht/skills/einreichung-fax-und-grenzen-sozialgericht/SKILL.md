@@ -13,7 +13,7 @@ description: "Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Bewe
 
 ## Worum geht es?
 
-Fax ist immer noch ein anerkannter Weg, eine Klage einzureichen. Vorteil: Sie haben einen Beweis fuer den Eingang am selben Tag. Nachteil: Fax wird zunehmend abgeschafft. Diese Skill zeigt, wann Fax sinnvoll ist und worauf Sie achten muessen.
+Fax ist immer noch ein anerkannter Weg, eine Klage einzureichen. Vorteil: Sie haben einen Beweis für den Eingang am selben Tag. Nachteil: Fax wird zunehmend abgeschafft. Diese Skill zeigt, wann Fax sinnvoll ist und worauf Sie achten muessen.
 
 ## In einfacher Sprache
 
@@ -22,7 +22,7 @@ Sie koennen die Klage auch per Fax schicken. Das geht schnell. Sie haben einen B
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen am letzten Tag der Frist noch sicher einreichen.
-- Sie haben keinen Computer fuer MJP.
+- Sie haben keinen Computer für MJP.
 - Sie wollen eine Sofort-Bestaetigung.
 
 ## Fachbegriffe (kurz erklaert)
@@ -36,7 +36,7 @@ Sie koennen die Klage auch per Fax schicken. Das geht schnell. Sie haben einen B
 - **§ 90 SGG i.V.m. § 130 ZPO analog** — Fax ist Schriftform (BGH gefestigt).
 - **§ 65a SGG** — Elektronische Alternativen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Aktuelle Faxnummer pruefen
 
@@ -100,7 +100,6 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in der Justiz wird mittelfristig abgeschafft. Pruefen Sie bei Ihrem SG aktuell, ob noch verfuegbar.
-
 
 ## Qualitäts-Hardening
 

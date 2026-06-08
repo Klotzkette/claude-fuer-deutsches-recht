@@ -7,10 +7,10 @@ description: "FA Urheber Medien Start Chronologie Fristen im Plugin Fachanwalt U
 
 ## Arbeitsbereich
 
-**FA Urheber Medien Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Urheber, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**FA Urheber Medien Start Chronologie Fristen** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Urheber, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Urheber Medienrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-urheber-medienrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
@@ -18,12 +18,12 @@ description: "FA Urheber Medien Start Chronologie Fristen im Plugin Fachanwalt U
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheber- und Medienrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
@@ -37,8 +37,6 @@ description: "FA Urheber Medien Start Chronologie Fristen im Plugin Fachanwalt U
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
 
 # Fachanwalt Urheber Medienrecht — Allgemein
 
@@ -165,7 +163,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
-
 
 ## Qualitäts-Hardening
 

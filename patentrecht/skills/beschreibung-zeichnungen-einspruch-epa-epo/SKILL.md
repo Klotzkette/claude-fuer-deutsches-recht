@@ -1,35 +1,21 @@
 ---
 name: beschreibung-zeichnungen-einspruch-epa-epo
-description: "Beschreibung Zeichnungen Einspruch EPA EPO im Patentrecht: prüft konkret Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele ein, Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Beschreibung Zeichnungen Einspruch EPA EPO
+# Beschreibung und Zeichnungen prüfen
 
 ## Arbeitsbereich
 
-**Beschreibung Zeichnungen Einspruch EPA EPO** ordnet den Fall über die tragenden Prüffelder: Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele ein. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `beschreibung-und-zeichnungen-pruefen` | Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken. |
-| `einspruch-epa-und-nichtigkeit-bpatg` | Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor: Fristen, Zuständigkeit, Angriffsmittel, Stand der Technik, unzulässige Erweiterung, Ausführbarkeit, Priorität, Hilfsanträge und Prozessstrategie. |
-| `epo-epue-einspruch-beschwerde-beschraenkung` | Vertieft EPA/EPO-Verfahren: Einspruch, Beschwerde, zentrale Beschränkung, Hilfsanträge, Verfahrenssprache, mündliche Verhandlung und Übergang zu UPC/nationaler Durchsetzung. |
+Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Patentrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `beschreibung-und-zeichnungen-pruefen`
-
-**Fokus:** Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken.
-
-# Beschreibung und Zeichnungen prüfen
 
 ## Prüfpunkte
 
@@ -67,7 +53,6 @@ description: "Beschreibung Zeichnungen Einspruch EPA EPO im Patentrecht: prüft 
 - **Zeichnungen:** Bezugszeichen konsistent mit Beschreibung; nur als Erläuterung, nicht zur Anspruchsbegrenzung.
 - Tipp: Bei mehreren Ausführungsbeispielen Unteransprüche entsprechend gestaffelt anlegen — gibt im Einspruch/Nichtigkeitsverfahren Rückzugsposition.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -76,108 +61,24 @@ description: "Beschreibung Zeichnungen Einspruch EPA EPO im Patentrecht: prüft 
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `einspruch-epa-und-nichtigkeit-bpatg`
+## Normen und Rechtsprechung
 
-**Fokus:** Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor: Fristen, Zuständigkeit, Angriffsmittel, Stand der Technik, unzulässige Erweiterung, Ausführbarkeit, Priorität, Hilfsanträge und Prozessstrategie.
+### Kuratierte Normen-Bibliothek
 
-# Einspruch und Nichtigkeit
+- § 12 PatG
+- § 3 PatG
+- § 4 PatG
+- § 14 PatG
+- § 139 PatG
+- § 34 PatG
+- § 6 ArbEG
+- § 9 ArbEG
+- § 37 PatG
+- § 8 PatG
+- § 10 PatG
+- § 44 PatG
 
-## Weichenstellung
+### Leitentscheidungen
 
-- **EPA-Einspruch:** nach Erteilung innerhalb der EPÜ-Frist; zentraler Angriff gegen europäisches Patent.
-- **Nichtigkeitsklage:** deutscher Angriff gegen nationalen Teil, wenn zulässig und strategisch sinnvoll.
-- **Parallelität:** Verletzungsverfahren, UPC, BPatG, EPA und Vergleichsverhandlungen koordinieren.
+- BGH X ZR 168/00
 
-## Angriffsmittel
-
-1. fehlende Neuheit.
-2. fehlende erfinderische Tätigkeit.
-3. nicht patentfähiger Gegenstand.
-4. mangelnde Ausführbarkeit.
-5. unzulässige Erweiterung.
-6. unzulässige Erweiterung des Schutzbereichs nach Erteilung.
-7. Prioritätsproblem.
-
-## Beweispaket
-
-| Angriff | Dokument/Beweis | Relevanz | Beweisqualität | Lücke |
-| --- | --- | --- | --- | --- |
-
-## Output
-
-- Fristen- und Zuständigkeitsplan.
-- Angriffsmittelmatrix.
-- Entwurf Gliederung Einspruch/Nichtigkeitsklage.
-- Hilfsantrags- und Beschränkungsprognose.
-- Vergleichs- und Verletzungsprozessschnittstelle.
-
-## Qualitätsregel
-
-Offenkundige Vorbenutzung nur dann stark bewerten, wenn Zeit, Ort, Öffentlichkeit, konkrete technische Merkmale und Beweise sauber belegbar sind.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `epo-epue-einspruch-beschwerde-beschraenkung`
-
-**Fokus:** Vertieft EPA/EPO-Verfahren: Einspruch, Beschwerde, zentrale Beschränkung, Hilfsanträge, Verfahrenssprache, mündliche Verhandlung und Übergang zu UPC/nationaler Durchsetzung.
-
-# EPÜ: Einspruch, Beschwerde und Beschränkung
-
-## Aufgabe
-
-EPO-Post-Grant-Strategie zwischen Einspruch, Beschwerde, zentraler Beschränkung und nationaler/UPC-Durchsetzung.
-
-## Einstieg
-
-Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
-
-1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
-2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
-3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
-4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
-
-## Arbeitsworkflow
-
-1. **Frist und Beteiligtenstellung prüfen.**
-2. **Grounds of opposition strukturiert erfassen.**
-3. **Hilfsanträge nach Verteidigungsbreite ordnen.**
-4. **Mündliche Verhandlung und technische Argumentationslinie vorbereiten.**
-5. **Auswirkungen auf UPC/nationale Verfahren abgleichen.**
-
-
-## Prüfmatrix
-
-| Ebene | Prüffrage | Ergebnis |
-| --- | --- | --- |
-| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
-| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
-| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
-| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
-| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
-
-## Output
-
-Erzeuge je nach Auftrag:
-
-- Opposition/Appeal Roadmap.
-- Auxiliary Request Tree.
-- Oral Proceedings Script.
-- Patent Family Impact Note.
-
-
-## Anschluss-Skills
-
-- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
-- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
-- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
-
-## Quellenregel
-
-Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. Für Status und Verfahrensdaten immer amtliche Register oder aktuelle Local-Counsel-Informationen verwenden. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; sonst als zu verifizieren markieren.

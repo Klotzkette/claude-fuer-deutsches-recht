@@ -1,6 +1,6 @@
 ---
 name: agb-risikoklassifizierung-ampel
-description: "Einstiegs- und Prüffeld für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüfungslinie für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # AGB Risikoklassifizierung Ampel
@@ -33,13 +33,13 @@ description: "Einstiegs- und Prüffeld für AGB Risikoklassifizierung Ampel: sor
 ## Aktuelle BGH-Linie zur Risikobewertung
 
 ### Risikofaktoren mit BGH-Bezug
-- **Rot**: § 309 BGB-Verstoss in B2C eindeutig (z. B. Haftungsausschluss Leben/Koerper/Gesundheit, Aufrechnungsverbot fuer unbestrittene Forderungen).
-- **Gelb**: § 307 BGB-Verstoss wahrscheinlich (z. B. unklare Anpassungsklauseln, Schriftformklausel fuer Anzeigen, fehlendes Loesungsrecht bei Preisanpassung).
+- **Rot**: § 309 BGB-Verstoss in B2C eindeutig (z. B. Haftungsausschluss Leben/Koerper/Gesundheit, Aufrechnungsverbot für unbestrittene Forderungen).
+- **Gelb**: § 307 BGB-Verstoss wahrscheinlich (z. B. unklare Anpassungsklauseln, Schriftformklausel für Anzeigen, fehlendes Loesungsrecht bei Preisanpassung).
 - **Gruen**: Klausel an Gesetzeswortlaut orientiert oder BGH-anerkannt.
 
 ### Klassische Rot-Klauseln (BGH-aktuell)
 - Schriftformklausel im Verbraucherkontext: BGH VIII ZR 91/19.
-- Aufrechnungs-/Zurueckbehaltungsverbot fuer unbestrittene Forderungen: BGH VIII ZR 67/17.
+- Aufrechnungs-/Zurueckbehaltungsverbot für unbestrittene Forderungen: BGH VIII ZR 67/17.
 - Einseitige Preisanpassung ohne Loesungsrecht: BGH VIII ZR 178/08, BGH VIII ZR 244/10.
 - Vorausverzichtsklauseln auf Schadensersatz: BGH VIII ZR 23/19.
 

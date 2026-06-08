@@ -1,34 +1,21 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Zugang Empfangsbeduerftiger Formgerechter im Plugin Schriftform Und Textform Bgb: prüft konkret Mandant fragt, Prüffeld für zugang formgerechter erklaerung bgh viii zr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb im Schriftform Und Textform Bgb: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Zugang Empfangsbeduerftiger Formgerechter
+# Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
 
 ## Arbeitsbereich
 
-**Zugang Empfangsbeduerftiger Formgerechter** ordnet den Fall über die tragenden Prüffelder: Mandant fragt, Prüffeld für zugang formgerechter erklaerung bgh viii zr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` | Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. |
-| `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | Prüffeld für zugang formgerechter erklaerung bgh viii zr 159 23: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
-
-**Fokus:** Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb.
-
-# Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
 
 ## Rechtsgrundlagen
 
@@ -142,114 +129,3 @@ Option C — Gerichtliche Zustellung:
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.10.2022&Aktenzeichen=VII+ZR+895%2F21
 -->
-
-## 2. `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-
-**Fokus:** Prüffeld für zugang formgerechter erklaerung bgh viii zr 159 23: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Rechtsgrundlagen
-
-- BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung; Anforderungen an Zugang in der korrespondierenden Form; Stand der Norm vor Einfuehrung des § 130e ZPO am 17.07.2024. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.11.2024&Aktenzeichen=VIII+ZR+159/23
-- **§ 568 Abs. 1 BGB** — Schriftform der Wohnraummiete-Kündigung
-- **§ 126 Abs. 3 BGB** i.V.m. **§ 126a Abs. 1 BGB** — Ersatz der Schriftform durch qES
-- **§ 130 Abs. 1 S. 1 BGB** — Zugang empfangsbedürftiger Willenserklärungen
-- **§ 130e ZPO** — Zugangsfiktion bei gerichtlicher Weiterleitung qualifiziert signierter Dokumente (eingefuehrt 17.07.2024)
-- **§ 298 Abs. 3 ZPO** — Transfervermerk bei Ausdruck elektronischer Dokumente durch Gericht
-- **eIDAS-Verordnung** VO (EU) Nr. 910/2014 — Definition der qualifizierten elektronischen Signatur
-
-## BGH-Linie — Lehrsatz der Entscheidung
-
-### Sachverhalt (vereinfacht)
-
-Ein Vermieter erklärte die Kündigung des Wohnraummietverhältnisses durch ein elektronisch übermitteltes Dokument mit qualifizierter elektronischer Signatur. Im Rechtsstreit wurde das Dokument durch das Gericht ausgedruckt und mit einem Transfervermerk nach § 298 Abs. 3 ZPO in die Akte aufgenommen. Die Frage war, ob dieser Ausdruck den formgerechten Zugang der Kündigung beim Mieter bewirkte.
-
-### Entscheidung des BGH
-
-> **Leitsatz**: Die Kündigung eines Wohnraummietverhältnisses durch ein mit einer qualifizierten elektronischen Signatur versehenes Dokument wahrt die Schriftform des § 568 Abs. 1 BGB i.V.m. § 126a Abs. 1 BGB nur dann, wenn das elektronische Dokument dem Empfänger so zugegangen ist, dass er die Echtheit der qualifizierten elektronischen Signatur selbst prüfen kann.
-
-> **Zur Frage des Transfervermerks**: Der Ausdruck eines elektronischen Dokuments durch das Gericht mit einem Transfervermerk gemäß § 298 Abs. 3 ZPO stellt keinen formgerechten Zugang gegenüber dem Erklärungsempfänger dar. Der Transfervermerk dient allein der Dokumentation für die Gerichtsakte, nicht der Herstellung des Zugangs beim Empfänger.
-
-### Dogmatische Begründung
-
-Der BGH stützt die Entscheidung auf folgende Überlegungen:
-
-**Erstens** — **Formzweck**: Die qualifizierte elektronische Signatur soll Identität und Erklärungswillen des Unterzeichners für den Empfänger nachweisbar machen. Dieser Zweck wird nur erfüllt, wenn der Empfänger die Signatur tatsächlich prüfen kann — also das digitale Dokument mit der eingebetteten kryptographischen Signaturinformation erhält.
-
-**Zweitens** — **Gerichtlicher Ausdruck und § 298 ZPO**: Der Transfervermerk nach § 298 Abs. 3 ZPO dokumentiert, dass eine elektronische Datei existiert hat und wie sie im Zeitpunkt des Ausdrucks aussah. Er ersetzt aber nicht den direkten Zugang des digitalen Dokuments beim Erklärungsempfänger. Der Mieter hatte das qES-Dokument selbst nie erhalten.
-
-**Drittens** — **Form und Zugang als kumulative Voraussetzungen**: Schriftform/elektronische Form und Zugang sind zwei eigenständige Tatbestandsmerkmale. Die Form muss beim Zugang gewahrt sein — nicht erst nachträglich bei Gericht nachgewiesen werden.
-
-## Workflow
-
-### Praxisablauf für wirksame qES-Kündigung (Vermieter)
-
-```
-Schritt 1: Dokument erstellen und qES anbringen
- → Kündigungsschreiben als PDF/A erstellen
- → qES über qualifizierten Vertrauensdiensteanbieter (z. B. D-Trust) anbringen
- → Zertifikats-Gültigkeit prüfen
-
-Schritt 2: Dokument elektronisch übermitteln
- → PDF mit eingebetteter Signatur als E-Mail-Anhang an Mieter senden
- → NICHT ausdrucken und physisch zustellen (dann ist qES nicht mehr prüfbar)
- → Alternativ: über gesicherte Plattform zustellen (De-Mail, EGVP wenn zulässig)
-
-Schritt 3: Zugang sichern
- → Eingangsbestätigung des Mieters anfordern
- → Sendebericht der E-Mail aufbewahren
- → Alternativ: Bote übergibt USB-Stick mit der Datei gegen Quittung
-
-Schritt 4: Empfänger muss Signatur prüfen können
- → Sicherstellen, dass Mieter Software hat oder einfach erhalten kann
- → Adobe Acrobat Reader (kostenlos) oder validator.bund.de reichen
-```
-
-### Konsequenzen der Entscheidung für verschiedene Akteure
-
-| Akteur | Konsequenz |
-|--------|------------|
-| Vermieter (Kündigung) | Ohne sicheren digitalen Zugang der qES-Datei beim Mieter: Kündigung formunwirksam |
-| Mieter | Muss qES-Anhänge in E-Mails und WhatsApp auf Künd. prüfen (→ Mandantenwarnung) |
-| Gerichte | § 298 Abs. 3 ZPO-Ausdruck reicht für Zugang beim Erklärungsempfänger nicht |
-| Anwälte | Schriftsatz mit qES-Anlage muss über Postfach des Mandanten zugehen, nicht nur Gerichtspost |
-
-### Empfehlung für die Praxis bis zur gesetzlichen Klarstellung
-
-**Vermieter**: Kündigung per Papier mit Originalunterschrift und Bote oder Einschreiben bleibt die sicherste Option. qES-Versand per E-Mail ist rechtlich möglich, birgt aber das Zugangsrisiko (Spam-Filter, technische Probleme).
-
-**Mieter**: Nach dieser Entscheidung ist es künftig denkbar, dass wirksame Kündigungen per E-Mail mit qES-Anhang zugehen können. E-Mail-Postfach und WhatsApp-Nachrichten auf solche Anhänge prüfen und nicht vorschnell löschen (→ `mandantenwarnung-qes-per-email-whatsapp-und-zugang`).
-
-## Templates
-
-### Gesprächsvorlage Vermieter-Beratung qES-Kündigung
-
-```
-Thema: Kündigung Wohnraummiete per qualifizierter elektronischer Signatur
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Die Kündigung per qES ist grundsätzlich zulässig (§ 568 Abs. 1 BGB i.V.m.
-§ 126a Abs. 1 BGB). Aber: Das qES-Dokument muss dem Mieter so zugehen,
-dass er die Signatur prüfen kann. Ein späterer Gerichtsausdruck mit
-Transfervermerk (§ 298 Abs. 3 ZPO) reicht nicht.
-
-Unsere Empfehlung: Kündigung als PDF mit qES per E-Mail an Mieter;
-Eingangsbestätigung anfordern; Sendebericht sichern. Alternativ: Papier
-mit Originalunterschrift, übergeben durch Boten gegen Quittung.
-```
-
-## Fallstricke
-
-- **Nur ein Ausdruck ist kein Zugang**: Viele Anwälte und Richter übersehen, dass § 298 Abs. 3 ZPO-Ausdrucke nur für die Gerichtsakte bestimmt sind — nicht für den Beweis des Zugangs beim Erklärungsempfänger.
-- **E-Mail im Spam**: qES-Dokument per E-Mail gesendet, landet im Spam-Filter des Mieters → technisch eingegangen, aber Zugang str. Besser: Eingangsbestätigung anfordern.
-- **WhatsApp-Anhang mit qES**: Technisch möglich, aber unüblich und Zugang schwer nachzuweisen. Empfehlung: E-Mail mit Eingangsbestätigung bevorzugen.
-
-## Querverweise
-
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-- → `kuendigung-per-schriftsatz-zustellung-formfragen`

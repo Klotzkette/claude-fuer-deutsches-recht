@@ -3,11 +3,11 @@ name: einreichung-rechtsantragsstelle-selbst
 description: "Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen."
 ---
 
-# Die Rechtsantragsstelle als Hilfe fuer Buerger
+# Die Rechtsantragsstelle als Hilfe für Buerger
 
 ## Worum geht es?
 
-Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle fuer Rechtsantraege" genannt). Dort koennen Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere fuer Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
+Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle für Rechtsantraege" genannt). Dort koennen Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere für Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,14 +27,14 @@ Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantr
 - **§ 496 ZPO** — Klage zu Protokoll.
 - **§ 569 III Nr. 2 ZPO** — Beschwerde zu Protokoll.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was die Rechtsantragsstelle MACHT
 
 - Aufnahme einer Klage zu Protokoll (§ 496 ZPO) — kostenlos.
 - Hilfe bei Antraegen (Mahnbescheid, PKH-Antrag, Vollstreckungs-Antraege).
 - Pruefung formaler Anforderungen (Adressen, Streitwert, Antrag).
-- Informationen ueber Zustaendigkeit und Verfahren.
+- Informationen ueber Zuständigkeit und Verfahren.
 
 ### Schritt 2 — Was sie NICHT macht
 
@@ -103,7 +103,6 @@ Detailliert beim separaten Substitutionsagenten.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klaeren.
-
 
 ## Qualitäts-Hardening
 

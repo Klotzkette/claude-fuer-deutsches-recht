@@ -1,13 +1,13 @@
 ---
 name: avv-art-28-mindestinhalte-checkliste
-description: "Vollstaendige Pflichtinhalte-Checkliste fuer einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet fuer das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-fuer-Klausel-Pruefraster."
+description: "Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Pruefraster."
 ---
 
 # AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste
 
 ## Zweck / Purpose
 
-Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel fuer Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
+Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel für Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
 
 ## Wann dieses Modul hilft
 
@@ -44,7 +44,7 @@ Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 **lit. d – Sub-Auftragsverarbeiter (Art. 28 Abs. 2 und Abs. 4 DSGVO).** Einsatz nur mit allgemeiner oder besonderer schriftlicher Genehmigung; bei allgemeiner Genehmigung Informationspflicht ueber geplanten Wechsel. Auditfrage: Aktuelle Liste vorhanden? Widerspruchsfrist angemessen?
 
-**lit. e – Unterstuetzung Betroffenenrechte (Art. 12 bis 23 DSGVO).** Geeignete technische und organisatorische Massnahmen, um Erfuellung der Betroffenenrechte zu unterstuetzen (Auskunft, Loeschung, Berichtigung, Datenuebertragbarkeit). Auditfrage: SLA fuer Betroffenenanfragen?
+**lit. e – Unterstuetzung Betroffenenrechte (Art. 12 bis 23 DSGVO).** Geeignete technische und organisatorische Massnahmen, um Erfuellung der Betroffenenrechte zu unterstuetzen (Auskunft, Loeschung, Berichtigung, Datenuebertragbarkeit). Auditfrage: SLA für Betroffenenanfragen?
 
 **lit. f – Unterstuetzung Art. 32 bis 36 DSGVO.** Unterstuetzung bei TOM, Meldepflicht (Art. 33 DSGVO), Benachrichtigung Betroffener (Art. 34 DSGVO), DSFA (Art. 35 DSGVO), Konsultation Aufsichtsbehoerde (Art. 36 DSGVO). Auditfrage: Meldewege definiert?
 
@@ -54,7 +54,7 @@ Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 ## Mustertext / Template
 
-Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
+Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 
 ```
 § X Pflichten des Auftragsverarbeiters
@@ -72,7 +72,7 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 
 - Rahmenangaben fehlen oder sind zu allgemein ("Daten unserer Kunden").
 - lit. a wird auf "Vertragserfuellung" reduziert ohne Weisungsregister.
-- lit. b wird mit allgemeiner Geheimhaltungsklausel verwechselt; spezifische Vertraulichkeit fuer Verarbeitungsbefugte fehlt.
+- lit. b wird mit allgemeiner Geheimhaltungsklausel verwechselt; spezifische Vertraulichkeit für Verarbeitungsbefugte fehlt.
 - TOM-Anlage (lit. c) ist Marketingbroschuere statt konkrete Massnahmen.
 - lit. d laesst Sub-AV-Wechsel ohne Widerspruchsfrist zu.
 - lit. e ohne SLA und ohne Kostenregelung.
@@ -96,7 +96,6 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 - EDSA-Leitlinien 07/2020 – Final 07.07.2021; abrufbar ueber edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -104,3 +103,32 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 DSGVO (Grundsätze der Verarbeitung)
+- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
+- Art. 13, 14 DSGVO (Informationspflichten)
+- Art. 15 DSGVO (Auskunftsrecht)
+- Art. 28 DSGVO (Auftragsverarbeitung)
+- Art. 32 DSGVO (Sicherheit der Verarbeitung)
+- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
+- Art. 82 DSGVO (Schadensersatz)
+- Art. 83 DSGVO (Bußgelder)
+- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
+
+### Leitentscheidungen
+
+- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
+- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
+- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
+- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
+
+### Anwendung im Skill
+
+- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
+- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
+- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.

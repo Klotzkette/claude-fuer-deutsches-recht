@@ -37,7 +37,7 @@ Es gibt viele Fristen. Wir zeigen Ihnen alle wichtigen. Lernen Sie sie. Schreibe
 - **§§ 187 ff. BGB** — Fristberechnung allgemein.
 - **§ 37 Abs. 2 SGB X** — Bekanntgabefiktion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle der wichtigsten Fristen
 
@@ -131,7 +131,6 @@ Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 mit 4-Tage-Fiktion. Vor 2025: 3 Tage.
-
 
 ## Qualitäts-Hardening
 

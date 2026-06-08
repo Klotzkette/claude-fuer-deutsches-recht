@@ -1,33 +1,33 @@
 ---
 name: eu-agrarfoerderung-gap-direktzahlungen-hoefe
-description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft konkret Prüffeld für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft konkrete Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # EU Agrarfoerderung GAP Direktzahlungen Hoefe
 
 ## Arbeitsbereich
 
-**EU Agrarfoerderung GAP Direktzahlungen Hoefe** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**EU Agrarfoerderung GAP Direktzahlungen Hoefe** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Prüffeld für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` | Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch. |
 | `fachanwalt-agrarrecht-hoefe-uebergabe` | Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Agrarrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-agrarrecht-eu-agrarfoerderung`
 
-**Fokus:** Prüffeld für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # EU-Agrarförderung
 
@@ -77,7 +77,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schreibvorlage Widerspruch gegen Förderbescheid
 
 ```
-An die [Landwirtschaftskammer / Amt fuer Landwirtschaft]
+An die [Landwirtschaftskammer / Amt für Landwirtschaft]
 
 Widerspruch gegen den Foerderbescheid vom [Datum] Az. [...]
 
@@ -295,7 +295,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Prüfschema
 
 ```
-1. Bundesland-Zustaendigkeit (HoefeO oder Landesrecht)
+1. Bundesland-Zuständigkeit (HoefeO oder Landesrecht)
 2. Hofeigenschaft und Hoffolgevermerk § 6 HoefeO
 3. Hofeswert § 12 HoefeO (1 5-facher Einheitswert) berechnen
 4. Anerbenfolge § 4 HoefeO

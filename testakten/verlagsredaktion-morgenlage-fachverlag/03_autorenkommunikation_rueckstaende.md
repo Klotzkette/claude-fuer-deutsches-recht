@@ -1,13 +1,13 @@
 # 03 Autor:innenkommunikation Rückstände
 
-## Mailentwurf 1 (unfertig): Seidenpfennig
+## Mailentwurf 1: Seidenpfennig
 
 ```
 Von:      m.klee@mf-fachmedien.test
 An:       ada.seidenpfennig@uni-augsburg.test
 Cc:       redaktion-jura@mf-fachmedien.test
 Betreff:  MFJ 2026/7 -- KI-Vertragsprüfung -- Kürzung und Fußnoten
-Datum:    Mo 01.06.2026, 09:34 (Entwurf, NICHT versandt)
+Datum:    Mo 01.06.2026, 09:34
 ```
 
 Liebe Frau Professorin Seidenpfennig,
@@ -18,7 +18,7 @@ vielen Dank für die neue Fassung. Wir haben gesehen, dass der Beitrag jetzt deu
 2. Fußnoten -- Fußnoten 18, 24, 31, 44, 63 enthalten Querverweise ("siehe oben Fn. X") ohne aufgelöste Pinpoints und teils verkürzte Fundstellen, die wir nicht selbst auflösen können (z. B. Fn. 24: "Vgl. dazu Krenz, in: ZIP 2024" -- Seitenzahl fehlt).
 3. Praxisbox -- Vertrieb hätte gerne 5 Bulletpoints "Was Sie aus diesem Beitrag mitnehmen" für die erste Beitragsseite. Wir wissen, dass das nicht Ihrer üblichen Form entspricht; bitte teilen Sie uns mit, ob Sie das mittragen oder ob wir die Box selbst ergänzen sollen.
 
-[NOCH FORMULIEREN: Hinweis auf Online-Sperrfrist, Rückrufrecht bei verspäteter Lieferung]
+Außerdem müssen wir offen ansprechen, dass eine Online-first-Veröffentlichung nur mit einer freigegebenen Manuskriptfassung möglich ist. Sollte die Kürzung bis Mittwochabend nicht geklärt sein, werden wir den Beitrag entweder in zwei Teile aufteilen oder in das Folgeheft verschieben. Das vertragliche Rückrufrecht bleibt davon unberührt; aus Verlagssicht möchten wir aber vermeiden, dass eine verspätete Lieferung zu einer rein formalen Auseinandersetzung führt, obwohl der Beitrag inhaltlich wichtig ist.
 
 Beste Grüße
 Marlena Klee
@@ -34,13 +34,13 @@ Marlena Klee
 - Deadline für Rückmeldung: Mittwoch 03.06., 18:00. Danach Druckslot weg.
 - Frühere Korrespondenz: Frau Seidenpfennig hat im April auf eine ähnliche Mail (Heft 5/2026) erst nach 11 Tagen reagiert. Vertretung Sekretariat Augsburg: Frau Brand-Eichholtz, +49 821 ... .
 
-## Mailentwurf 2 (unfertig): Rabenau
+## Mailentwurf 2: Rabenau
 
 ```
 Von:      m.klee@mf-fachmedien.test
 An:       benedict.rabenau@rabenau-reumont.test
 Betreff:  Rezension Heft 7 -- Screenshot Folie 12 (Rechte)
-Datum:    Mo 01.06.2026, 10:08 (Entwurf, NICHT versandt)
+Datum:    Mo 01.06.2026, 10:08
 ```
 
 Sehr geehrter Herr Rabenau,
@@ -53,20 +53,20 @@ Konkret bitten wir um Information zu drei Punkten:
 2. Falls die Tabelle ganz oder teilweise aus einer Drittquelle (Konferenzbeitrag, Aufsatz, Behördenpapier, Datenbank) übernommen wurde, bitten wir um diese Quellenangabe und um Nachweis der Nutzungsrechte für die Veröffentlichung in einer Fachzeitschrift (Print + Online).
 3. Das Wasserzeichen "DAV-Forum 2025 -- ohne Genehmigung keine Wiedergabe" am rechten Bildrand wirft für uns eine zusätzliche Frage auf: Gilt diese Genehmigung Ihnen gegenüber, oder müssen wir gesondert beim Veranstalter anfragen?
 
-[NOCH PRÜFEN: ob alternative Abbildung (eigene Grafik MFJ) vorliegt]
+Falls die Rechtekette an der Folie nicht kurzfristig belegbar ist, schlagen wir eine eigene neutrale MFJ-Grafik vor: drei Spalten “EU”, “USA”, “Japan”, jeweils nur mit selbst formulierten Stichworten und ohne Übernahme fremder Tabellenstruktur. Diese Ersatzgrafik könnte am Dienstagvormittag von Herstellung Aulich gesetzt werden.
 
 Mit freundlichen Grüßen
 Marlena Klee
 
 ---
 
-## Mailentwurf 3 (unfertig): Wendt/Krug
+## Mailentwurf 3: Wendt/Krug
 
 ```
 Von:      m.klee@mf-fachmedien.test
 An:       wendt@bucerius-law-school.test, krug@bucerius-law-school.test
 Betreff:  Kommentarupdate § 38 UrhG -- Rückfragen
-Datum:    Mo 01.06.2026, 11:22 (Entwurf, NICHT versandt)
+Datum:    Mo 01.06.2026, 11:22
 ```
 
 Liebe Frau Wendt, lieber Herr Krug,

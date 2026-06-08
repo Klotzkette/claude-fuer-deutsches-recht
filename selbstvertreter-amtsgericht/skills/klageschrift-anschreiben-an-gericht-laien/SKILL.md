@@ -7,7 +7,7 @@ description: "Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze 
 
 ## Worum geht es?
 
-Ein Gericht ist eine Behoerde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
+Ein Gericht ist eine Behörde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Ein Gericht ist eine Behoerde mit eigenen Konventionen. Sie muessen nicht jurist
 - **§ 130a ZPO** — Elektronisches Dokument.
 - **§ 253 ZPO** — Klageschrift Form.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Briefkopf
 
@@ -182,7 +182,7 @@ Ich bitte den Einzelrichter, ...
 ## Typische Fehler
 
 - "Hallo Herr Richter, ich schreibe wegen ..." → Zu lax.
-- "Sehr geehrter Herr Schmidt" — zwar persoenlich, aber wenn Sie nicht **sicher** wissen, dass Richter Schmidt zustaendig ist, lieber neutral.
+- "Sehr geehrter Herr Schmidt" — zwar persoenlich, aber wenn Sie nicht **sicher** wissen, dass Richter Schmidt zuständig ist, lieber neutral.
 - "Aktenzeichen weglassen, das Gericht weiss es ja." → Pflicht-Angabe, sonst Zuordnungs-Probleme.
 - "Mehrere Sachen in einem Brief vermischen." → Pro Verfahren separater Schriftsatz.
 
@@ -196,7 +196,6 @@ Ich bitte den Einzelrichter, ...
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
-
 
 ## Qualitäts-Hardening
 

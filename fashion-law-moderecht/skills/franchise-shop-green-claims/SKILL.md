@@ -1,34 +1,21 @@
 ---
 name: franchise-shop-green-claims
-description: "Franchise Shop Green Claims im Fashion Law (Moderecht): prüft konkret Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen, Green Claims und Nachhaltigkeitskommunikation für Mode. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Franchise Shop Green Claims
+# Franchise Shop In Shop
 
 ## Arbeitsbereich
 
-**Franchise Shop Green Claims** ordnet den Fall über die tragenden Prüffelder: Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen, Green Claims und Nachhaltigkeitskommunikation für Mode. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `franchise-shop-in-shop` | Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. |
-| `green-claims-nachhaltigkeit` | Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko. |
+Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fashion Law (Moderecht) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
 - Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `franchise-shop-in-shop`
-
-**Fokus:** Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit.
-
-# Franchise Shop In Shop
 
 ## Wann dieser Skill hilft
 
@@ -48,38 +35,6 @@ Trenne echte Franchise-Elemente von Händler- oder Agenturmodell.
 ## Output
 
 Vertragsstruktur-Check.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
-## 2. `green-claims-nachhaltigkeit`
-
-**Fokus:** Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko.
-
-# Green Claims Nachhaltigkeit
-
-## Wann dieser Skill hilft
-
-Ein Label will nachhaltig werben.
-
-## Arbeitsweise
-
-Verlange belastbare Nachweise und konkrete Aussage statt vager Tugendformeln.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Output
-
-Green-Claims-Matrix.
 
 ## Quellen-Hardening
 

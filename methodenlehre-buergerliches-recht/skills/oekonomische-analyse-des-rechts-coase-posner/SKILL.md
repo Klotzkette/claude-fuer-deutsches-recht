@@ -31,7 +31,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Hauptvertreter und Klassische Werke:**
 
-- **Ronald H. Coase** (1910-2013), "The Problem of Social Cost", Journal of Law and Economics 1960. Nobelpreis 1991. Das Coase-Theorem: Bei null Transaktionskosten ist die Verteilung der Eigentumsrechte irrelevant fuer die effiziente Ressourcennutzung; die Parteien handeln das effiziente Ergebnis aus. Praktisch wichtig: Transaktionskosten sind selten null; daher bestimmt das Recht, wer die Lasten traegt.
+- **Ronald H. Coase** (1910-2013), "The Problem of Social Cost", Journal of Law and Economics 1960. Nobelpreis 1991. Das Coase-Theorem: Bei null Transaktionskosten ist die Verteilung der Eigentumsrechte irrelevant für die effiziente Ressourcennutzung; die Parteien handeln das effiziente Ergebnis aus. Praktisch wichtig: Transaktionskosten sind selten null; daher bestimmt das Recht, wer die Lasten traegt.
 - **Richard A. Posner** (geb. 1939), "Economic Analysis of Law", erstmals 1973 (mehrere Auflagen). Versuch, das gesamte Privat- und Strafrecht effizienzoekonomisch zu rekonstruieren.
 - **Guido Calabresi** (geb. 1932), "The Costs of Accidents: A Legal and Economic Analysis", 1970. Schadensrechtliche Anwendung.
 - **Frank Easterbrook** und **Daniel Fischel**, "The Economic Structure of Corporate Law", 1991.
@@ -53,19 +53,19 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Beispiel § 254 BGB (Mitverschulden):** Oekonomische Analyse — Mitverschuldensregel verteilt Anreize zur Schadensvermeidung. Beide Seiten sollen optimale Vorsorge betreiben. Die Beweislastregel beeinflusst die Anreize. Das deutsche Recht (Abwaegung im Einzelfall) und das US-Recht (vergleichende Fahrlaessigkeit) loesen unterschiedlich.
 
-**Beispiel § 906 BGB (Nachbarrecht):** Coase-Theorem-Anwendung. Wer haftet fuer Immissionen, der Verursacher oder der Geschaedigte? In der Praxis verteilt § 906 BGB die Lasten und ermoeglicht Ausgleich. Bei niedrigen Transaktionskosten haetten die Nachbarn auch ohne Recht eine effiziente Loesung gefunden; bei hohen Transaktionskosten ist die gesetzliche Verteilung wichtig.
+**Beispiel § 906 BGB (Nachbarrecht):** Coase-Theorem-Anwendung. Wer haftet für Immissionen, der Verursacher oder der Geschaedigte? In der Praxis verteilt § 906 BGB die Lasten und ermoeglicht Ausgleich. Bei niedrigen Transaktionskosten haetten die Nachbarn auch ohne Recht eine effiziente Loesung gefunden; bei hohen Transaktionskosten ist die gesetzliche Verteilung wichtig.
 
-**Beispiel ProdHaftG:** Strict liability schafft Anreize fuer Hersteller, in Produktsicherheit zu investieren. Calabresi: cheapest cost avoider — der Hersteller kann am billigsten Schadensvermeidung organisieren.
+**Beispiel ProdHaftG:** Strict liability schafft Anreize für Hersteller, in Produktsicherheit zu investieren. Calabresi: cheapest cost avoider — der Hersteller kann am billigsten Schadensvermeidung organisieren.
 
-**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** AGB sparen Transaktionskosten (keine individuelle Verhandlung). Aber sie koennen Informationsasymmetrien ausnutzen. Effizienz-Argument: AGB-Kontrolle soll Informationsdefizite kompensieren; uebermaessige Kontrolle erhoeht Transaktionskosten und verteuert Vertraege.
+**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** AGB sparen Transaktionskosten (keine individuelle Verhandlung). Aber sie koennen Informationsasymmetrien ausnutzen. Effizienz-Argument: AGB-Kontrolle soll Informationsdefizite kompensieren; uebermäßige Kontrolle erhoeht Transaktionskosten und verteuert Vertraege.
 
 **Beispiel Vertragsschluss und Bindung:** Pacta sunt servanda als Effizienzregel — Vertragsbindung ermoeglicht Vertrauen, ermoeglicht Vorleistungen und investitionen, senkt Transaktionskosten.
 
 **Beispiel Vorvertragliches Schutzverhaeltnis (§ 311 Abs. 2 BGB, c.i.c.):** Aufklaerungspflichten sind effizient, wenn die aufzuklaerende Partei billiger informiert werden kann als sie selbst sich informieren kann.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
-1. **Anreizstruktur identifizieren.** Welche Norm setzt welche Anreize fuer welche Akteure?
+1. **Anreizstruktur identifizieren.** Welche Norm setzt welche Anreize für welche Akteure?
 2. **Transaktionskosten betrachten.** Wie hoch sind die Kosten der Verhandlung, Information, Durchsetzung?
 3. **Cheapest cost avoider identifizieren.** Wer kann den Schaden am billigsten vermeiden?
 4. **Effizienz-Vergleich.** Welche Auslegung minimiert die gesamtgesellschaftlichen Kosten?
@@ -75,7 +75,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 ## Typische Fehler / Kritik
 
 - **Effizienz mit Gerechtigkeit verwechseln.** Effizienz ist eine Steuerungskategorie, nicht eine Wertungskategorie. Eine effiziente Regel kann ungerecht sein (und umgekehrt).
-- **Coase-Theorem als Beweis fuer "Mehr Markt".** Coase selbst hat betont: Transaktionskosten sind real und positiv. Sein Theorem zeigt **gerade**, warum Rechtsregeln wichtig sind, nicht warum sie ueberfluessig waeren.
+- **Coase-Theorem als Beweis für "Mehr Markt".** Coase selbst hat betont: Transaktionskosten sind real und positiv. Sein Theorem zeigt **gerade**, warum Rechtsregeln wichtig sind, nicht warum sie ueberfluessig waeren.
 - **Posner als universale Methode behandeln.** Posner und die Chicago School haben einen normativen Anspruch, der mit deutscher Verfassung und Wertungsjurisprudenz nicht vollstaendig kompatibel ist.
 - **Verteilungswirkungen ausblenden.** Effizienz misst Gesamtkosten, nicht die Verteilung. Eine "effiziente" Regel kann den Schwaecheren ueberproportional belasten.
 
@@ -83,7 +83,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Kritik aus Critical Legal Studies:** Die Behauptung, eine bestimmte Auslegung sei "effizient", ist nie wertneutral. Die Auswahl der Effizienzkriterien (Pareto vs. Kaldor-Hicks, Gewichtung von Wohlfahrt) ist politisch.
 
-**Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer fuer Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
+**Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer für Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
 
 ## Querverweise
 
@@ -103,7 +103,6 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 - §§ 254, 305 ff., 311 Abs. 2, 573, 906 BGB; ProdHaftG (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

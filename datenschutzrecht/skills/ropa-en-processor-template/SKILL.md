@@ -99,7 +99,6 @@ Version 1.1 – [change] – [date, author]
 - DSK Short Paper No. 13 "Processor Agreements" (Status 16 January 2018).
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (adopted 7 July 2021).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

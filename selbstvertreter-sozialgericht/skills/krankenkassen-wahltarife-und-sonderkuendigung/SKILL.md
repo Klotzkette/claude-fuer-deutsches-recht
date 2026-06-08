@@ -29,7 +29,7 @@ description: "Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert 
 ## Wahltarife § 53 SGB V
 
 - Selbstbehalt: Beitragsrueckverguetung bei Nichtinanspruchnahme.
-- Krankengeld-Wahltarif fuer Selbststaendige.
+- Krankengeld-Wahltarif für Selbststaendige.
 - Beihilfeergaenzungstarif.
 - Bonus-Programme.
 

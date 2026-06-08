@@ -7,10 +7,10 @@ description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: pr�
 
 ## Arbeitsbereich
 
-**First Human Geburtshilfe CTG Gendg Diagnostik** ordnet den Fall über die tragenden Prüffelder: First-in-Human Risk Board, Geburtshilfe CTG und Sectio, GenDG Diagnostik und Einwilligung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**First Human Geburtshilfe CTG Gendg Diagnostik** ordnet den Fall über die tragenden Prüfungslinien: First-in-Human Risk Board, Geburtshilfe CTG und Sectio, GenDG Diagnostik und Einwilligung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `first-in-human-riskboard` | First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `geburtshilfe-ctg-sectio` | Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
@@ -19,30 +19,26 @@ description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: pr�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `first-in-human-riskboard`
 
 **Fokus:** First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # First-in-Human Risk Board
 
 ## Fachkern: First-in-Human Risk Board
-- **Spezialgegenstand:** First-in-Human Risk Board wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: First-in-Human Risk Board** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation.
 
@@ -89,19 +85,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Geburtshilfe CTG und Sectio
 
 ## Fachkern: Geburtshilfe CTG und Sectio
-- **Spezialgegenstand:** Geburtshilfe CTG und Sectio wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Geburtshilfe CTG und Sectio** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler.
 
@@ -148,19 +140,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** GenDG Diagnostik und Einwilligung: moderner Medizinrechts-Skill für Diagnostische genetische Untersuchung, Schriftlichkeit, Arztvorbehalt und Befundkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # GenDG Diagnostik und Einwilligung
 
 ## Fachkern: GenDG Diagnostik und Einwilligung
-- **Spezialgegenstand:** GenDG Diagnostik und Einwilligung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: GenDG Diagnostik und Einwilligung** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Diagnostische genetische Untersuchung, Schriftlichkeit, Arztvorbehalt und Befundkommunikation.
 
@@ -206,19 +194,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Genomdaten, EHDS und Biobank: moderner Medizinrechts-Skill für Genomdaten für Forschung, Biobank, Secondary Use, Gesundheitsdatenzugang und Widerruf. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Genomdaten, EHDS und Biobank
 
 ## Fachkern: Genomdaten, EHDS und Biobank
-- **Spezialgegenstand:** Genomdaten, EHDS und Biobank wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Genomdaten, EHDS und Biobank** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Genomdaten für Forschung, Biobank, Secondary Use, Gesundheitsdatenzugang und Widerruf.
 
@@ -257,7 +241,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Nützliche Startquellen
 
-- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-für-alle
 - BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
 - EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
 - GenDG: https://www.gesetze-im-internet.de/gendg/BJNR252900009.html

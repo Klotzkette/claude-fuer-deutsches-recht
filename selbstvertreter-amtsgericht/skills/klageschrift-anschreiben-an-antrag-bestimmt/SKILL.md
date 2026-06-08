@@ -7,10 +7,10 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 ## Arbeitsbereich
 
-**Klageschrift Anschreiben AN Antrag Bestimmt** ordnet den Fall über die tragenden Prüffelder: Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Klageschrift Anschreiben AN Antrag Bestimmt** ordnet den Fall über die tragenden Prüfungslinien: Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `klageschrift-anschreiben-an-gericht-laien` | Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters. |
 | `klageschrift-antrag-bestimmt-formulieren` | Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden. |
@@ -18,12 +18,12 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `klageschrift-anschreiben-an-gericht-laien`
 
@@ -33,7 +33,7 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 ## Worum geht es?
 
-Ein Gericht ist eine Behoerde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
+Ein Gericht ist eine Behörde mit eigenen Konventionen. Sie muessen nicht juristisch formuliert schreiben — aber bestimmte Foermlichkeiten erhoehen Ihre Glaubwuerdigkeit und vermeiden Rueckfragen. Diese Skill zeigt die richtigen Anreden, Briefkopf-Elemente und uebliche Schlussformeln.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -53,7 +53,7 @@ Ein Gericht ist eine Behoerde mit eigenen Konventionen. Sie muessen nicht jurist
 - **§ 130a ZPO** — Elektronisches Dokument.
 - **§ 253 ZPO** — Klageschrift Form.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Briefkopf
 
@@ -208,7 +208,7 @@ Ich bitte den Einzelrichter, ...
 ## Typische Fehler
 
 - "Hallo Herr Richter, ich schreibe wegen ..." → Zu lax.
-- "Sehr geehrter Herr Schmidt" — zwar persoenlich, aber wenn Sie nicht **sicher** wissen, dass Richter Schmidt zustaendig ist, lieber neutral.
+- "Sehr geehrter Herr Schmidt" — zwar persoenlich, aber wenn Sie nicht **sicher** wissen, dass Richter Schmidt zuständig ist, lieber neutral.
 - "Aktenzeichen weglassen, das Gericht weiss es ja." → Pflicht-Angabe, sonst Zuordnungs-Probleme.
 - "Mehrere Sachen in einem Brief vermischen." → Pro Verfahren separater Schriftsatz.
 
@@ -222,7 +222,6 @@ Ich bitte den Einzelrichter, ...
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
-
 
 ## Qualitäts-Hardening
 
@@ -264,7 +263,7 @@ Der Klageantrag ist das **Herzstueck** Ihrer Klage. Er bestimmt, was das Gericht
 - **§ 261 III Nr. 2 ZPO** — Streitgegenstand-Definition.
 - **§ 308 ZPO** — Gericht entscheidet nicht ueber mehr als beantragt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klagentyp bestimmen
 
@@ -350,7 +349,7 @@ Hilfsweise: Der Beklagte wird verurteilt, ...
 
 Beispiel:
 
-- "Hilfsweise (fuer den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
+- "Hilfsweise (für den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
 
 ### Schritt 7 — Kostenantrag
 
@@ -365,7 +364,7 @@ Die Kosten des Rechtsstreits traegt der Beklagte.
 Immer dazu:
 
 ```
-Das Urteil wird fuer vorlaeufig vollstreckbar erklaert.
+Das Urteil wird für vorlaeufig vollstreckbar erklaert.
 ```
 
 Bei AG-Urteilen i. d. R. ohne Sicherheitsleistung (§ 708 ZPO).
@@ -381,7 +380,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt der
  Beklagte.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar
+3. Das Urteil wird für vorlaeufig vollstreckbar
  erklaert.
 ```
 
@@ -411,7 +410,6 @@ Antraege:
 
 Stand: 05/2026. § 253 II Nr. 2 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -440,7 +438,7 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 
 - **Beweisantrag**: Antrag, ueber eine bestimmte Tatsache Beweis durch ein Beweismittel zu erheben.
 - **Strengbeweis**: Beweis nach ZPO-Regeln im Klageverfahren.
-- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur fuer bestimmte Antraege (PKH, Wiedereinsetzung).
+- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur für bestimmte Antraege (PKH, Wiedereinsetzung).
 - **Beweisthema**: Die konkrete Tatsache, die bewiesen werden soll.
 
 ## Rechtsgrundlagen
@@ -452,7 +450,7 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 - **§ 415 ZPO** — Urkundenbeweis.
 - **§ 445 ZPO** — Parteivernehmung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pro Tatsache: Beweismittel-Typ waehlen
 
@@ -505,7 +503,7 @@ Beispiel mit Beweisthema:
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
  Musterstrasse 1, 12345 Musterstadt,
- zum Beweis dafuer, dass der Beklagte
+ zum Beweis dafür, dass der Beklagte
  bei der Lieferung am 12.3.2025 anwesend
  war und persoenlich den Lieferschein
  unterzeichnete.
@@ -519,7 +517,7 @@ Muster:
 
 ```
 Beweis: Einholung eines Sachverstaendigen-Gutachtens
- zum Beweis dafuer, dass die Reparaturkosten
+ zum Beweis dafür, dass die Reparaturkosten
  des Fahrzeugs 4.250 EUR betragen.
 ```
 
@@ -600,7 +598,6 @@ Geht — aber Achtung Praeklusion (§ 296 ZPO). Bestes Vorgehen: alles in die Kl
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht unveraendert.
-
 
 ## Qualitäts-Hardening
 

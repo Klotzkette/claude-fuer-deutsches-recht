@@ -33,3 +33,26 @@ Ein Hinweis "KI-generiert" heilt keine ungeprüfte Rechtsauskunft, kein unzuläs
 - Redaktionsvermerk für Veröffentlichungen
 - Schriftsatz-Endkontrollnotiz
 - interne Art.-50-Checkliste
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 203 StGB
+- Art. 28 DSGVO
+- § 204 StGB
+- § 62a StBerG
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+- § 16 HRG
+- § 70 VwG
+- § 123 VwG
+- Art. 32 DSGVO
+
+### Leitentscheidungen
+
+- BGH VI ZR 36/20
+- BGH VIII ZR 78/20
+

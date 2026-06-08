@@ -6,15 +6,12 @@ description: "Red Team Mandatsbeziehung: steuert Ergebnis, Dashboard, Rechnung u
 # Red Team Mandatsbeziehung
 
 ## Fachkern: Red Team Mandatsbeziehung
-- **Spezialgegenstand:** Red Team Mandatsbeziehung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
 - **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Red Team Mandatsbeziehung** im Bereich **Kanzlei-Mandant Lifecycle**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Ergebnis, Dashboard, Rechnung und Beziehung auf Missverständnisse, Halluzinationen und Risiken prüfen
 

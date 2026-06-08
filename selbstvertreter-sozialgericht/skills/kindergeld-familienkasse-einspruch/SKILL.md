@@ -18,14 +18,14 @@ Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach de
 ## Anspruchsgrundlagen
 
 - Kindergeld nach EStG (§§ 62 ff.) — Steuerprivileg.
-- Kindergeld nach BKGG (Bundeskindergeldgesetz) — Sozialleistung fuer Auslaender / EU-Buerger.
+- Kindergeld nach BKGG (Bundeskindergeldgesetz) — Sozialleistung für Auslaender / EU-Buerger.
 
 ## Familienkasse
 
-- Bundesagentur fuer Arbeit Familienkasse (Standard).
-- Familienkasse des Arbeitgebers (oeffentlicher Dienst Bundeswehr).
+- Bundesagentur für Arbeit Familienkasse (Standard).
+- Familienkasse des Arbeitgebers (öffentlicher Dienst Bundeswehr).
 
-## Anspruch fuer Kinder
+## Anspruch für Kinder
 
 - Bis 18 Jahre.
 - Bis 25 Jahre bei Ausbildung Studium oder Berufsausbildung.

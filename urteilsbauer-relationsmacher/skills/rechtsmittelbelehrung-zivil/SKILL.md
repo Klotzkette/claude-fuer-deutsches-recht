@@ -1,12 +1,11 @@
 ---
 name: rechtsmittelbelehrung-zivil
-description: "Prüffeld für rechtsmittelbelehrung zivil: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für rechtsmittelbelehrung zivil im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Rechtsmittelbelehrung Zivil
 
 Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, gegen die ein selbständiges Rechtsmittel statthaft ist.
-
 
 ## Triage zu Beginn
 
@@ -81,7 +80,6 @@ Form und Frist:
 ## Standardformulierung
 
 "Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des Urteils beim Landgericht Hamburg (Sievekingplatz Nummer 1 in 20355 Hamburg) schriftlich oder zu Protokoll der Geschäftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung schriftlich zu begründen. Vor dem Berufungsgericht besteht Anwaltszwang."
-
 
 ---
 

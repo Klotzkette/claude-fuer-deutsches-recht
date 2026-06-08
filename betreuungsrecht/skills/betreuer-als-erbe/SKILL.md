@@ -1,6 +1,6 @@
 ---
 name: betreuer-als-erbe
-description: "Prüffeld für betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für betreuer als erbe im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Betreuer als Erbe und Beschenkter
@@ -159,3 +159,25 @@ Die Faustformel "Berufsbetreuer darf nicht erben" ist daher zu pauschal und in d
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Pinpoint-Zitierung mit Randnummer und juengere Entscheidungen zuerst.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 278 FamFG
+- § 5 BtOG
+- § 274 FamFG
+- § 280 FamFG
+- § 30 BtOG
+- § 23 BtOG
+- § 8 BtOG
+- § 293 FamFG
+- § 292 FamFG
+- § 299 FamFG
+- § 312 FamFG
+- § 319 FamFG
+
+### Leitentscheidungen
+
+- BGH XII ZB 174/18
+

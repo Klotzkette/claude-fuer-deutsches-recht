@@ -7,10 +7,10 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 
 ## Arbeitsbereich
 
-**Ombudsmann GDV Orientierung Regress Abwehr** ordnet den Fall über die tragenden Prüffelder: Außergerichtliche Schlichtung über Versicherungs-Ombudsmann, Orientierung im Versicherungsvertragsrecht für Mandate und, Regressabwehr gegen Sozialversicherungstraeger und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Ombudsmann GDV Orientierung Regress Abwehr** ordnet den Fall über die tragenden Prüfungslinien: Außergerichtliche Schlichtung über Versicherungs-Ombudsmann, Orientierung im Versicherungsvertragsrecht für Mandate und, Regressabwehr gegen Sozialversicherungstraeger und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung` | Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjährung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverständigenverfahren. Prüfraster Zuständigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zuständigkeitsprüfung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie. |
 | `fachanwalt-versicherungsrecht-orientierung` | Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung Versicherungsrecht vor. Normen VVG VAG GDV-Musterbedingungen AVB-Sparten BU KV LV Sach-Haftpflicht D-und-O. Prüfraster Sparten Normen FAO-Voraussetzungen verifizierbare Quellen typische Mandate Fristen. Output Rechtsgebietsuebersicht Normen verifizierbare Quellen und Routing zu Versicherungsmandats-Skills. Abgrenzung zu mandat-triage-versicherungsrecht und fachanwalt-versicherungsrecht-deckungsklage. |
@@ -18,12 +18,12 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`
 
@@ -271,7 +271,7 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 6. Liegt eine bereits abgelaufene Verjährungsfrist vor? Wann erlangte der Regressnehmer Kenntnis vom Schadensereignis und vom Schädiger?
 7. Existiert ein Sozialleistungsvermerk im Schadenersatzprozess — wurde der Sozialversicherungsträger vom Geschädigten benachrichtigt?
 8. Sind mehrere Regressnehmer vorhanden (z.B. Krankenkasse + Rentenversicherung + Berufsgenossenschaft) und wurde eine koordinierte Verteidigungsstrategie besprochen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -300,7 +300,6 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Regress-Abwehr
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -366,11 +365,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Regress des Versicherers abwehren | Regress-Abwehrschreiben nach Pruefschema; Template unten |
 | Variante A — Regressforderung teilweise berechtigt | Teilanerkenntnis verhandeln; Gesamtbetrag minimieren |
-| Variante B — Verjaehrung des Regressanspruchs eingetreten | Verjaehrungseinrede erheben; kein inhaltliches Eingehen noetig |
+| Variante B — Verjährung des Regressanspruchs eingetreten | Verjährungseinrede erheben; kein inhaltliches Eingehen noetig |
 | Variante C — Regress gegen Arbeitnehmer Arbeitgeber haftet | Arbeitgeberhaftung pruefen; Regress auf Arbeitgeber abwaelzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -523,11 +521,10 @@ Mit freundlichen kollegialen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Streitwert und Kosten
 

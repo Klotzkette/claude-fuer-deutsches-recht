@@ -7,10 +7,10 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Vorabklaerung Erfolgsaussichten Wann Doch** ordnet den Fall über die tragenden Prüffelder: Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vorabklaerung Erfolgsaussichten Wann Doch** ordnet den Fall über die tragenden Prüfungslinien: Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `vorabklaerung-erfolgsaussichten-selbstcheck` | Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor. |
 | `wann-doch-anwalt-grenzfaelle` | Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat. |
@@ -18,12 +18,12 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vorabklaerung-erfolgsaussichten-selbstcheck`
 
@@ -46,7 +46,7 @@ Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Ner
 
 - **Anspruchsgrundlage**: Die rechtliche Norm, die einen Anspruch traegt (z. B. § 280 BGB Schadensersatz, § 433 BGB Kaufpreis).
 - **Beweislast**: Wer im Prozess die Tatsachen beweisen muss, die seinen Anspruch tragen.
-- **Verjaehrung**: Zeitlicher Ablauf, nach dem ein Anspruch zwar weiter besteht, aber der Schuldner die Erfuellung verweigern darf.
+- **Verjährung**: Zeitlicher Ablauf, nach dem ein Anspruch zwar weiter besteht, aber der Schuldner die Erfuellung verweigern darf.
 - **Kostenrisiko**: Risiko, im Fall der Niederlage die Gerichts- und Anwaltskosten der Gegenseite zu tragen.
 
 ## Rechtsgrundlagen
@@ -54,10 +54,10 @@ Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Ner
 - **§ 91 ZPO** — Kostenfolge: Verlierer traegt die Kosten.
 - **§ 91a ZPO** — Bei Erledigung Kostenentscheidung nach billigem Ermessen.
 - **§ 138 ZPO** — Wahrheitspflicht.
-- **§ 195 BGB** — Regel-Verjaehrung 3 Jahre.
-- **§ 286 BGB** — Verzug erforderlich fuer Verzugsschaden.
+- **§ 195 BGB** — Regel-Verjährung 3 Jahre.
+- **§ 286 BGB** — Verzug erforderlich für Verzugsschaden.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruchsgrundlage benennen
 
@@ -90,16 +90,16 @@ Pruefen Sie **jedes** Merkmal: Koennen Sie es beweisen? Mit was?
 
 Skill `beweismittel-vorab-sammeln-checkliste`, `beweislast-grundregel-wer-was`.
 
-### Schritt 4 — Verjaehrung pruefen
+### Schritt 4 — Verjährung pruefen
 
-Forderung verjaehrt? Skill `verjaehrungsfrist-pruefen-195-bgb`. Bei Verjaehrung: Anspruch besteht zwar, aber Schuldner kann verweigern (= klage faktisch sinnlos).
+Forderung verjaehrt? Skill `verjaehrungsfrist-pruefen-195-bgb`. Bei Verjährung: Anspruch besteht zwar, aber Schuldner kann verweigern (= klage faktisch sinnlos).
 
 ### Schritt 5 — Kostenrisiko durchrechnen
 
 Bei Streitwert 3.000 EUR:
 
-- Gerichtskosten 3,0 Gebuehren x ca. 100 EUR = ca. 300 EUR.
-- Anwaltsgebuehr Gegenseite (wenn die einen Anwalt nimmt): 2,5 Gebuehren x ca. 200 EUR + Auslagen + MwSt = ca. 700 EUR.
+- Gerichtskosten 3,0 Gebühren x ca. 100 EUR = ca. 300 EUR.
+- Anwaltsgebuehr Gegenseite (wenn die einen Anwalt nimmt): 2,5 Gebühren x ca. 200 EUR + Auslagen + MwSt = ca. 700 EUR.
 - Sachverstaendiger ggf. 500-3.000 EUR.
 
 Im Niederlagefall zahlen Sie also schnell mehr als 1.000 EUR. Skill `kostenrisiko-streitwert-berechnen-gkg`.
@@ -108,7 +108,7 @@ Im Niederlagefall zahlen Sie also schnell mehr als 1.000 EUR. Skill `kostenrisik
 
 Selbst wenn Sie gewinnen: Bekommen Sie das Geld? Bei Insolvenz/Vermoegenslosigkeit haben Sie zwar einen Titel, aber nichts zu vollstrecken. Hinweise auf schlechte Bonitaet:
 
-- Gegenseite ist privat insolvent (Schufa, oeffentliches Schuldnerverzeichnis).
+- Gegenseite ist privat insolvent (Schufa, öffentliches Schuldnerverzeichnis).
 - Wiederholt ausstehende Forderungen anderer Glaeubiger.
 - Gewerbe abgemeldet.
 
@@ -127,7 +127,7 @@ Beantworten Sie:
 
 - Kann ich die Tatsachen beweisen? Ja/Nein/Teilweise.
 - Habe ich eine klare Anspruchsgrundlage? Ja/Nein.
-- Ist die Verjaehrung noch offen? Ja/Nein.
+- Ist die Verjährung noch offen? Ja/Nein.
 - Ist die Gegenseite voraussichtlich liquide? Ja/Nein/Unklar.
 - Lohnt sich der Aufwand im Verhaeltnis zum Streitwert? Ja/Nein.
 
@@ -149,7 +149,7 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 ## Querverweise
 
 - `anspruchsgrundlage-finden-laienhilfe` — Was ist meine Anspruchsgrundlage?
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrungs-Check.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährungs-Check.
 - `aussergerichtliche-mahnung-286-bgb` — Mahnung vor Klage.
 - `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als Alternative.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
@@ -159,7 +159,6 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
-
 
 ## Qualitäts-Hardening
 
@@ -198,15 +197,15 @@ Selbstvertretung vor dem AG ist moeglich und oft sinnvoll. Aber nicht immer. Bei
 - **§ 114 FamFG** — Familiensachen.
 - **§ 121 ZPO** — Anwaltsbeiordnung bei PKH.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Roter Faden: Wann immer Anwalt?
 
 #### Ueberblick:
 
 - **Familienverfahren (Ehesachen)** § 114 FamFG: Anwaltszwang.
-- **Streitwert hoch, ab LG-Zustaendigkeit**: Anwaltszwang § 78 ZPO.
-- **Berufung vor LG**: Anwaltszwang fuer Begruendung.
+- **Streitwert hoch, ab LG-Zuständigkeit**: Anwaltszwang § 78 ZPO.
+- **Berufung vor LG**: Anwaltszwang für Begruendung.
 
 #### Wenn diese Faelle: Anwalt zwingend.
 
@@ -225,8 +224,8 @@ Auch vor AG kann Anwalt sinnvoll sein bei:
 Faustregel:
 
 - Streitwert bis 1.000 EUR: Selbstvertretung oft ausreichend (auch § 495a ZPO vereinfachtes Verfahren moeglich).
-- Streitwert 1.000-10.000 EUR: AG zustaendig, kein Anwaltszwang — Pruefung Einzelfall.
-- Streitwert ueber 10.000 EUR: LG zustaendig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
+- Streitwert 1.000-10.000 EUR: AG zuständig, kein Anwaltszwang — Pruefung Einzelfall.
+- Streitwert ueber 10.000 EUR: LG zuständig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
 
 ### Schritt 4 — Spezialmaterie
 
@@ -235,7 +234,7 @@ Bei Spezial-Rechtsgebieten:
 - **Familienrecht**: Anwaltszwang in Ehesachen.
 - **Arbeitsrecht**: Vor ArbG erste Instanz kein Anwaltszwang, aber Fachanwalt oft hilfreich.
 - **Mietsachen**: Mieterverein als Alternative.
-- **Verkehrsrecht (Unfall)**: Anwalt fuer Versicherungs-Verhandlungen.
+- **Verkehrsrecht (Unfall)**: Anwalt für Versicherungs-Verhandlungen.
 - **Sozialrecht**: Vor Sozialgericht eigene Regeln.
 
 ### Schritt 5 — Kosten-Nutzen-Rechnung
@@ -275,7 +274,7 @@ Sie koennen:
 
 - Selbst klagen.
 - Bei Komplikationen Anwalt einschalten (= "Beistand" im Termin nicht erlaubt, aber Beratung im Hintergrund).
-- Anwalt fuer Berufung mandatieren.
+- Anwalt für Berufung mandatieren.
 
 ### Schritt 9 — Wenn PKH bewilligt: Anwalt beiordnen lassen
 
@@ -288,7 +287,7 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 Beantworten Sie:
 
 - Verstehe ich, was im Verfahren passieren wird?
-- Habe ich Zeit fuer Schriftsaetze und Termine?
+- Habe ich Zeit für Schriftsaetze und Termine?
 - Habe ich Mut, im Termin selbst zu sprechen?
 - Habe ich klare Beweis-Lage?
 
@@ -297,7 +296,7 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 ## Worauf Sie besonders achten muessen
 
 - **Anwaltszwang vor LG** und in bestimmten AG-Verfahren.
-- **Berufung braucht Anwalt** fuer Begruendung.
+- **Berufung braucht Anwalt** für Begruendung.
 - **Komplexe Sachen** ueberfordern Laien.
 - **PKH** als Brueckenfinanzierung.
 
@@ -305,7 +304,7 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 
 - "Ich brauche keinen Anwalt." → Manchmal doch.
 - "Anwalt zahlt sich nicht aus." → Bei Komplikationen schon.
-- "Ich nehme erst Anwalt fuer Berufung." → Gut, aber AG-Phase vorher gut gestalten.
+- "Ich nehme erst Anwalt für Berufung." → Gut, aber AG-Phase vorher gut gestalten.
 
 ## Querverweise
 
@@ -318,7 +317,6 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-
 
 ## Qualitäts-Hardening
 
@@ -356,7 +354,7 @@ Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre ge
 - **§ 33 ZPO** — Voraussetzungen Widerklage: Konnexitaet oder Aufrechnungs-Verhaeltnis.
 - **§ 45 GKG** — Streitwert bei Widerklage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -367,10 +365,10 @@ Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre ge
 
 In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vertragsbeziehung.
 
-### Schritt 2 — Zustaendigkeit
+### Schritt 2 — Zuständigkeit
 
 - **Sachliche Zuständigkeit**: Die allgemeine AG-Grenze liegt seit 01.01.2026 bei 10.000 EUR. Wenn Klage und Widerklage zusammen darüber liegen, kann das Amtsgericht für die Widerklage dennoch zuständig bleiben, wenn § 33 Abs. 2 ZPO greift; prüfen Sie das aber sauber mit `zulassungsgrenzen-check-amtsgericht`.
-- **Oertliche Zustaendigkeit**: Gericht der Hauptklage gilt auch fuer Widerklage.
+- **Oertliche Zuständigkeit**: Gericht der Hauptklage gilt auch für Widerklage.
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?
 
@@ -449,7 +447,7 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 ## Worauf Sie besonders achten muessen
 
-- **Zustaendigkeitspruefung**: AG bleibt zustaendig bei konnexer Widerklage.
+- **Zuständigkeitspruefung**: AG bleibt zuständig bei konnexer Widerklage.
 - **Streitwert addiert** sich (§ 45 GKG) — Kosten beachten.
 - **Praeklusion**: Frueh erheben, nicht erst im Termin.
 - **Konnexitaet darlegen**: ohne Konnexitaet keine Widerklage.
@@ -470,7 +468,6 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 33 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

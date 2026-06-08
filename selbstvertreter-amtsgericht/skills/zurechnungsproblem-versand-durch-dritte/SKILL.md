@@ -7,7 +7,7 @@ description: "Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbst
 
 ## Worum geht es?
 
-Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben das Schreiben einem Boten, Verwandten oder Bekannten — der bringt es zum Gericht. Wenn er den Termin verpasst oder das Schreiben verloren geht, sind **Sie** das Problem los — meinen Sie. Falsch. Nach Linie des BVerfG (Selbstverantwortung) und BGH (Wiedereinsetzung) tragen Sie das Risiko fuer die Auswahl und Ueberwachung der eingeschalteten Person. Diese Skill warnt vor den haeufigsten Fallen.
+Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben das Schreiben einem Boten, Verwandten oder Bekannten — der bringt es zum Gericht. Wenn er den Termin verpasst oder das Schreiben verloren geht, sind **Sie** das Problem los — meinen Sie. Falsch. Nach Linie des BVerfG (Selbstverantwortung) und BGH (Wiedereinsetzung) tragen Sie das Risiko für die Auswahl und Ueberwachung der eingeschalteten Person. Diese Skill warnt vor den haeufigsten Fallen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -18,15 +18,15 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
 ## Fachbegriffe (kurz erklaert)
 
 - **Wiedereinsetzung in den vorigen Stand**: Recht, eine versaeumte Frist nachzuholen, wenn man unverschuldet die Frist versaeumt hat (§ 233 ZPO).
-- **Bote**: Person, die fuer Sie etwas physisch transportiert.
-- **Selbstverantwortung**: Verfassungsrechtliches Prinzip — Sie tragen die Verantwortung fuer Ihre eigenen Sachen, auch wenn Sie Hilfsmittel einsetzen.
+- **Bote**: Person, die für Sie etwas physisch transportiert.
+- **Selbstverantwortung**: Verfassungsrechtliches Prinzip — Sie tragen die Verantwortung für Ihre eigenen Sachen, auch wenn Sie Hilfsmittel einsetzen.
 
 ## Rechtsgrundlagen
 
 - **§ 233 ZPO** — Wiedereinsetzung in den vorigen Stand: nur bei "ohne Verschulden" versaeumter Frist.
-- **§ 234 ZPO** — Frist fuer Wiedereinsetzungs-Antrag (2 Wochen).
+- **§ 234 ZPO** — Frist für Wiedereinsetzungs-Antrag (2 Wochen).
 - **§ 236 ZPO** — Form des Antrags.
-- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko fuer Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren.
+- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko für Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren.
 - **BGH-Linie zur Wiedereinsetzung bei Bote/Drittversand** — Aktuelles Aktenzeichen mit konkretem Sachverhalt in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren, bevor Sie sich darauf berufen.
 
 <!-- AUDIT 27.05.2026 | welle 4 | selbstvertreter-amtsgericht
@@ -35,11 +35,11 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
  - BGH VI ZR 67/15: WRONG_TOPIC (echtes Thema Arzthaftung/Behandlungsfehler, NJW 2016, 713;
  der Skill behauptete NJW 2016, 1305 und Bote/Drittversand) -> AZ und Fundstelle entfernt -->
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer ist Bote?
 
-Bote ist, wer eine Sache fuer Sie nur **transportiert** ohne eigene Erklaerung. Beispiele:
+Bote ist, wer eine Sache für Sie nur **transportiert** ohne eigene Erklaerung. Beispiele:
 
 - Sie geben Brief mit Auftrag, ihn zum Briefkasten zu werfen.
 - Sie schicken Verwandten zum Gericht.

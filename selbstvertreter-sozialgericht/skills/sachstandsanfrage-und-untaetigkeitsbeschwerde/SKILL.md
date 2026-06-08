@@ -1,6 +1,6 @@
 ---
 name: sachstandsanfrage-und-untaetigkeitsbeschwerde
-description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behoerde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage."
+description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage."
 ---
 
 # Sachstandsanfrage Und Untaetigkeitsbeschwerde
@@ -24,7 +24,7 @@ description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungs
 ### 3. Dienstaufsichtsbeschwerde
 - An die uebergeordnete Stelle.
 - Bei Krankenkassen: Aufsichtsbehoerde des Landes.
-- Bei Jobcenter: Bundesagentur fuer Arbeit / Geschaeftsfuehrung.
+- Bei Jobcenter: Bundesagentur für Arbeit / Geschaeftsfuehrung.
 - Bei DRV: Bundesversicherungsamt.
 
 ### 4. Untaetigkeitsklage § 88 SGG

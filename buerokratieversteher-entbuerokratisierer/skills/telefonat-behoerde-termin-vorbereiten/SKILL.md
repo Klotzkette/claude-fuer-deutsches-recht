@@ -1,159 +1,24 @@
 ---
 name: telefonat-behoerde-termin-vorbereiten
-description: "Telefonat Behoerde Termin Vorbereiten im Bürokratieabbau-Praxis: prüft konkret Bereitet Telefonate vor, Vorbereitung für Termin, Hilft bei Sachstandsanfrage, Erinnerung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Telefonat Behoerde Termin Vorbereiten
+# Telefonat mit Behörde
 
 ## Arbeitsbereich
 
-**Telefonat Behoerde Termin Vorbereiten** ordnet den Fall über die tragenden Prüffelder: Bereitet Telefonate vor, Vorbereitung für Termin, Hilft bei Sachstandsanfrage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `telefonat-mit-behoerde` | Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief. |
-| `termin-behoerde-vorbereiten` | Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben. |
-| `untaetigkeit-behoerde` | Hilft bei Sachstandsanfrage, Erinnerung, Fristsetzung und Untätigkeitsklage-Überlegung. |
-| `verbraucher-behoerde-schlichtung` | Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde. |
+Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Bürokratieabbau und Entbürokratisierung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: NKR-Stellungnahme i.d.R. 4 Wochen vor Kabinett, OZG-Umsetzung erweitert durch OZGÄndG, Verordnungsbefristung nach BEG IV regelmäßig 7 Jahre.
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `telefonat-mit-behoerde`
-
-**Fokus:** Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief.
-
-# Telefonat mit Behörde
 
 ## Aufgabe
 Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
-
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
-## Quellen- und Aktualitätsregel
-- einschlägiges Bundesrecht
-- Landesrecht/kommunale Satzung
-- amtliche Behörden- oder Gerichtsseite
-- frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
-## 2. `termin-behoerde-vorbereiten`
-
-**Fokus:** Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben.
-
-# Termin bei Behörde
-
-## Aufgabe
-Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
-
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
-## Quellen- und Aktualitätsregel
-- einschlägiges Bundesrecht
-- Landesrecht/kommunale Satzung
-- amtliche Behörden- oder Gerichtsseite
-- frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
-## 3. `untaetigkeit-behoerde`
-
-**Fokus:** Hilft bei Sachstandsanfrage, Erinnerung, Fristsetzung und Untätigkeitsklage-Überlegung.
-
-# Untätigkeit der Behörde
-
-## Aufgabe
-Hilft bei Sachstandsanfrage, Erinnerung, Fristsetzung und Untätigkeitsklage-Überlegung.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
-
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
-## Quellen- und Aktualitätsregel
-- einschlägiges Bundesrecht
-- Landesrecht/kommunale Satzung
-- amtliche Behörden- oder Gerichtsseite
-- frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
-## 4. `verbraucher-behoerde-schlichtung`
-
-**Fokus:** Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde.
-
-# Verbraucherbehörde und Schlichtung
-
-## Aufgabe
-Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde.
 
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:

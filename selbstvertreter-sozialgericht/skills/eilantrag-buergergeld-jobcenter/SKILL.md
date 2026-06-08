@@ -13,7 +13,7 @@ description: "Eilantrag beim SG gegen Jobcenter. Buergergeld gestoppt Sanktion V
 
 ## Worum geht es?
 
-Das Jobcenter hat Ihr Buergergeld eingestellt oder gekuerzt. Oder es zahlt schon zwei Monate nicht. Sie haben keine Lebensmittel, keine Miete, keinen Strom mehr. Diese Skill zeigt Schritt fuer Schritt, wie Sie schnell Eilantrag stellen.
+Das Jobcenter hat Ihr Buergergeld eingestellt oder gekuerzt. Oder es zahlt schon zwei Monate nicht. Sie haben keine Lebensmittel, keine Miete, keinen Strom mehr. Diese Skill zeigt Schritt für Schritt, wie Sie schnell Eilantrag stellen.
 
 ## In einfacher Sprache
 
@@ -29,7 +29,7 @@ Das Jobcenter zahlt nichts mehr. Sie haben kein Geld zum Leben. Gehen Sie schnel
 ## Fachbegriffe (kurz erklaert)
 
 - **Bedarfsgemeinschaft**: Personen, die zusammen leben und Buergergeld bekommen.
-- **Regelbedarf**: Pauschal-Betrag fuer Lebenshaltung (2024: 563 EUR fuer Alleinstehende, kann sich aendern).
+- **Regelbedarf**: Pauschal-Betrag für Lebenshaltung (2024: 563 EUR für Alleinstehende, kann sich aendern).
 - **Kosten der Unterkunft (KdU)**: Miete und Nebenkosten, die das Jobcenter zahlt.
 - **Sanktion**: Kuerzung wegen Pflichtverletzung (§ 31 SGB II).
 - **Existenzminimum**: Was Sie zum Leben brauchen, gesichert durch das Grundgesetz.
@@ -44,7 +44,7 @@ Das Jobcenter zahlt nichts mehr. Sie haben kein Geld zum Leben. Gehen Sie schnel
 - **Art. 1 Abs. 1 GG i.V.m. Art. 20 Abs. 1 GG** — Existenzminimum als Verfassungsanspruch.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Schnell handeln
 
@@ -84,9 +84,9 @@ wegen Buergergeld; Eilantrag
 
 A N T R A G
 
-1. Der Antragsgegner wird im Wege der einstweiligen Anordnung gem. § 86b Abs. 2 SGG verpflichtet, mir vorlaeufig fuer die Zeit ab [Datum] bis zur Entscheidung in der Hauptsache laufende Leistungen nach dem SGB II in Hoehe der Regelbedarfsstufe 1 zuzueglich der tatsaechlichen Kosten der Unterkunft und Heizung zu gewaehren.
+1. Der Antragsgegner wird im Wege der einstweiligen Anordnung gem. § 86b Abs. 2 SGG verpflichtet, mir vorlaeufig für die Zeit ab [Datum] bis zur Entscheidung in der Hauptsache laufende Leistungen nach dem SGB II in Hoehe der Regelbedarfsstufe 1 zuzueglich der tatsaechlichen Kosten der Unterkunft und Heizung zu gewaehren.
 
-2. Mir wird fuer das Verfahren Prozesskostenhilfe gewaehrt.
+2. Mir wird für das Verfahren Prozesskostenhilfe gewaehrt.
 
 GRUENDE
 
@@ -128,11 +128,11 @@ V. Anlagen
 
 ### Schritt 4 — Eidesstattliche Versicherung beifuegen
 
-Sehr wichtig — das Gericht braucht das fuer die Glaubhaftmachung. Erklaeren Sie kurz die finanzielle Notlage.
+Sehr wichtig — das Gericht braucht das für die Glaubhaftmachung. Erklaeren Sie kurz die finanzielle Notlage.
 
 ### Schritt 5 — Verschicken
 
-- Sozialgericht in Ihrer Stadt finden (siehe `oertliche-zustaendigkeit-57-sgg`).
+- Sozialgericht in Ihrer Stadt finden (siehe `oertliche-zuständigkeit-57-sgg`).
 - Per Fax (schnellster Weg), per Mein Justizpostfach oder persoenlich abgeben.
 - Bei akuter Notlage (Strom-Abschaltung in 3 Tagen): "akute Eilbeduerftigkeit" hervorheben.
 
@@ -143,13 +143,13 @@ Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eila
 ## Worauf Sie besonders achten muessen
 
 - **Sanktionen:** Aktuelle Grenzen und Folgen nur nach Prüfung von Gesetzesstand, Behördenpraxis und verifizierter Rechtsprechung darstellen.
-- **Schonvermoegen** seit Buergergeld-Reform 2023 erweitert: in der Karenzzeit 40.000 EUR fuer den ersten und 15.000 EUR fuer weitere Personen — pruefen Sie aktuelle Werte.
-- **Vorlaeufige Bewilligung**: Wenn Anspruch nicht klar ist, kann das SG vorlaeufige Zahlung anordnen. Das ist auch ein Erfolg.
+- **Schonvermoegen** seit Buergergeld-Reform 2023 erweitert: in der Karenzzeit 40.000 EUR für den ersten und 15.000 EUR für weitere Personen — pruefen Sie aktuelle Werte.
+- **Vorlaeufige Bewilligung**: Wenn Anspruch nicht klar ist, kann das SG vorläufige Zahlung anordnen. Das ist auch ein Erfolg.
 - **Mitwirkungspflichten** nicht ignorieren: Termine wahrnehmen, Unterlagen einreichen. Sonst verschlechtert sich Ihre Lage.
 
 ## Typische Fehler
 
-- Eilantrag ohne Beweis fuer Notlage → Kontoauszuege immer beifuegen
+- Eilantrag ohne Beweis für Notlage → Kontoauszuege immer beifuegen
 - Eilantrag ohne eidesstattliche Versicherung → wichtig
 - Schon laenger Geld weg, jetzt erst Eilantrag → "akute Bedrohung" schwerer zu argumentieren
 - Nur Widerspruch, keinen Eilantrag → das Widerspruchsverfahren dauert zu lange

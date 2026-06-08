@@ -6,18 +6,14 @@ description: "Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsr
 # Anrede und Grußformeln
 
 ## Fachkern: Anrede und Grußformeln
-- **Spezialgegenstand:** Anrede und Grußformeln wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in beruflicher Korrespondenz. Die richtige Anrede signalisiert Respekt und Professionalität — eine falsche oder zu lässige Anrede kann den gesamten Ton eines Schreibens beschädigen, noch bevor der eigentliche Inhalt gelesen wird.
 
-
 ## Triage zu Beginn
 1. Ist der Name des Empfaengers bekannt oder unbekannt?
-2. Welche Funktion hat der Empfaenger: Richter, Staatsanwalt, Kollegin, Mandant, Behoerde?
+2. Welche Funktion hat der Empfaenger: Richter, Staatsanwalt, Kollegin, Mandant, Behörde?
 3. Traeigt der Empfaenger akademische Grade (Dr., Prof.) oder Amtsbezeichnungen?
 4. Wie eng ist die Beziehung: erstmalig, laufend, langjahrig bekannt?
 
@@ -80,3 +76,27 @@ Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mi
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Empfohlene Anrede in der konkreten Situation. (2) Alternative Anreden nach Förmlichkeitsgrad. (3) Empfohlene Schlussformel. (4) Begründung mit Verweis auf berufsrechtliche oder konventionelle Grundlage.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 RVG
+- § 10 RVG
+- § 57 StBerG
+- § 185 StGB
+- § 57a StBerG
+- Art. 5 GG
+- § 240 StGB
+- § 186 StGB
+- § 203 StGB
+- § 4a RVG
+- § 261 StGB
+- Art. 32 DSGVO
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

@@ -7,10 +7,10 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 
 ## Arbeitsbereich
 
-**Abwaegung Material Abwaegungslast NON** ordnet den Fall über die tragenden Prüffelder: Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Abwaegung Material Abwaegungslast NON** ordnet den Fall über die tragenden Prüfungslinien: Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `abwaegung-material-auswahl` | Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit. |
 | `abwaegungslast-non-liquet` | Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet. |
@@ -20,12 +20,12 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `abwaegung-material-auswahl`
 
@@ -40,7 +40,6 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Qualität jeder Abwägungsentscheidung hängt entscheidend davon ab, welches Material in die Waagschale gelegt wird. Dieses Skill hilft dabei, relevante Abwägungsmaterialien zu identifizieren, unzulässiges Material zu erkennen und die Auswahl transparent zu begründen. Fehlerhafte Materialauswahl ist ein klassischer Revisionsfehler.
 
@@ -131,7 +130,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Nicht jede Abwägungslage ergibt eine eindeutige Antwort. Dieses Skill behandelt die methodisch anspruchsvollen Fälle, in denen das vorhandene Abwägungsmaterial keine klare Entscheidung trägt und ein Non-liquet droht. Es zeigt auf, welche rechtlichen Entscheidungsregeln bei Abwägungsunklarheit eingreifen und wie Juristen mit residualer Unsicherheit methodisch korrekt umgehen.
 
 ## Mandantenfall
@@ -221,7 +219,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht eigene Auslegungsmethoden, sondern Hilfsfiguren innerhalb der teleologischen Auslegung und Rechtsfortbildung.
@@ -229,7 +226,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 - **Argumentum e contrario** (Umkehrschluss): Wenn eine Norm einen Fall regelt, sind andere Faelle umgekehrt geregelt — sofern die Norm abschliessend gemeint ist.
 - **Argumentum a maiore ad minus** (vom Groesseren auf das Kleinere): Wer das Groessere darf, darf erst recht das Kleinere.
 - **Argumentum a minore ad maius** (vom Kleineren auf das Groessere): Wer schon das Kleinere nicht darf, darf erst recht nicht das Groessere.
-- **Argumentum a fortiori** (erst recht): Sammelbezeichnung fuer beide Erst-recht-Schluesse.
+- **Argumentum a fortiori** (erst recht): Sammelbezeichnung für beide Erst-recht-Schluesse.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -248,7 +245,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960 — systematisiert die Argumentum-Figuren als Hilfsformen der teleologischen Auslegung und Rechtsfortbildung.
 - Robert Alexy, "Theorie der juristischen Argumentation" 1978 — ordnet sie in eine umfassende Argumentationstheorie ein (siehe Skill `diskurstheorie-habermas-alexy`).
 
-**Logischer Hintergrund:** Die Figuren sind nicht zwingende Schluesse im streng-logischen Sinne (anders als der modus ponens). Sie tragen nur unter Bedingungen, naemlich dann, wenn eine Wertentscheidung dahintersteht. Der Umkehrschluss setzt voraus, dass die Norm abschliessend ist; der Erst-recht-Schluss setzt voraus, dass die Wertung des geregelten Falles auch fuer den nicht geregelten gilt.
+**Logischer Hintergrund:** Die Figuren sind nicht zwingende Schluesse im streng-logischen Sinne (anders als der modus ponens). Sie tragen nur unter Bedingungen, naemlich dann, wenn eine Wertentscheidung dahintersteht. Der Umkehrschluss setzt voraus, dass die Norm abschliessend ist; der Erst-recht-Schluss setzt voraus, dass die Wertung des geregelten Falles auch für den nicht geregelten gilt.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -272,7 +269,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 - Beide Erst-recht-Schluesse zusammengefasst. In der BGH-Praxis haeufig verwendet: "Wenn schon X, dann erst recht Y."
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 **Fuer den Umkehrschluss:**
 
@@ -286,7 +283,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 1. **Norm und Wertung identifizieren.** Welcher Fall ist geregelt? Welche Wertung steht dahinter?
 2. **Vergleichsfall identifizieren.** Welcher nicht geregelte Fall ist "groesser" oder "kleiner"?
-3. **Wertungsidentitaet pruefen.** Greift die Wertung des geregelten Falles auch fuer den Vergleichsfall?
+3. **Wertungsidentitaet pruefen.** Greift die Wertung des geregelten Falles auch für den Vergleichsfall?
 4. **Schluss formulieren.** "Wer X darf, darf erst recht Y" oder "Wer X schon nicht darf, darf erst recht nicht Y."
 5. **Argumentstaerke pruefen.** Stuetzt sich der Schluss auf eindeutige Wertungen, oder ist er beliebig?
 
@@ -316,7 +313,6 @@ Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren s
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -338,7 +334,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Grenze zwischen Auslegung und Rechtsfortbildung ist eine der wichtigsten methodischen Trennlinien im deutschen Recht. Dieses Skill erstellt ein systematisches Grenzprotokoll, das jeden Auslegungsschritt transparent macht und anzeigt, wenn der Wortlaut verlassen und Rechtsfortbildung betrieben wird. Es stärkt die methodische Legitimität und schützt vor richterlicher Willkür.
 
@@ -429,10 +424,9 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
+Anwendungsfall: eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
 
 ## Prüfprogramm
 
@@ -455,3 +449,32 @@ Liefere eine Verfahrens- und Begründungsmatrix mit `Vortrag`, `Norm`, `Beweis`,
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Normen vor Rechtsprechung, wenn die verfahrensrechtliche Lösung direkt aus Gesetz oder Grundgesetz folgt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 20 Abs. 3 GG (Gesetzesbindung)
+- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
+- § 133 BGB (Auslegung Willenserklärung)
+- § 157 BGB (Auslegung Verträge)
+- § 242 BGB (Treu und Glauben)
+- § 305c Abs. 2 BGB (Unklarheitenregel)
+- EGBGB Art. 6 (ordre public)
+- GG Art. 1, 2 (Verfassungskonforme Auslegung)
+- ZPO § 286 (freie Beweiswürdigung)
+- GVG § 132 (Vorlage Großer Senat)
+
+### Leitentscheidungen
+
+- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- BGH GSZ 1/11 (BGH-Methodik)
+- BVerfG 2 BvR 883/14 (Wortlautgrenze)
+- BGH V ZR 250/02 (teleologische Reduktion)
+
+### Anwendung im Skill
+
+- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
+- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
+- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.

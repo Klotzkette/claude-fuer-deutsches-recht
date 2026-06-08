@@ -5,12 +5,27 @@ description: "Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluz
 
 # Red-Team Software Qualitygate
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 69a UrhG` — Computerprogramme.
+- `§ 69b UrhG` — Arbeitnehmerprogramme.
+- `§ 69c UrhG` — ausschliessliche Rechte.
+- `§ 69d UrhG` — bestimmungsgemaesse Benutzung.
+- `§ 69e UrhG` — Dekompilierung.
+- `§ 31 UrhG` — Einraeumung von Nutzungsrechten.
+- `§ 32 UrhG` — angemessene Verguetung.
+- `§ 305 BGB` — AGB-Einbeziehung.
+- `§ 307 Abs. 1 BGB` — AGB-Inhaltskontrolle.
+- `Art. 5 Abs. 1 DSGVO` — Datenschutz bei Softwarebetrieb.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachkern: Red-Team Software Qualitygate
-- **Spezialgegenstand:** Red-Team Software Qualitygate wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 

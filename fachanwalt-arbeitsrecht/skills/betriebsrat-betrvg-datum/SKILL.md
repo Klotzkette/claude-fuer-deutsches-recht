@@ -7,10 +7,10 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 
 ## Arbeitsbereich
 
-**Betriebsrat Betrvg Datum** ordnet den Fall über die tragenden Prüffelder: Betriebsrat, BetrVG, Datum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Betriebsrat Betrvg Datum** ordnet den Fall über die tragenden Prüfungslinien: Betriebsrat, BetrVG, Datum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-betriebsrat-zahlen-schwellen-und-berechnung` | Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen §§ 9 und 38 BetrVG, Wahlrecht § 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender. |
 | `spezial-betrvg-behoerden-gericht-und-registerweg` | BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer. |
@@ -18,12 +18,12 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-betriebsrat-zahlen-schwellen-und-berechnung`
 
@@ -38,7 +38,6 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Präzise Berechnung und Prüfung der betriebsverfassungsrechtlichen Schwellenwerte: BR-Größe, Freistellungen, Wahlberechtigung, Betriebsbegriff. Grundlage für die Erstprüfung bei jedem Mandat mit BR-Bezug.
@@ -178,7 +177,6 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Vollständiger Überblick über Verfahrenswege bei betriebsverfassungsrechtlichen Streitigkeiten — welches Verfahren vor welchem Gericht, wer ist Beteiligter, welche Fristen gelten.
 
@@ -285,7 +283,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - `spezial-betriebsrat-zahlen-schwellen-und-berechnung` für Schwellenwerte
 - `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für § 102 BetrVG
 - `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` für Beschlussmängel
-- `spezial-fao-fristen-form-und-zustaendigkeit` für Verfahrensrecht
+- `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensrecht
 
 ## Quellenregel
 - Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
@@ -309,7 +307,6 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Praktischer Leitfaden für die fristgerechte und formkorrekte Einreichung von Schriftsätzen, Klagen und Formularen im arbeitsrechtlichen Verfahren — von der Fristberechnung über das beA bis zu den BA-Portalen.
@@ -398,7 +395,7 @@ Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzei
 
 ## Anschluss-Skills
 - `workflow-fristen-und-risikoampel` für Fristenmanagement
-- `spezial-fao-fristen-form-und-zustaendigkeit` für weitere Verfahrensfragen
+- `spezial-fao-fristen-form-und-zuständigkeit` für weitere Verfahrensfragen
 - `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 
 ## Quellenregel

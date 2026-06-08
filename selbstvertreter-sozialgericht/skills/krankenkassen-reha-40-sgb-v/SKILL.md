@@ -52,6 +52,6 @@ description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Vo
 
 1. Aerztliche Verordnung (Muster 61)?
 2. Reha-Bedarf belegbar?
-3. Welcher Traeger zustaendig?
+3. Welcher Traeger zuständig?
 4. Wahlrecht beachtet?
 5. AHB-Anschluss moeglich?

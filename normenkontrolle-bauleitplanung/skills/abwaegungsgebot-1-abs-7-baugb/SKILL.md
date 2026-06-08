@@ -165,3 +165,27 @@ Konkrete Entscheidungen vor Verwendung per bverwg.de mit Datum verifizieren.
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 47 VwG
+- § 215 BauGB
+- § 1 BauGB
+- § 214 BauGB
+- § 2 BauGB
+- § 50 BImSchG
+- § 10 BauGB
+- § 9 BauGB
+- § 14 BauGB
+- § 12 BauGB
+- § 44 BNatSchG
+- § 3 BauGB
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

@@ -7,10 +7,10 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 
 ## Arbeitsbereich
 
-**PKH Bewilligung Ratenzahlung** ordnet den Fall über die tragenden Prüffelder: Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**PKH Bewilligung Ratenzahlung** ordnet den Fall über die tragenden Prüfungslinien: Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `pkh-bewilligung-ablehnung-folgen` | Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde. |
 | `pkh-ratenzahlung-bewilligung` | Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten. |
@@ -18,12 +18,12 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `pkh-bewilligung-ablehnung-folgen`
 
@@ -55,7 +55,7 @@ Nach Ihrem PKH-Antrag entscheidet das Gericht durch Beschluss. Wenn bewilligt, k
 - **§ 124 ZPO** — Aufhebung der Bewilligung.
 - **§ 127 ZPO** — Sofortige Beschwerde.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Beschluss lesen
 
@@ -91,7 +91,7 @@ Wenn Sie einen bestimmten Anwalt wollen: Beiordnung beantragen unter Nennung des
 
 Haeufige Ablehnungsgruende:
 
-- **Keine Erfolgsaussicht**: Das Gericht haelt Ihre Klage fuer aussichtslos.
+- **Keine Erfolgsaussicht**: Das Gericht haelt Ihre Klage für aussichtslos.
 - **Nicht-Beduerftigkeit**: Ihr Einkommen ist zu hoch.
 - **Mutwilligkeit**: Die Klage wuerde ein verstaendiger nicht-PKH-Beduerftiger nicht erheben.
 
@@ -157,7 +157,6 @@ Folge: Sie zahlen rueckwirkend.
 
 Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -174,7 +173,7 @@ Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
 
 ## Worum geht es?
 
-Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug fuer Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun koennen, wenn sich die Einkommens-Lage aendert.
+Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug für Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun koennen, wenn sich die Einkommens-Lage aendert.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -195,13 +194,13 @@ Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug fuer Selbstzahlung
 - **§ 120 ZPO** — Ratenzahlung; max 48 Monate.
 - **§ 120a ZPO** — Mitteilungs-Pflicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Einsetzbares Einkommen berechnen
 
 Brutto-Einkommen — Steuer — SV-Beitraege = Netto.
 
-Netto — Freibetrag fuer Partei + Partner + Kinder — Mietkosten — Versicherung-Beitrag = Einsetzbares Einkommen.
+Netto — Freibetrag für Partei + Partner + Kinder — Mietkosten — Versicherung-Beitrag = Einsetzbares Einkommen.
 
 ### Schritt 2 — Rate ablesen
 
@@ -298,12 +297,12 @@ Wenn Sie sich Klage und Gerichtskosten nicht leisten koennen, gibt es **Prozessk
 - **§ 114 I ZPO** — Voraussetzungen PKH.
 - **§ 115 ZPO** — Einkommen, einzusetzendes Vermoegen.
 - **§ 117 ZPO** — Antragsform.
-- **§ 118 ZPO** — Anhoerung Gegner.
+- **§ 118 ZPO** — Anhörung Gegner.
 - **§ 120 ZPO** — Ratenzahlung.
 - **§ 121 ZPO** — Beiordnung eines Anwalts.
 - **§ 124 ZPO** — Aufhebung der Bewilligung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -320,7 +319,7 @@ Wenn ein Punkt fehlt, scheitert PKH.
 § 115 ZPO regelt Einkommens-Anrechnung:
 
 - Nettoeinkommen (Lohn, Selbstaendigkeit, Sozialleistungen).
-- Minus Freibetraege fuer Sie selbst, Partner, Kinder.
+- Minus Freibetraege für Sie selbst, Partner, Kinder.
 - Minus Mietkosten in angemessener Hoehe.
 - Minus weitere Abzuege (Versicherungen, Werbungskosten).
 
@@ -338,7 +337,7 @@ Wenn Sie groesseres Bargeld, Wertpapiere, Immobilie haben: Anrechnung. Sie muess
 
 ### Schritt 4 — Antragsformular
 
-Das amtliche Formular "Erklaerung ueber die persoenlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
+Das amtliche Formular "Erklaerung ueber die persönlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
 
 - Persoenliche Daten.
 - Familienstand, Unterhaltspflichten.

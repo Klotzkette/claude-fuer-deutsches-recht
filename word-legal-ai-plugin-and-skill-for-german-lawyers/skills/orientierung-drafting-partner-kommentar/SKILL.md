@@ -1,34 +1,21 @@
 ---
 name: orientierung-drafting-partner-kommentar
-description: "Orientierung Drafting Partner Kommentar im Word-Legal-AI für Anwälte: prüft konkret Einstiegs- und Triage-Skill für juristisches Drafting, Stadiu, Setzt knappe Partnerkommentare und Randnotizen in echte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Orientierung Drafting Partner Kommentar
+# Orientierung und Drafting-Triage
 
 ## Arbeitsbereich
 
-**Orientierung Drafting Partner Kommentar** ordnet den Fall über die tragenden Prüffelder: Einstiegs- und Triage-Skill für juristisches Drafting, Stadiu, Setzt knappe Partnerkommentare und Randnotizen in echte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `orientierung-drafting-triage` | Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. |
-| `partner-kommentar-umsetzen` | Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu. |
+Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Word Legal AI für deutsche Anwälte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `orientierung-drafting-triage`
-
-**Fokus:** Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate.
-
-# Orientierung und Drafting-Triage
 
 ## Zweck
 
@@ -85,7 +72,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 | Partnernotizen / Randkommentare | Umsetzung in Draft | `partner-kommentar-umsetzen`, `revisions-prozess-redlines-comparison` |
 | Mandantenmemo / Partnerupdate | Entscheidungsvorlage | `mandantenmemo-und-partner-update`, `argumentationsarchitektur-schreiben` |
 | Schriftsatz ist zu lang oder unklar | Richterlesbarkeit | `schriftsatz-ueberarbeiten-richterlesbar`, `argumentationsarchitektur-schreiben` |
-| Englischer Text aus deutscher Sicht | US/UK Legal Writing | `us-uk-legal-writing-fuer-deutsche`, `englischer-vertrag-deutsches-recht` |
+| Englischer Text aus deutscher Sicht | US/UK Legal Writing | `us-uk-legal-writing-für-deutsche`, `englischer-vertrag-deutsches-recht` |
 | Englischer Vertrag mit deutschem Recht | German law in English | `englischer-vertrag-deutsches-recht`, `bilingual-drafting-deutsch-englisch` |
 | Versandfassung | Quality Gate | `finaler-writing-quality-gate`, `word-dokument-finish-und-layout` |
 
@@ -140,65 +127,6 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 - § 43a BRAO und § 203 StGB für Vertraulichkeit; gesetze-im-internet.de.
 - `references/methodik-buergerliches-recht.md` für Stilwahl Gutachtenstil und Urteilsstil.
 - Fachmodule im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `partner-kommentar-umsetzen`
-
-**Fokus:** Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu.
-
-# Partner-Kommentar Umsetzen
-
-## Zweck
-
-Partnerkommentare sind oft kurz, schnell und mehrdeutig. Dieser Skill übersetzt sie in konkrete Arbeit: Was ist gemeint, was muss geändert werden, welche Passage bekommt welche neue Funktion?
-
-## Eingaben
-
-- Dokument oder Passage.
-- Partnerkommentar, Randnotiz, E-Mail oder Chat.
-- Rolle des Mandanten und Verhandlungsziel.
-- Zeitbudget.
-
-## Kommentar-Decoder
-
-| Kommentar | Bedeutet meistens | Reaktion |
-|---|---|---|
-| "zu lang" | Ergebnis kommt zu spät | kürzen, Überschrift schärfen, Empfehlung nach vorne |
-| "commercial" | rechtlich richtig, aber wirtschaftlich unbrauchbar | Geschäftsinteresse sichtbar machen |
-| "mehr Druck" | Gegenseite soll merken, dass Eskalation real ist | Frist, Konsequenz, Beleg, kein Lärm |
-| "zu hart" | Beziehung oder Deal gefährdet | Ton deeskalieren, Rechtsposition halten |
-| "nicht gutachten" | Prüfungssprache stört | Urteilsstil oder Empfehlungssprache |
-| "US counsel?" | Begriff könnte im Common Law anders verstanden werden | `us-uk-legal-writing-fuer-deutsche` zuschalten |
-| "Word sauber" | Format/Markup nicht sendefähig | `word-dokument-finish-und-layout` zuschalten |
-
-## Ablauf
-
-1. Kommentare extrahieren und nummerieren.
-2. Jeden Kommentar einer Funktion zuordnen: Kürzen, Schärfen, Risiko, Ton, Struktur, Word.
-3. Konflikte erkennen: "mehr Druck" und "deeskalieren" gleichzeitig offenlegen.
-4. Arbeitspakete bilden.
-5. Passage neu formulieren.
-6. Offene Rückfragen an Partnerin nur stellen, wenn die Umsetzung sonst riskant wäre.
-
-## Output
-
-- Kommentar-Register.
-- Priorisierte Änderungsliste.
-- Neuformulierung der betroffenen Passage.
-- Kurzer Rückgabe-Text an Partnerin: "Umgesetzt; offen bleibt nur ..."
-
-## Qualitätsmaßstab
-
-Nicht bloß paraphrasieren. Der Skill muss den Kommentar in echtes Drafting übersetzen und eine sendefähige Fassung liefern.
-
 
 ## Qualitäts-Hardening
 

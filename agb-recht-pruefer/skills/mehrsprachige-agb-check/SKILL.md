@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-agb-check
-description: "Einstiegs- und Prüffeld für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüfungslinie für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Mehrsprachige AGB Check

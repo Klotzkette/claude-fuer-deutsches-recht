@@ -7,10 +7,10 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 
 ## Arbeitsbereich
 
-**Abmahnung Bezuege Designg** ordnet den Fall über die tragenden Prüffelder: Abmahnung, Streitwerte, Gebühren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Abmahnung Bezuege Designg** ordnet den Fall über die tragenden Prüfungslinien: Abmahnung, Streitwerte, Gebühren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-abmahnung-formular-portal-und-einreichung` | Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung. |
 | `spezial-bezuege-zahlen-schwellen-und-berechnung` | Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe. |
@@ -18,12 +18,12 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-abmahnung-formular-portal-und-einreichung`
 
@@ -118,7 +118,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 ## Anschluss-Skills
 - `gr-abmahnung-workflow` – Gesamter Abmahnung-Workflow.
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV nach Abmahnung.
-- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Fristen und Formalien.
+- `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Fristen und Formalien.
 
 ## Quellenregel
 - UWG, ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
@@ -378,3 +378,29 @@ Deutschland hat folgende GGM-Gerichte designiert:
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Designprüfung ohne Kenntnis der Abbildungen.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 8c UWG
+- § 14 MarkenG
+- § 8 UWG
+- § 12 UWG
+- § 13 UWG
+- § 5a UWG
+- § 139 PatG
+- § 42 DesignG
+- § 42 MarkenG
+- § 26 MarkenG
+- § 2 DesignG
+- § 24 MarkenG
+
+### Leitentscheidungen
+
+- EuGH C-541/18
+- BGH II ZR 189/12
+- BGH I ZR 138/19
+- BGH I ZB 117/19
+- BGH I ZR 167/19
+

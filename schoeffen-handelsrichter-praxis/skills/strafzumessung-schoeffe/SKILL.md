@@ -1,28 +1,28 @@
 ---
 name: strafzumessung-schoeffe
-description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im Schoeffen Handelsrichter Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Strafzumessung Schoeffe
 
 ## Arbeitsbereich
 
-**Strafzumessung Schoeffe** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Strafzumessung Schoeffe** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafzumessung-schoeffe-sitzung` | Strafzumessung für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Schuld, Prävention, Vorleben, Geständnis, Opferfolgen und Bewährung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Schoeffen Handelsrichter Praxis klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafzumessung-schoeffe-sitzung`
 
@@ -31,15 +31,13 @@ description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis: f
 # Strafzumessung für Schöffen: Sitzungspraxis
 
 ## Fachkern: Strafzumessung für Schöffen: Sitzungspraxis
-- **Spezialgegenstand:** Strafzumessung für Schöffen: Sitzungspraxis. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Strafzumessung für Schöffen: Sitzungspraxis** im Bereich **Schöffen und Handelsrichter Praxis**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Schuld, Prävention, Vorleben, Geständnis, Opferfolgen und Bewährung - Sitzungspraxis
 
@@ -74,6 +72,15 @@ Erzeuge konkreter Ablaufplan, sichere Formulierungen für Nachfragen und Nachber
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 31-45 GVG (Schöffen)
+- § 76 GVG (Mitwirkung)
+- §§ 105-109 GVG (Handelsrichter)
+- BVerfGE 14, 56 (Schöffen als Richter)
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

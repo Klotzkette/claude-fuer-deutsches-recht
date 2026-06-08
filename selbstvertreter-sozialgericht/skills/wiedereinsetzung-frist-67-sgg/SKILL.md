@@ -29,7 +29,7 @@ Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst
 ## Fachbegriffe (kurz erklaert)
 
 - **Wiedereinsetzung in den vorigen Stand**: Die Frist wird neu gewaehrt, als haetten Sie sie nicht versaeumt.
-- **Schuldlose Versaeumnis**: Sie konnten nichts dafuer.
+- **Schuldlose Versaeumnis**: Sie konnten nichts dafür.
 - **Glaubhaftmachung**: Sie muessen den Grund nicht beweisen wie vor Gericht, aber wahrscheinlich machen (z.B. mit eidesstattlicher Versicherung).
 - **Antrag**: Sie muessen ausdruecklich Wiedereinsetzung beantragen — kommt nicht von alleine.
 
@@ -40,7 +40,7 @@ Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst
 - **§ 67 Abs. 2 SGG** — Antrag binnen 2 Wochen nach Wegfall des Hindernisses, max. 1 Jahr ab Fristende.
 - **§ 67 Abs. 3 SGG** — Die versaeumte Handlung muss nachgeholt werden.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie wirklich kein Verschulden trifft
 
@@ -49,7 +49,7 @@ Anerkannt als unverschuldet:
 - **Schwere Krankheit** mit Krankenhaus / Bettlaegerigkeit (Attest noetig)
 - **Naturereignisse** (Hochwasser, Sturm)
 - **Postfehler** (Brief nicht zugestellt; schwer beweisbar)
-- **Falsche Auskunft der Behoerde** (z.B. falsche Rechtsbehelfsbelehrung)
+- **Falsche Auskunft der Behörde** (z.B. falsche Rechtsbehelfsbelehrung)
 - **Sprachprobleme** mit Hindernis (z.B. kein Brief in der Muttersprache, obwohl klar war, dass nur diese verstanden wird) — vorsichtig, eher selten
 - **Tod naher Angehoeriger** und damit verbundene Belastung
 
@@ -62,12 +62,12 @@ Nicht anerkannt:
 
 ### Schritt 2 — Frist beachten: 2 Wochen ab Hindernisende
 
-Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit fuer den Antrag. Und gleichzeitig muessen Sie die versaeumte Handlung (also Widerspruch oder Klage) nachholen.
+Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit für den Antrag. Und gleichzeitig muessen Sie die versaeumte Handlung (also Widerspruch oder Klage) nachholen.
 
 ### Schritt 3 — Antrag schreiben
 
 ```
-[Behoerde / SG] [Ort, Datum]
+[Behörde / SG] [Ort, Datum]
 
 Az: [aus dem Bescheid]
 
@@ -127,7 +127,7 @@ Mir ist bekannt, dass eine falsche eidesstattliche Versicherung nach § 156 StGB
 
 ### Schritt 6 — Geduldig warten
 
-Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, koennen Sie dagegen vorgehen.
+Die Behörde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, koennen Sie dagegen vorgehen.
 
 ## Worauf Sie besonders achten muessen
 
@@ -141,7 +141,7 @@ Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 - "Vergessen" als Grund → reicht nicht
 - 2-Wochen-Frist verpasst → Wiedereinsetzung selbst ist verspaetet
 - Antrag ohne Nachholung des Widerspruchs → erfolglos
-- Kein Beleg fuer den Grund → schwer beweisbar
+- Kein Beleg für den Grund → schwer beweisbar
 
 ## Querverweise
 
@@ -149,12 +149,11 @@ Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 - `widerspruchsfrist-84-sgg` — die Widerspruchsfrist selbst
 - `fristen-berechnen-sgg-laien` — alle Fristen
 - `widerspruchsbescheid-was-jetzt` — wenn Widerspruchsfrist gerade noch geht
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — fuer komplexe Wiedereinsetzungs-Faelle
+- `wann-doch-anwalt-grenzfaelle-sozialgericht` — für komplexe Wiedereinsetzungs-Faelle
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wichtigen Faellen lassen Sie sich bei VdK / SoVD beraten.
-
 
 ## Qualitäts-Hardening
 

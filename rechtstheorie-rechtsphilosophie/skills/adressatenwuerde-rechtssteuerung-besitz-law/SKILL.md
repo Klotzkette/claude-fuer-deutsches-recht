@@ -7,23 +7,40 @@ description: "Adressatenwuerde Rechtssteuerung Besitz LAW im Rechtstheorie und R
 
 ## Arbeitsbereich
 
-**Adressatenwuerde Rechtssteuerung Besitz LAW** ordnet den Fall über die tragenden Prüffelder: Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Adressatenwuerde Rechtssteuerung Besitz LAW** ordnet den Fall über die tragenden Prüfungslinien: Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `adressatenwuerde-und-rechtssteuerung` | Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden. |
 | `besitz-law-and-economics-transaktionskosten` | Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus. |
 | `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen. |
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im Rechtstheorie und Rechtsphilosophie klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `adressatenwuerde-und-rechtssteuerung`
 
@@ -39,17 +56,14 @@ description: "Adressatenwuerde Rechtssteuerung Besitz LAW im Rechtstheorie und R
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Adressatenwürde und Rechtssteuerung
-- **Spezialgegenstand:** Adressatenwürde und Rechtssteuerung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
+Anwendungsfall: ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
 
 ## Leitfrage
 
@@ -96,13 +110,10 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Besitz und Law & Economics: Transaktionskosten
-- **Spezialgegenstand:** Besitz und Law & Economics: Transaktionskosten; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -167,13 +178,10 @@ Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Besitz, Rechtsrealismus und praktische Bedürfnisse
-- **Spezialgegenstand:** Besitz, Rechtsrealismus und praktische Bedürfnisse; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -219,3 +227,17 @@ Gib ein rechtsrealistisches Besitzmemo aus:
 5. handhabbare Entscheidungsregel;
 6. dogmatischer Anschluss;
 7. Ergebnis mit stärkstem Gegenargument.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 StGB
+- Art. 47 GRCh
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

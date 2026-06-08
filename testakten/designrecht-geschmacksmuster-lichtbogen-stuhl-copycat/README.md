@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 157 KB) | PDF | [`gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf`](gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 166 KB) | PDF | [`gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf`](gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -32,5 +32,6 @@ Gesamt-PDF: [`gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_g
 | `06-register-und-prioritaetscheck.md` | Register- und Prioritätsnotiz mit Varianten |
 | `07-bildanlage-stuhlvergleich.jpg` | Bildanlage mit drei schematischen Produktansichten |
 | `08-budget-und-fristen.xlsx` | Fristen, Kostenannahmen, Entscheidungsoptionen |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `designrecht-geschmacksmusterrecht`, `markenrecht-fashion-luxus`, `gewerblicher-rechtsschutz`

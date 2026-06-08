@@ -1,35 +1,21 @@
 ---
 name: produkthaftung-grundlagen-produktsicherheit
-description: "Produkthaftung Grundlagen Produktsicherheit im Plugin Produktrecht: prüft konkret Grundlagen Produkthaftung, Korrigiert und prüft die Produktsicherheitsroute nach, Prüft, wie Reparaturen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853 im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Produkthaftung Grundlagen Produktsicherheit
+# Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
 
 ## Arbeitsbereich
 
-**Produkthaftung Grundlagen Produktsicherheit** ordnet den Fall über die tragenden Prüffelder: Grundlagen Produkthaftung, Korrigiert und prüft die Produktsicherheitsroute nach, Prüft. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `produkthaftung-grundlagen` | Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. |
-| `produkthaftung-produktsicherheit-gpsr-korrektur` | Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung. |
-| `produkthaftung-reparatur-update-und-lifecycle` | Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates. |
+Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Produktrecht und Produktsicherheit klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `produkthaftung-grundlagen`
-
-**Fokus:** Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853.
-
-# Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
 
 ## Aufgabe
 
@@ -70,87 +56,3 @@ EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verw
 3. Anspruchsgegner: Hersteller, Quasi-Hersteller, Importeur, Händler, Software-/Komponentenhersteller, Fulfilment/Marktplatz je nach Rechtsstand.
 4. Beweis: Produkt, Fehler, Schaden, Kausalität, Entlastung, Beweiserleichterungen nach kommendem EU-Recht.
 5. Maßnahmen: Rückruf, Warnung, Reparaturprogramm, Update, Ersatzteilversorgung, Versicherer- und Behördenkommunikation.
-
-## 2. `produkthaftung-produktsicherheit-gpsr-korrektur`
-
-**Fokus:** Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung.
-
-# Produktsicherheit GPSR richtig routen
-
-## Aufgabe
-
-Schwerpunkt: GPSR ist nicht BatterieVO. Produktsicherheit als präventive Behörden- und Rückrufspur von Schadensersatz/Produkthaftung trennen.
-
-## Sofort klären
-
-1. Welches Produkt: körperliche Ware, Maschine, IoT-Gerät, Software, App, digitales Fertigungsfile, Ersatzteil, refurbished/remanufactured Produkt oder Kombination?
-2. Welche Rolle: Hersteller, Importeur, Händler, Fulfilment-Dienstleister, Online-Marktplatz, Repairer, unabhängige Werkstatt, Softwareanbieter, Nutzer oder Geschädigter?
-3. Welche Spur: Produktsicherheit/Marktüberwachung, vertragliche Gewährleistung, ProdHaftG/Produzentenhaftung, Rückruf, Versicherung, Strafrecht, Right-to-Repair oder neues EU-Produkthaftungsrecht?
-4. Welche Zeit: Inverkehrbringen vor oder nach 13.12.2024 GPSR, Rechtsstand der nationalen Right-to-Repair-Umsetzung, Produkt nach dem 09.12.2026 für die neue Produkthaftungsrichtlinie?
-5. Welche Belege: technische Dokumentation, Risikoanalyse, CE, Gebrauchsanleitung, Update-Policy, Reparaturmanual, Ersatzteilliste, Feldbeobachtung, Incident-Tickets, Rückrufplan?
-
-## Rechtsanker
-
-- Geltendes deutsches Recht: ProdHaftG, § 823 BGB, Produktsicherheitsrecht, Marktüberwachungsrecht, vertragliche Gewährleistung nach BGB.
-- GPSR: Verordnung (EU) 2023/988 gilt seit 13.12.2024 für allgemeine Produktsicherheit.
-- Right to Repair: Richtlinie (EU) 2024/1799, Umsetzungsstand live prüfen; sie ändert u. a. die Warenkaufrichtlinie (EU) 2019/771 und setzt auf Reparaturförderung, Reparaturinformationen/Formular/Plattform und Grenzen sachwidriger Reparaturhindernisse.
-- Neue Produkthaftung: Richtlinie (EU) 2024/2853, Umsetzung bis 09.12.2026; erfasst u. a. Software, digitale Fertigungsdateien und relevante digitale Dienste als Teil des Produkts.
-- Cyber-/Digital-Schnittstellen je nach Produkt zusätzlich CRA, KI-VO, Maschinenverordnung, Data Act, BatterieVO und sektorspezifische Regeln live prüfen.
-
-## Arbeitsprogramm
-
-1. **Nicht alles Produkthaftung nennen.** Produktsicherheit/Behördenpflichten, zivilrechtliche verschuldensunabhängige Produkthaftung, deliktische Produzentenhaftung, vertragliche Gewährleistung und Reparaturrecht trennen.
-2. **Lebenszyklus denken.** Design, Herstellung, digitale Komponenten, Updates, Ersatzteile, Reparatur, Refurbishment, Rückruf, End-of-Support und Entsorgung erfassen.
-3. **Repair-by-design prüfen.** Hardware- und Software-Techniken, Teilekopplung, Pairing, Diagnosezugang, Ersatzteile, Manuals und IP-/Security-Rechtfertigungen bewerten.
-4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
-5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
-
-## Quellenhygiene
-
-EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
-
-## Anschluss-Skills
-
-Nach der Erstprüfung je nach Schwerpunkt `produkthaftung-grundlagen`, `produktbeobachtung-software-ota`, `produktbeobachtung-feldueberwachung`, `prodr-produktrueckruf-leitfaden`, `rueckruf-strategie-konzern`, `marktueberwachung-kommunikation`, `prodr-gpsr-cra-fitness-spezial` oder `ki-act-produktintegration` ziehen.
-
-## 3. `produkthaftung-reparatur-update-und-lifecycle`
-
-**Fokus:** Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates.
-
-# Produkthaftung: Reparatur, Update und Lifecycle
-
-## Aufgabe
-
-Schwerpunkt: Defekt kann im Lifecycle entstehen oder fortwirken. Produktbeobachtung, Updatepflicht und Reparaturdaten in Rückruf-/Haftungsanalyse integrieren.
-
-## Sofort klären
-
-1. Welches Produkt: körperliche Ware, Maschine, IoT-Gerät, Software, App, digitales Fertigungsfile, Ersatzteil, refurbished/remanufactured Produkt oder Kombination?
-2. Welche Rolle: Hersteller, Importeur, Händler, Fulfilment-Dienstleister, Online-Marktplatz, Repairer, unabhängige Werkstatt, Softwareanbieter, Nutzer oder Geschädigter?
-3. Welche Spur: Produktsicherheit/Marktüberwachung, vertragliche Gewährleistung, ProdHaftG/Produzentenhaftung, Rückruf, Versicherung, Strafrecht, Right-to-Repair oder neues EU-Produkthaftungsrecht?
-4. Welche Zeit: Inverkehrbringen vor oder nach 13.12.2024 GPSR, Rechtsstand der nationalen Right-to-Repair-Umsetzung, Produkt nach dem 09.12.2026 für die neue Produkthaftungsrichtlinie?
-5. Welche Belege: technische Dokumentation, Risikoanalyse, CE, Gebrauchsanleitung, Update-Policy, Reparaturmanual, Ersatzteilliste, Feldbeobachtung, Incident-Tickets, Rückrufplan?
-
-## Rechtsanker
-
-- Geltendes deutsches Recht: ProdHaftG, § 823 BGB, Produktsicherheitsrecht, Marktüberwachungsrecht, vertragliche Gewährleistung nach BGB.
-- GPSR: Verordnung (EU) 2023/988 gilt seit 13.12.2024 für allgemeine Produktsicherheit.
-- Right to Repair: Richtlinie (EU) 2024/1799, Umsetzungsstand live prüfen; sie ändert u. a. die Warenkaufrichtlinie (EU) 2019/771 und setzt auf Reparaturförderung, Reparaturinformationen/Formular/Plattform und Grenzen sachwidriger Reparaturhindernisse.
-- Neue Produkthaftung: Richtlinie (EU) 2024/2853, Umsetzung bis 09.12.2026; erfasst u. a. Software, digitale Fertigungsdateien und relevante digitale Dienste als Teil des Produkts.
-- Cyber-/Digital-Schnittstellen je nach Produkt zusätzlich CRA, KI-VO, Maschinenverordnung, Data Act, BatterieVO und sektorspezifische Regeln live prüfen.
-
-## Arbeitsprogramm
-
-1. **Nicht alles Produkthaftung nennen.** Produktsicherheit/Behördenpflichten, zivilrechtliche verschuldensunabhängige Produkthaftung, deliktische Produzentenhaftung, vertragliche Gewährleistung und Reparaturrecht trennen.
-2. **Lebenszyklus denken.** Design, Herstellung, digitale Komponenten, Updates, Ersatzteile, Reparatur, Refurbishment, Rückruf, End-of-Support und Entsorgung erfassen.
-3. **Repair-by-design prüfen.** Hardware- und Software-Techniken, Teilekopplung, Pairing, Diagnosezugang, Ersatzteile, Manuals und IP-/Security-Rechtfertigungen bewerten.
-4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
-5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
-
-## Quellenhygiene
-
-EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
-
-## Anschluss-Skills
-
-Nach der Erstprüfung je nach Schwerpunkt `produkthaftung-grundlagen`, `produktbeobachtung-software-ota`, `produktbeobachtung-feldueberwachung`, `prodr-produktrueckruf-leitfaden`, `rueckruf-strategie-konzern`, `marktueberwachung-kommunikation`, `prodr-gpsr-cra-fitness-spezial` oder `ki-act-produktintegration` ziehen.

@@ -6,15 +6,12 @@ description: "Plädoyer: Beweiswürdigung und Strafmaß sauber bauen: Praxis-Ski
 # Plädoyer: Beweiswürdigung und Strafmaß sauber bauen
 
 ## Fachkern: Plädoyer: Beweiswürdigung und Strafmaß sauber bauen
-- **Spezialgegenstand:** Plädoyer: Beweiswürdigung und Strafmaß sauber bauen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Plädoyer: Beweiswürdigung und Strafmaß sauber bauen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Tatnachweis, Zweifel, Strafzumessung, Nebenfolgen und faire Sprache
 
@@ -40,6 +37,17 @@ Dieser Abschnitt bearbeitet **Fachkern: Plädoyer: Beweiswürdigung und Strafma�
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 258 StPO (Schlussvorträge)
+- Nr. 138 RiStBV (Antrag der StA)
+- BGHSt 26, 80
+- §§ 226 ff. StPO (Hauptverhandlung)
+- § 176 GVG (Sitzungspolizei)
+- Nr. 126-138 RiStBV
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

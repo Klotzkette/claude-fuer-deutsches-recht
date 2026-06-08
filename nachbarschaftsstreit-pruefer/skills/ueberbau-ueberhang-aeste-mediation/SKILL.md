@@ -1,35 +1,21 @@
 ---
 name: ueberbau-ueberhang-aeste-mediation
-description: "Ueberbau Ueberhang Aeste Mediation im Nachbarschaftsstreit: prüft konkret Überbau nach §§ 912-916 BGB prüfen, Überhängende Äste, eindringende Wurzeln, Laub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil über Grenze, Vorsatz/grobe Fahrlässigkeit, Widerspruch, Duldungspflicht, Beseitigung, Überbaurente, Abkauf, Beweise und Schreiben im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Ueberbau Ueberhang Aeste Mediation
+# Überbau-Prüfung
 
 ## Arbeitsbereich
 
-**Ueberbau Ueberhang Aeste Mediation** ordnet den Fall über die tragenden Prüffelder: Überbau nach §§ 912-916 BGB prüfen, Überhängende Äste, eindringende Wurzeln. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ueberbau-pruefung` | Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil über Grenze, Vorsatz/grobe Fahrlässigkeit, Widerspruch, Duldungspflicht, Beseitigung, Überbaurente, Abkauf, Beweise und Schreiben. |
-| `ueberhang-aeste-wurzeln` | Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Verschattung prüfen: § 910 BGB, Beeinträchtigung, Fristsetzung, Selbsthilfe, Beseitigungsanspruch, Baumschutzsatzung, Naturschutz und Landesnachbarrecht. |
-| `vergleich-mediation-nachbarschaftsfrieden` | Vergleich und Befriedung im Nachbarschaftsstreit entwerfen: Rückschnittplan, Bau-/Grenzregelung, Kostenquote, Betretensrechte, Lärmzeiten, Pflegepflichten, Vertragsstrafe, Dokumentation und Vollzug. |
+Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil über Grenze, Vorsatz/grobe Fahrlässigkeit, Widerspruch, Duldungspflicht, Beseitigung, Überbaurente, Abkauf, Beweise und Schreiben. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Nachbarschaftsstreit klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BGB § 906 Abs. 2 S. 2 nachbarrechtlicher Ausgleichsanspruch § 195 BGB 3 Jahre, NachbG-Anzeigefristen variieren (z. B. NRW § 7 Grenzwand 6 Wochen), § 15a EGZPO Schlichtung obligatorisch.
 - Tragende Normen verifizieren: BGB §§ 903, 906, 1004, 910, 912, 917, 921, 922, NachbG (Landesnachbarrechtsgesetze), BImSchG, BauO Land, BNatSchG (Bäume), Schlichtungsgesetze der Länder (z. B. § 15a EGZPO BW) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schlichtungsantrag, Klage AG, Lichtbilder, Lärm-/Geruchsprotokoll, Sachverständigengutachten, Anwaltsschreiben, Vermessungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `ueberbau-pruefung`
-
-**Fokus:** Überbau nach §§ 912-916 BGB prüfen: Gebäude oder Gebäudeteil über Grenze, Vorsatz/grobe Fahrlässigkeit, Widerspruch, Duldungspflicht, Beseitigung, Überbaurente, Abkauf, Beweise und Schreiben.
-
-# Überbau-Prüfung
 
 ## Zweck
 
@@ -66,125 +52,6 @@ Dieser Skill prüft, ob ein Baukörper über die Grenze ragt und welche Rechtsfo
 - Baugenehmigung ersetzt nicht privatrechtliche Berechtigung.
 - "Schon lange so" heißt nicht automatisch rechtmäßig; Verjährung/Duldung getrennt prüfen.
 - Grenzüberragende Äste sind kein Überbau.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `ueberhang-aeste-wurzeln`
-
-**Fokus:** Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Verschattung prüfen: § 910 BGB, Beeinträchtigung, Fristsetzung, Selbsthilfe, Beseitigungsanspruch, Baumschutzsatzung, Naturschutz und Landesnachbarrecht.
-
-# Überhang, Äste und Wurzeln
-
-## Zweck
-
-Dieser Skill führt durch die Prüfung von herüberragenden Zweigen und eindringenden Wurzeln. Er schützt vor zwei klassischen Fehlern: zu früh selbst schneiden und zu spät Rechte sichern.
-
-## Prüfschema § 910 BGB
-
-1. Wurzeln oder Zweige stammen vom Nachbargrundstück.
-2. Sie ragen ein oder dringen ein.
-3. Sie beeinträchtigen die Grundstücksbenutzung.
-4. Bei Zweigen: angemessene Frist zur Beseitigung gesetzt.
-5. Frist erfolglos abgelaufen.
-6. Keine Sperre durch Naturschutz, Baumschutzsatzung, Gefahr, Eigentum Dritter oder Verhältnismäßigkeit.
-
-## Beeinträchtigung
-
-Dokumentiere konkret:
-
-- Dachrinne verstopft, Dach beschädigt, Fassade feucht.
-- Gartenfläche nicht nutzbar, Weg unpassierbar.
-- Wurzeln heben Pflaster, beschädigen Leitungen, Mauern oder Drainage.
-- Erhebliche Verschattung nur mit Tatsachen und Landesrecht prüfen.
-
-## Fristsetzung
-
-Ein Schreiben soll enthalten:
-
-- konkrete Pflanze,
-- betroffene Grenze,
-- genaue Beeinträchtigung,
-- Aufforderung zum Rückschnitt/Beseitigung,
-- angemessene Frist,
-- Ankündigung von Selbsthilfe oder gerichtlichen Schritten,
-- Hinweis auf Baumschutz/Naturschutzprüfung.
-
-## Output
-
-- Rückschnittvermerk.
-- Fristsetzungsschreiben.
-- Selbsthilfe-Risikoampel.
-- Fotoplan und Beweisliste.
-
-## Warnung
-
-Selbsthilfe ist kein Freibrief. Unzulässiger Rückschnitt kann Schadensersatz, Besitzschutz, Naturschutz- oder Baumschutzprobleme auslösen.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `vergleich-mediation-nachbarschaftsfrieden`
-
-**Fokus:** Vergleich und Befriedung im Nachbarschaftsstreit entwerfen: Rückschnittplan, Bau-/Grenzregelung, Kostenquote, Betretensrechte, Lärmzeiten, Pflegepflichten, Vertragsstrafe, Dokumentation und Vollzug.
-
-# Vergleich, Mediation und Nachbarschaftsfrieden
-
-## Zweck
-
-Dieser Skill baut Lösungen, die nicht nur juristisch, sondern alltagstauglich sind. Nachbarn bleiben meistens Nachbarn.
-
-## Vergleichsbausteine
-
-- genaue Grundstücke und Grenze,
-- Rückschnitt/Beseitigung/Sicherung,
-- Kostenquote,
-- Termine,
-- Zutrittsregelung,
-- Schutzmaßnahmen,
-- künftige Kommunikation,
-- Dokumentation,
-- Vertragsstrafe nur maßvoll,
-- Erledigung und keine Präjudizwirkung, wenn gewünscht.
-
-## Output
-
-- Vergleichsentwurf.
-- Gesprächsleitfaden.
-- rote Linien.
-- Vollzugsplan mit Datum, Verantwortlichen und Nachweisen.
-
-## Deeskalationsregel
-
-Frieden heißt nicht Nachgeben ohne Akte. Erst Rechte kennen, dann verhandeln.
-
-## Schneller Arbeitsmodus
-
-- Frage zuerst nach Bundesland, Grundstuecksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation.
-- Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich.
-- Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverstaendig geklaert werden muss.
-- Priorisiere befriedende Loesungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
-
-## Ausgabeformat
-
-- Streitstrang mit Anspruchsrichtung.
-- Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
-- Deeskalierender naechster Schritt.
-- Gerichtlicher naechster Schritt, falls Vergleich scheitert.
-
 
 ## Qualitäts-Hardening
 

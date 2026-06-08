@@ -94,7 +94,7 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 
 ## Ausgabeformat
 
-Der Skill kann zweifach eingesetzt werden. Erstens als Nachschlagewerk: Eingabe eines Adverbs liefert Notenwirkung und Kategorie (Maximalsteigerer, Standardsteigerer, Scheinsteigerer, Abschwaecher, Negativsteigerer, Frequenzadverb). Zweitens als Analysator: Eingabe eines vollstaendigen Zeugnistexts liefert eine Tabelle mit allen erkannten Adverbien, ihren Positionen, ihren Notenwirkungen und besonderen Auslassungen. Die Ausgabe ist Eingangsbasis fuer satzweise-notenmatrix und bereichs-drift-detektor.
+Der Skill kann zweifach eingesetzt werden. Erstens als Nachschlagewerk: Eingabe eines Adverbs liefert Notenwirkung und Kategorie (Maximalsteigerer, Standardsteigerer, Scheinsteigerer, Abschwaecher, Negativsteigerer, Frequenzadverb). Zweitens als Analysator: Eingabe eines vollstaendigen Zeugnistexts liefert eine Tabelle mit allen erkannten Adverbien, ihren Positionen, ihren Notenwirkungen und besonderen Auslassungen. Die Ausgabe ist Eingangsbasis für satzweise-notenmatrix und bereichs-drift-detektor.
 
 ## Rechtliche Einordnung und Normen
 

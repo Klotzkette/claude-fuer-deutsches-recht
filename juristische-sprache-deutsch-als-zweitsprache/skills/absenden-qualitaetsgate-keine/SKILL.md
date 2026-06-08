@@ -1,34 +1,21 @@
 ---
 name: absenden-qualitaetsgate-keine
-description: "Absenden Qualitaetsgate Keine im Bereich Juristische Sprache (DaZ): prüft konkret Hilft bei Pruefung Vor Absenden fuer Menschen mit Deutsch, Hilft bei Qualitaetsgate Keine Herablassung fuer Menschen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hilft bei Pruefung Vor Absenden für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Absenden Qualitaetsgate Keine
+# Pruefung Vor Absenden
 
 ## Arbeitsbereich
 
-**Absenden Qualitaetsgate Keine** ordnet den Fall über die tragenden Prüffelder: Hilft bei Pruefung Vor Absenden fuer Menschen mit Deutsch, Hilft bei Qualitaetsgate Keine Herablassung fuer Menschen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `pruefung-vor-absenden` | Hilft bei Pruefung Vor Absenden fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
-| `qualitaetsgate-keine-herablassung` | Hilft bei Qualitaetsgate Keine Herablassung fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
+Hilft bei Pruefung Vor Absenden für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Juristische Sprache — Deutsch als Zweitsprache klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
 - Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `pruefung-vor-absenden`
-
-**Fokus:** Hilft bei Pruefung Vor Absenden fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
-
-# Pruefung Vor Absenden
 
 ## Zweck
 
@@ -37,15 +24,15 @@ Dieser Skill unterstuetzt bei **Pruefung Vor Absenden**, wenn deutsche Alltagssp
 ## Start
 
 - Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
 - Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Arbeitsweise
 
 1. Schwierige Woerter markieren und kurz erklaeren.
 2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Rücknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
 4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
 5. Bei Unsicherheit genau eine Rueckfrage stellen.
 
@@ -70,7 +57,6 @@ Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterw
 
 Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -79,57 +65,26 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `qualitaetsgate-keine-herablassung`
+## Normen und Rechtsprechung
 
-**Fokus:** Hilft bei Qualitaetsgate Keine Herablassung fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
+### Kuratierte Normen-Bibliothek
 
-# Qualitaetsgate Keine Herablassung
+- § 185 GVG
+- § 4 KSchG
+- § 70 VwG
+- § 74 VwG
+- § 55 OWiG
+- § 59 StGB
+- § 187 GVG
+- § 84 SGG
+- § 87 SGG
+- § 183 SGG
+- § 86b SGG
+- § 159 FamFG
 
-## Zweck
+### Leitentscheidungen
 
-Dieser Skill unterstuetzt bei **Qualitaetsgate Keine Herablassung**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Start
-
-- Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
-
-## Arbeitsweise
-
-1. Schwierige Woerter markieren und kurz erklaeren.
-2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
-4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
-5. Bei Unsicherheit genau eine Rueckfrage stellen.
-
-## Ausgabe
-
-**Einfach erklaert**
-- Das bedeutet der Text.
-- Das ist wichtig.
-- Das kann passieren.
-
-**Formale Fassung**
-Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterwuerfigkeit, keine ungewollten Zugestaendnisse.
-
-**Check vor Absenden**
-- Aktenzeichen richtig?
-- Datum und Frist richtig?
-- Anlagen genannt?
-- Keine falsche Zustimmung?
-- Sprache klar und respektvoll?
-
-## Qualitaetsgate
-
-Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

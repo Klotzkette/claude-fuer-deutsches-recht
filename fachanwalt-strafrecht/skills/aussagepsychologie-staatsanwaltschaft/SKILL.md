@@ -7,40 +7,40 @@ description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Aussagepsychologie Staatsanwaltschaft** ordnet den Fall über die tragenden Prüffelder: Verteidigerwerkzeug, Vernehmungsmethodik, Aussetzung nach § 221 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Aussagepsychologie Staatsanwaltschaft** ordnet den Fall über die tragenden Prüfungslinien: Verteidigerwerkzeug, Vernehmungsmethodik, Aussetzung nach § 221 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` | Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen. |
-| `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis` | Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug fuer Vernehmungsanalyse. |
+| `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` | Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata für Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen. |
+| `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis` | Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug für Vernehmungsanalyse. |
 | `strafrecht-spezial-aussetzung-221-stgb` | Aussetzung nach § 221 StGB. Konkretes Gefaehrdungsdelikt. Versetzen in hilflose Lage oder Imstichlassen bei Obhuts- oder Beistandspflicht. Gefahr des Todes oder einer schweren Gesundheitsschaedigung. Qualifikationen Abs. 2 und Erfolgsqualifikation Tod Abs. 3. |
 | `strafrecht-spezial-bandenbetrug-263-stgb` | Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Pruefraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo. |
 | `strafrecht-spezial-bankrott-283-stgb` | Bankrott nach Paragraph 283 StGB. Tatbestandsalternativen Beiseiteschaffen Verheimlichen Zerstoeren Verkuerzung. Krise und Insolvenzreife als objektive Strafbarkeitsbedingung. Vorsatz und Fahrlaessigkeitsvarianten Absatz 4 und 5. Faktische Geschaeftsfuehrer Paragraph 14 StGB. Verteidigungsstrategien in Insolvenzverfahren und Strafverfahren. |
 | `strafrecht-spezial-bankrott-strafzumessung-und-einziehung` | Strafzumessung bei Bankrott und Insolvenzdelikten. Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre Paragraph 6 GmbHG. Bewaehrung bei Insolvenzstraftaten. Wiedergutmachung Paragraph 46a StGB. |
-| `strafrecht-spezial-bedrohung-241-stgb` | Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persoenliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre. |
+| `strafrecht-spezial-bedrohung-241-stgb` | Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persönliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre. |
 | `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb` | Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB. Regelbeispiele Gewerbsmaessigkeit und Inkaufnahme wirtschaftlicher Not vieler Glaeubiger. Strafrahmen 6 Monate bis 10 Jahre. Verteidigung gegen die Regelbeispielsindikation. Abgrenzung zu Paragraph 283 StGB Grundtatbestand. Praxisrelevanz in Wirtschaftsstrafverfahren. |
-| `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb` | Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo fuer Bauunternehmen Pharma Healthcare Einkaufsabteilungen. |
+| `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb` | Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo für Bauunternehmen Pharma Healthcare Einkaufsabteilungen. |
 | `strafrecht-spezial-betrug-263-stgb-besonders-schwer` | Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen ueber Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust grosser Ausmasses oder grosse Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 
-**Fokus:** Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen.
+**Fokus:** Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata für Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen.
 
 # Replik gegen staatsanwaltliche Aussagebewertung
 
 ## Worum geht es
 
-Staatsanwaltschaften argumentieren in Aussage-gegen-Aussage-Verfahren regelmaessig mit einer Reihe wiederkehrender Formeln, die fuer Tatrichter und Schoeffen intuitiv ueberzeugend sind, aber methodisch nicht tragen. Wer als Verteidigerin oder Verteidiger gegen diese Formeln vorgehen will, braucht praezise Replik-Schemata, die auf der aussagepsychologischen Methodik aufbauen und sowohl im Schlussplaedoyer als auch in Hilfsbeweisantraegen, Revisionsruegen und schriftlichen Stellungnahmen funktionieren.
+Staatsanwaltschaften argumentieren in Aussage-gegen-Aussage-Verfahren regelmaessig mit einer Reihe wiederkehrender Formeln, die für Tatrichter und Schoeffen intuitiv ueberzeugend sind, aber methodisch nicht tragen. Wer als Verteidigerin oder Verteidiger gegen diese Formeln vorgehen will, braucht praezise Replik-Schemata, die auf der aussagepsychologischen Methodik aufbauen und sowohl im Schlussplaedoyer als auch in Hilfsbeweisantraegen, Revisionsruegen und schriftlichen Stellungnahmen funktionieren.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die haeufigsten StA-Argumente und die jeweils passende methodische Replik.
 
@@ -63,7 +63,7 @@ Replik: Inkonstanzen koennen traumatypisch sein, koennen aber auch Anzeichen rek
 **StA: "Die Zeugin hat kein Motiv zur Falschbeschuldigung."**
 Replik: Falschaussage erfordert nicht zwingend ein bewusstes Motiv. Suggestion und Falscherinnerung entstehen ohne instrumentelles Motiv. Eine subjektiv ueberzeugte und ehrliche Zeugin kann eine objektiv falsche Aussage machen. Motiv-Argumente adressieren die Luegen-, nicht die Suggestionshypothese.
 
-**StA: "Die Zeugin hat sich erst Jahre spaeter offenbart, was fuer Trauma spricht."**
+**StA: "Die Zeugin hat sich erst Jahre spaeter offenbart, was für Trauma spricht."**
 Replik: Lange Latenz kann auch das Suggestionsrisiko erhoehen (mehr Gelegenheit zur Kontamination, mehr therapeutische Aufdeckung, mehr soziale Konstruktion). Latenz allein indiziert weder Erlebnis noch Falschaussage.
 
 **StA: "Der Angeklagte hat in der Vernehmung ausweichend reagiert."**
@@ -73,7 +73,7 @@ Replik: Ausweichendes Verhalten in einer Vernehmungssituation ist eine erwartbar
 Replik: Gelegenheit ist Indiz, nicht Beweis. In Aussage-gegen-Aussage-Konstellationen muss die Aussage selbst die Verurteilung tragen. Eine Verurteilung allein auf Gelegenheits-Indiz und Aussage einer Belastungszeugin ohne objektive Stuetzmomente ist nicht hinreichend.
 
 **StA: "Die Zeugin hat eine glaubwuerdige Therapeutin, die das bestaetigt."**
-Replik: Eine behandelnde Therapeutin ist nicht aussagepsychologisch neutral. Sie ist parteiisch in der therapeutischen Allianz und qualifiziert sich nicht als Sachverstaendige fuer Glaubhaftigkeit. Ihre Aussage hat den Wert einer Zeugenaussage, nicht eines Gutachtens.
+Replik: Eine behandelnde Therapeutin ist nicht aussagepsychologisch neutral. Sie ist parteiisch in der therapeutischen Allianz und qualifiziert sich nicht als Sachverstaendige für Glaubhaftigkeit. Ihre Aussage hat den Wert einer Zeugenaussage, nicht eines Gutachtens.
 
 **StA: "Das Aussage-Detail X kann sie nicht erfunden haben."**
 Replik: Was eine durchschnittlich erfindende Person erfinden kann, ist empirisch nicht aus dem Einzelfall ableitbar. Was die Zeugin nicht aus eigener Erfahrung haben kann, kann sie durch Medien, Erzaehlungen, Recherche, therapeutische Imagination haben. Die Annahme von Spezialwissen muss konkret begruendet werden.
@@ -85,7 +85,7 @@ Replik: Was eine durchschnittlich erfindende Person erfinden kann, ist empirisch
 - **Schoeffen mitnehmen.** Methodik so erklaeren, dass auch Schoeffen sie verstehen. Klare Sprache, plausible Beispiele.
 - **Begriffsdisziplin durchhalten.** Konsequent Glaubhaftigkeit der Aussage, nicht Glaubwuerdigkeit der Person.
 - **Empoerung vermeiden.** Methodische Replik wirkt am staerksten, wenn die Zeugin nicht angegriffen wird. Die Verteidigung greift die Methodik der StA an, nicht die Person der Zeugin.
-- **Hilfsbeweisantrag SV-Gutachten als Reserveoption.** Wenn die Schoeffen oder das Gericht die methodische Argumentation nicht annehmen, ist der Hilfsbeweisantrag der prozessuale Ankerpunkt fuer die Revision.
+- **Hilfsbeweisantrag SV-Gutachten als Reserveoption.** Wenn die Schoeffen oder das Gericht die methodische Argumentation nicht annehmen, ist der Hilfsbeweisantrag der prozessuale Ankerpunkt für die Revision.
 
 ## Trade-off-Matrix
 
@@ -98,14 +98,14 @@ Replik: Was eine durchschnittlich erfindende Person erfinden kann, ist empirisch
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argumente paraphrasieren, dann Schritt fuer Schritt die methodische Replik geben. So vermeiden Sie den Eindruck der Pauschalkritik. "Die Anklage stuetzt die Verurteilung auf vier Saeulen: Glaubwuerdigkeit der Zeugin, Detailreichtum, Konstanz, Trauma-Befunde. Ich darf zu jeder dieser vier Saeulen methodisch Stellung nehmen."
+Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argumente paraphrasieren, dann Schritt für Schritt die methodische Replik geben. So vermeiden Sie den Eindruck der Pauschalkritik. "Die Anklage stuetzt die Verurteilung auf vier Saeulen: Glaubwuerdigkeit der Zeugin, Detailreichtum, Konstanz, Trauma-Befunde. Ich darf zu jeder dieser vier Saeulen methodisch Stellung nehmen."
 
 ## Mustertexte
 
-**Mustersatz fuer Plaedoyer-Einleitung:**
+**Mustersatz für Plaedoyer-Einleitung:**
 "Die Anklageschrift fuehrt aus, die Zeugin habe glaubwuerdig ausgesagt, ihre Aussage sei detailreich, konstant und traumatypisch. Bitte verzeihen Sie, dass ich an dieser Stelle methodisch eingreife: Glaubwuerdigkeit der Person ist nicht das aussagepsychologische Pruefkriterium. Detailreichtum allein ist nicht hinreichend. Konstanz kann auch Skripteffekt sein. Und Trauma-Symptome beweisen den Stressor nicht, sondern nur die Reaktion. Massgeblich ist nach der staendigen Rechtsprechung des BGH (1 StR 618/98) die methodische Pruefung der Aussage nach der Hypothesen-gegen-Hypothesen-Methode."
 
-**Mustersatz fuer Plaedoyer-Schluss:**
+**Mustersatz für Plaedoyer-Schluss:**
 "Die methodische Pruefung der Aussage nach der Rechtsprechung des BGH ergibt: Die Wahrhypothese ist nicht mit hinreichender Sicherheit gestuetzt. Die Suggestionshypothese — aufgrund der dokumentierten Mehrfachvernehmungen, der therapeutischen Aufdeckung, der sozialen Kontextualisierung — bleibt eine ernstzunehmende Alternative. Die Null-Hypothese ist nicht widerlegt. Damit greift in dubio pro reo. Mein Mandant ist freizusprechen."
 
 ## Querverweise
@@ -135,7 +135,7 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 
 ## 2. `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis`
 
-**Fokus:** Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug fuer Vernehmungsanalyse.
+**Fokus:** Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug für Vernehmungsanalyse.
 
 # Vernehmungslehre und Vernehmungsmethodik
 
@@ -143,16 +143,16 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 
 Die Qualitaet einer Aussage haengt massgeblich von der Qualitaet der Vernehmung ab. Eine methodisch saubere Vernehmung erzeugt mehr Information, weniger Verzerrung und besser dokumentierte Aussagen. Eine suggestive, geschlossen-fragende, anklage-orientierte Vernehmung erzeugt unzuverlaessige Aussagen, Falschgestaendnisse und kontaminierte Belastungsaussagen.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Kenntnis der etablierten Vernehmungsmodelle, das Pruefraster fuer Vernehmungsprotokolle und die Replik-Werkzeuge gegen methodisch fehlerhafte Vernehmungen — sowohl bei Belastungs- als auch bei Beschuldigtenvernehmungen.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Kenntnis der etablierten Vernehmungsmodelle, das Pruefraster für Vernehmungsprotokolle und die Replik-Werkzeuge gegen methodisch fehlerhafte Vernehmungen — sowohl bei Belastungs- als auch bei Beschuldigtenvernehmungen.
 
 ## Methodische Grundlagen
 
 **PEACE-Modell (britischer Standard, internationale Verbreitung).**
-Buchstaben fuer fuenf Phasen:
+Buchstaben für fuenf Phasen:
 - Planning and Preparation: Aktenstudium, Lernziele, Vernehmungsplan.
 - Engage and Explain: Kontaktaufbau, Verfahrensaufklaerung, Belehrungen.
 - Account, Clarification, Challenge: freie Erzaehlung, gezielte Klaerung, Konfrontation mit Widerspruechen.
-- Closure: Abschluss, Zusammenfassung, Anhoerung.
+- Closure: Abschluss, Zusammenfassung, Anhörung.
 - Evaluate: Auswertung, Konsequenzen.
 
 Charakteristikum: nicht-konfrontativ, informationsorientiert, dokumentationspflichtig. Methodisch ueberlegen.
@@ -207,7 +207,7 @@ Im Plaedoyer methodisch arbeiten: "Die polizeiliche Vernehmung der Belastungszeu
 **Antrag Beweisverwertungsverbot § 136a StPO:**
 "Es wird geruegt, dass die Aussage des Beschuldigten vom [Datum] unter Verletzung des § 136a StPO zustande gekommen ist. Hierzu wird vorgetragen: [a] Vernehmungsdauer von [X] Stunden ohne Pause, in der Nacht zwischen [Uhrzeit] und [Uhrzeit]. [b] Mehrfacher Hinweis durch die Vernehmungsperson, dass ein Gestaendnis sich strafmildernd auswirken werde (verbotene Versprechung). [c] Vorhalt eines angeblichen Belastungsbeweises (DNA-Treffer), der tatsaechlich nicht existierte (Taeuschung). Die Aussage ist nach § 136a Abs. 3 Satz 2 StPO unverwertbar."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Wer aus methodisch fehlerhafter Vernehmung eine Belastung erzeugt, baut die Beweisbasis auf Sand. Die Vernehmungsmethodik ist Teil der Aussagegenese, und sie ist im Rahmen der Beweiswuerdigung zu beruecksichtigen. Die polizeiliche Vernehmung der Zeugin entspricht nicht den methodischen Mindeststandards. Damit ist die Aussagequalitaet kompromittiert."
 
 ## Querverweise
@@ -294,7 +294,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 - **Hilflosigkeit pruefen:** War das Opfer in der konkreten Lage wirklich hilflos? Bei volljaehrigen, leicht alkoholisierten Personen kann Hilflosigkeit fehlen.
 - **Konkrete Gefahr:** Sachverstaendiger zur tatsaechlichen Gefahrenlage; Pruefung, ob die Gefahr im Rechtssinne konkret war.
 - **Garantenstellung:** Bei Unterlassungsvariante genaue Pruefung. Ohne Garantenstellung scheidet § 221 StGB in der Variante Imstichlassen aus; nur § 323c StGB (unterlassene Hilfeleistung) bleibt.
-- **Subjektive Voraussehbarkeit:** Bei Erfolgsqualifikation Abs. 3 pruefen, ob der Tod fuer den Taeter konkret voraussehbar war.
+- **Subjektive Voraussehbarkeit:** Bei Erfolgsqualifikation Abs. 3 pruefen, ob der Tod für den Taeter konkret voraussehbar war.
 - **Minder schwerer Fall § 221 Abs. 4 StGB:** Bei besonderen Tatumstaenden (Eigenueberforderung, Unbedarftheit, Geststaendnis).
 
 ## Trade-off-Matrix
@@ -361,7 +361,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Bandenbetrug. Praxistypisch bei Enkeltrick-Banden, Schockanrufen mit falschem Polizisten, Cybertrading-Plattformen, organisierten Online-Shop-Faellen, Phishing-Banden, gewerbsmaessigen Versicherungsbetrug-Strukturen. Strafrahmen Freiheitsstrafe ein bis zehn Jahre; minder schwerer Fall sechs Monate bis fuenf Jahre. Qualifikationstatbestand, kein blosses Regelbeispiel.
+Spezial-Mandat: Anklage Bandenbetrug. Praxistypisch bei Enkeltrick-Banden, Schockanrufen mit falschem Polizisten, Cybertrading-Plattformen, organisierten Online-Shop-Faellen, Phishing-Banden, gewerbsmäßigen Versicherungsbetrug-Strukturen. Strafrahmen Freiheitsstrafe ein bis zehn Jahre; minder schwerer Fall sechs Monate bis fuenf Jahre. Qualifikationstatbestand, kein blosses Regelbeispiel.
 
 Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand (§ 263 Abs. 1) — eigene Skills.
 
@@ -400,7 +400,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
 | Schweigen | Keine Belastung Mit-Beschuldigte | Keine Milderung |
-| Volles Gestaendnis plus § 46b StGB Aufklaerungshilfe | Erhebliche Strafmilderung, ggf. Bewaehrung | Gefahr fuer Mandant und Familie durch Bande |
+| Volles Gestaendnis plus § 46b StGB Aufklaerungshilfe | Erhebliche Strafmilderung, ggf. Bewaehrung | Gefahr für Mandant und Familie durch Bande |
 | Bestreiten Bandenabrede, Tatbeitrag-Reduktion auf Beihilfe | Rueckfall auf § 263 Abs. 1 StGB-Rahmen | Beweislage erschwert |
 | Minder schwerer Fall § 263 Abs. 5 Satz 2 StGB anstreben | Hoechstmass auf 5 Jahre, Bewaehrung greifbar | Indizielle Begruendung erforderlich |
 | Verstaendigung § 257c StPO | Planbarkeit | Bindungswirkung |
@@ -427,11 +427,11 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 ### Antrag minder schwerer Fall
 
-"Es wird beantragt, einen minder schweren Fall im Sinne des § 263 Abs. 5 Satz 2 StGB anzunehmen. Hierfuer sprechen: (1) Rolle des Mandanten als bloss ausfuehrend Beteiligter ohne Tatherrschaft (Abholer im Sinne der staendigen BGH-Rechtsprechung), (2) Aussage des Mandanten gemaess § 46b StGB ueber die Hintermaenner [Name], (3) vollstaendige Schadenswiedergutmachung an die Geschaedigten Ziff. 3 und 5 der Anklage, (4) Erstmaligkeit der Verurteilung."
+"Es wird beantragt, einen minder schweren Fall im Sinne des § 263 Abs. 5 Satz 2 StGB anzunehmen. Hierfür sprechen: (1) Rolle des Mandanten als bloss ausfuehrend Beteiligter ohne Tatherrschaft (Abholer im Sinne der staendigen BGH-Rechtsprechung), (2) Aussage des Mandanten gemaess § 46b StGB ueber die Hintermaenner [Name], (3) vollstaendige Schadenswiedergutmachung an die Geschaedigten Ziff. 3 und 5 der Anklage, (4) Erstmaligkeit der Verurteilung."
 
 ### Bestreiten Bandenabrede
 
-"Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto fuer Ueberweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte ueber anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
+"Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto für Ueberweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte ueber anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
 
 ## Querverweise
 
@@ -460,7 +460,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 Paragraph 283 StGB sanktioniert Vermoegensverschiebungen in der wirtschaftlichen Krise. Geschuetzt ist die Glaeubigergesamtheit, nicht der einzelne Glaeubiger. Anwendungsfall: Geschaeftsfuehrer einer insolvenzreifen GmbH schafft Vermoegenswerte beiseite, verheimlicht Bankguthaben, vernichtet Buchhaltung. Stets gemeinsam zu pruefen mit Paragraph 283b StGB (Buchfuehrungsverletzung), Paragraph 283c StGB (Glaeubigerbeguenstigung) und Paragraph 15a InsO (Insolvenzverschleppung).
 
-Tatzeit ist die Phase materieller Insolvenz oder drohender Insolvenz. Die objektive Bedingung der Strafbarkeit (Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag) muss eintreten, sonst keine Strafbarkeit aus Paragraph 283 StGB selbst. Die Tat wird also erst durch das spaetere Ereignis strafbar; das ist fuer Verjaehrungsfragen wichtig.
+Tatzeit ist die Phase materieller Insolvenz oder drohender Insolvenz. Die objektive Bedingung der Strafbarkeit (Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag) muss eintreten, sonst keine Strafbarkeit aus Paragraph 283 StGB selbst. Die Tat wird also erst durch das spaetere Ereignis strafbar; das ist für Verjährungsfragen wichtig.
 
 ## Tatbestand im Detail
 
@@ -479,11 +479,11 @@ Taeter ist, wer bei drohender Zahlungsunfaehigkeit, Zahlungsunfaehigkeit oder Ue
 
 ### Absatz 2 Bankrotthandlung mit Insolvenzherbeifuehrung
 
-Selbe Handlungen, aber das Verhalten ist *kausal* fuer die Krise. Das ist regelmaessig Auffangtatbestand, wenn die Krise zur Tatzeit noch nicht feststellbar war.
+Selbe Handlungen, aber das Verhalten ist *kausal* für die Krise. Das ist regelmaessig Auffangtatbestand, wenn die Krise zur Tatzeit noch nicht feststellbar war.
 
 ### Absatz 3 Versuch
 
-Versuch des Bankrotts ist strafbar. Bedeutsam fuer die Verteidigung bei Ruecktritt nach Paragraph 24 StGB.
+Versuch des Bankrotts ist strafbar. Bedeutsam für die Verteidigung bei Ruecktritt nach Paragraph 24 StGB.
 
 ### Absatz 4 leichtfertige Krisenkenntnis
 
@@ -551,12 +551,11 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 
 - Paragraph 283 StGB im Wortlaut (dejure.org; gesetze-im-internet.de).
 - Paragraph 17 InsO Zahlungsunfaehigkeit; Paragraph 18 InsO drohende Zahlungsunfaehigkeit; Paragraph 19 InsO Ueberschuldung.
-- Paragraph 14 StGB Handeln fuer andere (faktischer Geschaeftsfuehrer).
+- Paragraph 14 StGB Handeln für andere (faktischer Geschaeftsfuehrer).
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG Inhabilitaet nach Insolvenzstraftat.
 - Paragraph 73 StGB Einziehung; Paragraph 73c StGB Wertersatz.
 - BGH staendige Rspr. zum Verhaeltnis Bankrott und Untreue bei eigennuetzigem Handeln des GF in der GmbH-Krise.
 - BVerfG staendige Linie zur Bestimmtheitspflicht der Tatbestandsmerkmale (Paragraph 103 Abs 2 GG).
-
 
 ## Qualitäts-Hardening
 
@@ -580,7 +579,7 @@ Die Insolvenzstraftaten haben drei *parallele* Belastungen:
 
 1. **Strafrahmen** (Geld- oder Freiheitsstrafe);
 2. **Vermoegensabschoepfung** (Einziehung, Wertersatz);
-3. **Berufliche und persoenliche Folgen** (Berufsverbot, GF-Sperre, BZRG, Reputation).
+3. **Berufliche und persönliche Folgen** (Berufsverbot, GF-Sperre, BZRG, Reputation).
 
 ## Tatbestand im Detail
 
@@ -598,7 +597,7 @@ Die Insolvenzstraftaten haben drei *parallele* Belastungen:
 
 - **Paragraph 46 Abs 2 Satz 2 Nr 6 StGB**: Bemuehen um Wiedergutmachung wirkt strafmildernd.
 - **Paragraph 46a Nr 1 StGB Taeter-Opfer-Ausgleich**: bei vollstaendigem Bemuehen + Wiedergutmachung kann Strafrahmen Paragraph 49 Abs 1 StGB-Verschiebung erfolgen oder Absehen von Strafe.
-- **Paragraph 46a Nr 2 StGB**: bei vollstaendiger Schadenswiedergutmachung in Verbindung mit erheblichen persoenlichen Leistungen ebenfalls Strafrahmenverschiebung.
+- **Paragraph 46a Nr 2 StGB**: bei vollstaendiger Schadenswiedergutmachung in Verbindung mit erheblichen persönlichen Leistungen ebenfalls Strafrahmenverschiebung.
 
 ### Bewaehrung Paragraph 56 StGB
 
@@ -625,7 +624,7 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 ### Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Sperre
 
 - 5 Jahre Sperre nach rechtskraeftiger Verurteilung wegen Insolvenzstraftat oder vorsaetzlich begangener Straftaten mit Mindeststrafe von 1 Jahr.
-- Gilt fuer GmbH, UG, Aktiengesellschaft (Paragraph 76 Abs 3 AktG analog).
+- Gilt für GmbH, UG, Aktiengesellschaft (Paragraph 76 Abs 3 AktG analog).
 - **Berufsfolge** unabhaengig von Berufsverbot.
 
 ### BZRG-Eintrag
@@ -698,7 +697,6 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zum Verhaeltnis Einziehung und zivilrechtlicher Schaden.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -709,26 +707,26 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 ## 7. `strafrecht-spezial-bedrohung-241-stgb`
 
-**Fokus:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persoenliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
+**Fokus:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persönliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
 
 # Bedrohung § 241 StGB
 
 ## Worum geht es
 
-§ 241 StGB schuetzt den **Rechtsfrieden des Einzelnen** vor der Angst, dass eine angedrohte Straftat verwirklicht wird. Mit der Reform durch das **Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet** vom 30.03.2021 (in Kraft 03.04.2021) wurde der Anwendungsbereich erheblich erweitert: Erfasst ist nun auch die Bedrohung mit rechtswidrigen Taten **gegen die sexuelle Selbstbestimmung, koerperliche Unversehrtheit, persoenliche Freiheit oder gegen eine Sache von bedeutendem Wert**, nicht nur die Bedrohung mit einem Verbrechen wie zuvor.
+§ 241 StGB schuetzt den **Rechtsfrieden des Einzelnen** vor der Angst, dass eine angedrohte Straftat verwirklicht wird. Mit der Reform durch das **Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet** vom 30.03.2021 (in Kraft 03.04.2021) wurde der Anwendungsbereich erheblich erweitert: Erfasst ist nun auch die Bedrohung mit rechtswidrigen Taten **gegen die sexuelle Selbstbestimmung, koerperliche Unversehrtheit, persönliche Freiheit oder gegen eine Sache von bedeutendem Wert**, nicht nur die Bedrohung mit einem Verbrechen wie zuvor.
 
 Strafrahmen:
 
 - **§ 241 Abs. 1 StGB:** Geldstrafe oder Freiheitsstrafe bis zu einem Jahr.
 - **§ 241 Abs. 2 StGB:** Bei Bedrohung mit Verbrechen Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
-- **§ 241 Abs. 3 StGB (Verbreitung online / oeffentliche Begehung):** Strafrahmen bis zu drei Jahren Freiheitsstrafe oder Geldstrafe (Bedrohung mit Vergehen); bis zu fuenf Jahre Freiheitsstrafe oder Geldstrafe (Bedrohung mit Verbrechen).
+- **§ 241 Abs. 3 StGB (Verbreitung online / öffentliche Begehung):** Strafrahmen bis zu drei Jahren Freiheitsstrafe oder Geldstrafe (Bedrohung mit Vergehen); bis zu fuenf Jahre Freiheitsstrafe oder Geldstrafe (Bedrohung mit Verbrechen).
 
 ## Tatbestand und Auslegung
 
 **Aufbau:**
 
 - **Tathandlung:** Bedrohung einer Person.
-- **Bedrohung mit einer bestimmten Tat:** Verbrechen oder rechtswidrige Tat gegen sexuelle Selbstbestimmung, koerperliche Unversehrtheit, persoenliche Freiheit oder gegen eine Sache von bedeutendem Wert.
+- **Bedrohung mit einer bestimmten Tat:** Verbrechen oder rechtswidrige Tat gegen sexuelle Selbstbestimmung, koerperliche Unversehrtheit, persönliche Freiheit oder gegen eine Sache von bedeutendem Wert.
 
 **Subjektiver Tatbestand:** Vorsatz hinsichtlich der Bedrohung und der angedrohten Tat. Dolus eventualis genuegt.
 
@@ -747,7 +745,7 @@ Strafrahmen:
 - Persoenliche Freiheit (§§ 232 ff., § 239 ff. StGB).
 - Sache von bedeutendem Wert (Sachbeschaedigung § 303 StGB / Brandstiftung).
 
-**Online und oeffentliche Bedrohung § 241 Abs. 3 StGB:** Bei Verbreitung von Schriften iSd § 11 Abs. 3 StGB (auch elektronische Form / soziale Medien) und bei oeffentlicher Begehung (Versammlungen, Demonstrationen, oeffentliche Medien) erhoehter Strafrahmen. Klassisch: Drohung in sozialen Medien gegen Politiker, Mandatstraeger, Journalisten, Aerzte, Verteidiger.
+**Online und öffentliche Bedrohung § 241 Abs. 3 StGB:** Bei Verbreitung von Schriften iSd § 11 Abs. 3 StGB (auch elektronische Form / soziale Medien) und bei öffentlicher Begehung (Versammlungen, Demonstrationen, öffentliche Medien) erhoehter Strafrahmen. Klassisch: Drohung in sozialen Medien gegen Politiker, Mandatstraeger, Journalisten, Aerzte, Verteidiger.
 
 **Form der Drohung:** Ausdruecklich oder konkludent. Auch durch Gesten (Halszeichen), Zeichnungen, Symbole moeglich.
 
@@ -774,8 +772,8 @@ Strafrahmen:
 - **§ 238 StGB Nachstellung:** Tateinheit moeglich, wenn Bedrohung Teil eines Stalking-Verhaltens.
 - **§§ 211 ff. StGB iVm § 22 StGB:** Bei tatsaechlicher Ausfuehrungsabsicht.
 - **§ 130 StGB Volksverhetzung:** Tateinheit bei kollektiven Bedrohungen.
-- **§ 126 StGB Stoerung des oeffentlichen Friedens:** Bei oeffentlichen Bedrohungen.
-- **§ 188 StGB:** Bei Bedrohung von Personen des oeffentlichen Lebens spezieller Ehrenschutz.
+- **§ 126 StGB Stoerung des öffentlichen Friedens:** Bei öffentlichen Bedrohungen.
+- **§ 188 StGB:** Bei Bedrohung von Personen des öffentlichen Lebens spezieller Ehrenschutz.
 
 ## Strafzumessung
 
@@ -789,7 +787,7 @@ Strafrahmen:
 ## Mustertexte
 
 **Einlassung (Auszug):**
-> Der Angeklagte raeumt ein, in einer akuten Streitsituation am Tattag mehrfach laute Aeusserungen gegen den Geschaedigten gerichtet zu haben. Es handelte sich um eine Erregung in einer Eskalation, ohne dass der Angeklagte tatsaechlich beabsichtigt hat, die geaeusserten Drohungen umzusetzen. Eine objektive Ernsthaftigkeit war fuer den Geschaedigten in der Gesamtumstaendlichkeit der Auseinandersetzung nicht erkennbar.
+> Der Angeklagte raeumt ein, in einer akuten Streitsituation am Tattag mehrfach laute Aeusserungen gegen den Geschaedigten gerichtet zu haben. Es handelte sich um eine Erregung in einer Eskalation, ohne dass der Angeklagte tatsaechlich beabsichtigt hat, die geaeusserten Drohungen umzusetzen. Eine objektive Ernsthaftigkeit war für den Geschaedigten in der Gesamtumstaendlichkeit der Auseinandersetzung nicht erkennbar.
 
 **Plaedoyer-Snippet:**
 > § 241 StGB setzt voraus, dass die Bedrohung als ernsthaft erscheint und ein Vergehen oder Verbrechen aus dem Katalog des § 241 StGB betrifft. Die Beweisaufnahme hat ergeben, dass die Aeusserungen des Angeklagten im Kontext einer Stammtisch-Provokation gefallen sind und vom Geschaedigten erst nachtraeglich als Bedrohung gedeutet wurden. Die Ernsthaftigkeit ist nicht zur Ueberzeugung des Gerichts nachgewiesen.
@@ -824,7 +822,7 @@ Strafrahmen:
 
 Paragraph 283a StGB hebt die Strafdrohung des Bankrotts (Paragraph 283 StGB) von "bis 5 Jahre" auf "6 Monate bis 10 Jahre" an, wenn ein Regelbeispiel verwirklicht ist oder ein unbenannter besonders schwerer Fall vorliegt. Anwendungsfall: Serientaeter im Insolvenzgewerbe, Strohmannketten, gezielte Vermoegensverschiebungen im grossen Stil.
 
-Bedeutung fuer die Verteidigung: Der Sprung in den hoeheren Strafrahmen ist zumessungsentscheidend. Bei einer erfolgreichen Entkraeftung des Regelbeispiels kann die Strafe oft im unteren Bereich des Paragraph 283 StGB-Rahmens bleiben.
+Bedeutung für die Verteidigung: Der Sprung in den hoeheren Strafrahmen ist zumessungsentscheidend. Bei einer erfolgreichen Entkraeftung des Regelbeispiels kann die Strafe oft im unteren Bereich des Paragraph 283 StGB-Rahmens bleiben.
 
 ## Tatbestand im Detail
 
@@ -844,7 +842,7 @@ Der Taeter bringt **viele Personen in die Gefahr des Verlusts ihrer Vermoegenswe
 
 Wenn weder Nr. 1 noch Nr. 2 verwirklicht ist, kann das Gericht trotzdem einen besonders schweren Fall annehmen, etwa bei besonders hohem Schaden, internationaler Tatbegehung, gezielter Glaeubigertaeuschung. Hier ist Argumentation einzelfallbezogen; das Gericht muss in den Urteilsgruenden konkrete Umstaende benennen.
 
-### Indikationswirkung und Ruecknahme
+### Indikationswirkung und Rücknahme
 
 Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt werden, wenn die *Gesamtumstaende* der Tat im Vergleich zum Durchschnittsfall des Paragraph 283 StGB so leicht sind, dass die Anwendung des hoeheren Rahmens unangemessen waere. Beispiele: gewerbsmaessig, aber sehr geringer Einzelschaden; viele Glaeubiger, aber alle vorgewarnt; oder Wiedergutmachung in vollem Umfang.
 
@@ -853,14 +851,14 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 - **Gewerbsmaessigkeit angreifen.** Der Vorsatz muss auf wiederholte Einnahmequelle gerichtet sein. Bei einmaligem Bankrott mit nachweisbar einmaliger Sanierungsabsicht ist die Indikation oft erschuetterbar.
 - **Glaeubigerzahl genau aufschluesseln.** "Viele" ist normativ. Wenn alle Vermoegenswerte gegen Sicherheiten gegeben waren oder die Glaeubiger institutionell (Bank, Lieferant) und nicht in wirtschaftlicher Not sind, dann ist Nr. 2 zu verneinen.
 - **Wiedergutmachung als Gegenindikation.** BGH staendige Rspr.: Vollstaendige Schadenswiedergutmachung kann die Regelwirkung wegnehmen. Gespraeche mit Insolvenzverwalter um Vergleich oder Rueckzahlung schon im Ermittlungsverfahren beginnen.
-- **Belege fuer Sanierungsbemuehungen.** Sanierungsgutachten, Insolvenzberatung, ueberhastete aber redliche Versuche koennen den unbenannten besonders schweren Fall entkraeften.
+- **Belege für Sanierungsbemuehungen.** Sanierungsgutachten, Insolvenzberatung, ueberhastete aber redliche Versuche koennen den unbenannten besonders schweren Fall entkraeften.
 - **Kein automatischer Sprung im Strafrahmen.** Auch wenn die Voraussetzungen verwirklicht sind, darf das Gericht im konkreten Fall den Sprung verneinen; das ist Pflichtpruefung. Bei Versaeumnis: Revisionsruege nach Paragraph 337 StPO (Sachruege).
 
 ## Trade-off-Matrix
 
 | Pfad A Bestreiten des Grundtatbestands | Pfad B Regelbeispiel angreifen + Wiedergutmachung | Empfehlung |
 | --- | --- | --- |
-| Hauptanliegen: Freispruch oder Paragraph 153a StPO | Hauptanliegen: Verbleib im Normalrahmen Paragraph 283 StGB | Bei klaren Indizien fuer Grundtat: Wiedergutmachung priorisieren; bei zweifelhafter Beweislage: Schwerpunkt Grundtat. |
+| Hauptanliegen: Freispruch oder Paragraph 153a StPO | Hauptanliegen: Verbleib im Normalrahmen Paragraph 283 StGB | Bei klaren Indizien für Grundtat: Wiedergutmachung priorisieren; bei zweifelhafter Beweislage: Schwerpunkt Grundtat. |
 
 ## Konkurrenzen
 
@@ -880,7 +878,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 
 ## Mustertexte
 
-**Schutzschrift-Snippet zur Regelbeispielswiderlegung:** "Selbst wenn das Gericht den Tatbestand des Paragraph 283 Abs 1 StGB bejahen sollte, liegt ein besonders schwerer Fall nach Paragraph 283a StGB nicht vor. Die Tathandlung war einmalig (kein Wiederholungsvorsatz). Die Glaeubigerzahl bleibt unter der gewerbsmaessigen Schwelle. Mein Mandant hat zudem bereits EUR X an die Masse zurueckgefuehrt (Anlage SS 2)."
+**Schutzschrift-Snippet zur Regelbeispielswiderlegung:** "Selbst wenn das Gericht den Tatbestand des Paragraph 283 Abs 1 StGB bejahen sollte, liegt ein besonders schwerer Fall nach Paragraph 283a StGB nicht vor. Die Tathandlung war einmalig (kein Wiederholungsvorsatz). Die Glaeubigerzahl bleibt unter der gewerbsmäßigen Schwelle. Mein Mandant hat zudem bereits EUR X an die Masse zurueckgefuehrt (Anlage SS 2)."
 
 **Einlassungs-Snippet:** "Ich habe nicht gewerbsmaessig gehandelt. Es war eine einmalige Verzweiflungstat in einer ueberforderten Situation. Die Idee einer dauerhaften Einnahmequelle aus Bankrotthandlungen lag mir vollkommen fern."
 
@@ -903,7 +901,6 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 - Paragraph 73 StGB Einziehung des Erlangten.
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Inhabilitaet.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -914,7 +911,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 
 ## 9. `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
 
-**Fokus:** Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo fuer Bauunternehmen Pharma Healthcare Einkaufsabteilungen.
+**Fokus:** Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo für Bauunternehmen Pharma Healthcare Einkaufsabteilungen.
 
 # Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB
 
@@ -936,33 +933,33 @@ Seit Reform Korruptionsbekaempfungsgesetz 2015 zwei Modelle: Wettbewerbsmodell (
 
 ### § 299 Abs. 1 StGB Nehmer (Bestechlichkeit)
 
-Wer als **Angestellter oder Beauftragter eines Unternehmens** im geschaeftlichen Verkehr **einen Vorteil** fuer sich oder einen Dritten **fordert, sich versprechen laesst oder annimmt**:
+Wer als **Angestellter oder Beauftragter eines Unternehmens** im geschaeftlichen Verkehr **einen Vorteil** für sich oder einen Dritten **fordert, sich versprechen laesst oder annimmt**:
 
-1. **Wettbewerbsmodell (Nr. 1):** als Gegenleistung dafuer, dass er bei dem Bezug von Waren oder Dienstleistungen **einen anderen im inlaendischen oder auslaendischen Wettbewerb in unlauterer Weise bevorzuge** oder
-2. **Geschaeftsherrenmodell (Nr. 2):** als Gegenleistung dafuer, dass er bei dem Bezug von Waren oder Dienstleistungen eine Handlung vornehme oder unterlasse und dadurch seine **Pflichten gegenueber dem Unternehmen verletze**.
+1. **Wettbewerbsmodell (Nr. 1):** als Gegenleistung dafür, dass er bei dem Bezug von Waren oder Dienstleistungen **einen anderen im inlaendischen oder auslaendischen Wettbewerb in unlauterer Weise bevorzuge** oder
+2. **Geschaeftsherrenmodell (Nr. 2):** als Gegenleistung dafür, dass er bei dem Bezug von Waren oder Dienstleistungen eine Handlung vornehme oder unterlasse und dadurch seine **Pflichten gegenueber dem Unternehmen verletze**.
 
 ### § 299 Abs. 2 StGB Geber (Bestechung)
 
-Spiegelbildlich: Wer im geschaeftlichen Verkehr einem Angestellten oder Beauftragten eines Unternehmens einen Vorteil fuer diesen oder einen Dritten als Gegenleistung dafuer anbietet, verspricht oder gewaehrt.
+Spiegelbildlich: Wer im geschaeftlichen Verkehr einem Angestellten oder Beauftragten eines Unternehmens einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewaehrt.
 
 ### Schluesselbegriffe
 
 - **Angestellter / Beauftragter.** Weite Auslegung; auch Vorstand, Geschaeftsfuehrer, freier Berater, ggf. Komplementaer.
-- **Vorteil.** Jede Zuwendung mit objektivem Wert: Geld, Sachgeschenke, Einladungen, Reisen, Karrierechancen, Auftrag fuer Angehoerige.
+- **Vorteil.** Jede Zuwendung mit objektivem Wert: Geld, Sachgeschenke, Einladungen, Reisen, Karrierechancen, Auftrag für Angehoerige.
 - **Unrechtsvereinbarung.** Verbindung Vorteil ↔ Pflichtwidrigkeit.
 - **Pflichtenverletzung.** Beim Geschaeftsherrenmodell genuegt jede dienstrechtliche Pflichtwidrigkeit (Verletzung Compliance-Regeln, Verschwiegenheitspflicht); Wettbewerb nicht zwingend.
 - **Geschaeftsherrenmodell** erweiterte Strafbarkeit ohne Wettbewerbsbezug.
 
 ### Auslandsbezug § 299 Abs. 3 StGB
 
-Auch fuer auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
+Auch für auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 
 ## Praktikertipps Verteidigung
 
 - **Unrechtsvereinbarung angreifen.** Hat der Vorteil tatsaechlich Bezug zu konkreter Bevorzugung oder Pflichtverletzung? Bei reinen Klimapflege-Einladungen oder branchenueblichen Zuwendungen Streit. Compliance-Richtlinien des Unternehmens und Branchenusance prueffen.
 - **Geringfuegige Zuwendungen.** Sozialadaequanz-Grenze (im Privatsektor restriktiver als bei § 331 StGB); BGH zu Vorgesetztengenehmigung.
 - **Genehmigung Geschaeftsherr** im Geschaeftsherrenmodell entlastend: Wenn Vorgesetzter Einladung genehmigt hat, fehlt Pflichtverletzung.
-- **Compliance-Programme** als Indiz fuer Sorgfalt; bei wirksamem Compliance-Management seltener Vorsatz nachweisbar.
+- **Compliance-Programme** als Indiz für Sorgfalt; bei wirksamem Compliance-Management seltener Vorsatz nachweisbar.
 - **Branchenusancen** (Pharma — beachte zusaetzlich § 299a, § 299b StGB Gesundheitswesen).
 - **Verstaendigung § 257c StPO** ueblich bei Compliance-Faellen.
 
@@ -982,10 +979,10 @@ Auch fuer auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 - **§ 299 StGB / § 263 StGB.** Bei Schaedigung des Geschaeftsherrn durch Pflichtverletzung Idealkonkurrenz.
 - **§ 299 StGB / § 266 StGB Untreue.** Sehr haeufig: Bei der Annahme von Kickbacks zugleich Untreue gegenueber Geschaeftsherrn.
 - **§ 299 StGB / § 299a, § 299b StGB.** Spezialnorm Gesundheitswesen (Heilberufler) — § 299a/b vorrangig.
-- **§ 299 StGB / § 26 GWB UWG.** Ordnungswidrigkeit fuer Unternehmen, parallel.
+- **§ 299 StGB / § 26 GWB UWG.** Ordnungswidrigkeit für Unternehmen, parallel.
 - **§ 299 StGB / § 333, § 334 StGB.** Bei amtsbezogener Tatbeteiligung Spezialnorm Amtstraegerbestechung.
 - **§ 299 StGB / § 261 StGB Geldwaesche.** Nach Reform 2021.
-- **§ 299 StGB / § 30 OWiG.** Verbandsgeldbusse fuer Unternehmen.
+- **§ 299 StGB / § 30 OWiG.** Verbandsgeldbusse für Unternehmen.
 
 ## Strafzumessung und Folgen
 
@@ -1079,7 +1076,7 @@ Spezial-Mandat: Anklage oder Hauptverhandlung mit Vorwurf eines besonders schwer
 
 ## Konkurrenzen
 
-- **§ 263 Abs. 3 StGB / § 263 Abs. 5 StGB.** Bei gewerbsmaessigem Bandenbetrug verdraengt Abs. 5 die Strafzumessungsregel; eigener Strafrahmen (ein bis zehn Jahre).
+- **§ 263 Abs. 3 StGB / § 263 Abs. 5 StGB.** Bei gewerbsmäßigem Bandenbetrug verdraengt Abs. 5 die Strafzumessungsregel; eigener Strafrahmen (ein bis zehn Jahre).
 - **§ 263 StGB / § 261 StGB.** Geldwaeschehandlungen aus Betrug haeufig in Tateinheit moeglich (seit Reform 2021 jede Straftat taugliche Vortat).
 - **§ 263 StGB / § 370 AO Steuerhinterziehung.** Doppelte Belastung bei Doppeltaeuschung Geschaedigter und Finanzamt.
 
@@ -1117,4 +1114,30 @@ Spezial-Mandat: Anklage oder Hauptverhandlung mit Vorwurf eines besonders schwer
 - BGH 7.10.2003 — 1 StR 274/03 (Grosses Ausmass beim Betrug); staendige Rspr. Aktenzeichen vor Verwendung verifizieren ueber https://www.bundesgerichtshof.de.
 - BGH staendige Rspr. zur Gewerbsmaessigkeit; vor Verwendung Az. verifizieren.
 - §§ 46, 46a, 56, 70, 73, 73b, 73c, 73d StGB.
-- references/zitierweise.md fuer Belegregeln.
+- references/zitierweise.md für Belegregeln.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46a StGB
+- § 263 StGB
+- § 49 StGB
+- § 177 StGB
+- § 46 StGB
+- § 46b StGB
+- § 35 BtMG
+- § 261 StGB
+- § 249 StGB
+- § 212 StGB
+- § 31 BtMG
+- § 240 StGB
+
+### Leitentscheidungen
+
+- EuGH C-610/15
+- EuGH C-527/15
+- EuGH C-128/11
+- EuGH C-145/10
+- EuGH C-355/12
+

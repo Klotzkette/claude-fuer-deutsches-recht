@@ -7,7 +7,6 @@ description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richte
 
 Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layout deutscher Amts- und Landgerichte.
 
-
 ## Triage zu Beginn
 
 1. Welcher Dokumenttyp soll gerendert werden — Urteil, Versäumnisurteil oder Beschluss?

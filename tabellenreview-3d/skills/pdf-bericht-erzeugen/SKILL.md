@@ -5,7 +5,6 @@ description: "3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabe
 
 # /tabellenreview-3d:pdf-bericht-erzeugen
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabe
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

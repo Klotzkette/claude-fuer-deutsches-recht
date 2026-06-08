@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-art-15-22
-description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung)."
+description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung)."
 ---
 
 # Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
@@ -38,10 +38,10 @@ Sieben-Fragen-Diagnose:
 - **EuGH C-487/21** Datenkopie. **EuGH C-579/21** Empfaengerangabe. **EuGH C-307/22** Patientenakte unentgeltlich. **EuGH C-634/21 SCHUFA** zu Art. 22.
 - **§ 34, § 35 BDSG** Einschraenkungen Auskunfts- und Loeschrechte.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Eingangsanalyse.** Welche Rechte sind explizit, welche implizit?
-2. **Als zweites: Frist setzen.** Eine einheitliche Frist Art. 12 III fuer den Vorgang, nicht je Recht.
+2. **Als zweites: Frist setzen.** Eine einheitliche Frist Art. 12 III für den Vorgang, nicht je Recht.
 3. **Als drittes: Identitaet pruefen** (Art. 12 VI DSGVO).
 4. **Als viertes: Konflikte mapping.** Welches Recht setzt welche Verarbeitung voraus?
 5. **Als fuenftes: Pro Recht eine Bearbeitungsspur** und am Ende eine Sammelantwort.
@@ -73,10 +73,10 @@ Sieben-Fragen-Diagnose:
 > 3. Loeschung nach Art. 17 DSGVO: [erfolgt] / [abgelehnt wegen Art. 17 III, z. B. Aufbewahrungspflicht § 257 HGB / § 147 AO].
 > 4. Einschraenkung nach Art. 18 DSGVO: [erfolgt] / [nicht erforderlich, Begruendung].
 > 5. Uebertragbarkeit nach Art. 20 DSGVO: [erfuellt, Format JSON/CSV] / [abgelehnt, da Rechtsgrundlage nicht Einwilligung oder Vertrag].
-> 6. Widerspruch nach Art. 21 DSGVO: [stattgegeben fuer Direktwerbung absolut] / [Pruefung berechtigtes Interesse Art. 6 I f mit Ergebnis].
+> 6. Widerspruch nach Art. 21 DSGVO: [stattgegeben für Direktwerbung absolut] / [Pruefung berechtigtes Interesse Art. 6 I f mit Ergebnis].
 > 7. Automatisierte Entscheidungsfindung Art. 22: [findet nicht statt] / [Logik und Tragweite werden mitgeteilt].
 >
-> Ihr Beschwerderecht nach Art. 77 DSGVO bei [zustaendige Aufsichtsbehoerde] bleibt unberuehrt.
+> Ihr Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde] bleibt unberuehrt.
 
 ### Fristverlaengerung wegen Komplexitaet
 
@@ -110,7 +110,6 @@ Sieben-Fragen-Diagnose:
 - EuGH C-634/21 SCHUFA, Urteil 07.12.2023 (zu Art. 22 DSGVO).
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

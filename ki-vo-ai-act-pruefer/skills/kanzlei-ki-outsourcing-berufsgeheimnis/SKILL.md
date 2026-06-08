@@ -1,13 +1,13 @@
 ---
 name: kanzlei-ki-outsourcing-berufsgeheimnis
-description: "KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe."
+description: "KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe."
 ---
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis
 
 ## Zweck
 
-Der Skill erzeugt eine belastbare Prüfung, ob eine Kanzlei oder Rechtsabteilung ein KI-System fuer Aktenanalyse, Recherche, Dokumentenentwurf, Übersetzung oder Review einsetzen darf.
+Der Skill erzeugt eine belastbare Prüfung, ob eine Kanzlei oder Rechtsabteilung ein KI-System für Aktenanalyse, Recherche, Dokumentenentwurf, Übersetzung oder Review einsetzen darf.
 
 ## Norm- und Berufsrechtsanker
 

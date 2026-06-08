@@ -6,11 +6,9 @@ description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldothe
 # Bereicherungsrecht: Entreicherung und Saldotheorie
 
 ## Fachkern: Bereicherungsrecht: Entreicherung und Saldotheorie
-- **Spezialgegenstand:** Bereicherungsrecht: Entreicherung und Saldotheorie; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -76,7 +74,6 @@ Verteidigungsrechte des Bereicherten und die Abwicklung gegenseitiger Leistungen
 - bereicherungsrecht-nichtleistungskondiktion
 - schadensrecht-paragraphen-249-253
 - workflow-beweislast-und-belegmatrix
-
 
 ## Quellen
 

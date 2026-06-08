@@ -9,9 +9,23 @@ description: "Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Daten
 
 Für Familienbetreuer, die Dokumente in ein KI-/Ordnersystem bringen wollen, ohne alles preiszugeben.
 
-## Norm- und Quellenanker
+## Normenanker
 
-DSGVO; BGB Betreuungsführung; FamFG; BtOG Beratungsunterstützung.
+Arbeitsfokus: **Familienbetreuer: Scannen, Ordner, Datenschutz**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 

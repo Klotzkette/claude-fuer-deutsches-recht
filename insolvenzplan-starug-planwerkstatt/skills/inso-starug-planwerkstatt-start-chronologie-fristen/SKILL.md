@@ -1,33 +1,21 @@
 ---
 name: inso-starug-planwerkstatt-start-chronologie-fristen
-description: "Inso Starug Planwerkstatt Start Chronologie Fristen im Plugin Insolvenzplan Starug Planwerkstatt: prüft konkret Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Insolvenzplan Starug Planwerkstatt: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Inso Starug Planwerkstatt Start Chronologie Fristen
+# Insolvenzplan und StaRUG-Planwerkstatt — Allgemein
 
 ## Arbeitsbereich
 
-**Inso Starug Planwerkstatt Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin insolvenzplan-starug-planwerkstatt: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin insolvenzplan-starug-planwerkstatt: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Insolvenzplan Starug Planwerkstatt klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Insolvenzplan Starug Planwerkstatt-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -38,10 +26,6 @@ description: "Inso Starug Planwerkstatt Start Chronologie Fristen im Plugin Inso
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
-# Insolvenzplan und StaRUG-Planwerkstatt — Allgemein
-
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzplan und StaRUG-Planwerkstatt — Allgemein` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
@@ -49,7 +33,6 @@ description: "Inso Starug Planwerkstatt Start Chronologie Fristen im Plugin Inso
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Schnellstart-Workflow
 
@@ -176,9 +159,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin ist das spezialisierte Werkzeug fuer die Erstellung, Pruefung und Begleitung von Insolvenzplaenen nach §§ 217 ff. InsO und Restrukturierungsplaenen nach dem StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz). Es deckt den gesamten Planlebenszyklus ab: vom Kaltstart-Interview und der Verfahrenswahl ueber die Planarchitektur, Vergleichsrechnung und Gruppenbildung bis zur Abstimmung, dem Cramdown-Verfahren und dem Planvollzug.
+Dieses Plugin ist das spezialisierte Werkzeug für die Erstellung, Pruefung und Begleitung von Insolvenzplaenen nach §§ 217 ff. InsO und Restrukturierungsplaenen nach dem StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz). Es deckt den gesamten Planlebenszyklus ab: vom Kaltstart-Interview und der Verfahrenswahl ueber die Planarchitektur, Vergleichsrechnung und Gruppenbildung bis zur Abstimmung, dem Cramdown-Verfahren und dem Planvollzug.
 
-Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und deren Anwaelte. Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Pruefwerkzeug fuer komplexe Sanierungsmandate. Fuer die parallele Bearbeitung einfacherer insolvenzrechtlicher Grundfragen steht das Plugin `insolvenzrecht` zur Verfuegung.
+Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und deren Anwaelte. Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Pruefwerkzeug für komplexe Sanierungsmandate. Fuer die parallele Bearbeitung einfacherer insolvenzrechtlicher Grundfragen steht das Plugin `insolvenzrecht` zur Verfuegung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -196,7 +179,7 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung, die eine ablehnende Gruppe ueberstimmt (§ 245 InsO, § 27 StaRUG); setzt absolute Prioritaet oder angemessene Beteiligung voraus.
 - **Planbetroffene** — Im StaRUG-Verfahren ausdrucklich ausgewaehlte Inhaber gestaltbarer Rechtsverhaeltnisse (§§ 2 ff. StaRUG).
 - **Sanierungsmoderation** — Aussergerichtliches Verfahren nach §§ 94 ff. StaRUG mit gerichtlich bestelltem Moderator.
-- **Integrierte Planung** — Verknuepfte Finanzplanung aus GuV, Liquiditaet und Bilanz als wirtschaftliche Grundlage fuer den Plan.
+- **Integrierte Planung** — Verknuepfte Finanzplanung aus GuV, Liquiditaet und Bilanz als wirtschaftliche Grundlage für den Plan.
 - **Planvollzug** — Phase nach Planbestaetigung; umfasst Zahlungen, Covenants und Monitoring nach §§ 248 und 261 InsO.
 
 ## Rechtsgrundlagen
@@ -209,9 +192,9 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - §§ 3a und 3c EStG — Sanierungsgewinn und steuerliche Folgen.
 - § 8c KStG — Verlustvortraege bei Anteilsuebertragung.
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Kaltstart-Interview durchfuehren: Skill `ips-kaltstart-interview` fuer fehlende Unterlagen.
+1. Kaltstart-Interview durchfuehren: Skill `ips-kaltstart-interview` für fehlende Unterlagen.
 2. Verfahrenswahl treffen: Skill `ips-verfahrenswahl` (InsO-Plan, StaRUG, aussergerichtlich).
 3. Planarchitektur aufbauen: `ips-insolvenzplan-architektur` oder `ips-starug-plan-architektur`.
 4. Vergleichsrechnung und Gruppen: `ips-vergleichsrechnung` und `ips-gruppen-klassenbildung`.
@@ -304,7 +287,6 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - StaRUG in der geltenden Fassung
 - EStG §§ 3a und 3c; KStG § 8c
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -312,141 +294,3 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `workflow-chronologie-und-belegmatrix`
-
-**Fokus:** Chronologie und Belegmatrix im Plugin insolvenzplan-starug-planwerkstatt: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-# Chronologie und Belegmatrix
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin insolvenzplan-starug-planwerkstatt: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Plan-Chronologie — Kernzeitpunkte
-- **Vorfeld:**
- - Eintritt drohende Zahlungsunfähigkeit (§ 18 InsO) — Tor zu StaRUG.
- - StaRUG-Anzeige § 31 StaRUG beim Restrukturierungsgericht.
- - Sanierungskonzept IDW S6 oder vergleichbar.
-- **Insolvenzplan-Prozess (§§ 217 ff. InsO):**
- - Planvorlage durch Schuldner (§ 218 InsO) oder Verwalter (Auftrag § 157 InsO).
- - Plan-Niederlegung beim Insolvenzgericht (§ 235 Abs. 1 S. 2 InsO).
- - Vorprüfung des Gerichts § 231 InsO — Zurückweisung wegen offensichtlicher Aussichtslosigkeit möglich.
- - Stellungnahmen § 232 InsO (Gläubigerausschuss, Schuldner, ggf. Betriebsrat).
- - Erörterungs- und Abstimmungstermin § 235 InsO.
- - Beschluss Gericht § 248 InsO — Bestätigung oder Versagung.
- - Rechtskraft mit Bekanntgabe § 252 InsO; sofortige Beschwerde möglich.
-- **StaRUG-Plan-Prozess (§§ 4 ff. StaRUG):**
- - StaRUG-Anzeige § 31 StaRUG → Restrukturierungssache.
- - Planentwurf, Klassenbildung § 9 StaRUG, Vergleichsrechnung.
- - Stabilisierungsanordnung § 49 StaRUG (befristet 3 Monate, max. 8 Monate).
- - Planabstimmung — außergerichtlich oder gerichtlich § 23 StaRUG.
- - Gerichtliche Planbestätigung § 60 StaRUG.
-
-## Belegmatrix-Spalten
-| Datum | Ereignis | Norm | Beleg | Konsequenz |
-|---|---|---|---|---|
-| TT.MM.JJJJ | Drohende ZU erkannt | § 18 InsO | Liquiditätsplan 24 Monate | StaRUG eröffnet, § 1 StaRUG Pflicht aktiv |
-| TT.MM.JJJJ | StaRUG-Anzeige | § 31 StaRUG | Anzeige Restrukturierungsgericht | Stabilisierung möglich |
-| TT.MM.JJJJ | Planabstimmung | § 23 StaRUG / § 235 InsO | Abstimmungsprotokoll | Mehrheiten je Gruppe |
-| TT.MM.JJJJ | Gerichtsbestätigung | § 60 StaRUG / § 248 InsO | Beschluss | Rechtskraft, Wirkung gegen alle Beteiligten |
-
-## Widersprüche markieren
-- StaRUG-Anzeige trotz bereits eingetretener ZU — Hinderungsgrund § 33 Abs. 2 Nr. 1 StaRUG.
-- Klassenbildung ändert sich während des Verfahrens — Plan muss konsistent bleiben.
-
-## 3. `workflow-fristen-und-risikoampel`
-
-**Fokus:** Fristen- und Risikoampel im Plugin insolvenzplan-starug-planwerkstatt: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
-
-# Fristen- und Risikoampel
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen- und Risikoampel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin insolvenzplan-starug-planwerkstatt: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Plan-spezifische Ampel-Trigger
-- **ROT — sofort handeln:**
- - StaRUG-Plan, aber Schuldner bereits zahlungsunfähig § 17 InsO oder überschuldet § 19 InsO → StaRUG fällt weg (§ 33 Abs. 2 Nr. 1 StaRUG, Aufhebung Restrukturierungssache), Antragspflicht § 15a InsO!
- - Insolvenzplan: Erörterungstermin § 235 InsO steht, Stellungnahmen § 232 InsO fristgebunden.
- - StaRUG: gerichtliche Planabstimmung § 23 StaRUG vorbereiten; Stabilisierungsanordnung § 49 StaRUG befristet auf 3 Monate, Verlängerung max. auf 8 Monate.
-- **GELB — Fristen laufen:**
- - Forderungsanmeldung § 174 InsO Anmeldefrist beachten — Plan baut auf Tabelle auf.
- - Planvorlagepflicht § 218 Abs. 2 InsO bei Auftrag durch Gläubigerversammlung.
- - StaRUG-Anzeige § 31 StaRUG: 6 Monate ohne Plan → Rücknahme-Pflicht.
-- **GRÜN — Vorbereitung:**
- - IDW S6-Sanierungskonzept als Basis für darstellenden Teil.
- - Klassenbildung § 222 InsO / § 9 StaRUG sauber dokumentieren.
-
-## Plan-spezifische Risiken
-- **Minderheitenschutz:** Insolvenzplan § 251 InsO (Schlechterstellungstest gegenüber Regelverfahren), StaRUG § 64 StaRUG (Schlechterstellungstest gegenüber Best-Alternative-to-Negotiated-Agreement / Nicht-Plan-Szenario).
-- **Cross-Class Cram-Down:** StaRUG §§ 26–28 StaRUG verlangt absolute Vorrangregel (§ 27 StaRUG) — Eigenkapital nur, wenn Gläubiger voll bedient oder zustimmen.
-- **Steuerlich:** Sanierungsgewinn § 3a EStG (gerichtsbestätigter Insolvenzplan, gerichtsbestätigter Restrukturierungsplan oder vergleichbare Sanierung) — frühzeitig Lohnsteuerhilfe/Steuerberater einbinden.

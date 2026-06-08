@@ -7,10 +7,10 @@ description: "Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-**Anaesthesie Hochrisiko Approbation Digitales** ordnet den Fall über die tragenden Prüffelder: Anästhesie Hochrisiko-Aufklärung, Approbation und digitales Fehlverhalten, Arztanstellung im MVZ. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anaesthesie Hochrisiko Approbation Digitales** ordnet den Fall über die tragenden Prüfungslinien: Anästhesie Hochrisiko-Aufklärung, Approbation und digitales Fehlverhalten, Arztanstellung im MVZ. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `anaesthesie-hochrisiko-aufklaerung` | Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `approbation-digitales-fehlverhalten` | Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
@@ -19,30 +19,26 @@ description: "Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prü
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `anaesthesie-hochrisiko-aufklaerung`
 
 **Fokus:** Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Anästhesie Hochrisiko-Aufklärung
 
 ## Fachkern: Anästhesie Hochrisiko-Aufklärung
-- **Spezialgegenstand:** Anästhesie Hochrisiko-Aufklärung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Anästhesie Hochrisiko-Aufklärung** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme.
 
@@ -89,19 +85,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Approbation und digitales Fehlverhalten
 
 ## Fachkern: Approbation und digitales Fehlverhalten
-- **Spezialgegenstand:** Approbation und digitales Fehlverhalten wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Approbation und digitales Fehlverhalten** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit.
 
@@ -148,19 +140,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Arztanstellung im MVZ: moderner Medizinrechts-Skill für Anstellungsgenehmigung, Versorgungsauftrag, Arbeitszeit, Nebentätigkeit und Haftungsverteilung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Arztanstellung im MVZ
 
 ## Fachkern: Arztanstellung im MVZ
-- **Spezialgegenstand:** Arztanstellung im MVZ wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Arztanstellung im MVZ** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Anstellungsgenehmigung, Versorgungsauftrag, Arbeitszeit, Nebentätigkeit und Haftungsverteilung.
 
@@ -207,19 +195,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Assistierter Suizid Beratung: moderner Medizinrechts-Skill für Ärztliche Beratung, Freiverantwortlichkeit, Berufsrecht, Strafrechtsgrenzen und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Assistierter Suizid Beratung
 
 ## Fachkern: Assistierter Suizid Beratung
-- **Spezialgegenstand:** Assistierter Suizid Beratung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Assistierter Suizid Beratung** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Ärztliche Beratung, Freiverantwortlichkeit, Berufsrecht, Strafrechtsgrenzen und Dokumentation.
 
@@ -261,3 +245,25 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
 - BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
 - Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 86b SGG
+- § 80 VwG
+- § 4b AMG
+- § 87 SGG
+- § 51 SGG
+- § 84 SGG
+- § 70 VwG
+- § 74 VwG
+- § 203 StGB
+- § 3a RVG
+- § 229 StGB
+- § 78 StGB
+
+### Leitentscheidungen
+
+- BGH VI ZR 323/04
+

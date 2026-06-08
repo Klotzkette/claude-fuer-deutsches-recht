@@ -7,10 +7,10 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Duplik Eidesstattliche Versicherung Einreden** ordnet den Fall über die tragenden Prüffelder: Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Duplik Eidesstattliche Versicherung Einreden** ordnet den Fall über die tragenden Prüfungslinien: Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `duplik-nach-replik` | Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht. |
 | `eidesstattliche-versicherung-294-zpo` | Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB. |
@@ -18,12 +18,12 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `duplik-nach-replik`
 
@@ -52,7 +52,7 @@ Nach Replik des Klaegers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das
 - **§ 296 ZPO** — Praeklusion.
 - **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Replik pruefen
 
@@ -107,7 +107,7 @@ Wenn Klaeger Zeugen benannt hat, die ihn entlasten — Sie koennen Gegenbeweis a
 
 ```
 Gegenbeweis: Zeugnis Frau Y,
-[ladungsfaehige Anschrift], zum Beweis dafuer,
+[ladungsfaehige Anschrift], zum Beweis dafür,
 dass die Behauptung des Klaegers, Herr X habe
 die Lieferung am 12.3.2025 entgegen genommen,
 nicht zutrifft. Frau Y war an diesem Tag im
@@ -116,7 +116,7 @@ Buero und wuerde es bezeugen koennen.
 
 ### Schritt 5 — Einreden vertiefen
 
-Wenn Klaeger gegen Ihre Verjaehrungs-Einrede argumentiert (z. B. Hemmung durch Verhandlungen behauptet), wieder fundiert antworten:
+Wenn Klaeger gegen Ihre Verjährungs-Einrede argumentiert (z. B. Hemmung durch Verhandlungen behauptet), wieder fundiert antworten:
 
 - Hemmung mit Beleg bestreiten.
 - Konkrete Zeitraeume bestimmen.
@@ -132,7 +132,7 @@ Aber: Lieber kurz schreiben, als gar nicht. Auch nur:
 Auf den Vortrag in der Klageerwiderung wird
 verwiesen. Eine weitere Stellungnahme ist
 nicht erforderlich; insbesondere bleibt die
-Verjaehrungs-Einrede aufrecht.
+Verjährungs-Einrede aufrecht.
 ```
 
 ### Schritt 7 — Letzter Schriftsatz vor Termin
@@ -164,7 +164,6 @@ Gericht setzt Duplik-Frist. Verlaengerung moeglich (Skill `fristverlaengerung-an
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -205,7 +204,7 @@ Die **eidesstattliche Versicherung** (e. V.) ist ein Mittel der **Glaubhaftmachu
 - **§ 920 ZPO** — Antrag auf Arrest mit Glaubhaftmachung.
 - **§ 936 ZPO** — Einstweilige Verfuegung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann genuegt Glaubhaftmachung?
 
@@ -258,7 +257,7 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe).
 - Vorsaetzlich: Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 - Fahrlaessig (§ 161 StGB): Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-Achtung: Auch wenn die Versicherung formell nicht durch zustaendige Stelle abgenommen wurde, kann § 156 StGB greifen (Streitfrage; pruefen).
+Achtung: Auch wenn die Versicherung formell nicht durch zuständige Stelle abgenommen wurde, kann § 156 StGB greifen (Streitfrage; pruefen).
 
 ### Schritt 5 — Beweiswert in Glaubhaftmachungs-Verfahren
 
@@ -312,7 +311,6 @@ E. V. ist haeufig die einfachste Form.
 
 Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -346,29 +344,29 @@ Eine **Einrede** ist Ihr eigenes Recht, das die Klage abwehrt, selbst wenn der K
 
 ## Rechtsgrundlagen
 
-- **§ 214 BGB** — Verjaehrungs-Einrede.
+- **§ 214 BGB** — Verjährungs-Einrede.
 - **§§ 387 ff. BGB** — Aufrechnung.
 - **§ 273 BGB** — Zurueckbehaltungsrecht.
 - **§ 320 BGB** — Einrede des nicht-erfuellten Vertrages.
 - **§ 311b BGB** — Formmangel.
-- **§ 196 BGB** — Verbraucher-Verjaehrung.
+- **§ 196 BGB** — Verbraucher-Verjährung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Einreden kommen in Betracht?
 
-- **Verjaehrung** (haeufigste, immer pruefen).
+- **Verjährung** (haeufigste, immer pruefen).
 - **Aufrechnung**.
 - **Zurueckbehaltungsrecht**.
 - **Einrede des nicht-erfuellten Vertrages** (§ 320 BGB) — synallagmatischer Vertrag.
 - **Stundung / Verzicht** auf Forderung.
 
-### Schritt 2 — Verjaehrungs-Einrede
+### Schritt 2 — Verjährungs-Einrede
 
-Pruefen Sie Verjaehrung (Skill `verjaehrungsfrist-pruefen-195-bgb`). Wenn Anspruch verjaehrt:
+Pruefen Sie Verjährung (Skill `verjaehrungsfrist-pruefen-195-bgb`). Wenn Anspruch verjaehrt:
 
 ```
-Einrede der Verjaehrung
+Einrede der Verjährung
 
 Der geltend gemachte Anspruch ist verjaehrt.
 
@@ -377,11 +375,11 @@ Die Forderung ist am 31.12.2024 verjaehrt
 gemaess § 199 BGB). Die Klage wurde erst am
 1.5.2026 eingereicht.
 
-Der Beklagte erhebt die Einrede der Verjaehrung
+Der Beklagte erhebt die Einrede der Verjährung
 gemaess § 214 BGB.
 ```
 
-Wirkung: Klage wird abgewiesen (sofern Verjaehrung tatsaechlich abgelaufen ist).
+Wirkung: Klage wird abgewiesen (sofern Verjährung tatsaechlich abgelaufen ist).
 
 ### Schritt 3 — Aufrechnung
 
@@ -393,7 +391,7 @@ Aufrechnung
 Der Beklagte erklaert die Aufrechnung mit
 einer Gegenforderung in Hoehe von 800 EUR
 aus [Anspruchsgrundlage, z. B. Mietminderung
-fuer Mangel].
+für Mangel].
 
 [Tatsachen zur Gegenforderung]
 
@@ -458,7 +456,7 @@ Eigener Abschnitt in der Klageerwiderung:
 ```
 III. Einreden
 
-1. Verjaehrung.
+1. Verjährung.
  [Begruendung]
 
 2. Hilfsweise: Aufrechnung mit Forderung in Hoehe
@@ -469,11 +467,11 @@ III. Einreden
  [Begruendung]
 ```
 
-Rangfolge: Erst Hauptangriff (Verjaehrung, weil sie Klage komplett zu Fall bringt), dann Aufrechnung (Teilreduktion), dann Zurueckbehaltung (Zug-um-Zug).
+Rangfolge: Erst Hauptangriff (Verjährung, weil sie Klage komplett zu Fall bringt), dann Aufrechnung (Teilreduktion), dann Zurueckbehaltung (Zug-um-Zug).
 
-### Schritt 8 — Fristen fuer Einreden
+### Schritt 8 — Fristen für Einreden
 
-- **Verjaehrungs-Einrede**: Im Klageerwiderungs-Schriftsatz (oder spaeter, aber § 296 ZPO drohend).
+- **Verjährungs-Einrede**: Im Klageerwiderungs-Schriftsatz (oder spaeter, aber § 296 ZPO drohend).
 - **Aufrechnung**: Auch spaeter moeglich, aber besser frueh.
 - **Zurueckbehaltungs-Recht**: Frueh.
 
@@ -481,19 +479,19 @@ Rangfolge: Erst Hauptangriff (Verjaehrung, weil sie Klage komplett zu Fall bring
 
 - **Einreden nicht von Amts wegen**: Gericht wartet auf Ihre Erklaerung.
 - **Praeklusion § 296 ZPO** moeglich, wenn zu spaet.
-- **Verjaehrung pruefen IMMER** — Standard-Check.
+- **Verjährung pruefen IMMER** — Standard-Check.
 - **Aufrechnungs-Erklaerung** kann (anders als reine prozessuale Einrede) auch materielles Wirkungsregime ausloesen.
 
 ## Typische Fehler
 
-- "Verjaehrung sieht das Gericht selbst." → Nein, Einrede muss erhoben werden.
+- "Verjährung sieht das Gericht selbst." → Nein, Einrede muss erhoben werden.
 - "Aufrechnung erklaere ich im Termin." → Frueh erklaeren, sonst Praeklusion.
 - "Zurueckbehaltungsrecht ohne konkrete Gegenleistung." → Klare Bezeichnung der Gegenleistung erforderlich.
 
 ## Querverweise
 
 - `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung pruefen.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
 - `widerklage-33-zpo` — Eigene Forderung als Widerklage.
 - `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
 

@@ -5,6 +5,24 @@ description: "Prüft Dashboards auf falsche Präzision, Datenlücken und politis
 
 # Dashboard Red Team
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachkern: Dashboard Red Team
 
 - **Managementproblem (Dashboard Red Team):** Prüft Dashboards auf falsche Präzision, Datenlücken und politische Ampeln. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.

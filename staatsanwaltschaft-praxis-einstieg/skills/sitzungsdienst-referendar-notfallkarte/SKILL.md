@@ -6,15 +6,12 @@ description: "Sitzungsdienst für Referendare: Notfallkarte: Praxis-Skill für n
 # Sitzungsdienst für Referendare: Notfallkarte
 
 ## Fachkern: Sitzungsdienst für Referendare: Notfallkarte
-- **Spezialgegenstand:** Sitzungsdienst für Referendare: Notfallkarte wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Sitzungsdienst für Referendare: Notfallkarte** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Anträge, Beweisaufnahme, Plädoyer, Strafmaß und Rücksprache mit Dezernat
 
@@ -40,6 +37,15 @@ Dieser Abschnitt bearbeitet **Fachkern: Sitzungsdienst für Referendare: Notfall
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 226 ff. StPO (Hauptverhandlung)
+- § 258 StPO (Schlussvorträge)
+- § 176 GVG (Sitzungspolizei)
+- Nr. 126-138 RiStBV
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

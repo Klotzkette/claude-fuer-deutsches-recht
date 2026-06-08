@@ -34,7 +34,7 @@ description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB
 
 ### Norm
 - § 310 Abs. 1 BGB: § 305 Abs. 2, 3 BGB, § 308 BGB und § 309 BGB finden auf B2B-AGB keine Anwendung; § 307 BGB bleibt als Massstab.
-- Bei der Anwendung des § 307 BGB im unternehmerischen Verkehr ist auf die im Handelsverkehr geltenden Gewohnheiten und Gebraeuche angemessen Ruecksicht zu nehmen.
+- Bei der Anwendung des § 307 BGB im unternehmerischen Verkehr ist auf die im Handelsverkehr geltenden Gewohnheiten und Gebraeuche angemessen Rücksicht zu nehmen.
 
 ### Indizwirkung der § 308/309-Wertungen
 - BGH staendige Rspr.: Klauseln, die im B2C unwirksam sind (§ 308/309 BGB), sind im B2B im Regelfall ebenfalls unwirksam, sofern keine besonderen Erwaegungen vorliegen.
@@ -42,8 +42,8 @@ description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB
 - BGH KZR 12/15 zur Wertungsuebertragung im Wirtschaftsrecht.
 
 ### Wichtige Sonderbereiche
-- **Haftungsausschluss**: § 309 Nr. 7a, 7b BGB strahlen in den B2B-Bereich aus. Insbesondere Ausschluss der Haftung fuer Vorsatz und grobe Fahrlaessigkeit ist in B2B unwirksam.
-- **Gewaehrleistungsausschluss**: Vollausschluss fuer Mangelhaftung in B2B regelmaessig unwirksam.
+- **Haftungsausschluss**: § 309 Nr. 7a, 7b BGB strahlen in den B2B-Bereich aus. Insbesondere Ausschluss der Haftung für Vorsatz und grobe Fahrlaessigkeit ist in B2B unwirksam.
+- **Gewaehrleistungsausschluss**: Vollausschluss für Mangelhaftung in B2B regelmaessig unwirksam.
 - **Vertragsstrafe**: Pauschalierter Schadensersatz in AGB nur wirksam, wenn die Hoehe nicht ausser Verhaeltnis steht.
 
 ### Aushandeln im B2B

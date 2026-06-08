@@ -30,7 +30,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **ALG I**: Arbeitslosengeld bei Arbeitslosigkeit (12 bis 24 Monate je nach Lebensalter).
 - **Sperrzeit**: Kuerzung wegen versicherungswidrigem Verhalten (z.B. selbst gekuendigt).
 - **Anwartschaftszeit**: 12 Monate sozialversicherungspflichtige Beschaeftigung in den letzten 30 Monaten.
-- **Bemessungsentgelt**: Berechnungsgrundlage fuer Hoehe.
+- **Bemessungsentgelt**: Berechnungsgrundlage für Hoehe.
 
 ## Rechtsgrundlagen
 
@@ -40,7 +40,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 - **§ 149 SGB III** — Hoehe.
 - **§ 159 SGB III** — Sperrzeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruch pruefen
 
@@ -65,12 +65,12 @@ Bei Eigenkuendigung "wichtiger Grund":
 - Schwerwiegende Vertragsverletzungen des Arbeitgebers
 - Familiaere Gruende (Pflege von Angehoerigen)
 - Wegfall der Zumutbarkeit des Arbeitswegs (z.B. bei Umzug zu pflegebeduerftigem Angehoerigen) — BSG-Linie pruefen
-- Aufhebungsvertrag fuer Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
+- Aufhebungsvertrag für Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
 
 ### Schritt 4 — Widerspruch
 
 ```
-Agentur fuer Arbeit [Ort] [Ort, Datum]
+Agentur für Arbeit [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -82,7 +82,7 @@ gegen den o.g. Bescheid mit Sperrzeit von 12 Wochen lege ich Widerspruch ein.
 
 Begruendung:
 
-1. Wichtiger Grund fuer Eigenkuendigung lag vor:
+1. Wichtiger Grund für Eigenkuendigung lag vor:
  - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
  - Aerztliches Attest zur psychischen Belastung (Anlage 2)
  - Beschwerde beim Betriebsrat (Anlage 3)
@@ -124,7 +124,6 @@ Bei abweisendem Widerspruchsbescheid.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pruefen in juris.
-
 
 ## Qualitäts-Hardening
 

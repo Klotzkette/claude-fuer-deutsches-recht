@@ -1,34 +1,34 @@
 ---
 name: betriebsrat-ladung-betriebsuebergang-613a
-description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: prüft konkret Prüffeld für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei, Aktualisiert den Status eines laufenden Expansionsprojekts. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: prüft konkrete Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei, Aktualisiert den Status eines laufenden Expansionsprojekts. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Betriebsrat Ladung Betriebsuebergang 613a
 
 ## Arbeitsbereich
 
-**Betriebsrat Ladung Betriebsuebergang 613a** ordnet den Fall über die tragenden Prüffelder: Prüffeld für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Betriebsrat Ladung Betriebsuebergang 613a** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüffeld für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan. |
 | `einstellungspruefung` | Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung. |
 | `expansion-aktualisierung` | Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `betriebsrat-ladung-und-ersatzmitglieder-pruefen`
 
-**Fokus:** Prüffeld für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsrat — Ladung und Ersatzmitglieder prüfen
 
@@ -39,7 +39,6 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Rechtsgrundlagen
 
@@ -188,7 +187,6 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage-Frage — vor der Prüfung klären
 
 Bevor losgelegt wird, kläre:
@@ -197,7 +195,7 @@ Bevor losgelegt wird, kläre:
 3. Besteht ein Betriebsrat (Mitbestimmung § 111 BetrVG)?
 4. Sind Tarifverträge anwendbar, die auf den Erwerber übergehen sollen?
 5. Welche Schlüsselpersonen könnten widersprechen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Eingaben
 
@@ -369,7 +367,6 @@ Handlungsempfehlungen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Quellen und Zitierweise
 
 Zitierstandard: `../references/zitierweise.md`.
@@ -391,7 +388,6 @@ Zitierstandard: `../references/zitierweise.md`.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage zu Beginn — kläre vor der Einstellungsprüfung
 
@@ -462,7 +458,7 @@ Sachgründe prüfen (Nr. 1–8):
 - Erstnachweis am ersten Arbeitstag schriftlich (keine elektronische Form!)
 - Spätestens am 7. Arbeitstag für Kernbedingungen: Name, Anschrift, Beginn/Ende, Arbeitsort, Tätigkeit, Vergütung, Arbeitszeit, Urlaub, Kündigungsfristen, anwendbare Tarifverträge/Betriebsvereinbarungen
 - Bußgeld § 4 NachwG bei Verletzung: bis 2.000 Euro je Arbeitnehmer
-- **Schadensersatz neben Bussgeld**: BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen die Nachweispflicht kann der Arbeitnehmer Schadensersatz verlangen (z.B. bei Versaeumung tariflicher Ausschlussfristen mangels Kenntnis des Tarifvertrags); Anspruch nur, soweit die Pflichtverletzung kausal fuer den geltend gemachten Schaden ist. Anspruch ist nicht auf die Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung BAG 22.09.2022 - 8 AZR 4/21; Volltext auf bundesarbeitsgericht.de.
+- **Schadensersatz neben Bussgeld**: BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen die Nachweispflicht kann der Arbeitnehmer Schadensersatz verlangen (z.B. bei Versaeumung tariflicher Ausschlussfristen mangels Kenntnis des Tarifvertrags); Anspruch nur, soweit die Pflichtverletzung kausal für den geltend gemachten Schaden ist. Anspruch ist nicht auf die Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung BAG 22.09.2022 - 8 AZR 4/21; Volltext auf bundesarbeitsgericht.de.
 
 ### Schritt 5: AGB-Kontrolle (§§ 305–310 BGB)
 - Freiwilligkeitsvorbehalt bei variablen Vergütungsbestandteilen — kein Widerspruch zu anderen Klauseln
@@ -562,7 +558,6 @@ Handlungsempfehlungen:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 

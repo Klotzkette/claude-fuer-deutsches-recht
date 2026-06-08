@@ -1,6 +1,6 @@
 ---
 name: oertliche-zustaendigkeit-57-sgg
-description: "Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden."
+description: "Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behörde Sondervorschriften. Wie Sie das richtige SG finden."
 ---
 
 # Welches Sozialgericht in welcher Stadt? — § 57 SGG
@@ -13,7 +13,7 @@ description: "Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die ör
 
 ## Worum geht es?
 
-Sie wissen, dass das Sozialgericht zustaendig ist. Aber welches? In Deutschland gibt es viele SG. Diese Skill zeigt, welches fuer Sie zustaendig ist.
+Sie wissen, dass das Sozialgericht zuständig ist. Aber welches? In Deutschland gibt es viele SG. Diese Skill zeigt, welches für Sie zuständig ist.
 
 ## In einfacher Sprache
 
@@ -21,24 +21,24 @@ Es gibt viele Sozialgerichte. Das richtige ist meistens dort, wo Sie wohnen. Wir
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie wollen Klage einreichen und kennen das zustaendige SG nicht.
+- Sie wollen Klage einreichen und kennen das zuständige SG nicht.
 - Sie sind umgezogen.
 - Ihr Bescheid kommt aus einer anderen Stadt.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Oertliche Zustaendigkeit**: Welches SG in welcher Region?
+- **Oertliche Zuständigkeit**: Welches SG in welcher Region?
 - **Wohnsitz**: Wo Sie gemeldet sind und tatsaechlich leben.
-- **Behoerden-Sitz**: Wo die beklagte Behoerde sitzt.
+- **Behörden-Sitz**: Wo die beklagte Behörde sitzt.
 
 ## Rechtsgrundlagen
 
 - **§ 57 Abs. 1 SGG** — Grundsatz: das SG, in dessen Bezirk Sie wohnen.
 - **§ 57 Abs. 2 SGG** — Sondervorschriften (z.B. Berufsgenossenschaft am Sitz der BG).
-- **§ 57a SGG** — Sonderzustaendigkeit fuer Vertragsarzt-Sachen.
-- **§ 98 SGG** — Verweisung bei falscher Zustaendigkeit.
+- **§ 57a SGG** — Sonderzuständigkeit für Vertragsarzt-Sachen.
+- **§ 98 SGG** — Verweisung bei falscher Zuständigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ihren Wohnort pruefen
 
@@ -49,7 +49,7 @@ Wo wohnen Sie? Bei welchem SG das ist, sehen Sie hier:
 
 ### Schritt 2 — Sonderregeln pruefen
 
-- **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behoerde.
+- **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behörde.
 - **Berufsgenossenschaft (SGB VII)**: SG am Sitz der BG (also z.B. Berufsgenossenschaft Rohstoffe und Chemische Industrie in Heidelberg).
 - **Vertragsarzt-Streit**: SG am Sitz der Kassenaerztlichen Vereinigung.
 
@@ -71,25 +71,24 @@ Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist I
 ## Worauf Sie besonders achten muessen
 
 - **Verweisung kostet Zeit.** Direkt richtig adressieren spart Wochen.
-- **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behoerde. Manche Behoerden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
+- **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behörde. Manche Behörden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
 
 ## Typische Fehler
 
-- SG der Behoerde gewaehlt → falsch, wenn Sie woanders wohnen
+- SG der Behörde gewaehlt → falsch, wenn Sie woanders wohnen
 - Klage ans LSG geschickt → erste Instanz ist immer SG
 - Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de pruefen
 
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zustaendigkeit-51-sgg` — sachliche Zustaendigkeit
+- `sozialgericht-zuständigkeit-51-sgg` — sachliche Zuständigkeit
 - `klage-zur-niederschrift-90-sgg` — Klage diktieren
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Klage per Post
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung nach § 98 SGG haelt die Frist.
-
 
 ## Qualitäts-Hardening
 

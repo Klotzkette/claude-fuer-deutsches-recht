@@ -7,23 +7,23 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 
 ## Arbeitsbereich
 
-**Vollstreckungsklausel ZPO Papierform** ordnet den Fall über die tragenden Prüffelder: Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vollstreckungsklausel ZPO Papierform** ordnet den Fall über die tragenden Prüfungslinien: Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `vollstreckungsklausel-724-zpo` | Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun. |
-| `einreichung-papierform-mit-abschriften` | Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung. |
+| `einreichung-papierform-mit-abschriften` | Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung. |
 | `anlagen-formatieren-k1-k2-pdf-amtsgericht` | Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger ohne Anwalt am Amtsgericht. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vollstreckungsklausel-724-zpo`
 
@@ -33,7 +33,7 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 
 ## Worum geht es?
 
-Ein Urteil allein reicht **nicht** fuer Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel koennen Sie zum Gerichtsvollzieher.
+Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel koennen Sie zum Gerichtsvollzieher.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -54,14 +54,14 @@ Ein Urteil allein reicht **nicht** fuer Zwangsvollstreckung. Sie brauchen eine *
 - **§§ 726–732 ZPO** — Qualifizierte Klausel.
 - **§ 750 ZPO** — Voraussetzung der Vollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann beantragen?
 
 Wenn das Urteil vorliegt und Gegnerseite nicht freiwillig erfuellt:
 
-- Bei vorlaeufiger Vollstreckbarkeit: Schon vor Rechtskraft moeglich.
-- Bei nicht vorlaeufiger Vollstreckbarkeit: erst nach Rechtskraft.
+- Bei vorläufiger Vollstreckbarkeit: Schon vor Rechtskraft moeglich.
+- Bei nicht vorläufiger Vollstreckbarkeit: erst nach Rechtskraft.
 
 ### Schritt 2 — Antrag stellen
 
@@ -142,7 +142,7 @@ Wenn die erste Klausel verloren / ausgegeben: zweite Klausel auf Antrag (§ 733 
 
 ## Typische Fehler
 
-- "Urteil reicht fuer Pfaendung." → Klausel zusaetzlich.
+- "Urteil reicht für Pfaendung." → Klausel zusaetzlich.
 - "Klausel ohne Zustellung an Schuldner." → Verfahrensfehler.
 - "Klausel verloren — egal." → Zweite beantragen.
 
@@ -159,13 +159,13 @@ Stand: 05/2026. §§ 724 ff. ZPO unveraendert.
 
 ## 2. `einreichung-papierform-mit-abschriften`
 
-**Fokus:** Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung.
+**Fokus:** Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung.
 
 # Klage in Papierform einreichen
 
 ## Worum geht es?
 
-Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pflicht fuer Sie. Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis fuer Fristwahrung.
+Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pflicht für Sie. Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis für Fristwahrung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -175,7 +175,7 @@ Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pfl
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Abschrift**: Vollstaendige Kopie der Klageschrift mit Anlagen, fuer die Gegenseite bestimmt.
+- **Abschrift**: Vollstaendige Kopie der Klageschrift mit Anlagen, für die Gegenseite bestimmt.
 - **Eingangsstempel**: Stempel des Gerichts mit Datum und Uhrzeit der Einreichung.
 - **Einschreiben**: Postversand mit Empfangsbestaetigung.
 
@@ -184,18 +184,18 @@ Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pfl
 - **§ 130 ZPO** — Anforderungen an Schriftsatz.
 - **§ 130 Nr. 6 ZPO** — Unterschrift.
 - **§ 133 ZPO** — Schriftsaetze mit Beilagen.
-- **§ 167 ZPO** — Zustellung "demnaechst" wirkt zurueck (wichtig fuer Fristwahrung!).
+- **§ 167 ZPO** — Zustellung "demnaechst" wirkt zurueck (wichtig für Fristwahrung!).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wie viele Saetze?
 
-Pro Streitpartei brauchen Sie eine Abschrift, plus Original fuer das Gericht.
+Pro Streitpartei brauchen Sie eine Abschrift, plus Original für das Gericht.
 
-- 1 Klaeger, 1 Beklagter: 2 Saetze (1 Original Gericht, 1 Abschrift Beklagter) + 1 fuer Sie selbst.
-- 1 Klaeger, 2 Beklagte: 3 Saetze (1 Original + 2 Abschriften) + 1 fuer Sie selbst.
+- 1 Klaeger, 1 Beklagter: 2 Saetze (1 Original Gericht, 1 Abschrift Beklagter) + 1 für Sie selbst.
+- 1 Klaeger, 2 Beklagte: 3 Saetze (1 Original + 2 Abschriften) + 1 für Sie selbst.
 
-Faustregel: 1 Original + so viele Abschriften wie Beklagte + 1 Aktenkopie fuer Sie.
+Faustregel: 1 Original + so viele Abschriften wie Beklagte + 1 Aktenkopie für Sie.
 
 ### Schritt 2 — Saetze identisch?
 
@@ -217,7 +217,7 @@ Ja, jede Abschrift muss exakt identisch zum Original sein:
 
 Optionen:
 
-- **Einschreiben mit Rueckschein**: Best — Beweis fuer Zugang.
+- **Einschreiben mit Rueckschein**: Best — Beweis für Zugang.
 - **Einschreiben Einwurf**: Etwas guenstiger, Beweis ist Sendungs-Verlaufsmeldung.
 - **Normaler Brief**: Riskant; kein Zugangs-Beweis. Vermeiden, wenn Frist laeuft.
 - **Persoenlich an der Geschaeftsstelle**: Sicherster Weg. Sie bekommen Eingangsstempel.
@@ -241,7 +241,7 @@ Skill `zurechnungsproblem-versand-durch-dritte`.
 
 ### Schritt 8 — § 167 ZPO Rueckwirkung
 
-Wichtig fuer Verjaehrungs-Hemmung und Frist-Einhaltung: Wenn die Zustellung an den Beklagten **alsbald** erfolgt, gilt die Zustellung als am Tag der Klageeinreichung erfolgt. Sie muessen also nicht warten, dass die Zustellung tatsaechlich raus ist — der Eingang bei Gericht zaehlt fuer Frist.
+Wichtig für Verjährungs-Hemmung und Frist-Einhaltung: Wenn die Zustellung an den Beklagten **alsbald** erfolgt, gilt die Zustellung als am Tag der Klageeinreichung erfolgt. Sie muessen also nicht warten, dass die Zustellung tatsaechlich raus ist — der Eingang bei Gericht zaehlt für Frist.
 
 Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "demnaechst". Skill `gerichtskostenvorschuss-12-gkg`.
 
@@ -270,7 +270,6 @@ Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "dem
 
 Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -297,8 +296,8 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 
 ## Fachbegriffe (kurz erklaert)
 
-- **PDF**: Ein Dokument-Format, das auf jedem Geraet gleich aussieht. Standard fuer Gerichts-Einreichungen.
-- **OCR**: Optical Character Recognition — eine Funktion, die gescannte Bilder in durchsuchbaren Text umwandelt. Wichtig fuer das Gericht, weil Text durchsucht werden kann.
+- **PDF**: Ein Dokument-Format, das auf jedem Geraet gleich aussieht. Standard für Gerichts-Einreichungen.
+- **OCR**: Optical Character Recognition — eine Funktion, die gescannte Bilder in durchsuchbaren Text umwandelt. Wichtig für das Gericht, weil Text durchsucht werden kann.
 - **Stempel**: Eine Beschriftung, die auf das fertige PDF aufgebracht wird (auch "Stempel-Annotation" genannt).
 
 ## Empfohlene Formatierung (Konvention)
@@ -309,7 +308,7 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 | Schriftgroesse Text | 12 Punkt |
 | Zeilenabstand | 1,5-fach |
 | Rand oben/unten | rd. 2,5 cm |
-| Rand links | rd. 3 cm (Platz fuer Heftung) |
+| Rand links | rd. 3 cm (Platz für Heftung) |
 | Rand rechts | rd. 2 cm |
 | Anlage-Beschriftung | oben rechts, Schriftgroesse 14 Punkt, fett |
 | Position Anlage K1 | etwa 2 cm vom oberen Rand, etwa 2 cm vom rechten Rand |
@@ -317,7 +316,7 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 
 **Wichtig:** Das ist eine **Konvention der Praxis**, kein Gesetz. Wenn Sie davon abweichen, ist die Klage nicht unwirksam. Aber: Eine saubere Formatierung wirkt sich positiv aus.
 
-## Schritt-fuer-Schritt-Anleitung — Word/LibreOffice
+## Schritt-für-Schritt-Anleitung — Word/LibreOffice
 
 ### Schritt 1 — Klageschrift in 12pt schreiben
 
@@ -363,7 +362,7 @@ Es gibt drei Wege:
 - Oben rechts "Anlage K1" platzieren.
 - Herunterladen.
 
-**Achtung Datenschutz:** Wenn die Anlage sensible Daten enthaelt (Gehaltsabrechnung, Vertrag mit persoenlichen Daten), nutzen Sie **keine Online-Tools**, sondern ein lokales Programm.
+**Achtung Datenschutz:** Wenn die Anlage sensible Daten enthaelt (Gehaltsabrechnung, Vertrag mit persönlichen Daten), nutzen Sie **keine Online-Tools**, sondern ein lokales Programm.
 
 ### Schritt 4 — Seitenzahlen einfuegen (bei mehrseitigen Anlagen)
 
@@ -378,7 +377,7 @@ Wenn Sie einen gescannten Vertrag haben, ist der Text im PDF nur als Bild gespei
 - In Adobe Acrobat: Werkzeuge → Text erkennen.
 - Kostenlos: Tesseract, OCRmyPDF (Kommandozeile), oder kostenlose Online-OCR-Tools.
 
-Das ist nicht zwingend, aber praktisch fuer alle.
+Das ist nicht zwingend, aber praktisch für alle.
 
 ### Schritt 6 — Dateinamen nach Konvention
 
@@ -392,7 +391,7 @@ Wenn Sie die Anlagen ueber Mein Justizpostfach einreichen, geben Sie den Dateien
 05_Anlage_K4_Mahnung.pdf
 ```
 
-Die fuehrenden Nummern (01, 02, ...) sorgen dafuer, dass die Dateien in der **richtigen Reihenfolge** sortiert werden.
+Die fuehrenden Nummern (01, 02, ...) sorgen dafür, dass die Dateien in der **richtigen Reihenfolge** sortiert werden.
 
 ## Beispiel — fertige Anlage
 
@@ -419,7 +418,7 @@ So sollte eine fertige Anlage K1 aussehen:
 
 - **Schwarzer Text auf weissem Hintergrund** — kein farbiges Papier, kein Wasserzeichen "ENTWURF" oder "MUSTER".
 - **Lesbarkeit**: 12pt ist Standard. Kleiner ist schlecht, groesser unueblich.
-- **Datenschutz**: Schwaerzen Sie persoenliche Daten Dritter (z.B. Kontonummern fremder Personen), wenn sie nichts mit dem Fall zu tun haben.
+- **Datenschutz**: Schwaerzen Sie persönliche Daten Dritter (z.B. Kontonummern fremder Personen), wenn sie nichts mit dem Fall zu tun haben.
 - **Dateigroesse**: Mein Justizpostfach hat eine Obergrenze pro Einreichung (typisch 60 MB). Komprimieren Sie grosse PDFs.
 
 ## Typische Fehler
@@ -440,7 +439,6 @@ So sollte eine fertige Anlage K1 aussehen:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
-
 
 ## Qualitäts-Hardening
 

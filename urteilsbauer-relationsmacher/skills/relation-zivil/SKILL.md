@@ -74,7 +74,7 @@ Drei Kategorien:
 
 - **Einwendungen rechtshindernd** (verhindern Anspruchsentstehung): Geschäftsunfähigkeit Paragraf 105 BGB Anfechtung Paragraf 142 BGB Formmangel Paragraf 125 BGB Sittenwidrigkeit Paragraf 138 BGB.
 - **Einwendungen rechtsvernichtend** (zerstören entstandenen Anspruch): Erfüllung Paragraf 362 BGB Aufrechnung Paragraf 389 BGB Erlass Paragraf 397 BGB Rücktritt Paragraf 346 BGB Wandelung Minderung.
-- **Einreden durchsetzbarkeitshemmend** (hemmen Durchsetzung): Verjaehrung Paragraf 214 BGB Stundung Zurueckbehaltungsrecht Paragraf 273 BGB Einrede des nicht erfüllten Vertrags Paragraf 320 BGB.
+- **Einreden durchsetzbarkeitshemmend** (hemmen Durchsetzung): Verjährung Paragraf 214 BGB Stundung Zurueckbehaltungsrecht Paragraf 273 BGB Einrede des nicht erfüllten Vertrags Paragraf 320 BGB.
 
 Vorgehen:
 
@@ -87,7 +87,7 @@ Vorgehen:
 
 Hat die Klägerin auf einen erheblichen Beklagteneinwand etwas erwidert? Beispiele:
 
-- Beklagte beruft sich auf Verjaehrung; Klägerin entgegnet Hemmung nach Paragraf 203 BGB (Verhandlungen).
+- Beklagte beruft sich auf Verjährung; Klägerin entgegnet Hemmung nach Paragraf 203 BGB (Verhandlungen).
 - Beklagte beruft sich auf Aufrechnung; Klägerin entgegnet Aufrechnungsverbot Paragraf 393 BGB.
 - Beklagte beruft sich auf Erfüllung; Klägerin entgegnet Erfüllungsidentitaet nicht gegeben.
 

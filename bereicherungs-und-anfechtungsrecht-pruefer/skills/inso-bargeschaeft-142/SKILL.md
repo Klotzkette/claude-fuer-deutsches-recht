@@ -62,7 +62,6 @@ Eine starre 30-Tage-Grenze ist zu grob. Der Zusammenhang wird nach Leistungstyp,
 
 Hinweis: Keine Rechtsberatung. § 142 InsO schützt echten Austausch, nicht nachträgliche Krisenbereinigung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

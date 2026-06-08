@@ -5,12 +5,26 @@ description: "Team: Sonderfall und Edge-Case-Prüfung im DFG-Förderantragstellu
 
 # Team: Sonderfall und Edge-Case-Prüfung
 
-## Spezialwissen: Team: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Team: Sonderfall und Edge-Case-Prüfung / team sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DFG, KI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Regelungs- und Quellenanker
 
+Arbeitsfokus: **Team: Sonderfall und Edge-Case-Prüfung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Team: Sonderfall und Edge-Case-Prüfung
+- **Normen-/Quellenanker:** DFG, KI.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

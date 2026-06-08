@@ -1,0 +1,58 @@
+---
+name: einbuergerung
+description: "Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Einbürgerung
+
+## Arbeitsbereich
+
+Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: NKR-Stellungnahme i.d.R. 4 Wochen vor Kabinett, OZG-Umsetzung erweitert durch OZGÄndG, Verordnungsbefristung nach BEG IV regelmäßig 7 Jahre.
+- Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Aufgabe
+Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel.
+
+## Normfokus und Praxis
+- Rechtsgrundlagen: § 10 StAG (Anspruchseinbürgerung), § 8 StAG (Ermessenseinbürgerung), § 9 StAG (Ehegatten). Seit Reform 2024 (Inkrafttreten 27.6.2024): Mindestaufenthalt fünf statt acht Jahre, drei Jahre bei besonderer Integration (§ 10 Abs. 3 StAG); Mehrstaatigkeit grundsätzlich zugelassen (Streichung § 12 StAG aF).
+- Voraussetzungen: gesicherter Lebensunterhalt ohne Sozialleistungsbezug (§ 10 Abs. 1 Nr. 3 StAG; Ausnahmen: ALG I, Aufstocker etc.); Sprachkenntnisse B1 (§ 10 Abs. 1 Nr. 6 StAG); Einbürgerungstest (§ 10 Abs. 1 Nr. 7 StAG); keine strafgerichtliche Verurteilung über Bagatellgrenze (§ 12a StAG); Bekenntnis zur freiheitlich-demokratischen Grundordnung (§ 10 Abs. 1 Nr. 1, § 11 StAG).
+- Verzögerung: Untätigkeitsklage nach drei Monaten (§ 75 VwGO). Praxiserfahrung: häufig 12-24 Monate Bearbeitungszeit; Fristmahnung an die Behörde schriftlich, danach Klage.
+- Praktiker-Tipp: Unterlagen vollständig und beglaubigt einreichen (Geburts-/Heiratsurkunde mit Apostille/Legalisation, Sprachzertifikat B1, Einbürgerungstest, Einkommensnachweise). Bei Doppelstaaterhalt klären, ob Herkunftsstaat ohne Antrag entlässt oder Mehrstaatigkeit ohnehin akzeptiert.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
+
+## Output
+- Kurz-Erklärung
+- Risiko- und Fristenampel
+- konkreter nächster Schritt
+- Dokumententwurf oder Checkliste
+
+## Quellen- und Aktualitätsregel
+- einschlägiges Bundesrecht
+- Landesrecht/kommunale Satzung
+- amtliche Behörden- oder Gerichtsseite
+- frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.

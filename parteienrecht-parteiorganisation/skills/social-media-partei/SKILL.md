@@ -25,6 +25,14 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- TTDSG
+- DSA-VO
+- § 130 OWiG
 ## Output
 - Kurz-Erklärung
 - Risiko- und Fristenampel

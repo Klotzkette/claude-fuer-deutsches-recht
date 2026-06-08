@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Prüffeld für vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für vergleichsverhandlung strategie im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
@@ -13,9 +13,8 @@ description: "Prüffeld für vergleichsverhandlung strategie: prüft Normtext, N
 
 ## Fachkern: Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 
-- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Prüffeld für vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Prüfungslinie für vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
-
 
 ## Aktuelle Rechtsprechung (Vergleich/Einigung)
 
@@ -51,7 +50,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -113,7 +112,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -126,7 +124,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -135,7 +133,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -153,7 +151,7 @@ Im Bereich Steuerrecht (Beratung und Prozess) oft uebersehen:
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -168,9 +166,9 @@ Klassische Stolperfalle in Steuerrecht (Beratung und Prozess):
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.

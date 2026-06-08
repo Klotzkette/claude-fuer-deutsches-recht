@@ -7,10 +7,10 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 
 ## Arbeitsbereich
 
-**Klageschrift Pflichtbestandteile** ordnet den Fall über die tragenden Prüffelder: Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Klageschrift Pflichtbestandteile** ordnet den Fall über die tragenden Prüfungslinien: Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `klageschrift-pflichtbestandteile-253-zpo` | Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe. |
 | `klageschrift-tatsachenvortrag-strukturieren` | Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern. |
@@ -18,12 +18,12 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `klageschrift-pflichtbestandteile-253-zpo`
 
@@ -54,7 +54,7 @@ Eine Klage muss bestimmte Pflichtangaben enthalten, sonst ist sie unzulaessig. �
 - **§ 253 II Nr. 2 ZPO** — Bestimmter Antrag.
 - **§ 253 III ZPO** — Streitwert, Beweismittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Kopfdaten
 
@@ -112,7 +112,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt der
  Beklagte.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar
+3. Das Urteil wird für vorlaeufig vollstreckbar
  erklaert.
 ```
 
@@ -193,7 +193,7 @@ Skill `klageschrift-anlagen-bezeichnen`.
 
 ### Schritt 9 — Abschriften
 
-Pro Beklagter eine Abschrift fuer die Zustellung; zusaetzlich Original fuer das Gericht und Kopie fuer Sie.
+Pro Beklagter eine Abschrift für die Zustellung; zusaetzlich Original für das Gericht und Kopie für Sie.
 
 Skill `einreichung-papierform-mit-abschriften`.
 
@@ -227,7 +227,6 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 253 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -268,7 +267,7 @@ Der Tatsachenvortrag (= Sachverhalt) ist das Fundament Ihrer Klage. Das Gericht 
 - **§ 296 ZPO** — Versplaeteter Vortrag — Praeklusion!
 - **§ 253 II Nr. 2 ZPO** — Klagegrund.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tatbestandsmerkmale identifizieren
 
@@ -358,7 +357,7 @@ Pro Tatbestandsmerkmal:
 - Habe ich vorgetragen?
 - Habe ich Beweis benannt?
 
-Beispiel-Checkliste fuer Kaufpreis-Forderung:
+Beispiel-Checkliste für Kaufpreis-Forderung:
 
 - [x] Kaufvertrag — Datum, Parteien, Sache, Preis.
 - [x] Uebergabe / Lieferung.
@@ -368,7 +367,7 @@ Beispiel-Checkliste fuer Kaufpreis-Forderung:
 
 ### Schritt 6 — Negative Tatsachen
 
-Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis fuer "kein Eingang" anbieten.
+Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis für "kein Eingang" anbieten.
 
 ### Schritt 7 — Schluessigkeit pruefen
 
@@ -419,7 +418,6 @@ Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und a
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -458,7 +456,7 @@ Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das
 - **§ 104 ZPO** — Verfahren.
 - **§ 91 II 1 ZPO** — Anwaltskosten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzung: Kosten-Titel
 
@@ -472,7 +470,7 @@ Sie brauchen ein Urteil (oder Vergleich), das die Kostenfolge regelt:
 Aus § 91 ZPO und Rechtsprechung:
 
 - **Gerichtskosten**: Vorschuss, Sachverstaendigen-Auslagen.
-- **Anwaltskosten**: Wenn Sie Anwalt hatten (nach RVG). Bei Selbstvertretung: kein Erstattungs-Anspruch fuer eigene Zeit.
+- **Anwaltskosten**: Wenn Sie Anwalt hatten (nach RVG). Bei Selbstvertretung: kein Erstattungs-Anspruch für eigene Zeit.
 - **Reisekosten** zum Gericht (km-Pauschale, ggf. Hotel).
 - **Verdienstausfall** bei eigener Anwesenheit (begrenzt).
 - **Porto, Telekommunikation**.
@@ -570,7 +568,6 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 103, 104 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

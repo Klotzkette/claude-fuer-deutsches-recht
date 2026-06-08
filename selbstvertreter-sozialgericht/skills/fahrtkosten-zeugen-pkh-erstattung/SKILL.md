@@ -17,7 +17,7 @@ Wer zum Gericht faehrt oder Zeuge ist, hat Auslagen. Hier lernen Sie, wer was be
 
 ## In einfacher Sprache
 
-Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat oder die Behoerde zahlen. Wir zeigen, wie.
+Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat oder die Behörde zahlen. Wir zeigen, wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,7 +29,7 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 
 - **JVEG**: Justizverguetungs- und -entschaedigungsgesetz.
 - **Reisekosten**: Fahrtkosten + Tagegeld + Uebernachtung.
-- **Verdienstausfall**: Lohnersatz fuer abwesende Stunden.
+- **Verdienstausfall**: Lohnersatz für abwesende Stunden.
 
 ## Rechtsgrundlagen
 
@@ -38,7 +38,7 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 - **§§ 19 ff. JVEG** — Verdienstausfall.
 - **§ 191 SGG** — Auslagen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer ist Anspruchsberechtigt
 
@@ -120,7 +120,6 @@ Hinweis: Der km-Satz nach JVEG kann sich aendern; pruefen Sie den aktuellen Wert
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. JVEG aktuell. Konkrete Saetze pruefen.
-
 
 ## Qualitäts-Hardening
 

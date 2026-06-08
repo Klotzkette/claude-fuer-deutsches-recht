@@ -7,10 +7,10 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Datenschutz Schufa Scoring Art22** ordnet den Fall über die tragenden Prüffelder: Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Schufa Scoring Art22** ordnet den Fall über die tragenden Prüfungslinien: Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `datenschutz-schufa-insolvenzdaten-loeschung` | Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen. |
 | `datenschutz-scoring-art22-schufa-c63421` | Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA. |
@@ -20,12 +20,12 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `datenschutz-schufa-insolvenzdaten-loeschung`
 
@@ -379,7 +379,7 @@ Letzter Wechsel: [DATUM, UHRZEIT]
 
 ## Zweck / Purpose
 
-Template for a controller-to-controller (C2C) data sharing agreement where two independent controllers exchange personal data without becoming joint controllers under Article 26 GDPR. Purpose (DE): Mustervorlage fuer eine englischsprachige Datentransfer-Vereinbarung zwischen zwei getrennten Verantwortlichen ohne gemeinsame Verantwortlichkeit.
+Template for a controller-to-controller (C2C) data sharing agreement where two independent controllers exchange personal data without becoming joint controllers under Article 26 GDPR. Purpose (DE): Mustervorlage für eine englischsprachige Datentransfer-Vereinbarung zwischen zwei getrennten Verantwortlichen ohne gemeinsame Verantwortlichkeit.
 
 ## Wann dieses Modul hilft
 
@@ -521,7 +521,6 @@ Date: Date:
 - EDPB Recommendations 01/2020 on transfer impact assessment (Version 2.0, June 2021).
 - CJEU C-25/17, C-498/16, C-40/17 – verified case numbers; check full text via curia.europa.eu before citation.
 - Citation rules: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

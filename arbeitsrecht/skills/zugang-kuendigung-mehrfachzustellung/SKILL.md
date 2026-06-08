@@ -7,22 +7,22 @@ description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüf
 
 ## Arbeitsbereich
 
-**Zugang Kuendigung Mehrfachzustellung** ordnet den Fall über die tragenden Prüffelder: Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zugang Kuendigung Mehrfachzustellung** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall`
 
@@ -32,7 +32,7 @@ description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüf
 
 ## Aufgabe
 
-Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623 BGB.
+Skill für Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623 BGB.
 
 ## Schriftformerfordernis § 623 BGB
 
@@ -53,12 +53,12 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 - **§ 4 S. 1 KSchG laeuft NICHT an**, weil die Vorschrift ihrem Wortlaut nach nur eine **schriftliche** Kuendigung erfasst (BAG 22. Oktober 2015 - 2 AZR 720/14 Rn 23 ff.; BAG 17. Dezember 2015 - 6 AZR 709/14).
 - **Keine Heilung ueber § 7 KSchG** bei Formverstoss: Die Fiktionswirkung des § 7 KSchG setzt eine formwirksame schriftliche Kuendigung voraus; bei Nichtigkeit nach § 125 BGB iVm § 623 BGB greift sie nicht.
 - Der Arbeitnehmer kann den Fortbestand des Arbeitsverhaeltnisses jederzeit (vorbehaltlich Verwirkung) mit allgemeiner Feststellungsklage § 256 ZPO geltend machen, nicht nur mit Kuendigungsschutzklage § 4 KSchG.
-- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhoerung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
+- Achtung Abgrenzung: Eine formwirksame, aber aus anderem Grund unwirksame Kuendigung (z.B. Sozialwidrigkeit, fehlende Anhörung Betriebsrat) muss innerhalb von 3 Wochen mit Kuendigungsschutzklage angegriffen werden, sonst Fiktion § 7 KSchG.
 
 ## Empfehlung
 
 - **Original-Brief mit eigenhaendiger Unterschrift** ist der einzig sichere Weg.
-- Zustellung per Bote oder persoenliche Uebergabe.
+- Zustellung per Bote oder persönliche Uebergabe.
 - Wenn elektronisch, dann nur als Vorab-Information; Original folgt.
 
 ## BAG-Linie
@@ -87,7 +87,7 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 ## Aufgabe
 
-Skill fuer Mehrfachzustellung der Kuendigung als Sicherheitskonzept gegen Beweisschwierigkeiten.
+Skill für Mehrfachzustellung der Kuendigung als Sicherheitskonzept gegen Beweisschwierigkeiten.
 
 ## Hintergrund
 
@@ -105,12 +105,12 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 
 ### Kombi 3: Bote + Notar
 - Notar zustellt nach §§ 132-135 ZPO analog.
-- Beste Beweisqualitaet (oeffentliche Urkunde).
+- Beste Beweisqualitaet (öffentliche Urkunde).
 
 ## Risiko der Mehrfachzustellung
 
 - Mehrere Zugangszeitpunkte: massgeblich ist der FRUEHSTE wirksame Zugang.
-- Folge fuer Klagefrist: laeuft ab dem fruehsten Zugang.
+- Folge für Klagefrist: laeuft ab dem fruehsten Zugang.
 
 ## Praxistipps
 

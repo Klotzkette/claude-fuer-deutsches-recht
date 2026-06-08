@@ -83,7 +83,6 @@ Keine automatische Kenntnis folgt aus normalem Zahlungsverzug, einzelnen Mahnung
 
 Hinweis: Keine Rechtsberatung. § 130 InsO nie ohne Kenntnisprüfung bejahen; die Kenntnis gehört zum Tatbestand.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

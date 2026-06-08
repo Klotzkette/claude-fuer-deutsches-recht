@@ -7,10 +7,10 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Mandat Triage Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüffelder: Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss, Substantiierter Schriftsatzkern für Klage auf, Bank. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Mandat Triage Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüfungslinien: Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss, Substantiierter Schriftsatzkern für Klage auf, Bank. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `mandat-triage-bank-kapitalmarktrecht` | Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjährung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Prüfraster Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation Kontosperrung BaFin-Anordnung. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick). |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
@@ -18,12 +18,12 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Plugin Fachanwalt
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bank- und Kapitalmarktrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `mandat-triage-bank-kapitalmarktrecht`
 
@@ -162,7 +162,7 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 
 ## Vertiefung: Rechtsprechung und erweiterte Triage
 
-### Schluessel-Leitsaetze fuer Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
+### Schluessel-Leitsaetze für Triage Bank-/Kapitalmarktrecht (Stand Mai 2026)
 
 Verifizierte Aktenzeichen mit offener Quelle:
 
@@ -215,7 +215,6 @@ Naechster Schritt: [MASSNAHME] bis [DATUM] durch [PERSON]
 
 Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgerichtshof.de, dejure.org, curia.europa.eu) verifiziert. Frühere Modellwissen-Platzhalter sind durch belegte Aktenzeichen ersetzt. Vor Versand vom Anwalt erneut zu prüfen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -242,7 +241,7 @@ Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgeric
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -304,7 +303,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -312,7 +311,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Bank-, Kapitalmarkt- und Wertpapierrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Bank-, Kapitalmarkt- und Wertpapierrecht.
 - §§ 488 ff. BGB, WpHG, KWG, ZAG, GwG, MiFID II, PRIIPs-VO, MaComp sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -323,7 +322,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Bank-, Kapitalmarkt- und Wertpapierrecht
 
@@ -349,7 +347,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Bank-, Kapitalmarkt- und Wertpapierrecht (Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -381,7 +379,7 @@ Typische Antraege in Bank-, Kapitalmarkt- und Wertpapierrecht (Klage auf Schaden
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -416,8 +414,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung: Leitsaetze Schriftsatzanforderungen Bank-/Kapitalmarktrecht
 
@@ -437,8 +435,6 @@ Vor Versand:
 **Fokus:** Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-
 
 ## Spezialwissen: Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Konkreter Gegenstand:** Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

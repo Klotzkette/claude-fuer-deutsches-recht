@@ -45,14 +45,14 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 |---|---|---|---|
 | [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 | [Sportrecht](#sportrecht) | 1 |
 | [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 | [Strafrecht](#strafrecht) | 9 |
-| [Agrarrecht](#agrarrecht) | 2 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 4 |
+| [Agrarrecht](#agrarrecht) | 2 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
 | [Arbeitsrecht](#arbeitsrecht) | 7 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 | [Vergaberecht](#vergaberecht) | 1 |
 | [Bau- und Architektenrecht](#bau--und-architektenrecht) | 5 | [Verkehrsrecht](#verkehrsrecht) | 2 |
 | [Erbrecht](#erbrecht) | 1 | [Versicherungsrecht](#versicherungsrecht) | 2 |
-| [Familienrecht](#familienrecht) | 2 | [Verwaltungsrecht](#verwaltungsrecht) | 30 |
+| [Familienrecht](#familienrecht) | 2 | [Verwaltungsrecht](#verwaltungsrecht) | 31 |
 | [Gewerblicher Rechtsschutz](#gewerblicher-rechtsschutz) | 8 | [Steuerrecht](#steuerrecht) | 3 |
-| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 16 | [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 13 |
+| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 16 | [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 14 |
 | [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 10 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
 | [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
 | [IT-Recht](#it-recht) | 17 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
@@ -61,7 +61,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
 | [Sozialrecht](#sozialrecht) | 3 |  |  |
 
-**205 kuratierte Praxis-Plugins** in 33 Kategorien (von **209** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
+**208 kuratierte Praxis-Plugins** in 33 Kategorien (von **212** Repo-Plugins insgesamt). Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md). Bewusst nicht aufgenommen sind rein historische oder exotische Spezial-Plugins, die zwar im Repo liegen, aber nicht als allgemeine Praxis-Promptliste gedacht sind.
 
 ---
 
@@ -241,6 +241,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 ## Transport- und Speditionsrecht
 
 - **[fachanwalt-transport-speditionsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht)** — Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff
+- **[fahrgastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fahrgastrechte)** — Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgruende
 - **[fluggastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte)** — Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz…
 - **[luftrecht-flughafenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/luftrecht-flughafenrecht)** — Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance
 - **[seerecht-schifffahrtsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/seerecht-schifffahrtsrecht)** — See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS
@@ -296,6 +297,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[verbraucherschutzrecht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucherschutzrecht-pruefer)** — Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag
 - **[verbraucherschutzverband-durchsetzung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucherschutzverband-durchsetzung)** — Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte
 - **[verfassungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht)** — Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de
+- **[verhaeltnismaessigkeitspruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verhaeltnismaessigkeitspruefer)** — Verhältnismäßigkeitsprüfung als juristischer Mega-Prompt: legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit, BVerfG-Leitentscheidungen, Polizeirecht, PrOVG-Kreuzberg und Section-36-Rechtsvergleich
 - **[verkehr-infrastrukturrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht)** — Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende
 - **[versammlungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versammlungsrecht)** — Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner…
 - **[wahlkampfrecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wahlkampfrecht-praxis)** — Wahlkampfrecht und Wahlkampfpraxis fuer Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung…
@@ -316,6 +318,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[memorandums-ersteller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller)** — Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten…
 - **[prozessrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht)** — Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze
 - **[selbstvertreter-amtsgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-amtsgericht)** — Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH…
+- **[status-navigator-step-plan](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/status-navigator-step-plan)** — Normfreier Status-Navigator für Dokumentenwust, Excel-Step-Plan, Padlet-Shelf, vorhandene und fehlende Unterlagen, Lücken, Fristen, Unterschriften, Zustellungen und nächste Schritte
 - **[tabellenreview-3d](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d)** — 3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt
 - **[urteilsbauer-relationsmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher)** — Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input…
 - **[zitierweise-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht)** — Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle…

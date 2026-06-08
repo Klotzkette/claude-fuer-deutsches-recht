@@ -7,10 +7,10 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Kein Folgen Klage Streitwert Zusammenstellen** ordnet den Fall über die tragenden Prüffelder: Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kein Folgen Klage Streitwert Zusammenstellen** ordnet den Fall über die tragenden Prüfungslinien: Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `kein-beweis-folgen-laienwarnung` | Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage. |
 | `klage-streitwert-angabe-3-zpo` | Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt. |
@@ -18,12 +18,12 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `kein-beweis-folgen-laienwarnung`
 
@@ -55,7 +55,7 @@ Im Zivilprozess gilt: Wer beweispflichtig ist und nicht beweist, verliert in die
 - **§ 138 III ZPO** — Nicht ausdruecklich bestrittene Tatsachen gelten als zugestanden (kein Beweis erforderlich).
 - **§ 288 ZPO** — Gestaendnis bindet das Gericht (nicht zu verwechseln mit der Non-liquet-Regel).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bedeutet "Non liquet"?
 
@@ -133,7 +133,7 @@ Bei unklarer Beweis-Lage ist Vergleich oft die beste Loesung — Sie bekommen vi
 
 Folge: Sie zahlen alle Kosten (Skill `kostenrisiko-streitwert-berechnen-gkg`).
 
-### Schritt 8 — Konsequenz fuer Selbstvertreter
+### Schritt 8 — Konsequenz für Selbstvertreter
 
 Pruefen Sie vor Klage:
 
@@ -166,7 +166,6 @@ Pruefen Sie vor Klage:
 
 Stand: 05/2026. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -183,7 +182,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 ## Worum geht es?
 
-Der Streitwert ist der Geldwert des Streits. Er ist Basis fuer die Gerichtskosten und entscheidet ueber die sachliche Zustaendigkeit (AG vs. LG). Sie muessen ihn in der Klage angeben (§ 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen ist es teils Schaetzung.
+Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskosten und entscheidet ueber die sachliche Zuständigkeit (AG vs. LG). Sie muessen ihn in der Klage angeben (§ 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen ist es teils Schaetzung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -194,8 +193,8 @@ Der Streitwert ist der Geldwert des Streits. Er ist Basis fuer die Gerichtskoste
 ## Fachbegriffe (kurz erklaert)
 
 - **Streitwert**: Geldwert dessen, worum gestritten wird.
-- **Zustaendigkeitsstreitwert**: Streitwert fuer Gerichts-Zustaendigkeit (= AG/LG-Grenze).
-- **Gebuehrenstreitwert**: Streitwert fuer Gebuehrenrechnung. Meist identisch.
+- **Zuständigkeitsstreitwert**: Streitwert für Gerichts-Zuständigkeit (= AG/LG-Grenze).
+- **Gebührenstreitwert**: Streitwert für Gebührenrechnung. Meist identisch.
 
 ## Rechtsgrundlagen
 
@@ -207,7 +206,7 @@ Der Streitwert ist der Geldwert des Streits. Er ist Basis fuer die Gerichtskoste
 - **§ 48 GKG** — Wertfestsetzung des Gerichts.
 - **§ 63 GKG** — Endgueltige Festsetzung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klage-Typ identifizieren
 
@@ -282,7 +281,7 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 
 ## Worauf Sie besonders achten muessen
 
-- **Zustaendigkeitsrelevant**: Streitwert entscheidet, ob AG oder LG.
+- **Zuständigkeitsrelevant**: Streitwert entscheidet, ob AG oder LG.
 - **Wertgrenze § 23 Nr. 1 GVG**: 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus Uebergangszeit Stichtag pruefen.
 - **Mietsache § 41 GKG**: Bei Wohnraum-Streit nicht zaehlt der konkrete Streitbetrag, sondern Jahresnettomiete.
 - **Nebenforderungen** zaehlen nicht (Zinsen, Kosten — § 4 ZPO).
@@ -296,14 +295,13 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 
 ## Querverweise
 
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Wertgrenze.
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Wertgrenze.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klageschrift.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG: 10.000 EUR seit 01.01.2026; Übergangsfälle und Sonderzuständigkeiten gesondert prüfen.
-
 
 ## Qualitäts-Hardening
 
@@ -317,7 +315,7 @@ Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG:
 
 **Fokus:** Klage und Anlagen als komplettes Paket für das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch für Klageerwiderung und Replik mit B-Anlagen.
 
-# Klage komplett zusammenstellen — Schritt fuer Schritt
+# Klage komplett zusammenstellen — Schritt für Schritt
 
 ## Worum geht es?
 
@@ -337,7 +335,7 @@ Ein schlecht zusammengestelltes Bundle macht keinen guten Eindruck und kann dazu
 - **Klageschrift**: Das Hauptdokument, mit dem Sie das Gericht anrufen. Enthaelt Antrag, Sachverhalt und Beweise.
 - **Anlage**: Ein Beweisstueck, das Sie der Klageschrift beilegen (z.B. ein Vertrag, eine Rechnung).
 - **Anlagenverzeichnis**: Eine Liste am Ende der Klageschrift, in der alle Anlagen aufgezaehlt sind.
-- **Abschrift**: Eine Kopie. Sie brauchen so viele Kopien wie Beklagte plus eine fuer das Gericht.
+- **Abschrift**: Eine Kopie. Sie brauchen so viele Kopien wie Beklagte plus eine für das Gericht.
 
 ## Die richtige Reihenfolge im Bundle
 
@@ -354,7 +352,7 @@ So muss das Bundle aussehen (von oben nach unten):
 
 **Bei Replik:** Sie haengen Ihre neuen Anlagen an die bisherigen Klaeger-Anlagen an. Wenn Sie bei der Klage bei K8 aufgehoert haben, geht es jetzt mit K9 weiter (nicht erneut bei K1!).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anlagen sortieren
 
@@ -399,8 +397,8 @@ Das **Anlage K1** wird im Text **fett** gemacht oder in Klammern direkt nach dem
 
 Sie brauchen:
 
-- **1 Original** fuer das Gericht
-- **1 Abschrift fuer jeden Beklagten** (= eine Kopie aller Seiten Klageschrift + Anlagen)
+- **1 Original** für das Gericht
+- **1 Abschrift für jeden Beklagten** (= eine Kopie aller Seiten Klageschrift + Anlagen)
 
 Bei einer Klage gegen eine Person: 1 Original + 1 Abschrift = 2 Bundles.
 Bei einer Klage gegen drei Personen: 1 Original + 3 Abschriften = 4 Bundles.
@@ -410,13 +408,13 @@ Jedes Bundle muss **alle** Anlagen enthalten — nicht nur die Klageschrift.
 ### Schritt 6 — Heftung und Bindung
 
 Bei **Papier-Einreichung**:
-- Heften Sie die Klageschrift nicht zusammen (das Gericht trennt sie sowieso wieder fuer die Akte).
+- Heften Sie die Klageschrift nicht zusammen (das Gericht trennt sie sowieso wieder für die Akte).
 - Anlagen koennen einzeln geheftet sein.
 - **Buero-Klammer** ist okay; Heftstreifen ist okay.
 - **Keine Spiral- oder Klebebindung** — die kann das Gericht nicht oeffnen.
 
 Bei **elektronischer Einreichung** (Mein Justizpostfach):
-- Ein PDF fuer die Klageschrift inklusive Anlagenverzeichnis.
+- Ein PDF für die Klageschrift inklusive Anlagenverzeichnis.
 - Jede Anlage als **eigenes PDF**. Dateiname: `Anlage_K1_Kaufvertrag.pdf`, `Anlage_K2_Rechnung.pdf`, ...
 - Oder: alles in einem grossen PDF, dann mit Lesezeichen (Bookmarks) zu den einzelnen Anlagen.
 
@@ -424,7 +422,7 @@ Bei **elektronischer Einreichung** (Mein Justizpostfach):
 
 Behalten Sie selbst **eine vollstaendige Kopie** von allem. Bewahren Sie sie an einem sicheren Ort auf (Ordner, Mappe). Sie brauchen sie:
 
-- fuer Ihre eigenen Termin-Notizen,
+- für Ihre eigenen Termin-Notizen,
 - wenn das Gericht etwas verlegt,
 - wenn Sie eine Replik schreiben.
 
@@ -454,7 +452,6 @@ Behalten Sie selbst **eine vollstaendige Kopie** von allem. Bewahren Sie sie an 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Standard bundesweit ueblich. Die Beschriftung K1, K2 (Klaeger) bzw. B1, B2 (Beklagter) ist nicht gesetzlich vorgeschrieben, aber durchgaengig anerkannte Konvention der Gerichtspraxis.
-
 
 ## Qualitäts-Hardening
 

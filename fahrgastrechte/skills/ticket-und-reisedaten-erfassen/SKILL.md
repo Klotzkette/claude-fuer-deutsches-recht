@@ -1,6 +1,6 @@
 ---
 name: ticket-und-reisedaten-erfassen
-description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen fuer Fahrgastrechte-Mandate. Extrahiert Buchungscode (PNR) Auftragsnummer Reisetag Strecke Operating EVU Ticketart (Flexpreis Sparpreis Super Sparpreis BC100 Deutschlandticket Zeitkarte) Klasse Preis sowie tatsaechliche Ist-Zeiten und das Stoerungsereignis (Verspaetung Zugausfall verpasster Anschluss). Erzeugt strukturierte Fallakte."
+description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen für Fahrgastrechte-Mandate. Extrahiert Buchungscode (PNR) Auftragsnummer Reisetag Strecke Operating EVU Ticketart (Flexpreis Sparpreis Super Sparpreis BC100 Deutschlandticket Zeitkarte) Klasse Preis sowie tatsaechliche Ist-Zeiten und das Stoerungsereignis (Verspaetung Zugausfall verpasster Anschluss). Erzeugt strukturierte Fallakte."
 ---
 
 # Ticket- und Reisedaten erfassen

@@ -7,10 +7,10 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 ## Arbeitsbereich
 
-**CAS DIS** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**CAS DIS** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-sportrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-sportrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -18,12 +18,12 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Sportrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: WADC Art. 17 Verfolgungsverjährung 10 Jahre, CAS-Anrufung 21 Tage, DFB-RVO 7-Tage-Berufung, FAO § 5 36 Monate Praxiszeit.
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 

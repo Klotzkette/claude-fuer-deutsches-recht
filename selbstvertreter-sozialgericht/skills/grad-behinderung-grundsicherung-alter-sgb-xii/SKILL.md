@@ -7,25 +7,25 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Grad Behinderung Grundsicherung Alter SGB XII** ordnet den Fall über die tragenden Prüffelder: Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Grad Behinderung Grundsicherung Alter SGB XII** ordnet den Fall über die tragenden Prüfungslinien: Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `grad-der-behinderung-gdb-sgb-ix` | Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger. |
 | `grundsicherung-alter-sgb-xii-41` | Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage. |
 | `grundsicherung-sgb-xii` | Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger. |
-| `hilfe-zum-lebensunterhalt-27-sgb-xii` | Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe fuer Erwerbsfaehige ohne Anspruch auf Buergergeld und fuer voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster. |
+| `hilfe-zum-lebensunterhalt-27-sgb-xii` | Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe für Erwerbsfaehige ohne Anspruch auf Buergergeld und für voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster. |
 | `kindergeld-familienkasse-einspruch` | Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `grad-der-behinderung-gdb-sgb-ix`
 
@@ -41,10 +41,9 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Das Versorgungsamt setzt einen Grad der Behinderung (GdB) fest. Diesen brauchen Sie fuer Kuendigungsschutz, Steuerermaessigung und mehr. Sie sind nicht einverstanden? Diese Skill zeigt den Weg.
+Das Versorgungsamt setzt einen Grad der Behinderung (GdB) fest. Diesen brauchen Sie für Kuendigungsschutz, Steuerermaessigung und mehr. Sie sind nicht einverstanden? Diese Skill zeigt den Weg.
 
 ## In einfacher Sprache
 
@@ -60,24 +59,24 @@ Sie sind krank oder behindert. Der GdB ist eine Zahl, die das ausdrueckt. Ab GdB
 
 - **GdB**: Grad der Behinderung, Wert zwischen 0 und 100 in 10er-Schritten.
 - **Schwerbehindert**: ab GdB 50.
-- **Gleichgestellt**: ab GdB 30 mit Antrag bei Agentur fuer Arbeit.
+- **Gleichgestellt**: ab GdB 30 mit Antrag bei Agentur für Arbeit.
 - **Merkzeichen G**: erhebliche Gehbehinderung.
 - **Merkzeichen aG**: aussergewoehnliche Gehbehinderung.
 - **Merkzeichen B**: Begleitperson notwendig.
 - **Merkzeichen H**: hilflos.
 - **Merkzeichen Bl**: blind.
 - **Merkzeichen Gl**: gehoerlos.
-- **VMG**: Versorgungsmedizinische Grundsaetze (Tabellen-Werk fuer GdB-Bestimmung).
+- **VMG**: Versorgungsmedizinische Grundsaetze (Tabellen-Werk für GdB-Bestimmung).
 
 ## Rechtsgrundlagen
 
 - **§ 152 SGB IX** — Feststellung des GdB.
 - **§ 2 SGB IX** — Definition Behinderung.
 - **Versorgungsmedizin-Verordnung (VersMedV)** — Tabellen.
-- **§ 33b EStG** — Steuerermaessigung fuer Behinderte.
+- **§ 33b EStG** — Steuerermaessigung für Behinderte.
 - **§ 154 SGB IX** — Schwerbehinderten-Ausweis.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid pruefen
 
@@ -90,7 +89,7 @@ Im Bescheid steht:
 
 ### Schritt 2 — VMG-Tabellen pruefen
 
-Die VMG hat Tabellen fuer jede Erkrankung. Pruefen Sie:
+Die VMG hat Tabellen für jede Erkrankung. Pruefen Sie:
 
 - Welche Diagnose hat welchen Wert?
 - Sind alle Diagnosen beruecksichtigt?
@@ -164,7 +163,7 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 - **VMG ist Standard-Werkzeug**: Pruefen Sie die Tabellen genau (online verfuegbar).
 - **Gesamt-GdB ist nicht Addition**: Verstaerkungs- und Abschwaechungsregeln beachten.
 - **Merkzeichen separat begruenden**: Jedes Merkzeichen hat eigene Voraussetzungen.
-- **Aktuelle Atteste wichtig**: nicht aelter als 6 bis 12 Monate fuer SG-Verfahren.
+- **Aktuelle Atteste wichtig**: nicht aelter als 6 bis 12 Monate für SG-Verfahren.
 
 ## Typische Fehler
 
@@ -183,8 +182,7 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zustaendigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
-
+Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zuständigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
 
 ## Qualitäts-Hardening
 
@@ -207,7 +205,6 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 
@@ -255,7 +252,6 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 SGB XII ist die Sozialhilfe. Die wichtigste Form ist die Grundsicherung im Alter (ab 65 oder Renteneintritt) und bei dauerhafter Erwerbsminderung. Diese Skill zeigt den Streit mit dem Sozialamt.
@@ -276,7 +272,7 @@ Sie sind alt oder dauerhaft krank und haben wenig Rente. Dann hilft das Sozialam
 - **Sozialhilfe**: Oberbegriff SGB XII.
 - **Hilfe zum Lebensunterhalt** (HLU): Sozialhilfe in der Praxis.
 - **Hilfe in besonderen Lebenslagen**: Eingliederungshilfe, Hilfe zur Pflege etc.
-- **Sozialamt**: Behoerde, die SGB XII umsetzt.
+- **Sozialamt**: Behörde, die SGB XII umsetzt.
 
 ## Rechtsgrundlagen
 
@@ -286,7 +282,7 @@ Sie sind alt oder dauerhaft krank und haben wenig Rente. Dann hilft das Sozialam
 - **§ 19 SGB XII** — Voraussetzungen.
 - **§ 90 SGB XII** — Vermoegens-Schongrenzen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Abgrenzung zum Buergergeld
 
@@ -316,7 +312,7 @@ Beachten: bei SGB XII strenger als bei Buergergeld in Karenzzeit.
 ### Schritt 4 — Berechnung
 
 ```
-Regelbedarf (Stufe 1 fuer Alleinstehende) 563 EUR
+Regelbedarf (Stufe 1 für Alleinstehende) 563 EUR
 + KdU (Miete und Heizung) ... EUR
 + Mehrbedarf bei Schwerbehinderung ... EUR (§ 30 SGB XII)
 + einmalige Bedarfe ... EUR
@@ -349,7 +345,7 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 
 Begruendung:
 
-Die Voraussetzungen fuer Grundsicherung nach § 41 SGB XII liegen vor:
+Die Voraussetzungen für Grundsicherung nach § 41 SGB XII liegen vor:
 
 1. Anspruchsberechtigung
  - Renten-Eintritt am [Datum]
@@ -396,7 +392,6 @@ Wie bei anderen Sozialleistungen.
 
 Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst. Sozialamt-Praxis regional unterschiedlich.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -407,7 +402,7 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 
 ## 4. `hilfe-zum-lebensunterhalt-27-sgb-xii`
 
-**Fokus:** Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe fuer Erwerbsfaehige ohne Anspruch auf Buergergeld und fuer voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster.
+**Fokus:** Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe für Erwerbsfaehige ohne Anspruch auf Buergergeld und für voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster.
 
 # Hilfe Zum Lebensunterhalt 27 Sgb Xii
 
@@ -418,7 +413,6 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 
@@ -473,18 +467,17 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 
 Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach der AO angegriffen; der gerichtliche Weg führt regelmäßig zum **Finanzgericht**, nicht zum Sozialgericht. BKGG-Sonderfälle können sozialrechtlich wirken, müssen aber sauber getrennt werden. Deshalb zuerst Anspruchsgrundlage (EStG oder BKGG) und Rechtsbehelfsbelehrung lesen.
 
-
 ## Anspruchsgrundlagen
 
 - Kindergeld nach EStG (§§ 62 ff.) — Steuerprivileg.
-- Kindergeld nach BKGG (Bundeskindergeldgesetz) — Sozialleistung fuer Auslaender / EU-Buerger.
+- Kindergeld nach BKGG (Bundeskindergeldgesetz) — Sozialleistung für Auslaender / EU-Buerger.
 
 ## Familienkasse
 
-- Bundesagentur fuer Arbeit Familienkasse (Standard).
-- Familienkasse des Arbeitgebers (oeffentlicher Dienst Bundeswehr).
+- Bundesagentur für Arbeit Familienkasse (Standard).
+- Familienkasse des Arbeitgebers (öffentlicher Dienst Bundeswehr).
 
-## Anspruch fuer Kinder
+## Anspruch für Kinder
 
 - Bis 18 Jahre.
 - Bis 25 Jahre bei Ausbildung Studium oder Berufsausbildung.

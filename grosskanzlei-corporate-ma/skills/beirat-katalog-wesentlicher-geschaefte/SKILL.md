@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-geschaefte
-description: "Beirat Katalog Wesentlicher Geschaefte im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
+description: "Beirat Katalog Wesentlicher Geschaefte im Corporate/M&A (Großkanzlei-Praxis) im Corporate/M&A: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beirat Katalog Wesentlicher Geschaefte
@@ -12,17 +12,13 @@ description: "Beirat Katalog Wesentlicher Geschaefte im Corporate/M&A (Großkanz
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Beirat Katalog Wesentlicher Geschaefte
-- **Spezialgegenstand:** Beirat Katalog Wesentlicher Geschaefte; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
 Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik.
-
-Dieser Skill ist für **Beirat Katalog Wesentlicher Geschaefte** gedacht. Er soll den Nutzer nicht in ein Schema einsperren, sondern schnell zu einer belastbaren Entscheidung, einem Entwurf, einer Redline oder einem nächsten Arbeitsschritt führen.
 
 ## Kaltstart-Fragen
 

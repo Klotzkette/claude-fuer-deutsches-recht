@@ -6,15 +6,12 @@ description: "Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verw
 # Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße
 
 ## Fachkern: Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße
-- **Spezialgegenstand:** Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -53,6 +50,15 @@ Der Skill ist für Fälle, in denen Datenschutzaufsichtsbehörden Bußgelder ver
 - Datenschutz- oder Unternehmensbußgelder ohne Spezialverweisung prüfen.
 - Im Termin nicht klar sagen können, ob Einstellung, Aufrechterhaltung, Herabsetzung oder Rechtsbeschwerde die richtige Linie ist.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 7-21 StPO (örtliche Zuständigkeit)
+- §§ 24-25 GVG (Amtsgericht)
+- § 74 GVG (Strafkammern)
+- §§ 142, 143 GVG (StA-Zuständigkeit)
 ## Quellenhygiene
 
 Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, RiStBV und bei Datenschutz Art. 83 DSGVO sowie § 41 BDSG. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

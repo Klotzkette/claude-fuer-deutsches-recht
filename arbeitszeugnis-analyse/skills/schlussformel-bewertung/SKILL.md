@@ -1,6 +1,6 @@
 ---
 name: schlussformel-bewertung
-description: "Prüffeld für schlussformel bewertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für schlussformel bewertung im Arbeitszeugnis-Analyse: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Schlussformel-Bewertung

@@ -1,45 +1,27 @@
 ---
 name: bora-konformitaetspruefung-brao-email
-description: "BORA Konformitaetspruefung BRAO Email im Plugin Email Umformulierer Berufsrecht: prüft konkret E-Mail auf BORA-Konformität prüfen bevor sie versandt wird, E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird, Eingehende E-Mail analysieren und Tonalitaet. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# BORA Konformitaetspruefung BRAO Email
+# BORA-Konformitätsprüfung
 
 ## Arbeitsbereich
 
-**BORA Konformitaetspruefung BRAO Email** ordnet den Fall über die tragenden Prüffelder: E-Mail auf BORA-Konformität prüfen bevor sie versandt wird, E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird, Eingehende E-Mail analysieren und Tonalitaet. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `bora-konformitaetspruefung` | E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung). |
-| `brao-konformitaetspruefung` | E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung). |
-| `email-eingangsanalyse` | Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz). |
+E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Email Umformulierer Berufsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `bora-konformitaetspruefung`
-
-**Fokus:** E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung).
-
-# BORA-Konformitätsprüfung
 
 ## Fachkern: BORA-Konformitätsprüfung
-- **Spezialgegenstand:** BORA-Konformitätsprüfung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für Rechtsanwälte (BORA). Die BORA konkretisiert als Satzung der Bundesrechtsanwaltskammer die allgemeinen Berufspflichten der BRAO und enthält spezifische Regeln für Verschwiegenheit, Werbung und den kollegialen Umgang.
-
 
 ## Triage zu Beginn
 1. Wer ist der Absender: Rechtsanwalt, Berufsausuebendes Gesellschafter oder Kanzleimitarbeiter?
@@ -54,7 +36,7 @@ Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Beruf
 
 ## Zentrale Normen
 - § 2 BORA — Verschwiegenheitspflicht (Erweiterung der BRAO-Pflicht auf alle Kommunikationsmittel)
-- § 6 BORA — Sachlichkeitsgebot fuer Aussenauftritt und Werbung
+- § 6 BORA — Sachlichkeitsgebot für Aussenauftritt und Werbung
 - § 12 BORA — Direktkontaktverbot bei anwaltlicher Vertretung der Gegenseite
 - § 25 BORA — Kollegialitaetsgebot
 - § 43a Abs. 2 BRAO — Grundlegende Verschwiegenheitspflicht
@@ -96,123 +78,3 @@ Maßgebliche Normen: § 2 BORA (Verschwiegenheit), § 6 BORA (Werbung), § 12 BO
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Identifizierte BORA-Risikostellen mit Zitat. (2) Einschlägige BORA-Norm. (3) Schwere des Verstoßes (formal/substantiell). (4) Korrigierte Alternativformulierung. (5) Gesamtbewertung (konform / geringes Risiko / hohes Risiko).
-
-## 2. `brao-konformitaetspruefung`
-
-**Fokus:** E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung).
-
-# BRAO-Konformitätsprüfung
-
-## Fachkern: BRAO-Konformitätsprüfung
-- **Spezialgegenstand:** BRAO-Konformitätsprüfung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill prüft Ausgangsschreiben von Rechtsanwälten auf Einklang mit den Berufspflichten der Bundesrechtsanwaltsordnung. Der Fokus liegt auf § 43a BRAO (allgemeine Berufspflichten) mit dem darin enthaltenen Sachlichkeitsgebot sowie auf den Werbevorschriften des § 43b BRAO.
-
-## § 43a BRAO — Allgemeine Berufspflichten
-
-§ 43a Abs. 3 BRAO enthält das Sachlichkeitsgebot in seiner zentralen Form: Der Rechtsanwalt darf in Ausübung seines Berufs keine Äußerungen machen, die bewusst unwahr oder in sonstiger Weise unzulässig sind. Darunter fallen insbesondere herabsetzende Äußerungen über Personen ohne sachliche Grundlage, reine Schmähkritik und Behauptungen "ins Blaue hinein" — also ohne tatsächliche Grundlage. § 43a Abs. 1 BRAO verpflichtet zur Unabhängigkeit, § 43a Abs. 2 BRAO zur Verschwiegenheit über mandatsbezogene Tatsachen.
-
-## § 43b BRAO — Werbung
-
-§ 43b BRAO erlaubt sachliche, berufsbezogene Werbung, verbietet jedoch anpreisende, irreführende oder vergleichende Werbung, die das Ansehen der Rechtspflege beeinträchtigen könnte. In E-Mails relevant: Selbstdarstellungen im Briefkopf, Signaturen mit Kompetenzhinweisen sowie Mandantenschreiben, die werbliche Elemente enthalten.
-
-## Prüfschritte
-
-Schritt 1: Enthält das Schreiben Tatsachenbehauptungen über den Adressaten oder Dritte? Falls ja: Sind diese belegt oder belegbar? Schritt 2: Enthält das Schreiben Werturteile? Falls ja: Stützen sie sich auf einen nachvollziehbaren Sachverhalt oder sind sie reine Schmähung? Schritt 3: Wird der Adressat oder eine dritte Person in einer Weise bezeichnet, die über sachliche Kritik hinausgeht (Herabsetzung)? Schritt 4: Gibt es werbliche Aussagen im Schreiben, die sachlich nicht gedeckt sind?
-
-## Berufsrechtlicher Hintergrund
-
-Die relevanten Normen sind: § 43a Abs. 3 BRAO (Sachlichkeitsgebot), § 43b BRAO (Werbung), § 59b Abs. 2 Nr. 1 Buchst. d BRAO (Satzungsermächtigung für BORA-Sachlichkeitsregeln). Ergänzend: BGH-Beschluss vom 25. November 2013 (AnwZ (Brfg) 2/12) zur Abgrenzung von zulässiger Kritik und unzulässiger Herabsetzung.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Ihre Argumentation ist an Unkenntnis des geltenden Rechts kaum zu überbieten."
-**Nachher (Prüfergebnis):** Unzulässig — Schmähkritik ohne sachliche Grundlage. Risiko: Berufsrechtliche Rüge, Beleidigungsklage. Empfehlung: "Die rechtliche Einordnung in Ihrem Schreiben weicht von der geltenden BGH-Rechtsprechung ab."
-
-**Vorher:** "Wir sind die führende Kanzlei für Wirtschaftsrecht in Bayern."
-**Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 43b BRAO, sofern keine objektive Grundlage (Rankings, Zertifizierungen) vorhanden. Empfehlung: Sachliche Beschreibung des Tätigkeitsschwerpunkts.
-
-**Vorher:** "Der Gegner handelt bösgläubig und versucht, uns zu täuschen."
-**Nachher (Prüfergebnis):** Tatsachenbehauptung ohne Belegbasis — Risiko gemäß § 43a Abs. 3 Satz 2 BRAO. Empfehlung: "Die Darstellung der Gegenseite weicht von den uns vorliegenden Unterlagen erheblich ab."
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Liste problematischer Textstellen mit Zitat. (2) Einordnung (Sachlichkeitsverstoß / Werberechtsproblem / Tatsachenbehauptung ohne Grundlage). (3) Berufsrechtliches Risiko. (4) Vorgeschlagene konforme Alternativformulierung.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `email-eingangsanalyse`
-
-**Fokus:** Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz).
-
-# E-Mail-Eingangsanalyse
-
-## Fachkern: E-Mail-Eingangsanalyse
-- **Spezialgegenstand:** E-Mail-Eingangsanalyse wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
-
-
-## Triage zu Beginn
-1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behoerde oder Unbekannter?
-2. Was ist der sachliche Kern der E-Mail — unabhaengig vom Tonfall?
-3. Enthalt die E-Mail strafrechtlich relevante Aeusserungen (Beleidigung § 185 StGB, Bedrohung § 241 StGB)?
-4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: verhindert Uebernahme aggressiven Tons aus Eingangskorrespondenz
-- § 185 StGB — Beleidigung: ggf. bei strafrechtlich relevantem Inhalt Eingangs-E-Mail dokumentieren
-- § 241 StGB — Bedrohung: bei Drohungen Dokumentationspflicht und ggf. Strafanzeige erwaegen
-- § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Gegenschreiben darf keine neuen Verletzungen setzen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Analyseebenen
-
-Die Eingangsanalyse untersucht den Text auf vier Ebenen: sprachliche Auffälligkeiten (Schimpfwörter, Großbuchstaben, übermäßige Satzzeichen), rhetorische Stilmittel (Sarkasmus, Ironie, Übertreibung), inhaltliche Vorwürfe (Kompetenzabsprache, Unterstellungen, Drohungen) sowie strukturelle Mängel (fehlende sachliche Begründung, reine Emotionsäußerung ohne Kernbotschaft).
-
-## Konfliktgrad-Klassifikation
-
-Der Skill kategorisiert den Konfliktgrad in drei Stufen. Gering bedeutet: einzelne unhöfliche Formulierungen, sachlicher Kern erkennbar, kein persönlicher Angriff. Mittel bedeutet: mehrere emotionale Trigger, Vorwürfe an die Person, Drohgebärde oder Ultimatum. Hoch bedeutet: überwiegend unsachlich, persönliche Herabsetzung, Schimpfwörter oder strafrechtlich relevante Äußerungen.
-
-## Trigger-Kategorien
-
-Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder Sätze (impliziert Schreien), Ausrufezeichen-Ketten (erzeugen aggressiven Ton), direkte persönliche Anreden mit Vorwurf-Charakter ("Sie haben...", "Sie sind..."), implizite oder explizite Drohungen ("Ich werde...", "Das hat Konsequenzen"), Sarkasmus und Ironie (untergraben sachliche Auseinandersetzung) sowie Pauschalurteile ohne Sachverhaltsbezug.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO verpflichtet Rechtsanwälte zur Sachlichkeit in der beruflichen Kommunikation. Die Weiterleitung oder das Zitieren eines unsachlichen Eingangsschreibens ohne Analyse kann dazu verleiten, im eigenen Schreiben denselben Ton zu übernehmen — was berufsrechtlich problematisch ist. Die Eingangsanalyse hilft, eine bewusste Distanz zum emotionalen Gehalt herzustellen.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "SIE HABEN MIR NICHT GEANTWORTET!!! Das ist eine Frechheit!!!"
-**Nachher (Analyse):** Konfliktgrad hoch. Trigger: Großbuchstaben, Mehrfach-Ausrufezeichen, Vorwurf fehlender Reaktion. Kern: Bitte um Rückmeldung auf ein früheres Schreiben.
-
-**Vorher:** "Ich erwarte sofort eine Erklärung, sonst schalte ich meinen Anwalt ein."
-**Nachher (Analyse):** Konfliktgrad mittel. Trigger: Drohgebärde, Ultimatum. Kern: Bitte um Stellungnahme zu einem bestimmten Sachverhalt.
-
-**Vorher:** "Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
-**Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Tabellarische Trigger-Liste mit Zitat, Trigger-Typ und Einordnung. (2) Konfliktgrad-Einschätzung (gering/mittel/hoch) mit Begründung. (3) Sachlicher Kerninhalt in einem Satz. (4) Empfehlung, welche weiteren Skills zur Umformulierung einzusetzen sind.

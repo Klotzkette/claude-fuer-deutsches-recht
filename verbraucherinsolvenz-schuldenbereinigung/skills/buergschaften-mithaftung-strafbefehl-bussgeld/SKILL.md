@@ -7,36 +7,34 @@ description: "Buergschaften Mithaftung Strafbefehl Bussgeld im Plugin Verbrauche
 
 ## Arbeitsbereich
 
-**Buergschaften Mithaftung Strafbefehl Bussgeld** ordnet den Fall über die tragenden Prüffelder: Bürgschaften und Mithaftung, Strafbefehl, Geldstrafe und Bußgeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Buergschaften Mithaftung Strafbefehl Bussgeld** ordnet den Fall über die tragenden Prüfungslinien: Bürgschaften und Mithaftung, Strafbefehl, Geldstrafe und Bußgeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `buergschaften-und-mithaftung` | Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.; Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `strafbefehl-bussgeld-und-insolvenz` | Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.; Normanker: InsO § 302; StGB Geldstrafe; OWiG; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `deliktforderung-und-302-inso` | Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.; Normanker: InsO § 302; InsO § 174 Abs. 2; BGB § 823; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `buergschaften-und-mithaftung` | Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.; Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `strafbefehl-bussgeld-und-insolvenz` | Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.; Normanker: InsO § 302; StGB Geldstrafe; OWiG; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `deliktforderung-und-302-inso` | Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.; Normanker: InsO § 302; InsO § 174 Abs. 2; BGB § 823; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `buergschaften-und-mithaftung`
 
-**Fokus:** Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.; Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.; Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
 
 ## Fachkern: Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
-- **Spezialgegenstand:** Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -68,16 +66,14 @@ BGB §§ 765 ff., 138; InsO Forderungsprüfung. Entscheidend ist immer der aktue
 
 ## 2. `strafbefehl-bussgeld-und-insolvenz`
 
-**Fokus:** Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.; Normanker: InsO § 302; StGB Geldstrafe; OWiG; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.; Normanker: InsO § 302; StGB Geldstrafe; OWiG; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
 
 ## Fachkern: Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
-- **Spezialgegenstand:** Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -109,16 +105,14 @@ InsO § 302; StGB Geldstrafe; OWiG. Entscheidend ist immer der aktuelle Normstan
 
 ## 3. `deliktforderung-und-302-inso`
 
-**Fokus:** Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.; Normanker: InsO § 302; InsO § 174 Abs. 2; BGB § 823; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.; Normanker: InsO § 302; InsO § 174 Abs. 2; BGB § 823; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
 
 ## Fachkern: Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
-- **Spezialgegenstand:** Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 

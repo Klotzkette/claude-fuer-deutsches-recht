@@ -7,10 +7,10 @@ description: "Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kap
 
 ## Arbeitsbereich
 
-**Kreditkuendigung BGB Mica Stablecoin** ordnet den Fall über die tragenden Prüffelder: Bank kündigt Kredit nach § 490 BGB wegen wesentlicher, Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin, Mandant will vor Klage Bank-Streit durch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kreditkuendigung BGB Mica Stablecoin** ordnet den Fall über die tragenden Prüfungslinien: Bank kündigt Kredit nach § 490 BGB wegen wesentlicher, Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin, Mandant will vor Klage Bank-Streit durch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` | Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (allg. Kündigung) und widerrufsjoker (Widerruf). |
 | `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` | Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüfraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Prüfdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung). |
@@ -18,12 +18,12 @@ description: "Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kap
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bank- und Kapitalmarktrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`
 
@@ -240,7 +240,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 6. **Gibt es bereits einen Whitepaper-Entwurf?** — Basis des BaFin-Antrags; ESMA-Leitlinien für Inhalt sind zu beachten.
 7. **Plant der Emittent grenzüberschreitend tätig zu sein?** — EU-Pass nach Zulassung; Notifizierung an ESMA-Register erforderlich.
 8. **Sind Staking, Lending oder DeFi-Komponenten vorgesehen?** — Zusätzliche Regulierungsebenen (MiFID, AIFMD, ggf. MiCA Art. 50); gesonderte Einschätzung nötig.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -282,7 +282,6 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 ## Prüfschema Lizenzierung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -397,7 +396,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — MiCA Art. 16-Zulassung fuer Stablecoin beantragen | Antragsbausteine nach Template unten |
+| Standard — MiCA Art. 16-Zulassung für Stablecoin beantragen | Antragsbausteine nach Template unten |
 | Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA pruefen |
 | Variante B — Token uebersteigt Schwellenwert (signifikant) | Kategorie signifikanter EMT; EBA-Aufsicht beachten |
 | Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes pruefen; Rechtsrisiko dokumentieren |
@@ -407,7 +406,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Schriftsatzbaustein — Widerspruch gegen BaFin-Versagung
 
 ```
-An: Bundesanstalt fuer Finanzdienstleistungsaufsicht
+An: Bundesanstalt für Finanzdienstleistungsaufsicht
 Datum: [Datum]
 
 Widerspruch gegen den Bescheid vom [Datum], Az. [Nr.]
@@ -443,7 +442,6 @@ Begründung:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Fristen
 
 | Frist | Dauer | Rechtsgrundlage |
@@ -468,8 +466,7 @@ Begründung:
 - ESMA Q&A zu MiCA (laufend)
 - BaFin-Merkblatt vom 3.1.2025 zu ART und EMT nach MiCAR — bafin.de
 - BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
-- BaFin Aufsicht ZK 1 fuer ART/EMT — bafin.de/EN/Aufsicht/MiCAR
-
+- BaFin Aufsicht ZK 1 für ART/EMT — bafin.de/EN/Aufsicht/MiCAR
 
 ## Qualitäts-Hardening
 
@@ -523,7 +520,6 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 ## Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 ### Phase 1 — Vorgerichtliche Bank-Korrespondenz
 
@@ -599,7 +595,7 @@ Bevor losgelegt wird, klaere:
 3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
 4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
 5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -647,13 +643,12 @@ Anlagen:
 2 - Kontoauszuege / Kauf-Abrechnung
 3 - Beratungsprotokoll (soweit vorliegend)
 
-[Rechtsanwalt/-anwaeltin fuer [NAME MANDANT]]
+[Rechtsanwalt/-anwaeltin für [NAME MANDANT]]
 ```
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 <!-- AUDIT 27.05.2026 | bundle_053
 Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)

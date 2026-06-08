@@ -1,46 +1,46 @@
 ---
 name: strafrecht-markenrecht-143a-marktmanipulation
-description: "Markenrecht 143a Marktmanipulation im Strafrecht: prüft konkret Bandenmaessige Markenrechtsverletzung Paragraph 143a, Marktmanipulation § 120 WpHG iVm Art, Mietpreisueberhoehung § 5 WiStrG 1954, Minder schwerer Fall des Totschlags nach § 213 StGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Markenrecht 143a Marktmanipulation im Strafrecht: prüft konkret Bandenmäßige Markenrechtsverletzung Paragraph 143a, Marktmanipulation § 120 WpHG iVm Art, Mietpreisueberhoehung § 5 WiStrG 1954, Minder schwerer Fall des Totschlags nach § 213 StGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Markenrecht 143a Marktmanipulation
 
 ## Arbeitsbereich
 
-**Markenrecht 143a Marktmanipulation** ordnet den Fall über die tragenden Prüffelder: Bandenmaessige Markenrechtsverletzung Paragraph 143a, Marktmanipulation § 120 WpHG iVm Art, Mietpreisueberhoehung § 5 WiStrG 1954. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Markenrecht 143a Marktmanipulation** ordnet den Fall über die tragenden Prüfungslinien: Bandenmäßige Markenrechtsverletzung Paragraph 143a, Marktmanipulation § 120 WpHG iVm Art, Mietpreisueberhoehung § 5 WiStrG 1954. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig` | Bandenmaessige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmaessige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung. |
-| `strafrecht-spezial-marktmanipulation-120-wphg` | Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Algo-Trading Krypto Boersenmakler. |
+| `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig` | Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung. |
+| `strafrecht-spezial-marktmanipulation-120-wphg` | Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Algo-Trading Krypto Boersenmakler. |
 | `strafrecht-spezial-mietwucher-5-wistg` | Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher. |
-| `strafrecht-spezial-minder-schwerer-fall-213-stgb` | Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden fuer die Verteidigung. |
+| `strafrecht-spezial-minder-schwerer-fall-213-stgb` | Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden für die Verteidigung. |
 | `strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb` | Misshandlung Schutzbefohlener nach § 225 StGB. Schutz von Personen unter 18 Jahren oder hilflosen Personen. Drei Tatvarianten: quaelen; roh misshandeln; pflichtwidrige Vernachlaessigung. Qualifikation § 225 Abs. 3 StGB Lebensgefahr und schwere Gesundheitsschaedigung. Strafrahmen sechs Monate bis zehn Jahre. |
-| `strafrecht-spezial-mord-211-stgb-mordmerkmale` | Mord nach § 211 StGB. Praxisleitfaden fuer Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung. |
+| `strafrecht-spezial-mord-211-stgb-mordmerkmale` | Mord nach § 211 StGB. Praxisleitfaden für Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung. |
 | `strafrecht-spezial-noetigung-240-stgb` | Noetigung nach § 240 StGB. Mit Gewalt oder durch Drohung mit empfindlichem Uebel jemanden rechtswidrig zu einer Handlung Duldung oder Unterlassung noetigen. Verwerflichkeitsklausel Abs. 2. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Sitzblockaden Drohung kuenftiger Gewalt staendige BGH-Rechtsprechung. |
 | `strafrecht-spezial-npsg-neue-psychoaktive-stoffe` | NpSG Neue-psychoaktive-Stoffe-Gesetz seit 26.11.2016: Strafrahmen § 4 NpSG, Stoffgruppenliste Anlage, Abgrenzung zu BtMG und Arzneimittelrecht. Praxis bei Designer-Drogen, Spice-Praeparaten, Cathinonen. |
 | `strafrecht-spezial-patentrecht-142-patg` | Strafbarkeit der Patentverletzung Paragraph 142 PatG. Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antragsdelikt. Praxis selten Strafverfahren typischerweise zivilrechtlich. Verteidigung Patentbestand Aequivalent Erschoepfung Vorsatz. Abgrenzung zu Gebrauchsmuster Paragraph 25 GebrMG. |
-| `strafrecht-spezial-raeuberischer-diebstahl-252-stgb` | Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB. |
+| `strafrecht-spezial-raeuberischer-diebstahl-252-stgb` | Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr für Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
 
-**Fokus:** Bandenmaessige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmaessige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
+**Fokus:** Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
 
-# Bandenmaessige Markenrechtsverletzung nach Paragraph 143a MarkenG
+# Bandenmäßige Markenrechtsverletzung nach Paragraph 143a MarkenG
 
 ## Worum geht es
 
-Paragraph 143a MarkenG ist die Qualifikation des Paragraph 143 MarkenG fuer gewerbsmaessige oder bandenmaessige Begehung. Anwendungsfaelle: organisierte Counterfeit-Logistik mit Containerimporten aus Drittstaaten, Online-Marktplatz-Netzwerke mit mehreren Beteiligten in Produktion, Lagerung, Verkauf, Geldwaesche; Schmuggelringe; arbeitsteilige Vertriebsstrukturen mit klarer Rollenverteilung.
+Paragraph 143a MarkenG ist die Qualifikation des Paragraph 143 MarkenG für gewerbsmäßige oder bandenmäßige Begehung. Anwendungsfaelle: organisierte Counterfeit-Logistik mit Containerimporten aus Drittstaaten, Online-Marktplatz-Netzwerke mit mehreren Beteiligten in Produktion, Lagerung, Verkauf, Geldwaesche; Schmuggelringe; arbeitsteilige Vertriebsstrukturen mit klarer Rollenverteilung.
 
 Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitsstrafe. Geldstrafe als alleinige Strafe ist ausgeschlossen. Dies ist ein Verbrechen (per definitionem; Mindestmass Freiheitsstrafe), was strafprozessual und materiell weitreichende Folgen hat (Versuchsbestrafung, Mittaeterschaft, Beihilfe).
 
@@ -52,17 +52,17 @@ Voraussetzung: Die Tat des Paragraph 143 Abs 1 MarkenG ist erfuellt **und** sie 
 
 **Gewerbsmaessigkeit** nach staendiger BGH-Rspr.: Absicht, sich aus wiederholter Tatbegehung eine fortlaufende Einnahmequelle von einigem Umfang und einiger Dauer zu verschaffen. Bereits die erste Tat in Verfolgung dieser Absicht ist gewerbsmaessig.
 
-**Bande** nach staendiger BGH-Rspr.: Zusammenschluss von mindestens drei Personen, die sich mit dem Willen zusammengeschlossen haben, kuenftig fuer eine gewisse Dauer mehrere selbstaendige, im Einzelnen noch ungewisse Straftaten der genannten Art zu begehen. Bandenabrede muss nicht foermlich sein; konkludentes Zusammenwirken genuegt; Hierarchie ist nicht erforderlich.
+**Bande** nach staendiger BGH-Rspr.: Zusammenschluss von mindestens drei Personen, die sich mit dem Willen zusammengeschlossen haben, kuenftig für eine gewisse Dauer mehrere selbstaendige, im Einzelnen noch ungewisse Straftaten der genannten Art zu begehen. Bandenabrede muss nicht foermlich sein; konkludentes Zusammenwirken genuegt; Hierarchie ist nicht erforderlich.
 
-Praxiswichtig: BGH-Linie zur Mindestpersonenzahl drei wurde im Grundsatzbeschluss des Grossen Senats fuer Strafsachen verbindlich. Eine zwei-Personen-Verbindung ist Bande nicht ausreichend; hier bleibt es ggf. bei Paragraph 143 MarkenG plus Paragraph 25 Abs 2 StGB (Mittaeterschaft).
+Praxiswichtig: BGH-Linie zur Mindestpersonenzahl drei wurde im Grundsatzbeschluss des Grossen Senats für Strafsachen verbindlich. Eine zwei-Personen-Verbindung ist Bande nicht ausreichend; hier bleibt es ggf. bei Paragraph 143 MarkenG plus Paragraph 25 Abs 2 StGB (Mittaeterschaft).
 
-Bandenmitglieder muessen nicht alle bei jeder Einzeltat mitwirken; die Bandenmitgliedschaft genuegt fuer die Strafbarkeit nach Paragraph 143a MarkenG, sofern der konkrete Taeter Bandenmitglied ist und im Rahmen der Bandenabrede handelt.
+Bandenmitglieder muessen nicht alle bei jeder Einzeltat mitwirken; die Bandenmitgliedschaft genuegt für die Strafbarkeit nach Paragraph 143a MarkenG, sofern der konkrete Taeter Bandenmitglied ist und im Rahmen der Bandenabrede handelt.
 
 ## Strafantrag und Antragsbefugnis
 
 **Kein Antragserfordernis.** Offizialdelikt. Eine Strafanzeige durch den Markeninhaber, durch den Zoll oder durch Dritte loest das Ermittlungsverfahren aus. Anzeigeerstatter ist haeufig der Zoll im Rahmen Paragraph 142a MarkenG iVm VO (EU) 608/2013 (Grenzbeschlagnahme).
 
-Praxisrelevant: Auch wenn kein Antrag erforderlich, ist die Mitwirkung des Markeninhabers fuer die Beweisfuehrung kritisch (Markenidentitaet, Originalitaetspruefung der Vergleichsmuster, Schadensbezifferung). Markeninhaber sollte vor der Anzeige Beweispaket vorbereiten.
+Praxisrelevant: Auch wenn kein Antrag erforderlich, ist die Mitwirkung des Markeninhabers für die Beweisfuehrung kritisch (Markenidentitaet, Originalitaetspruefung der Vergleichsmuster, Schadensbezifferung). Markeninhaber sollte vor der Anzeige Beweispaket vorbereiten.
 
 ## Praktikertipps der Verteidigung
 
@@ -99,7 +99,7 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant hat als Lagerhelfer bei der Y GmbH gearbeitet. Eine Bandenmitgliedschaft im Sinne der BGH-Rspr. (Grosser Senat fuer Strafsachen, Bandenabrede zwischen mindestens drei Personen mit Willen kuenftiger arbeitsteiliger Tatbegehung) wird bestritten. Mein Mandant hat lediglich auf Weisung des Geschaeftsfuehrers Verpackungstaetigkeiten ausgefuehrt; eine vorausgehende Absprache ueber die Begehung kuenftiger Markenverletzungen war nicht vorhanden. Hilfsweise wird Beihilfe nach Paragraph 27 StGB beantragt, mit Strafmilderung nach Paragraph 49 Abs 1 StGB."
+**Schutzschrift-Snippet:** "Mein Mandant hat als Lagerhelfer bei der Y GmbH gearbeitet. Eine Bandenmitgliedschaft im Sinne der BGH-Rspr. (Grosser Senat für Strafsachen, Bandenabrede zwischen mindestens drei Personen mit Willen kuenftiger arbeitsteiliger Tatbegehung) wird bestritten. Mein Mandant hat lediglich auf Weisung des Geschaeftsfuehrers Verpackungstaetigkeiten ausgefuehrt; eine vorausgehende Absprache ueber die Begehung kuenftiger Markenverletzungen war nicht vorhanden. Hilfsweise wird Beihilfe nach Paragraph 27 StGB beantragt, mit Strafmilderung nach Paragraph 49 Abs 1 StGB."
 
 **Verstaendigungssnippet (Kronzeugenregelung):** "Mein Mandant ist bereit, gemaess Paragraph 46b StGB substantielle Aufklaerungshilfe zu leisten. Er kann die organisatorische Struktur der Bande sowie die Identitaet der Hauptverantwortlichen umfassend offenlegen. Im Gegenzug wird Strafmilderung beantragt."
 
@@ -118,12 +118,11 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 - Paragraph 143a MarkenG im Wortlaut (gesetze-im-internet.de): drei Monate bis fuenf Jahre Freiheitsstrafe.
 - Paragraphen 143, 144 MarkenG.
 - Paragraph 14 MarkenG zivilrechtliche Verletzungstatbestaende.
-- BGH Grosser Senat fuer Strafsachen, Bandenbegriff (Mindestens drei Personen, Wille kuenftiger arbeitsteiliger Tatbegehung); BGH staendige Rspr. zur Gewerbsmaessigkeit.
+- BGH Grosser Senat für Strafsachen, Bandenbegriff (Mindestens drei Personen, Wille kuenftiger arbeitsteiliger Tatbegehung); BGH staendige Rspr. zur Gewerbsmaessigkeit.
 - Paragraphen 25, 27, 49 StGB Taeterschaft, Beihilfe, Strafrahmenverschiebung.
 - Paragraph 46b StGB Kronzeugenregelung; Paragraph 257c StPO Verstaendigung; Paragraph 112a StPO Wiederholungsgefahr.
 - Paragraphen 73, 73c, 74 StGB Einziehung; Bruttoprinzip BGH; Gesamtschuldnerschaft bei Bandentaten BGH staendige Rspr.
 - VO (EU) 608/2013 und Paragraph 142a MarkenG; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
-
 
 ## Qualitäts-Hardening
 
@@ -135,7 +134,7 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 
 ## 2. `strafrecht-spezial-marktmanipulation-120-wphg`
 
-**Fokus:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Algo-Trading Krypto Boersenmakler.
+**Fokus:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Algo-Trading Krypto Boersenmakler.
 
 # Marktmanipulation § 120 WpHG iVm Art. 15 MAR
 
@@ -146,12 +145,12 @@ Spezial-Mandat: Anklage Marktmanipulation. Klassische Konstellationen: Spoofing 
 ## Struktur
 
 - **Materielles Verbot:** Art. 15 MAR (Marktmissbrauchsverordnung).
-- **Strafnorm:** § 120 Abs. 15 WpHG (sowie § 120 Abs. 2 ff. WpHG fuer OWi-Variante leichtfertige Marktmanipulation).
+- **Strafnorm:** § 120 Abs. 15 WpHG (sowie § 120 Abs. 2 ff. WpHG für OWi-Variante leichtfertige Marktmanipulation).
 - **Ordnungswidrigkeit:** § 120 Abs. 14, 15 WpHG (leichtfertige Begehung als OWi mit Bussgeld).
 
 ## Eingaben
 
-- Anklageschrift, BaFin-Anhoerung.
+- Anklageschrift, BaFin-Anhörung.
 - Tradinglog mit Zeitstempeln, Order-IDs, Stueckzahl.
 - Marktdaten Best-Bid-Offer, Volumen vor / waehrend / nach Tat.
 - Mediale Inhalte: Forum-Posts, Twitter, Telegram, Pressemitteilungen.
@@ -187,7 +186,7 @@ Marktmanipulation ist verboten.
 
 ### Akzeptierte Marktpraktiken Art. 13 MAR
 
-- BaFin kann bestimmte Praktiken als zulaessig erklaeren (Schutz fuer Liquidity Provider).
+- BaFin kann bestimmte Praktiken als zulaessig erklaeren (Schutz für Liquidity Provider).
 
 ## Praktikertipps Verteidigung
 
@@ -267,11 +266,11 @@ Marktmanipulation ist verboten.
 
 ## Worum geht es
 
-Spezial-Mandat: Behoerde (regelmaessig Bezirksamt oder Ordnungsamt der Kommune) leitet OWi-Verfahren ein wegen Mietpreisueberhoehung. Vermieter ist Betroffener im OWi-Verfahren. Praxistypisch in Ballungsraeumen mit angespanntem Wohnungsmarkt (Berlin, Muenchen, Hamburg, Frankfurt, Koeln, Stuttgart).
+Spezial-Mandat: Behörde (regelmaessig Bezirksamt oder Ordnungsamt der Kommune) leitet OWi-Verfahren ein wegen Mietpreisueberhoehung. Vermieter ist Betroffener im OWi-Verfahren. Praxistypisch in Ballungsraeumen mit angespanntem Wohnungsmarkt (Berlin, Muenchen, Hamburg, Frankfurt, Koeln, Stuttgart).
 
 ## Eingaben
 
-- Bussgeldbescheid, Anhoerungsschreiben.
+- Bussgeldbescheid, Anhörungsschreiben.
 - Mietvertrag, Mietspiegel der Kommune, Vergleichsmieten.
 - Wohnungslage, Ausstattung, Wohnflaeche.
 - Marktlage zum Vertragsschluss (Mangellage).
@@ -337,7 +336,7 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 
 ### Bestreiten Vergleichsmiete
 
-"Der von der Behoerde herangezogene Mietspiegel [Stadt] [Jahr] erfasst die ortsuebliche Vergleichsmiete fuer die Wohnung [Adresse] nicht zutreffend. Es handelt sich um eine sanierte Altbauwohnung mit gehobener Ausstattung (Parkett, Fussbodenheizung, hochwertige Sanitaeranlagen, Aufzug, Concierge), die das obere Drittel der Mietspiegel-Spannenklasse rechtfertigt. Hilfsweise wird die Einholung eines Sachverstaendigengutachtens beantragt."
+"Der von der Behörde herangezogene Mietspiegel [Stadt] [Jahr] erfasst die ortsuebliche Vergleichsmiete für die Wohnung [Adresse] nicht zutreffend. Es handelt sich um eine sanierte Altbauwohnung mit gehobener Ausstattung (Parkett, Fussbodenheizung, hochwertige Sanitaeranlagen, Aufzug, Concierge), die das obere Drittel der Mietspiegel-Spannenklasse rechtfertigt. Hilfsweise wird die Einholung eines Sachverstaendigengutachtens beantragt."
 
 ### Bestreiten Ausnutzen
 
@@ -360,7 +359,7 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 
 ## 4. `strafrecht-spezial-minder-schwerer-fall-213-stgb`
 
-**Fokus:** Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden fuer die Verteidigung.
+**Fokus:** Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden für die Verteidigung.
 
 # Minder schwerer Fall des Totschlags § 213 StGB
 
@@ -456,7 +455,6 @@ In der Praxis ist § 213 StGB der wichtigste Strafmilderungsschluessel im Toetun
 - BGH staendige Rspr. zur Affekttat und zur Eigenschuld an der Provokation.
 - BGH staendige Rspr. zum Verhaeltnis § 213 StGB / § 21 StGB (Doppelverwertungsverbot).
 - Verifizierung in amtliche Quellen und BGH-Datenbank live empfohlen.
-
 
 ## Qualitäts-Hardening
 
@@ -585,13 +583,13 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 
 ## 6. `strafrecht-spezial-mord-211-stgb-mordmerkmale`
 
-**Fokus:** Mord nach § 211 StGB. Praxisleitfaden fuer Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung.
+**Fokus:** Mord nach § 211 StGB. Praxisleitfaden für Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung.
 
 # Mord § 211 StGB – Mordmerkmale-Praxisleitfaden
 
 ## Worum geht es
 
-Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wegen Mordes. Verteidigungsziel ist regelmaessig nicht der Freispruch, sondern die **Vermeidung des Schuldspruchs wegen Mordes** und damit der absoluten Strafdrohung "lebenslange Freiheitsstrafe". Erreicht wird das ueber die **Verneinung jedes einzelnen Mordmerkmals** und ueber die **Rechtsfolgenloesung** des Grossen Senats fuer Strafsachen (staendige BGH-Linie) bei Heimtuecke in atypischen Konfliktlagen.
+Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wegen Mordes. Verteidigungsziel ist regelmaessig nicht der Freispruch, sondern die **Vermeidung des Schuldspruchs wegen Mordes** und damit der absoluten Strafdrohung "lebenslange Freiheitsstrafe". Erreicht wird das ueber die **Verneinung jedes einzelnen Mordmerkmals** und ueber die **Rechtsfolgenloesung** des Grossen Senats für Strafsachen (staendige BGH-Linie) bei Heimtuecke in atypischen Konfliktlagen.
 
 § 211 StGB ist Verbrechen. Versuch ist strafbar (§ 23 StGB). Vollendung erfordert den Tod eines anderen Menschen. Abgrenzung zu § 212 StGB Totschlag erfolgt ausschliesslich ueber das Vorliegen mindestens eines Mordmerkmals nach § 211 Abs. 2 StGB.
 
@@ -599,7 +597,7 @@ Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wege
 
 **Objektiver Tatbestand:** Toetung eines anderen Menschen. Tatbeginn mit der Geburt (vollstaendige Trennung vom Mutterleib); Tatende mit dem Hirntod.
 
-**Subjektiver Tatbestand:** Toetungsvorsatz (mindestens dolus eventualis) **und** Vorsatz hinsichtlich der das Mordmerkmal begruendenden Tatsachen. Bei taeterbezogenen Merkmalen (niedrige Beweggruende, Habgier, Mordlust, Befriedigung des Geschlechtstriebs, Verdeckungs- und Ermoeglichungsabsicht) wird zudem ein bewusstseinsmaessiges Erfassen der Bewertungsgrundlage gefordert.
+**Subjektiver Tatbestand:** Toetungsvorsatz (mindestens dolus eventualis) **und** Vorsatz hinsichtlich der das Mordmerkmal begruendenden Tatsachen. Bei taeterbezogenen Merkmalen (niedrige Beweggruende, Habgier, Mordlust, Befriedigung des Geschlechtstriebs, Verdeckungs- und Ermoeglichungsabsicht) wird zudem ein bewusstseinsmäßiges Erfassen der Bewertungsgrundlage gefordert.
 
 **Aufbau der Mordmerkmale:**
 
@@ -619,9 +617,9 @@ Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wege
 
 **Ermoeglichungsabsicht:** Toetung, um eine andere Straftat zu ermoeglichen (auch Drittstraftat).
 
-**Grausam:** Toetung in einer Weise, dass dem Opfer aus gefuehlloser, unbarmherziger Gesinnung besondere Schmerzen oder Qualen koerperlicher oder seelischer Art zugefuegt werden, die ueber das fuer die Toetung notwendige Mass hinausgehen.
+**Grausam:** Toetung in einer Weise, dass dem Opfer aus gefuehlloser, unbarmherziger Gesinnung besondere Schmerzen oder Qualen koerperlicher oder seelischer Art zugefuegt werden, die ueber das für die Toetung notwendige Mass hinausgehen.
 
-**Gemeingefaehrliche Mittel:** Mittel, die in ihrer konkreten Anwendung eine unbestimmte Mehrzahl von Menschen gefaehrden koennen und dem Taeter unbeherrschbar sind (Brand, Sprengstoff, Gift in oeffentlicher Wasserversorgung).
+**Gemeingefaehrliche Mittel:** Mittel, die in ihrer konkreten Anwendung eine unbestimmte Mehrzahl von Menschen gefaehrden koennen und dem Taeter unbeherrschbar sind (Brand, Sprengstoff, Gift in öffentlicher Wasserversorgung).
 
 **Mordlust:** Toetung aus Freude an der Vernichtung eines Menschenlebens, ohne weiteren Beweggrund.
 
@@ -650,7 +648,7 @@ Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wege
 - **§§ 224, 226, 227 StGB:** Zurueck, wenn der Toetungsvorsatz nicht erweislich ist.
 - **§§ 30, 31 StGB:** Verbrechensverabredung; Versuchsruecktritt.
 - **§ 22 StGB:** Versuch strafbar; Ruecktritt vom Versuch nach § 24 StGB moeglich, wenn der Taeter aus freien Stuecken aufgibt.
-- **§ 25 Abs. 2 StGB:** Mittaeterschaft – Mordmerkmale wirken bei taeterbezogenen Merkmalen nur fuer den, in dessen Person sie vorliegen (§ 28 Abs. 2 StGB, streitig fuer Mord).
+- **§ 25 Abs. 2 StGB:** Mittaeterschaft – Mordmerkmale wirken bei taeterbezogenen Merkmalen nur für den, in dessen Person sie vorliegen (§ 28 Abs. 2 StGB, streitig für Mord).
 
 ## Strafzumessung
 
@@ -686,7 +684,7 @@ Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wege
 - § 212 StGB Totschlag.
 - § 213 StGB minder schwerer Fall.
 - §§ 22, 23 StGB Versuch; § 49 StGB Strafmilderung; § 57a StGB Aussetzung.
-- BGH Grosser Senat fuer Strafsachen – Rechtsfolgenloesung Heimtuecke (staendige Rspr., Az. nicht aus Modellwissen zitieren; in HRR-Strafrecht und beim BGH live verifizieren).
+- BGH Grosser Senat für Strafsachen – Rechtsfolgenloesung Heimtuecke (staendige Rspr., Az. nicht aus Modellwissen zitieren; in HRR-Strafrecht und beim BGH live verifizieren).
 - BGH staendige Rspr. zur Auslegung der Mordmerkmale (Restriktionstendenz).
 - Verifizierung in amtliche Quellen (gesetze-im-internet.de) und BGH-Datenbank (bundesgerichtshof.de) live empfohlen.
 
@@ -725,7 +723,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 **Drohung mit empfindlichem Uebel:** In Aussichtstellen eines Uebels, dessen Verwirklichung in der Macht des Drohenden steht (oder so erscheint). Empfindlich ist das Uebel, wenn es geeignet ist, einen besonnenen Menschen in der Lage des Bedrohten zu der geforderten Handlung zu motivieren.
 
 - Drohung mit Gewalt, mit Strafanzeige (im Einzelfall), mit Verbreitung von Geheimnissen, mit Entlassung.
-- **Auch Drohung mit kuenftiger Gewalt** umfasst – im Unterschied zu § 249 StGB / § 177 Abs. 5 StGB, wo die Drohung **gegenwaertige** Gefahr fuer Leib oder Leben fordert.
+- **Auch Drohung mit kuenftiger Gewalt** umfasst – im Unterschied zu § 249 StGB / § 177 Abs. 5 StGB, wo die Drohung **gegenwaertige** Gefahr für Leib oder Leben fordert.
 
 **Verwerflichkeit § 240 Abs. 2 StGB:** Die Tat ist nur rechtswidrig, wenn die Anwendung der Gewalt oder die Androhung des Uebels zum erstrebten Zweck als **verwerflich** anzusehen ist (Mittel-Zweck-Relation). Anerkannte verwerfliche Konstellationen: Schutzgelderpressung, Stalking, haeusliche Gewalt. Nicht verwerflich: Drohung mit Strafanzeige zur Durchsetzung einer berechtigten zivilrechtlichen Forderung (im Grundsatz; Einzelfall).
 
@@ -773,7 +771,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 ## Mustertexte
 
 **Einlassung (Auszug, Verwerflichkeit):**
-> Der Angeklagte hat dem Geschaedigten gegenueber geaeussert, er werde Strafanzeige wegen des Diebstahls erstatten, wenn dieser nicht das entwendete Geld zurueckzahle. Es handelt sich um die rechtmaessige Ankuendigung einer Strafanzeige zur Durchsetzung einer berechtigten zivilrechtlichen Forderung. Die Mittel-Zweck-Relation ist nicht verwerflich iSd § 240 Abs. 2 StGB.
+> Der Angeklagte hat dem Geschaedigten gegenueber geaeussert, er werde Strafanzeige wegen des Diebstahls erstatten, wenn dieser nicht das entwendete Geld zurueckzahle. Es handelt sich um die rechtmäßige Ankuendigung einer Strafanzeige zur Durchsetzung einer berechtigten zivilrechtlichen Forderung. Die Mittel-Zweck-Relation ist nicht verwerflich iSd § 240 Abs. 2 StGB.
 
 **Plaedoyer-Snippet (Sitzblockade):**
 > Nach der staendigen Rechtsprechung des BVerfG (Sitzblockaden-Entscheidung 1995) ist das blosse Sitzen auf der Strasse ohne koerperliche Einwirkung auf den ersten Fahrer keine Gewalt iSd § 240 StGB. Die Anklage trifft den Angeklagten nur im Verhaeltnis zu den nachfolgenden Fahrzeugen, die durch das vor ihnen stehende erste Fahrzeug physisch blockiert wurden. Im Verhaeltnis zum ersten Fahrer scheidet § 240 StGB aus.
@@ -807,7 +805,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 
 Das Neue-psychoaktive-Stoffe-Gesetz (NpSG) ist am 26.11.2016 in Kraft getreten und wurde seitdem mehrfach erweitert (zuletzt mit zusaetzlichen Stoffgruppen — aktuelle Anlage zum Tatzeitpunkt verifizieren). Das NpSG erfasst Stoffe, die nicht im BtMG aufgefuehrt sind, aber psychoaktive Wirkung haben und kommerziell verbreitet werden ("Legal Highs", "Designer-Drogen", Spice, Cathinone, synthetische Cannabinoide etc.).
 
-Strafbarkeit nach § 4 NpSG; Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation § 4 Abs. 2 NpSG bei gesundheitsschaedlichen Wirkungen oder banden- bzw. gewerbsmaessigem Handel.
+Strafbarkeit nach § 4 NpSG; Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation § 4 Abs. 2 NpSG bei gesundheitsschaedlichen Wirkungen oder banden- bzw. gewerbsmäßigem Handel.
 
 ## Tatbestand und Stoffliche Erfassung
 
@@ -820,7 +818,7 @@ Strafbarkeit nach § 4 NpSG; Strafrahmen bis drei Jahre Freiheitsstrafe oder Gel
 ohne Erlaubnis, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 **§ 4 Abs. 2 NpSG Qualifikation:** Freiheitsstrafe ein Jahr bis zehn Jahre bei
-- gewerbsmaessigem Handeln
+- gewerbsmäßigem Handeln
 - als Mitglied einer Bande
 - konkrete Gesundheitsgefahr (Schaedigung Gesundheit eines anderen)
 - gegenueber Personen unter 18 Jahren
@@ -931,7 +929,7 @@ Paragraph 142 Abs 1 PatG: Wer einer der in Paragraph 9 Satz 2 PatG aufgezaehlten
 
 Patentschutz beginnt mit Erteilung des Patents, wirkt aber nach Veroeffentlichung der Anmeldung bereits eingeschraenkt (Paragraph 33 PatG Entschaedigungsanspruch); strafrechtlich ist auf das **erteilte Patent** abzustellen.
 
-Tatobjekt ist das eingetragene und rechtskraeftig erteilte Patent (Paragraph 49 PatG). Bei Europaeischen Patenten mit Wirkung fuer Deutschland (EP-Patent) gilt der gleiche Schutz; bei Einheitspatent (EPUE) ist die strafrechtliche Anwendung in der Anlaufphase noch nicht abschliessend geklaert, **verifizieren**.
+Tatobjekt ist das eingetragene und rechtskraeftig erteilte Patent (Paragraph 49 PatG). Bei Europaeischen Patenten mit Wirkung für Deutschland (EP-Patent) gilt der gleiche Schutz; bei Einheitspatent (EPUE) ist die strafrechtliche Anwendung in der Anlaufphase noch nicht abschliessend geklaert, **verifizieren**.
 
 Subjektiv Vorsatz, mindestens dolus eventualis. Vorsatz muss umfassen: dass ein Patent besteht, dass dessen Schutzbereich die fragliche Handlung erfasst, dass keine Berechtigung (Lizenz, Erschoepfung) gegeben ist.
 
@@ -995,16 +993,16 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 
 - Paragraph 142 PatG im Wortlaut (gesetze-im-internet.de).
 - Paragraphen 9, 10, 14, 33, 49, 81, 143 PatG.
-- Paragraph 25 GebrMG (paralleler Tatbestand fuer Gebrauchsmuster).
+- Paragraph 25 GebrMG (paralleler Tatbestand für Gebrauchsmuster).
 - Paragraph 77b StGB Antragsfrist; Paragraph 374 StPO Privatklage.
 - Paragraph 154d StPO Aussetzung (Wortlaut konkretisieren — bei Vorgreiflichkeit ziviler Verfahren); konkrete Norm bitte vor Verwendung verifizieren.
 - BGH staendige Rspr. zur Patentanspruchsauslegung (Schutzbereich aus Sicht des Fachmanns); EuGH-Rspr. zur Erschoepfung im EWR.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
-- VO (EU) 608/2013 fuer Grenzbeschlagnahme patentverletzender Ware.
+- VO (EU) 608/2013 für Grenzbeschlagnahme patentverletzender Ware.
 
 ## 10. `strafrecht-spezial-raeuberischer-diebstahl-252-stgb`
 
-**Fokus:** Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB.
+**Fokus:** Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr für Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB.
 
 # Raeuberischer Diebstahl § 252 StGB
 
@@ -1014,7 +1012,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 
 Strafrahmen: wie § 249 StGB – Freiheitsstrafe nicht unter einem Jahr. Bei Qualifikationsmerkmalen Verweis auf § 250 StGB und § 251 StGB iVm § 252 StGB.
 
-In der Praxis ist § 252 StGB die zentrale Norm fuer **Fluchtdiebstahl mit Gewaltanwendung**: Ladendieb wird ergriffen und schlaegt zu; Taschendieb wird verfolgt und stoesst den Verfolger weg.
+In der Praxis ist § 252 StGB die zentrale Norm für **Fluchtdiebstahl mit Gewaltanwendung**: Ladendieb wird ergriffen und schlaegt zu; Taschendieb wird verfolgt und stoesst den Verfolger weg.
 
 ## Tatbestand und Auslegung
 
@@ -1022,7 +1020,7 @@ In der Praxis ist § 252 StGB die zentrale Norm fuer **Fluchtdiebstahl mit Gewal
 
 1. **Vortat:** Vollendeter Diebstahl (§ 242 StGB) oder Raub (§ 249 StGB) durch den Taeter.
 2. **Betroffensein auf frischer Tat:** Der Taeter wird waehrend der Tat oder unmittelbar danach **wahrgenommen** durch den Bestohlenen oder einen Dritten.
-3. **Gewalt oder Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben:** Wie bei § 249 StGB.
+3. **Gewalt oder Drohung mit gegenwaertiger Gefahr für Leib oder Leben:** Wie bei § 249 StGB.
 4. **Beutesicherungsabsicht:** Der Taeter handelt, um sich im Besitz der gestohlenen Sache zu erhalten. Subjektives Merkmal.
 
 **Subjektiver Tatbestand:** Vorsatz hinsichtlich aller objektiven Merkmale. Beutesicherungsabsicht als subjektive Komponente.

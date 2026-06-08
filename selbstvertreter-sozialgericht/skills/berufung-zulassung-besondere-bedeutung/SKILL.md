@@ -27,7 +27,7 @@ Wenn Ihre Streit-Sache klein ist, gibt es trotzdem manchmal Berufung. Wenn es um
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Zulassung der Berufung**: Erlaubnis fuer Berufung trotz fehlender Wertgrenze.
+- **Zulassung der Berufung**: Erlaubnis für Berufung trotz fehlender Wertgrenze.
 - **Grundsaetzliche Bedeutung**: Die Rechtsfrage ist allgemein wichtig.
 - **Divergenz**: SG ist von Rechtsprechung des BSG abgewichen.
 - **Verfahrensfehler**: Das SG-Verfahren hatte einen schweren Mangel.
@@ -37,7 +37,7 @@ Wenn Ihre Streit-Sache klein ist, gibt es trotzdem manchmal Berufung. Wenn es um
 - **§ 144 Abs. 2 SGG** — Zulassungsgruende.
 - **§ 145 SGG** — Nichtzulassungsbeschwerde.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: hat das SG zugelassen?
 
@@ -132,7 +132,6 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 Abs. 2 SGG aktuell.
-
 
 ## Qualitäts-Hardening
 

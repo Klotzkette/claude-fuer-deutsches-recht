@@ -6,15 +6,12 @@ description: "Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue 
 # Wohnungsdurchsuchung und Gefahr im Verzug
 
 ## Fachkern: Wohnungsdurchsuchung und Gefahr im Verzug
-- **Spezialgegenstand:** Wohnungsdurchsuchung und Gefahr im Verzug wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Wohnungsdurchsuchung und Gefahr im Verzug** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Richtervorbehalt, Dokumentation der Eilkompetenz, Verhältnismäßigkeit und Vollzugsprotokoll
 
@@ -40,6 +37,16 @@ Dieser Abschnitt bearbeitet **Fachkern: Wohnungsdurchsuchung und Gefahr im Verzu
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 102 StPO (Durchsuchung beim Verdächtigen)
+- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
+- BVerfGE 96, 44 (Verhältnismäßigkeit)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

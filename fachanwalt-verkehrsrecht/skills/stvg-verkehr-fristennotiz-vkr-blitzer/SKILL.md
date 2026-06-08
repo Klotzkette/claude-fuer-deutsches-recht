@@ -7,36 +7,32 @@ description: "Stvg Verkehr Fristennotiz VKR Blitzer im Plugin Fachanwalt Verkehr
 
 ## Arbeitsbereich
 
-**Stvg Verkehr Fristennotiz VKR Blitzer** ordnet den Fall über die tragenden Prüffelder: Stvg, Verkehr, Spezialfall Blitzer- und Messverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Stvg Verkehr Fristennotiz VKR Blitzer** ordnet den Fall über die tragenden Prüfungslinien: Stvg, Verkehr, Spezialfall Blitzer- und Messverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-stvg-fristen-form-und-zustaendigkeit` | Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-stvg-fristen-form-und-zuständigkeit` | Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verkehr-fristennotiz-und-naechster-schritt` | Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vkr-blitzer-messverfahren-spezial` | Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Pruefraster und Schriftsatzbausteine. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verkehrsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `spezial-stvg-fristen-form-und-zustaendigkeit`
+## 1. `spezial-stvg-fristen-form-und-zuständigkeit`
 
 **Fokus:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg / stvg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -73,11 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verkehr: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Verkehr: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Verkehr: Fristennotiz und nächster Schritt / verkehr fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -109,10 +101,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verkehrsrechts-Fristennotiz / naechster Schritt Bausteine
 - **Frist-Uebersicht pro Saeule:**
- - **Verkehrszivilrecht:** Verjaehrung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
- - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjaehrung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
+ - **Verkehrszivilrecht:** Verjährung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
+ - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjährung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
  - **Verkehrsstrafrecht:** § 410 StPO Strafbefehl-Einspruch 2 Wochen; § 314 StPO Berufung 1 Woche; § 341 / § 345 StPO Revision 1 Woche / 1 Monat.
- - **FeV:** Anhoerungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
+ - **FeV:** Anhörungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
  - **Versicherung:** § 30 VVG Anzeige unverzueglich; § 28 VVG Leistungsfreiheit; § 86 VVG Forderungsuebergang.
 - **Fristennotiz-Vorlage:**
  ```
@@ -131,7 +123,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Unfall mit Verletzten:** Sofort SV-Gutachten + Krankenakte + Krankenkasse-Anspruch § 116 SGB X; Versicherer in Anspruch nehmen.
  - **Bussgeldbescheid:** Akteneinsicht § 49 OWiG sofort; Einspruchsentscheidung in 2 Wochen.
  - **Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO:** Beschwerde § 304 StPO sofort.
- - **Anhoerung FeV-Behoerde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
+ - **Anhörung FeV-Behörde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
  - **Schadenregulierung Versicherer:** Bei Streit oder Verzoegerung Klage zum AG / LG je Streitwert.
 - **Live-Quellen:**
  - gesetze-im-internet.de (Bundesnormen).
@@ -147,27 +139,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verkehrsrecht: Blitzer-Verfahren
 
 ## Spezialwissen: Verkehrsrecht: Blitzer-Verfahren
-- **Spezialgegenstand:** Verkehrsrecht: Blitzer-Verfahren / vkr blitzer messverfahren spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BVerfG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -184,10 +172,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

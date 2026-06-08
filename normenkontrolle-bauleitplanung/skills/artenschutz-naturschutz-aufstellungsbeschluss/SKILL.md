@@ -1,42 +1,27 @@
 ---
 name: artenschutz-naturschutz-aufstellungsbeschluss
-description: "Artenschutz Naturschutz Aufstellungsbeschluss im Plugin Normenkontrolle Bauleitplanung: prüft konkret Buerger oder Naturschutzverband greift Bebauungsplan wegen, Mandant prüft ob ein Bebauungsplan an einem, Benutzungssatzungen kommunaler Einrichtungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb im Normenkontrolle Bauleitplanung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Artenschutz Naturschutz Aufstellungsbeschluss
+# Artenschutz und Naturschutz in der Bauleitplanung
 
 ## Arbeitsbereich
 
-**Artenschutz Naturschutz Aufstellungsbeschluss** ordnet den Fall über die tragenden Prüffelder: Buerger oder Naturschutzverband greift Bebauungsplan wegen, Mandant prüft ob ein Bebauungsplan an einem, Benutzungssatzungen kommunaler Einrichtungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `artenschutz-naturschutz-planung` | Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb. |
-| `aufstellungsbeschluss-bekanntmachung` | Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identität ausgelegte und beschlossene Fassung Zuständigkeit Beschlussfähigkeit. Output: Verfahrensfehlerprüfung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb. |
-| `benutzungssatzung-kommunale-einrichtung` | Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.; Normanker: VwGO § 47; Kommunalordnungen; Grundrechte; Gebührenrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. |
+Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrolle in der Bauleitplanung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: VwGO § 47 Abs. 2 Antrag 1 Jahr nach Bekanntmachung, BauGB § 3 Abs. 2 Auslegung 1 Monat, Einwendungen 1 Monat, § 215 BauGB Rüge formeller/materieller Fehler 1 Jahr.
 - Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `artenschutz-naturschutz-planung`
-
-**Fokus:** Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb.
-
-# Artenschutz und Naturschutz in der Bauleitplanung
 
 ## Zweck
 
 Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Veränderungen vorsieht. Lücken in der speziellen artenschutzrechtlichen Prüfung (saP) sind häufiger Treffer.
 
 ## Schritt 1 — Zugriffsverbote § 44 BNatSchG
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -220,7 +205,7 @@ Kläre vor Beginn der saP-Prüfung:
 3. Ist die saP älter als 5 Jahre? (Neuerhebung erforderlich)
 4. Welches Bundesland? (Landesrechtliche Ergänzungen zu § 44 BNatSchG beachten)
 5. Gibt es Hinweise auf Vorkommen streng geschützter Arten aus regionalem Artenkataster?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -229,12 +214,11 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Artenschutzrechtliche Ruege im Planungsverfahren | Artenschutz-Ruegeschriftsatz nach Schema; Template unten |
-| Variante A — Artenschutz klar verletzt Behoerde kooperativ | Informelle Einwendung zuerst; Klage nur bei Ablehnung |
+| Variante A — Artenschutz klar verletzt Behörde kooperativ | Informelle Einwendung zuerst; Klage nur bei Ablehnung |
 | Variante B — Saison-Schutz Bruetzeit laeuft noch | Sofortige Einwendung mit Fristsetzung; Vollzugsstopp beantragen |
 | Variante C — Ausnahme nach § 45 BNatSchG moeglich | Ausnahme-Antrag statt Klage; Kompensationsmassnahmen anbieten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template Artenschutz-Rüge im Schriftsatz
 
@@ -264,188 +248,7 @@ III. Verstoß gegen § 44 Abs. 1 Nr. 3 BNatSchG — Lebensstättenschutz [NAME A
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## 2. `aufstellungsbeschluss-bekanntmachung`
-
-**Fokus:** Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identität ausgelegte und beschlossene Fassung Zuständigkeit Beschlussfähigkeit. Output: Verfahrensfehlerprüfung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb.
-
-# Aufstellungsbeschluss und Bekanntmachung
-
-## Zweck
-
-Audit der formellen Verfahrenskette des B-Plans. Häufigste Treffer im Normenkontrollverfahren liegen hier: Bekanntmachung fehlerhaft, Beschlussvorlage abweichend, Anstoßfunktion verletzt.
-
-## Schritt 1 — Verfahrenskette im Überblick
-
-### Reguläre Kette
-1. Aufstellungsbeschluss § 2 Abs. 1 BauGB
-2. Frühzeitige Beteiligung Öffentlichkeit § 3 Abs. 1 BauGB
-3. Frühzeitige Beteiligung Behörden § 4 Abs. 1 BauGB
-4. Erarbeitung Planentwurf
-5. Förmliche Beteiligung Öffentlichkeit § 3 Abs. 2 BauGB (Auslegung)
-6. Förmliche Beteiligung Behörden § 4 Abs. 2 BauGB
-7. Ggf. erneute Auslegung bei Änderung § 4a Abs. 3 BauGB
-8. Abwägungsbeschluss
-9. Satzungsbeschluss § 10 Abs. 1 BauGB
-10. Bekanntmachung § 10 Abs. 3 BauGB
-11. Beizustellen: Begründung mit Umweltbericht zur Einsichtnahme
-
-### Beschleunigte Verfahren
-- § 13 BauGB vereinfachtes Verfahren — Schritte verkürzt
-- § 13a BauGB Innenentwicklung — keine Umweltprüfung im Einzelfall
-- § 13b BauGB Außenentwicklung Wohnbau — Befristung beachten
-
-## Schritt 2 — Aufstellungsbeschluss § 2 Abs. 1 BauGB
-
-### Inhalt
-- Beschluss des Gemeinderats, einen B-Plan aufzustellen
-- Räumlicher Geltungsbereich abgrenzbar
-- Planziel und allgemeines Anliegen
-
-### Form
-- Sitzungsöffentlichkeit gewahrt § 52 BayGO
-- Beschlussfähigkeit § 47 BayGO
-- Befangenheit § 49 BayGO geprüft
-
-### Bekanntmachung Aufstellungsbeschluss
-- Ortsübliche Bekanntmachung
-- Häufig Amtsblatt
-- Fehlt die Bekanntmachung — Verfahrensfehler, aber häufig unbeachtlich nach § 214 BauGB
-
-## Schritt 3 — Identität der Planfassung
-
-### Identitätsprüfung
-- Welche Planfassung wurde frühzeitig ausgelegt?
-- Welche Planfassung wurde förmlich ausgelegt?
-- Welche Planfassung wurde als Satzung beschlossen?
-- Welche Planfassung wurde bekanntgemacht?
-
-### Häufige Treffer
-- Beschluss-Vorlage zeigt Plan-Stand vom 15.3., Beschluss verweist auf Plan vom 22.4. — Identitätsfehler
-- Auslegung erfolgte über Plan-Stand 10.1., Beschluss über 5.5. ohne erneute Auslegung — § 4a Abs. 3 BauGB-Verstoß
-- Beschluss umfasst zusätzliche Änderungen die nie ausgelegt waren — beachtlich (§ 214 Abs. 1 S. 1 Nr. 2 BauGB)
-
-## Schritt 4 — Erneute Auslegung § 4a Abs. 3 BauGB
-
-### Pflicht zur erneuten Auslegung
-- Wenn Planentwurf nach Auslegung in der Substanz geändert wird
-- Substanz = Berührung der Grundzüge der Planung
-- Bloße redaktionelle Änderungen genügen nicht für erneute Auslegung
-
-### Begrenzte erneute Auslegung
-- Beschränkung auf die geänderten Teile möglich (§ 4a Abs. 3 S. 2 BauGB)
-- Hinweis im Bekanntmachungstext erforderlich
-- Frist mindestens zwei Wochen
-
-### Häufiger Fehler
-- Stadt erkennt nach Auslegung den Hochbauwunsch des Vorhabenträgers, Aufstockung von 6 auf 8 Geschosse, ohne erneute Auslegung in Beschluss aufgenommen — beachtlich
-
-## Schritt 5 — Satzungsbeschluss § 10 Abs. 1 BauGB
-
-### Beschlussgegenstand
-- Beschluss umfasst Planurkunde, textliche Festsetzungen, Begründung mit Umweltbericht
-- Beschluss in einem Akt — kein Aufspalten zulässig
-
-### Beschlussvorlage
-- Vollständig zur Sitzung ausgelegt
-- Sieben Tage vor Sitzung an Stadträte verteilt (Bayern: § 47 Abs. 2 BayGO)
-- Abwägungsdokumentation als Anlage
-
-### Sitzungsöffentlichkeit
-- Beratung und Beschluss in öffentlicher Sitzung § 52 BayGO
-- Nichtöffentliche Beratung bei B-Plan-Beschluss in der Regel rechtswidrig
-
-## Schritt 6 — Bekanntmachung § 10 Abs. 3 BauGB
-
-### Inhalt der Bekanntmachung
-- Bezeichnung des Plans
-- Geltungsbereich
-- Inkrafttreten
-- Ort der Einsichtnahme in den Plan
-- Hinweis auf § 215 BauGB-Rügefrist
-- Hinweis auf § 44 BauGB-Entschädigungsanspruch
-- Hinweis auf Beachtlichkeit nach § 214 BauGB
-
-### Anstoßfunktion
-- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87
-- Bekanntmachung muss Anstoß-funktion erfüllen
-- Bürger muss erkennen können, dass und wo er sich informieren kann
-- Bei zu allgemeiner Bezeichnung — Anstoßfunktion verletzt
-
-### Form der Bekanntmachung
-- Ortsüblich nach Hauptsatzung der Gemeinde
-- Amtsblatt regelmäßig vorgesehen
-- Ersatzbekanntmachung bei umfangreichen Plänen möglich (§ 10 Abs. 3 S. 2 BauGB)
-- Online-Veröffentlichung als zusätzliche Option, nicht ausreichend allein
-
-## Schritt 7 — Häufige Treffer in der Bekanntmachung
-
-| Fehler | Beachtlichkeit |
-|---|---|
-| Falsches Aktenzeichen / Plannummer | Anstoßfunktion verletzt — beachtlich |
-| Fehlender Hinweis auf § 215 BauGB | Rügefrist läuft nicht — strategisch wichtig |
-| Fehlender Hinweis auf § 44 BauGB | Entschädigungsanspruch bleibt — meist nicht beachtlich für Plan-Wirksamkeit |
-| Falscher Einsichtsort | Anstoßfunktion verletzt — beachtlich |
-| Geltungsbereich nur grob beschrieben | Anstoßfunktion fraglich |
-| Bekanntmachung in nicht ortsüblicher Form | Wirksamkeit fraglich |
-
-## Schritt 8 — Audit-Vorgehen
-
-### Beschaffung
-- Auszug Sitzungsniederschrift Aufstellungsbeschluss
-- Auszug Sitzungsniederschrift Satzungsbeschluss
-- Beschlussvorlagen
-- Auslegungsnachweise (Auslegungsverfügung, Auslegungsbeginn, Auslegungsende)
-- Bekanntmachungsexemplare aller Verfahrensschritte (Aufstellungs-Bek., Auslegungs-Bek., Satzungs-Bek.)
-
-### Tabellarisches Audit
-- Zeile pro Verfahrensschritt
-- Spalten: Datum, Beschlussfähigkeit, Befangenheit, Bekanntmachung, Anstoßfunktion ja/nein, Fehler ja/nein, Beachtlichkeit
-- Auswertung am Schluss
-
-## Quellen
-
-- BauGB §§ 2 3 4 4a 9 10 13 13a 13b 44 214 215
-- BayGO Art. 47 49 52
-- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
-- BVerwG, Urteil vom 18.7.2013 – 4 CN 3.12 (Identität Planfassung)
-- BVerwG, Beschluss vom 18.12.1987 – 4 NB 2.87 (Ortsüblichkeit)
-
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## 3. `benutzungssatzung-kommunale-einrichtung`
-
-**Fokus:** Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.; Normanker: VwGO § 47; Kommunalordnungen; Grundrechte; Gebührenrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
-
-# Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.
-
-## Auftrag
-
-Dieser Skill löst § 47 VwGO aus der reinen Bauleitplanung. Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
-
-## Normanker
-
-VwGO § 47; Kommunalordnungen; Grundrechte; Gebührenrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil § 47 Abs. 1 Nr. 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt.
-
-## Prüfprogramm
-
-1. Normtyp: Satzung, Rechtsverordnung, Bebauungsplan, Polizeiverordnung, Benutzungssatzung oder bloßer Verwaltungsakt?
-2. Statthaftigkeit: § 47 Abs. 1 Nr. 1 oder Nr. 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
-3. Antragsteller: mögliche Rechtsverletzung, Adressat, Eigentümer, Nutzer, Gemeinde, Verband oder Konkurrent.
-4. Frist und Rechtsschutzbedürfnis: Jahresfrist, fortbestehende Beschwer, Parallelverfahren.
-5. Materielle Kontrolle: Ermächtigung, Zuständigkeit, Verfahren, Bekanntmachung, Bestimmtheit, Gleichheit, Verhältnismäßigkeit.
-6. Rechtsfolge: Unwirksamkeit, Bekanntmachung der Entscheidung, Wirkung auf Folgebescheide, neue Satzung.
-
-## Ausgabe
-
-Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schriftsatzgliederung oder Bürger-/Mandantenbrief.

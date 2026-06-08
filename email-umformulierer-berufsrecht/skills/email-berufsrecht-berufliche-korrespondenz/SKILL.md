@@ -6,14 +6,10 @@ description: "Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professio
 # Allgemeine Berufliche Korrespondenz
 
 ## Fachkern: Allgemeine Berufliche Korrespondenz
-- **Spezialgegenstand:** Allgemeine Berufliche Korrespondenz wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die keinem spezifischen Berufsrecht unterliegen. Er orientiert sich an den Höflichkeits- und Sachlichkeitsstandards der deutschen Geschäftskorrespondenz und ist geeignet für Kommunikation mit Mandanten, Mitarbeitern, Dienstleistern und Geschäftspartnern.
-
 
 ## Triage zu Beginn
 1. Welcher Absender-Typ: Rechtsanwalt, Steuerberater, Unternehmen oder Privatperson?
@@ -25,9 +21,9 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 242 BGB — Treu und Glauben als Massstab fuer sachliche Korrespondenz
+- § 242 BGB — Treu und Glauben als Massstab für sachliche Korrespondenz
 - §§ 823, 824 BGB — Deliktsrecht: persoenlichkeitsrechtsverletzende oder rufschaedigende Aeusserungen
-- § 241 Abs. 2 BGB — Ruecksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
+- § 241 Abs. 2 BGB — Rücksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
 - § 5 UWG — Irrefuehrung durch unwahre Angaben in geschaeftlicher Kommunikation
 
 ## Quellenregel

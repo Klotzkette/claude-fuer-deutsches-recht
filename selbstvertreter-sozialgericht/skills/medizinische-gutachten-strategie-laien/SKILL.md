@@ -39,7 +39,7 @@ Das Gericht laesst Sie oft von Aerzten untersuchen. Diese Aerzte schreiben dann 
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
 - **§ 118 SGG i.V.m. ZPO** — Gutachten-Verfahren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vor der Untersuchung
 
@@ -98,7 +98,7 @@ Wenn das Gutachten gegen Sie ist:
 - Sie tragen Kosten erstmal selbst.
 - Siehe `sachverstaendigen-wahlrecht-109-sgg`.
 
-**Option 3: Erlaeuternde Anhoerung des Gutachters**
+**Option 3: Erlaeuternde Anhörung des Gutachters**
 
 - Im Termin kann der Gutachter gefragt werden.
 - Sie / Ihr Anwalt stellen Fragen.
@@ -141,7 +141,6 @@ Wenn Sie kuerzlich eine Reha hatten:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
-
 
 ## Qualitäts-Hardening
 

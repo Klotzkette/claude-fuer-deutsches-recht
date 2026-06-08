@@ -5,12 +5,26 @@ description: "Betreuung: Mehrparteienkonflikt und Interessenmatrix im Plugin Bet
 
 # Betreuung: Mehrparteienkonflikt und Interessenmatrix
 
-## Spezialwissen: Betreuung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Betreuung: Mehrparteienkonflikt und Interessenmatrix / betreuung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BtOG, BGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Arbeitsfokus: **Betreuung: Mehrparteienkonflikt und Interessenmatrix**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Betreuerauswahl.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — Anhörung.
+- `§ 280 FamFG` — Gutachten.
+- `§ 5 BtOG` — Beratung.
+- `§ 8 BtOG` — Betreuungsvermeidung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Betreuung: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** BtOG, BGB.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

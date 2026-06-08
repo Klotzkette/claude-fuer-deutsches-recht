@@ -7,28 +7,28 @@ description: "Laienhilfe Hilfsmittel Ablehnung Krankenkasse im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Laienhilfe Hilfsmittel Ablehnung Krankenkasse** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel, Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Laienhilfe Hilfsmittel Ablehnung Krankenkasse** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel, Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-hilfsmittel-ablehnung` | Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Ablehnung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-hilfsmittel-krankenkasse` | Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-kdu-miete-heizung` | Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-kinder-jugendhilfe-abgrenzung` | Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-hilfsmittel-ablehnung` | Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Ablehnung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-hilfsmittel-krankenkasse` | Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-kdu-miete-heizung` | Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-kinder-jugendhilfe-abgrenzung` | Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-hilfsmittel-ablehnung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Ablehnung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Ablehnung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Hilfsmittel Ablehnung
 
@@ -39,7 +39,6 @@ description: "Laienhilfe Hilfsmittel Ablehnung Krankenkasse im Plugin Fachanwalt
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -89,13 +88,13 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
 ## Hilfsmittel-Ablehnung - Themenspezifika
-- **Doppeltraegerschaft pruefen:** Wer ist eigentlich zustaendig?
+- **Doppeltraegerschaft pruefen:** Wer ist eigentlich zuständig?
  - **Krankenkasse (§ 33 SGB V):** Hilfsmittel zur Sicherung Krankenbehandlungserfolg, Vorbeugung Behinderung, Ausgleich Behinderung (Hilfsmittelverzeichnis § 139 SGB V).
  - **Pflegekasse (§ 40 SGB XI):** Pflegehilfsmittel (zum Verbrauch wie Einmalhandschuhe, technisch wie Pflegebett).
  - **Berufsgenossenschaft (SGB VII):** bei Arbeitsunfall / Berufskrankheit.
  - **Eingliederungshilfetraeger (§§ 111-113 SGB IX):** soziale Teilhabe, Bildung, Arbeit.
- - **Bundesagentur fuer Arbeit (§ 49 SGB IX):** Teilhabe am Arbeitsleben.
-- **Genehmigungsfiktion § 13 IIIa SGB V:** 3 Wochen (mit MD 5 Wochen) - bei Fristueberschreitung gilt Antrag als bewilligt (BSG-Linie). Wichtig: ordnungsgemaesser Antrag, kein Hinweis Kasse auf Verzoegerung, Patient haelt Hilfsmittel fuer erforderlich.
+ - **Bundesagentur für Arbeit (§ 49 SGB IX):** Teilhabe am Arbeitsleben.
+- **Genehmigungsfiktion § 13 IIIa SGB V:** 3 Wochen (mit MD 5 Wochen) - bei Fristueberschreitung gilt Antrag als bewilligt (BSG-Linie). Wichtig: ordnungsgemaesser Antrag, kein Hinweis Kasse auf Verzoegerung, Patient haelt Hilfsmittel für erforderlich.
 - **Standard-Ablehnungsgruende und Gegenargumente:**
  - "nicht im Hilfsmittelverzeichnis": **kein Ausschluss** - § 33 SGB V umfassend, BSG-Linie. Hilfsmittelverzeichnis ist nur Indiz.
  - "nicht wirtschaftlich" (§ 12 SGB V): Vergleichsleistungen pruefen, Preis-Leistung-Verhaeltnis dokumentieren.
@@ -104,7 +103,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Widerspruch § 84 SGG 1 Monat:** mit medizinischer Begruendung; Stellungnahme Arzt mit konkreter Indikation; Anhang MD-Gutachten widerlegen.
 - **Eilantrag § 86b II SGG** bei dringend benoetigtem Hilfsmittel (Rollstuhl, Heimbeatmungsgeraet, Notfallhilfsmittel).
 - **Praxis-Tipp:** Eigenversorgung mit Erstattungsanspruch § 13 IIIa SGB V (bei Fristueberschreitung); Vertragsleistungserbringerliste anfordern (§ 33 VI SGB V); ggf. Selbstbeschaffung mit Kostentragung Kasse bei Notlage (BSG-Linie zur Selbstbeschaffung).
-
 
 ## Qualitäts-Hardening
 
@@ -116,7 +114,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-hilfsmittel-krankenkasse`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Hilfsmittel Krankenkasse
 
@@ -127,7 +125,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -186,7 +183,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Eil-Rechtsschutz:** § 86b II SGG bei dringend benoetigtem Hilfsmittel (z. B. Rollstuhl, Notfallhilfsmittel).
 - **Praxis-Tipp:** Verordnung Arzt + medizinische Begruendung mit konkreter Indikation; bei Ablehnung MD-Gutachten anfordern (§ 25 SGB X Akteneinsicht); bei Behauptung "kein Vertragspartner" Vertragsleistungserbringerliste anfordern.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -197,7 +193,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-kdu-miete-heizung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Kdu Miete Heizung
 
@@ -208,7 +204,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -260,14 +255,13 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## KdU (Kosten der Unterkunft) - Themenspezifika
 - **Rechtsgrundlagen:** § 22 SGB II (Buergergeld) bzw. § 35 SGB XII (Sozialhilfe / Grundsicherung im Alter); Heizung in beiden Faellen mitumfasst.
 - **Angemessenheitspruefung** (BSG-Linie staendige Rspr.): Schluessiges Konzept der Kommune zu (a) Wohnflaeche (1 Person regelmaessig 50 qm, plus 15 qm je weitere Person), (b) Bruttokaltmiete (Kommunal-Mietspiegel; Vergleichswohnungen) und (c) Heizung (Heizspiegel der jeweiligen Kommune).
-- **Kosten-Senkungs-Aufforderung § 22 I 3 SGB II:** Behoerde muss konkret und schriftlich auffordern; Frist regelmaessig 6 Monate; Senkungsbemuehungen dokumentieren.
-- **Bedarf bei unangemessen hoher Miete:** zunaechst tatsaechliche Miete uebernommen, dann nur noch angemessene; "Schluessiges Konzept" der Behoerde ist Voraussetzung - fehlt es, gilt Wohngeldgesetz-Tabelle plus 10 % als Hilfsmassstab (BSG).
+- **Kosten-Senkungs-Aufforderung § 22 I 3 SGB II:** Behörde muss konkret und schriftlich auffordern; Frist regelmaessig 6 Monate; Senkungsbemuehungen dokumentieren.
+- **Bedarf bei unangemessen hoher Miete:** zunaechst tatsaechliche Miete uebernommen, dann nur noch angemessene; "Schluessiges Konzept" der Behörde ist Voraussetzung - fehlt es, gilt Wohngeldgesetz-Tabelle plus 10 % als Hilfsmassstab (BSG).
 - **Heizkosten:** tatsaechliche bis Grenze "extreme Atypik"; bei sehr hohem Verbrauch Pruefung Energiesparpotenzial.
 - **Strom:** im Regelbedarf enthalten - keine separate Uebernahme (Ausnahme Warmwasser durch Heizung).
 - **Nebenkostenabrechnung:** Erstattung Nachzahlung als KdU im Monat des Zuflusses; Guthaben mindert KdU im Folgemonat.
 - **Eilrechtsschutz § 86b II SGG:** bei drohender Wohnungsloskeit zwingend; Anordnungsanspruch (KdU-Anspruch) und Anordnungsgrund (Raeumungsklage / Kuendigung) glaubhaft machen.
 - **Praxis-Tipp:** Bei Umzug aus Kostengruenden vorherige Zusicherung § 22 IV SGB II einholen; sonst keine Uebernahme erhoehter Kosten.
-
 
 ## Qualitäts-Hardening
 
@@ -279,7 +273,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-kinder-jugendhilfe-abgrenzung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Kinder Jugendhilfe Abgrenzung
 
@@ -290,7 +284,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -341,26 +334,25 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## Kinder- und Jugendhilfe / Abgrenzung - Themenspezifika
 - **Rechtsgrundlage:** SGB VIII (Kinder- und Jugendhilfe); seit BTHG-Reform fortlaufende Aenderungen Schnittstelle SGB IX (Eingliederungshilfe behinderter Kinder).
-- **Zustaendigkeit:** Jugendamt (Stadt / Landkreis); Klage zum **Verwaltungsgericht** (§ 40 VwGO) - **nicht** Sozialgericht.
+- **Zuständigkeit:** Jugendamt (Stadt / Landkreis); Klage zum **Verwaltungsgericht** (§ 40 VwGO) - **nicht** Sozialgericht.
 - **Leistungsspektrum SGB VIII:**
  - **§ 27 SGB VIII Hilfen zur Erziehung:** Erziehungsbeistand (§ 30), sozialpaedagogische Familienhilfe (§ 31), Tagesgruppe (§ 32), Vollzeitpflege (§ 33), Heimerziehung (§ 34), intensive sozialpaedagogische Einzelbetreuung (§ 35).
  - **§ 35a SGB VIII Eingliederungshilfe** seelisch behinderter Kinder / Jugendlicher - **Abgrenzung kritisch** zu SGB IX (geistige / koerperliche Behinderung).
- - **§ 41 SGB VIII Hilfen fuer junge Volljaehrige** (18-21 Jahre).
+ - **§ 41 SGB VIII Hilfen für junge Volljaehrige** (18-21 Jahre).
  - **§ 13 SGB VIII Jugendsozialarbeit / -hilfe.**
- - **§§ 22-26 SGB VIII Foerderung Kinder in Tageseinrichtungen** (Kita-Anspruch § 24 SGB VIII fuer Kinder ab 1).
+ - **§§ 22-26 SGB VIII Förderung Kinder in Tageseinrichtungen** (Kita-Anspruch § 24 SGB VIII für Kinder ab 1).
 - **Abgrenzungs-Triade Schulbegleitung / Integrationshelfer:**
- - **Seelisch behindert / drohend** -> § 35a SGB VIII Jugendamt zustaendig.
+ - **Seelisch behindert / drohend** -> § 35a SGB VIII Jugendamt zuständig.
  - **Geistig / koerperlich behindert** -> § 112 SGB IX Eingliederungshilfe (Sozialamt / Bezirk / Land).
  - **Mehrfachbehindert** -> primaer Eingliederungshilfe; Jugendamt subsidiaer.
 - **Gesetzliche Verfahren:**
  - **Hilfeplanverfahren § 36 SGB VIII** zwingend mit Beteiligung Familie/Jugendlicher.
- - **Anhoerung § 28 VwVfG / § 24 SGB X.**
+ - **Anhörung § 28 VwVfG / § 24 SGB X.**
  - **Widerspruch § 70 VwGO** (Verwaltungsgericht) - **1 Monat** ab Bekanntgabe (oder Klagefrist § 74 VwGO, je nach Bundesland Widerspruchsverfahren abgeschafft).
  - **Klage Verwaltungsgericht** 1 Monat.
 - **Kostenbeteiligung Eltern §§ 91-94 SGB VIII** abhaengig von Einkommen; Kostenheranziehung nach gesonderter Berechnung.
 - **Eilrechtsschutz § 123 VwGO** bei drohendem Hilfeausfall.
-- **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorlaeufige Klaerung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.
-
+- **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorläufige Klaerung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.
 
 ## Qualitäts-Hardening
 

@@ -1,34 +1,21 @@
 ---
 name: abwaegung-art-arbeitgeber-betrieb
-description: "Abwaegung ART Arbeitgeber Betrieb im Plugin Meinungspruefer: prüft konkret Erstellt die verfassungsrechtliche Normalabwägung zwischen, Prüft Äußerungen im Betrieb, in der Kantine, im Kollegenkreis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erstellt die verfassungsrechtliche Normalabwägung zwischen Meinungsfreiheit und Persönlichkeitsrecht. Berücksichtigt Sachbezug, Machtkritik, Anlass, Form, Reichweite, Wiederholung, Prangerwirkung und Beleglage im Meinungspruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Abwaegung ART Arbeitgeber Betrieb
+# Art. 5 GG - Abwägung
 
 ## Arbeitsbereich
 
-**Abwaegung ART Arbeitgeber Betrieb** ordnet den Fall über die tragenden Prüffelder: Erstellt die verfassungsrechtliche Normalabwägung zwischen, Prüft Äußerungen im Betrieb, in der Kantine. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `abwaegung-art-5-gg` | Erstellt die verfassungsrechtliche Normalabwägung zwischen Meinungsfreiheit und Persönlichkeitsrecht. Berücksichtigt Sachbezug, Machtkritik, Anlass, Form, Reichweite, Wiederholung, Prangerwirkung und Beleglage. |
-| `arbeitgeber-betrieb-kantine` | Prüft Äußerungen im Betrieb, in der Kantine, im Kollegenkreis, gegenüber Arbeitgeber, Betriebsrat oder auf LinkedIn. Verbindet Ehrschutz, Meinungsfreiheit, arbeitsrechtliche Nebenpflichten und Eskalationsrisiko. |
+Erstellt die verfassungsrechtliche Normalabwägung zwischen Meinungsfreiheit und Persönlichkeitsrecht. Berücksichtigt Sachbezug, Machtkritik, Anlass, Form, Reichweite, Wiederholung, Prangerwirkung und Beleglage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `abwaegung-art-5-gg`
-
-**Fokus:** Erstellt die verfassungsrechtliche Normalabwägung zwischen Meinungsfreiheit und Persönlichkeitsrecht. Berücksichtigt Sachbezug, Machtkritik, Anlass, Form, Reichweite, Wiederholung, Prangerwirkung und Beleglage.
-
-# Art. 5 GG - Abwägung
 
 ## Leitbild
 
@@ -80,7 +67,6 @@ Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeu
 - Sichere Alternativformulierung.
 - Naechste Handlung: nichts tun, belegen, loeschen, klarstellen, antworten, verteidigen oder anwaltlich eskalieren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -89,52 +75,26 @@ Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeu
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `arbeitgeber-betrieb-kantine`
+## Normen und Rechtsprechung
 
-**Fokus:** Prüft Äußerungen im Betrieb, in der Kantine, im Kollegenkreis, gegenüber Arbeitgeber, Betriebsrat oder auf LinkedIn. Verbindet Ehrschutz, Meinungsfreiheit, arbeitsrechtliche Nebenpflichten und Eskalationsrisiko.
+### Kuratierte Normen-Bibliothek
 
-# Betrieb, Kantine und Arbeitgeber
+- Art. 5 GG
+- § 188 StGB
+- Art. 11 GRCh
+- Art. 10 EMRK
+- § 193 StGB
+- § 187 StGB
+- § 186 StGB
+- § 185 StGB
+- § 194 StGB
+- § 77b StGB
+- § 29 VwVfG
+- § 11 HmbPresseG
 
-## Besonderheit
+### Leitentscheidungen
 
-Im Betrieb können dieselben Worte anders wirken als auf einer öffentlichen Plattform. Es gibt Loyalitäts- und Rücksichtnahmepflichten, aber auch berechtigte Kritik an Führung, Arbeitsbedingungen und Compliance.
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Prüfpunkte
-
-1. **Adressatenkreis:** vertrauliches Gespräch, Teamchat, Betriebsversammlung, LinkedIn.
-2. **Rolle:** Arbeitnehmer, Führungskraft, Betriebsrat, Bewerber, Ex-Mitarbeiter.
-3. **Sachbezug:** Arbeitsbedingungen, Projektfehler, Führung, Compliance.
-4. **Tatsachenkern:** Pflichtverletzung, Mobbing, Betrug, Datenschutz, Sicherheit.
-5. **Nebenfolgen:** Abmahnung, Kündigung, Zeugnis, Betriebsfrieden.
-6. **Whistleblowing/Sonderwege:** interne Meldestelle, Hinweisgeberschutz prüfen, falls einschlägig.
-
-## Output
-
-- Äußerungsrechtliche Ampel.
-- Arbeitsrechtliche Ampel.
-- Beweisbedarf.
-- Deeskalationsvorschlag.
-- Formulierungsalternative für interne Kritik.
-
-## Beispielhafte sichere Umformung
-
-Statt "Die Projektleitung ist unfähig und trickst die Kunden aus" eher:
-
-"Ich halte die Projektsteuerung in drei Punkten für fachlich problematisch und bitte um Prüfung der Abweichungen zwischen Angebot, Umsetzung und Kundeninformation."
-
-## Recht und Trade-offs
-
-- **Meinungsfreiheit Art. 5 Abs. 1 GG vs. Loyalitätspflicht § 241 Abs. 2 BGB:** Im Betrieb hat der Arbeitnehmer ein nachvertragliches Treue- und Rücksichtnahmegebot; bei groben Beleidigungen droht außerordentliche Kündigung (§ 626 BGB).
-- **Vertrauliches Gespräch:** BVerfG ständige Rspr. zur engen Vertraulichkeitssphäre (z. B. ungeschützter Zwei-Personen-Talk in der Kantine ist KEIN völlig geschützter Raum).
-- **Hinweisgeberschutzgesetz (HinSchG):** Bei begründetem Verdacht auf Rechtsverstoß ist interne Meldestelle vorrangig (§ 7 HinSchG); externe Meldestelle nur bei Voraussetzungen § 8 HinSchG.
-- **Beweissicherung:** Screenshots mit Datum/URL, Zeugen befragen, ggf. Audioprotokoll (Achtung § 201 StGB — heimliche Aufnahme strafbar!).
-- Falle: Schmähkritik-Vorwurf gegenüber legitimer Sachkritik überdehnt — BAG verlangt erkennbaren Sachbezug und Verhältnismäßigkeit.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

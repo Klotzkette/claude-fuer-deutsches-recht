@@ -5,6 +5,22 @@ description: "Insolvenzlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zustän
 
 # Insolvenzlage Fehlerkatalog
 
+## Normenanker
+
+Arbeitsfokus: **Insolvenzlage Fehlerkatalog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 7 FZulG` — Kumulierung und Beihilfebezug.
+- `Art. 107 Abs. 1 AEUV` — Beihilfebegriff.
+- `Art. 25 AGVO` — Forschungs- und Entwicklungsbeihilfen.
+- `§ 46 AO` — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen.
+- `§ 80 Abs. 1 InsO` — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters.
+- `§ 94 InsO` — Aufrechnungslage vor Verfahrenseröffnung.
+- `§ 96 InsO` — unzulässige Aufrechnung.
+- `§ 1 Abs. 1 AStG` — Konzern-/Verrechnungspreisnähe bei grenzüberschreitenden F&E-Strukturen.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Einsatzlage
 
 Dieser Fehlerkatalog prüft im Bereich **Forschungszulage Antragstellung** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.

@@ -7,7 +7,6 @@ description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikt
 
 Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 
-
 ## Triage zu Beginn
 
 1. Liegt überhaupt Auslandsbezug vor (Sitz der Parteien, Erfüllungsort, Schadensort)?

@@ -5,6 +5,21 @@ description: "Prüft Anlagen vor Einreichung auf personenbezogene Daten, Geschä
 
 # Redaktion, DSGVO und Geschäftsgeheimnisse
 
+## Normenanker
+
+Arbeitsfokus: **Redaktion, DSGVO und Geschäftsgeheimnisse**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 1 lit. c DSGVO` — Datenminimierung.
+- `Art. 6 Abs. 1 lit. f DSGVO` — berechtigtes Interesse an Rechtsverfolgung.
+- `Art. 9 Abs. 2 lit. f DSGVO` — Rechtsansprüche bei besonderen Daten.
+- `Art. 32 DSGVO` — Sicherheit der Verarbeitung.
+- `§ 16 GeschGehG` — Geheimhaltung im Prozess.
+- `§ 299 Abs. 2 ZPO` — Akteneinsicht Dritter.
+- `§ 174 Abs. 3 GVG` — Ausschluss der Öffentlichkeit.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill verhindert, dass das Anlagenpaket prozessual richtig, aber berufsrechtlich oder datenschutzrechtlich gefährlich ist. Er arbeitet mit einer Redaktionslogik: notwendig, verhältnismäßig, dokumentiert, reversibel intern, sauber exportiert extern.
@@ -46,7 +61,6 @@ Dieser Skill verhindert, dass das Anlagenpaket prozessual richtig, aber berufsre
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
 
 ## Vertiefter Anlagen-Workflow
 

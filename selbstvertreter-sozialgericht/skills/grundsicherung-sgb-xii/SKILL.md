@@ -31,7 +31,7 @@ Sie sind alt oder dauerhaft krank und haben wenig Rente. Dann hilft das Sozialam
 - **Sozialhilfe**: Oberbegriff SGB XII.
 - **Hilfe zum Lebensunterhalt** (HLU): Sozialhilfe in der Praxis.
 - **Hilfe in besonderen Lebenslagen**: Eingliederungshilfe, Hilfe zur Pflege etc.
-- **Sozialamt**: Behoerde, die SGB XII umsetzt.
+- **Sozialamt**: Behörde, die SGB XII umsetzt.
 
 ## Rechtsgrundlagen
 
@@ -41,7 +41,7 @@ Sie sind alt oder dauerhaft krank und haben wenig Rente. Dann hilft das Sozialam
 - **§ 19 SGB XII** — Voraussetzungen.
 - **§ 90 SGB XII** — Vermoegens-Schongrenzen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Abgrenzung zum Buergergeld
 
@@ -71,7 +71,7 @@ Beachten: bei SGB XII strenger als bei Buergergeld in Karenzzeit.
 ### Schritt 4 — Berechnung
 
 ```
-Regelbedarf (Stufe 1 fuer Alleinstehende) 563 EUR
+Regelbedarf (Stufe 1 für Alleinstehende) 563 EUR
 + KdU (Miete und Heizung) ... EUR
 + Mehrbedarf bei Schwerbehinderung ... EUR (§ 30 SGB XII)
 + einmalige Bedarfe ... EUR
@@ -104,7 +104,7 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 
 Begruendung:
 
-Die Voraussetzungen fuer Grundsicherung nach § 41 SGB XII liegen vor:
+Die Voraussetzungen für Grundsicherung nach § 41 SGB XII liegen vor:
 
 1. Anspruchsberechtigung
  - Renten-Eintritt am [Datum]
@@ -150,7 +150,6 @@ Wie bei anderen Sozialleistungen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst. Sozialamt-Praxis regional unterschiedlich.
-
 
 ## Qualitäts-Hardening
 

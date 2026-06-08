@@ -13,7 +13,6 @@ description: "Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaime
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zentrale Normen
 
 - § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende

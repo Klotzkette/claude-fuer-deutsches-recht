@@ -24,3 +24,27 @@ Satzungsbaustein, Geschäftsordnungsbaustein und Tabelle `Maßnahme / Schwelle /
 - **Normen- und Quellenradar:** Tragende Normen, Behördenpraxis und Rechtsprechung nur verwenden, wenn sie aus der Akte, amtlicher Quelle oder frei prüfbarer Quelle belastbar sind.
 - **Fehlerbremse:** Keine allgemeinen Einstiegssätze, wenn schon ein Spezialproblem vorliegt; stattdessen direkt mit Matrix `Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` arbeiten.
 - **Output:** Kurzmemo, Prüfraster, Dokumententwurf, Fristenliste oder Rückfragenliste mit höchstens einer wirklich entscheidenden Rückfrage.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 15 GmbHG
+- § 16 GmbHG
+- § 46 GmbHG
+- § 93 AktG
+- § 17 UWG
+- § 8c KStG
+- § 43 GmbHG
+- § 6a GrEStG
+- § 21 UmwStG
+- § 3 GwG
+- § 5 GmbHG
+- § 2-122 UmwG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

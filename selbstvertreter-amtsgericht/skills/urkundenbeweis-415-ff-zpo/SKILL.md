@@ -11,13 +11,13 @@ Urkunden sind das **staerkste** Beweismittel im Zivilprozess. Eine schriftliche 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben schriftliche Belege fuer Ihren Vortrag.
+- Sie haben schriftliche Belege für Ihren Vortrag.
 - Sie wollen wissen, ob Email als Urkunde gilt.
 - Sie sollen das Original vorlegen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Oeffentliche Urkunde**: Von einer oeffentlichen Behoerde oder Notar errichtet (Notarvertrag, gerichtliches Urteil).
+- **Oeffentliche Urkunde**: Von einer öffentlichen Behörde oder Notar errichtet (Notarvertrag, gerichtliches Urteil).
 - **Private Urkunde**: Von Privaten erstellt (Brief, Vertrag, Quittung).
 - **Echte Urkunde**: Aussteller-Identitaet steht fest.
 - **Unechte Urkunde**: Aussteller bestritten.
@@ -26,14 +26,14 @@ Urkunden sind das **staerkste** Beweismittel im Zivilprozess. Eine schriftliche 
 ## Rechtsgrundlagen
 
 - **§ 415 ZPO** — Oeffentliche Urkunde, voller Beweis.
-- **§ 416 ZPO** — Private Urkunde, voller Beweis fuer Erklaerung des Ausstellers.
+- **§ 416 ZPO** — Private Urkunde, voller Beweis für Erklaerung des Ausstellers.
 - **§ 418 ZPO** — Oeffentliche Urkunden ueber sonstige Vorgaenge.
 - **§ 419 ZPO** — Aenderungen, Durchstreichungen.
 - **§ 421 ZPO** — Antrag auf Urkundenvorlage.
 - **§ 142 ZPO** — Anordnung der Urkundenvorlage.
 - **§ 371a ZPO** — Elektronische Dokumente.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Urkunde haben Sie?
 
@@ -45,8 +45,8 @@ Sortieren Sie:
 
 ### Schritt 2 — Beweiswert
 
-- **Oeffentliche Urkunde** (§ 415 ZPO): Voller Beweis fuer den dort beurkundeten Vorgang (z. B. notarieller Vertrag belegt vollen Vertragstext).
-- **Private Urkunde** (§ 416 ZPO): Voller Beweis dafuer, dass der Aussteller die Erklaerung abgegeben hat — vorausgesetzt, Echtheit ist erwiesen.
+- **Oeffentliche Urkunde** (§ 415 ZPO): Voller Beweis für den dort beurkundeten Vorgang (z. B. notarieller Vertrag belegt vollen Vertragstext).
+- **Private Urkunde** (§ 416 ZPO): Voller Beweis dafür, dass der Aussteller die Erklaerung abgegeben hat — vorausgesetzt, Echtheit ist erwiesen.
 - **Email**: § 371a ZPO; nicht selbstverstaendlich echte Urkunde, Authentizitaet kann bestritten werden.
 
 ### Schritt 3 — Urkunden vorlegen
@@ -132,7 +132,6 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

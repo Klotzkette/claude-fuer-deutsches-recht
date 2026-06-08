@@ -1,10 +1,9 @@
 ---
 name: vorlaeufige-vollstreckbarkeit
-description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen."
+description: "Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen."
 ---
 
 # Vorläufige Vollstreckbarkeit
-
 
 ## Triage zu Beginn
 
@@ -74,7 +73,7 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 - Paragraf 708 Nr. 2 ZPO - Versäumnisurteile - ohne Sicherheit
 - Paragraf 708 Nr. 4 ZPO - Anerkenntnisurteile
 - Paragraf 708 Nr. 11 ZPO - bestimmte Endurteile bis 1500 EUR (Repo-Konvention Punkt)
-- Paragraf 711 ZPO - Schutzantrag der unterliegenden Partei (Sicherheitsleistung wegen unverhältnismaessigen Schadens)
+- Paragraf 711 ZPO - Schutzantrag der unterliegenden Partei (Sicherheitsleistung wegen unverhältnismäßigen Schadens)
 - Paragraf 713 ZPO - Beschwer unter 600 EUR und keine Berufung - ohne Sicherheit
 - Paragraf 719 ZPO - Aufhebung bei Berufung
 
@@ -83,7 +82,6 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 - "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
 - "Das Urteil ist vorläufig vollstreckbar."
 - Bei Schutzantrag: "Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 von hundert des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht der Kläger Sicherheit in Höhe des jeweils zu vollstreckenden Betrages leistet."
-
 
 ---
 

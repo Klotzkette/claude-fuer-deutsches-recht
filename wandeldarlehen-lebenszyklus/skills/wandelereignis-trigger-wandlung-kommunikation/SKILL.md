@@ -1,34 +1,21 @@
 ---
 name: wandelereignis-trigger-wandlung-kommunikation
-description: "Wandelereignis Trigger Wandlung Kommunikation im Plugin Wandeldarlehen Lebenszyklus: prüft konkret Wandlungstrigger kategorisieren und an den richtigen, Kommunikation und Dokumentenversand an alle Beteiligten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-* im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Wandelereignis Trigger Wandlung Kommunikation
+# Master-Dispatcher Wandelereignis
 
 ## Arbeitsbereich
 
-**Wandelereignis Trigger Wandlung Kommunikation** ordnet den Fall über die tragenden Prüffelder: Wandlungstrigger kategorisieren und an den richtigen, Kommunikation und Dokumentenversand an alle Beteiligten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `wandelereignis-trigger-dispatcher` | Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*. |
-| `wandlung-kommunikation-paketverteilung` | Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Prüfraster: Empfaengerliste Dokumente Zugang Fristen Bestätigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht für inhaltliche Prüfung der Wandlung (wandelereignis-eingang). |
+Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Wandeldarlehen Lebenszyklus klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `wandelereignis-trigger-dispatcher`
-
-**Fokus:** Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*.
-
-# Master-Dispatcher Wandelereignis
 
 ## Zweck
 
@@ -356,97 +343,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - IDW S 11
 - Weitnauer Handbuch VC
 - Greuer Wandeldarlehensvertrag
-
-## 2. `wandlung-kommunikation-paketverteilung`
-
-**Fokus:** Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Prüfraster: Empfaengerliste Dokumente Zugang Fristen Bestätigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht für inhaltliche Prüfung der Wandlung (wandelereignis-eingang).
-
-# Wandlung – Kommunikation und Paketverteilung
-
-## Zweck
-
-Dieser Skill koordiniert alle Kommunikationsmaßnahmen nach der Wandlungsentscheidung: Bestätigungsschreiben, Mitwirkungsaufforderungen und Buchungsanweisungen an alle beteiligten Stellen. Phase C des Lebenszyklus.
-
-## Eingaben
-
-- Bestätigte Wandlungsberechnung (aus `wandlungspreis-berechnung`)
-- Adressen aller Parteien (Lender, Gesellschaft, Gesellschafterinnen, Steuerberater, Buchhaltung)
-- Datum der Wandlungserklärung und der Bestätigung
-- Cap-Table Post-Money (aus `cap-table-update-pre-post`)
-- Buchungsanweisungen: Ausbuchung Verbindlichkeit (Darlehensbetrag + Zinsen), Einbuchung Eigenkapital
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-- § 4.9 Wandeldarlehensvertrag (Gesellschaft beruft unverzüglich Gesellschafterversammlung ein)
-- § 5 Wandeldarlehensvertrag (Mitwirkungspflichten Gesellschafterinnen)
-- § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage nach Einlage der Forderung)
-- § 246 HGB (Vollständigkeit der Buchführung)
-- § 8 Wandeldarlehensvertrag (Vertraulichkeit – an wen darf kommuniziert werden?)
-
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-### 1. Bestätigungsschreiben an Lender
-Inhalt: Bestätigung der Wandlungserklärung, Wandlungssumme (Darlehen + Zinsen), berechnete neue Anteile (Zahl, Nennwert), vorgesehener Termin Kapitalerhöhungsbeschluss, vorgesehener Notar.
-
-### 2. Aufforderungsschreiben an Gesellschaft (Geschäftsführerin)
-Inhalt: Einberufungspflicht gemäß § 4.9, Frist (unverzüglich, spätestens innerhalb zwei Wochen), Tagesordnungspunkte (Kapitalerhöhung gegen Sacheinlage, Bezugsrechtsverzicht, Aufnahme Lender), Notar-Beauftragung.
-
-### 3. Schreiben an Gesellschafterinnen (Mitwirkungspflicht)
-Inhalt: Hinweis auf § 5 des Wandeldarlehensvertrags (Mitwirkungspflicht), Einladung zur Gesellschafterversammlung, Beschlussthemen, Bitte um Anwesenheitsbestätigung oder Vollmacht.
-
-### 4. Mitteilung an Steuerberater
-Inhalt: Wandlungsdaten (Betrag, Datum, neue Gesellschafterstruktur), neue Cap-Table als Anlage, Bitte um steuerliche Würdigung (Wandlung als Tausch nach § 20 UmwStG analog?).
-
-### 5. Buchungsanweisung an Buchhaltung
-Soll-Buchung: Verbindlichkeit Wandeldarlehen (Darlehen + aufgelaufene Zinsen) auflösen. Haben-Buchung: Stammkapital (Nennbetrag neue Anteile) und Kapitalrücklage (Rest) erhöhen. Buchungssatz: per Verbindlichkeit Wandeldarlehen an Gezeichnetes Kapital und Kapitalrücklage.
-
-### 6. Dokumentation und Archivierung
-Alle Schreiben mit Sendenachweis archivieren (Textform-Anforderung). Kommunikationsstatus im Aktenstammblatt vermerken.
-
-## Beispiel-Buchungssatz
-
-```
-Buchungstag: [Eintragungsdatum Handelsregister]
-
-Soll:
- Verbindlichkeit Wandeldarlehen Northstar: EUR 275694
-
-Haben:
- Gezeichnetes Kapital (§ 272 Abs. 1 HGB): EUR 7
- Kapitalrücklage (§ 272 Abs. 2 Nr. 4 HGB): EUR 275687
-```
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Buchhaltung bucht Darlehen erst nach Fälligkeit aus | Bilanzunklarheit | Buchung verzögert | Buchung zeitnah mit Eintragung |
-| Steuerberater nicht informiert | Steuerliche Risiken unerkannt | Informiert nach HR-Eintragung | Sofort informiert |
-| Gesellschafterinnen nicht eingeladen | Mitwirkungspflicht verletzt | Einladung verspätet | Rechtzeitige Einladung |
-| Kommunikation gegen Vertraulichkeitsklausel | § 8-Verstoß | Empfänger nicht § 8-berechtigt | Alle Empfänger § 8 lit. a berechtigt |
-
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterversammlung-einberufen/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/post-eintragung-checkliste/SKILL.md`
-
-## Quellen und Updates
-
-Stand: 05/2026. Bei Änderung HGB § 272 oder UmwStG § 20 aktualisieren.
-
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Ergänzung
-
-§ 47 Abs. 4 GmbHG (Stimmverbot eigene Sache) → § 40 GmbHG (Gesellschafterliste nach Wandlung) → § 53 Abs. 1 GmbHG (Zustimmung Gesellschafter zur Satzungsänderung) → § 16 GmbHG (Legitimationswirkung) → §§ 130, 132 BGB (Zugang Erklärungen)

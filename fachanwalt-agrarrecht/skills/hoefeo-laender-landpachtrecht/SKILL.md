@@ -1,29 +1,46 @@
 ---
 name: hoefeo-laender-landpachtrecht
-description: "Hoefeo Laender Landpachtrecht im Agrarrecht: prüft konkret Hoefeo, Laender, Landpachtrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hoefeo Länder Landpachtrecht im Agrarrecht: prüft konkret Hoefeo, Länder, Landpachtrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Hoefeo Laender Landpachtrecht
+# Hoefeo Länder Landpachtrecht
 
 ## Arbeitsbereich
 
-**Hoefeo Laender Landpachtrecht** ordnet den Fall über die tragenden Prüffelder: Hoefeo, Laender, Landpachtrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Hoefeo Länder Landpachtrecht** ordnet den Fall über die tragenden Prüfungslinien: Hoefeo, Länder, Landpachtrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-hoefeo-dokumentenmatrix-und-lueckenliste` | Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-laender-behoerden-gericht-und-registerweg` | Laender: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-laender-behoerden-gericht-und-registerweg` | Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-landpachtrecht-schriftsatz-brief-und-memo-bausteine` | Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; landesrechtliche Wald-, Jagd-, Naturschutz- und Landwirtschaftsregeln live ergänzen, wenn sie den konkreten Auftrag tragen:
+
+- `§ 581 Abs. 1 BGB` — Pachtvertrag als Grundtyp.
+- `§ 585 Abs. 1 BGB` — Landpachtvertrag.
+- `§ 594a Abs. 1 BGB` — Kündigung und Fristen im Landpachtrecht.
+- `§ 1 GrdstVG` — Genehmigungspflicht im landwirtschaftlichen Grundstücksverkehr.
+- `§ 9 GrdstVG` — Versagungsgründe.
+- `§ 1 HöfeO` — Hofeigenschaft.
+- `§ 5 HöfeO` — Hoferbenstellung und Wirtschaftsfähigkeit live prüfen.
+- `§ 9 BWaldG` — Waldumwandlung.
+- `§ 11 BWaldG` — ordnungsgemäße Bewirtschaftung des Waldes.
+- `§ 14 BWaldG` — Betreten des Waldes.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Agrarrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-hoefeo-dokumentenmatrix-und-lueckenliste`
 
@@ -32,11 +49,7 @@ description: "Hoefeo Laender Landpachtrecht im Agrarrecht: prüft konkret Hoefeo
 # Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung / hoefeo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -68,16 +81,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-laender-behoerden-gericht-und-registerweg`
 
-**Fokus:** Laender: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Laender: Behörden-, Gerichts- oder Registerweg
+# Länder: Behörden-, Gerichts- oder Registerweg
 
-## Spezialwissen: Laender: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Laender: Behörden-, Gerichts- oder Registerweg / laender behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+## Spezialwissen: Länder: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -90,7 +99,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Laender** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Länder** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -114,11 +123,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine / landpachtrecht schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

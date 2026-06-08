@@ -6,15 +6,12 @@ description: "Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill
 # Hasskriminalität online: Plattformdaten und Kontext
 
 ## Fachkern: Hasskriminalität online: Plattformdaten und Kontext
-- **Spezialgegenstand:** Hasskriminalität online: Plattformdaten und Kontext wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Hasskriminalität online: Plattformdaten und Kontext** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** §§ 185 ff., 130 StGB, IP-/Bestandsdaten, Meinungsfreiheit und Tatkontext
 
@@ -40,6 +37,19 @@ Dieser Abschnitt bearbeitet **Fachkern: Hasskriminalität online: Plattformdaten
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 130 StGB (Volksverhetzung)
+- §§ 185, 188 StGB
+- § 46 Abs. 2 S. 2 StGB (menschenverachtende Beweggründe)
+- NetzDG §§ 3a, 3b
+- § 100j StPO (Bestandsdaten)
+- § 100g StPO (Verkehrsdaten)
+- Art. 18 DSA
+- § 22 TTDSG (Auskunft)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

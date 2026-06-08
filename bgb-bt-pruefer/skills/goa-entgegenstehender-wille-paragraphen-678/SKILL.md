@@ -6,11 +6,9 @@ description: "Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 B
 # GoA: Entgegenstehender Wille §§ 678 und 679 BGB
 
 ## Fachkern: GoA: Entgegenstehender Wille §§ 678 und 679 BGB
-- **Spezialgegenstand:** GoA: Entgegenstehender Wille §§ 678 und 679 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -75,7 +73,6 @@ Geschäftsführung gegen den Willen des Geschäftsherrn nach §§ 678 und 679 BG
 - unechte-goa-paragraph-687
 - auftrag-und-unentgeltliche-taetigkeit
 - bereicherungsrecht-leistungskondiktion
-
 
 ## Quellen
 

@@ -83,7 +83,7 @@ Nach Urteil:
 [Klare Handlungsempfehlung: AG, LG/Anwalt, Rechtsantragsstelle, PKH, Streitwert nacharbeiten.]
 
 **Nächste Skills**
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg`
+- `sachliche-zuständigkeit-amtsgericht-23-gvg`
 - `anwaltszwang-pruefen-78-zpo`
 - `klage-streitwert-angabe-3-zpo`
 - `berufung-amtsgericht-511-zpo`
@@ -93,7 +93,6 @@ Nach Urteil:
 - Werte immer mit "mehr als", "bis einschließlich" und konkretem Betrag formulieren.
 - Bei knappem Streitwert nicht kreativ kleinrechnen. Teilklage nur mit deutlichem Hinweis auf Risiken.
 - Bei Berufung nie verschweigen, dass vor dem Landgericht Anwaltszwang besteht.
-
 
 ## Qualitäts-Hardening
 

@@ -91,7 +91,6 @@ Mit freundlichen Grüßen
 
 Hinweis: Keine Rechtsberatung. Dieses Muster ist eine Arbeitsvorlage und muss an Akte, Norm und Prozessziel angepasst werden.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

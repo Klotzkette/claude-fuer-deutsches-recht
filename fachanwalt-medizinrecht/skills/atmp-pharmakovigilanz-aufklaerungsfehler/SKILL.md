@@ -1,48 +1,44 @@
 ---
 name: atmp-pharmakovigilanz-aufklaerungsfehler
-description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft konkret ATMP-Pharmakovigilanz und RMP, Prüffeld für aufklaerungsfehler beweisstrategie, Befundherausgabe, ePA und Akte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft konkret ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe, ePA und Akte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Atmp Pharmakovigilanz Aufklaerungsfehler
 
 ## Arbeitsbereich
 
-**Atmp Pharmakovigilanz Aufklaerungsfehler** ordnet den Fall über die tragenden Prüffelder: ATMP-Pharmakovigilanz und RMP, Prüffeld für aufklaerungsfehler beweisstrategie, Befundherausgabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Atmp Pharmakovigilanz Aufklaerungsfehler** ordnet den Fall über die tragenden Prüfungslinien: ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `atmp-pharmakovigilanz-rmp` | ATMP-Pharmakovigilanz und RMP: moderner Medizinrechts-Skill für Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `aufklaerungsfehler-beweisstrategie` | Prüffeld für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `aufklaerungsfehler-beweisstrategie` | Prüfungslinie für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `befundherausgabe-epa-akte` | Befundherausgabe, ePA und Akte: moderner Medizinrechts-Skill für Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `behandlungsfehler-anspruch-pruefen` | Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `atmp-pharmakovigilanz-rmp`
 
 **Fokus:** ATMP-Pharmakovigilanz und RMP: moderner Medizinrechts-Skill für Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # ATMP-Pharmakovigilanz und RMP
 
 ## Fachkern: ATMP-Pharmakovigilanz und RMP
-- **Spezialgegenstand:** ATMP-Pharmakovigilanz und RMP wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: ATMP-Pharmakovigilanz und RMP** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation.
 
@@ -87,17 +83,13 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `aufklaerungsfehler-beweisstrategie`
 
-**Fokus:** Prüffeld für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
+**Fokus:** Prüfungslinie für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Aufklärungsfehler — Beweisstrategie
 
 ## Fachkern: Aufklärungsfehler — Beweisstrategie
-- **Spezialgegenstand:** Aufklärungsfehler — Beweisstrategie wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Kaltstart-Rückfragen
 
@@ -109,7 +101,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 6. Liegt ein Aufklärungsbogen vor — handschriftliche Eintragungen oder nur Standardtext?
 7. War eine Begleitperson beim Gespräch anwesend (möglicher Zeuge)?
 8. Welcher Schaden ist eingetreten — ist er von den verschwiegenen Risiken umfasst?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -154,7 +146,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Mandantenbefragungsprotokoll (Checkliste)
@@ -173,7 +164,7 @@ Aufklaerungs-Anamnese [Name, Datum, AZ]
  [ ] Ort: Sprechstunde / Bettenstation / Aufnahme / OP-Vorbereitung
 
 3. Wie lange dauerte das Gespraech?
- ___ Minuten. (Kurzgespraech unter 5 Min. Indiz fuer unzureichende Aufklaerung)
+ ___ Minuten. (Kurzgespraech unter 5 Min. Indiz für unzureichende Aufklaerung)
 
 4. Welche Risiken wurden konkret genannt?
  [freitextlich]
@@ -214,8 +205,8 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
  c) [Risiko aus individuellen Vorerkrankungen]
 
  Der verwendete Standard-Aufklaerungsbogen enthalt keine
- handschriftlichen Eintragungen zu den persoenlichen Risiken
- der Klaegerin / des Klaegers. Er ist damit kein Beleg fuer
+ handschriftlichen Eintragungen zu den persönlichen Risiken
+ der Klaegerin / des Klaegers. Er ist damit kein Beleg für
  ein individualisiertes Aufklaerungsgespraech.
 
 2. Mangelnde Rechtzeitigkeit
@@ -226,7 +217,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 3. Beweislast
  Gemaess § 630h Abs. 2 BGB traegt die Beklagte die Beweis-
- last fuer eine ordnungsgemaesse Aufklaerung und eine
+ last für eine ordnungsgemaesse Aufklaerung und eine
  wirksame Einwilligung. Diese Beweislast kann mit dem
  vorgelegten Standard-Aufklaerungsbogen nicht erfuellt werden
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -310,19 +301,15 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 **Fokus:** Befundherausgabe, ePA und Akte: moderner Medizinrechts-Skill für Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Befundherausgabe, ePA und Akte
 
 ## Fachkern: Befundherausgabe, ePA und Akte
-- **Spezialgegenstand:** Befundherausgabe, ePA und Akte wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Befundherausgabe, ePA und Akte** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat.
 
@@ -361,7 +348,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Nützliche Startquellen
 
-- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-für-alle
 - BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
 - EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
 - BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
@@ -372,15 +359,11 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB.
 
-
 # Behandlungsfehler-Anspruch prüfen
 
 ## Fachkern: Behandlungsfehler-Anspruch prüfen
-- **Spezialgegenstand:** Behandlungsfehler-Anspruch prüfen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Kaltstart-Rückfragen
 
@@ -392,7 +375,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 6. Besteht Rechtsschutzversicherung — Deckungsanfrage für Arzthaftungsmandat?
 7. Gibt es GKV — Regress-Interesse der Krankenkasse § 116 SGB X?
 8. Liegt strafrechtlicher Aspekt vor (Körperverletzung § 229 StGB fahrlässig, Tötung § 222 StGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -460,7 +443,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
 ### Anforderung Patientenakte § 630g BGB
@@ -488,7 +470,7 @@ dokumentation gemaess § 630g BGB zu uebersenden, insbesondere:
 - Ambulanz- und Notaufnahmeprotokolle
 
 Die Unterlagen sind vollstaendig und in lesbarer Form als Kopie
-zu uebermitteln. Die Kosten hierfuer werden gemaess § 630g
+zu uebermitteln. Die Kosten hierfür werden gemaess § 630g
 Abs. 2 Satz 2 BGB uebernommen (Kopierkosten angemessen).
 
 Sollten Teile der Dokumentation fehlen, bitten wir um
@@ -525,7 +507,7 @@ II. Behandlungsfehler
 
 3. Befunderhebungsfehler § 630h Abs. 5 Satz 2 BGB: Unterlassen
  der Untersuchung [X]; ein positiver Befund war hinreichend
- wahrscheinlich; Beweislastumkehr fuer Kausalitaet.
+ wahrscheinlich; Beweislastumkehr für Kausalitaet.
 
 III. Schaeden
 - Schmerzensgeld EUR ____ (Begr.: [Tabellen-Referenz])
@@ -540,9 +522,9 @@ IV. Forderung
 Wir fordern Anerkennung des Haftpflichtgrundes bis [Datum]
 sowie Zahlung eines Vorschusses von EUR ____.
 
-V. Verjaehrung
-Zur Hemmung der Verjaehrung bitten wir um eine
-Verjaehrungsverzichtserklaerung bis [Datum + 12 Monate].
+V. Verjährung
+Zur Hemmung der Verjährung bitten wir um eine
+Verjährungsverzichtserklaerung bis [Datum + 12 Monate].
 
 Anlagen:
 - Behandlungsdokumentation

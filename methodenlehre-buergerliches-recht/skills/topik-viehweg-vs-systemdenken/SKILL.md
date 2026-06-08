@@ -1,6 +1,6 @@
 ---
 name: topik-viehweg-vs-systemdenken
-description: "Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen fuer den Anwaltsschriftsatz."
+description: "Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen für den Anwaltsschriftsatz."
 ---
 
 # Topik nach Theodor Viehweg vs. Systemdenken
@@ -64,12 +64,12 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 **Beispiel BGH-Rechtsprechung:** Eine Analyse einer beliebigen BGH-Begruendung zeigt: Der BGH fuehrt Wortlaut, System, Historie und Telos an, mischt aber laufend Topoi hinein. Aequivalenz, Verkehrserwartung, Schutz des Schwaecheren erscheinen als Argumente, ohne dass sie streng abgeleitet werden.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Problem identifizieren.** Was ist die konkrete Streitfrage?
 2. **Topoi sammeln.** Welche etablierten Argumentationsmuster passen?
 3. **Topoi gewichten.** Welche Topoi sind im konkreten Diskurs anerkannt? Welche werden von der Rechtsprechung verwendet?
-4. **Topoi gegenrechnen.** Welche Topoi sprechen fuer das gegnerische Ergebnis?
+4. **Topoi gegenrechnen.** Welche Topoi sprechen für das gegnerische Ergebnis?
 5. **Argumentationsstrategie waehlen.** Mit welchen Topoi kann mein Mandat starkes Argument bauen?
 6. **Topoi mit Wertungsjurisprudenz verbinden.** Topoi sind nicht alleinstehend; sie sollten in den Wertungs- und Norm-Rahmen eingefuegt werden.
 
@@ -107,7 +107,6 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 - §§ 133, 138, 157, 242, 307, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

@@ -5,6 +5,23 @@ description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im A
 
 # Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
+- `§ 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
+- `§ 626 Abs. 1 BGB` — fristlose Kuendigung.
+- `§ 1 Abs. 2 KSchG` — soziale Rechtfertigung.
+- `§ 4 Satz 1 KSchG` — Klagefrist.
+- `§ 7 KSchG` — Fiktionswirkung.
+- `§ 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
+- `§ 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
+- `§ 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachlicher Anker
 
 - **Normen:** §§ 611a, §§ 1, §§ 14.
@@ -12,11 +29,7 @@ description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im A
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Spezialwissen: Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung / ampelsystem dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -91,3 +104,25 @@ Bei Note 3 trägt Arbeitnehmer die Beweislast für bessere Note (BAG ständige R
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 16 BBiG
+- § 46 ArbGG
+- § 1 KSchG
+- § 7 KSchG
+- § 102 BetrVG
+- § 2 NachwG
+- § 42 GKG
+- § 29 VwVfG
+- § 11 ArbGG
+- § 13 BBiG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

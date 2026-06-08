@@ -1,6 +1,6 @@
 ---
 name: widerspruch-vorverfahren-78-sgg
-description: "Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prüft und wie das Ganze ablaeuft. Mit Mustertext."
+description: "Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext."
 ---
 
 # Das Widerspruchsverfahren — § 78 SGG
@@ -13,11 +13,11 @@ description: "Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen 
 
 ## Worum geht es?
 
-Bevor Sie zum Sozialgericht gehen koennen, muessen Sie der Behoerde noch eine Chance geben. Das nennt man Vorverfahren oder Widerspruchsverfahren. Sie schreiben einen Widerspruch, die Behoerde prueft selbst noch einmal — und sagt Ja oder Nein. Erst dann koennen Sie klagen.
+Bevor Sie zum Sozialgericht gehen koennen, muessen Sie der Behörde noch eine Chance geben. Das nennt man Vorverfahren oder Widerspruchsverfahren. Sie schreiben einen Widerspruch, die Behörde prueft selbst noch einmal — und sagt Ja oder Nein. Erst dann koennen Sie klagen.
 
 ## In einfacher Sprache
 
-Vor der Klage kommt der Widerspruch. Sie sagen der Behoerde: Bitte pruefen Sie nochmal. Das ist Pflicht. Erst danach duerfen Sie klagen. Wir zeigen, wie das geht.
+Vor der Klage kommt der Widerspruch. Sie sagen der Behörde: Bitte pruefen Sie nochmal. Das ist Pflicht. Erst danach duerfen Sie klagen. Wir zeigen, wie das geht.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,10 +27,10 @@ Vor der Klage kommt der Widerspruch. Sie sagen der Behoerde: Bitte pruefen Sie n
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Vorverfahren**: Die Phase zwischen Bescheid und Klage. Behoerde prueft selbst nochmal.
+- **Vorverfahren**: Die Phase zwischen Bescheid und Klage. Behörde prueft selbst nochmal.
 - **Ausgangsbescheid**: Der erste Bescheid, gegen den Sie sich wehren.
 - **Widerspruchsbescheid**: Die Entscheidung der Widerspruchsstelle. Erst danach koennen Sie klagen.
-- **Abhilfebescheid**: Wenn die Behoerde Ihnen ganz oder teilweise zustimmt.
+- **Abhilfebescheid**: Wenn die Behörde Ihnen ganz oder teilweise zustimmt.
 
 ## Rechtsgrundlagen
 
@@ -38,10 +38,10 @@ Vor der Klage kommt der Widerspruch. Sie sagen der Behoerde: Bitte pruefen Sie n
 - **§ 78 Abs. 1 S. 2 Nr. 1 SGG** — Ausnahmen (z.B. wenn ein Gesetz das Vorverfahren ausschliesst).
 - **§§ 83 ff. SGG** — Verfahren des Widerspruchs.
 - **§ 84 SGG** — Frist (1 Monat, siehe `widerspruchsfrist-84-sgg`).
-- **§ 85 SGG** — Wenn Behoerde abhilft.
+- **§ 85 SGG** — Wenn Behörde abhilft.
 - **§ 86a SGG** — Aufschiebende Wirkung des Widerspruchs.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid lesen und Datum notieren
 
@@ -49,13 +49,13 @@ Schreiben Sie auf den Bescheid: "Eingegangen am [Datum]". Pruefen Sie, ob eine R
 
 ### Schritt 2 — Widerspruch schriftlich verfassen
 
-Adressat ist die Behoerde, die den Bescheid erlassen hat — NICHT das Gericht. Beispiel:
+Adressat ist die Behörde, die den Bescheid erlassen hat — NICHT das Gericht. Beispiel:
 
 ```
 [Ihr Name]
 [Ihre Adresse]
 
-[Behoerde mit Adresse] [Ort, Datum]
+[Behörde mit Adresse] [Ort, Datum]
 
 Az: [aus dem Bescheid uebernehmen]
 Betr: Bescheid vom [Datum], zugegangen am [Datum]
@@ -81,9 +81,9 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Versand und Beweis
 
 - **Einschreiben mit Rueckschein** (sicherster Weg)
-- **Persoenliche Abgabe** mit Empfangsstempel der Behoerde
+- **Persoenliche Abgabe** mit Empfangsstempel der Behörde
 - **Fax mit Sendebericht** (sicher, aber Sendebericht aufheben)
-- **Mein Justizpostfach (MJP)** seit 2024 fuer Buerger
+- **Mein Justizpostfach (MJP)** seit 2024 für Buerger
 
 ### Schritt 4 — Begruendung nachreichen
 
@@ -91,13 +91,13 @@ Nicht zwingend sofort. Sie koennen erst Akteneinsicht beantragen (§ 25 SGB X) u
 
 ### Schritt 5 — Auf Antwort warten
 
-- **Abhilfe** § 85 Abs. 1 SGG: Behoerde gibt Ihnen Recht. Fertig.
-- **Teilabhilfe**: Behoerde gibt teilweise Recht. Sie koennen weiterklagen.
-- **Widerspruchsbescheid** § 85 Abs. 2 SGG: Behoerde lehnt ab. Jetzt koennen Sie klagen.
+- **Abhilfe** § 85 Abs. 1 SGG: Behörde gibt Ihnen Recht. Fertig.
+- **Teilabhilfe**: Behörde gibt teilweise Recht. Sie koennen weiterklagen.
+- **Widerspruchsbescheid** § 85 Abs. 2 SGG: Behörde lehnt ab. Jetzt koennen Sie klagen.
 
 ### Schritt 6 — Untaetigkeit
 
-Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen Sie Untaetigkeitsklage erheben. Siehe `untaetigkeitsklage-88-sgg`.
+Wenn die Behörde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen Sie Untaetigkeitsklage erheben. Siehe `untaetigkeitsklage-88-sgg`.
 
 ## Worauf Sie besonders achten muessen
 
@@ -107,7 +107,7 @@ Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 
 ## Typische Fehler
 
-- Widerspruch ans Gericht statt an die Behoerde → Behoerde nutzen
+- Widerspruch ans Gericht statt an die Behörde → Behörde nutzen
 - Nur Telefon-Anruf → schriftlich machen
 - Begruendung zu kurz, ohne Frist halten → Frist hat Vorrang
 - Falsches Datum verwendet → Bekanntgabedatum, nicht Bescheidsdatum
@@ -123,8 +123,7 @@ Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion fuer Bekanntgabe seit 1.1.2025 (PostModG, § 37 Abs. 2 SGB X). Vorher: drei Tage.
-
+Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion für Bekanntgabe seit 1.1.2025 (PostModG, § 37 Abs. 2 SGB X). Vorher: drei Tage.
 
 ## Qualitäts-Hardening
 

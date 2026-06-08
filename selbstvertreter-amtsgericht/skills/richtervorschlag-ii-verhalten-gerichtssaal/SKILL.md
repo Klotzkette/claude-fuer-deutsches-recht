@@ -7,10 +7,10 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-**Richtervorschlag II Verhalten Gerichtssaal** ordnet den Fall über die tragenden Prüffelder: Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Richtervorschlag II Verhalten Gerichtssaal** ordnet den Fall über die tragenden Prüfungslinien: Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `vergleich-richtervorschlag-278-ii-zpo` | Vergleich vor dem Amtsgericht nach § 278 II ZPO Richtervorschlag Erledigungsklausel Auswirkung auf Kosten und Streitwert. Wann ist ein Vergleich vorteilhaft wann nicht und wie wird er protokolliert. |
 | `verhalten-gerichtssaal-laienleitfaden` | Verhalten im Gerichtssaal für Laien. Aufstehen Anrede Hoher Herr Vorsitzender Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin. |
@@ -18,12 +18,12 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vergleich-richtervorschlag-278-ii-zpo`
 
@@ -55,7 +55,7 @@ Im Termin schlaegt der Richter oft einen Vergleich vor (§ 278 II ZPO). Vergleic
 - **§ 794 I Nr. 1 ZPO** — Vergleich als Vollstreckungstitel.
 - **§ 779 BGB** — Vertraglicher Vergleich.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bietet der Vorsitzende?
 
@@ -65,14 +65,14 @@ Typische Vergleichs-Vorschlaege:
 - Kosten gegeneinander aufgehoben.
 - Ratenzahlung.
 
-### Schritt 2 — Vorteile fuer Sie als Klaeger
+### Schritt 2 — Vorteile für Sie als Klaeger
 
 - Sicheres Ergebnis (kein Niederlage-Risiko).
 - Schnelles Ende.
 - Geringere Gerichtskosten (Verfahrensgebuehr 1,0 statt 3,0).
 - Vergleich ist Vollstreckungstitel.
 
-### Schritt 3 — Vorteile fuer Sie als Beklagter
+### Schritt 3 — Vorteile für Sie als Beklagter
 
 - Reduzierung der Forderung.
 - Ratenzahlung moeglich.
@@ -164,7 +164,6 @@ Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum,
 
 Stand: 05/2026. § 278 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -202,7 +201,7 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 - **§§ 169 ff. GVG** — Sitzungspolizei.
 - **§ 175 GVG** — Anwesenheit Zuhoerer.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vor Termin
 
@@ -215,7 +214,7 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 
 - Klopfen, eintreten.
 - Sich kurz dem Vorsitzenden zuwenden (Blickkontakt).
-- Platz nehmen am Tisch fuer Parteien.
+- Platz nehmen am Tisch für Parteien.
 
 ### Schritt 3 — Kleidung
 
@@ -267,7 +266,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 
 ### Schritt 10 — Pausen
 
-- Wenn Sie Pause brauchen (z. B. fuer Beratung mit Familie): hoeflich beantragen.
+- Wenn Sie Pause brauchen (z. B. für Beratung mit Familie): hoeflich beantragen.
 - "Hoher Herr Vorsitzender, darf ich um eine kurze Pause bitten?"
 
 ### Schritt 11 — Bei eigenem Vortrag
@@ -279,7 +278,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 ### Schritt 12 — Bei gegnerischem Vortrag
 
 - Zuhoeren, nicht unterbrechen.
-- Notizen machen fuer eigene Reaktion.
+- Notizen machen für eigene Reaktion.
 - Wenn Punkte falsch: sachlich nach Worterteilung widersprechen.
 
 ### Schritt 13 — Verkuendung
@@ -317,7 +316,6 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 
 Stand: 05/2026. Saalpraxis weitgehend stabil.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -334,7 +332,7 @@ Stand: 05/2026. Saalpraxis weitgehend stabil.
 
 ## Worum geht es?
 
-Seit einigen Jahren ist Video-Verhandlung im Zivilprozess moeglich (§ 128a ZPO). Sie nehmen aus dem eigenen Wohn-/Arbeitszimmer am Termin teil — per Video-Konferenz. Praktisch fuer lange Anfahrt, Krankheit, Auslandsaufenthalt. Diese Skill zeigt, wann und wie.
+Seit einigen Jahren ist Video-Verhandlung im Zivilprozess moeglich (§ 128a ZPO). Sie nehmen aus dem eigenen Wohn-/Arbeitszimmer am Termin teil — per Video-Konferenz. Praktisch für lange Anfahrt, Krankheit, Auslandsaufenthalt. Diese Skill zeigt, wann und wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -354,7 +352,7 @@ Seit einigen Jahren ist Video-Verhandlung im Zivilprozess moeglich (§ 128a ZPO)
 - **§ 128a I ZPO** — Voraussetzungen, Antrag.
 - **§ 128a II ZPO** — Pflicht zum Erscheinen im Saal auch bei Video moeglich.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Antrag stellen
 

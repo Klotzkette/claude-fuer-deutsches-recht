@@ -5,6 +5,24 @@ description: "Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell d
 
 # Betreuerpflichten, Genehmigung und Berichtswesen
 
+## Normenanker
+
+Arbeitsfokus: **Betreuerpflichten, Genehmigung und Berichtswesen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `betreuungsrecht`. Kontext des Plugins: Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.
 

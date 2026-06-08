@@ -138,7 +138,6 @@ Wenn der Nutzer "ausdrucken", "vorlegen", "Behörde" oder "Aktenvermerk" sagt, l
 - Standardvertragsklauseln nach Durchführungsbeschluss (EU) 2021/914.
 - EDSA Recommendations 01/2020.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

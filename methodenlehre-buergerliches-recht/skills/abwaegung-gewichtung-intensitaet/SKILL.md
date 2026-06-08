@@ -82,3 +82,32 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 826 BGB bei dejure](https://dejure.org/gesetze/BGB/826.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 20 Abs. 3 GG (Gesetzesbindung)
+- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
+- § 133 BGB (Auslegung Willenserklärung)
+- § 157 BGB (Auslegung Verträge)
+- § 242 BGB (Treu und Glauben)
+- § 305c Abs. 2 BGB (Unklarheitenregel)
+- EGBGB Art. 6 (ordre public)
+- GG Art. 1, 2 (Verfassungskonforme Auslegung)
+- ZPO § 286 (freie Beweiswürdigung)
+- GVG § 132 (Vorlage Großer Senat)
+
+### Leitentscheidungen
+
+- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- BGH GSZ 1/11 (BGH-Methodik)
+- BVerfG 2 BvR 883/14 (Wortlautgrenze)
+- BGH V ZR 250/02 (teleologische Reduktion)
+
+### Anwendung im Skill
+
+- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
+- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
+- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.

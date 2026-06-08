@@ -5,6 +5,22 @@ description: "Prüft, wie Anlagen technisch eingereicht werden: beA, ERV, Portal
 
 # Portal, beA und Einreichungslogik
 
+## Normenanker
+
+Arbeitsfokus: **Portal, beA und Einreichungslogik**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
+- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- `§ 2 ERVV` — Dateiformate und technische Anforderungen.
+- `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
+- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill ersetzt die alte unklare Portal-Füllung durch einen echten Einreichungsworkflow.
@@ -44,7 +60,6 @@ Dieser Skill ersetzt die alte unklare Portal-Füllung durch einen echten Einreic
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
 
 ## Vertiefter Anlagen-Workflow
 

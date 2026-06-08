@@ -7,22 +7,22 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 
 ## Arbeitsbereich
 
-**Wertungsjurisprudenz Larenz Wortlaut** ordnet den Fall über die tragenden Prüffelder: Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Wertungsjurisprudenz Larenz Wortlaut** ordnet den Fall über die tragenden Prüfungslinien: Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wertungsjurisprudenz-larenz-canaris` | Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertungen statt subjektiver Interessen. Rueckbindung an Grundrechte und Rechtssystem. Methodisches Pruefraster und Anwendung im BGB. |
-| `wortlaut-grammatikalische-auslegung` | Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster fuer den Wortlaut-Schritt jeder Auslegung. |
+| `wortlaut-grammatikalische-auslegung` | Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster für den Wortlaut-Schritt jeder Auslegung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wertungsjurisprudenz-larenz-canaris`
 
@@ -37,7 +37,6 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -81,7 +80,7 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 **Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** Die Generalklausel des § 307 BGB (unangemessene Benachteiligung) ist wertungsjuristisches Kernstueck — Konkretisierung erfolgt durch dispositives Recht als Leitbild, durch Aequivalenz-Gedanken und durch Grundrechte (insbesondere bei B2C im Lichte der Klausel-RL 93/13/EWG).
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Wertung der Norm formulieren.** Was schuetzt die Norm? Welches Interesse wertet sie hoeher? Welche Verfassungsentscheidung steht dahinter?
 2. **System-Wertung pruefen.** Wie passt die Norm in die Wertordnung des BGB-Abschnitts und ins Gesamtsystem?
@@ -128,7 +127,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -139,7 +137,7 @@ Stand: Mai 2026.
 
 ## 2. `wortlaut-grammatikalische-auslegung`
 
-**Fokus:** Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster fuer den Wortlaut-Schritt jeder Auslegung.
+**Fokus:** Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster für den Wortlaut-Schritt jeder Auslegung.
 
 # Wortlaut / grammatikalische Auslegung
 
@@ -150,7 +148,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -184,13 +181,13 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - **"Verbraucher" iSd § 13 BGB:** natuerliche Person, die ein Rechtsgeschaeft zu Zwecken abschliesst, die ueberwiegend weder ihrer gewerblichen noch ihrer selbststaendigen beruflichen Taetigkeit zugerechnet werden koennen. Juristische Personen sind ausgeschlossen, auch wenn sie schutzbeduerftig sein moegen. Wortlaut-Grenze.
 - **"Schaden" iSd § 249 BGB:** im allgemeinen Sprachgebrauch und in der Diffenzhypothese aufzufassen. In Art. 82 DSGVO autonom unionsrechtlich, nicht nach BGB-Verstaendnis (siehe Skill `verfassungs-und-unionsrechtskonforme-auslegung`).
 
-**Vertragsauslegung §§ 133, 157 BGB:** Bei der Auslegung einer Willenserklaerung ist der wirkliche Wille zu erforschen und nicht am buchstaeblichen Sinne des Ausdrucks zu haften (§ 133 BGB); Vertraege sind so auszulegen, wie Treu und Glauben mit Ruecksicht auf die Verkehrssitte es erfordern (§ 157 BGB). Dort steht der "Empfaengerhorizont" im Vordergrund — der Wortlaut ist nicht entscheidend, sondern wie der Empfaenger ihn nach Treu und Glauben verstehen durfte.
+**Vertragsauslegung §§ 133, 157 BGB:** Bei der Auslegung einer Willenserklaerung ist der wirkliche Wille zu erforschen und nicht am buchstaeblichen Sinne des Ausdrucks zu haften (§ 133 BGB); Vertraege sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern (§ 157 BGB). Dort steht der "Empfaengerhorizont" im Vordergrund — der Wortlaut ist nicht entscheidend, sondern wie der Empfaenger ihn nach Treu und Glauben verstehen durfte.
 
 **Unbestimmte Rechtsbegriffe und Generalklauseln:**
 
 - "Treu und Glauben" (§ 242 BGB), "gute Sitten" (§ 138 BGB), "wichtiger Grund" (§§ 314, 626 BGB), "angemessene Frist". Der Wortlaut allein traegt keine Subsumtion; er gibt nur einen Rahmen. Die Konkretisierung erfolgt durch System, Historie, Telos, Grundrechte und Unionsrecht.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Streitigen Begriff isolieren.** Welches Tatbestandsmerkmal genau ist auslegungsbeduerftig?
 2. **Legaldefinition pruefen.** Hat das BGB selbst eine Definition (z. B. § 90 BGB "Sache", § 90a BGB "Tier", § 13 BGB "Verbraucher", § 14 BGB "Unternehmer", § 91 BGB "vertretbare Sachen", § 854 BGB "Besitz")?
@@ -205,7 +202,7 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - **Sprachgefuehl statt Sprachpruefung.** Wer behauptet, "schon vom Wortlaut her" sei klar, was gemeint sei, ohne den Sprachgebrauch zu pruefen, faellt schnell auf Mehrdeutigkeiten herein.
 - **Allgemein- und Fachsprache vermischen.** "Besitz" im Alltag bedeutet meist Eigentum; § 854 BGB meint die tatsaechliche Sachherrschaft.
 - **Wortlaut-Grenze nicht respektieren.** Wer ueber den moeglichen Wortsinn hinaus auslegt, betreibt unzulaessige Auslegung *contra legem*. Erlaubt ist hier nur Rechtsfortbildung mit eigenen Voraussetzungen.
-- **Legaldefinitionen ignorieren.** Eine Legaldefinition verdraengt den allgemeinen Sprachgebrauch fuer den Anwendungsbereich des Gesetzes.
+- **Legaldefinitionen ignorieren.** Eine Legaldefinition verdraengt den allgemeinen Sprachgebrauch für den Anwendungsbereich des Gesetzes.
 - **Bei Unionsrechtsbegriffen den deutschen Sprachgebrauch zugrunde legen.** Begriffe aus Verordnungen und Richtlinien sind autonom auszulegen; alle Amtssprachen sind verbindlich.
 
 ## Querverweise
@@ -225,7 +222,6 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - Quellenpflicht: `references/zitierweise.md`.
 
 Stand: Mai 2026. Wortlaut-Fragen koennen sich durch Gesetzesreformen jederzeit verschieben; bei Streitfragen aktuelle Norm- und Rechtsprechungslage pruefen. Bei zweifelhaften Begriffen empfiehlt sich der parallele Blick in Grueneberg, MueKo-BGB oder BeckOK, soweit lizenziert verfuegbar.
-
 
 ## Qualitäts-Hardening
 

@@ -1,38 +1,25 @@
 ---
 name: defensive-drafting-deutscher-kanzleistil
-description: "Defensive Drafting Deutscher Kanzleistil im Word-Legal-AI für Anwälte: prüft konkret Defensives Drafting beim Review fremder Entwuerfe, Kalibriert juristische Texte auf den passenden deutschen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Defensive Drafting Deutscher Kanzleistil
+# Defensive Drafting und Fallen-Erkennung
 
 ## Arbeitsbereich
 
-**Defensive Drafting Deutscher Kanzleistil** ordnet den Fall über die tragenden Prüffelder: Defensives Drafting beim Review fremder Entwuerfe, Kalibriert juristische Texte auf den passenden deutschen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `defensive-drafting-fallen-erkennen` | Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen. |
-| `deutscher-kanzleistil-kalibrieren` | Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register. |
+Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Word Legal AI für deutsche Anwälte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `defensive-drafting-fallen-erkennen`
-
-**Fokus:** Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen.
-
-# Defensive Drafting und Fallen-Erkennung
 
 ## Zweck
 
-Beim Review fremder Vertragsentwuerfe verlieren Mandanten regelmaessig viel Geld nicht durch boese Absicht, sondern durch routinierte Standardklauseln, die einseitig zu ihrem Nachteil wirken. Dieser Skill ist eine Pruefcheckliste fuer die zwoelf haeufigsten Fallen: woran Sie sie erkennen (Rote-Flaggen-Wortliste), warum sie problematisch sind (rechtliche Wirkung) und wie Sie sie chirurgisch entschaerfen (Verteidigungsklauseln).
+Beim Review fremder Vertragsentwuerfe verlieren Mandanten regelmaessig viel Geld nicht durch boese Absicht, sondern durch routinierte Standardklauseln, die einseitig zu ihrem Nachteil wirken. Dieser Skill ist eine Pruefcheckliste für die zwoelf haeufigsten Fallen: woran Sie sie erkennen (Rote-Flaggen-Wortliste), warum sie problematisch sind (rechtliche Wirkung) und wie Sie sie chirurgisch entschaerfen (Verteidigungsklauseln).
 
 Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haftungsausschluss-und-haftungsbegrenzung` (Haftungsklauseln), schaut aber breiter auf das Vertragswerk.
 
@@ -60,7 +47,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 **Verteidigung:**
 - Pruefen, ob Klausel in AGB: dann oft § 309 Nr. 7 BGB einschlaegig.
-- Ausnahmen einfuegen: "Die Haftungsbegrenzung gilt nicht fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, fuer Schaeden aus vorsaetzlicher oder grob fahrlaessiger Pflichtverletzung und fuer Schaeden aus der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten)."
+- Ausnahmen einfuegen: "Die Haftungsbegrenzung gilt nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit, für Schaeden aus vorsaetzlicher oder grob fahrlaessiger Pflichtverletzung und für Schaeden aus der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten)."
 - Hoehe an Versicherungssumme koppeln statt an Auftragswert.
 
 ### Falle 2: Verschobene Beweislast
@@ -69,11 +56,11 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 **Wirkung:** Kehrt die gesetzliche Beweislast um. In AGB oft Verstoss gegen § 309 Nr. 12 BGB.
 
-**Verteidigung:** Klausel streichen und die gesetzliche Beweislastverteilung herstellen. Wenn nicht durchsetzbar, Beweislast spiegeln (gilt fuer beide Seiten).
+**Verteidigung:** Klausel streichen und die gesetzliche Beweislastverteilung herstellen. Wenn nicht durchsetzbar, Beweislast spiegeln (gilt für beide Seiten).
 
 ### Falle 3: Einseitiger Gerichtsstand
 
-**Rote-Flaggen-Wortliste:** "Ausschliesslicher Gerichtsstand ist Muenchen", "Der Auftragnehmer kann auch am Sitz des Auftraggebers klagen", "Gerichtsstand fuer alle Streitigkeiten ist Hamburg".
+**Rote-Flaggen-Wortliste:** "Ausschliesslicher Gerichtsstand ist Muenchen", "Der Auftragnehmer kann auch am Sitz des Auftraggebers klagen", "Gerichtsstand für alle Streitigkeiten ist Hamburg".
 
 **Wirkung:** Belastet den Mandanten mit hohen Reisekosten und unbekannter Gerichtsbarkeit. Im B2C oft unwirksam nach § 38 ZPO, im B2B regelmaessig wirksam.
 
@@ -91,13 +78,13 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 - Schweigen ist keine Annahme: explizite Zustimmung.
 - Sonderkuendigungsrecht bei jeder einseitigen Aenderung.
 
-### Falle 5: Kurze Verjaehrungsverkuerzung
+### Falle 5: Kurze Verjährungsverkuerzung
 
 **Rote-Flaggen-Wortliste:** "Maengelansprueche verjaehren in zwoelf Monaten ab Lieferung", "Ansprueche verjaehren spaetestens nach einem Jahr".
 
-**Wirkung:** Verkuerzt die regulaere Verjaehrung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsaetzlich zulaessig, in AGB Pruefung nach § 307 BGB.
+**Wirkung:** Verkuerzt die regulaere Verjährung von zwei Jahren (§ 438 BGB) oder fuenf Jahren (Bauwerk). In B2C nichtig bei Neuware (§ 476 II BGB neu); in B2B grundsaetzlich zulaessig, in AGB Pruefung nach § 307 BGB.
 
-**Verteidigung:** Verjaehrungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
+**Verteidigung:** Verjährungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
 
 ### Falle 6: Nachhaftung der Geschaeftsfuehrung
 
@@ -105,7 +92,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 **Wirkung:** Durchgriffshaftung der Organe. Wirksam, aber regelmaessig nicht gewollt. Steuerlich problematisch.
 
-**Verteidigung:** Geschaeftsfuehrerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur fuer Sachverhalte, nicht fuer Rechtsfolgen.
+**Verteidigung:** Geschaeftsfuehrerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur für Sachverhalte, nicht für Rechtsfolgen.
 
 ### Falle 7: Lock-in durch Auto-Renewal
 
@@ -125,7 +112,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 **Wirkung:** Hohes Kostenrisiko (Schiedskosten teilweise sechsstellig) und Ausschluss der staatlichen Gerichte. Wirksam.
 
 **Verteidigung:**
-- Wertgrenze fuer Schiedsklausel: erst ab Streitwert X.
+- Wertgrenze für Schiedsklausel: erst ab Streitwert X.
 - Mediationsstufe vorgeschaltet.
 - DIS Sport-Schiedsordnung statt ICC bei kleineren Werten.
 - Schiedsort am Sitz des Mandanten.
@@ -187,87 +174,19 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 ## Ausgabeformat
 
 - Tabelle: Klausel-Nummer | Klausel-Auszug | Falle-Nr | Risiko (rot/gelb/gruen) | Verteidigungsformulierung | Fallback.
-- Markup-Vorlage fuer Track-Changes im Word-Dokument.
+- Markup-Vorlage für Track-Changes im Word-Dokument.
 - Mandantenbrief mit Top-3-Risiken in Klartext.
 
 ## Querverweise
 
-- `agb-konforme-klauseln-305-310-bgb` fuer AGB-Inhaltskontrolle
-- `haftungsausschluss-und-haftungsbegrenzung` fuer Haftungsdrafting
-- `klausel-bibliothek-katalog` fuer fertige Verteidigungsformulierungen
-- `revisions-prozess-redlines-comparison` fuer den Markup-Workflow
+- `agb-konforme-klauseln-305-310-bgb` für AGB-Inhaltskontrolle
+- `haftungsausschluss-und-haftungsbegrenzung` für Haftungsdrafting
+- `klausel-bibliothek-katalog` für fertige Verteidigungsformulierungen
+- `revisions-prozess-redlines-comparison` für den Markup-Workflow
 
 ## Quellen (Stand 05/2026)
 
 - §§ 305, 305c, 306, 307, 308, 309, 310 BGB; §§ 38, 293 ZPO; § 138, § 242 BGB; § 43a BRAO.
-- DSGVO Art. 28 fuer Audit-Reziprozitaet.
+- DSGVO Art. 28 für Audit-Reziprozitaet.
 - BGH-Rechtsprechung zur AGB-Inhaltskontrolle und MAC-Klauseln vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
-
-## 2. `deutscher-kanzleistil-kalibrieren`
-
-**Fokus:** Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register.
-
-# Deutscher Kanzleistil Kalibrieren
-
-## Zweck
-
-Gute juristische Texte klingen nicht überall gleich. Ein Partner-Update in einer M&A-Boutique, ein Mandantenbrief aus einer Familienrechtskanzlei, ein Schriftsatz an ein Landgericht und eine englische Clause Note für einen US-Counsel brauchen verschiedene Register. Dieser Skill macht das Register bewusst und reproduzierbar.
-
-## Stilprofile
-
-| Profil | Wo es passt | Ton | Struktur |
-|---|---|---|---|
-| Großkanzlei Corporate | Deal, SPA, Term Sheet, Board Memo | knapp, belastbar, entscheidungsorientiert | Executive Summary, Issue List, Options, Recommendation |
-| Prozess-Boutique | Schriftsatz, Strategiepapier, Terminvorbereitung | präzise, scharf, aber sachlich | These, Beleg, Beweis, Angriffspunkt |
-| Kleinkanzlei Mandat | Mandantenbrief, Vergleich, außergerichtliches Schreiben | menschlich, klar, führend | Sachstand, Einschätzung, Empfehlung, nächste Schritte |
-| Inhouse Legal | Management-Memo, Freigabevorlage | lösungsorientiert, risikobasiert | Ampel, Entscheidungspunkt, Budget, Owner |
-| Behörde/Gericht | Antrag, Stellungnahme, Schriftsatz | nüchtern, beweisbar, ohne Theater | Antrag, Sachverhalt, Rechtliches, Beweisangebot |
-| US/UK-Korrespondenz | Cross-Border Deal, Local Counsel Note | international höflich, nicht übersetzt klingend | Background, German law position, practical consequence |
-
-## Ablauf
-
-1. Bestimme Adressat und Entscheidungssituation.
-2. Wähle ein Profil aus der Tabelle oder kombiniere zwei Profile.
-3. Lege den Schärfegrad fest: deeskalierend, neutral, bestimmt, hart, prozessual.
-4. Lege die Tiefe fest: One-pager, Kurzvermerk, Memo, Schriftsatz, Vertragsfassung.
-5. Überarbeite den Text auf Satzlänge, Gliederung, Wortwahl und Ergebnisführung.
-6. Gib am Ende ein Stilprofil aus, damit Folge-Skills im gleichen Register weiterarbeiten.
-
-## Stilprofil-Ausgabe
-
-```text
-Stilprofil:
-- Profil: Großkanzlei Corporate
-- Adressat: Partnerin und Mandant
-- Ton: knapp, entscheidungsorientiert, ohne Floskeln
-- Schärfegrad: neutral-bestimmt
-- Satzlänge: kurz bis mittel
-- Ergebnisführung: Empfehlung in den ersten fünf Zeilen
-- No-Gos: Gutachtenstil, lange historische Herleitung, "dürfte", "wohl" ohne Risikobegründung
-```
-
-## Typische No-Gos
-
-- Großkanzlei: keine langen Lehrbuchpassagen, keine ungeordnete Normensammlung.
-- Boutique: keine aggressive Rhetorik ohne Beleg.
-- Kleinkanzlei: keine überhebliche Belehrung des Mandanten.
-- Inhouse: keine Empfehlung ohne Entscheidungspunkt.
-- Gericht: keine Pointe, kein Marketington, keine unnötigen Adjektive.
-- US/UK: keine wörtliche Übersetzung deutscher Schachtelsätze.
-
-## Output
-
-- Stilprofil.
-- Kurze Begründung der Stilwahl.
-- Überarbeitete Passage oder Gliederung.
-- Hinweis auf passende Folge-Skills, insbesondere `stil-und-ton-juristische-texte`, `schriftsatz-ueberarbeiten-richterlesbar`, `mandantenmemo-und-partner-update` oder `us-uk-legal-writing-fuer-deutsche`.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

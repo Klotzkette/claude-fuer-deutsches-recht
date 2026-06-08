@@ -7,10 +7,10 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 
 ## Arbeitsbereich
 
-**Kostenrisiko Streitwert Ladung Termin** ordnet den Fall über die tragenden Prüffelder: Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kostenrisiko Streitwert Ladung Termin** ordnet den Fall über die tragenden Prüfungslinien: Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `kostenrisiko-streitwert-berechnen-gkg` | Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation. |
 | `ladung-termin-216-zpo` | Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort Sitzungssaal Aktenzeichen Bedeutung von Hinweisen wie Erscheinens-Pflicht Versaeumnis-Hinweis. Wie Sie eine Ladung prüfen und bestätigen. |
@@ -18,12 +18,12 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `kostenrisiko-streitwert-berechnen-gkg`
 
@@ -43,21 +43,21 @@ Klage ist nicht kostenlos. Sie zahlen einen Vorschuss an das Gericht; im Verlust
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Streitwert**: Geldwert des Streits — Basis fuer alle Kosten.
+- **Streitwert**: Geldwert des Streits — Basis für alle Kosten.
 - **Gerichtsgebuehr**: Gebuehr, die das Gericht erhebt; Hoehe nach GKG-Tabelle.
-- **Anwaltskosten**: Gebuehren des Anwalts nach RVG (Rechtsanwaltsvergütungsgesetz).
+- **Anwaltskosten**: Gebühren des Anwalts nach RVG (Rechtsanwaltsvergütungsgesetz).
 - **Auslagen**: Tatsaechlich entstandene Kosten (Sachverstaendiger, Reisekosten, Porto).
 
 ## Rechtsgrundlagen
 
 - **§ 3 ZPO, § 48 GKG** — Streitwert-Bestimmung.
 - **§ 12 GKG** — Vorschusspflicht.
-- **GKG-Anlage 1** — Gebuehrentabelle.
+- **GKG-Anlage 1** — Gebührentabelle.
 - **RVG-Anlage 1, § 13 RVG** — Anwaltsgebuehren-Tabelle.
 - **§ 91 ZPO** — Kostenfolge: Verlierer zahlt.
 - **§ 92 ZPO** — Bei Teilobsiegen Kosten quoteln.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Streitwert bestimmen
 
@@ -133,7 +133,7 @@ Wenn Sie gewinnen, koennen Sie die verausgabten Kosten von der Gegenseite festse
 
 - **GKG-Tabelle aktualisieren**: Die Beispiel-Zahlen oben sind Orientierungs-Werte. Verifizieren Sie ueber aktuelle GKG-Anlage 1.
 - **PKH-Antrag pruefen**: Wenn Sie sich Klage nicht leisten koennen, gibt es Prozesskostenhilfe. Skill `prozesskostenhilfe-pkh-114-zpo`.
-- **Teilklage erwaegen**: Wenn Streitwert hoch und Beweislage unsicher, koennen Sie Teilbetrag klagen — geringere Kosten, weniger Risiko. Aber: weitere Klage spaeter teurer, Verjaehrungs-Effekt.
+- **Teilklage erwaegen**: Wenn Streitwert hoch und Beweislage unsicher, koennen Sie Teilbetrag klagen — geringere Kosten, weniger Risiko. Aber: weitere Klage spaeter teurer, Verjährungs-Effekt.
 
 ## Typische Fehler
 
@@ -183,7 +183,7 @@ Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** 
 - **§ 217 ZPO** — Ladungsfrist.
 - **§ 330, 331 ZPO** — Saeumnis-Folgen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ladung pruefen
 
@@ -266,7 +266,6 @@ Sie koennen vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termi
 
 Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -298,7 +297,7 @@ Sie haben eine Klage eingereicht oder eine Klageerwiderung geschrieben. Jetzt ko
 - **Termin-Stichwort-Liste**: Eine selbst gemachte Liste mit den wichtigsten Themen, die Sie ansprechen wollen.
 - **Mitschreib-Block**: Ein Notizblock, auf dem Sie im Termin festhalten, was der Richter sagt und was die Gegenseite sagt.
 
-## Schritt-fuer-Schritt-Vorbereitung
+## Schritt-für-Schritt-Vorbereitung
 
 ### Schritt 1 — Akten-Ordner anlegen
 
@@ -389,7 +388,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 - **Akten-Ordner offen neben dem Geraet** — Sie koennen waehrend des Videos kurz reinschauen.
 - **Zweites Geraet (z.B. Tablet)** mit den wichtigsten PDFs offen — als Backup, wenn Sie schnell etwas zeigen sollen.
 - Stabile Internet-Verbindung.
-- Personalausweis fuer Identitaets-Pruefung griffbereit.
+- Personalausweis für Identitaets-Pruefung griffbereit.
 
 ## Worauf Sie besonders achten muessen
 
@@ -418,8 +417,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch fuer Selbstvertreter geeignet.
-
+Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch für Selbstvertreter geeignet.
 
 ## Qualitäts-Hardening
 

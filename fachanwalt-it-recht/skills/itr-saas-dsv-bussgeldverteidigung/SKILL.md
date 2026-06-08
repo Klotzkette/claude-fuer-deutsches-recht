@@ -7,10 +7,10 @@ description: "ITR Saas DSV Bussgeldverteidigung im Plugin Fachanwalt It Recht: p
 
 ## Arbeitsbereich
 
-**ITR Saas DSV Bussgeldverteidigung** ordnet den Fall über die tragenden Prüffelder: SaaS-Vertragstypen in der Praxis, Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art, Verteidigt den Verantwortlichen gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**ITR Saas DSV Bussgeldverteidigung** ordnet den Fall über die tragenden Prüfungslinien: SaaS-Vertragstypen in der Praxis, Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art, Verteidigt den Verantwortlichen gegen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `itr-saas-vertragstypen-praxis` | SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B. |
 | `dsv-bussgeldverteidigung-art-83` | Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG. |
@@ -20,12 +20,12 @@ description: "ITR Saas DSV Bussgeldverteidigung im Plugin Fachanwalt It Recht: p
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Informationstechnologierecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `itr-saas-vertragstypen-praxis`
 
@@ -34,27 +34,23 @@ description: "ITR Saas DSV Bussgeldverteidigung im Plugin Fachanwalt It Recht: p
 # IT-Recht: SaaS-Vertragstypen
 
 ## Spezialwissen: IT-Recht: SaaS-Vertragstypen
-- **Spezialgegenstand:** IT-Recht: SaaS-Vertragstypen / itr saas vertragstypen praxis. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** IT, BGH.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -71,10 +67,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -212,7 +208,7 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 6. Welche Nachbesserungsversuche wurden unternommen — wie viele, in welcher Frist?
 7. Handelt es sich um ein B2C-Vertragsverhältnis (§§ 327 ff. BGB Digitale-Produkte-Regime)?
 8. Liegt Open-Source-Komponente vor — welche Lizenz (GPL, AGPL, MIT, Apache)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -274,7 +270,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Open-Source-Komponenten betroffen | Lizenz-Compliance pruefen; Schadensersatz nach allg. Delikt |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -418,7 +413,7 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 
 ## Triage zu Beginn
 1. Welcher Vertragstyp liegt vor — Kauf, Werkvertrag, SaaS-Miete, Digitale Produkte B2C (§§ 327 ff. BGB)?
-2. Wann war Lieferung / Abnahme — laeuft Verjaehrungsfrist (2 Jahre Kauf/Werk, 3 Jahre SaaS)?
+2. Wann war Lieferung / Abnahme — laeuft Verjährungsfrist (2 Jahre Kauf/Werk, 3 Jahre SaaS)?
 3. Wurde eine Mangelruege erhoben — bei kaufmaennischem Geschaeft § 377 HGB unverzueglich?
 4. Wie viele Nachbesserungsversuche gab es — Zweiversuchsregel § 440 Satz 2 BGB erfuellt?
 5. Liegt eine Open-Source-Komponente vor — welche Lizenz (GPL, AGPL, MIT, Apache)?

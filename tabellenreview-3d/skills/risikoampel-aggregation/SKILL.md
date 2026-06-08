@@ -5,7 +5,6 @@ description: "Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb
 
 # /tabellenreview-3d:risikoampel-aggregation
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

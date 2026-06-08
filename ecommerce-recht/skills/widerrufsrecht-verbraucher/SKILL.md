@@ -1,28 +1,28 @@
 ---
 name: widerrufsrecht-verbraucher
-description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerrufsrecht Verbraucher
 
 ## Arbeitsbereich
 
-**Widerrufsrecht Verbraucher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Widerrufsrecht Verbraucher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `widerrufsrecht-verbraucher-355-312g-bgb` | Widerrufsrecht Verbraucher §§ 355 312g BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `widerrufsrecht-verbraucher-355-312g-bgb`
 
@@ -31,11 +31,8 @@ description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht: fachlicher A
 # Widerrufsrecht des Verbrauchers – §§ 355, 312g BGB
 
 ## Fachkern: Widerrufsrecht des Verbrauchers – §§ 355, 312g BGB
-- **Spezialgegenstand:** Widerrufsrecht des Verbrauchers – §§ 355, 312g BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
 - **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum geht es konkret
 

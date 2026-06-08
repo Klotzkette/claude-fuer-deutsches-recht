@@ -12,15 +12,13 @@ description: "Prueft Recht als Adressierung verantwortlicher Personen: Wissen, P
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Adressatenwürde und Rechtssteuerung
-- **Spezialgegenstand:** Adressatenwürde und Rechtssteuerung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
+Anwendungsfall: ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
 
 ## Leitfrage
 
@@ -43,6 +41,23 @@ Kann die betroffene Person vernünftigerweise erkennen, was gilt, was von ihr er
 - Überraschende Rechtsprechungsänderung oder neue Verwaltungsauslegung.
 - Private Machtordnungen wie Konzernrichtlinien, Schiedsordnungen, Vereins- und Parteirecht.
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarkeit, Einwendung, Begründung, Rechtsschutz und Reparatur. Schließe mit einer Formulierung, die den Rechtsstaat nicht pathetisch beschwört, sondern in konkrete Verfahrensrechte übersetzt.
@@ -52,3 +67,17 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Theoretische Begriffe sind nur zulässig, wenn sie die Prüfung schärfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 StGB
+- Art. 47 GRCh
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

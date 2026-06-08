@@ -70,7 +70,6 @@ Gegenseiten-Perspektive im BGB Besonderer Teil systematisch einnehmen: Argumente
 - workflow-beweislast-und-belegmatrix
 - gesamtschuld-und-regress-bgb-bt
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/__254.html

@@ -99,7 +99,6 @@ Version 1.1 – [change] – [date, author]
 - DSK Short Paper No. 1 "Records of Processing Activities" (Status 17 December 2018).
 - EDPB Position Paper on Article 30(5) GDPR (19 April 2018).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

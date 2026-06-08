@@ -6,11 +6,9 @@ description: "Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus
 # Kaltstart-Interview und IP-Audit für Luxus-Modehäuser
 
 ## Fachkern: Kaltstart-Interview und IP-Audit für Luxus-Modehäuser
-- **Spezialgegenstand:** Kaltstart-Interview und IP-Audit für Luxus-Modehäuser; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 Das erste Mandantengespräch mit einem neuen Modehaus ist die Basis für alles, was folgt. In 90 Minuten mit der Comtesse Beatrice de Klotzzkettie habe ich klôtzzkètté SA vollständig durchleuchtet: bestehende Schutzrechte, Lücken, Risiken, Prioritäten. Kein Mandant verlässt dieses Gespräch ohne einen klaren Maßnahmenplan.
 
@@ -23,7 +21,7 @@ Dieser strukturierte Fragenkatalog und die IP-Audit-Checkliste sind das Handwerk
 - **Datenschutz (DSGVO / § 4 BORA):** Mandanteninformationen streng vertraulich; Aktenführung nach Kanzlei-Standards
 - **IP-Audit-Grundlage:** Markenrecht (§§ 3-9 MarkenG, UMV), Designrecht (DesignG, GGV), Urheberrecht (UrhG), Patentrecht (PatG), Know-how (GeschGehG)
 
-## Aktuelle Rechtsprechung fuer IP-Audit Luxusmarken
+## Aktuelle Rechtsprechung für IP-Audit Luxusmarken
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

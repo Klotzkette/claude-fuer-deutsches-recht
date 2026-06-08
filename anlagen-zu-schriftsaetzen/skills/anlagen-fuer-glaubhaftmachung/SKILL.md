@@ -5,6 +5,21 @@ description: "Spezialfür Eilverfahren: Anlagen, eidesstattliche Versicherung, S
 
 # Anlagen für Glaubhaftmachung
 
+## Normenanker
+
+Arbeitsfokus: **Anlagen für Glaubhaftmachung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 294 Abs. 1 ZPO` — Glaubhaftmachung.
+- `§ 920 Abs. 2 ZPO` — Verfügungsanspruch und Verfügungsgrund.
+- `§ 936 ZPO` — Anwendung Arrestvorschriften auf einstweilige Verfügung.
+- `§ 922 Abs. 2 ZPO` — Zustellung/Vollziehung Arrestbefehl.
+- `§ 929 Abs. 2 ZPO` — Vollziehungsfrist.
+- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
+- `§ 371 ZPO` — Augenschein.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill ist für einstweilige Verfügung, Arrest, einstweilige Anordnung und sonstige Eilsachen. Er fragt: Was muss heute glaubhaft gemacht werden, mit welchem Mittel, und was ist nur schmückendes Beiwerk?
@@ -45,7 +60,6 @@ Dieser Skill ist für einstweilige Verfügung, Arrest, einstweilige Anordnung un
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
 
 ## Vertiefter Anlagen-Workflow
 

@@ -1,9 +1,9 @@
 ---
 name: einfache-sprache-tipps-fuer-alle-anliegen
-description: "Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behoerdendeutsch. Beispiele für Buerger."
+description: "Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behördendeutsch. Beispiele für Buerger."
 ---
 
-# Klar schreiben — Tipps fuer Schriftsaetze
+# Klar schreiben — Tipps für Schriftsaetze
 
 ## Fachlicher Anker
 
@@ -13,11 +13,11 @@ description: "Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. 
 
 ## Worum geht es?
 
-Sie muessen Briefe an Behoerden und Gerichte schreiben. Diese Skill hilft Ihnen, klar und verstaendlich zu schreiben — ohne Behoerdendeutsch.
+Sie muessen Briefe an Behörden und Gerichte schreiben. Diese Skill hilft Ihnen, klar und verstaendlich zu schreiben — ohne Behördendeutsch.
 
 ## In einfacher Sprache
 
-Briefe an Behoerden muessen nicht kompliziert sein. Schreiben Sie klar. Kurze Saetze. Ein Gedanke pro Satz. Das wirkt besser.
+Briefe an Behörden muessen nicht kompliziert sein. Schreiben Sie klar. Kurze Saetze. Ein Gedanke pro Satz. Das wirkt besser.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Briefe an Behoerden muessen nicht kompliziert sein. Schreiben Sie klar. Kurze Sa
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Behoerdendeutsch**: kompliziert, lang, mit Fremdwoertern.
+- **Behördendeutsch**: kompliziert, lang, mit Fremdwoertern.
 - **Klare Sprache**: Subjekt-Verb-Objekt, kurze Saetze.
 - **Aktiv statt Passiv**: lebendiger, klarer.
 
@@ -35,7 +35,7 @@ Briefe an Behoerden muessen nicht kompliziert sein. Schreiben Sie klar. Kurze Sa
 
 Keine direkten — aber gute Praxis hilft bei jedem Verfahren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Strukturierung des Schriftsatzes
 
@@ -70,7 +70,7 @@ Keine direkten — aber gute Praxis hilft bei jedem Verfahren.
 **Gut**:
 "Gegen den Bescheid vom [Datum] lege ich Widerspruch ein. Die Sachverhalts-Feststellung ist nicht richtig."
 
-### Schritt 4 — Tipps fuer klare Sprache
+### Schritt 4 — Tipps für klare Sprache
 
 - **Kurze Saetze**: max. 20 Woerter.
 - **Ein Gedanke pro Satz**.
@@ -88,7 +88,7 @@ Bei Begruendungen bewaehrt:
 [Was ist passiert? In zeitlicher Reihenfolge.]
 
 2. Rechtliche Bewertung
-[Warum die Behoerde Unrecht hat.]
+[Warum die Behörde Unrecht hat.]
 
 3. Antrag
 [Was Sie konkret wollen.]
@@ -117,7 +117,7 @@ Besser:
 
 - **Hoeflich, aber klar**: keine Devot-Saetze.
 - **Konkret**: jede Behauptung mit Beleg.
-- **Keine Beleidigungen** der Behoerde.
+- **Keine Beleidigungen** der Behörde.
 
 ## Typische Fehler
 
@@ -135,7 +135,6 @@ Besser:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Generelle gute Praxis.
-
 
 ## Qualitäts-Hardening
 

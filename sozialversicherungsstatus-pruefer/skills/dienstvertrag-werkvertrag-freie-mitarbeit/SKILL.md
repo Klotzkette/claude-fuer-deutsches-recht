@@ -1,36 +1,21 @@
 ---
 name: dienstvertrag-werkvertrag-freie-mitarbeit
-description: "Dienstvertrag Werkvertrag Freie Mitarbeit im Sozialversicherungsstatus-Prüfung: prüft konkret Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich, Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen im Sozialversicherungsstatus Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Dienstvertrag Werkvertrag Freie Mitarbeit
+# Dienst-/Werkvertrag im Statusrecht
 
 ## Arbeitsbereich
 
-**Dienstvertrag Werkvertrag Freie Mitarbeit** ordnet den Fall über die tragenden Prüffelder: Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich, Entwirft statusbewusste Klauseln zu Weisungsfreiheit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `dienstvertrag-werkvertrag-status` | Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen. |
-| `freie-mitarbeit-klauseln` | Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance. |
-| `honorarvertrag-realitaetscheck` | Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen. |
-| `rahmenvertrag-einzelauftrag` | Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung. |
+Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Sozialversicherungsstatus Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `dienstvertrag-werkvertrag-status`
-
-**Fokus:** Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen.
-
-# Dienst-/Werkvertrag im Statusrecht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Dienst-/Werkvertrag im Statusrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -40,13 +25,9 @@ description: "Dienstvertrag Werkvertrag Freie Mitarbeit im Sozialversicherungsst
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Dienst-/Werkvertrag im Statusrecht
-- **Spezialgegenstand:** Dienst-/Werkvertrag im Statusrecht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
 - **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -83,202 +64,6 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 - Welche Einordnung hilft zivilrechtlich, aber nicht automatisch sozialversicherungsrechtlich?
 
 **Mindest-Output:** Zivil-/Status-Abgleich mit Vertragstyp, Praxis und Statusfolge.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
-## 2. `freie-mitarbeit-klauseln`
-
-**Fokus:** Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance.
-
-# Freie-Mitarbeit-Klauseln
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freie-Mitarbeit-Klauseln` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Fachkern: Freie-Mitarbeit-Klauseln
-- **Spezialgegenstand:** Freie-Mitarbeit-Klauseln wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Freie-Mitarbeit-Klauseln** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 7
-- BGB
-- UrhG je Tätigkeit
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Klausel muss operativ gelebt werden können?
-- Welche Freiheit ist für diese Tätigkeit realistisch?
-- Wie werden Vertretung, Subunternehmer, eigene Mittel und mehrere Auftraggeber geregelt?
-- Welche Klauseln sind gefährliche Scheinlösungen?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Klausel muss operativ gelebt werden können?
-- Welche Freiheit ist für diese Tätigkeit realistisch?
-- Wie werden Vertretung, Subunternehmer, eigene Mittel und mehrere Auftraggeber geregelt?
-- Welche Klauseln sind gefährliche Scheinlösungen?
-
-**Mindest-Output:** Klauselset mit Praxisvoraussetzungen, Warnhinweisen und Belegpflichten.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
-## 3. `honorarvertrag-realitaetscheck`
-
-**Fokus:** Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen.
-
-# Honorarvertrag Realitätscheck
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Honorarvertrag Realitätscheck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Fachkern: Honorarvertrag Realitätscheck
-- **Spezialgegenstand:** Honorarvertrag Realitätscheck wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Honorarvertrag Realitätscheck** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 7
-- BGB
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Klauseln behaupten Selbständigkeit ohne operative Wirkung?
-- Welche Regelungen widersprechen der gelebten Praxis?
-- Wo fehlen Ergebnis, Vertretung, eigene Betriebsmittel, Haftung und Marktauftritt?
-- Welche Klauseln wären nur kosmetisch und daher gefährlich?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Klauseln behaupten Selbständigkeit ohne operative Wirkung?
-- Welche Regelungen widersprechen der gelebten Praxis?
-- Wo fehlen Ergebnis, Vertretung, eigene Betriebsmittel, Haftung und Marktauftritt?
-- Welche Klauseln wären nur kosmetisch und daher gefährlich?
-
-**Mindest-Output:** Honorarvertrags-Redline mit Praxisabgleich und echten Änderungen.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
-## 4. `rahmenvertrag-einzelauftrag`
-
-**Fokus:** Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung.
-
-# Rahmenvertrag und Einzelauftrag
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rahmenvertrag und Einzelauftrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Fachkern: Rahmenvertrag und Einzelauftrag
-- **Spezialgegenstand:** Rahmenvertrag und Einzelauftrag wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Rahmenvertrag und Einzelauftrag** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 7
-- BGB
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Gibt es je Einzelauftrag konkrete Ergebnisse, Laufzeit, Preis und Abnahme?
-- Oder wird dauerhaft Kapazität nach Bedarf abgerufen?
-- Wie werden Verlängerungen, Änderungswünsche und Leerlauf vergütet?
-- Welche SoW-Struktur senkt Eingliederungsrisiko?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Gibt es je Einzelauftrag konkrete Ergebnisse, Laufzeit, Preis und Abnahme?
-- Oder wird dauerhaft Kapazität nach Bedarf abgerufen?
-- Wie werden Verlängerungen, Änderungswünsche und Leerlauf vergütet?
-- Welche SoW-Struktur senkt Eingliederungsrisiko?
-
-**Mindest-Output:** SoW-Struktur mit Einzelauftrag, Deliverables, Abnahme und Statusschutz.
 
 ## Qualitäts- und Risikofilter
 

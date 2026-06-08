@@ -29,26 +29,26 @@ Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das ge
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Bescheid**: Ein Brief von einer Behoerde. Darin steht, was die Behoerde entschieden hat.
-- **Widerspruch**: Ihr Einspruch gegen einen Bescheid. Der Widerspruch geht zuerst zur Behoerde, nicht zum Gericht.
+- **Bescheid**: Ein Brief von einer Behörde. Darin steht, was die Behörde entschieden hat.
+- **Widerspruch**: Ihr Einspruch gegen einen Bescheid. Der Widerspruch geht zuerst zur Behörde, nicht zum Gericht.
 - **Klage**: Ihr Antrag an das Sozialgericht, wenn der Widerspruch nicht hilft.
 - **Eilantrag**: Ein schneller Antrag, wenn es brennt. Zum Beispiel, wenn Ihr Geld gestoppt wurde.
-- **Sozialgericht (SG)**: Das Gericht fuer Streit um Sozialleistungen.
+- **Sozialgericht (SG)**: Das Gericht für Streit um Sozialleistungen.
 
 ## Rechtsgrundlagen
 
 - **§ 73 SGG** — Sie brauchen keinen Anwalt vor dem SG und dem Landessozialgericht (LSG). Nur vor dem Bundessozialgericht (BSG) brauchen Sie einen Anwalt.
-- **§ 183 SGG** — Kein Geld fuer das Gericht, wenn Sie Versicherter, Leistungsempfaenger oder Behinderter sind.
+- **§ 183 SGG** — Kein Geld für das Gericht, wenn Sie Versicherter, Leistungsempfaenger oder Behinderter sind.
 - **§ 103 SGG** — Das Gericht ermittelt von Amts wegen. Es muss selbst pruefen, was wahr ist.
 - **§ 78 SGG** — Vor der Klage muessen Sie Widerspruch einlegen.
-- **§ 84 SGG** — Frist fuer den Widerspruch: ein Monat.
-- **§ 87 SGG** — Frist fuer die Klage: ein Monat nach Widerspruchsbescheid.
+- **§ 84 SGG** — Frist für den Widerspruch: ein Monat.
+- **§ 87 SGG** — Frist für die Klage: ein Monat nach Widerspruchsbescheid.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ruhe bewahren und Datum notieren
 
-Schreiben Sie sich das Datum auf den Bescheid. Wann haben Sie ihn bekommen? Das ist wichtig fuer die Frist.
+Schreiben Sie sich das Datum auf den Bescheid. Wann haben Sie ihn bekommen? Das ist wichtig für die Frist.
 
 ### Schritt 2 — Den ersten Weg waehlen
 
@@ -98,7 +98,7 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 - Frist nicht beachtet → sofort Posteingang notieren
 - Nur muendlich beschwert → schriftlich machen
-- Falsche Behoerde angeschrieben → Adressat aus dem Bescheid uebernehmen
+- Falsche Behörde angeschrieben → Adressat aus dem Bescheid uebernehmen
 - Den Bescheid wegwerfen → immer aufheben
 
 ## Querverweise
@@ -116,8 +116,7 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 fuer Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
-
+Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
 
 ## Qualitäts-Hardening
 

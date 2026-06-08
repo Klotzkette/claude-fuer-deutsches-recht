@@ -1,36 +1,21 @@
 ---
 name: prompt-versionierung-paket-review
-description: "Prompt Versionierung Paket Review im Plugin Tabellenreview 3D: prüft konkret Prompt-Versionen für den 3D-Review verwalten, Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen, 3D-Tabellenreview konkret durchführen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung im Tabellenreview 3d: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Prompt Versionierung Paket Review
+# /tabellenreview-3d:prompt-versionierung
 
 ## Arbeitsbereich
 
-**Prompt Versionierung Paket Review** ordnet den Fall über die tragenden Prüffelder: Prompt-Versionen für den 3D-Review verwalten, Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen, 3D-Tabellenreview konkret durchführen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `prompt-versionierung` | Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung. |
-| `pruefer-uebergabe-paket` | Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Prüfraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Übergabedokument für naechsten Prüfer. Abgrenzung: nicht Audit-Trail. |
-| `review-durchfuehren` | 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung. Output: Ausgefuellte 3D-Review-Tabelle. Abgrenzung: nicht Wuerfel-Aufbau (Vorbereitung). |
+Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Tabellenreview 3D klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `prompt-versionierung`
-
-**Fokus:** Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung.
-
-# /tabellenreview-3d:prompt-versionierung
-
 
 ## Triage zu Beginn
 
@@ -42,7 +27,6 @@ description: "Prompt Versionierung Paket Review im Plugin Tabellenreview 3D: pr�
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 
@@ -103,153 +87,3 @@ Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-p
 ## Grenzen
 
 Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.
-
-## 2. `pruefer-uebergabe-paket`
-
-**Fokus:** Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Prüfraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Übergabedokument für naechsten Prüfer. Abgrenzung: nicht Audit-Trail.
-
-# /tabellenreview-3d:prüfer-übergabe-paket
-
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-## Zweck
-
-Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Paket — alles was der zugelassene Rechtsanwalt braucht um in vertretbarer Zeit die Endabnahme machen zu können. Dieser Skill schnuert das Paket.
-
-## Bestandteile
-
-### 1. Hauptdatei
-
-- `<projekt>-wuerfel.xlsx` aus `excel-multi-sheet-export` mit allen Tabellenreitern.
-
-### 2. Erzählfassung
-
-- `<projekt>-bericht.pdf` aus `pdf-bericht-erzeugen` mit Deckblatt Management-Summary und Anhang.
-
-### 3. Belegkette
-
-- `belegkette.csv` aus `belegkette-rueckverfolgung` — Pflichtanhang für Reproduzierbarkeit.
-
-### 4. Audit
-
-- `audit-trail-auszug.md` aus `audit-trail-protokoll` — die letzten N Ereignisse, mindestens aber Lauf-Start Lauf-Ende Prompt-Versionen und Prüfer-Flags.
-
-### 5. Prompt-Versionen
-
-- `prompt-historie.yaml` aus `prompt-versionierung` — welche Versionen aktiv waren beim Lauf.
-
-### 6. Widersprüche
-
-- `widerspruchsbericht.md` aus `kreuzblatt-konsistenzpruefung` — Konflikte zwischen Arbeitsblättern.
-
-### 7. Ampel-Aggregat
-
-- `ampel-aggregat.md` aus `risikoampel-aggregation` — Gesamtbild auf Würfel- Arbeitsblatt- Spalten- und Zeilenebene.
-
-### 8. Prüfer-Flag-Arbeitsliste
-
-- `pruefer-flags.xlsx` — Liste aller Zellen die menschliche Prüfung brauchen. Spalten: Zeile Arbeitsblatt Spalte Grund Antwortvorschlag Entscheidung (leer).
-
-### 9. Begleitschreiben
-
-- `begleitschreiben.md` — eine Seite. Was wurde gemacht. Wie viele Dokumente. Wie viele Hotspots. Wie viele Prüfer-Flags. Erwartete Pruefdauer. Ablauf der Abnahme.
-
-## Zusammenstellung
-
-Alles in einem ZIP: `<projekt>-prüfer-paket-<zeitstempel>.zip`
-
-## Abnahme
-
-Der Prüfer:
-
-1. Liest das Begleitschreiben.
-2. Geht die Prüfer-Flag-Arbeitsliste durch — Entscheidung pro Flag.
-3. Stichprobenprüfung an gelben und grünen Zellen.
-4. Prüfung der roten Zellen und Hotspots vollständig.
-5. Unterschrift im Audit-Trail (`prüferabnahme.eingegeben`).
-
-## Erst nach Abnahme
-
-Erst nach dokumentierter Prüfer-Abnahme darf das Paket (oder Auszüge davon) an den Mandanten gehen. Das Plugin sperrt die Mandantenausgabe per Schwellenwert: ohne `prüferabnahme.eingegeben` im Audit-Trail wird der Skill `mandant-versenden` (sofern in der Praxis vorgesehen) verweigert.
-
-## Begründung
-
-- BRAO Paragraph 43a Absatz 2 — Verschwiegenheit
-- StGB Paragraph 203 — Privatgeheimnisse
-- RDG Paragraph 2 — Rechtsdienstleistung darf nur durch Rechtsanwalt erbracht werden — der Würfel ist Vorbereitung, die Abnahme ist die Rechtsdienstleistung
-
-## 3. `review-durchfuehren`
-
-**Fokus:** 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung. Output: Ausgefuellte 3D-Review-Tabelle. Abgrenzung: nicht Wuerfel-Aufbau (Vorbereitung).
-
-# /tabellenreview-3d:review-durchführen
-
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-## Zweck
-
-Das ist der Hauptlauf. Wenn der Würfel 25 Spalten 200 Zeilen und 5 Arbeitsblätter hat sind das 25.000 Zellen. Jede Zelle braucht: Antwort + wörtliches Zitat + Fundstelle + Ampel + Prüfer-Flag.
-
-## Eingaben
-
-- `wuerfel-schema.yaml`
-- `spaltenprompts.yaml`
-- `zeilenprompts.yaml`
-- `arbeitsblaetter.yaml`
-- `zeilen-inventar.yaml`
-- Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
-
-## Ablauf pro Zelle
-
-1. **Prompt zusammenführen:** Arbeitsblatt-Perspektive vor Spaltenprompt vor Zeilenprompt. Konflikte protokollieren.
-2. **Quelldokument öffnen:** Pfad + Hash gegen Inventar abgleichen — falls Hash abweicht: Belegkette unterbrochen Prüfer-Flag setzen.
-3. **Antwort extrahieren:** Antworttyp aus Spaltenprompt-Definition beachten (Freitext / zitat-mit-fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung).
-4. **Belegkette schreiben:** wörtliches Zitat in Anführungszeichen, danach Fundstelle (Datei-ID + Seite + Absatz + ggf. Ziffer).
-5. **Ampel setzen:** anhand `ampel-regel` aus dem Spaltenprompt (rot / gelb / grün).
-6. **Prüfer-Flag setzen wenn:**
- - OCR-Konfidenz unter 90 Prozent
- - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
- - Konflikt zwischen Spalten- und Zeilenprompt
- - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
-7. **Querweis aufbauen:** wenn Zellen-Ergebnis auf anderen Vertrag referenziert (`siehe Anlage 7 zu Vertrag X`) als Cross-Ref vermerken.
-8. **Cache prüfen:** bei Quasi-Duplikaten (Ähnlichkeit über 95 Prozent) zur Zelle eines bereits geprüften Dokuments Cache-Treffer vorschlagen — Prüfer entscheidet ob übernommen.
-
-## Ausgabeformat
-
-- `wuerfel.parquet` (oder JSON) mit einer Zeile pro Zelle:
-
-```
-arbeitsblatt-id, zeile-id, spalte-id, antwort, woertliches-zitat, fundstelle, ampel, prüfer-flag, prompt-version, lauf-zeitstempel
-```
-
-- `lauf-zusammenfassung.md` — Anzahl Zellen pro Ampel, Anzahl Prüfer-Flags, Anzahl Cache-Treffer, Laufdauer, Modell-Version, Audit-Trail-Eintrag-ID.
-
-## Reihenfolge
-
-Standard: Arbeitsblatt-außen, Zeile-mittel, Spalte-innen. Optional: Spalte-außen wenn Spaltenprompt aufwaendig (z. B. Volltext-Indexierung) und über den Stapel gemeinsam profitiert.
-
-## Grenzen
-
-Jede Zelle ist ein Hinweis kein Befund. Prüfer-Flags sind die wichtigste Ausgabe — sie sagen wo der menschliche Prüfer hinschauen muss. Untermarkierung ist eine Einbahnstraße; Übermarkierung ist eine Zweiwegtür die ein Anwalt in 30 Sekunden schließt.

@@ -116,7 +116,6 @@ System: [NAME]
 
 Stand: 05/2026. Maßgeblich sind Art. 3, 5, 6, 50, 51 bis 55 und Anhang III KI-VO. Keine Rechtsberatung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

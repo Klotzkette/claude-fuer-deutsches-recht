@@ -5,12 +5,26 @@ description: "Dokument: Behörden-, Gerichts- oder Registerweg: sortiert Dokumen
 
 # Dokument: Behörden-, Gerichts- oder Registerweg
 
-## Spezialwissen: Dokument: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Dokument: Behörden-, Gerichts- oder Registerweg / dokument behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
+- `§ 536 Abs. 1 BGB` — Minderung.
+- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
+- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
+- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
+- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
+- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
+- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
+- `§ 259 BGB` — Rechnungslegung.
+- `§ 2 BetrKV` — Betriebskostenarten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
+## Spezialwissen: Dokument: Behörden-, Gerichts- oder Registerweg
+- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

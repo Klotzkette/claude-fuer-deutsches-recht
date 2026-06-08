@@ -13,16 +13,16 @@ description: "Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. Z
 
 ## Worum geht es?
 
-Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH fuer die Anwaltskosten wichtig.
+Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH für die Anwaltskosten wichtig.
 
 ## In einfacher Sprache
 
-Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn fuer Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
+Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben wenig Einkommen und Vermoegen.
-- Sie wollen einen Anwalt fuer Ihr SG-Verfahren.
+- Sie wollen einen Anwalt für Ihr SG-Verfahren.
 - Sie haben Sorge, dass Anwaltskosten zu hoch werden.
 
 ## Fachbegriffe (kurz erklaert)
@@ -34,11 +34,11 @@ Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn fuer Sie. D
 
 ## Rechtsgrundlagen
 
-- **§ 73a SGG** — Prozesskostenhilfe-Bestimmungen fuer SG/LSG.
+- **§ 73a SGG** — Prozesskostenhilfe-Bestimmungen für SG/LSG.
 - **§§ 114 ff. ZPO** — Allgemeine PKH-Vorschriften.
 - **§ 117 ZPO** — PKH-Erklaerung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie wirtschaftlich PKH-berechtigt sind
 
@@ -51,9 +51,9 @@ Sicherheitsformel: Wer Buergergeld bekommt oder kurz drueber liegt, hat in der R
 ### Schritt 2 — Anwalt suchen
 
 - VdK oder SoVD als Mitglied: oft inklusive
-- Anwalt fuer Sozialrecht (Suche unter www.rechtsanwaltsregister.org)
+- Anwalt für Sozialrecht (Suche unter www.rechtsanwaltsregister.org)
 - "Beratungshilfe-Anwalt" beim Amtsgericht erfragen
-- Anwalt bekommen Sie schwerer fuer reine PKH-Mandate; lange Verhandlungen evtl. Anwaltskammer-Empfehlung
+- Anwalt bekommen Sie schwerer für reine PKH-Mandate; lange Verhandlungen evtl. Anwaltskammer-Empfehlung
 
 ### Schritt 3 — PKH-Antrag stellen
 
@@ -71,7 +71,7 @@ Antrag auf Prozesskostenhilfe gem. § 73a SGG i.V.m. §§ 114 ff. ZPO
 
 Ich beantrage:
 
-1. Mir wird Prozesskostenhilfe gewaehrt fuer das Verfahren wegen [Stichwort].
+1. Mir wird Prozesskostenhilfe gewaehrt für das Verfahren wegen [Stichwort].
 
 2. Mir wird Rechtsanwalt/Rechtsanwaeltin [Name, Adresse] als Prozessbevollmaechtigter beigeordnet.
 
@@ -152,7 +152,6 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
-
 
 ## Qualitäts-Hardening
 

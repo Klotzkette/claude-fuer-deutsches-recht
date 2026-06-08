@@ -1,6 +1,6 @@
 ---
 name: kollisionsrecht-ipr-agb
-description: "Einstiegs- und Prüffeld für Kollisionsrecht IPR AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Prüfungslinie für Kollisionsrecht IPR AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Kollisionsrecht IPR AGB

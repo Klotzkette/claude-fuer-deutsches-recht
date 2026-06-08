@@ -1,51 +1,34 @@
 ---
 name: immor-bodenrichtwert-betriebskostenabrechnung
-description: "Immor Bodenrichtwert Betriebskostenabrechnung im Plugin Immobilienrechtspraxis: prüft konkret Spezialfall Bodenrichtwert und Bewertung im Erb- und, Betriebskostenabrechnung im Asset- und Property-Management, Betriebskostenabrechnung im Immobilienportfolio prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster für Finanzamt und Gutachter im Immobilienrechtspraxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Immor Bodenrichtwert Betriebskostenabrechnung
+# ImmoR: Bodenrichtwert-Bewertung
 
 ## Arbeitsbereich
 
-**Immor Bodenrichtwert Betriebskostenabrechnung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Bodenrichtwert und Bewertung im Erb- und, Betriebskostenabrechnung im Asset- und Property-Management, Betriebskostenabrechnung im Immobilienportfolio prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `immor-bodenrichtwert-bewertung-spezial` | Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster fuer Finanzamt und Gutachter. |
-| `betriebskostenabrechnung-erstellen-asset-management` | Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket. |
-| `betriebskostenabrechnung-pruefen-asset-management` | Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkulation. |
+Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster für Finanzamt und Gutachter. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Immobilienrechtspraxis klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `immor-bodenrichtwert-bewertung-spezial`
-
-**Fokus:** Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster fuer Finanzamt und Gutachter.
-
-# ImmoR: Bodenrichtwert-Bewertung
 
 ## Fachkern: ImmoR: Bodenrichtwert-Bewertung
-- **Spezialgegenstand:** ImmoR: Bodenrichtwert-Bewertung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
 - **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -73,119 +56,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 2. `betriebskostenabrechnung-erstellen-asset-management`
-
-**Fokus:** Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket.
-
-# Betriebskostenabrechnung erstellen
-
-## Fachkern: Betriebskostenabrechnung erstellen
-- **Spezialgegenstand:** Betriebskostenabrechnung erstellen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
-- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Aufgabe
-
-Dieser Skill erstellt eine vermieterseitige Betriebskostenabrechnung für Immobilienportfolios, Mischobjekte und WEG-Sondereigentum. Er ist für Property Manager, Asset Manager, Rechtsabteilungen und Kanzleien gedacht, die aus Buchhaltung, WEG-Abrechnung, Dienstleisterrechnungen und Mietvertragsdaten eine versandfähige Abrechnung bauen müssen.
-
-## Einstieg
-
-1. Objektart: Wohnraum, Gewerbe, Mischobjekt, WEG-Sondereigentum, Quartier?
-2. Abrechnungsjahr, Mietfläche, Leerstände, Nutzerwechsel, Vorauszahlungen.
-3. Mietvertragsklauseln: BetrKV-Verweis, konkrete Kostenliste, Pauschale, Umsatzsteueroption, sonstige Betriebskosten.
-4. Datenquellen: Buchhaltung, WEG-Jahresabrechnung, Heizkostenabrechnung, CO2-Angaben, Dienstleisterverträge, Zahlungsbelege.
-5. Gewünschtes Ergebnis: Einzelabrechnung, Portfoliomatrix, Mieteranschreiben, Belegepaket, Korrekturworkflow.
-
-## Erstellungsschritte
-
-1. **Umlagegrundlage je Mietvertrag** prüfen. Ohne vertragliche Grundlage keine Nachforderung.
-2. **Kostenarten-Mapping** nach BetrKV oder Gewerbemietvertrag: Verwaltung, Instandhaltung und Finanzierungskosten aussondern.
-3. **WEG-Daten übersetzen**: Verwalterhonorar, Rücklage und Reparaturen nicht in die Mieterabrechnung übernehmen; umlagefähige Positionen neu schlüsseln.
-4. **Gewerbe-Vorwegabzug**: Restaurant, Praxis, Laden, Tiefgarage oder Sondernutzung gesondert prüfen.
-5. **Heizkosten** nach HeizkostenV gesondert verarbeiten; Kürzungsrisiken bei fehlender Verbrauchserfassung markieren.
-6. **CO2-Kosten** nach CO2KostAufG rechnen; Vermieteranteil herausnehmen.
-7. **Vorauszahlungskonto** abgleichen: Soll, Ist, Nutzerwechsel, Guthaben, Nachzahlung.
-8. **Versand-Qualitygate**: Zugangsnachweis, Abrechnungsfrist, Belegarchiv, Ansprechpartner.
-
-## Rechenmatrix
-
-| Position | Quelle | Umlagegrundlage | Schlüssel | Betrag brutto/netto | Mieteranteil | Belegstatus |
-| --- | --- | --- | --- | --- | --- | --- |
-| Grundsteuer | Bescheid | Vertrag/BetrKV | Fläche | [...] | [...] | [...] |
-| Versicherung | Police/Rechnung | BetrKV | Fläche/MEA | [...] | [...] | [...] |
-| Hausmeister | Vertrag/Stunden | BetrKV anteilig | Fläche | [...] | [...] | Split nötig |
-| Heizung | Heizkostenabrechnung | HeizkostenV | Verbrauch/Fläche | [...] | [...] | CO2 prüfen |
-| Verwalter | WEG | nicht umlagefähig | - | [...] | 0 | herausnehmen |
-
-## Output
-
-- Abrechnung je Mieter mit Saldo.
-- Beleg- und Datenraumindex.
-- internes Prüfprotokoll "umlagefähig / nicht umlagefähig / offen".
-- separates Schreiben zur Vorauszahlungsanpassung nach § 560 Abs. 4 BGB, wenn Wohnraum betroffen ist.
-
-## Quellenregel
-
-§ 556 BGB, § 556a BGB, BetrKV, HeizkostenV und CO2KostAufG aktuell prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
-## 3. `betriebskostenabrechnung-pruefen-asset-management`
-
-**Fokus:** Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkulation.
-
-# Betriebskostenabrechnung prüfen
-
-## Fachkern: Betriebskostenabrechnung prüfen
-- **Spezialgegenstand:** Betriebskostenabrechnung prüfen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
-- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Aufgabe
-
-Dieser Skill prüft Betriebskostenabrechnungen für Mieter, Vermieter, Käufer, Verkäufer, Asset Manager und Prozessanwälte. Er verbindet juristische Prüfung mit Datenprüfung: Buchhaltung, Rechnungen, Zahlungsbelege, Mietvertrag und Abrechnung müssen zusammenpassen.
-
-## Einstieg
-
-1. Wer prüft: Eigentümer, Käufer im Due-Diligence-Prozess, Mieter, Verwaltung, Rechtsabteilung?
-2. Was ist das Ziel: Zahlung verhindern, Nachforderung sichern, Kaufpreisrisiko bewerten, Musterfehler im Portfolio finden?
-3. Welche Abrechnung und welches Jahr? Zugangsnachweis vorhanden?
-4. Welche Daten liegen vor: Mietvertrag, Buchhaltung, WEG-Abrechnung, Rechnungen, Zahlungsbelege, Heizkosten, CO2?
-5. Gibt es mehrere Einheiten mit gleichem Fehler?
-
-## Prüfblöcke
-
-1. **Form**: Gesamtkosten, Schlüssel, Rechenweg, Vorauszahlungen, Saldo.
-2. **Frist**: Abrechnung binnen Jahresfrist zugegangen? Einwendungsfrist offen?
-3. **Kostenart**: BetrKV, Gewerbemietvertrag oder Individualabrede.
-4. **Belegtiefe**: Rechnungen plus Zahlungsbelege; bei Abflussprinzip Zahlungsfluss besonders wichtig.
-5. **Buchhaltungsabgleich**: Kostenstelle, Leistungszeitraum, Zahlung, Storno, Gutschrift.
-6. **Wirtschaftlichkeit**: ungewöhnliche Kostensteigerung, verbundene Unternehmen, Rahmenverträge, Doppelbuchung.
-7. **Schnittstellen**: WEG-Abrechnung, HeizkostenV, CO2KostAufG, Umsatzsteueroption, Gewerbe-Vorwegabzug.
-
-## Portfolio-Red-Flags
-
-- Verwalterkosten aus WEG-Abrechnung wurden automatisch auf Mieter umgelegt.
-- Reparaturanteile in Wartungsverträgen wurden nicht herausgerechnet.
-- CO2-Vermieteranteil fehlt.
-- Zahlungsbelege zeigen Skonto/Gutschrift, Abrechnung setzt Bruttorechnung an.
-- Gewerbeeinheit verursacht Sonderkosten, aber Wohnmieter tragen alles mit.
-- Abrechnung wurde nach Frist versendet, aber ohne Zugangsnachweis behauptet.
-
-## Output
-
-- Fehlerliste mit Betrag je Einheit.
-- Ampel: sofort korrigieren, verteidigen, vergleichen, Klagerisiko.
-- Mieter-/Vermieterschreiben.
-- Due-Diligence-Risikoanhang mit Rückstellungsvorschlag.
-
-## Quellenregel
-
-BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 nur mit frei prüfbarer Quelle zitieren. Keine BeckRS- oder juris-Blindfundstellen.

@@ -7,25 +7,25 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 ## Arbeitsbereich
 
-**Strafr Dysfunk Sitzungspolizei** ordnet den Fall über die tragenden Prüffelder: Sitzungspolizei §§ 176 ff, Verschleppungsabsicht nach § 244 Abs, Erste Reaktion wenn Gericht oder Staatsanwaltschaft den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Strafr Dysfunk Sitzungspolizei** ordnet den Fall über die tragenden Prüfungslinien: Sitzungspolizei §§ 176 ff, Verschleppungsabsicht nach § 244 Abs, Erste Reaktion wenn Gericht oder Staatsanwaltschaft den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafr-dysfunk-sitzungspolizei-ordnungsmittel` | Sitzungspolizei §§ 176 ff. GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsaetzlich nicht Adressat zwangsweiser Massnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnungsmittel als rechtliche Werkzeuge des Gerichts mit Voraussetzungen. Verteidigungsverhalten in Grenzsituationen Mandantenkommunikation Dokumentation Revisionsabsicherung. |
 | `strafr-dysfunk-verschleppungsabsicht-abgrenzen` | Verschleppungsabsicht nach § 244 Abs. 3 Satz 3 StPO als Sonderfall der Ablehnung von Beweisantraegen sauber abgrenzen. Doppelte Voraussetzung des Gerichts. Antrag wuerde nicht wesentlich zur Sachaufklaerung beitragen und Antragsteller weiss das. Auch der Reformvorschlag der StPO-Reformkommission BMJ wuerde das Tatbestandsbild verschaerfen aber nicht jeden spaeten Antrag als verschleppend behandeln. Konkrete Substantiierungspflicht der Kammer. |
 | `strafr-dysfunk-vorwurf-einordnen` | Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt. Sauber unterscheiden zwischen dysfunktionaler Verteidigung mit verdeckter Strategie und zielfuehrender harter Konfliktverteidigung. Begriff hat keinen Eingriffstatbestand und ist kein Rechtsbegriff. Empirische Datenlage zeigt geringe Fallzahlen. Pruefen ob konkrete Handlung gegen § 137 Abs. 1 StPO oder Standesrecht verstoesst oder nur unbequem ist. Reaktion souveraen dokumentieren ohne defensive Eskalation. |
 | `strafr-dysfunk-wahlverteidigerausschluss-138a` | Wahlverteidigerausschluss nach § 138a StPO abwehren. Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sicherheitsgefahren. Ausschluss ist ultima ratio und beruehrt das Beistandsrecht nach § 137 Abs. 1 StPO. Verteidigung gegen den Ausschlussantrag mit Bezug zu Beweisanforderungen Verhaeltnismaessigkeit und Verfahrensschutz. |
-| `strafr-revision-pruefung-spezial` | Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster fuer Revisionsbegruendung. |
+| `strafr-revision-pruefung-spezial` | Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster für Revisionsbegruendung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafr-dysfunk-sitzungspolizei-ordnungsmittel`
 
@@ -45,7 +45,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 - § 176 GVG: Aufrechterhaltung der Ordnung in der Sitzung durch Vorsitzenden. Wortentzug ist zulaessig wenn andere Mittel erschoepft.
 - § 177 GVG: Sitzungsausschluss bei Stoerung. Nach historischer Linie seit 1921 keine Zwangsmittel gegen Verteidiger.
 - § 178 GVG: Ordnungsgeld bei Ungebuehr.
-- § 138a StPO als spezifisches Instrument fuer Wahlverteidiger-Ausschluss.
+- § 138a StPO als spezifisches Instrument für Wahlverteidiger-Ausschluss.
 
 ## Verteidigerstellung
 
@@ -61,7 +61,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 ## Mandantenkommunikation
 
 - Bei Sitzungsunterbrechung Mandant informieren, dass dies eine Massnahme des Gerichts ist und die Verteidigungsstrategie davon nicht gestoppt wird.
-- Kurze Aktennotiz fuer den Mandanten.
+- Kurze Aktennotiz für den Mandanten.
 
 ## Pitfalls
 
@@ -206,7 +206,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 ## Praktisches Vorgehen
 
 - Schriftliche Stellungnahme gegen den Ausschlussantrag. Tatsachenbestreitung wo moeglich. Eidesstattliche Versicherung wenn sinnvoll.
-- Bei muendlicher Anhoerung: Sachvortrag mit Aktenstellen und Zeugen.
+- Bei muendlicher Anhörung: Sachvortrag mit Aktenstellen und Zeugen.
 - Bei Beschluss in der Hauptverhandlung: sofortige Beschwerde § 138d StPO pruefen.
 
 ## Pitfalls
@@ -228,25 +228,21 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 ## 5. `strafr-revision-pruefung-spezial`
 
-**Fokus:** Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster fuer Revisionsbegruendung.
+**Fokus:** Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster für Revisionsbegruendung.
 
 # StrafR: Revisionspruefung
 
 ## Spezialwissen: StrafR: Revisionspruefung
-- **Spezialgegenstand:** StrafR: Revisionspruefung / strafr revision pruefung spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -274,7 +270,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

@@ -157,7 +157,7 @@ Die Jahresfrist ist die dritte Zulässigkeitssäule und zugleich die schärfste 
 ## Ergänzende Rechtsprechung (Stand 05/2026)
 
 - **BVerwG 17.06.2020, 4 CN 6.18**: Anforderungen an die Bekanntmachung von Bebauungsplaenen — Anstossfunktion und Fristbeginn § 47 Abs. 2 VwGO. Quelle: bverwg.de.
-- **BVerwG 03.04.2020, 4 CN 2.19** (Erhaltungssatzung): Bekanntmachung und Fristbeginn fuer den Normenkontrollantrag. Quelle: bverwg.de.
+- **BVerwG 03.04.2020, 4 CN 2.19** (Erhaltungssatzung): Bekanntmachung und Fristbeginn für den Normenkontrollantrag. Quelle: bverwg.de.
 - **OVG NRW** und andere OVG/VGH: laufende Rspr. zu Bekanntmachungsmaengeln und Frist; konkrete Aktenzeichen ueber landesrecht-nrw.de bzw. die jeweilige Landesjustiz-Datenbank verifizieren.
 
 Vor Ausgabe per bverwg.de mit Datum und Aktenzeichen verifizieren.

@@ -7,10 +7,10 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 
 ## Arbeitsbereich
 
-**Kodifikationsalterung Lueckendisziplin** ordnet den Fall über die tragenden Prüffelder: Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kodifikationsalterung Lueckendisziplin** ordnet den Fall über die tragenden Prüfungslinien: Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `kodifikationsalterung-und-lueckendisziplin` | Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist. |
 | `konservative-methodenkritik-gesetzesbindung` | Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen. |
@@ -20,12 +20,12 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `kodifikationsalterung-und-lueckendisziplin`
 
@@ -40,7 +40,6 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Das BGB von 1900 stößt im digitalen Zeitalter auf Sachverhalte, die sein Gesetzgeber nicht kannte. Dieses Skill behandelt die methodisch schwierige Frage, wann Gerichte gealtertes Recht durch Rechtsfortbildung aktualisieren dürfen und wann dies Aufgabe des demokratischen Gesetzgebers ist. Es stärkt die methodische Disziplin bei der Handhabung von Alterungslücken.
 
@@ -131,7 +130,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die konservative Methodenkritik fordert eine strikte Rückbindung der Rechtsanwendung an den Normtext und den historischen Gesetzgeberwillen. Sie sieht in der richterlichen Rechtsfortbildung eine Gefährdung des Demokratieprinzips und der Rechtssicherheit. Dieses Skill systematisiert diese Kritik und prüft ihre methodische Berechtigung.
 
 ## Mandantenfall
@@ -219,7 +217,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Kontrolle von Abwägungsentscheidungen ist eine der anspruchsvollsten methodischen Aufgaben im Recht. Dieses Skill systematisiert die Kontrolldichte-Bestimmung, die rügbaren Abwägungsfehlertypen und die Grenze zur unzulässigen Ersatzabwägung. Es ist zentral für das Verwaltungsrecht, aber auch für die zivilrechtliche Überprüfung behördlicher und schiedsgerichtlicher Entscheidungen.
 
@@ -309,7 +306,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Zwei verwandte rechtskritische Stroemungen aus den USA, die das deutsche Methodendenken aus der Aussenperspektive in Frage stellen.
@@ -378,7 +374,7 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 **Beispiel BGH-Rechtsprechung zur Schwarzarbeit (§ 134 BGB iVm SchwarzArbG):** Konsequente Nichtigkeit von Schwarzarbeitsvertraegen und Versagung von Bereicherungsansprueechen sind Wertentscheidung — zu Lasten beider Parteien, zugunsten staatlicher Steuer- und Sozialversicherungsinteressen. Legal Realism / CLS macht diese Wertentscheidung sichtbar.
 
-## Schritt-fuer-Schritt (als kritische Pruefung)
+## Schritt-für-Schritt (als kritische Pruefung)
 
 1. **Wertungen offenlegen.** Welche Wertungen stecken in der Auslegung, die als "selbstverstaendlich" erscheint?
 2. **Alternative Auslegungen pruefen.** Welche anderen Auslegungen waeren methodisch vertretbar?
@@ -433,7 +429,6 @@ Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -456,10 +451,9 @@ Stand: Mai 2026.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
+Anwendungsfall: eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
 
 ## Prüfroutine
 

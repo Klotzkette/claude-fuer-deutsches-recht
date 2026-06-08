@@ -1,28 +1,46 @@
 ---
 name: team-sonderfall
-description: "Team Sonderfall im DFG-Förderantragstellung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Team Sonderfall im DFG-Förderantragstellung im DFG-Förderantrag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Team Sonderfall
 
 ## Arbeitsbereich
 
-**Team Sonderfall** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Team Sonderfall** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-team-sonderfall-und-edge-case` | Team: Sonderfall und Edge-Case-Prüfung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Team Sonderfall**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im DFG-Förderantragstellung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DFG-Antragsfristen programmspezifisch (Sachbeihilfe rollierend, Schwerpunktprogramme stichtagsgebunden), Verwendungsnachweis 6 Monate nach Projektende, Zwischenbericht jährlich.
 - Tragende Normen verifizieren: DFG-Verwendungsrichtlinien, BGB §§ 611 ff. (Drittmittelvertrag), HRG/Landeshochschulgesetze, WissZeitVG, EU-Beihilferecht (Forschung), BMBF/BMWK-Förderrichtlinien, DFG-Kodex Leitlinien zur Sicherung guter wissenschaftlicher Praxis — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Principal Investigator), DFG-Fachkollegien, DFG-Geschäftsstelle, Hochschulverwaltung/Forschungsreferat, BMBF/BMWK, Gutachter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Antragsformular elan, Projektbeschreibung, Lebenslauf mit Publikationsliste, Finanzplan, Letter of Intent, Verwendungsnachweis, Zwischenbericht, Abschlussbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-team-sonderfall-und-edge-case`
 
@@ -31,11 +49,7 @@ description: "Team Sonderfall im DFG-Förderantragstellung: fachlicher Arbeitsga
 # Team: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Team: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Team: Sonderfall und Edge-Case-Prüfung / team sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

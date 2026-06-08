@@ -64,7 +64,6 @@ Auch die Subunternehmer müssen über §§ 203, 204 StGB belehrt werden (Abs. 4 
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Punkt | Fundstelle | Ampel | Bemerkung |
 |---|---|---|---|
 | Festlegung Befugnis im Vertrag | | | |
@@ -114,7 +113,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. Ist ein Zustimmungsvorbehalt oder Widerspruchsrecht der Kanzlei geregelt?
 3. Verpflichtet der Vertrag den Dienstleister, Subunternehmer in Textform auf §§ 203/204 StGB zu belehren?
 4. Sind Modellanbieter (z.B. OpenAI als API-Lieferant) und Hoster als separate Subunternehmer benannt?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

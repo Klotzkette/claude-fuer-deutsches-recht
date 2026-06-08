@@ -26,7 +26,7 @@ Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht. Ei
 - **§ 371 ZPO** — Augenscheinsbeweis.
 - **§ 371a ZPO** — Elektronische Dokumente.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Eignung pruefen
 
@@ -42,7 +42,7 @@ Augenscheinsbeweis sinnvoll, wenn:
 Beweis: Inaugenscheinnahme der defekten
 Waschmaschine (Marke X, Modell Y) am
 Wohnort des Klaegers, [Adresse], zum Beweis
-dafuer, dass das Geraet einen Wasserschaden
+dafür, dass das Geraet einen Wasserschaden
 und nicht-betriebsfaehige Trommel-Lagerung
 aufweist.
 ```
@@ -123,7 +123,6 @@ Vor-Ort-Termin: Reisekosten Gericht, ggf. Sachverstaendiger anwesend. Kosten mei
 
 Stand: 05/2026. § 371 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -131,3 +130,25 @@ Stand: 05/2026. § 371 ZPO unveraendert.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+

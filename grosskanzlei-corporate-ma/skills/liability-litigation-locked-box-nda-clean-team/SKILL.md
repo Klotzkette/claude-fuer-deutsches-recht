@@ -7,31 +7,31 @@ description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (G
 
 ## Arbeitsbereich
 
-**Liability Litigation Locked BOX NDA Clean Team** ordnet den Fall über die tragenden Prüffelder: Liability Limitations, Basket, De Minimis und Cap. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Liability Litigation Locked BOX NDA Clean Team** ordnet den Fall über die tragenden Prüfungslinien: Liability Limitations, Basket, De Minimis und Cap. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `grosskanzlei-corporate-ma-liability-limitations-basket-cap` | Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjaehrung und Buyer Protections im SPA. |
+| `grosskanzlei-corporate-ma-liability-limitations-basket-cap` | Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjährung und Buyer Protections im SPA. |
 | `grosskanzlei-corporate-ma-litigation-disputes-dd` | Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer. |
 | `grosskanzlei-corporate-ma-locked-box-completion-accounts` | Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik. |
 | `grosskanzlei-corporate-ma-look-and-feel` | Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Prüfraster Statuskarten-Format, Ampelfarben, Deal-Phasenlayout, Risikokategorien, Owner-Matrix-Darstellung. Output konsistente visuelle Arbeitsoberflaeche für Partner, Counsel, Associate und Mandant. Abgrenzung zu Ausgabe-Versand-Signing für tatsaechlichen Versand und zu Schreibcanvas für inhaltliche Qualitaet. |
 | `grosskanzlei-corporate-ma-mac-ordinary-course-covenants` | MAC, Ordinary Course und Interim Covenants: prueft Signing-to-Closing-Pflichten, Zustimmungsvorbehalte, Notice-Prozesse und Covenant-Verstoesse. |
-| `grosskanzlei-corporate-ma-management-presentation-prep` | Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle fuer M&A-Managementtermine vor. |
-| `grosskanzlei-corporate-ma-nda-clean-team-protokoll` | NDA- und Clean-Team-Protokoll fuer Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin. |
+| `grosskanzlei-corporate-ma-management-presentation-prep` | Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle für M&A-Managementtermine vor. |
+| `grosskanzlei-corporate-ma-nda-clean-team-protokoll` | NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Grosskanzlei Corporate Ma klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `grosskanzlei-corporate-ma-liability-limitations-basket-cap`
 
-**Fokus:** Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjaehrung und Buyer Protections im SPA.
+**Fokus:** Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjährung und Buyer Protections im SPA.
 
 # Liability Limitations Basket Cap
 
@@ -43,16 +43,13 @@ description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (G
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Liability Limitations Basket Cap
-- **Spezialgegenstand:** Liability Limitations Basket Cap; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
-Das Haftungsregime ist zentraler Deal-Engpass oder muss fuer Anfaenger verstaendlich modelliert werden.
+Das Haftungsregime ist zentraler Deal-Engpass oder muss für Anfaenger verstaendlich modelliert werden.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.
@@ -68,7 +65,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -90,7 +87,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -105,17 +102,16 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -133,16 +129,13 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Litigation Disputes DD
-- **Spezialgegenstand:** Litigation Disputes DD; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
-Rechtsstreitigkeiten oder Behoerdenverfahren sind im Datenraum oder Management Call aufgetaucht.
+Rechtsstreitigkeiten oder Behördenverfahren sind im Datenraum oder Management Call aufgetaucht.
 
 ## Intake
 Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.
@@ -158,7 +151,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -180,7 +173,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -195,17 +188,16 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -223,13 +215,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Locked Box Completion Accounts
-- **Spezialgegenstand:** Locked Box Completion Accounts; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Term Sheet oder SPA soll eine Kaufpreismechanik enthalten oder ein Markup greift Kaufpreisanpassungen an.
@@ -248,7 +237,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -270,7 +259,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -285,17 +274,16 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -313,13 +301,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Corporate-Cowork-Look
-- **Spezialgegenstand:** Corporate-Cowork-Look; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -450,7 +435,7 @@ Definiert die sichtbare Oberfläche: sehr ruhig, edel, bläulich-silbern mit war
 ### Normen und Quellen im M&A-Kontext
 - § 43a BRAO — anwaltliche Pflichten: Sorgfalt, Vollstaendigkeit, Unabhaengigkeit
 - §§ 675, 280 BGB — Beraterhaftung bei Pflichtverletzung
-- § 17 GeschGehG — Schutz von Geschaeftsgeheimnissen; gilt fuer alle Mandatsinhalte
+- § 17 GeschGehG — Schutz von Geschäftsgeheimnissen; gilt für alle Mandatsinhalte
 - Art. 17 MAR — bei boersennotierten Zielobjekten: Ad-hoc-Pflicht und Vertraulichkeit
 
 ### Leitsaetze aus der Rechtsprechung
@@ -463,17 +448,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Human-in-the-loop bei allen hochrisikorelevanten Ausgaben
 - Dokumentation: Datum, Bearbeiter, Freigabe durch Senior
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -491,13 +475,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: MAC Ordinary Course Covenants
-- **Spezialgegenstand:** MAC Ordinary Course Covenants; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Zwischen Signing und Closing muss das Target gefuehrt und das Risiko neuer Ereignisse verteilt werden.
@@ -516,7 +497,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -538,7 +519,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -553,23 +534,22 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 6. `grosskanzlei-corporate-ma-management-presentation-prep`
 
-**Fokus:** Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle fuer M&A-Managementtermine vor.
+**Fokus:** Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle für M&A-Managementtermine vor.
 
 # Management Presentation Prep
 
@@ -581,13 +561,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Management Presentation Prep
-- **Spezialgegenstand:** Management Presentation Prep; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Vor oder nach Management Presentations sollen juristische und kommerzielle Fragen sauber gebearbeitet werden.
@@ -606,7 +583,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -628,7 +605,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -643,23 +620,22 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 7. `grosskanzlei-corporate-ma-nda-clean-team-protokoll`
 
-**Fokus:** NDA- und Clean-Team-Protokoll fuer Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
+**Fokus:** NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
 
 # NDA Clean Team Protokoll
 
@@ -671,13 +647,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: NDA Clean Team Protokoll
-- **Spezialgegenstand:** NDA Clean Team Protokoll; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Vor Datenraumzugang, Wettbewerber-DD oder Austausch sensibler Informationen muss der Prozess wasserdicht organisiert werden.
@@ -696,7 +669,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 ## Agentischer Arbeitsmodus
 1. **Sofortbild bauen:** Fasse zuerst Dealtyp, Partei, Phase, Eilpunkte und fehlende Unterlagen in fuenf Zeilen zusammen.
 2. **Eigenstaendig nachziehen:** Wenn Angaben fehlen, arbeite mit gekennzeichneten Annahmen und fuehre eine kurze Lueckenliste. Nicht wegen Nebensachen stehen bleiben.
-3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behoerdenstand pruefen oder als Live-Check-Aufgabe ausweisen.
+3. **Quellen- und Aktualitaetsgate setzen:** Bei Fusionskontrolle, FDI, FSR, Kapitalmarkt, Umwandlung, StaRUG, Steuer oder Register niemals alte Schwellen blind verwenden. Aktuellen Gesetzes-/Behördenstand pruefen oder als Live-Check-Aufgabe ausweisen.
 4. **Deal-Praxis vor Lehrbuch:** Liefere verwertbare Dokumente, Tabellen, Klauselvorschlaege, Entscheidungsvorlagen oder naechste Arbeitsschritte. Theorie nur soweit, wie sie eine Entscheidung verbessert.
 5. **Red-Team-Schleife:** Suche aktiv nach dem Punkt, an dem der Entwurf scheitern koennte: fehlender Beleg, falscher Adressat, schwache Subsumtion, unklare Vollmacht, falsche Risikoverteilung, unrealistisches Timing.
 
@@ -718,7 +691,7 @@ Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
 Fuer Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
 
 ## Standard-Deliverables
-- Kurzbild fuer Partner oder Mandant.
+- Kurzbild für Partner oder Mandant.
 - Workstream-Tabelle mit Ampel und Owner.
 - Issue-/Risk-Liste mit Priorisierung.
 - Entwurf oder Textbausteine, soweit der Input reicht.
@@ -733,16 +706,15 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

@@ -7,10 +7,10 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-**Beweismittel Vorab Dokumenten Erzeugung** ordnet den Fall über die tragenden Prüffelder: Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Beweismittel Vorab Dokumenten Erzeugung** ordnet den Fall über die tragenden Prüfungslinien: Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `beweismittel-vorab-sammeln-checkliste` | Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist. |
 | `dokumenten-erzeugung-pdf-laien-amtsgericht` | PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools. |
@@ -18,12 +18,12 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `beweismittel-vorab-sammeln-checkliste`
 
@@ -45,7 +45,7 @@ Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen koennen (Be
 
 - **Beweismittel**: Mittel zur Ueberzeugung des Gerichts (Urkunde, Zeuge, Sachverstaendiger, Augenschein, Parteivernehmung).
 - **Beweiswert**: Wie ueberzeugend ein Beweismittel ist (Urkunde > Email > Zeuge mit nicht klarer Erinnerung).
-- **Hilfsbeweis**: Beweis fuer eine Hilfstatsache, aus der das Gericht auf die Haupttatsache schliesst (Indiz).
+- **Hilfsbeweis**: Beweis für eine Hilfstatsache, aus der das Gericht auf die Haupttatsache schliesst (Indiz).
 
 ## Rechtsgrundlagen
 
@@ -57,7 +57,7 @@ Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen koennen (Be
 - **§ 402 ZPO** — Sachverstaendigenbeweis.
 - **§ 445 ZPO** — Parteivernehmung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Chronologie erstellen
 
@@ -127,7 +127,7 @@ Wenn technische / medizinische Fragen offen sind:
 
 Eigene Aussage ist im Zivilprozess **kein** vollwertiges Beweismittel. Sie wirkt erst durch Parteivernehmung (§ 445 ZPO), und nur eingeschraenkt. Skill `parteivernehmung-445-ff-zpo`.
 
-### Schritt 7 — Beweismittel-Liste fuer Klage
+### Schritt 7 — Beweismittel-Liste für Klage
 
 Erstellen Sie eine Tabelle:
 
@@ -155,14 +155,14 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 ## Worauf Sie besonders achten muessen
 
 - **Originale aufbewahren**: Im Prozess werden Originale teilweise verlangt. Kopien reichen am Anfang, aber halten Sie das Original bereit.
-- **Datenschutz**: Bei Email/Chats: Speichern fuer eigene Zwecke ist okay; weitergeben darf nur, wer Berechtigung hat.
+- **Datenschutz**: Bei Email/Chats: Speichern für eigene Zwecke ist okay; weitergeben darf nur, wer Berechtigung hat.
 - **Zeugen-Erinnerung verblasst**: Befragen Sie Zeugen frueh, lassen Sie eine schriftliche Erklaerung schreiben.
 - **Foto-Beweise mit EXIF-Daten**: Stellen Sie sicher, dass Foto-Datum erhalten bleibt. Smartphones speichern das automatisch.
 
 ## Typische Fehler
 
-- "Ich kann das alles vor Gericht erklaeren." → Im Schriftsatz muessen Sie es **vortragen** und Beweis benennen. Erklaerung im Termin reicht nicht fuer den Beweisantrag.
-- "Email reicht als Beweis fuer alles." → Email ist Urkundenbeweis nur eingeschraenkt — Authentizitaet kann bestritten werden.
+- "Ich kann das alles vor Gericht erklaeren." → Im Schriftsatz muessen Sie es **vortragen** und Beweis benennen. Erklaerung im Termin reicht nicht für den Beweisantrag.
+- "Email reicht als Beweis für alles." → Email ist Urkundenbeweis nur eingeschraenkt — Authentizitaet kann bestritten werden.
 - "Zeuge ist mein Ehepartner, der weiss alles." → Naher Angehoeriger hat Zeugnis-Verweigerungsrecht (§ 383 ZPO) und Aussagewert wird kritisch beurteilt.
 - "Ich erinnere mich, dass ..." → Eigene Aussage hat geringen Beweiswert.
 
@@ -179,7 +179,6 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 
 Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -192,7 +191,7 @@ Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
 
 **Fokus:** PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools.
 
-# PDF-Erzeugung fuer Ihre Klage — von Word bis Scanner-App
+# PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App
 
 ## Worum geht es?
 
@@ -208,19 +207,19 @@ Das Gericht erwartet heute fast immer **PDF-Dateien**. Diese Skill zeigt Ihnen, 
 ## Fachbegriffe (kurz erklaert)
 
 - **PDF**: Portable Document Format. Ein Format, das auf jedem Geraet gleich aussieht.
-- **PDF/A**: Eine spezielle Version von PDF fuer die Archivierung. Das Gericht akzeptiert diese Variante besonders gerne.
+- **PDF/A**: Eine spezielle Version von PDF für die Archivierung. Das Gericht akzeptiert diese Variante besonders gerne.
 - **OCR**: Texterkennung — wandelt ein Bild-PDF in ein durchsuchbares Text-PDF um.
 
-## Schritt-fuer-Schritt — PDF aus Word/LibreOffice
+## Schritt-für-Schritt — PDF aus Word/LibreOffice
 
 ### Schritt 1 — Klageschrift fertig schreiben
 
-Schriftart Times New Roman oder Arial, 12pt, Zeilenabstand 1,5. Siehe `anlagen-formatieren-k1-k2-pdf-amtsgericht` fuer Details.
+Schriftart Times New Roman oder Arial, 12pt, Zeilenabstand 1,5. Siehe `anlagen-formatieren-k1-k2-pdf-amtsgericht` für Details.
 
 ### Schritt 2 — Als PDF exportieren
 
 **In Word:**
-- Datei → Exportieren → PDF/XPS-Dokument erstellen → "Veroeffentlichen".
+- Datei → Exportieren → PDF/XPS-Dokument erstellen → "Veröffentlichen".
 - Dateityp: **PDF/A** (wenn moeglich).
 
 **In LibreOffice:**
@@ -237,7 +236,7 @@ Oeffnen Sie das fertige PDF und scrollen Sie es durch. Pruefen Sie:
 
 Wenn ja, ist das PDF einreichbar.
 
-## Schritt-fuer-Schritt — Papier scannen
+## Schritt-für-Schritt — Papier scannen
 
 ### Schritt 1 — Scanner waehlen
 
@@ -306,7 +305,7 @@ Geben Sie Ihren PDFs aussagekraeftige Namen:
 2025-05-27_Anlage_K2_Rechnung.pdf
 ```
 
-Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hilft Ihnen selbst, das Richtige zu finden.
+Das Datum am Anfang sorgt für chronologische Sortierung. Der Inhalt im Namen hilft Ihnen selbst, das Richtige zu finden.
 
 **Vermeiden Sie:**
 - Leerzeichen ("Anlage K1.pdf" - geht, aber unterstrich ist besser)
@@ -315,7 +314,7 @@ Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hi
 
 ## Worauf Sie besonders achten muessen
 
-- **PDF/A bevorzugen** fuer Klageschrift und eigene Schriftsaetze (Archiv-Format).
+- **PDF/A bevorzugen** für Klageschrift und eigene Schriftsaetze (Archiv-Format).
 - **Lesbarkeit pruefen** vor dem Absenden.
 - **Datenschutz** bei Online-Tools: lokale Programme nutzen, wenn sensible Daten dabei sind.
 - **Dateigroesse**: Wenn ueber 60 MB → komprimieren.
@@ -338,7 +337,6 @@ Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hi
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vom Gericht bevorzugte Format. Praxis-Hinweise zu Tools sind unverbindliche Empfehlungen.
-
 
 ## Qualitäts-Hardening
 
@@ -368,14 +366,14 @@ Verfahrenssprache ist Deutsch (§ 184 GVG). Wenn Sie nicht ausreichend Deutsch k
 
 - **Verfahrenssprache**: Sprache, in der das Verfahren stattfindet (Deutsch).
 - **Dolmetscher**: Person, die zwischen Verfahrenssprache und einer anderen Sprache uebersetzt.
-- **Uebersetzer**: Person fuer schriftliche Uebersetzungen.
+- **Uebersetzer**: Person für schriftliche Uebersetzungen.
 
 ## Rechtsgrundlagen
 
 - **§ 184 GVG** — Verfahrenssprache Deutsch.
 - **§ 185 GVG** — Beizug Dolmetscher.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Bedarf
 
@@ -394,7 +392,7 @@ Aktenzeichen: [AZ]
 
 In der Sache [Klaeger] ./. [Sie]
 beantrage ich gemaess § 185 GVG die
-Hinzuziehung eines Dolmetschers fuer die
+Hinzuziehung eines Dolmetschers für die
 Sprache [Sprache] zum Termin am [Datum].
 
 Begruendung:
@@ -441,7 +439,7 @@ Hinweis: Der Zeuge spricht nur Tuerkisch;
 Dolmetscher erforderlich.
 ```
 
-Gericht stellt Dolmetscher fuer Zeugenvernehmung bereit.
+Gericht stellt Dolmetscher für Zeugenvernehmung bereit.
 
 ### Schritt 8 — Bei Sprach-Schwierigkeiten ohne Antrag
 
@@ -451,7 +449,7 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 
 - **Vor Termin Antrag stellen**.
 - **Sprach-Niveau realistisch einschaetzen**.
-- **Beglaubigte Uebersetzungen** fuer Urkunden bei Bedarf.
+- **Beglaubigte Uebersetzungen** für Urkunden bei Bedarf.
 - **Recht auf faires Verfahren** (Art. 6 EMRK).
 
 ## Typische Fehler
@@ -470,7 +468,6 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG unveraendert.
-
 
 ## Qualitäts-Hardening
 

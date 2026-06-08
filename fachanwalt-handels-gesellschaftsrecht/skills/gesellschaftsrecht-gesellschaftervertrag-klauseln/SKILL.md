@@ -1,33 +1,33 @@
 ---
 name: gesellschaftsrecht-gesellschaftervertrag-klauseln
-description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüffeld für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüfungslinie für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Gesellschaftervertrag Klauseln
 
 ## Arbeitsbereich
 
-**Gesellschaftervertrag Klauseln** ordnet den Fall über die tragenden Prüffelder: Gesellschaftervertrag, Prüffeld für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gesellschaftervertrag Klauseln** ordnet den Fall über die tragenden Prüfungslinien: Gesellschaftervertrag, Prüfungslinie für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe` | Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Prüffeld für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `hgr-kollektivverteidigung-direktorenhaftung-spezial` | Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster fuer einheitliche Strategie und Pflichtenkollision. |
+| `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe` | Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Prüfungslinie für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `hgr-kollektivverteidigung-direktorenhaftung-spezial` | Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster für einheitliche Strategie und Pflichtenkollision. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftervertrag: Abschlussprodukt und Übergabe
 
@@ -39,13 +39,8 @@ description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesell
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Gesellschaftervertrag: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Gesellschaftervertrag: Abschlussprodukt und Übergabe / gesellschaftervertrag abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -77,16 +72,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung`
 
-**Fokus:** Prüffeld für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -98,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 6. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 7. Wurde ein Gesellschafterbeschluss zur Geltendmachung nach § 46 Nr. 8 GmbHG gefasst?
 8. Besteht Strafbarkeit — Untreue § 266 StGB, Vorenthalten Sozialversicherung § 266a StGB?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -132,7 +126,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Prüfschema Geschäftsführerhaftung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -288,7 +281,6 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -362,7 +354,7 @@ Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
 
 ## 3. `hgr-kollektivverteidigung-direktorenhaftung-spezial`
 
-**Fokus:** Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster fuer einheitliche Strategie und Pflichtenkollision.
+**Fokus:** Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster für einheitliche Strategie und Pflichtenkollision.
 
 # HGR: Kollektivverteidigung Vorstand
 
@@ -374,22 +366,17 @@ Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: HGR: Kollektivverteidigung Vorstand
-- **Spezialgegenstand:** HGR: Kollektivverteidigung Vorstand / hgr kollektivverteidigung direktorenhaftung spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AktG, HGR.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -417,7 +404,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

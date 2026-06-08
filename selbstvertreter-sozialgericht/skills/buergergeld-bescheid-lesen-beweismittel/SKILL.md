@@ -7,25 +7,25 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 
 ## Arbeitsbereich
 
-**Buergergeld Bescheid Lesen Beweismittel** ordnet den Fall über die tragenden Prüffelder: Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Buergergeld Bescheid Lesen Beweismittel** ordnet den Fall über die tragenden Prüfungslinien: Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bescheid-lesen-tenor-begruendung-belehrung` | Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster. |
 | `beweismittel-im-sozialgericht-uebersicht` | Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau. |
 | `buergergeld-jobcenter-sgb-ii` | Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermögen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag für Buerger. |
 | `buergergeld-kosten-der-unterkunft-22-sgb-ii` | Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Pruefraster. |
-| `buergergeld-mehrbedarf-21-sgb-ii` | Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe fuer werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster. |
+| `buergergeld-mehrbedarf-21-sgb-ii` | Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe für werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bescheid-lesen-tenor-begruendung-belehrung`
 
@@ -41,20 +41,19 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufbau eines Sozialbescheids
 
 ### 1. Kopf
 - Briefkopf des Traegers, Aktenzeichen, Datum, Empfaenger.
 
 ### 2. Tenor / Entscheidung
-- Was hat die Behoerde entschieden?
+- Was hat die Behörde entschieden?
 - Welche Leistung in welcher Hoehe ab welchem Zeitpunkt?
 - Was wurde abgelehnt?
 
 ### 3. Begruendung
-- Sachverhalt: Was die Behoerde ermittelt hat.
-- Rechtliche Wuerdigung: Welche §§ die Behoerde angewendet hat.
+- Sachverhalt: Was die Behörde ermittelt hat.
+- Rechtliche Wuerdigung: Welche §§ die Behörde angewendet hat.
 - Ermessen: Welche Erwaegungen wurden angestellt?
 
 ### 4. Rechtsbehelfsbelehrung
@@ -72,12 +71,12 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 - **Tenor unklar oder widerspruchsvoll**: VA ist insoweit nichtig (§ 33 SGB X).
 - **Begruendung fehlt**: § 35 SGB X — Begruendungspflicht. Heilung im Widerspruchsverfahren.
 - **Rechtsbehelfsbelehrung fehlt oder falsch**: Frist verlaengert sich auf ein Jahr (§ 66 SGG analog).
-- **Bekanntgabe ungeklaert**: Zugangsbeweis muss Behoerde fuehren.
+- **Bekanntgabe ungeklaert**: Zugangsbeweis muss Behörde fuehren.
 
 ## Was tun
 
 1. Bescheid sofort scannen oder kopieren.
-2. Datum der Bekanntgabe vermerken. WICHTIG: Bei Versand per Post gilt nach § 37 Abs. 2 SGB X seit 01.01.2025 die Vier-Tage-Fiktion - der Bescheid gilt am **vierten Tag nach Aufgabe zur Post** als bekanntgegeben (frueher dritter Tag). Diese Fiktion gilt NICHT, wenn der Bescheid spaeter oder gar nicht zugegangen ist - dann zaehlt der spaetere tatsaechliche Zugang oder die Behoerde traegt die Beweislast. Ein **frueherer** Briefkasten-Eingang verkuerzt die Frist hingegen NICHT - rechne NIE Briefkasten-Eingang plus 3 oder 4 Tage. Maszgeblich ist der vierte Tag nach Aufgabe zur Post (also Datum auf dem Bescheid plus 4 Tage), es sei denn die Behoerde weist einen spaeteren Zugang nach oder du kannst einen spaeteren Zugang belegen. Siehe Schwester-Skill `fristen-berechnen-sgg-laien`.
+2. Datum der Bekanntgabe vermerken. WICHTIG: Bei Versand per Post gilt nach § 37 Abs. 2 SGB X seit 01.01.2025 die Vier-Tage-Fiktion - der Bescheid gilt am **vierten Tag nach Aufgabe zur Post** als bekanntgegeben (frueher dritter Tag). Diese Fiktion gilt NICHT, wenn der Bescheid spaeter oder gar nicht zugegangen ist - dann zaehlt der spaetere tatsaechliche Zugang oder die Behörde traegt die Beweislast. Ein **frueherer** Briefkasten-Eingang verkuerzt die Frist hingegen NICHT - rechne NIE Briefkasten-Eingang plus 3 oder 4 Tage. Maszgeblich ist der vierte Tag nach Aufgabe zur Post (also Datum auf dem Bescheid plus 4 Tage), es sei denn die Behörde weist einen spaeteren Zugang nach oder du kannst einen spaeteren Zugang belegen. Siehe Schwester-Skill `fristen-berechnen-sgg-laien`.
 3. Frist im Fristenbuch eintragen.
 4. Tenor pruefen.
 5. Begruendung pruefen — Fakten richtig?
@@ -105,7 +104,6 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -138,7 +136,7 @@ Sie muessen beweisen, was Sie sagen. Es gibt verschiedene Beweise. Papiere, Aerz
 - **§§ 415 ff. ZPO analog** — Urkunden.
 - **§§ 371 ff. ZPO analog** — Augenscheinseinnahme.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Urkundenbeweis
 
@@ -241,7 +239,6 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 
 Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -264,7 +261,6 @@ Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Das Buergergeld (frueher Hartz IV) wurde 2023 reformiert. Schonvermoegen erweitert, Sanktionen milder. Aber Streit gibt es trotzdem. Diese Skill ist Ihr Wegweiser.
@@ -285,7 +281,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 - **Regelbedarf**: Pauschal-Betrag (2024: 563 EUR Alleinstehende, jaehrlich angepasst).
 - **KdU**: Kosten der Unterkunft (Miete und Heizung).
 - **Bedarfsgemeinschaft**: Personen, die zusammen leben und Buergergeld bekommen.
-- **Karenzzeit**: 12 Monate nach Antragstellung mit erweitertem Schonvermoegen (40.000 EUR fuer erste Person, 15.000 EUR fuer weitere).
+- **Karenzzeit**: 12 Monate nach Antragstellung mit erweitertem Schonvermoegen (40.000 EUR für erste Person, 15.000 EUR für weitere).
 - **Sanktion**: Kuerzung wegen Pflichtverletzung — seit Reform abgemildert.
 - **Mitwirkungspflicht** (§ 60 SGB I): Sie muessen mitmachen (Termine, Unterlagen).
 
@@ -299,7 +295,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 - **§ 41a SGB II** — Vorlaeufige Bewilligung.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid lesen
 
@@ -369,13 +365,13 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
 
 - Maximalbetrag 30 % des Regelbedarfs (§ 43 SGB II)
 - Tilgungsplan
-- Verjaehrung (4 Jahre § 50 SGB X)
+- Verjährung (4 Jahre § 50 SGB X)
 
 ## Worauf Sie besonders achten muessen
 
 - **Karenzzeit-Schonvermoegen**: In den ersten 12 Monaten erweitert.
 - **Sanktionen seit BVerfG-Urteil begrenzt**: max. 30 % bei Erstverstoss.
-- **Wichtiger Grund**: Krankheit, Familienpflichten, kein Auto fuer weite Termine.
+- **Wichtiger Grund**: Krankheit, Familienpflichten, kein Auto für weite Termine.
 - **Mitwirkung**: Termine wahrnehmen, Unterlagen einreichen.
 
 ## Typische Fehler
@@ -413,10 +409,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Grundsatz
 
-§ 22 Abs. 1 SGB II: Bedarfe fuer Unterkunft und Heizung werden in tatsaechlicher Hoehe anerkannt, soweit diese angemessen sind.
+§ 22 Abs. 1 SGB II: Bedarfe für Unterkunft und Heizung werden in tatsaechlicher Hoehe anerkannt, soweit diese angemessen sind.
 
 ## Angemessenheitspruefung
 
@@ -436,7 +431,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Heizung
 
-- Tatsaechliche Hoehe, soweit nicht uebermaessiger Verbrauch.
+- Tatsaechliche Hoehe, soweit nicht uebermäßiger Verbrauch.
 
 ## Pruefraster
 
@@ -448,7 +443,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `buergergeld-mehrbedarf-21-sgb-ii`
 
-**Fokus:** Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe fuer werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster.
+**Fokus:** Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe für werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster.
 
 # Buergergeld Mehrbedarf 21 Sgb Ii
 
@@ -459,7 +454,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mehrbedarfstypen
 
@@ -480,14 +474,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### § 21 Abs. 6 SGB II — unabweisbarer laufender besonderer Bedarf
 - Atypischer, dauerhafter und unabweisbarer Mehrbedarf, der vom Regelbedarf nicht erfasst ist.
-- Beispiele: Hygiene bei chronischer Krankheit, besondere Pflegebedarfe, regelmaessige Reisen zu Verwandten in besonderen Konstellationen.
+- Beispiele: Hygiene bei chronischer Krankheit, besondere Pflegebedarfe, regelmäßige Reisen zu Verwandten in besonderen Konstellationen.
 
 ### § 21 Abs. 7 SGB II — Warmwassererzeugung dezentral
 - Bei Warmwassererzeugung ueber dezentrale elektrische Geraete (Durchlauferhitzer Boiler).
 - Pauschale nach Personenzahl im Haushalt.
 
 ### Hinweis Erstausstattung
-- **Nicht** § 21 Abs. 7 SGB II, sondern **§ 24 Abs. 3 SGB II**: einmalige Leistungen fuer Erstausstattung Wohnung, Erstausstattung bei Schwangerschaft und Geburt, sowie Anschaffung und Reparatur orthopaedischer Schuhe.
+- **Nicht** § 21 Abs. 7 SGB II, sondern **§ 24 Abs. 3 SGB II**: einmalige Leistungen für Erstausstattung Wohnung, Erstausstattung bei Schwangerschaft und Geburt, sowie Anschaffung und Reparatur orthopaedischer Schuhe.
 
 ## Pruefraster
 

@@ -12,11 +12,8 @@ description: "Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Bauliche Veränderungen nach § 20 WEG
-- **Spezialgegenstand:** Bauliche Veränderungen nach § 20 WEG wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Stand: 05/2026.
 
@@ -86,7 +83,6 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` und `references/rechtsstand-mai-2026.md` zwingend laden, bevor Rechtsprechungsaussagen ausgegeben werden.
-
 
 ## Qualitäts-Hardening
 

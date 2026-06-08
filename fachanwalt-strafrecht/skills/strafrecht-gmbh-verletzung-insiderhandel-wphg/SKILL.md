@@ -7,17 +7,17 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 
 ## Arbeitsbereich
 
-**Gmbh Verletzung Insiderhandel Wphg** ordnet den Fall über die tragenden Prüffelder: Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gmbh Verletzung Insiderhandel Wphg** ordnet den Fall über die tragenden Prüfungslinien: Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg` | Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise. |
-| `strafrecht-spezial-insiderhandel-119-wphg` | Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister. |
+| `strafrecht-spezial-insiderhandel-119-wphg` | Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister. |
 | `strafrecht-spezial-insolvenzverschleppung-15a-inso` | Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott. |
 | `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme` | Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus. |
 | `strafrecht-spezial-ip-strafrecht-verteidigung` | Verteidigung im IP-Strafrecht und Strafantragsfristen. Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB. Privatklage Adhaesion Antragsruecknahme. Verstaendigung Verbotsirrtum Erschoepfung. Trade-off Strafanzeige vs. zivilrechtliches Vorgehen aus Mandantensicht. |
-| `strafrecht-spezial-kapitalanlagebetrug-264a-stgb` | Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse fuer Crowdfunding, Token Offerings, geschlossene Fonds. |
+| `strafrecht-spezial-kapitalanlagebetrug-264a-stgb` | Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse für Crowdfunding, Token Offerings, geschlossene Fonds. |
 | `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club` | KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff. KCanG. Erlaubnisverfahren, Mengenkontingent 50 g monatlich pro Mitglied, Mitgliederzahl, Vereinsstruktur. Strafbarkeit bei Verstoss gegen Erlaubnis. |
 | `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz` | Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach § 34 sowie § 35 KCanG. |
 | `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang` | Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis. |
@@ -25,12 +25,12 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
 
@@ -50,7 +50,7 @@ Die Norm ist eine **Strafnorm der Krisenfruherkennung**. Sie tritt regelmaessig 
 
 ### Absatz 1 vorsaetzliche Verletzung
 
-Wer als Geschaeftsfuehrer es **unterlaesst**, entgegen Paragraph 49 Abs 3 GmbHG die Versammlung der Gesellschafter zu berufen, wenn aus der Jahresbilanz oder aus einer im Laufe des Geschaeftsjahres aufgestellten Bilanz hervorgeht oder bei pflichtmaessigem Ermessen anzunehmen ist, dass die Haelfte des Stammkapitals verloren ist, wird mit Freiheitsstrafe bis 3 Jahre oder Geldstrafe bestraft.
+Wer als Geschaeftsfuehrer es **unterlaesst**, entgegen Paragraph 49 Abs 3 GmbHG die Versammlung der Gesellschafter zu berufen, wenn aus der Jahresbilanz oder aus einer im Laufe des Geschaeftsjahres aufgestellten Bilanz hervorgeht oder bei pflichtmäßigem Ermessen anzunehmen ist, dass die Haelfte des Stammkapitals verloren ist, wird mit Freiheitsstrafe bis 3 Jahre oder Geldstrafe bestraft.
 
 ### Absatz 2 fahrlaessige Verletzung
 
@@ -130,7 +130,6 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 - BGH staendige Rspr. zur Formstrenge der Einberufung.
 - BGH staendige Rspr. zur Pflicht auch bei laufender Geschaeftsbeobachtung (pflichtmaesses Ermessen).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -141,7 +140,7 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 
 ## 2. `strafrecht-spezial-insiderhandel-119-wphg`
 
-**Fokus:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
+**Fokus:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
 
 # Insiderhandel § 119 WpHG iVm Art. 14 MAR
 
@@ -157,7 +156,7 @@ Spezial-Mandat: Anklage Insiderhandel. Praxistypisch: Vorstand / Aufsichtsrat ta
 
 ## Eingaben
 
-- Anklageschrift / Anhoerung BaFin / StA.
+- Anklageschrift / Anhörung BaFin / StA.
 - Aktien- bzw. Wertpapiergeschaefte mit Datum, Stueckzahl, Preis.
 - Insiderinformation: Quelle, Zeitpunkt der Erlangung.
 - Insiderliste des Emittenten (§ 18 MAR).
@@ -176,13 +175,13 @@ Praezise Information, die nicht oeffentlich bekannt ist, sich auf einen Emittent
 
 ### Art. 8 MAR Insidergeschaeft
 
-- Verwendung der Insiderinformation fuer eigenen oder fremden Erwerb / Veraeusserung von Finanzinstrumenten.
+- Verwendung der Insiderinformation für eigenen oder fremden Erwerb / Veraeusserung von Finanzinstrumenten.
 
 ### Art. 14 MAR Verbote
 
 - Verbot des Insiderhandels (lit. a).
 - Verbot der Empfehlung oder Verleitung Dritter zum Insiderhandel (lit. b).
-- Verbot der unrechtmaessigen Offenlegung von Insiderinformationen (lit. c, siehe Art. 10 MAR).
+- Verbot der unrechtmäßigen Offenlegung von Insiderinformationen (lit. c, siehe Art. 10 MAR).
 
 ### § 119 Abs. 3 WpHG Strafnorm
 
@@ -198,7 +197,7 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 ## Praktikertipps Verteidigung
 
-- **Insiderqualitaet angreifen.** War Information tatsaechlich praezise und erheblich kursrelevant? Bei vagen Geruechten, allgemeinen Markteinschaetzungen oder bereits "halb-oeffentlichen" Vorgaengen Streit.
+- **Insiderqualitaet angreifen.** War Information tatsaechlich praezise und erheblich kursrelevant? Bei vagen Geruechten, allgemeinen Markteinschaetzungen oder bereits "halb-öffentlichen" Vorgaengen Streit.
 - **Kausalitaet bestreiten.** Hat Mandant die Information tatsaechlich "verwendet" oder beruhte das Geschaeft auf eigener Analyse / Standard-Investmentstrategie?
 - **Safe Harbour** Art. 9 MAR pruefen: Trading Plans nach Art. 9 Abs. 3 MAR (vor Erlangung der Insiderinformation festgelegte Handelsregeln) entlasten.
 - **Buy-Back-Programme** Art. 5 MAR: Eigene Aktienrueckkaeufe nach festgelegtem Programm entlasten.
@@ -301,14 +300,14 @@ Wer die Antragspflicht fahrlaessig verletzt, mit Freiheitsstrafe bis 1 Jahr oder
 
 ### Vorsatzform
 
-Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antragspflicht zumindest fuer moeglich halten und billigend in Kauf nehmen.
+Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antragspflicht zumindest für moeglich halten und billigend in Kauf nehmen.
 
 ## Praktikertipps der alten Hasen
 
 - **Zeitpunkt der materiellen Insolvenz exakt feststellen.** Verteidigung muss eigenen Liquiditaetsstatus und Fortbestehensprognose vorlegen. Insolvenzgutachten Paragraph 5 InsO ist Anfang, nicht Ende der Diskussion.
 - **Sanierungsfenster nutzen.** Innerhalb der 3- bzw. 6-Wochen-Frist darf intensiv saniert werden (Investorensuche, Schutzschirmverfahren Paragraph 270b InsO, StaRUG-Verfahren). Wichtig: schriftliche Dokumentation der Bemuehungen.
 - **Drohende Zahlungsunfaehigkeit Paragraph 18 InsO ist KEINE Antragspflicht.** Nur ein Antragsrecht. Wer noch nicht zahlungsunfaehig, aber bald, hat Zeit. Verteidigung nutzt diese Abgrenzung intensiv.
-- **Beratung dokumentieren.** Sanierungsberater, Rechtsanwalt, Steuerberater haben den Mandanten zur Geduld geraten? Schriftlicher Beratungsvertrag + Beratungsprotokolle als Indiz fuer fehlenden Vorsatz.
+- **Beratung dokumentieren.** Sanierungsberater, Rechtsanwalt, Steuerberater haben den Mandanten zur Geduld geraten? Schriftlicher Beratungsvertrag + Beratungsprotokolle als Indiz für fehlenden Vorsatz.
 - **Faktische Geschaeftsfuehrer.** Die Antragspflicht trifft auch faktische GF, die nach aussen keine Eintragung haben (BGH staendige Rspr.). Verteidigung muss Strohmann-Argumentation sehr vorsichtig handhaben.
 - **Erweiterung auf andere Pflichtige.** Aufsichtsrat, Komplementaer, Liquidator - jeder mit Vertretungsmacht ist Pflichtsubjekt. Bei mehreren GF wirkt die Pflicht solidarisch.
 
@@ -320,10 +319,10 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 ## Konkurrenzen
 
-- **Paragraph 15a InsO und Paragraph 283 StGB.** Tatmehrheit Paragraph 53 StGB, weil unterschiedliche Schutzgueter. Insolvenzverschleppung ist Schutzgesetz fuer Neuglaeubiger; Bankrott schuetzt Glaeubigergesamtheit gegen Vermoegensverkuerzung.
+- **Paragraph 15a InsO und Paragraph 283 StGB.** Tatmehrheit Paragraph 53 StGB, weil unterschiedliche Schutzgueter. Insolvenzverschleppung ist Schutzgesetz für Neuglaeubiger; Bankrott schuetzt Glaeubigergesamtheit gegen Vermoegensverkuerzung.
 - **Paragraph 15a InsO und Paragraph 263 StGB Eingehungsbetrug.** Wer als zahlungsunfaehiger GF noch Lieferungen bestellt, taeuscht ueber Zahlungsfaehigkeit. Tateinheit Paragraph 52 StGB.
 - **Paragraph 15a InsO und Paragraph 266a StGB.** Vorenthalten Arbeitgeberanteile in antragsloser Krise; Tatmehrheit.
-- **Paragraph 15a InsO und Paragraph 15b InsO.** Paragraph 15b InsO ist nicht strafbewehrt; relevant nur fuer zivilrechtlichen Erstattungsanspruch des GF.
+- **Paragraph 15a InsO und Paragraph 15b InsO.** Paragraph 15b InsO ist nicht strafbewehrt; relevant nur für zivilrechtlichen Erstattungsanspruch des GF.
 
 ## Strafzumessung und Folgen
 
@@ -355,13 +354,12 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 - Paragraph 15a InsO im Wortlaut (gesetze-im-internet.de).
 - Paragraph 17 InsO Zahlungsunfaehigkeit; Paragraph 18 InsO drohende Zahlungsunfaehigkeit; Paragraph 19 InsO Ueberschuldung.
-- Paragraph 14 StGB Handeln fuer andere (faktischer GF).
+- Paragraph 14 StGB Handeln für andere (faktischer GF).
 - Paragraph 823 Abs 2 BGB iVm Paragraph 15a InsO als Schutzgesetz - BGH staendige Rspr.
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Sperre.
 - BGH staendige Rspr. zur Pflichtigkeit faktischer Geschaeftsfuehrer.
 - BGH staendige Rspr. zum Beginn der 3-Wochen-Frist (Eintritt, nicht Kenntnis).
-- StaRUG-Verfahren (Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen fuer Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.
-
+- StaRUG-Verfahren (Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.
 
 ## Qualitäts-Hardening
 
@@ -379,7 +377,7 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 ## Worum geht es
 
-Die Produktpiraterieverordnung (VO (EU) 608/2013) regelt das Taetigwerden der Zollbehoerden zur Durchsetzung von Rechten des geistigen Eigentums an der EU-Aussengrenze. Paragraph 142a MarkenG ist die deutsche Ergaenzungsnorm fuer Inlandsbezogene Faelle (Binnenmarkt). Anwendungsfaelle: Container mit Counterfeit-Ware aus Drittstaaten, Postsendungen aus Asien, Paralleltransporte ueber Binnengrenzen.
+Die Produktpiraterieverordnung (VO (EU) 608/2013) regelt das Taetigwerden der Zollbehoerden zur Durchsetzung von Rechten des geistigen Eigentums an der EU-Aussengrenze. Paragraph 142a MarkenG ist die deutsche Ergaenzungsnorm für Inlandsbezogene Faelle (Binnenmarkt). Anwendungsfaelle: Container mit Counterfeit-Ware aus Drittstaaten, Postsendungen aus Asien, Paralleltransporte ueber Binnengrenzen.
 
 Die Grenzbeschlagnahme ist sowohl strafrechtlich relevant (Beweissicherung, Loslassen-Verfahren, Verbindung zum Paragraph 143 / 143a MarkenG, Paragraph 142 PatG, Paragraph 108a UrhG) als auch zivilrechtlich (Schadensersatz, Unterlassung). Im Strafverfahren wird der Zoll oft zum primaeren Anzeigeerstatter, weil er die Ware physikalisch erfasst.
 
@@ -397,15 +395,15 @@ VO (EU) 608/2013 regelt das Verfahren der Zollkontrolle bei Verdacht auf Verletz
 
 Verfahrensablauf:
 
-- **AGZ-Antrag** (Antrag auf Grenzueberwachung): Rechteinhaber stellt Antrag beim Generalzolldirektion Zentralstelle Gewerblicher Rechtsschutz auf Taetigwerden. Antrag gilt fuer ein Jahr (verlaengerbar).
+- **AGZ-Antrag** (Antrag auf Grenzueberwachung): Rechteinhaber stellt Antrag beim Generalzolldirektion Zentralstelle Gewerblicher Rechtsschutz auf Taetigwerden. Antrag gilt für ein Jahr (verlaengerbar).
 - **Aufgriff durch Zoll**: Bei Verdachtsfall haelt Zoll Ware zurueck (Art. 17 VO). Rechteinhaber und Anmelder werden benachrichtigt.
 - **Frist 10 Werktage** (Art. 23 VO): Rechteinhaber kann zivilrechtliche Massnahmen einleiten (Verletzungsklage, einstweilige Verfuegung). Verlaengerung 10 Werktage moeglich.
 - **Vereinfachtes Vernichtungsverfahren** (Art. 23 VO): Wenn Anmelder zustimmt oder nicht widerspricht, kann Ware ohne Gerichtsverfahren vernichtet werden.
 - **Einspruch** des Anmelders: Bei Einspruch ist zivilrechtliches Verletzungsverfahren notwendig.
 
-Paragraph 142a MarkenG erweitert das Verfahren auf den **Binnenmarkt** (Transit innerhalb EU, Binnenversand). Sondernormen fuer Patentrecht (Paragraph 142b PatG bitte verifizieren), Designrecht (Paragraph 55 DesignG bitte verifizieren), Urheberrecht (Paragraph 111b UrhG).
+Paragraph 142a MarkenG erweitert das Verfahren auf den **Binnenmarkt** (Transit innerhalb EU, Binnenversand). Sondernormen für Patentrecht (Paragraph 142b PatG bitte verifizieren), Designrecht (Paragraph 55 DesignG bitte verifizieren), Urheberrecht (Paragraph 111b UrhG).
 
-**Privatreise-Ausnahme** Art. 1 Abs 4 VO (EU) 608/2013: Waren ohne gewerblichen Charakter im Reisegepaeck der nichtkommerziellen Einfuhr unterliegen nicht der Grenzbeschlagnahme. Faustregel: kleine Mengen fuer Eigenbedarf.
+**Privatreise-Ausnahme** Art. 1 Abs 4 VO (EU) 608/2013: Waren ohne gewerblichen Charakter im Reisegepaeck der nichtkommerziellen Einfuhr unterliegen nicht der Grenzbeschlagnahme. Faustregel: kleine Mengen für Eigenbedarf.
 
 ## Strafantrag und Antragsbefugnis
 
@@ -416,9 +414,9 @@ Praxisbesonderheit: Die **Benachrichtigung durch Zoll** (Art. 17 VO) loest die K
 ## Praktikertipps der Verteidigung
 
 - **Originalitaetspruefung sofort verlangen.** Bei Zollbeschlagnahme oft Indizverdacht ohne sichere Originalitaetspruefung; Verteidigung sollte beim Zoll Antrag auf Freigabe stellen, wenn Mandant Originalrechnungen, Lizenzunterlagen oder Lieferkette nachweisen kann. Beweislast Beweissicherheit liegt funktionell beim Rechteinhaber.
-- **Privatreise-Ausnahme.** Bei Einzelreisenden mit wenigen Stuecken (Faustregel: ein bis drei Stueck im persoenlichen Gepaeck) ist Privatreise-Ausnahme einzuwenden. Reisepass, Reiseunterlagen, Hotelbuchung als Beleg.
+- **Privatreise-Ausnahme.** Bei Einzelreisenden mit wenigen Stuecken (Faustregel: ein bis drei Stueck im persönlichen Gepaeck) ist Privatreise-Ausnahme einzuwenden. Reisepass, Reiseunterlagen, Hotelbuchung als Beleg.
 - **Vereinfachtes Vernichtungsverfahren widersprechen.** Wenn Mandant nicht Einigung mit Rechteinhaber wuenscht, **Widerspruch** gegen vereinfachtes Verfahren innerhalb der Frist (10 Werktage); dadurch Zwang zum zivilrechtlichen Verletzungsverfahren mit voller Beweisaufnahme.
-- **Schadenpolster pruefen.** Vernichtungsverfahren ist oft die schmerzhafteste Konsequenz (kein Schadensersatz an Mandanten fuer beschlagnahmte Ware), waehrend Strafverfahren bei eindeutiger Beweislage faktisch ueblicherweise Geldstrafe oder Bewaehrung bringt. Trade-off zwischen Vernichtungsverlust und Strafverfahrenskosten pruefen.
+- **Schadenpolster pruefen.** Vernichtungsverfahren ist oft die schmerzhafteste Konsequenz (kein Schadensersatz an Mandanten für beschlagnahmte Ware), waehrend Strafverfahren bei eindeutiger Beweislage faktisch ueblicherweise Geldstrafe oder Bewaehrung bringt. Trade-off zwischen Vernichtungsverlust und Strafverfahrenskosten pruefen.
 - **Beschwerde gegen Zollmassnahme.** Beschwerde an vorgesetzte Zollbehoerde (Hauptzollamt Dresden, Zentralstelle Gewerblicher Rechtsschutz). Gerichtlicher Rechtsweg ueber Finanzgericht (Paragraph 33 FGO bei Massnahmen der Zollverwaltung).
 - **Strafrechtliche Folgen.** Bei Aufgriff im Containerverkehr loest StA Ermittlungsverfahren wegen Paragraph 143 / 143a MarkenG, Paragraph 108a UrhG; Mandant erhaelt Beschuldigtenpost. Frueh anwaltliche Vertretung; Aussageverweigerung Paragraph 136 StPO.
 
@@ -445,9 +443,9 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 
 ## Mustertexte
 
-**Widerspruch gegen vereinfachtes Vernichtungsverfahren:** "Sehr geehrte Damen und Herren, namens und mit Vollmacht meines Mandanten, der Y GmbH, widerspreche ich hiermit dem vereinfachten Vernichtungsverfahren nach Art. 23 VO (EU) 608/2013 in Bezug auf die mit Bescheid vom DD.MM.JJJJ angehaltenen Waren (Aktenzeichen [...]). Es besteht kein Anhaltspunkt fuer eine Markenrechtsverletzung; die Waren wurden ueber den autorisierten Haendler X (Frankreich) erworben (Anlage 1, Rechnung; Anlage 2, Lieferschein). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor. Ich beantrage Freigabe der Waren. Hilfsweise wird das zivilrechtliche Verletzungsverfahren der Rechteinhaberin abgewartet."
+**Widerspruch gegen vereinfachtes Vernichtungsverfahren:** "Sehr geehrte Damen und Herren, namens und mit Vollmacht meines Mandanten, der Y GmbH, widerspreche ich hiermit dem vereinfachten Vernichtungsverfahren nach Art. 23 VO (EU) 608/2013 in Bezug auf die mit Bescheid vom DD.MM.JJJJ angehaltenen Waren (Aktenzeichen [...]). Es besteht kein Anhaltspunkt für eine Markenrechtsverletzung; die Waren wurden ueber den autorisierten Haendler X (Frankreich) erworben (Anlage 1, Rechnung; Anlage 2, Lieferschein). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor. Ich beantrage Freigabe der Waren. Hilfsweise wird das zivilrechtliche Verletzungsverfahren der Rechteinhaberin abgewartet."
 
-**Schreiben an Rechteinhaber (Vergleichsangebot):** "Sehr geehrte Damen und Herren, in Bezug auf die Grenzbeschlagnahme vom DD.MM.JJJJ (Aktenzeichen [...]) bietet mein Mandant folgenden Vergleich an: Zustimmung zur Vernichtung der beschlagnahmten Ware ohne weitere zivilrechtliche Verfolgung; Zahlung von Lizenzgebuehrenanalogie in Hoehe von EUR X; im Gegenzug Ruecknahme des Strafantrags gemaess Paragraph 77d StGB."
+**Schreiben an Rechteinhaber (Vergleichsangebot):** "Sehr geehrte Damen und Herren, in Bezug auf die Grenzbeschlagnahme vom DD.MM.JJJJ (Aktenzeichen [...]) bietet mein Mandant folgenden Vergleich an: Zustimmung zur Vernichtung der beschlagnahmten Ware ohne weitere zivilrechtliche Verfolgung; Zahlung von Lizenzgebuehrenanalogie in Hoehe von EUR X; im Gegenzug Rücknahme des Strafantrags gemaess Paragraph 77d StGB."
 
 **Strafanzeige durch Zoll (Selbstanzeige des Beschuldigten/Verteidigerstrategie):** "Mein Mandant erstattet hiermit Selbstanzeige gemaess Paragraph 158 StPO im Zusammenhang mit der Grenzbeschlagnahme vom DD.MM.JJJJ. Er stellt umfassende Aufklaerungshilfe in Aussicht; insbesondere kann er die Lieferkette aus dem Drittstaat Z offenlegen. Es wird Strafmilderung gemaess Paragraph 46b StGB beantragt."
 
@@ -470,8 +468,8 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 - Paragraph 94 StPO Beschlagnahme.
 - Paragraph 24 MarkenG Erschoepfung.
 - Generalzolldirektion Zentralstelle Gewerblicher Rechtsschutz, Verfahrenshandbuch (zoll.de).
-- Paragraphen 33, 40 FGO fuer finanzgerichtlichen Rechtsweg gegen Zollmassnahmen.
-- DSA (VO (EU) 2022/2065) Art. 22 ff. fuer Plattform-Sorgfaltspflichten; Verbindung zu IP-Strafverfahren.
+- Paragraphen 33, 40 FGO für finanzgerichtlichen Rechtsweg gegen Zollmassnahmen.
+- DSA (VO (EU) 2022/2065) Art. 22 ff. für Plattform-Sorgfaltspflichten; Verbindung zu IP-Strafverfahren.
 
 ## 5. `strafrecht-spezial-ip-strafrecht-verteidigung`
 
@@ -481,7 +479,7 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 
 ## Worum geht es
 
-Dieser Skill ist das Querschnittsmodul fuer die Verteidigung bei Straftaten im Bereich des geistigen Eigentums. Er konsolidiert die wiederkehrenden prozessualen und materiellen Verteidigungslinien, die in jeder einzelnen IP-Strafnorm anwendbar sind, und stellt das Fristenmanagement nach Paragraph 77b StGB in den Mittelpunkt.
+Dieser Skill ist das Querschnittsmodul für die Verteidigung bei Straftaten im Bereich des geistigen Eigentums. Er konsolidiert die wiederkehrenden prozessualen und materiellen Verteidigungslinien, die in jeder einzelnen IP-Strafnorm anwendbar sind, und stellt das Fristenmanagement nach Paragraph 77b StGB in den Mittelpunkt.
 
 Anwendungsfaelle: Mandant erhaelt Strafanzeige eines Rechteinhabers (Markenverletzung, Urheberrechtsverletzung, Designverletzung), parallel zivilrechtliche Abmahnung; Mandant ist Beschuldigter in einem laufenden IP-Strafverfahren; Mandant ist Plattform-Betreiber oder Importeur und sieht sich Aufgriffen durch Zoll gegenueber.
 
@@ -522,7 +520,7 @@ Antragsruecknahme Paragraph 77d StGB:
 Privatklage Paragraph 374 ff. StPO:
 - Suehneversuch Paragraph 380 StPO erforderlich vor Privatklage.
 - Kein Anwaltszwang, in der Praxis stets anwaltliche Vertretung.
-- StA tritt nur bei besonderem oeffentlichen Interesse ein; sonst Verweis auf Privatklageweg.
+- StA tritt nur bei besonderem öffentlichen Interesse ein; sonst Verweis auf Privatklageweg.
 
 ## Praktikertipps der Verteidigung
 
@@ -600,7 +598,7 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 
 ## 6. `strafrecht-spezial-kapitalanlagebetrug-264a-stgb`
 
-**Fokus:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse fuer Crowdfunding, Token Offerings, geschlossene Fonds.
+**Fokus:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse für Crowdfunding, Token Offerings, geschlossene Fonds.
 
 # Kapitalanlagebetrug § 264a StGB
 
@@ -627,7 +625,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 - **Prospekt.** Wertpapierprospektgesetz, VermAnlG, EU-Prospektverordnung (VO (EU) 2017/1129). Auch nicht prospektpflichtige Crowdfunding-Plattformen erfassbar (BGH zur Auslegung weit; Az. vor Verwendung verifizieren).
 - **Vermoegensanlagen** nach § 1 Abs. 2 VermAnlG (z. B. partiarische Darlehen, Genussrechte, Namensschuldverschreibungen).
-- **Wesentliche Angaben.** Solche, die fuer Anlageentscheidung erheblich sind. Hier Streit, wo Grenze.
+- **Wesentliche Angaben.** Solche, die für Anlageentscheidung erheblich sind. Hier Streit, wo Grenze.
 
 ### Subjektiver Tatbestand
 
@@ -642,7 +640,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 ## Praktikertipps Verteidigung
 
 - **Prospekt-Begriff angreifen.** War das Vertriebsdokument tatsaechlich Prospekt im Sinne § 264a StGB? Bei reinen Marketingunterlagen ohne Prospekteigenschaft kann Tatbestand entfallen.
-- **Wesentlichkeit der Angabe.** Nicht jede falsche Angabe ist tatbestandsmaessig. War sie fuer durchschnittlichen Anleger entscheidungserheblich?
+- **Wesentlichkeit der Angabe.** Nicht jede falsche Angabe ist tatbestandsmaessig. War sie für durchschnittlichen Anleger entscheidungserheblich?
 - **Vorsatz.** Bei komplexen Finanzprodukten oft fehlend, wenn Geschaeftsfuehrer auf Wirtschaftspruefer und Rechtsanwaelte vertraut. § 17 StGB Verbotsirrtum pruefen.
 - **Mittelabfluss.** Bei nicht erfolgter Kapitaleinwerbung greift Abs. 3 (taetige Reue).
 - **Zivilrechtliche Prospekthaftung** parallel — Verteidigungsstrategie abstimmen, da Schadenersatz im Strafverfahren als Adhaesion moeglich.
@@ -709,13 +707,13 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 ## Worum geht es
 
-§§ 11 ff. KCanG regeln den gemeinschaftlichen Eigenanbau in einer Anbauvereinigung (auch "Cannabis Social Club"). Anbauvereinigungen sind eingetragene Vereine oder eingetragene Genossenschaften mit dem ausschliesslichen Zweck, fuer Mitglieder Cannabis zum Eigenkonsum gemeinschaftlich anzubauen und an die Mitglieder abzugeben.
+§§ 11 ff. KCanG regeln den gemeinschaftlichen Eigenanbau in einer Anbauvereinigung (auch "Cannabis Social Club"). Anbauvereinigungen sind eingetragene Vereine oder eingetragene Genossenschaften mit dem ausschliesslichen Zweck, für Mitglieder Cannabis zum Eigenkonsum gemeinschaftlich anzubauen und an die Mitglieder abzugeben.
 
 Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt oder weitergibt, fuellt regelmaessig §§ 34 ff. KCanG aus. Verteidiger muessen die Erlaubnisstruktur und ihre Grenzen kennen.
 
 ## Tatbestand und Stoffliche Erfassung
 
-**Erlaubnispflicht § 11 KCanG:** Anbauvereinigungen beduerfen einer Erlaubnis der zustaendigen Landesbehoerde. Erlaubnis befristet auf sieben Jahre, verlaengerbar.
+**Erlaubnispflicht § 11 KCanG:** Anbauvereinigungen beduerfen einer Erlaubnis der zuständigen Landesbehoerde. Erlaubnis befristet auf sieben Jahre, verlaengerbar.
 
 **Strukturanforderungen §§ 12, 13 KCanG:**
 - Eingetragener Verein oder Genossenschaft.
@@ -752,7 +750,7 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 - **Mitgliederkontrolle:** Mitgliedschaft seit mindestens sechs Monaten? Wohnsitz Deutschland? Volljaehrigkeit? Verstoss bei Abgabe an Nichtmitglieder = § 34 KCanG.
 - **Vereinsstrafrecht:** Bei Verstoss gegen Erlaubnis koennen sowohl der Vorstand (§ 14 StGB Vertreterhaftung) als auch der individuelle Taeter strafbar sein.
 - **Erlaubnisrueknahme:** Behoerdliche Massnahme; bei drohendem Strafverfahren parallel verwaltungsgerichtlich pruefen (Anfechtungsklage gegen Erlaubnisentzug).
-- **Beratung Vereinsgruendung:** Strafrecht-Beratung fuer Gruender oft notwendig — Schwester-Skill `vereinsrecht-vereinsmanager` ergaenzend.
+- **Beratung Vereinsgruendung:** Strafrecht-Beratung für Gruender oft notwendig — Schwester-Skill `vereinsrecht-vereinsmanager` ergaenzend.
 
 ## Trade-off-Matrix
 
@@ -761,11 +759,11 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 | Anbauvereinigung statt privater Anbau | bis 50 g monatlich legal | Erlaubnisaufwand, Mitgliedsbeitraege, Wartezeit |
 | Privater Eigenanbau (3 Pflanzen) | keine Erlaubnis noetig | Begrenzte Menge, eigene Pflege noetig |
 | Beides kombinieren | Maximalmenge | Strafbarkeitsrisiko bei Mengenkumulation |
-| Eintritt in Anbauvereinigung als Sozial-Ersatz fuer Drogenkauf | Loesung des Beschaffungs-Risikos | Wartezeit bis Eintritt, Ablauffrist bis 50 g |
+| Eintritt in Anbauvereinigung als Sozial-Ersatz für Drogenkauf | Loesung des Beschaffungs-Risikos | Wartezeit bis Eintritt, Ablauffrist bis 50 g |
 
 ## Konkurrenzen
 
-- KCanG-Vereinigung zu BtMG: bei BtMG-Stoffen kein Wechsel zur Anbauvereinigung; Anbauvereinigung nur fuer Cannabis.
+- KCanG-Vereinigung zu BtMG: bei BtMG-Stoffen kein Wechsel zur Anbauvereinigung; Anbauvereinigung nur für Cannabis.
 - Anbauvereinigung zu privatem Anbau: kumulativ moeglich.
 - Erlaubnisverstoss zu § 34 KCanG (Strafbarkeit): bei wesentlichem Verstoss Strafbarkeit; bei marginalen Verstoessen Ordnungswidrigkeit § 36 KCanG.
 - Vereinsrecht (BGB §§ 21 ff.) zu KCanG: kumulativ; KCanG enthaelt Spezialanforderungen, BGB-Vereinsrecht Grundregeln.
@@ -780,7 +778,7 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 ## Mustertexte
 
 **Schriftsatz Erlaubnis-Pruefung:**
-"In dem Strafverfahren gegen die Anbauvereinigung [Name] e.V., HRA [Nummer], wird unter Vorlage des Erlaubnisbescheids der Behoerde [Name] vom [Datum], Az. [X], beantragt, von einer Strafverfolgung abzusehen. Die Anbauvereinigung haelt sich an die in der Erlaubnis festgesetzten Auflagen (Mitgliederzahl: [X], Mengenkontingent: [Y] g/Monat pro Mitglied, Standort: [Z]). Die im Verfahren beanstandeten Abgaben liegen innerhalb des erlaubten Rahmens (Anlage: Mengenuebersicht und Mitgliederbuchhaltung)."
+"In dem Strafverfahren gegen die Anbauvereinigung [Name] e.V., HRA [Nummer], wird unter Vorlage des Erlaubnisbescheids der Behörde [Name] vom [Datum], Az. [X], beantragt, von einer Strafverfolgung abzusehen. Die Anbauvereinigung haelt sich an die in der Erlaubnis festgesetzten Auflagen (Mitgliederzahl: [X], Mengenkontingent: [Y] g/Monat pro Mitglied, Standort: [Z]). Die im Verfahren beanstandeten Abgaben liegen innerhalb des erlaubten Rahmens (Anlage: Mengenuebersicht und Mitgliederbuchhaltung)."
 
 ## Querverweise
 
@@ -820,7 +818,7 @@ Dieser Skill behandelt die erlaubten Bereiche (§§ 2, 3 KCanG). Der Strafrechts
 ## Tatbestand und Stoffliche Erfassung
 
 **Erlaubter Eigenbesitz § 3 Abs. 1 KCanG:**
-- bis zu 25 g getrocknetes Cannabis im oeffentlichen Raum
+- bis zu 25 g getrocknetes Cannabis im öffentlichen Raum
 - bis zu 50 g getrocknetes Cannabis am Wohnort (private Sphaere)
 - bis zu drei lebende Cannabispflanzen am Wohnort (privater Anbau)
 
@@ -871,7 +869,7 @@ Die genauen Schwellen sind im KCanG normiert; § 36 KCanG regelt die Ordnungswid
 
 ## Konkurrenzen
 
-- KCanG zu BtMG: KCanG hat als Spezialgesetz Vorrang fuer Cannabis. Bei Mischfaellen mit anderen Stoffen: BtMG fuer Nicht-Cannabis-Bereich anwendbar.
+- KCanG zu BtMG: KCanG hat als Spezialgesetz Vorrang für Cannabis. Bei Mischfaellen mit anderen Stoffen: BtMG für Nicht-Cannabis-Bereich anwendbar.
 - § 34 KCanG zu § 35 KCanG: § 35 KCanG Qualifikation bei nicht geringer Menge, Bande, Schusswaffe.
 - § 24a StVG zu KCanG: kumulativ; KCanG regelt Besitz/Konsum, § 24a StVG den Verkehr.
 - § 5 KCanG (Konsumverbot) zu Hausrecht des Vermieters: privatrechtliche Beschraenkungen weiterhin moeglich.
@@ -879,16 +877,16 @@ Die genauen Schwellen sind im KCanG normiert; § 36 KCanG regelt die Ordnungswid
 ## Strafzumessung und Therapie statt Strafe
 
 - §§ 2, 3 KCanG: bei Einhaltung der Schwellen straflos.
-- § 36 KCanG: Ordnungswidrigkeit bei moderaten Ueberschreitungen, Bussgeldrahmen 30 EUR bis 30000 EUR (mit aktuellem Bussgeldkatalog der Laender verifizieren).
+- § 36 KCanG: Ordnungswidrigkeit bei moderaten Ueberschreitungen, Bussgeldrahmen 30 EUR bis 30000 EUR (mit aktuellem Bussgeldkatalog der Länder verifizieren).
 - § 34 KCanG bei Ueberschreitung der Strafbarkeitsschwellen — siehe Detail-Skill.
-- Therapie statt Strafe (§ 35 BtMG) bei Cannabis-bezogenen Taten nach KCanG anwendbar? § 35 BtMG verweist auf "Betaeubungsmittel" — fuer Cannabis nach KCanG ist § 35 BtMG nicht mehr direkt anwendbar; § 35 KCanG enthaelt jedoch eine entsprechende Regelung (Verweis im neuen Gesetz pruefen und BGH-Linie verifizieren).
+- Therapie statt Strafe (§ 35 BtMG) bei Cannabis-bezogenen Taten nach KCanG anwendbar? § 35 BtMG verweist auf "Betaeubungsmittel" — für Cannabis nach KCanG ist § 35 BtMG nicht mehr direkt anwendbar; § 35 KCanG enthaelt jedoch eine entsprechende Regelung (Verweis im neuen Gesetz pruefen und BGH-Linie verifizieren).
 
 ## Mustertexte
 
 **Mandantenbrief Beratung Eigenbesitz:**
 "Sehr geehrte/r Frau/Herr [Mandant], in dem Termin am [Datum] haben wir Ihre Frage zum Eigenbesitz von Cannabis nach dem Konsumcannabisgesetz (KCanG, in Kraft seit 01.04.2024) besprochen. Zusammenfassend gilt:
 
-1. Eigenbesitz bis 25 g im oeffentlichen Raum ist straflos.
+1. Eigenbesitz bis 25 g im öffentlichen Raum ist straflos.
 2. Am Wohnort duerfen bis zu 50 g aufbewahrt werden.
 3. Bis zu drei Cannabispflanzen duerfen privat angebaut werden.
 4. Konsum in der Naehe von Schulen, Kindergaerten und Spielplaetzen (100 m Sichtweite) ist bussgeldbewehrt.
@@ -901,7 +899,7 @@ Weitere Beratung zu Anbauvereinigung oder Schenkung an Bekannte gerne im Folgete
 - `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club`
 - `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`
 - `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie`
-- `strafrecht-spezial-btmg-29-grundtatbestand` (BtMG fuer Nicht-Cannabis)
+- `strafrecht-spezial-btmg-29-grundtatbestand` (BtMG für Nicht-Cannabis)
 - `strafrecht-spezial-btmg-35-therapie-statt-strafe`
 - `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
 
@@ -926,7 +924,7 @@ Weitere Beratung zu Anbauvereinigung oder Schenkung an Bekannte gerne im Folgete
 
 ## Worum geht es
 
-§ 34 KCanG ist der Grundtatbestand fuer den unerlaubten Umgang mit Cannabis seit 01.04.2024. § 35 KCanG enthaelt Qualifikationen (nicht geringe Menge, Bande, Schusswaffe, Abgabe an Minderjaehrige, Gewerbsmaessigkeit). Die Strafvorschriften loesen die fruehere Cannabis-Strafbarkeit nach §§ 29 ff. BtMG ab.
+§ 34 KCanG ist der Grundtatbestand für den unerlaubten Umgang mit Cannabis seit 01.04.2024. § 35 KCanG enthaelt Qualifikationen (nicht geringe Menge, Bande, Schusswaffe, Abgabe an Minderjaehrige, Gewerbsmaessigkeit). Die Strafvorschriften loesen die fruehere Cannabis-Strafbarkeit nach §§ 29 ff. BtMG ab.
 
 ## Tatbestand und Stoffliche Erfassung
 
@@ -941,7 +939,7 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 **§ 34 Abs. 3 KCanG Qualifikation nicht geringe Menge:** Strafrahmen Freiheitsstrafe drei Monate bis fuenf Jahre.
 
 **§ 35 KCanG schwere Faelle:** Freiheitsstrafe ein Jahr bis fuenfzehn Jahre (Verbrechen) bei
-- gewerbsmaessigem Handeltreiben
+- gewerbsmäßigem Handeltreiben
 - Banden-Handel mit nicht geringer Menge
 - Mitfuehren Schusswaffe oder gefaehrlicher Gegenstand
 - Abgabe an Personen unter achtzehn Jahren als Person ueber einundzwanzig Jahren in nicht geringer Menge
@@ -966,10 +964,10 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 
 - **Erste Pruefung — Schwellen-Naehe:** Bei knapper Ueberschreitung Pruefung, ob noch Ordnungswidrigkeit § 36 KCanG.
 - **Wirkstoffanalyse:** Bei nicht geringer Menge entscheidet der THC-Gehalt. Probennahme, Lagerung, akkreditiertes Labor pruefen — wie bei BtMG.
-- **Eigenkonsum-Verteidigung:** Wer 26 g im oeffentlichen Raum besitzt, kann sich darauf berufen, dass diese knappe Ueberschreitung lediglich Ordnungswidrigkeit ist. Schwierig wird es bei deutlich groesseren Mengen.
+- **Eigenkonsum-Verteidigung:** Wer 26 g im öffentlichen Raum besitzt, kann sich darauf berufen, dass diese knappe Ueberschreitung lediglich Ordnungswidrigkeit ist. Schwierig wird es bei deutlich groesseren Mengen.
 - **Hausanbau ueber 3 Pflanzen:** Pruefen, ob die zusaetzlichen Pflanzen Stecklinge oder erntereife Pflanzen waren. Stecklinge zaehlen umstrittenermassen anders (Detail mit aktueller BGH-Linie verifizieren).
 - **§ 35 Abs. 2 KCanG minder schwerer Fall:** wichtigste Verteidigungsoption bei Verbrechensstrafrahmen. Erstaeter, eigene Sucht, Aufklaerungshilfe.
-- **Aufklaerungshilfe:** § 35 BtMG analog? § 31 BtMG nur fuer BtMG-Stoffe; fuer KCanG ist § 46b StGB einschlaegig (Cannabis ist KCanG-Stoff, nicht BtMG-Stoff). Voraussetzung: Katalogtat des § 46b StGB erfuellt.
+- **Aufklaerungshilfe:** § 35 BtMG analog? § 31 BtMG nur für BtMG-Stoffe; für KCanG ist § 46b StGB einschlaegig (Cannabis ist KCanG-Stoff, nicht BtMG-Stoff). Voraussetzung: Katalogtat des § 46b StGB erfuellt.
 
 ## Trade-off-Matrix
 
@@ -1093,7 +1091,7 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 
 ## Strafzumessung und Folgen
 
-- Schwellenwerte fuer **Regelbeispiel "grosses Ausmass"** (Paragraph 263 Abs 3 Satz 2 Nr 2 StGB iVm Paragraph 266 Abs 2 StGB): BGH ca. EUR 50.000.
+- Schwellenwerte für **Regelbeispiel "grosses Ausmass"** (Paragraph 263 Abs 3 Satz 2 Nr 2 StGB iVm Paragraph 266 Abs 2 StGB): BGH ca. EUR 50.000.
 - **Wertersatz nach Paragraph 73c StGB** auf konkret bezifferten Schaden.
 - **Einziehung bei Gefaehrdung**: schwierig, weil keine effektive Vermoegensminderung vorliegt. BGH-Linie: Wertersatz nur, wenn Schaden konkret eingetreten oder einziehbarer Vermoegensvorteil entstanden.
 - **Bewaehrung Paragraph 56 StGB**: Bei verfassungsrechtlich unsicherer Bezifferung oft Bewaehrungsfaehigkeit erhalten.
@@ -1124,7 +1122,6 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 - BGH staendige Rspr. zu Risikokrediten als Untreue.
 - IDW S 6-Standards zur Unternehmensbewertung; IDW PS 800-Standards zur forensischen Bewertung.
 - Paragraph 103 Abs 2 GG Bestimmtheitsgebot des Strafrechts.
-
 
 ## Qualitäts-Hardening
 

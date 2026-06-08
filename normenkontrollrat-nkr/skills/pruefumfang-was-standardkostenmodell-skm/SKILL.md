@@ -1,34 +1,21 @@
 ---
 name: pruefumfang-was-standardkostenmodell-skm
-description: "Pruefumfang WAS Standardkostenmodell SKM im Plugin Normenkontrollrat Nkr: prüft konkret Negativabgrenzung des NKR-Pruefumfangs, Beschreibt das Standardkostenmodell SKM als methodischen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Pruefumfang WAS Standardkostenmodell SKM
+# NKR-Pruefumfang — was prueft der NKR nicht
 
 ## Arbeitsbereich
 
-**Pruefumfang WAS Standardkostenmodell SKM** ordnet den Fall über die tragenden Prüffelder: Negativabgrenzung des NKR-Pruefumfangs, Beschreibt das Standardkostenmodell SKM als methodischen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-pruefumfang-was-prueft-der-nkr-nicht` | Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zustaendigkeitsanmassung und liefert Standardbausteine fuer die Stellungnahme zur Kompetenzabgrenzung. |
-| `nkr-standardkostenmodell-skm` | Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste fuer die NKR-Methodenpruefung. |
+Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-pruefumfang-was-prueft-der-nkr-nicht`
-
-**Fokus:** Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zustaendigkeitsanmassung und liefert Standardbausteine fuer die Stellungnahme zur Kompetenzabgrenzung.
-
-# NKR-Pruefumfang — was prueft der NKR nicht
 
 ## Worum geht es konkret
 
@@ -37,7 +24,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Pruefkern faellt
-- Ressort moechte den NKR "instrumentalisieren" fuer politische Argumente
+- Ressort moechte den NKR "instrumentalisieren" für politische Argumente
 - Stellungnahme-Entwurf wird zu breit, droht Kompetenzgrenze zu ueberschreiten
 
 ## Rechtlicher und methodischer Rahmen
@@ -49,7 +36,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - **Art. 114 GG, BHO, § 88 BHO** — Bundesrechnungshof, Wirtschaftlichkeit
 - **Art. 93 GG, BVerfGG** — Verfassungsgerichtsbarkeit
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Der NKR prueft
 
@@ -61,7 +48,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 6. **One-in-one-out** — verbucht?
 7. **KMU-Test** — durchgefuehrt?
 8. **Digitaltauglichkeit** — Digitalcheck durchlaufen?
-9. **Praktikabilitaet im Vollzug** — fuer Verwaltung leistbar?
+9. **Praktikabilitaet im Vollzug** — für Verwaltung leistbar?
 10. **Evaluierungsklausel / Befristung** — vorgesehen?
 
 ### Der NKR prueft **nicht**
@@ -69,11 +56,11 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 1. **Politische Zielwahl** ("Soll diese Branche reguliert werden?")
 2. **Verfassungsmaessigkeit** — BMJ-Rechtsabteilung, ggf. BVerfG
 3. **Europarechtskonformitaet im engeren Sinne** — EU-Rechtsabteilungen
-4. **Haushaltsmaessige Auswirkungen auf den Bundeshaushalt** — BMF, Bundesrechnungshof
+4. **Haushaltsmäßige Auswirkungen auf den Bundeshaushalt** — BMF, Bundesrechnungshof
 5. **Wirtschaftlichkeit im Sinne der BHO** — Bundesrechnungshof
 6. **Ordnungspolitische Sinnhaftigkeit** — politische Entscheidung
 7. **Auslegung einzelner Tatbestandsmerkmale** — Gerichte
-8. **Konkrete Vollzugsentscheidungen** — Behoerden
+8. **Konkrete Vollzugsentscheidungen** — Behörden
 9. **Wissenschaftliche Folgenforschung im engeren Sinne** — Wissenschaftlicher Dienst, Ressortforschung
 10. **Datenschutzrechtliche Detailpruefung** — BfDI
 
@@ -98,7 +85,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Die Pruefung des NKR ist gemaess § 4 NKRG auf die Darstellung des Erfuellungsaufwands beschraenkt. Eine Bewertung der ordnungspolitischen Zielsetzung erfolgt nicht."
-- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Pruefung; insoweit verweist der NKR auf die zustaendige Ressortpruefung."
+- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Pruefung; insoweit verweist der NKR auf die zuständige Ressortpruefung."
 - "Der NKR begruesst grundsaetzlich die Zielsetzung des Vorhabens, beschraenkt seine Stellungnahme aber auf die methodischen Aspekte des Erfuellungsaufwands."
 
 ## Typische Fehler in Ressort-Entwuerfen
@@ -122,115 +109,3 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - BHO §§ 7, 88, 114
 - Art. 93, 114 GG
 - Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-standardkostenmodell-skm`
-
-**Fokus:** Beschreibt das Standardkostenmodell SKM als methodischen Kern der Erfuellungsaufwandsberechnung. Erklaert die Standardformel Aufwand pro Fall × Fallzahl Bandbreiten Komplexitaetsfaktoren Bezug auf DESTATIS-Lohnsaetze und Dokumentationsanforderungen. Mit Rechenbeispiel und Checkliste fuer die NKR-Methodenpruefung.
-
-# NKR-Standardkostenmodell (SKM)
-
-## Worum geht es konkret
-
-Das Standardkostenmodell (SKM) ist die in Deutschland (und mehreren EU-Mitgliedstaaten) etablierte Methodik zur Quantifizierung von Erfuellungsaufwand. Der NKR hat das SKM 2006/2007 als methodische Grundlage uebernommen und im Leitfaden BMI/NKR weiterentwickelt.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Stellungnahme prueft Methodenanwendung
-- Ressort wendet abweichende Methodik an
-- Rechenwege sind nicht nachvollziehbar
-- Schulung Methodik
-
-Rueckfrage nur wenn unklar: *"Welche Methodik liegt der Ressortdarstellung zugrunde?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR), Methodenteil
-- **OECD-Standard-Cost-Model-Toolkit**
-- **EU Better Regulation Toolbox** Tool 24 Standard Cost Model
-- **NKRG** § 4 i.V.m. methodischer Auslegung durch den NKR
-
-## SKM-Grundformel
-
-```
-Erfuellungsaufwand (jaehrlich)
- = Σ (Aufwand pro Fall × Fallzahl pro Jahr)
-
-Aufwand pro Fall
- = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
-```
-
-## Pruefraster / Schritt fuer Schritt
-
-1. **Pflicht-Inhalt zerlegen** in Einzeltaetigkeiten ("Activity Mapping")
-2. **Standardtaetigkeit** zuordnen (Lese-, Schreib-, Pruef-, Antwort-, Berechnungstaetigkeit)
-3. **Zeitwert pro Taetigkeit** ansetzen (Leitfaden-Tabelle, ggf. mit Komplexitaetsfaktor)
-4. **Lohnsatz** zuordnen nach Qualifikationsniveau
-5. **Sachkosten** ergaenzen (Material, Geraete, IT-Lizenz)
-6. **Externe Kosten** ergaenzen (Beraterhonorare, Pruefkosten)
-7. **Fallzahl** ermitteln (Statistik, ggf. Schaetzung mit Bandbreite)
-8. **Multiplikation** und Aggregation
-9. **Plausibilisierung** durch Vergleich mit Referenzfaellen
-10. **Dokumentation** vollstaendig: jede Annahme nachvollziehbar
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Methodik nicht offen gelegt (keine Aufschluesselung pro Pflicht)
-- Pauschalannahmen ohne Beleg
-- Komplexitaetsfaktoren unplausibel (zu hoch oder zu niedrig)
-- Fallzahlen nicht aus Statistik, sondern aus dem "Bauch"
-- Sachkosten oder externe Dienstleistungen ausgeklammert
-- Methodik abweichend ohne Begruendung
-
-## Trade-off-Matrix
-
-| Methodische Frage | NKR-Position |
-|---|---|
-| Standardisierung vs. Einzelfallrechnung | Standardisierung bevorzugt fuer Vergleichbarkeit |
-| Punktwert vs. Bandbreite | Bandbreite bei Unsicherheit ausweisen |
-| Pessimistische vs. optimistische Annahme | Mittlere Annahme, Sensitivitaet pruefen |
-| Komplexitaetsfaktor | konservativ ansetzen |
-| Dunkelziffer / faktische Nutzung | dokumentieren, ggf. nicht einrechnen |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Die Berechnung folgt dem Standardkostenmodell (SKM) gemaess Leitfaden BMI/NKR. Aufwand pro Fall wurde aus den Zeitwerten der Tabelle [Bezeichnung] zuzueglich Sachkosten ermittelt."
-- "Der NKR weist darauf hin, dass die Berechnung von der Standardmethodik abweicht; eine Begruendung fehlt. Der NKR bittet das Ressort um Darstellung nach SKM."
-- "Die Sensitivitaetsanalyse zeigt: bei Variation der Fallzahl um ± 20% bewegt sich der Erfuellungsaufwand zwischen [X] und [Y] Mio EUR jaehrlich."
-
-### Rechenbeispiel (illustrativ)
-
-Pflicht: jaehrlicher Bericht im Umfang von ca. 4 Stunden.
-
-- Zeitaufwand pro Fall: 240 Minuten
-- Lohnsatz Wirtschaft mittlere Qualifikation: ca. 45 EUR/h
-- Aufwand pro Fall (Zeit): 240/60 × 45 = 180 EUR
-- Sachkosten pro Fall: 10 EUR (Druck, Versand)
-- Aufwand pro Fall gesamt: 190 EUR
-- Fallzahl jaehrlich: 1,8 Mio Gesellschaften
-- Jaehrlicher Erfuellungsaufwand: 1.800.000 × 190 = ca. 342 Mio EUR
-
-(Werte sind illustrativ; verbindlich ist die jeweils aktuelle Leitfaden-Tabelle.)
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- Pflichtinhalt nicht in Einzeltaetigkeiten zerlegt
-- Lohnsatz "ca. 30 EUR" ohne Quelle
-- Sachkosten "vernachlaessigbar" ohne Begruendung
-- Fallzahl aus 10 Jahre alter Statistik
-- Komplexitaetsfaktor "1,0" durchgaengig
-
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-fallzahlen-schaetzung-bandbreiten`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
-## Quellen Stand 06/2026
-
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- OECD Standard Cost Model Manual
-- EU Better Regulation Toolbox Tool 24
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- Live verifizieren ueber [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

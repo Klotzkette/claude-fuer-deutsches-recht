@@ -7,10 +7,10 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Ausnahmen Streitwertgrenze Aussergerichtliche** ordnet den Fall über die tragenden Prüffelder: Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Ausnahmen Streitwertgrenze Aussergerichtliche** ordnet den Fall über die tragenden Prüfungslinien: Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `ausnahmen-streitwertgrenze-23-nr-2-gvg` | Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG. |
 | `aussergerichtliche-mahnung-286-bgb` | Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren. |
@@ -18,18 +18,18 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `ausnahmen-streitwertgrenze-23-nr-2-gvg`
 
 **Fokus:** Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG.
 
-# Wann ist das Amtsgericht **immer** zustaendig (egal wie hoch der Streitwert)?
+# Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?
 
 ## Worum geht es?
 
@@ -40,7 +40,7 @@ Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EU
 - Sie haben eine Mietsache (egal welcher Betrag).
 - Es geht um eine Reisemangel-Erstattung.
 - Sie streiten um Unterhalt.
-- Sie sind unsicher, ob Ihr Streit unter eine Sonderzustaendigkeit faellt.
+- Sie sind unsicher, ob Ihr Streit unter eine Sonderzuständigkeit faellt.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -59,7 +59,7 @@ Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EU
 - **§ 23b GVG** — Betreuungssachen.
 - **§ 23c GVG** — Nachlass- und Teilungssachen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen Sie, ob Wohnraummietsache vorliegt
 
@@ -91,7 +91,7 @@ Ehesachen, Folgesachen (Versorgungsausgleich, Hausrat), Sorgerecht, Umgang, Kind
 
 ### Schritt 4 — Unterhalt zwischen Verwandten?
 
-Heute Hauptregelung ueber Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt fuer Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
+Heute Hauptregelung ueber Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt für Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
 
 ### Schritt 5 — Nachlass- oder Betreuungssache?
 
@@ -100,7 +100,7 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 ## Worauf Sie besonders achten muessen
 
 - **"Wohnraum" eng auslegen**: Eine reine Garagen-Vermietung ohne Wohnraum-Verbund ist **kein** § 23 Nr. 2 a GVG. Wenn die Garage Annex der Wohnung ist, hingegen schon.
-- **Reiseveranstalter-Insolvenz** ist eine andere Materie (Reisesicherungsschein-Anspruechre gegen Sicherungsfonds). Hier kann die Zustaendigkeit anders liegen.
+- **Reiseveranstalter-Insolvenz** ist eine andere Materie (Reisesicherungsschein-Anspruechre gegen Sicherungsfonds). Hier kann die Zuständigkeit anders liegen.
 - **Mischformen** (Mieter wohnt und arbeitet von zuhause): Im Zweifel Schwerpunkt-Lehre — wo ist der Schwerpunkt? Aufgaben-, Flaechen- oder Mietzweck.
 
 ## Typische Fehler
@@ -111,14 +111,13 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 
 ## Querverweise
 
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
-- `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
+- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
 - `anwaltszwang-pruefen-78-zpo` — Familiensache und Anwaltszwang.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzustaendigkeiten nicht.
-
+Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzuständigkeiten nicht.
 
 ## Qualitäts-Hardening
 
@@ -149,7 +148,7 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 - **Mahnung**: Eindeutige Aufforderung zur Leistung mit Fristsetzung.
 - **Verzug**: Verzoegerte Leistung trotz Faelligkeit und Mahnung (oder Entbehrlichkeit, § 286 II BGB).
 - **Verzugszinsen**: Zinsen, die der Schuldner ab Verzug schuldet.
-- **Mahngebuehr**: Kostenpauschale fuer Mahnungen (umstrittene Hoehe; vertraglich evtl. wirksam).
+- **Mahngebuehr**: Kostenpauschale für Mahnungen (umstrittene Hoehe; vertraglich evtl. wirksam).
 
 ## Rechtsgrundlagen
 
@@ -160,7 +159,7 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 - **§ 288 V BGB** — Pauschale 40 EUR im Geschaeftsverkehr.
 - **§ 280 II BGB** — Schadensersatz wegen Verzug.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Mahnung entbehrlich
 
@@ -189,7 +188,7 @@ Betreff: Mahnung zur Zahlung von [Betrag] EUR aus [Rechnung/Vertrag] vom [Datum]
 Sehr geehrte/r [Name],
 
 mit Rechnung Nr. [X] vom [Datum] habe ich von Ihnen
-[Betrag] EUR fuer [Leistung] in Rechnung gestellt.
+[Betrag] EUR für [Leistung] in Rechnung gestellt.
 Die Zahlung war faellig am [Datum]. Bis heute, [Datum],
 ist die Zahlung nicht bei mir eingegangen.
 
@@ -209,7 +208,7 @@ Mit freundlichen Gruessen
 
 ### Schritt 3 — Wie senden?
 
-- **Einschreiben mit Rueckschein**: Beweis fuer Zugang.
+- **Einschreiben mit Rueckschein**: Beweis für Zugang.
 - **Einschreiben Einwurf**: Etwas guenstiger.
 - **Brief mit Postzustellungsurkunde** (selten privat).
 - **Email**: rechtlich moeglich, aber Zugangs-Beweis schwieriger. Speichern Sie versendete Email und ggf. Lesebestaetigung.
@@ -223,7 +222,7 @@ Geben Sie eine angemessene Frist (7-14 Tage). Zu kurz koennte unbillig sein, zu 
 
 ### Schritt 5 — Zweit-Mahnung? Dritt-Mahnung?
 
-Rechtlich reicht **eine** Mahnung fuer den Verzug. Mehrere Mahnungen sind eher psychologisch (Geschaeftsgefuehl). Mahngebuehr darf nicht ueberhoeht sein (in Verbraucherbeziehung umstritten — pauschal 2,50 EUR sind als marktueblich akzeptiert).
+Rechtlich reicht **eine** Mahnung für den Verzug. Mehrere Mahnungen sind eher psychologisch (Geschaeftsgefuehl). Mahngebuehr darf nicht ueberhoeht sein (in Verbraucherbeziehung umstritten — pauschal 2,50 EUR sind als marktueblich akzeptiert).
 
 ### Schritt 6 — Verzugszinsen ab wann?
 
@@ -257,7 +256,7 @@ Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 
 ## Querverweise
 
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
 - `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als naechste Stufe.
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Erfolg pruefen.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
@@ -284,7 +283,7 @@ Bevor Sie klagen, kann ein Anwaltsgespraech viel klaeren: Habe ich Erfolgsaussic
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Beratungshilfe**: Staatliche Foerderung der aussergerichtlichen Anwaltsberatung fuer Beduerftige.
+- **Beratungshilfe**: Staatliche Förderung der aussergerichtlichen Anwaltsberatung für Beduerftige.
 - **Berechtigungsschein**: Vom Amtsgericht ausgestellter Schein, der dem Anwalt die Berechnung gegenueber dem Staat ermoeglicht.
 - **Schutzgebuehr**: Selbst zu tragender Anteil; pauschal 15 EUR.
 
@@ -293,10 +292,10 @@ Bevor Sie klagen, kann ein Anwaltsgespraech viel klaeren: Habe ich Erfolgsaussic
 - **§ 1 BerHG** — Anwendungsbereich Beratungshilfe.
 - **§ 4 BerHG** — Antrag beim Amtsgericht.
 - **§ 6a BerHG** — Schutzgebuehr 15 EUR.
-- **§ 7 BerHG** — Gebuehrenrechnung Anwalt zum Staat.
+- **§ 7 BerHG** — Gebührenrechnung Anwalt zum Staat.
 - **§ 116 ZPO** — Verweisung auf PKH bei Klage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -316,8 +315,8 @@ Variante A ist sicherer — Anwalt weiss, dass Schein bewilligt.
 
 Beim Amtsgericht Ihres Wohnsitzes:
 
-- Formular fuer Beratungshilfe.
-- Belege fuer Beduerftigkeit (Lohnabrechnungen, Sozialleistungs-Bescheid).
+- Formular für Beratungshilfe.
+- Belege für Beduerftigkeit (Lohnabrechnungen, Sozialleistungs-Bescheid).
 - Kurze Schilderung der Rechtsangelegenheit.
 
 Sie bekommen einen Berechtigungsschein, mit dem Sie zum Anwalt gehen.
@@ -339,34 +338,34 @@ Der Anwalt rechnet seine Gebuehr direkt mit dem Staat ab.
 
 ### Schritt 6 — Was sie NICHT abdeckt
 
-- Klageerhebung (dafuer PKH).
+- Klageerhebung (dafür PKH).
 - Vertretung im Prozess (PKH).
 - Verfahren vor Verwaltungsbehoerden in mehreren Bundeslaendern ausgeschlossen (Pruefen!).
 
 ### Schritt 7 — Uebergang zu PKH
 
-Wenn nach Beratung klar wird: Sie muessen klagen — beantragen Sie PKH (Skill `prozesskostenhilfe-pkh-114-zpo`). Beratungshilfe und PKH sind unterschiedliche Foerderungen.
+Wenn nach Beratung klar wird: Sie muessen klagen — beantragen Sie PKH (Skill `prozesskostenhilfe-pkh-114-zpo`). Beratungshilfe und PKH sind unterschiedliche Förderungen.
 
 ### Schritt 8 — Welche Anwaelte?
 
-Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Manche Anwaelte lehnen wegen niedriger Gebuehren ab. Suchen Sie ggf. mehrere.
+Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Manche Anwaelte lehnen wegen niedriger Gebühren ab. Suchen Sie ggf. mehrere.
 
 ## Worauf Sie besonders achten muessen
 
-- **Beratungshilfe vor Klage**, PKH **fuer Klage**. Verwechseln nicht.
-- **15 EUR Schutzgebuehr** ist obligatorisch (auch fuer Beduerftige).
+- **Beratungshilfe vor Klage**, PKH **für Klage**. Verwechseln nicht.
+- **15 EUR Schutzgebuehr** ist obligatorisch (auch für Beduerftige).
 - **Beratungshilfe ist EINMAL pro Angelegenheit** — nicht beliebig oft.
 - **Belege vollstaendig**: Sonst Antrag-Ablehnung.
 
 ## Typische Fehler
 
-- "Beratungshilfe deckt Klage." → Nein, fuer Klage PKH.
-- "Ich muss zuerst einen Anwalt nehmen." → Sie koennen auch direkt zum AG fuer Schein.
+- "Beratungshilfe deckt Klage." → Nein, für Klage PKH.
+- "Ich muss zuerst einen Anwalt nehmen." → Sie koennen auch direkt zum AG für Schein.
 - "Beratungshilfe ist kostenlos." → 15 EUR Schutzgebuehr.
 
 ## Querverweise
 
-- `prozesskostenhilfe-pkh-114-zpo` — PKH fuer Klage.
+- `prozesskostenhilfe-pkh-114-zpo` — PKH für Klage.
 - `pkh-bewilligung-ablehnung-folgen` — Wenn PKH abgelehnt.
 - `wann-doch-anwalt-grenzfaelle` — Wann Anwalt.
 - `einreichung-rechtsantragsstelle-selbst` — Andere Hilfe.
@@ -374,7 +373,6 @@ Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Ma
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BerHG unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -47,7 +47,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 - § 138 BGB (sittenwidrige Rechtsgeschaefte) wird durch Grundrechte ausgefuellt (Buergschaftsentscheidung BVerfGE 89, 214 zu nahen Familienangehoerigen).
 - § 242 BGB (Treu und Glauben) wirkt grundrechtsgepraegt — Beispiele in Mietrecht, Arbeitsrecht, AGB-Recht.
 - § 826 BGB (vorsaetzliche sittenwidrige Schaedigung) wird durch Grundrechtsabwaegung konkretisiert.
-- Vertragsfreiheit (Art. 2 Abs. 1 GG iVm Art. 12 Abs. 1 GG) ist Massstab fuer Kontrolle ueber AGB (§§ 305 ff. BGB) und ueber § 138 BGB.
+- Vertragsfreiheit (Art. 2 Abs. 1 GG iVm Art. 12 Abs. 1 GG) ist Massstab für Kontrolle ueber AGB (§§ 305 ff. BGB) und ueber § 138 BGB.
 
 **Unionsrechtskonforme Auslegung:**
 
@@ -63,7 +63,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 - Bei Richtlinien (nicht Verordnungen): keine horizontale Direktwirkung (Marshall). Im Privatrechtsstreit nur ueber Auslegung des nationalen Umsetzungsrechts.
 - Bei Verfassung: keine "freie Verfassung" — die Auslegung muss am vorgegebenen Norm-Text ansetzen.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Konfliktebene identifizieren.** Welche Ebene betrifft den Streit: Grundgesetz, Unionsrecht (Verordnung/Richtlinie), Voelkerrecht (EMRK)?
 2. **Mehrebenenordnung pruefen.** Steht eine Norm aussichtlich im Konflikt mit hoeherrangigem Recht?

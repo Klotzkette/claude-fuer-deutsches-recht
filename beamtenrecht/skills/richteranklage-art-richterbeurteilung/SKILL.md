@@ -1,40 +1,25 @@
 ---
 name: richteranklage-art-richterbeurteilung
-description: "Richteranklage ART Richterbeurteilung im Beamtenrecht: prüft konkret Skill zur Richteranklage nach Art, Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Richteranklage ART Richterbeurteilung
+# Richteranklage Art. 98 GG
 
 ## Arbeitsbereich
 
-**Richteranklage ART Richterbeurteilung** ordnet den Fall über die tragenden Prüffelder: Skill zur Richteranklage nach Art, Richterbeurteilung, Präsidialrat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `richteranklage-art-98-gg` | Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen fuer ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster. |
-| `richterbeurteilung-praesidialrat` | Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung. |
-| `richterdienst-drig-grundlagen` | Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten. |
+Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `richteranklage-art-98-gg`
-
-**Fokus:** Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen fuer ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster.
-
-
-# Richteranklage Art. 98 GG
 
 ## 1. Zweck und Anwendungsfall
 
-Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selten, aber relevant fuer Verfahrensbeteiligte, die einen Bundesrichter wegen schwerwiegender Pflichtverstoesse aus dem Amt entfernt sehen wollen, oder fuer den betroffenen Richter zur Verteidigung.
+Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selten, aber relevant für Verfahrensbeteiligte, die einen Bundesrichter wegen schwerwiegender Pflichtverstoesse aus dem Amt entfernt sehen wollen, oder für den betroffenen Richter zur Verteidigung.
 
 ## 2. Eingaben
 
@@ -46,10 +31,10 @@ Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 ## 3. Ablauf / Checkliste
 
 ### a) Tatbestand
-- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder ausser Amts gegen die Grundsaetze des Grundgesetzes oder gegen die verfassungsmaessige Ordnung verstoesst, kann das Bundesverfassungsgericht auf Antrag des Bundestages mit Zweidrittelmehrheit anordnen, dass der Richter in ein anderes Amt versetzt oder in den Ruhestand zu versetzen ist. Bei vorsaetzlichem Verstoss Entlassung.
+- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder ausser Amts gegen die Grundsaetze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstoesst, kann das Bundesverfassungsgericht auf Antrag des Bundestages mit Zweidrittelmehrheit anordnen, dass der Richter in ein anderes Amt versetzt oder in den Ruhestand zu versetzen ist. Bei vorsaetzlichem Verstoss Entlassung.
 
 ### b) Anwendung auf Landesrichter
-- Art. 98 Abs. 5 GG ermoeglicht analoge Vorschriften in den Laendern; landesrechtliche Vorschriften unterschiedlich.
+- Art. 98 Abs. 5 GG ermoeglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich.
 
 ### c) Antragsverfahren
 - Antrag durch den Bundestag (Bundesrichter).
@@ -85,81 +70,3 @@ Skill zur Pruefung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 ## 7. Beispiel (Kurzfassung)
 
 Hypothetisch: Bundesrichter aeussert sich oeffentlich gegen die Geltung des Grundgesetzes. Skill liefert Pruefraster der Voraussetzungen einer Richteranklage und der parallelen disziplinarrechtlichen Schritte.
-
-## 2. `richterbeurteilung-praesidialrat`
-
-**Fokus:** Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung.
-
-
-# Richterbeurteilung Praesidialrat
-
-## Aufgabe
-
-Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung.
-
-## Arbeitsweise
-
-Prüfe Beurteilung, Präsidialratsbeteiligung nach DRiG/Landesrecht, Auswahlvermerk und Rechtsschutz. Beachte richterliche Besonderheiten.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 3. `richterdienst-drig-grundlagen`
-
-**Fokus:** Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten.
-
-
-# Richterdienst Drig Grundlagen
-
-## Aufgabe
-
-Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten.
-
-## Arbeitsweise
-
-Prüfe DRiG §§ 1 ff., Status, Probezeit, Lebenszeit, Deutscher im Sinne Art. 116 GG, Befähigung zum Richteramt und soziale Kompetenz.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.

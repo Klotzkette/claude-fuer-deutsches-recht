@@ -1,28 +1,45 @@
 ---
 name: zustandigkeit-pfarrei
-description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustandigkeit Pfarrei
 
 ## Arbeitsbereich
 
-**Zustandigkeit Pfarrei** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Zustandigkeit Pfarrei** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zustandigkeit-pfarrei-bistum-offizialat-dikasterium` | Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im Römisch-katholisches Kirchenrecht (CIC 1983) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
 - Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zustandigkeit-pfarrei-bistum-offizialat-dikasterium`
 
@@ -31,11 +48,9 @@ description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht: fachl
 # Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
 
 ## Fachkern: Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
-- **Spezialgegenstand:** Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
 - **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Auftrag
 

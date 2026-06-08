@@ -7,22 +7,22 @@ description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Vektor Shedding Vergleichsverhandlung** ordnet den Fall über die tragenden Prüffelder: Vektor-Shedding und Umweltrisiko, Vergleichsverhandlung und Einigungsstrategie im Medizinrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vektor Shedding Vergleichsverhandlung** ordnet den Fall über die tragenden Prüfungslinien: Vektor-Shedding und Umweltrisiko, Vergleichsverhandlung und Einigungsstrategie im Medizinrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `vektor-shedding-umweltrisiko` | Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vektor-shedding-umweltrisiko`
 
@@ -31,15 +31,12 @@ description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konk
 # Vektor-Shedding und Umweltrisiko
 
 ## Fachkern: Vektor-Shedding und Umweltrisiko
-- **Spezialgegenstand:** Vektor-Shedding und Umweltrisiko wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Vektor-Shedding und Umweltrisiko** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten.
 
@@ -89,11 +86,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 
 ## Fachkern: Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
-- **Spezialgegenstand:** Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Wann dieser Arbeitsgang greift
 
@@ -122,7 +116,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -184,7 +178,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -197,7 +190,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -206,7 +199,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -224,7 +217,7 @@ Im Bereich Arzthaftungs-, Berufs- und Vertragsarztrecht oft uebersehen:
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -239,12 +232,12 @@ Klassische Stolperfalle in Arzthaftungs-, Berufs- und Vertragsarztrecht:
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Vertiefung — Rechtsprechung und Normenkette Vergleich Medizinrecht
 

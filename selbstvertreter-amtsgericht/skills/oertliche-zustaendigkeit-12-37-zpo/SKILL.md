@@ -3,11 +3,11 @@ name: oertliche-zustaendigkeit-12-37-zpo
 description: "Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt."
 ---
 
-# Welches Amtsgericht ist oertlich zustaendig?
+# Welches Amtsgericht ist oertlich zuständig?
 
 ## Worum geht es?
 
-Es reicht nicht zu wissen, dass das AG zustaendig ist — Sie muessen wissen, **welches** AG. Deutschland hat ueber 600 Amtsgerichte. Die ZPO regelt das in §§ 12 ff. Regel: Sie klagen am Wohnsitz des Beklagten ("allgemeiner Gerichtsstand"). Es gibt aber **besondere Gerichtsstaende**, an denen Sie als Klaeger waehlen koennen. Und es gibt **ausschliessliche Gerichtsstaende**, die alle anderen verdraengen.
+Es reicht nicht zu wissen, dass das AG zuständig ist — Sie muessen wissen, **welches** AG. Deutschland hat ueber 600 Amtsgerichte. Die ZPO regelt das in §§ 12 ff. Regel: Sie klagen am Wohnsitz des Beklagten ("allgemeiner Gerichtsstand"). Es gibt aber **besondere Gerichtsstaende**, an denen Sie als Klaeger waehlen koennen. Und es gibt **ausschliessliche Gerichtsstaende**, die alle anderen verdraengen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,16 +29,16 @@ Es reicht nicht zu wissen, dass das AG zustaendig ist — Sie muessen wissen, **
 - **§ 17 ZPO** — Allg. Gerichtsstand juristischer Person = Sitz.
 - **§ 21 ZPO** — Niederlassungs-Gerichtsstand.
 - **§ 29 ZPO** — Gerichtsstand des Erfuellungsorts.
-- **§ 29a ZPO** — Ausschliesslicher Gerichtsstand fuer Wohnraummietsachen (Lage des Mietobjekts).
+- **§ 29a ZPO** — Ausschliesslicher Gerichtsstand für Wohnraummietsachen (Lage des Mietobjekts).
 - **§ 29c ZPO** — Verbraucher-Gerichtsstand (Wohnsitz des Verbrauchers).
 - **§ 32 ZPO** — Gerichtsstand der unerlaubten Handlung (Tatort).
 - **§§ 38–40 ZPO** — Gerichtsstandsvereinbarung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ausschliesslichen Gerichtsstand pruefen
 
-Wenn Ihr Streit unter eine **ausschliessliche** Zustaendigkeit faellt, koennen Sie nirgends sonst klagen. Wichtigste Faelle:
+Wenn Ihr Streit unter eine **ausschliessliche** Zuständigkeit faellt, koennen Sie nirgends sonst klagen. Wichtigste Faelle:
 
 - **Wohnraummietsache (§ 29a ZPO)**: Lage der Mietsache.
 - **Dingliche Klagen ueber Grundstuecke (§ 24 ZPO)**: Lage des Grundstuecks.
@@ -79,19 +79,19 @@ Wenn beide Parteien im Vertrag einen Gerichtsstand vereinbart haben: § 38 ZPO.
 
 Faustregel: Mit einem Verbraucher kann ein anderer Gerichtsstand i. d. R. **nicht** wirksam vereinbart werden.
 
-### Schritt 5 — Gerichts-Wahl bei Mehrfach-Zustaendigkeit
+### Schritt 5 — Gerichts-Wahl bei Mehrfach-Zuständigkeit
 
-Mehrere Gerichtsstaende gleichzeitig moeglich? Sie waehlen als Klaeger. § 35 ZPO. Aber: Praktische Erwaegungen — Anfahrt fuer Sie, Anfahrt fuer Zeugen, Sprache des Gerichts (falls dolmetscherpflichtig). Skill `dolmetscher-185-gvg`.
+Mehrere Gerichtsstaende gleichzeitig moeglich? Sie waehlen als Klaeger. § 35 ZPO. Aber: Praktische Erwaegungen — Anfahrt für Sie, Anfahrt für Zeugen, Sprache des Gerichts (falls dolmetscherpflichtig). Skill `dolmetscher-185-gvg`.
 
 ### Schritt 6 — Beim falschen Gericht eingeklagt?
 
-Beklagter ruegt Unzustaendigkeit in der Klageerwiderung; Gericht verweist auf Antrag nach § 281 ZPO. Wenn Beklagter ruegelos verhandelt: Gericht wird zustaendig (§ 39 ZPO).
+Beklagter ruegt Unzuständigkeit in der Klageerwiderung; Gericht verweist auf Antrag nach § 281 ZPO. Wenn Beklagter ruegelos verhandelt: Gericht wird zuständig (§ 39 ZPO).
 
 ## Worauf Sie besonders achten muessen
 
 - **Mietsache § 29a ZPO**: Ausschliesslich am Lagrort der Wohnung. Wenn Vermieter in Hamburg sitzt und Wohnung in Muenchen ist: Muenchen!
 - **Online-Streit**: BGH hat Kriterien zur "bestimmungsgemaessen" Abrufbarkeit entwickelt. Bei Online-Kaufstreitigkeiten z. B. § 29c ZPO und § 32 ZPO konkurrieren.
-- **Erfuellungsort bei Geldschulden**: Die alte Streitfrage Bring- vs. Schickschuld. Pruefen Sie Vertragsregelung; ansonsten ist die Streitfrage in der Praxis fuer Sie als Laien schwer aufzuloesen — fragen Sie ggf. die Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
+- **Erfuellungsort bei Geldschulden**: Die alte Streitfrage Bring- vs. Schickschuld. Pruefen Sie Vertragsregelung; ansonsten ist die Streitfrage in der Praxis für Sie als Laien schwer aufzuloesen — fragen Sie ggf. die Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
 
 ## Typische Fehler
 
@@ -102,14 +102,13 @@ Beklagter ruegt Unzustaendigkeit in der Klageerwiderung; Gericht verweist auf An
 ## Querverweise
 
 - `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Welche Gerichtsstufe?
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Welche Gerichtsstufe?
 - `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungsort und Gerichtsstand bei Online-Delikten beachten — bei Unsicherheit Rechtsantragsstelle einschalten.
-
 
 ## Qualitäts-Hardening
 

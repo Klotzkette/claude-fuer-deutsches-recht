@@ -6,11 +6,8 @@ description: "Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwe
 # Sachlichkeitsgebot-Anwendung
 
 ## Fachkern: Sachlichkeitsgebot-Anwendung
-- **Spezialgegenstand:** Sachlichkeitsgebot-Anwendung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill erläutert das anwaltliche Sachlichkeitsgebot in seiner normativen Tiefe und wendet es auf konkrete Formulierungen an. Das Sachlichkeitsgebot ist einer der wichtigsten berufsrechtlichen Standards und gleichzeitig einer der am häufigsten missverstandenen.
 

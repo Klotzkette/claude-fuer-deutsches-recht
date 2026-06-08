@@ -7,24 +7,24 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 
 ## Arbeitsbereich
 
-**Zugang Kuendigungsschutzklage** ordnet den Fall über die tragenden Prüffelder: Arbeitsrecht, Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zugang Kuendigungsschutzklage** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsrecht, Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte. |
-| `aufhebungsvertrag-sperrzeit-prognose` | Prüffeld für aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `bag-freistellungsklausel-unwirksam-5azr10825` | Prüffeld für bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `aufhebungsvertrag-sperrzeit-prognose` | Prüfungslinie für aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-freistellungsklausel-unwirksam-5azr10825` | Prüfungslinie für bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga`
 
@@ -34,7 +34,7 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 
 ## Aufgabe
 
-Skill fuer Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
+Skill für Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 
 ## Norm
 
@@ -98,7 +98,6 @@ Skill fuer Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -265,7 +264,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 3. `aufhebungsvertrag-sperrzeit-prognose`
 
-**Fokus:** Prüffeld für aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Aufhebungsvertrag — Sperrzeit-Prognose
 
@@ -276,7 +275,6 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -303,9 +301,9 @@ Aufhebungsverträge führen häufig zu Sperrzeit beim Arbeitslosen-Geld (§ 159 
 
 - "Wer das Beschäftigungs-Verhältnis durch Aufhebungsvertrag löst"
 - Auch beim Arbeitgeber-Initiierten Aufhebungsvertrag — wenn Arbeitnehmer mit-wirkt
-- BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Der Abschluss eines Aufhebungsvertrags zur Abwendung einer rechtmaessigen, drohenden ordentlichen betriebsbedingten Kuendigung des Arbeitgebers kann einen wichtigen Grund i.S.d. § 144 SGB III a.F. (heute § 159 SGB III) darstellen, wenn dem Arbeitnehmer die Hinnahme der Kuendigung nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
-- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Praezisierung zum Pruefumfang "objektiv rechtmaessige Kuendigung". Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
-- Massgeblich daneben: Fachliche Weisungen der Bundesagentur fuer Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig).
+- BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Der Abschluss eines Aufhebungsvertrags zur Abwendung einer rechtmäßigen, drohenden ordentlichen betriebsbedingten Kuendigung des Arbeitgebers kann einen wichtigen Grund i.S.d. § 144 SGB III a.F. (heute § 159 SGB III) darstellen, wenn dem Arbeitnehmer die Hinnahme der Kuendigung nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
+- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Praezisierung zum Pruefumfang "objektiv rechtmäßige Kuendigung". Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
+- Massgeblich daneben: Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig).
 
 ### Folge Sperrzeit
 
@@ -359,7 +357,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### BSG-Linie
 
-- BSG, B 11a AL 47/05 R (12.07.2006): kein "wichtiger Grund" bei sittenwidriger oder offensichtlich rechtswidriger Kuendigung als angebliche Alternative; "wichtiger Grund" bei objektiv rechtmaessiger, drohender Kuendigung und Einhaltung der Kuendigungsfrist.
+- BSG, B 11a AL 47/05 R (12.07.2006): kein "wichtiger Grund" bei sittenwidriger oder offensichtlich rechtswidriger Kuendigung als angebliche Alternative; "wichtiger Grund" bei objektiv rechtmäßiger, drohender Kuendigung und Einhaltung der Kuendigungsfrist.
 - BSG, B 11 AL 6/11 R (02.05.2012): Praezisierung zur Pruefdichte; "drohende Kuendigung" muss konkret und ernsthaft sein.
 - Offene Quelle jeweils: dejure.org-Vernetzung.
 - "Vernunft" der Aufhebungsvereinbarung wenn Abfindungs-Vereinbarung im erwarteten Korridor (0,25 - 0,5 BruttoMG pro Beschaeftigungsjahr) und Kuendigungsfrist gewahrt.
@@ -499,7 +497,7 @@ Im Rahmen der Sozialauswahl gemäss § 1 Abs. 3 KSchG
 wäre die Arbeitnehmerin betroffen gewesen.
 
 Zur Vermeidung eines Kuendigungsschutzprozesses und
-mit Ruecksicht auf die Sozialauswahl-Konstellation
+mit Rücksicht auf die Sozialauswahl-Konstellation
 schliessen die Parteien folgende Aufhebungsvereinbarung:
 
 § 1 Beendigung
@@ -611,13 +609,13 @@ und die Empfehlung verstanden habe."
 - KSchG §§ 9 10
 - EStG §§ 24 34
 - BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender betriebsbedingter Kuendigung (dejure.org-Vernetzung).
-- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Pruefdichte fuer rechtmaessige drohende Kuendigung (dejure.org-Vernetzung).
-- Fachliche Weisungen der Bundesagentur fuer Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
+- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Pruefdichte für rechtmäßige drohende Kuendigung (dejure.org-Vernetzung).
+- Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Quellenregel: Literatur (z.B. Krodel) nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## 4. `bag-freistellungsklausel-unwirksam-5azr10825`
 
-**Fokus:** Prüffeld für bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -629,7 +627,6 @@ und die Empfehlung verstanden habe."
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum es geht
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -637,7 +634,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ## Leitentscheidung
 
 - BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
-- Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Freistellungsklausel, die ohne weitere Voraussetzungen die Freistellung des Arbeitnehmers nach Ausspruch einer Kuendigung erlaubt, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam, weil sie den Arbeitnehmer unangemessen benachteiligt. Das verfassungsrechtlich geschuetzte Interesse des Arbeitnehmers an tatsaechlicher Beschaeftigung bis zum Ablauf der Kuendigungsfrist ueberwiegt das pauschale Freistellungsinteresse des Arbeitgebers. Eine wirksame Klausel verlangt einen konkreten Anlasstatbestand (z.B. konkrete Geheimhaltungsbedenken, Konkurrenztaetigkeit, Vertrauensverlust) und Interessenabwaegung im Einzelfall.
+- Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmäßige) Freistellungsklausel, die ohne weitere Voraussetzungen die Freistellung des Arbeitnehmers nach Ausspruch einer Kuendigung erlaubt, ist nach § 307 Abs. 1 Satz 1 BGB unwirksam, weil sie den Arbeitnehmer unangemessen benachteiligt. Das verfassungsrechtlich geschuetzte Interesse des Arbeitnehmers an tatsaechlicher Beschaeftigung bis zum Ablauf der Kuendigungsfrist ueberwiegt das pauschale Freistellungsinteresse des Arbeitgebers. Eine wirksame Klausel verlangt einen konkreten Anlasstatbestand (z.B. konkrete Geheimhaltungsbedenken, Konkurrenztaetigkeit, Vertrauensverlust) und Interessenabwaegung im Einzelfall.
 - Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung".
 - Status: Volltextveroeffentlichung laut Drittquellen noch ausstehend - vor Verwendung im Schriftsatz Volltext pruefen.
 

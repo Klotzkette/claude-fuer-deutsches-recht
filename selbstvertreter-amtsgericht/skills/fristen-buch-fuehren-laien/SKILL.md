@@ -26,7 +26,7 @@ Anwaltskanzleien fuehren Fristenkalender mit Mehrfach-Kontrollen, weil Versaeumn
 - **§ 222 ZPO** — Prozessfristen.
 - **§ 233 ZPO** — Wiedereinsetzung (eingeschraenkt, daher Praevention besser).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle erstellen
 
@@ -93,7 +93,7 @@ In Aktenordner sortieren.
 
 ### Schritt 8 — Bei mehreren Verfahren
 
-Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte fuer Verfahrens-Zuordnung.
+Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte für Verfahrens-Zuordnung.
 
 ### Schritt 9 — Routine
 
@@ -107,7 +107,7 @@ Einmal pro Woche:
 
 - **Vorfristen** sind die Lebensversicherung.
 - **Doppelpruefung** vermeidet Rechenfehler.
-- **Belege aufbewahren** fuer ggf. spaeteren Streit.
+- **Belege aufbewahren** für ggf. spaeteren Streit.
 - **Routine** der woechentlichen Pruefung.
 
 ## Typische Fehler

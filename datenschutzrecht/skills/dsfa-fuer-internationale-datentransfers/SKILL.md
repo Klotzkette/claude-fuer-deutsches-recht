@@ -1,6 +1,6 @@
 ---
 name: dsfa-fuer-internationale-datentransfers
-description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion fuer Drittlandbezug."
+description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug."
 ---
 
 # DSFA bei internationalen Datentransfers
@@ -13,7 +13,7 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 
 - Bei Auftragsverarbeiter mit Sitz oder Unterauftrag im Drittland
 - Bei eigener Niederlassung im Drittland
-- Bei US-Cloud-Diensten (auch bei EU-Hosting wegen Zugriffsmoeglichkeit US-Behoerden)
+- Bei US-Cloud-Diensten (auch bei EU-Hosting wegen Zugriffsmoeglichkeit US-Behörden)
 - Bei Konzernintern-Transfers ueber Landesgrenzen
 - Bei KI-Anbietern mit Training oder Inferenz im Drittland
 - Bei nationalen Sicherheitsgesetzen des Drittlands (z. B. CLOUD Act, FISA 702, China DSL)
@@ -24,7 +24,7 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 - Art. 45 DSGVO Angemessenheitsbeschluss der Kommission.
 - Art. 46 DSGVO geeignete Garantien (SCC, BCR, Verhaltensregeln, Zertifizierungen).
 - Art. 47 DSGVO Binding Corporate Rules.
-- Art. 49 DSGVO Ausnahmen fuer besondere Faelle (Einwilligung, Vertragserfuellung, oeffentliche Interessen).
+- Art. 49 DSGVO Ausnahmen für besondere Faelle (Einwilligung, Vertragserfuellung, öffentliche Interessen).
 - Schrems II — EuGH Urt. v. 16.07.2020, C-311/18 — Transfer-Pruefungspflicht; TIA erforderlich. (Aktenzeichen verifiziert; sonstige Folgeentscheidungen verifizierungspflichtig.)
 - EDSA Leitlinien 04/2022 zu personenbezogenen Datentransfers (Nutzer sollte Aktualitaet prüfen).
 - Angemessenheitsbeschluss EU-US Data Privacy Framework (DPF) 10.07.2023, Implementing Decision (EU) 2023/1795.
@@ -33,16 +33,16 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Daten gehen wohin, an wen, in welcher Form, wie oft, in welchem Umfang?
-2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer fuer den Zweck erforderlich, oder gaebe es EU-Alternativen?
+2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer für den Zweck erforderlich, oder gaebe es EU-Alternativen?
 3. **Risikoanalyse.**
- - Drittlandrecht: Zugriffsbefugnisse von Behoerden, Rechtsbehelfe Betroffener.
+ - Drittlandrecht: Zugriffsbefugnisse von Behörden, Rechtsbehelfe Betroffener.
  - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
  - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
 4. **Massnahmen.**
  - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
- - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behoerdenanfragen), organisatorisch (Audit, Schulung).
+ - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behördenanfragen), organisatorisch (Audit, Schulung).
 5. **Restrisiko.** Pruefung ob die ergaenzenden Massnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
-6. **Konsultation / Genehmigung.** DSB-Anhoerung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
+6. **Konsultation / Genehmigung.** DSB-Anhörung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
 
 ## Mustertext / Template (Transfer-Sektion einer DSFA)
 
@@ -70,11 +70,11 @@ Sub-AVs: [Liste mit Land]
 [ ] DPF-Zertifizierung Empfaenger: ja / nein, Stand [Datum]
 
 3. Drittlandrechtspruefung
-- Zugriffsbefugnisse Behoerden: [CLOUD Act / FISA 702 / Section 702 / China DSL / Russland TK-Gesetz]
+- Zugriffsbefugnisse Behörden: [CLOUD Act / FISA 702 / Section 702 / China DSL / Russland TK-Gesetz]
 - Rechtsbehelfe Betroffener: [vorhanden / nicht aequivalent]
 - Aufsichtsstruktur: [unabhaengig / nicht unabhaengig]
 - Pruefung Schrems-II-Standard erfuellt: ja / nein
-- Quelle: [EDSA-Laenderbericht, Anbietererklaerung, Stand]
+- Quelle: [EDSA-Länderbericht, Anbietererklaerung, Stand]
 
 4. Ergaenzende Massnahmen
 - Technisch:
@@ -83,12 +83,12 @@ Sub-AVs: [Liste mit Land]
  [ ] Tokenisierung
  [ ] Split-Processing (sensitive Felder in EU)
 - Vertraglich:
- [ ] Transparenz-Pflicht ueber Behoerdenanfragen
+ [ ] Transparenz-Pflicht ueber Behördenanfragen
  [ ] Audit-Recht
  [ ] Loeschpflicht nach Vertragsende
 - Organisatorisch:
  [ ] Anbieterschulung Datenschutz
- [ ] Notfallplan bei Behoerdenzugriff
+ [ ] Notfallplan bei Behördenzugriff
 
 5. Restrisikobewertung
 [GRUEN / GELB / ORANGE / ROT]
@@ -111,10 +111,10 @@ Unterschrift DSB: ____________________
 ## Typische Fehler
 
 - TIA wird separat vom DSFA-Prozess gefuehrt — Schnittstellen gehen verloren.
-- US-Cloud mit EU-Hosting wird als reiner EU-Verarbeitung behandelt — Zugriffsbefugnis US-Behoerden uebersehen.
+- US-Cloud mit EU-Hosting wird als reiner EU-Verarbeitung behandelt — Zugriffsbefugnis US-Behörden uebersehen.
 - SCC-Modul falsch gewaehlt (C-P statt C-C oder umgekehrt).
 - Ergaenzende Massnahmen werden nur rechtlich, nicht technisch dokumentiert.
-- Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur fuer Einzelfaelle gedacht ist.
+- Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur für Einzelfaelle gedacht ist.
 - Re-Pruefung nach Schrems-Folgeurteil unterbleibt.
 - DPF-Zertifizierung des Anbieters wird nicht jaehrlich nachgeprueft.
 

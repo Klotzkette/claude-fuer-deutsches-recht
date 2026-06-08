@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 431 KB) | PDF | [`gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf`](gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 430 KB) | PDF | [`gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf`](gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

@@ -1,6 +1,6 @@
 ---
 name: dsfa-template-deutsch-vollvorlage
-description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern fuer alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen."
+description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen."
 ---
 
 # DSFA-Vollvorlage Deutsch
@@ -21,9 +21,9 @@ Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35
 - Art. 35 Abs. 7 DSGVO Mindestinhalte:
  - lit. a systematische Beschreibung der Verarbeitungsvorgaenge und Zwecke
  - lit. b Bewertung der Notwendigkeit und Verhaeltnismaessigkeit
- - lit. c Bewertung der Risiken fuer die Rechte und Freiheiten der Betroffenen
+ - lit. c Bewertung der Risiken für die Rechte und Freiheiten der Betroffenen
  - lit. d Abhilfemassnahmen mit Garantien und Sicherheitsvorkehrungen
-- Art. 35 Abs. 2 DSGVO DSB-Anhoerung.
+- Art. 35 Abs. 2 DSGVO DSB-Anhörung.
 - Art. 35 Abs. 9 DSGVO Stakeholder-Konsultation soweit angemessen.
 - Art. 5 Abs. 2 DSGVO Rechenschaftspflicht.
 - EDSA-Leitlinien WP 248 rev.01.
@@ -89,7 +89,7 @@ Freigabeempfehlung: [Ja / Vorab-Konsultation Art. 36 / Nein]
 
 2. BEWERTUNG DER NOTWENDIGKEIT UND VERHAELTNISMAESSIGKEIT
  (Art. 35 Abs. 7 lit. b DSGVO)
-2.1 Erforderlichkeit der Verarbeitung fuer den Zweck
+2.1 Erforderlichkeit der Verarbeitung für den Zweck
 [Geeignet, erforderlich, kein milderes Mittel]
 2.2 Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO)
 [...]
@@ -169,14 +169,14 @@ Verweis: [...]
 
 6.5 Ueberpruefungsplan (Art. 35 Abs. 11 DSGVO)
 Naechste Pruefung: [DATUM]
-Trigger fuer ausserplanmaessige Pruefung: [Aenderung Datenarten / Empfaenger / Technologie / Rechtslage]
+Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / Technologie / Rechtslage]
 ```
 
 ## Typische Fehler
 
 - Vorlage wird verwendet, ohne den Datenfluss konkret zu beschreiben — Sektion 1 bleibt floskelhaft.
 - Verhaeltnismaessigkeit wird auf Rechtsgrundlage reduziert — Datenminimierung und Speicherbegrenzung werden uebersehen.
-- Risikoszenarien werden nur fuer Vertraulichkeit gepflegt, andere Schutzziele bleiben leer.
+- Risikoszenarien werden nur für Vertraulichkeit gepflegt, andere Schutzziele bleiben leer.
 - Massnahmen-Tabelle ohne Verantwortliche und Fristen — nicht steuerbar.
 - DSB unterschreibt nicht oder spaeter — Beweisluecke.
 - Versionierung fehlt — bei Aenderung nicht nachvollziehbar.

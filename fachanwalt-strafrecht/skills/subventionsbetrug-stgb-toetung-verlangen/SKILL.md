@@ -7,60 +7,60 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüffelder: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüfungslinien: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafrecht-spezial-subventionsbetrug-264-stgb` | Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster fuer Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen. |
-| `strafrecht-spezial-toetung-auf-verlangen-216-stgb` | Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre. |
+| `strafrecht-spezial-subventionsbetrug-264-stgb` | Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster für Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen. |
+| `strafrecht-spezial-toetung-auf-verlangen-216-stgb` | Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre. |
 | `strafrecht-spezial-totschlag-212-stgb` | Totschlag nach § 212 StGB. Grundtatbestand der vorsaetzlichen Toetung. Abgrenzung zu Mord § 211 StGB und zur fahrlaessigen Toetung § 222 StGB. Vorsatzformen (dolus directus / eventualis) und Hemmschwellentheorie der staendigen BGH-Rechtsprechung. Versuch § 22 / § 23 StGB. Minder schwerer Fall § 213 StGB. |
 | `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser` | Gewaesserverunreinigung nach Paragraph 324 StGB. Schutzgut Beschaffenheit eines Gewaessers. Tathandlung Veraenderung verschlechterung der Wasserqualitaet. Verwaltungsakzessorietaet Genehmigung. Vorsatz und Fahrlaessigkeit Absatz 3. Verteidigungslinien Verursachungsbeitrag Stoff-Mengen-Schwelle wasserrechtliche Erlaubnis. |
 | `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall` | Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB. Schutzgut Boden und Gewaesserumwelt vor gefaehrlichen Abfaellen. Tathandlungen Behandeln Lagern Befoerdern Verbringen. Katalog Absatz 1 Nummer 1 bis 4. Absatz 2 grenzueberschreitendes Verbringen. Verwaltungsakzessorietaet KrWG. Verteidigung Abfallbegriff Vorsatz. |
 | `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen` | Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB. Schutzgut Genehmigungsvorbehalt im immissionsschutzrechtlichen Verfahren. Absatz 1 Nuklearanlagen Absatz 2 immissionsschutzrechtlich genehmigungsbeduerftige Anlagen. Verwaltungsakzessorietaet BImSchG. Strafbarkeit Anlagenbetrieb ohne Genehmigung wesentliche Abweichung. |
 | `strafrecht-spezial-untreue-266-stgb-grundtatbestand` | Untreue nach Paragraph 266 StGB Grundtatbestand. Missbrauchstatbestand und Treubruchstatbestand. Vermoegensbetreuungspflicht aufgrund Gesetz Rechtsgeschaeft oder Treueverhaeltnis. Vermoegensschaden mit BGH-Stufenmodell. Verteidigungslinien bei Wirtschaftsstraftaten und GmbH-Geschaeftsfuehrung. |
 | `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93` | Untreue im Aktienrecht. Paragraph 266 StGB iVm Paragraph 93 AktG Sorgfaltspflicht des Vorstands. Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG. Pflichtverletzung bei riskanten Unternehmensentscheidungen. Spendenpraxis Sponsoring Risikomanagement. Aufsichtsrat-Verantwortung Paragraph 116 AktG. |
-| `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand` | Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster fuer Mitarbeiter Treuhaender Verwalter. |
-| `strafrecht-spezial-urheberrecht-106-urhg` | Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten oeffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes oeffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB. |
+| `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand` | Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster für Mitarbeiter Treuhaender Verwalter. |
+| `strafrecht-spezial-urheberrecht-106-urhg` | Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten öffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-subventionsbetrug-264-stgb`
 
-**Fokus:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster fuer Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
+**Fokus:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster für Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
 
 # Subventionsbetrug § 264 StGB
 
 ## Worum geht es
 
-Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfen (Bund, Laender), KfW-Programmen, EU-Foerdermitteln (EFRE, ELER, Horizon Europe), Investitionszuschuessen Wirtschaftsfoerderung, Forschungsgeldern, Landwirtschaftspraemien, Gas- und Strompreis-Bremsen. Vorsatz- und Leichtfertigkeitsdelikt § 264 Abs. 5 StGB. Strafrahmen bis fuenf Jahre, in besonders schweren Faellen ein bis zehn Jahre § 264 Abs. 2 StGB.
+Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfen (Bund, Länder), KfW-Programmen, EU-Foerdermitteln (EFRE, ELER, Horizon Europe), Investitionszuschuessen Wirtschaftsfoerderung, Forschungsgeldern, Landwirtschaftspraemien, Gas- und Strompreis-Bremsen. Vorsatz- und Leichtfertigkeitsdelikt § 264 Abs. 5 StGB. Strafrahmen bis fuenf Jahre, in besonders schweren Faellen ein bis zehn Jahre § 264 Abs. 2 StGB.
 
 ## Eingaben
 
 - Foerderbescheid, Antragsformular, Verwendungsnachweis.
 - Bankunterlagen, Buchhaltung, Lohnabrechnungen (bei Corona-Hilfen: Liquiditaetsstatus).
-- Anhoerung Bewilligungsstelle, Rueckforderungsbescheid, Schlussabrechnung.
+- Anhörung Bewilligungsstelle, Rueckforderungsbescheid, Schlussabrechnung.
 - Zeitliche Reihenfolge Antrag, Bewilligung, Mittelabfluss, Verwendung.
 
 ## Tatbestand und Auslegung
 
 ### Tatbestand § 264 Abs. 1 StGB
 
-1. **Unrichtige oder unvollstaendige Angaben** gegenueber Subventionsgeber oder einer in das Subventionsverfahren eingeschalteten Stelle ueber subventionserhebliche Tatsachen, die fuer ihn oder einen anderen vorteilhaft sind.
+1. **Unrichtige oder unvollstaendige Angaben** gegenueber Subventionsgeber oder einer in das Subventionsverfahren eingeschalteten Stelle ueber subventionserhebliche Tatsachen, die für ihn oder einen anderen vorteilhaft sind.
 2. **Verwendung des Gegenstandes oder der Geldleistung entgegen einer Verwendungsbeschraenkung.**
 3. **Inanspruchnahme einer Subvention auf Grund einer durch unrichtige Belege erschlichenen Subventionsgenehmigung.**
 4. **Unterlassen** der Mitteilung bei nachtraeglichem Wegfall der Anspruchsvoraussetzungen.
 
 ### Schluesselbegriffe
 
-- **Subvention § 264 Abs. 8 StGB.** Leistung aus oeffentlichen Mitteln nach Bundes- oder Landesrecht oder nach EU-Recht an Betriebe oder Unternehmen, wenigstens zum Teil ohne marktmaessige Gegenleistung. Corona-Soforthilfen sind nach BGH 4.5.2022 — 6 StR 392/21 Subventionen (Az. vor Verwendung verifizieren).
+- **Subvention § 264 Abs. 8 StGB.** Leistung aus öffentlichen Mitteln nach Bundes- oder Landesrecht oder nach EU-Recht an Betriebe oder Unternehmen, wenigstens zum Teil ohne marktmäßige Gegenleistung. Corona-Soforthilfen sind nach BGH 4.5.2022 — 6 StR 392/21 Subventionen (Az. vor Verwendung verifizieren).
 - **Subventionserheblichkeit § 264 Abs. 9 StGB.** Tatsache muss durch Gesetz oder durch den Subventionsgeber als subventionserheblich bezeichnet sein. Mehrstufige Pruefung.
 - **Leichtfertigkeit § 264 Abs. 5 StGB.** Grobe Fahrlaessigkeit; auch ohne Vorsatz strafbar mit bis zu drei Jahren.
 
@@ -96,7 +96,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 ## Konkurrenzen
 
 - **§ 264 StGB ist gegenueber § 263 StGB lex specialis.** § 263 verdraengt, soweit § 264 greift.
-- **§ 264 StGB / § 370 AO Steuerhinterziehung.** Tateinheit moeglich, wenn Foerderung steuerlich abgewickelt (z. B. Investitionszulage).
+- **§ 264 StGB / § 370 AO Steuerhinterziehung.** Tateinheit moeglich, wenn Förderung steuerlich abgewickelt (z. B. Investitionszulage).
 - **§ 264 StGB / § 263a StGB.** Bei Online-Antrag denkbar.
 - **§ 264 StGB / § 261 StGB Geldwaesche.** Reform 2021: jede Vortat tauglich.
 - **§ 264 StGB / Verwaltungsrecht.** Rueckforderung nach § 49 VwVfG i.V.m. § 49a VwVfG; parallel zur Strafverfolgung.
@@ -108,7 +108,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 - **§ 73 StGB Einziehung** zwingend (gesamte Subvention).
 - **Berufsverbot § 70 StGB** insbes. bei Foerdermittel-Beratern.
 - **Verwaltungsrechtliche Folgen** Subventionsrueckforderung mit Zinsen.
-- **Disqualifikation** fuer kuenftige Foerdermittel-Antraege (§ 7 BHO / LHO).
+- **Disqualifikation** für kuenftige Foerdermittel-Antraege (§ 7 BHO / LHO).
 - **Eintragung in Vergaberegister** bei wirtschaftlichen Akteuren.
 
 ## Mustertexte
@@ -119,7 +119,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 
 ### Bestreiten Subventionserheblichkeit
 
-"Die in der Anklageschrift bezeichnete Angabe ist nicht subventionserheblich im Sinne von § 264 Abs. 9 Nr. 1 oder Nr. 2 StGB. Das Antragsformular der [Behoerde] vom [Datum] enthaelt zwar pauschal die Formulierung [...], jedoch fehlt eine konkrete Bezeichnung der streitgegenstaendlichen Tatsache als subventionserheblich. Eine pauschale Globalformel genuegt nach staendiger Rechtsprechung des BGH nicht."
+"Die in der Anklageschrift bezeichnete Angabe ist nicht subventionserheblich im Sinne von § 264 Abs. 9 Nr. 1 oder Nr. 2 StGB. Das Antragsformular der [Behörde] vom [Datum] enthaelt zwar pauschal die Formulierung [...], jedoch fehlt eine konkrete Bezeichnung der streitgegenstaendlichen Tatsache als subventionserheblich. Eine pauschale Globalformel genuegt nach staendiger Rechtsprechung des BGH nicht."
 
 ## Querverweise
 
@@ -133,13 +133,13 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 - § 264 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__264.html.
 - BGH 4.5.2022 — 6 StR 392/21 (Corona-Soforthilfe als Subvention); Az. vor Verwendung ueber https://www.bundesgerichtshof.de verifizieren.
 - BGH staendige Rspr. zur Subventionserheblichkeit, Az. zu pruefen.
-- §§ 49, 49a VwVfG fuer parallele Rueckforderung; Verwaltungsverfahren nach LVwVfG.
+- §§ 49, 49a VwVfG für parallele Rueckforderung; Verwaltungsverfahren nach LVwVfG.
 - §§ 73, 73c StGB Einziehung; § 70 StGB Berufsverbot.
 - references/zitierweise.md.
 
 ## 2. `strafrecht-spezial-toetung-auf-verlangen-216-stgb`
 
-**Fokus:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
+**Fokus:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
 
 # Toetung auf Verlangen § 216 StGB
 
@@ -147,7 +147,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 
 § 216 StGB ist die zentrale **Privilegierung** der vorsaetzlichen Toetung: Wenn der Taeter durch ein **ausdrueckliches und ernstliches Verlangen des Getoeteten** zur Toetung bestimmt worden ist, gilt ein Strafrahmen von sechs Monaten bis zu fuenf Jahren Freiheitsstrafe; in minder schweren Faellen sogar weniger.
 
-Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der Mitleidstoetung. Die Abgrenzung zur straflosen **Beihilfe zum Suizid** ist die zentrale Auslegungsfrage. § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung) wurde durch das BVerfG mit Urteil vom 26.02.2020 fuer nichtig erklaert; die Suizidassistenz ist seit 2020 grundsaetzlich straflos. Eine Neuregelung steht bislang aus.
+Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der Mitleidstoetung. Die Abgrenzung zur straflosen **Beihilfe zum Suizid** ist die zentrale Auslegungsfrage. § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung) wurde durch das BVerfG mit Urteil vom 26.02.2020 für nichtig erklaert; die Suizidassistenz ist seit 2020 grundsaetzlich straflos. Eine Neuregelung steht bislang aus.
 
 ## Tatbestand und Auslegung
 
@@ -155,13 +155,13 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 **Tathandlung:** Toetung eines anderen Menschen wie bei § 212 StGB. Entscheidend ist die **Bestimmung durch das Opfer** zur Toetung.
 
-**Verlangen:** Mehr als blosse Einwilligung. Das Opfer muss aktiv die Toetung verlangen. Der Wunsch muss handlungsleitend fuer den Taeter sein.
+**Verlangen:** Mehr als blosse Einwilligung. Das Opfer muss aktiv die Toetung verlangen. Der Wunsch muss handlungsleitend für den Taeter sein.
 
 **Ausdruecklich:** Das Verlangen muss erkennbar geaeussert sein. Schweigen oder konkludentes Verhalten reicht nicht. Schriftform oder Patientenverfuegung iSd § 1827 BGB (ehemals § 1901a BGB a.F.) kann ausreichend sein.
 
 **Ernstlich:** Frei verantwortliche, dauerhafte und auf Toetung gerichtete Willensentschliessung. Das Opfer muss die Bedeutung erfassen und die Konsequenzen abwaegen koennen. Kein Affekt, kein voruebergehender Schwaechezustand. **BGH staendige Rspr.:** Bei psychischer Erkrankung, Depression oder Drogenintoxikation Zweifel an der Ernstlichkeit; restriktive Pruefung.
 
-**Bestimmt:** Das Verlangen muss handlungsmotivierend fuer den Taeter gewesen sein. Wenn der Taeter aus anderen Gruenden (Habgier, Hass) toetet und das Verlangen nur Anlass war, scheidet § 216 StGB aus.
+**Bestimmt:** Das Verlangen muss handlungsmotivierend für den Taeter gewesen sein. Wenn der Taeter aus anderen Gruenden (Habgier, Hass) toetet und das Verlangen nur Anlass war, scheidet § 216 StGB aus.
 
 ## Tatbestandsmerkmale konkret
 
@@ -195,13 +195,13 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 - **Schweigen vs. Aussage:** § 216 StGB erfordert die Darstellung des Verlangens. Schweigen erschwert die Privilegierung. Standard: Teileinlassung mit Fokus auf das Verlangen.
 - **Geststaendnis:** Mit Geststaendnis und dokumentiertem Verlangen oft Bewaehrungsstrafe erzielbar (§ 56 Abs. 1 StGB bei Strafe bis zu einem Jahr; § 56 Abs. 2 StGB bei besonderen Umstaenden bis zu zwei Jahren).
 - **Glaubwuerdigkeit:** Die Aussage des Taeters muss konsistent mit den objektiven Beweisen sein (schriftliches Verlangen, Tatort, Reihenfolge).
-- **Anhoerung der Angehoerigen:** Im Adhaesions- und Nebenklageverfahren wichtig.
+- **Anhörung der Angehoerigen:** Im Adhaesions- und Nebenklageverfahren wichtig.
 
 ## Konkurrenzen
 
 - **§ 212 StGB:** Wird durch § 216 StGB verdraengt (Privilegierungswirkung).
 - **§ 211 StGB:** § 216 StGB schliesst § 211 StGB nach staendiger BGH-Rechtsprechung aus – die Toetung auf ernstliches Verlangen ist auch dann § 216 StGB, wenn objektiv ein Mordmerkmal vorliegen koennte.
-- **§ 217 StGB a.F.:** Geschaeftsmaessige Foerderung der Selbsttoetung – durch BVerfG 26.02.2020 fuer nichtig erklaert; Neuregelung steht aus.
+- **§ 217 StGB a.F.:** Geschaeftsmäßige Förderung der Selbsttoetung – durch BVerfG 26.02.2020 für nichtig erklaert; Neuregelung steht aus.
 - **Beihilfe zum Suizid (§§ 26, 27 StGB):** Mangels rechtswidriger Haupttat straflos (Akzessorietaet).
 - **§ 323c StGB:** Unterlassene Hilfeleistung – Achtung bei nicht eingreifenden Aerzten; staendige BGH-Rechtsprechung mit restriktiver Linie nach BVerfG-Urteil 2020.
 
@@ -248,7 +248,7 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 § 212 StGB ist der **Grundtatbestand der vorsaetzlichen Toetung eines anderen Menschen**. Er gilt, wenn ein Mordmerkmal nach § 211 Abs. 2 StGB nicht vorliegt. Strafrahmen: Freiheitsstrafe nicht unter fuenf Jahren (§ 212 Abs. 1 StGB); in besonders schweren Faellen lebenslange Freiheitsstrafe (§ 212 Abs. 2 StGB); minder schwerer Fall § 213 StGB.
 
-In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** bei einer Anklage nach § 211 StGB: Wenn die Verteidigung jedes einzelne Mordmerkmal erschuettert, bleibt § 212 StGB als Auffangtatbestand. Im Plaedoyer ist die Differenz zwischen lebenslang (§ 211 StGB) und fuenf bis 15 Jahre (§ 212 Abs. 1 StGB) das tragende Argument fuer die Mordmerkmal-Verteidigung.
+In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** bei einer Anklage nach § 211 StGB: Wenn die Verteidigung jedes einzelne Mordmerkmal erschuettert, bleibt § 212 StGB als Auffangtatbestand. Im Plaedoyer ist die Differenz zwischen lebenslang (§ 211 StGB) und fuenf bis 15 Jahre (§ 212 Abs. 1 StGB) das tragende Argument für die Mordmerkmal-Verteidigung.
 
 ## Tatbestand und Auslegung
 
@@ -260,7 +260,7 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 - **Dolus directus 1. Grades (Absicht):** Toetung ist das Tatziel.
 - **Dolus directus 2. Grades (Wissentlichkeit):** Toetung ist als sichere Folge erkannt.
-- **Dolus eventualis (bedingter Vorsatz):** Taeter haelt Toetung fuer moeglich und nimmt sie billigend in Kauf.
+- **Dolus eventualis (bedingter Vorsatz):** Taeter haelt Toetung für moeglich und nimmt sie billigend in Kauf.
 
 **Hemmschwellentheorie:** Die staendige BGH-Rechtsprechung nimmt bei vorsaetzlicher Toetung eine besondere Hemmschwelle an. Dolus eventualis ist nur bei eindeutigen objektiven Tatumstaenden zu bejahen. Die Tatumstaende muessen so beschaffen sein, dass der Taeter den Tod als naheliegend erkennt und sich gleichwohl mit ihm abfindet.
 
@@ -349,7 +349,7 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 ## Worum geht es
 
-Paragraph 324 StGB sanktioniert das **unbefugte Verunreinigen eines Gewaessers oder das sonstige nachteilige Veraendern seiner Eigenschaften**. Geschuetztes Rechtsgut: die Beschaffenheit oeffentlicher Gewaesser als Element des Allgemeinguts Wasser. Es ist ein **abstraktes Gefaehrdungsdelikt mit Erfolgsbezug**: die nachteilige Veraenderung muss eingetreten sein, eine konkrete Gefahr fuer Mensch oder Tier nicht.
+Paragraph 324 StGB sanktioniert das **unbefugte Verunreinigen eines Gewaessers oder das sonstige nachteilige Veraendern seiner Eigenschaften**. Geschuetztes Rechtsgut: die Beschaffenheit öffentlicher Gewaesser als Element des Allgemeinguts Wasser. Es ist ein **abstraktes Gefaehrdungsdelikt mit Erfolgsbezug**: die nachteilige Veraenderung muss eingetreten sein, eine konkrete Gefahr für Mensch oder Tier nicht.
 
 Anwendungsfaelle: Einleitung industrieller Abwaesser ohne Erlaubnis in den Vorfluter; Umkippung einer Guelle-Trasse in den Fluss; LKW-Unfall mit Treibstoffeintrag in Bach; Schwarzeinleitung von Privatabwasser. Wegen Verwaltungsakzessorietaet (siehe unten) ist die Erlaubnislage entscheidend.
 
@@ -357,7 +357,7 @@ Anwendungsfaelle: Einleitung industrieller Abwaesser ohne Erlaubnis in den Vorfl
 
 ### Gewaesser
 
-Erfasst sind oberirdische Gewaesser (Fluesse, Baeche, Seen) und das Grundwasser. Nicht erfasst sind kuenstliche Anlagen wie Brunnen oder Klaeranlagen (Innenrohrleitungen), solange sie nicht Teil des oeffentlichen Gewaessersystems sind. Privatgewaesser (kleine Teiche) sind ueber Paragraph 1 Abs 2 WHG mitgemeint, wenn sie Bestandteil des Wasserhaushalts sind.
+Erfasst sind oberirdische Gewaesser (Fluesse, Baeche, Seen) und das Grundwasser. Nicht erfasst sind kuenstliche Anlagen wie Brunnen oder Klaeranlagen (Innenrohrleitungen), solange sie nicht Teil des öffentlichen Gewaessersystems sind. Privatgewaesser (kleine Teiche) sind ueber Paragraph 1 Abs 2 WHG mitgemeint, wenn sie Bestandteil des Wasserhaushalts sind.
 
 ### Tathandlung Verunreinigen und nachteilig Veraendern
 
@@ -365,7 +365,7 @@ Verunreinigen ist Eintragung eines Stoffes; nachteilige Veraenderung ist die Ver
 
 ### Verwaltungsakzessorietaet — unbefugt
 
-Verunreinigung ist nur strafbar, wenn sie **unbefugt** erfolgt — also ohne die nach Wasserrecht (WHG, Wassergesetz der Laender) erforderliche Erlaubnis oder ausserhalb der erlaubten Grenzen. Wer im Rahmen einer wasserrechtlichen Erlaubnis eintraegt, ist nicht strafbar. Verwaltungsakzessorietaet ist Kern des Umweltstrafrechts.
+Verunreinigung ist nur strafbar, wenn sie **unbefugt** erfolgt — also ohne die nach Wasserrecht (WHG, Wassergesetz der Länder) erforderliche Erlaubnis oder ausserhalb der erlaubten Grenzen. Wer im Rahmen einer wasserrechtlichen Erlaubnis eintraegt, ist nicht strafbar. Verwaltungsakzessorietaet ist Kern des Umweltstrafrechts.
 
 ### Subjektiver Tatbestand
 
@@ -385,14 +385,14 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 - **Mengen- und Stoff-Schwelle bestreiten.** "Nicht nur geringfuegig" — Sachverstaendiger zur Bewertung der Eintragsmenge im Verhaeltnis zur Gewaesserkapazitaet. Bei sehr kleinem Eintrag (z. B. wenige Liter Diesel im grossen Fluss): Wertbarkeit der Verschlechterung pruefen.
 - **Kausalitaet bestreiten.** Wenn andere Einleiter vor- oder gleichzeitig taetig waren: alternative oder kumulative Kausalitaet. Vorsicht: Bei kumulativer Verunreinigung haftet jeder Beitragstaeter.
 - **Vorsatzausschluss bei Irrtum ueber Erlaubnis.** Wenn Mandant glaubte, die Erlaubnis decke das Verhalten ab: Tatbestandsirrtum nach Paragraph 16 StGB, mindestens Verbotsirrtum nach Paragraph 17 StGB.
-- **Sachverstaendige fruehzeitig einbinden.** Hydrogeologe oder Umweltchemiker fuer Gegenanalyse der Wasserproben.
+- **Sachverstaendige fruehzeitig einbinden.** Hydrogeologe oder Umweltchemiker für Gegenanalyse der Wasserproben.
 - **Hilfsbeweisantraege zum Probenahmeprotokoll.** Probenahme oft fehlerhaft (falscher Ort, falscher Zeitpunkt, falsche Geraete). Polizeiliche Probenahme angreifbar.
 
 ## Trade-off-Matrix
 
 | Pfad A Bestreiten Verunreinigung | Pfad B Gestaendnis, Bestreiten Vorsatz, Antrag auf Absatz 3 | Empfehlung |
 | --- | --- | --- |
-| Risiko: Sachverstaendigengutachten der Behoerde meist erdrueckend. | Vorsatzausschluss durch Beratung des Umweltbeauftragten oder durch komplexe Anlagenfehler plausibel; Fahrlaessigkeitsvariante deutlich milder. | Bei klaren Eintragsbelegen ist Pfad B taktisch besser; rettet oft die berufliche Existenz (z. B. Landwirt, Anlagenbetreiber). |
+| Risiko: Sachverstaendigengutachten der Behörde meist erdrueckend. | Vorsatzausschluss durch Beratung des Umweltbeauftragten oder durch komplexe Anlagenfehler plausibel; Fahrlaessigkeitsvariante deutlich milder. | Bei klaren Eintragsbelegen ist Pfad B taktisch besser; rettet oft die berufliche Existenz (z. B. Landwirt, Anlagenbetreiber). |
 
 ## Konkurrenzen
 
@@ -414,11 +414,11 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 ## Mustertexte
 
-**Schriftsatz-Snippet (Erlaubnis):** "Die in der Anklage gerueegte Einleitung war durch die wasserrechtliche Erlaubnis des Landratsamtes X vom DD.MM.JJJJ (Anlage W 1) gedeckt. Die in der Erlaubnis festgelegten Grenzwerte fuer Stickstoff und Phosphor wurden zur Tatzeit eingehalten, wie aus den Eigenkontrollwerten meiner Mandantin hervorgeht."
+**Schriftsatz-Snippet (Erlaubnis):** "Die in der Anklage gerueegte Einleitung war durch die wasserrechtliche Erlaubnis des Landratsamtes X vom DD.MM.JJJJ (Anlage W 1) gedeckt. Die in der Erlaubnis festgelegten Grenzwerte für Stickstoff und Phosphor wurden zur Tatzeit eingehalten, wie aus den Eigenkontrollwerten meiner Mandantin hervorgeht."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines unabhaengigen Hydrogeologen einzuholen zum Beweis der Tatsache, dass die festgestellte Verunreinigung des Vorfluters auch durch den Einleiter Y zur selben Zeit verursacht worden sein kann."
 
-**Einlassungs-Snippet (Fahrlaessigkeit):** "Ich habe die Klaeranlage routinemaessig betrieben. Ein technischer Defekt an der Foerderpumpe am DD.MM.JJJJ hat zu einem unkontrollierten Ueberlauf gefuehrt. Die Stoerung war fuer meinen Schichtbetrieb nicht vorhersehbar; eine vorsaetzliche Verunreinigung lag nicht vor."
+**Einlassungs-Snippet (Fahrlaessigkeit):** "Ich habe die Klaeranlage routinemaessig betrieben. Ein technischer Defekt an der Foerderpumpe am DD.MM.JJJJ hat zu einem unkontrollierten Ueberlauf gefuehrt. Die Stoerung war für meinen Schichtbetrieb nicht vorhersehbar; eine vorsaetzliche Verunreinigung lag nicht vor."
 
 ## Querverweise
 
@@ -438,7 +438,6 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 - Paragraph 70 StGB Berufsverbot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -455,7 +454,7 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 ## Worum geht es
 
-Paragraph 326 StGB pona­lisiert den **unerlaubten Umgang mit besonders ueberwachungsbeduerftigen oder gefaehrlichen Abfaellen** ausserhalb der dafuer vorgesehenen Anlagen oder ohne die erforderliche Erlaubnis. Geschuetztes Rechtsgut: Boden, Gewaesser, Luft und Gesundheit von Mensch und Tier vor Risiken gefaehrlicher Abfallstoffe.
+Paragraph 326 StGB pona­lisiert den **unerlaubten Umgang mit besonders ueberwachungsbeduerftigen oder gefaehrlichen Abfaellen** ausserhalb der dafür vorgesehenen Anlagen oder ohne die erforderliche Erlaubnis. Geschuetztes Rechtsgut: Boden, Gewaesser, Luft und Gesundheit von Mensch und Tier vor Risiken gefaehrlicher Abfallstoffe.
 
 Anwendungsfaelle: Ablagerung von Asbestabfaellen auf Privatgrundstueck; Verbrennen von beschichteten Hoelzern im Garten; illegaler Export gefaehrlicher Abfaelle nach Afrika; Lagerung von Altoel ohne Genehmigung. Schwerpunkt der Praxis: gewerbliche Abfaelle und Bauschutt-Entsorgung.
 
@@ -463,11 +462,11 @@ Anwendungsfaelle: Ablagerung von Asbestabfaellen auf Privatgrundstueck; Verbrenn
 
 ### Absatz 1 Nummer 1 — gefaehrliche Stoffe
 
-Strafbar ist, wer Abfaelle ausserhalb einer dafuer zugelassenen Anlage oder unter wesentlicher Abweichung von einem dafuer vorgeschriebenen oder zugelassenen Verfahren behandelt, lagert, ablagert, ablaesst oder sonst beseitigt, **wenn sie Gift oder Erreger gemeinschaftsgefaehrlicher Krankheiten enthalten oder hervorbringen koennen**.
+Strafbar ist, wer Abfaelle ausserhalb einer dafür zugelassenen Anlage oder unter wesentlicher Abweichung von einem dafür vorgeschriebenen oder zugelassenen Verfahren behandelt, lagert, ablagert, ablaesst oder sonst beseitigt, **wenn sie Gift oder Erreger gemeinschaftsgefaehrlicher Krankheiten enthalten oder hervorbringen koennen**.
 
 ### Absatz 1 Nummer 2 — krebserzeugende und reproduktionstoxische Stoffe
 
-Erfasst sind Abfaelle, die fuer den Menschen krebserzeugend, fruchtschaedigend oder erbgutveraendernd sein koennen. Beispiel: Asbest, polychlorierte Biphenyle (PCB).
+Erfasst sind Abfaelle, die für den Menschen krebserzeugend, fruchtschaedigend oder erbgutveraendernd sein koennen. Beispiel: Asbest, polychlorierte Biphenyle (PCB).
 
 ### Absatz 1 Nummer 3 — explosiv, brennbar, radioaktiv
 
@@ -512,7 +511,7 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 
 - **Paragraph 326 StGB und Paragraph 324 StGB Gewaesserverunreinigung.** Tatmehrheit moeglich, wenn Abfall in Gewaesser gelangt.
 - **Paragraph 326 StGB und Paragraph 327 StGB Anlagenbetrieb.** Tatmehrheit; Paragraph 327 StGB zielt auf Anlagenbetrieb, Paragraph 326 StGB auf Abfallumgang.
-- **Paragraph 326 StGB und Paragraph 263 StGB Betrug.** Bei Abrechnungsbetrug gegen Auftraggeber (Mandant hat fuer ordnungsgemaesse Entsorgung kassiert): Tatmehrheit.
+- **Paragraph 326 StGB und Paragraph 263 StGB Betrug.** Bei Abrechnungsbetrug gegen Auftraggeber (Mandant hat für ordnungsgemaesse Entsorgung kassiert): Tatmehrheit.
 - **Paragraph 326 StGB und Paragraph 25 OWiG nach KrWG.** OWi tritt zurueck bei strafrechtlicher Erfassung.
 
 ## Strafzumessung und Folgen
@@ -552,7 +551,6 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 - Paragraph 70 StGB Berufsverbot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -581,7 +579,7 @@ Strafbar ist, wer eine kerntechnische Anlage betreibt, ohne die erforderliche Ge
 
 ### Absatz 1 Nummer 2 BImSchG-Anlagen
 
-Strafbar ist, wer eine nach dem Bundes-Immissionsschutzgesetz (BImSchG) genehmigungsbeduerftige Anlage **ohne die erforderliche Genehmigung** oder **unter wesentlicher Abweichung von einer solchen Genehmigung** betreibt. Wahrend Absatz 1 Nr 1 sich auf kerntechnische Anlagen bezieht, ist Nr 2 die in der Praxis bedeutsame Variante fuer Industrie- und Gewerbeanlagen.
+Strafbar ist, wer eine nach dem Bundes-Immissionsschutzgesetz (BImSchG) genehmigungsbeduerftige Anlage **ohne die erforderliche Genehmigung** oder **unter wesentlicher Abweichung von einer solchen Genehmigung** betreibt. Wahrend Absatz 1 Nr 1 sich auf kerntechnische Anlagen bezieht, ist Nr 2 die in der Praxis bedeutsame Variante für Industrie- und Gewerbeanlagen.
 
 ### Absatz 2 Anlagen ausserhalb des BImSchG-Katalogs
 
@@ -609,7 +607,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 - **Genehmigungsbeduerftigkeit pruefen.** Liegt die Anlage im Anwendungsbereich der 4. BImSchV? Werden Schwellenwerte (z. B. Durchsatz, Behaeltergroesse) ueberschritten? Bei Schwellenwertueberschreitung muss neue Genehmigung beantragt werden.
 - **Wesentliche Abweichung bestreiten.** Substantiierte Darstellung, dass die Umstellung Umweltbelange nicht betraf. Sachverstaendigengutachten zur Immissionssituation vor und nach Umstellung.
 - **Verbotsirrtum.** Bei komplexen technischen Anlagen oft schwierige Abgrenzung zwischen genehmigungsbeduerftiger Aenderung und blossem Austausch. Beratung durch Umweltgutachter dokumentieren.
-- **Stilllegungsanordnung der Behoerde abwarten.** Wenn die Behoerde von Aufsichtsmoeglichkeiten Gebrauch macht, kann das Vertrauen geschuetzt sein.
+- **Stilllegungsanordnung der Behörde abwarten.** Wenn die Behörde von Aufsichtsmoeglichkeiten Gebrauch macht, kann das Vertrauen geschuetzt sein.
 - **Verbandshaftung mitdenken.** Bei groesseren Unternehmen droht Geldbusse nach Paragraph 30 OWiG; Compliance-Argumente strukturieren.
 
 ## Trade-off-Matrix
@@ -654,12 +652,11 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 - Paragraph 327 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Bundes-Immissionsschutzgesetz (BImSchG); Paragraph 4 BImSchG genehmigungsbeduerftige Anlagen; Paragraph 15 BImSchG Anzeigepflicht; Paragraph 20 BImSchG Stilllegung.
 - 4. BImSchV Anlagenkatalog.
-- Kreislaufwirtschaftsgesetz (KrWG) fuer Abfallanlagen.
+- Kreislaufwirtschaftsgesetz (KrWG) für Abfallanlagen.
 - BGH staendige Rspr. zur wesentlichen Abweichung und zum Anlagenbegriff.
 - BGH staendige Rspr. zum Verbotsirrtum bei komplexen Genehmigungslagen.
 - Paragraph 30 OWiG Verbandsgeldbusse; Paragraph 62 BImSchG OWi-Tatbestaende.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -731,7 +728,7 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 - Absatz 1: Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - Absatz 2 (besonders schwerer Fall): 6 Monate bis 10 Jahre.
-- **Regelbeispiele Paragraph 263 Abs 3 StGB** (via Verweisung): Vermoegensverlust grossen Ausmasses, gewerbsmaessige Begehung, fortgesetzte Tat.
+- **Regelbeispiele Paragraph 263 Abs 3 StGB** (via Verweisung): Vermoegensverlust grossen Ausmasses, gewerbsmäßige Begehung, fortgesetzte Tat.
 - **Einziehung Paragraph 73 StGB** des untreuewidrig Erlangten; bei Selbstbereicherung Wertersatz Paragraph 73c StGB.
 - **Berufsverbot Paragraph 70 StGB** bei groben Pflichtverletzungen.
 - **GF-Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG** bei Verurteilung wegen Insolvenzstraftat.
@@ -739,7 +736,7 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant hatte keine Vermoegensbetreuungspflicht iSv Paragraph 266 Abs 1 Alt 2 StGB. Als Bueroleiter ohne Prokura und ohne eigenstaendigen Entscheidungsspielraum war er weisungsabhaengig. Die fuer den Treubruchstatbestand erforderliche qualifizierte Pflicht zur Wahrnehmung fremder Vermoegensinteressen liegt nicht vor (BGH staendige Rspr.)."
+**Schutzschrift-Snippet:** "Mein Mandant hatte keine Vermoegensbetreuungspflicht iSv Paragraph 266 Abs 1 Alt 2 StGB. Als Bueroleiter ohne Prokura und ohne eigenstaendigen Entscheidungsspielraum war er weisungsabhaengig. Die für den Treubruchstatbestand erforderliche qualifizierte Pflicht zur Wahrnehmung fremder Vermoegensinteressen liegt nicht vor (BGH staendige Rspr.)."
 
 **Einlassungs-Snippet:** "Ich habe die Privatentnahme mit dem Mehrheitsgesellschafter X telefonisch abgestimmt. Er hat mir am DD.MM.JJJJ ausdruecklich erlaubt, EUR Y vorlaeufig als Darlehen zu entnehmen. Eine schriftliche Bestaetigung gibt es nicht, aber der Zeuge X kann dies bestaetigen."
 
@@ -764,7 +761,6 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 - Paragraph 93 Abs 1 Satz 2 AktG Business Judgment Rule (analog GmbH).
 - Paragraph 43 GmbHG Sorgfaltspflicht des GF.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -781,7 +777,7 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 ## Worum geht es konkret
 
-Im Aktienrecht hat die Untreue ein eigenes Vorzeichen: Der Vorstand traegt eine **gesetzlich kodifizierte** Sorgfaltspflicht (Paragraph 93 AktG), die zugleich die Vermoegensbetreuungspflicht iSd Paragraph 266 StGB konkretisiert. Anwendungsfall: Vorstand gibt grosszuegige Sponsoringgelder fuer Fussballverein aus, ohne Bezug zur Geschaeftstaetigkeit. Vorstand entscheidet ueber Konzernumstrukturierung ohne hinreichende Information. Aufsichtsrat duldet pflichtwidrige Vorstandsentscheidung.
+Im Aktienrecht hat die Untreue ein eigenes Vorzeichen: Der Vorstand traegt eine **gesetzlich kodifizierte** Sorgfaltspflicht (Paragraph 93 AktG), die zugleich die Vermoegensbetreuungspflicht iSd Paragraph 266 StGB konkretisiert. Anwendungsfall: Vorstand gibt grosszuegige Sponsoringgelder für Fussballverein aus, ohne Bezug zur Geschaeftstaetigkeit. Vorstand entscheidet ueber Konzernumstrukturierung ohne hinreichende Information. Aufsichtsrat duldet pflichtwidrige Vorstandsentscheidung.
 
 Der entscheidende Unterschied zur GmbH-Untreue: Die **Business Judgment Rule** (Paragraph 93 Abs 1 Satz 2 AktG) gibt dem Vorstand einen rechtlich anerkannten Entscheidungsspielraum. Innerhalb dieses "safe harbor" ist Pflichtverletzung ausgeschlossen.
 
@@ -872,7 +868,6 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 - BGH-Linie zur Mannesmann-Entscheidung (Aufsichtsratspflicht bei Praemienentscheidungen) als Anknuepfungspunkt.
 - BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot der Untreue, gilt auch im AG-Recht).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -883,7 +878,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 ## 9. `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
 
-**Fokus:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster fuer Mitarbeiter Treuhaender Verwalter.
+**Fokus:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster für Mitarbeiter Treuhaender Verwalter.
 
 # Treubruchstatbestand Paragraph 266 Abs 1 Alt 2 StGB und Vermoegensbetreuungspflicht
 
@@ -891,7 +886,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 Der Treubruchstatbestand (zweite Alternative des Paragraph 266 Abs 1 StGB) ist die *Auffangnorm* der Untreue. Anders als der Missbrauchstatbestand (1. Alt.) setzt er keine im Aussenverhaeltnis wirksame rechtsgeschaeftliche Befugnis voraus. Es genuegt die *Treubindung* an fremde Vermoegensinteressen.
 
-Anwendungsfall: Treuhaender, der ein Konto fuer den Begueneten haelt; Vermoegensverwalter, der die Geldanlage selbst vornimmt; Stiftungsvorstand; Sachwalter im Schutzschirmverfahren; sogar der reine Buchhalter in Sonderfaellen.
+Anwendungsfall: Treuhaender, der ein Konto für den Begueneten haelt; Vermoegensverwalter, der die Geldanlage selbst vornimmt; Stiftungsvorstand; Sachwalter im Schutzschirmverfahren; sogar der reine Buchhalter in Sonderfaellen.
 
 Die Schwelle ist die **Vermoegensbetreuungspflicht (VBP)**. Sie ist heute Hauptangriffspunkt jeder Verteidigung: Wer keine VBP hat, ist niemals Taeter der Untreue, selbst bei eindeutiger Schaedigung. Damit verlagert sich der Streit vom Schaden zur Pflicht.
 
@@ -899,7 +894,7 @@ Die Schwelle ist die **Vermoegensbetreuungspflicht (VBP)**. Sie ist heute Haupta
 
 ### Voraussetzungen der Vermoegensbetreuungspflicht
 
-BGH-Linie verlangt fuer die VBP kumulativ:
+BGH-Linie verlangt für die VBP kumulativ:
 
 - **Fremdheit** der Vermoegensinteressen,
 - **Qualifizierte Pflicht** (mehr als allgemeine vertragliche Sorgfalt),
@@ -952,7 +947,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Meine Mandantin war als Buchhalterin der Y GmbH ohne Prokura und ohne eigenstaendige Vermoegensverfuegungsbefugnis taetig. Ihre Taetigkeit beschraenkte sich auf das Verbuchen vorliegender Belege nach Anweisung des GF. Eine fuer den Treubruchstatbestand erforderliche qualifizierte Vermoegensbetreuungspflicht iSd staendigen BGH-Rspr. lag nicht vor; die Voraussetzungen der Hauptsaechlichkeit und Eigenstaendigkeit sind nicht erfuellt."
+**Schutzschrift-Snippet:** "Meine Mandantin war als Buchhalterin der Y GmbH ohne Prokura und ohne eigenstaendige Vermoegensverfuegungsbefugnis taetig. Ihre Taetigkeit beschraenkte sich auf das Verbuchen vorliegender Belege nach Anweisung des GF. Eine für den Treubruchstatbestand erforderliche qualifizierte Vermoegensbetreuungspflicht iSd staendigen BGH-Rspr. lag nicht vor; die Voraussetzungen der Hauptsaechlichkeit und Eigenstaendigkeit sind nicht erfuellt."
 
 **Einlassungs-Snippet:** "Meine Aufgabe war es, die Buchungen vorzunehmen, die mir der GF schriftlich oder muendlich angeordnet hat. Eigenstaendige Entscheidungen ueber Vermoegensverfuegungen habe ich nie getroffen. Die EUR 5.000-Ueberweisung an Lieferant Z am DD.MM.JJJJ hat der GF persoenlich angeordnet (E-Mail Anlage SS 1)."
 
@@ -975,7 +970,6 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 - Paragraph 43 GmbHG, Paragraph 93 AktG, Paragraph 1793 BGB, Paragraph 60 InsO als gesetzliche Pflichtquellen.
 - Paragraph 27 StGB Beihilfe (Schnittstelle bei Mitarbeitern ohne VBP, die dem GF helfen).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -986,7 +980,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 ## 10. `strafrecht-spezial-urheberrecht-106-urhg`
 
-**Fokus:** Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten oeffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes oeffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB.
+**Fokus:** Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten öffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB.
 
 # Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG
 
@@ -994,23 +988,23 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 Paragraph 106 UrhG ist der zentrale Straftatbestand des Urheberstrafrechts. Geschuetzt ist das ausschliessliche Verwertungsrecht des Urhebers (Paragraphen 15 ff. UrhG). Klassische Fallgruppen: Filesharing in Tauschboersen, Verkauf von Bootlegs auf Marktplaetzen, Streaming aus illegalen Quellen ueber Linkportale, Software-Raubkopien im Unternehmen, unerlaubte Uebernahme von Texten, Fotos oder Musikstuecken. Praktisch fast immer parallel zu zivilrechtlicher Abmahnung (Paragraphen 97, 97a UrhG); die Strafanzeige wird oft als Druckmittel im Zivilverfahren eingesetzt.
 
-Der Strafrahmen reicht bis drei Jahre Freiheitsstrafe oder Geldstrafe. Die gewerbsmaessige Begehung verlagert sich in Paragraph 108a UrhG (bis fuenf Jahre). Der Tatbestand ist Antragsdelikt nach Paragraph 109 UrhG, es sei denn, die Strafverfolgungsbehoerde bejaht ein besonderes oeffentliches Interesse.
+Der Strafrahmen reicht bis drei Jahre Freiheitsstrafe oder Geldstrafe. Die gewerbsmäßige Begehung verlagert sich in Paragraph 108a UrhG (bis fuenf Jahre). Der Tatbestand ist Antragsdelikt nach Paragraph 109 UrhG, es sei denn, die Strafverfolgungsbehoerde bejaht ein besonderes öffentliches Interesse.
 
 ## Tatbestand und Geltungsbereich
 
-Tathandlungen sind Vervielfaeltigen, Verbreiten und oeffentliche Wiedergabe eines geschuetzten Werks ohne Einwilligung des Berechtigten und ohne gesetzliche Erlaubnis (Schrankenregelungen Paragraphen 44a ff. UrhG).
+Tathandlungen sind Vervielfaeltigen, Verbreiten und öffentliche Wiedergabe eines geschuetzten Werks ohne Einwilligung des Berechtigten und ohne gesetzliche Erlaubnis (Schrankenregelungen Paragraphen 44a ff. UrhG).
 
 - **Vervielfaeltigung** Paragraph 16 UrhG: jede koerperliche Festlegung. Erfasst auch das Speichern auf der Festplatte, auf USB-Stick, in der Cloud, auch jede Kopie im Arbeitsspeicher, sofern nicht durch Paragraph 44a UrhG (fluechtige technische Vervielfaeltigung) gedeckt.
 - **Verbreitung** Paragraph 17 UrhG: das Inverkehrbringen koerperlicher Werkstuecke. Hand-zu-Hand-Verkauf, Versand, Aushaendigung. Erschoepfungsgrundsatz bei rechtmaessig erstmalig in Verkehr gebrachten Werkstuecken im EWR.
 - **Oeffentliche Wiedergabe** Paragraph 19a UrhG (Bereitstellung im Netz): das Bereithalten in einem Tauschordner, das Hochladen auf eine Plattform, das Anbieten ueber Link.
 
-Tatobjekt ist ein urheberrechtlich geschuetztes Werk im Sinne von Paragraph 2 UrhG (persoenliche geistige Schoepfung, Schoepfungshoehe). Geschuetzt sind auch Bearbeitungen (Paragraph 3 UrhG) und Sammelwerke (Paragraph 4 UrhG). Lichtbildwerke und Lichtbilder werden in Paragraph 72 UrhG eigenstaendig erfasst (verwandtes Schutzrecht; eigene Strafnorm Paragraph 108 UrhG, dort).
+Tatobjekt ist ein urheberrechtlich geschuetztes Werk im Sinne von Paragraph 2 UrhG (persönliche geistige Schoepfung, Schoepfungshoehe). Geschuetzt sind auch Bearbeitungen (Paragraph 3 UrhG) und Sammelwerke (Paragraph 4 UrhG). Lichtbildwerke und Lichtbilder werden in Paragraph 72 UrhG eigenstaendig erfasst (verwandtes Schutzrecht; eigene Strafnorm Paragraph 108 UrhG, dort).
 
 Subjektiv ist Vorsatz erforderlich, mindestens dolus eventualis. Der Vorsatz muss die Schoepfungshoehe, die Schutzfrist (regelmaessig bis 70 Jahre nach dem Tod des Urhebers, Paragraph 64 UrhG) und das Fehlen der Einwilligung umfassen. Fahrlaessigkeit ist nicht strafbar.
 
 ## Strafantrag und Antragsbefugnis
 
-Die Tat wird grundsaetzlich nur auf Antrag verfolgt (Paragraph 109 UrhG). Ausnahme: Strafverfolgungsbehoerde bejaht ein besonderes oeffentliches Interesse an der Strafverfolgung. Antragsberechtigt sind der Urheber, der ausschliessliche Lizenznehmer (umstritten, eher restriktiv) und der Erbe.
+Die Tat wird grundsaetzlich nur auf Antrag verfolgt (Paragraph 109 UrhG). Ausnahme: Strafverfolgungsbehoerde bejaht ein besonderes öffentliches Interesse an der Strafverfolgung. Antragsberechtigt sind der Urheber, der ausschliessliche Lizenznehmer (umstritten, eher restriktiv) und der Erbe.
 
 Antragsfrist Paragraph 77b StGB: drei Monate ab Kenntnis von Tat und Taeter durch den Antragsberechtigten. Bei mehreren Antragsberechtigten genuegt der Antrag eines einzelnen. Die Frist beginnt mit positiver Kenntnis, nicht mit Kennensollen. Bei juristischen Personen ist auf die Kenntnis des nach aussen vertretungsberechtigten Organs abzustellen.
 
@@ -1028,7 +1022,7 @@ Antragsfrist Paragraph 77b StGB: drei Monate ab Kenntnis von Tat und Taeter durc
 | --- | --- | --- |
 | Bestreiten von Werkqualitaet, Verantwortlichkeit, Vorsatz; Risiko langer HV; Belastung durch begleitendes Zivilverfahren | Tat einraeumen, Tat-Opfer-Ausgleich (Paragraph 46a StGB) mit Schadenersatz und Lizenzgebuehrenanalogie; Strafmilderung; ggf. Paragraph 153a StPO Einstellung gegen Auflage | Wenn Vorsatz erkennbar und Beweislage eindeutig (Logs, Zeugen, dingliche Spuren): Pfad B mit Vergleichsbruecke ins Zivilverfahren. Bei zweifelhafter Werkqualitaet oder unklarer Zurechnung: Pfad A. |
 
-Privatklage Paragraph 374 StPO: Paragraph 106 UrhG ist Privatklagedelikt. Staatsanwaltschaft uebernimmt regelmaessig nur bei besonderem oeffentlichen Interesse (gewerbliche Begehung, hohe Schadenshoehe, Markenrelevanz). Verteidigung kann auf Verweisung auf den Privatklageweg hinarbeiten.
+Privatklage Paragraph 374 StPO: Paragraph 106 UrhG ist Privatklagedelikt. Staatsanwaltschaft uebernimmt regelmaessig nur bei besonderem öffentlichen Interesse (gewerbliche Begehung, hohe Schadenshoehe, Markenrelevanz). Verteidigung kann auf Verweisung auf den Privatklageweg hinarbeiten.
 
 ## Konkurrenzen
 
@@ -1041,17 +1035,17 @@ Privatklage Paragraph 374 StPO: Paragraph 106 UrhG ist Privatklagedelikt. Staats
 
 Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldstrafe. Versuch ist strafbar (Paragraph 106 Abs 2 UrhG). Zumessungsgesichtspunkte Paragraph 46 StGB: Schadenshoehe, Anzahl verwerteter Werke, Dauer der Tat, Gewinnerwartung, Verhaeltnis zum Berechtigten, Reue, Schadensausgleich.
 
-- **Einziehung des Tatobjekts** Paragraph 74 StGB: Raubkopien, Datentraeger, Press- und Vervielfaeltigungsgeraete. Paragraph 110 UrhG ist Sondereinziehungsnorm fuer Werkstuecke und Vorrichtungen.
+- **Einziehung des Tatobjekts** Paragraph 74 StGB: Raubkopien, Datentraeger, Press- und Vervielfaeltigungsgeraete. Paragraph 110 UrhG ist Sondereinziehungsnorm für Werkstuecke und Vorrichtungen.
 - **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Wertersatz des erlangten Etwas. Bei kommerziellem Vertrieb von Raubkopien wird der erlangte Umsatz abgeschoepft (Bruttoprinzip BGH staendige Rspr.).
 - **Berufsverbot** Paragraph 70 StGB bei gewerblicher Begehung als Hochladen-Dienstleister moeglich, in der Praxis selten.
 
 ## Mustertexte
 
-**Strafantrag (Snippet):** "Namens und mit Vollmacht meiner Mandantin, der X GmbH als Inhaberin der ausschliesslichen Verwertungsrechte am Werk Y (Anlage K 1), stelle ich gemaess Paragraph 109 UrhG iVm Paragraph 158 StPO Strafantrag wegen unerlaubter Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Antrag wird gestellt; ein besonderes oeffentliches Interesse wird bejaht, da die Verbreitungshandlung ueber die Plattform Z eine Vielzahl von Nutzern erreicht hat (vgl. Logdaten Anlage K 2)."
+**Strafantrag (Snippet):** "Namens und mit Vollmacht meiner Mandantin, der X GmbH als Inhaberin der ausschliesslichen Verwertungsrechte am Werk Y (Anlage K 1), stelle ich gemaess Paragraph 109 UrhG iVm Paragraph 158 StPO Strafantrag wegen unerlaubter Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt; die Frist nach Paragraph 77b StGB ist gewahrt. Antrag wird gestellt; ein besonderes öffentliches Interesse wird bejaht, da die Verbreitungshandlung ueber die Plattform Z eine Vielzahl von Nutzern erreicht hat (vgl. Logdaten Anlage K 2)."
 
 **Schutzschrift-Snippet:** "Mein Mandant hat die ihm zur Last gelegte Datei am DD.MM.JJJJ ueber das Streamingportal Z konsumiert. Eine Vervielfaeltigung im Sinne von Paragraph 16 UrhG hat nicht stattgefunden, da nur fluechtige Speicherung im Sinne von Paragraph 44a UrhG erfolgte. Eine Bereitstellung im Sinne von Paragraph 19a UrhG ist mit dem reinen Streamingvorgang nicht verbunden; auf die EuGH-Rspr. zur Trennung von Stream und Upload wird verwiesen."
 
-**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Grafik auf S. 3 der Anlage A1 keine persoenliche geistige Schoepfung im Sinne von Paragraph 2 Abs 2 UrhG darstellt, sondern eine einfache geometrische Standardform."
+**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Grafik auf S. 3 der Anlage A1 keine persönliche geistige Schoepfung im Sinne von Paragraph 2 Abs 2 UrhG darstellt, sondern eine einfache geometrische Standardform."
 
 ## Verfahrensschritte im Mandat
 

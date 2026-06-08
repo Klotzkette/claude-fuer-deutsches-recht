@@ -7,23 +7,23 @@ description: "IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft 
 
 ## Arbeitsbereich
 
-**IWR CISG Brussels ICC** ordnet den Fall über die tragenden Prüffelder: Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**IWR CISG Brussels ICC** ordnet den Fall über die tragenden Prüfungslinien: Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-iwr-cisg-anwendbarkeit` | Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen. |
-| `fachanwalt-iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen. |
+| `fachanwalt-iwr-brussels-ia-zuständigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen. |
 | `fachanwalt-iwr-icc-uncitral-schiedsverfahren` | Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Wirtschaftsrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-iwr-cisg-anwendbarkeit`
 
@@ -127,7 +127,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 |---|---|---|
 | Mängelrecht | Art. 35-44 | §§ 434 ff. |
 | Ruegepflicht | Pflicht, 1 Monat | nur § 377 HGB im Handelskauf |
-| Verjaehrung | 4 Jahre Art. 39 II analog | 2 Jahre § 438 |
+| Verjährung | 4 Jahre Art. 39 II analog | 2 Jahre § 438 |
 | Verzugszinsen | nicht geregelt -> nationales Recht | § 288 BGB |
 | Vertragsstrafe | nicht geregelt | § 339 BGB |
 
@@ -144,7 +144,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 
 ## Anschluss
 
-- `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Forum-Frage
+- `fachanwalt-iwr-brussels-ia-zuständigkeit` — bei Forum-Frage
 - `cisg-pruefen` (Vollplugin-Skill) — vertiefte Prüfung
 - `incoterms-und-gefahruebergang` — bei Lieferungs-Risiko
 
@@ -182,7 +182,7 @@ ERGEBNIS:
 Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 -->
 
-## 2. `fachanwalt-iwr-brussels-ia-zustaendigkeit`
+## 2. `fachanwalt-iwr-brussels-ia-zuständigkeit`
 
 **Fokus:** Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen.
 
@@ -190,7 +190,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ## Zweck
 
-Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Brüssel-Ia).
+Prüfung, welches EU-Gericht international zuständig ist (VO (EU) 1215/2012, Brüssel-Ia).
 
 ## 1) Eingangs-Abfrage
 
@@ -312,8 +312,8 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 - Nicht Bruessel-Ia (VO (EU) Nr. 1215/2012: https://eur-lex.europa.eu/eli/reg/2012/1215)
 - Nationales IZPR (§§ 12 ff. ZPO bei DE): https://www.gesetze-im-internet.de/zpo/__12.html
 - **Haager Uebereinkommen ueber Gerichtsstandsvereinbarungen 2005** (HGUe; EU-Vertragsstaat seit 01.10.2015): https://www.hcch.net/en/instruments/conventions/full-text/?cid=98
-- **HAVUe 2019** (Haager Uebereinkommen ueber die Anerkennung und Vollstreckung auslaendischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft fuer EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
-- Brexit-Folge: UK seit 01.01.2021 nicht mehr Bruessel-Ia-Vertragsstaat; UK hat HAVUe am 12.01.2024 unterzeichnet und am 27.06.2024 ratifiziert; in Kraft fuer UK seit 01.07.2025: https://www.hcch.net/en/news-archive/details/?varevent=1085
+- **HAVUe 2019** (Haager Uebereinkommen ueber die Anerkennung und Vollstreckung auslaendischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft für EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
+- Brexit-Folge: UK seit 01.01.2021 nicht mehr Bruessel-Ia-Vertragsstaat; UK hat HAVUe am 12.01.2024 unterzeichnet und am 27.06.2024 ratifiziert; in Kraft für UK seit 01.07.2025: https://www.hcch.net/en/news-archive/details/?varevent=1085
 
 ## 11) Typische Fehler
 
@@ -338,7 +338,7 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 ### Triage — Bevor losgelegt wird, klaere:
 
 1. Haben beide Parteien Wohnsitz/Sitz in EU-Mitgliedstaaten? → Art. 4 Bruessel Ia (Beklagter-Domizil)
-2. Liegt Gerichtsstandsvereinbarung Art. 25 Bruessel Ia vor? → Ausschliessliche Zustaendigkeit
+2. Liegt Gerichtsstandsvereinbarung Art. 25 Bruessel Ia vor? → Ausschliessliche Zuständigkeit
 3. Liegt Verbraucher- oder Arbeitnehmervertrag vor? → Art. 17-22 Bruessel Ia schutzspeziell
 4. Schiedsklausel statt Gerichtsstandsklausel? → Art. 1 Abs. 2 lit. d Bruessel Ia: nicht erfasst
 5. Ist eine auslaendische Entscheidung anzuerkennen? → Art. 36 ff. Bruessel Ia
@@ -484,7 +484,7 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 
 - `fachanwalt-internationales-wirtschaftsrecht-orientierung` — Triage
 - `fachanwalt-iwr-cisg-anwendbarkeit` — Vertiefung CISG
-- `fachanwalt-iwr-brussels-ia-zustaendigkeit` — EuGVVO
+- `fachanwalt-iwr-brussels-ia-zuständigkeit` — EuGVVO
 - `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` — DSGVO-Bezug
 
 ## Quellen und Updates
@@ -507,11 +507,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — ICC/UNCITRAL-Schiedsklage einleiten | Statement of Claim; Template unten |
 | Variante A — Mandant will erst Mediation versuchen | ICC ADR Rules Mediation vor Schiedsklage einleiten |
-| Variante B — Vollstreckung im Schiedsstaat schwierig | New Yorker Uebereinkommen-Laender-Check; ggf. Asset-Sicherung vorab |
+| Variante B — Vollstreckung im Schiedsstaat schwierig | New Yorker Uebereinkommen-Länder-Check; ggf. Asset-Sicherung vorab |
 | Variante C — Intra-EU-Investitionsstreit | Achmea-Problem beachten; staatliche Gerichte erwaegen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Vertiefung: Leitsaetze und Triage Schiedsverfahren
 
@@ -522,7 +521,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Wo ist der Schiedssitz? → Bestimmt anwendbares Verfahrensrecht (§§ 1025 ff. ZPO bei Sitz DE)
 4. Welches materielle Recht ist anwendbar?
 5. Vollstreckung wo? → New Yorker Uebereinkommen 1958 Ratifizierungsland?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Ergaenzende Leitsaetze Schiedsverfahren
 

@@ -1,52 +1,52 @@
 ---
 name: datenschutz-ropa-art-processor-anwendungsfall-triage-joint
-description: "Datenschutz Ropa ART Processor Anwendungsfall Triage Joint im Datenschutzrecht: prüft konkret Vollvorlage fuer das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art, Grundtatbestand der Auftragsverarbeitung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz Ropa ART Processor Anwendungsfall Triage Joint im Datenschutzrecht: prüft konkret Vollvorlage für das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art, Grundtatbestand der Auftragsverarbeitung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Datenschutz Ropa ART Processor Anwendungsfall Triage Joint
 
 ## Arbeitsbereich
 
-**Datenschutz Ropa ART Processor Anwendungsfall Triage Joint** ordnet den Fall über die tragenden Prüffelder: Vollvorlage fuer das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Ropa ART Processor Anwendungsfall Triage Joint** ordnet den Fall über die tragenden Prüfungslinien: Vollvorlage für das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `ropa-art-30-processor-deutsch-vorlage` | Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele fuer Hosting, Steuerberatung, Lohnbuchhaltung. |
+| `ropa-art-30-processor-deutsch-vorlage` | Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele für Hosting, Steuerberatung, Lohnbuchhaltung. |
 | `anwendungsfall-triage` | Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills. |
-| `avv-art-26-joint-controllership-deutsch` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle fuer Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz fuer Joint-Controller-Vereinbarung. |
+| `avv-art-26-joint-controllership-deutsch` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle für Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz für Joint-Controller-Vereinbarung. |
 | `avv-art-28-dsgvo-grundtatbestand` | Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaert Rollenzuordnung Verantwortlicher gegen Auftragsverarbeiter wenn ein Dienstleister personenbezogene Daten im fremden Auftrag verarbeitet. Wann gilt Art. 28 wann Art. 26 wann Funktionsuebertragung. Output: Pruefvermerk zur Rollenzuordnung und AVV-Pflicht. |
-| `avv-art-28-mindestinhalte-checkliste` | Vollstaendige Pflichtinhalte-Checkliste fuer einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet fuer das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-fuer-Klausel-Pruefraster. |
+| `avv-art-28-mindestinhalte-checkliste` | Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `ropa-art-30-processor-deutsch-vorlage`
 
-**Fokus:** Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele fuer Hosting, Steuerberatung, Lohnbuchhaltung.
+**Fokus:** Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele für Hosting, Steuerberatung, Lohnbuchhaltung.
 
 # RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch
 
 ## Zweck
 
-Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet fuer Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
+Dieser Skill liefert eine ausfuellfertige Vorlage für das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet für Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
 
 ## Wann dieses Modul hilft
 
 - Auftragsverarbeiter baut sein RoPA erstmalig auf.
-- Kanzlei taetigt fuer Mandanten Datenverarbeitung im Auftrag (z. B. Lohnbuchhaltung, IT-Outsourcing) und ist insoweit Processor.
+- Kanzlei taetigt für Mandanten Datenverarbeitung im Auftrag (z. B. Lohnbuchhaltung, IT-Outsourcing) und ist insoweit Processor.
 - Audit eines bestehenden Processor-RoPA.
 - Aufsichtsbehoerde verlangt nach Art. 30 Abs. 4 DSGVO Vorlage.
 
 ## Rechtlicher Rahmen
 
-Art. 30 Abs. 2 DSGVO – Pflichtinhalte fuer Processor:
+Art. 30 Abs. 2 DSGVO – Pflichtinhalte für Processor:
 
 a) Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, in dessen Auftrag er taetig ist, sowie ggf. eines Vertreters des Verantwortlichen oder des Auftragsverarbeiters und eines Datenschutzbeauftragten;
 b) Kategorien der im Auftrag jedes Verantwortlichen durchgefuehrten Verarbeitungen;
@@ -114,18 +114,17 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Rechtsrahmen.
-- `ropa-art-30-controller-deutsch-vorlage` fuer Controller-Pendant.
-- `avv-art-28-dsgvo-grundtatbestand` fuer Vertragspflichten.
-- `avv-cloud-und-subverarbeitung-art-28-iv` fuer Subverarbeiter-Klauseln.
-- `tia-template-deutsch-vollvorlage` fuer Transferpruefung.
+- `ropa-art-30-dsgvo-grundlagen` für Rechtsrahmen.
+- `ropa-art-30-controller-deutsch-vorlage` für Controller-Pendant.
+- `avv-art-28-dsgvo-grundtatbestand` für Vertragspflichten.
+- `avv-cloud-und-subverarbeitung-art-28-iv` für Subverarbeiter-Klauseln.
+- `tia-template-deutsch-vollvorlage` für Transferpruefung.
 
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 2, Art. 28.
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 - DSK-Kurzpapier Nr. 13 "Auftragsverarbeitung" (Stand 16.01.2018).
-
 
 ## Qualitäts-Hardening
 
@@ -371,13 +370,13 @@ Verantwortlich: [PERSON / ROLLE]
 
 ## 3. `avv-art-26-joint-controllership-deutsch`
 
-**Fokus:** Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle fuer Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz fuer Joint-Controller-Vereinbarung.
+**Fokus:** Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle für Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz für Joint-Controller-Vereinbarung.
 
 # Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung
 
 ## Zweck / Purpose
 
-Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle fuer Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German.
+Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle für Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German.
 
 ## Wann dieses Modul hilft
 
@@ -412,7 +411,7 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
  - Verarbeitungsverzeichnis Art. 30 DSGVO – wer fuehrt?
 
 3. **Anlaufstelle festlegen.**
- - Eine zentrale Anlaufstelle fuer Betroffene oder mehrere?
+ - Eine zentrale Anlaufstelle für Betroffene oder mehrere?
  - Empfehlung: zentrale Anlaufstelle, um Art. 26 Abs. 3 DSGVO praktisch handhabbar zu machen.
 
 4. **Transparenz nach Art. 26 Abs. 2 DSGVO.**
@@ -440,12 +439,12 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 > Die gemeinsame Verarbeitung umfasst die in Anlage 1 beschriebenen Verarbeitungstaetigkeiten, Datenarten, Kategorien Betroffener und Empfaengergruppen.
 >
 > § 2 Rollenverteilung
-> (1) Partei A ist verantwortlich fuer
+> (1) Partei A ist verantwortlich für
 > a) die Bereitstellung der Verarbeitungsinfrastruktur;
 > b) die Erfuellung der Informationspflichten gemaess Art. 13 und 14 DSGVO gegenueber den ueber Partei A erreichten Betroffenen;
 > c) die Bearbeitung von Betroffenenanfragen nach Art. 15 bis 22 DSGVO, die ueber Partei A eingehen;
 > d) die Erfuellung der Meldepflichten gemaess Art. 33 und 34 DSGVO im Hinblick auf Verarbeitungsteile, die Partei A allein steuert.
-> (2) Partei B ist verantwortlich fuer
+> (2) Partei B ist verantwortlich für
 > a) die Erhebung und Erstuebermittlung der Daten an Partei A;
 > b) die Erfuellung der Informationspflichten gemaess Art. 13 und 14 DSGVO gegenueber den ueber Partei B erreichten Betroffenen;
 > c) die Bearbeitung von Betroffenenanfragen nach Art. 15 bis 22 DSGVO, die ueber Partei B eingehen;
@@ -455,17 +454,17 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 > b) die Festlegung der Loeschfristen;
 > c) die Festlegung der technischen und organisatorischen Massnahmen gemaess Art. 32 DSGVO.
 >
-> § 3 Anlaufstelle fuer Betroffene
-> Anlaufstelle fuer Anfragen Betroffener ist Partei A. Partei A leitet Anfragen, die in den Verantwortungsbereich von Partei B fallen, unverzueglich an Partei B weiter. Art. 26 Abs. 3 DSGVO bleibt unberuehrt: Betroffene koennen ihre Rechte gegenueber jeder Partei geltend machen.
+> § 3 Anlaufstelle für Betroffene
+> Anlaufstelle für Anfragen Betroffener ist Partei A. Partei A leitet Anfragen, die in den Verantwortungsbereich von Partei B fallen, unverzueglich an Partei B weiter. Art. 26 Abs. 3 DSGVO bleibt unberuehrt: Betroffene koennen ihre Rechte gegenueber jeder Partei geltend machen.
 >
 > § 4 Transparenz gegenueber Betroffenen (Art. 26 Abs. 2 DSGVO)
 > Die Parteien stellen den Betroffenen die wesentlichen Aspekte dieser Vereinbarung in ihrer jeweiligen Datenschutzerklaerung zur Verfuegung. Anlage 2 enthaelt eine zur Veroeffentlichung geeignete Kurzfassung.
 >
 > § 5 Sicherheit und Meldepflichten
-> Die Parteien stimmen sich bei einer Datenpanne unverzueglich, spaetestens innerhalb von vierundzwanzig (24) Stunden ab Kenntnis, ueber Meldepflichten gegenueber der Aufsichtsbehoerde und gegenueber Betroffenen ab. Die Federfuehrung fuer die Meldung an die Aufsichtsbehoerde liegt bei der Partei, in deren Verantwortungsbereich der Vorfall faellt; bei gemeinsamem Bereich uebernimmt Partei A die Federfuehrung.
+> Die Parteien stimmen sich bei einer Datenpanne unverzueglich, spaetestens innerhalb von vierundzwanzig (24) Stunden ab Kenntnis, ueber Meldepflichten gegenueber der Aufsichtsbehoerde und gegenueber Betroffenen ab. Die Federfuehrung für die Meldung an die Aufsichtsbehoerde liegt bei der Partei, in deren Verantwortungsbereich der Vorfall faellt; bei gemeinsamem Bereich uebernimmt Partei A die Federfuehrung.
 >
 > § 6 Haftung und Innenregress
-> Die Parteien haften gegenueber Betroffenen gesamtschuldnerisch nach Art. 82 Abs. 4 DSGVO. Im Innenverhaeltnis tragen die Parteien den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils gemaess Art. 82 Abs. 5 DSGVO. Die Haftung im Innenverhaeltnis ist auf [BETRAG] EUR pro Schadensfall begrenzt; die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
+> Die Parteien haften gegenueber Betroffenen gesamtschuldnerisch nach Art. 82 Abs. 4 DSGVO. Im Innenverhaeltnis tragen die Parteien den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils gemaess Art. 82 Abs. 5 DSGVO. Die Haftung im Innenverhaeltnis ist auf [BETRAG] EUR pro Schadensfall begrenzt; die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >
 > § 7 Aufsichtsbehoerden
 > Die Parteien unterstuetzen einander bei Anfragen und Kontrollen durch die Aufsichtsbehoerden.
@@ -501,7 +500,6 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -535,7 +533,7 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 - Art. 28 Abs. 3 DSGVO: AVV in Schriftform oder elektronisch; Mindestinhalte lit. a bis h.
 - Art. 28 Abs. 10 DSGVO: Eigenstaendige Verantwortlichkeit des Auftragsverarbeiters bei Ueberschreiten der Weisungen.
 - Art. 29 DSGVO: Weisungsgebundenheit der Verarbeitung.
-- § 62 BDSG: Spezialnormen fuer oeffentliche Stellen.
+- § 62 BDSG: Spezialnormen für öffentliche Stellen.
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (angenommen 07.07.2021).
 
 ## Ablauf / Checkliste
@@ -546,20 +544,20 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
  - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
  - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
 
-2. **Drei-Stufen-Test fuer Rollenzuordnung.**
+2. **Drei-Stufen-Test für Rollenzuordnung.**
 
- | Frage | Indiz fuer Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
+ | Frage | Indiz für Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
  |---|---|---|
  | Wer legt Zweck fest? | Verantwortlicher allein | Dienstleister mitbestimmend |
  | Wer legt wesentliche Mittel fest? | Verantwortlicher | Dienstleister bestimmt Architektur und Datenlogik |
- | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, fuer eigene Zwecke (Werbung, KI-Training, Statistik) |
+ | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, für eigene Zwecke (Werbung, KI-Training, Statistik) |
  | Wirtschaftliches Interesse | Verantwortlicher | Dienstleister hat eigenes Interesse an Daten |
  | Berufsbild | Reiner Auftragnehmer | Eigene Rechtsdienstleistung, Berufstraegerstellung |
 
 3. **Negativabgrenzung.**
  - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
  - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
- - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten fuer eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
+ - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten für eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
 
 4. **Rechtsfolge feststellen.**
  - Auftragsverarbeitung bejaht: AVV-Pflicht nach Art. 28 Abs. 3 DSGVO.
@@ -572,9 +570,9 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 
 ## Mustertext / Template
 
-Praeambel-Klausel fuer einen AVV nach Art. 28 DSGVO:
+Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
 
-> "Der Auftraggeber (im Folgenden 'Verantwortlicher' im Sinne des Art. 4 Nr. 7 DSGVO) beauftragt den Auftragnehmer (im Folgenden 'Auftragsverarbeiter' im Sinne des Art. 4 Nr. 8 DSGVO) mit der Verarbeitung personenbezogener Daten im Auftrag und nach Weisung des Verantwortlichen. Gegenstand, Dauer, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten sowie die Kategorien betroffener Personen sind in Anlage 1 abschliessend beschrieben. Der Auftragsverarbeiter verarbeitet die personenbezogenen Daten ausschliesslich auf dokumentierte Weisung des Verantwortlichen, soweit nicht eine Verarbeitungspflicht nach Unionsrecht oder dem Recht der Mitgliedstaaten besteht; in diesem Fall teilt der Auftragsverarbeiter dem Verantwortlichen diese rechtliche Verpflichtung vor der Verarbeitung mit, sofern das betreffende Recht eine solche Mitteilung nicht wegen eines wichtigen oeffentlichen Interesses verbietet."
+> "Der Auftraggeber (im Folgenden 'Verantwortlicher' im Sinne des Art. 4 Nr. 7 DSGVO) beauftragt den Auftragnehmer (im Folgenden 'Auftragsverarbeiter' im Sinne des Art. 4 Nr. 8 DSGVO) mit der Verarbeitung personenbezogener Daten im Auftrag und nach Weisung des Verantwortlichen. Gegenstand, Dauer, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten sowie die Kategorien betroffener Personen sind in Anlage 1 abschliessend beschrieben. Der Auftragsverarbeiter verarbeitet die personenbezogenen Daten ausschliesslich auf dokumentierte Weisung des Verantwortlichen, soweit nicht eine Verarbeitungspflicht nach Unionsrecht oder dem Recht der Mitgliedstaaten besteht; in diesem Fall teilt der Auftragsverarbeiter dem Verantwortlichen diese rechtliche Verpflichtung vor der Verarbeitung mit, sofern das betreffende Recht eine solche Mitteilung nicht wegen eines wichtigen öffentlichen Interesses verbietet."
 
 ## Typische Drafting-Fehler
 
@@ -602,7 +600,6 @@ Praeambel-Klausel fuer einen AVV nach Art. 28 DSGVO:
 - Verbindlich zur Zitierweise: `../../../references/zitierweise.md`.
 - Kommentar-, Handbuch- und Aufsatzfundstellen nur, wenn der Mandant die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -613,13 +610,13 @@ Praeambel-Klausel fuer einen AVV nach Art. 28 DSGVO:
 
 ## 5. `avv-art-28-mindestinhalte-checkliste`
 
-**Fokus:** Vollstaendige Pflichtinhalte-Checkliste fuer einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet fuer das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-fuer-Klausel-Pruefraster.
+**Fokus:** Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Pruefraster.
 
 # AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste
 
 ## Zweck / Purpose
 
-Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel fuer Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
+Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel für Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
 
 ## Wann dieses Modul hilft
 
@@ -656,7 +653,7 @@ Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 **lit. d – Sub-Auftragsverarbeiter (Art. 28 Abs. 2 und Abs. 4 DSGVO).** Einsatz nur mit allgemeiner oder besonderer schriftlicher Genehmigung; bei allgemeiner Genehmigung Informationspflicht ueber geplanten Wechsel. Auditfrage: Aktuelle Liste vorhanden? Widerspruchsfrist angemessen?
 
-**lit. e – Unterstuetzung Betroffenenrechte (Art. 12 bis 23 DSGVO).** Geeignete technische und organisatorische Massnahmen, um Erfuellung der Betroffenenrechte zu unterstuetzen (Auskunft, Loeschung, Berichtigung, Datenuebertragbarkeit). Auditfrage: SLA fuer Betroffenenanfragen?
+**lit. e – Unterstuetzung Betroffenenrechte (Art. 12 bis 23 DSGVO).** Geeignete technische und organisatorische Massnahmen, um Erfuellung der Betroffenenrechte zu unterstuetzen (Auskunft, Loeschung, Berichtigung, Datenuebertragbarkeit). Auditfrage: SLA für Betroffenenanfragen?
 
 **lit. f – Unterstuetzung Art. 32 bis 36 DSGVO.** Unterstuetzung bei TOM, Meldepflicht (Art. 33 DSGVO), Benachrichtigung Betroffener (Art. 34 DSGVO), DSFA (Art. 35 DSGVO), Konsultation Aufsichtsbehoerde (Art. 36 DSGVO). Auditfrage: Meldewege definiert?
 
@@ -666,7 +663,7 @@ Pflichtinhalte-Checkliste fuer Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 ## Mustertext / Template
 
-Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
+Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 
 ```
 § X Pflichten des Auftragsverarbeiters
@@ -684,7 +681,7 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 
 - Rahmenangaben fehlen oder sind zu allgemein ("Daten unserer Kunden").
 - lit. a wird auf "Vertragserfuellung" reduziert ohne Weisungsregister.
-- lit. b wird mit allgemeiner Geheimhaltungsklausel verwechselt; spezifische Vertraulichkeit fuer Verarbeitungsbefugte fehlt.
+- lit. b wird mit allgemeiner Geheimhaltungsklausel verwechselt; spezifische Vertraulichkeit für Verarbeitungsbefugte fehlt.
 - TOM-Anlage (lit. c) ist Marketingbroschuere statt konkrete Massnahmen.
 - lit. d laesst Sub-AV-Wechsel ohne Widerspruchsfrist zu.
 - lit. e ohne SLA und ohne Kostenregelung.
@@ -707,7 +704,6 @@ Konsolidierte Pflichtklausel-Liste (Kurzform fuer Vertragsanlage):
 - Art. 29 DSGVO – Weisungsgebundenheit.
 - EDSA-Leitlinien 07/2020 – Final 07.07.2021; abrufbar ueber edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

@@ -1,34 +1,21 @@
 ---
 name: brand-enforcement-markenportfolio
-description: "Brand Enforcement Markenportfolio im Fashion Law (Moderecht): prüft konkret Brand Enforcement und Abmahnung im Moderecht koordinieren, Brand- und Markenportfolio für Modeunternehmen prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Brand Enforcement Markenportfolio
+# Brand Enforcement Abmahnung
 
 ## Arbeitsbereich
 
-**Brand Enforcement Markenportfolio** ordnet den Fall über die tragenden Prüffelder: Brand Enforcement und Abmahnung im Moderecht koordinieren, Brand- und Markenportfolio für Modeunternehmen prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `brand-enforcement-abmahnung` | Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko. |
-| `brand-und-markenportfolio` | Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist. |
+Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fashion Law (Moderecht) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
 - Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `brand-enforcement-abmahnung`
-
-**Fokus:** Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko.
-
-# Brand Enforcement Abmahnung
 
 ## Wann dieser Skill hilft
 
@@ -56,34 +43,18 @@ Enforcement-Strategie.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
 
-## 2. `brand-und-markenportfolio`
+## Normen und Rechtsprechung
 
-**Fokus:** Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist.
+### Kuratierte Normen-Bibliothek
 
-# Brand Und Markenportfolio
+- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
+- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
+- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
+- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
 
-## Wann dieser Skill hilft
+### Leitentscheidungen
 
-Eine Fashion Brand wird aufgebaut oder verteidigt.
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-## Arbeitsweise
-
-Route bei Tiefe in das Markenrechtsplugin, aber liefere hier die Mode-spezifische Portfoliologik.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Output
-
-Brand-Portfolio-Memo.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.

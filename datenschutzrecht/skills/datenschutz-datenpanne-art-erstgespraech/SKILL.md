@@ -7,29 +7,29 @@ description: "Datenschutz Datenpanne ART Erstgespraech im Datenschutzrecht: prü
 
 ## Arbeitsbereich
 
-**Datenschutz Datenpanne ART Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Datenpannen-Incident-Response Art, Strukturiertes Erstgespraech im Datenschutzmandat, Auskunft gegenüber Auskunfteien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz Datenpanne ART Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Datenpannen-Incident-Response Art, Strukturiertes Erstgespraech im Datenschutzmandat, Auskunft gegenüber Auskunfteien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `datenschutz-datenpanne-art-33-34-72h-incident-response` | Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-fuer-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte fuer Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
+| `datenschutz-datenpanne-art-33-34-72h-incident-response` | Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-für-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte für Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
 | `datenschutz-erstgespraech-mandantenmatrix-7-fragen` | Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule. |
 | `datenschutz-kreditagentur-auskunft-art15-scorelogik` | Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie. |
-| `datenschutz-loeschpflicht-art-17-und-aufbewahrung` | Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-fuer-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte fuer Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis). |
-| `datenschutz-mandantenkommunikation-aufsichtsbehoerde` | Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhoerung Mandant antwortbereit. Schritt-fuer-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte fuer Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
+| `datenschutz-loeschpflicht-art-17-und-aufbewahrung` | Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis). |
+| `datenschutz-mandantenkommunikation-aufsichtsbehoerde` | Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhörung Mandant antwortbereit. Schritt-für-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte für Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `datenschutz-datenpanne-art-33-34-72h-incident-response`
 
-**Fokus:** Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-fuer-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte fuer Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
+**Fokus:** Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-für-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte für Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 # Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO
 
@@ -47,25 +47,25 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 2. **Welche Datenkategorien sind betroffen?** Allgemein, Art. 9 DSGVO (Gesundheit, Religion, Gewerkschaft, sexuelle Orientierung, biometrisch), Art. 10 DSGVO (Strafrechtsdaten), Art. 8 DSGVO (Minderjaehrige), Bankdaten, Authentifizierungsdaten?
 3. **Anzahl Betroffener?** Geschaetzt — Mindest- und Maximalwert.
 4. **Welche Schutzziele verletzt?** Vertraulichkeit (Offenlegung), Integritaet (Veraenderung), Verfuegbarkeit (Verlust)?
-5. **Welche TOM nach Art. 32 DSGVO** waren wirksam (Verschluesselung, Pseudonymisierung, Backup)? **Wichtig** fuer Art. 34 III a DSGVO Ausnahme.
+5. **Welche TOM nach Art. 32 DSGVO** waren wirksam (Verschluesselung, Pseudonymisierung, Backup)? **Wichtig** für Art. 34 III a DSGVO Ausnahme.
 6. **Ist ein Auftragsverarbeiter beteiligt?** Wer ist Verantwortlicher? Wer meldet?
-7. **Risiko fuer Betroffene?** Identitaetsdiebstahl, finanzieller Schaden, Diskriminierung, Rufschaedigung, Verlust der Kontrolle, unbefugte Aufhebung der Pseudonymisierung?
+7. **Risiko für Betroffene?** Identitaetsdiebstahl, finanzieller Schaden, Diskriminierung, Rufschaedigung, Verlust der Kontrolle, unbefugte Aufhebung der Pseudonymisierung?
 
 ## Rechtlicher Rahmen
 
 - **Art. 4 Nr. 12 DSGVO** Definition Verletzung des Schutzes personenbezogener Daten: Vernichtung, Verlust, Veraenderung, unbefugte Offenlegung oder Zugang.
-- **Art. 33 I DSGVO** Meldepflicht innerhalb 72 Stunden ab Kenntnis des Verantwortlichen, ausser unwahrscheinliches Risiko fuer Rechte und Freiheiten.
+- **Art. 33 I DSGVO** Meldepflicht innerhalb 72 Stunden ab Kenntnis des Verantwortlichen, ausser unwahrscheinliches Risiko für Rechte und Freiheiten.
 - **Art. 33 II DSGVO** Auftragsverarbeiter meldet unverzueglich an Verantwortlichen.
 - **Art. 33 III DSGVO** Pflichtinhalt: Art der Verletzung, Kategorien und Anzahl Betroffener, DSB-Kontakt, wahrscheinliche Folgen, ergriffene oder vorgeschlagene Massnahmen.
 - **Art. 33 IV DSGVO** Stufenmeldung zulaessig.
 - **Art. 33 V DSGVO** Dokumentationspflicht aller Verletzungen unabhaengig von Meldung.
 - **Art. 34 I DSGVO** Benachrichtigung Betroffener bei voraussichtlich hohem Risiko.
-- **Art. 34 III DSGVO** Ausnahmen: (a) wirksame Verschluesselung, (b) Folgemassnahmen verhindern Risiko, (c) Unverhaeltnismaessigkeit / oeffentliche Bekanntmachung.
+- **Art. 34 III DSGVO** Ausnahmen: (a) wirksame Verschluesselung, (b) Folgemassnahmen verhindern Risiko, (c) Unverhaeltnismaessigkeit / öffentliche Bekanntmachung.
 - **Art. 32 DSGVO** TOM-Pflicht.
 - **§ 65 BDSG** Spezifische Meldepflichten Strafverfolgung.
 - **EDSA Leitlinien 9/2022** zur Meldung von Datenpannen (angenommen 28.03.2023).
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Sachverhalt klaeren — NICHT vorschnell handeln.** Erste 4-8 Stunden: Fakten sammeln, Zeitstrahl, Personenkreis. Noch nichts ausserhalb des Mandanten kommunizieren. Vermeiden Sie pauschale Selbstvorwuerfe in Mails (werden im Bussgeldverfahren zur Akte).
 2. **Risikobewertung dokumentieren.** Matrix: Eintrittswahrscheinlichkeit Risiko x Schwere. EDSA-Leitlinien 9/2022 als Massstab.
@@ -127,7 +127,7 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 > Was Sie tun koennen: [Passwortwechsel, Konto-Monitoring, Hotline].
 >
 > Datenschutzbeauftragter: [Kontakt nach Art. 37 VII DSGVO].
-> Sie koennen sich beschweren bei der zustaendigen Aufsichtsbehoerde nach Art. 77 DSGVO: [Adresse].
+> Sie koennen sich beschweren bei der zuständigen Aufsichtsbehoerde nach Art. 77 DSGVO: [Adresse].
 >
 > Mit freundlichen Gruessen
 
@@ -155,9 +155,8 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 - DSGVO Art. 4 Nr. 12, 32, 33, 34, 37, 82, 83.
 - BDSG § 65.
 - EDSA, Leitlinien 9/2022 zur Meldung von Verletzungen des Schutzes personenbezogener Daten, Version 2.0, angenommen 28.03.2023.
-- EDSA, Leitlinien 01/2021 zu Beispielen fuer Meldungen von Datenpannen.
+- EDSA, Leitlinien 01/2021 zu Beispielen für Meldungen von Datenpannen.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 
@@ -183,7 +182,7 @@ Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat einge
 
 - Mandant erhaelt ein Auskunftsersuchen nach Art. 15 DSGVO.
 - Mandant meldet eine moegliche Datenpanne.
-- Aufsichtsbehoerde hat angeschrieben (Pruefung, Anhoerung, Bussgeldbescheid).
+- Aufsichtsbehoerde hat angeschrieben (Pruefung, Anhörung, Bussgeldbescheid).
 - Betroffener klagt auf Schadensersatz nach Art. 82 DSGVO.
 - Beschwerde nach Art. 77 DSGVO ist eingegangen.
 
@@ -191,10 +190,10 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 
 1. **Rolle:** Welche Rolle hat der Mandant in der Datenverarbeitung? Verantwortlicher (Art. 4 Nr. 7 DSGVO), Auftragsverarbeiter (Art. 4 Nr. 8, Art. 28 DSGVO) oder gemeinsam Verantwortlicher (Art. 26 DSGVO)? Wer hat ueber Zweck und Mittel entschieden?
 2. **Anlass:** Wer hat den Vorgang ausgeloest? Aufsichtsbehoerde, Betroffener selbst, Konkurrent, Gegnervertreter, eigene interne Pruefung, Whistleblower?
-3. **Frist:** Welche Frist laeuft jetzt? Art. 12 III DSGVO (ein Monat ab Eingang Antrag, Verlaengerung bis drei Monate gesamt), Art. 33 DSGVO (72 Stunden ab Kenntnis), Anhoerungsfrist im Bussgeldverfahren, Klagefrist?
+3. **Frist:** Welche Frist laeuft jetzt? Art. 12 III DSGVO (ein Monat ab Eingang Antrag, Verlaengerung bis drei Monate gesamt), Art. 33 DSGVO (72 Stunden ab Kenntnis), Anhörungsfrist im Bussgeldverfahren, Klagefrist?
 4. **Risikoklasse:** Welche Datenkategorien sind betroffen? Allgemeine personenbezogene Daten, besondere Kategorien (Art. 9 DSGVO Gesundheit Religion Gewerkschaft sexuelle Orientierung biometrische Daten), Strafrechtsdaten (Art. 10 DSGVO), Minderjaehrigen-Daten (Art. 8 DSGVO)?
 5. **Vorgeschichte:** Gab es schon Vorgaenge in derselben Sache? Frueheres Bussgeld, frueherer Auskunftsantrag, fruehere Beschwerde, frueherer Schadensersatzprozess?
-6. **Mandatsziel:** Was will der Mandant erreichen? Behoerdenkommunikation deeskalieren, Bussgeld senken, Schadensersatz abwehren, Auskunft formal erteilen, Klage einreichen?
+6. **Mandatsziel:** Was will der Mandant erreichen? Behördenkommunikation deeskalieren, Bussgeld senken, Schadensersatz abwehren, Auskunft formal erteilen, Klage einreichen?
 7. **Geheimhaltung und Mitwirkung:** Wer im Mandantenhaus weiss bereits Bescheid? Geschaeftsfuehrung, Datenschutzbeauftragter (Art. 37 DSGVO), Betriebsrat, IT-Leitung? Wer entscheidet?
 
 ## Rechtlicher Rahmen
@@ -208,10 +207,10 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 - **Art. 77 DSGVO** Beschwerderecht.
 - **Art. 82 DSGVO** Schadensersatz materieller und immaterieller Schaden.
 - **Art. 83 DSGVO** Bussgelder bis 4 Prozent Jahresumsatz oder 20 Mio. EUR.
-- **§ 40 BDSG** Aufsichtsbehoerden der Laender.
+- **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **§ 13 BDSG** Bestellung BfDI.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst:** Aktenzeichen anlegen, Mandantenvollmacht klaeren, schriftlich oder per Mail bestaetigen, dass Mandat angenommen ist. Kostenhinweis nach § 49b BRAO und RVG erteilen.
 2. **Als zweites:** Sieben Fragen in dieser Reihenfolge stellen. Antworten in der Matrix erfassen (siehe Mustertexte).
@@ -225,7 +224,7 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 |---|---|---|
 | Datenpanne unklar | Frist 72h laeuft (Art. 33 DSGVO) | vorschnelle Meldung erzeugt Bussgeldrisiko durch Selbstbelastung |
 | Auskunftsersuchen schwammig | schnelle Antwort signalisiert Kooperation | unvollstaendige Antwort triggert Beschwerde nach Art. 77 |
-| Behoerdenanschreiben | Reaktion vor Anhoerungsende | unueberlegte Stellungnahme wird Bussgeldakte |
+| Behördenanschreiben | Reaktion vor Anhörungsende | unueberlegte Stellungnahme wird Bussgeldakte |
 | Schadensersatzklage | Klageerwiderung in Frist | vorzeitige Anerkenntnis schliesst Verteidigung aus |
 
 ## Mustertexte
@@ -289,7 +288,6 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 - BRAO § 43a, § 49b; RVG-Hinweise zur Vertretung in Datenschutzmandaten.
 - Kein Modellwissen zu konkreten Aufsatzfundstellen. Verifizierung vor Versand in amtliche Quellen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -334,7 +332,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 4. `datenschutz-loeschpflicht-art-17-und-aufbewahrung`
 
-**Fokus:** Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-fuer-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte fuer Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis).
+**Fokus:** Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis).
 
 # Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
 
@@ -353,24 +351,24 @@ Sieben-Fragen-Diagnose:
 3. **Rechtsgrundlage:** Art. 6 I a-f? Einwilligung widerrufbar Art. 7 III?
 4. **Konkurrierende Aufbewahrungspflicht:** § 257 HGB sechs/zehn Jahre, § 147 AO acht/zehn Jahre, GoBD, § 17 GwG, sozialversicherungsrechtlich?
 5. **Sperrung statt Loeschung:** Ist Art. 18 DSGVO einschlaegig?
-6. **Backup-Strategie:** Werden Daten auch in Backups gehalten? Konzept fuer Loeschung Backup oder nur Produktivsystem?
+6. **Backup-Strategie:** Werden Daten auch in Backups gehalten? Konzept für Loeschung Backup oder nur Produktivsystem?
 7. **Drittweitergabe:** Art. 19 DSGVO Mitteilungspflicht?
 
 ## Rechtlicher Rahmen
 
-- **Art. 17 I DSGVO** Loeschpflicht bei: (a) Zweckwegfall, (b) Widerruf Einwilligung, (c) Widerspruch Art. 21, (d) unrechtmaessige Verarbeitung, (e) gesetzliche Pflicht zur Loeschung, (f) Kinderdaten Art. 8.
+- **Art. 17 I DSGVO** Loeschpflicht bei: (a) Zweckwegfall, (b) Widerruf Einwilligung, (c) Widerspruch Art. 21, (d) unrechtmäßige Verarbeitung, (e) gesetzliche Pflicht zur Loeschung, (f) Kinderdaten Art. 8.
 - **Art. 17 II DSGVO** verstaerkte Pflicht bei oeffentlich gemachten Daten — Mitteilung an andere Verantwortliche (EuGH C-460/20 Google "Right to be Forgotten").
-- **Art. 17 III DSGVO** Ausnahmen: (a) Meinungs- und Informationsfreiheit, (b) rechtliche Verpflichtung, (c) oeffentliches Interesse Gesundheit, (d) Archivzwecke, (e) Rechtsverteidigung.
+- **Art. 17 III DSGVO** Ausnahmen: (a) Meinungs- und Informationsfreiheit, (b) rechtliche Verpflichtung, (c) öffentliches Interesse Gesundheit, (d) Archivzwecke, (e) Rechtsverteidigung.
 - **Art. 18 DSGVO** Einschraenkung (Sperrung) — als Alternative wenn Loeschung nicht moeglich.
 - **Art. 19 DSGVO** Mitteilungspflicht gegenueber Empfaengern.
 - **§ 257 HGB** Aufbewahrung Handelsbuecher zehn Jahre; Handelsbriefe sechs Jahre.
-- **§ 147 AO** Aufbewahrung Buchungsbelege zehn Jahre (Stand 2026 nach Wachstumschancengesetz acht Jahre fuer bestimmte Belege), sonstige sechs Jahre.
+- **§ 147 AO** Aufbewahrung Buchungsbelege zehn Jahre (Stand 2026 nach Wachstumschancengesetz acht Jahre für bestimmte Belege), sonstige sechs Jahre.
 - **§ 17 GwG** Mindestaufbewahrung Sorgfaltspflicht-Dokumentation fuenf Jahre, bis zu zehn.
 - **§ 28 SGB IV** sozialversicherungsrechtliche Aufbewahrung.
 - **EuGH C-129/21 Proximus** (Urteil 27.10.2022): Verantwortlicher muss bei Aenderung der Verarbeitungslage selbst Massnahmen ergreifen.
 - **EuGH C-460/20 Google** (Urteil 08.12.2022): Recht auf Aushebung von Verlinkung bei Falschangaben.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst:** Loeschkonzept beim Mandanten anfordern oder erstellen. Ohne Konzept keine geordnete Loeschung.
 2. **Als zweites:** Pro Datenkategorie pruefen — Aufbewahrungspflicht ja oder nein? Falls ja, bis wann?
@@ -397,9 +395,9 @@ Sieben-Fragen-Diagnose:
 >
 > Ihrem Antrag auf Loeschung nach Art. 17 DSGVO koennen wir vollumfaenglich nicht entsprechen. Hintergrund ist eine konkurrierende gesetzliche Aufbewahrungspflicht nach § 257 HGB / § 147 AO / § 17 GwG (zutreffend einsetzen). Daher findet die Ausnahme nach Art. 17 Abs. 3 lit. b DSGVO Anwendung.
 >
-> Wir haben Ihre Daten gemaess Art. 18 DSGVO in der Verarbeitung eingeschraenkt (Sperrvermerk). Die Daten werden mit Ablauf der gesetzlichen Aufbewahrungspflicht am [Datum] vollstaendig geloescht. Bis dahin werden die Daten nur fuer den oben genannten Aufbewahrungszweck verarbeitet.
+> Wir haben Ihre Daten gemaess Art. 18 DSGVO in der Verarbeitung eingeschraenkt (Sperrvermerk). Die Daten werden mit Ablauf der gesetzlichen Aufbewahrungspflicht am [Datum] vollstaendig geloescht. Bis dahin werden die Daten nur für den oben genannten Aufbewahrungszweck verarbeitet.
 >
-> Ihr Beschwerderecht nach Art. 77 DSGVO bei [zustaendige Aufsichtsbehoerde] bleibt unberuehrt.
+> Ihr Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde] bleibt unberuehrt.
 
 ### Sperrvermerk (intern)
 
@@ -409,7 +407,7 @@ Betroffener: [Name]
 Sperrgrund: [Aufbewahrungspflicht § X HGB / § Y AO]
 Sperrbeginn: [Datum]
 Voraussichtliche Loeschung: [Datum]
-Zugriffsbeschraenkung: [nur Buchhaltung / nur fuer Pruefung]
+Zugriffsbeschraenkung: [nur Buchhaltung / nur für Pruefung]
 DSB benachrichtigt: [ja/nein]
 ```
 
@@ -453,7 +451,6 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 - EuGH C-460/20 Google, Urteil 08.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -464,26 +461,26 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 
 ## 5. `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
 
-**Fokus:** Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhoerung Mandant antwortbereit. Schritt-fuer-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte fuer Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
+**Fokus:** Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhörung Mandant antwortbereit. Schritt-für-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte für Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 # Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden
 
 ## Zweck
 
-Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zustaendigen Aufsichtsbehoerde — also BfDI fuer Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht fuer den oeffentlichen und privaten Bereich der Laender — so, dass der Mandant in Pruefungs-, Anhoerungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
+Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zuständigen Aufsichtsbehoerde — also BfDI für Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht für den öffentlichen und privaten Bereich der Länder — so, dass der Mandant in Pruefungs-, Anhörungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhoerung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
+Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhörung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
 
 Sieben-Fragen-Diagnose:
 
 1. **Welche Aufsicht?** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden, Postdienste) oder Landesaufsicht nach § 40 BDSG (privater Bereich plus Landesbehoerden)? Federfuehrend nach Art. 56 DSGVO?
 2. **Welcher Anlass?** Pruefung von Amts wegen, Beschwerde Art. 77, Folge einer Meldung Art. 33, anonymer Hinweis, koordiniertes Aufsichtsverfahren EDSA?
-3. **Welche Verfahrensart?** Anhoerung (kein Bussgeldverfahren), Bussgeldverfahren OWiG, Verwaltungsverfahren Art. 58 II DSGVO (Anordnung)?
+3. **Welche Verfahrensart?** Anhörung (kein Bussgeldverfahren), Bussgeldverfahren OWiG, Verwaltungsverfahren Art. 58 II DSGVO (Anordnung)?
 4. **Welche Frist?** Genau notieren, Eingangsstempel, Fristenkalender.
 5. **Ist der Mandant antwortbereit?** Sind Daten vorhanden, ist die Geschaeftsfuehrung einig, DSB beteiligt?
-6. **Welches Mandatsziel?** Pruefung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder oeffentliche Wahrnehmung steuern?
+6. **Welches Mandatsziel?** Pruefung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder öffentliche Wahrnehmung steuern?
 7. **Welche Spurensicherung intern?** Verarbeitungsverzeichnis Art. 30 DSGVO, TOM Art. 32, DSFA Art. 35, AVV Art. 28 — liegt alles vor und ist aktuell?
 
 ## Rechtlicher Rahmen
@@ -491,20 +488,20 @@ Sieben-Fragen-Diagnose:
 - **Art. 57 DSGVO** Aufgaben Aufsichtsbehoerde.
 - **Art. 58 DSGVO** Befugnisse: I Untersuchungen, II Abhilfemassnahmen.
 - **Art. 31 DSGVO** Zusammenarbeitspflicht des Verantwortlichen mit Aufsicht.
-- **Art. 56 DSGVO** federfuehrende Behoerde bei grenzueberschreitender Verarbeitung.
+- **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
 - **Art. 77 DSGVO** Beschwerderecht.
 - **§ 13 BDSG** Bestellung und Befugnisse des BfDI.
-- **§ 40 BDSG** Aufsichtsbehoerden der Laender.
+- **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **§ 41 BDSG** Anwendung OWiG, BfDI bzw. Landesaufsicht als Verfolgungsbehoerde.
-- **§ 28 VwVfG** Anhoerungsrecht im Verwaltungsverfahren.
-- **§ 55 OWiG** Anhoerung im Bussgeldverfahren — **kein Verschulden zugeben**, **kein Schweigen mit Schuldeingestaendnis verwechseln**.
+- **§ 28 VwVfG** Anhörungsrecht im Verwaltungsverfahren.
+- **§ 55 OWiG** Anhörung im Bussgeldverfahren — **kein Verschulden zugeben**, **kein Schweigen mit Schuldeingestaendnis verwechseln**.
 - **§ 46 OWiG** sinngemaesse Anwendung StPO.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Mandantenfreigabe zwingend.** Kein Brief geht raus ohne Geschaeftsfuehrungsfreigabe. Vier-Augen-Prinzip.
 2. **NICHT vorschnell schriftliche Stellungnahme abgeben.** Erst Akteneinsicht beantragen, Sachverhalt klaeren, Belegmatrix erstellen.
-3. **Eingangsschreiben sortieren:** Anhoerung, Auskunftsverlangen, Anordnung, Bussgeldanhoerung — andere Vorgehen pro Variante.
+3. **Eingangsschreiben sortieren:** Anhörung, Auskunftsverlangen, Anordnung, Bussgeldanhoerung — andere Vorgehen pro Variante.
 4. **Akteneinsicht beantragen.** Bei Bussgeldverfahren § 49 OWiG i.V.m. § 147 StPO. Bei Verwaltungsverfahren § 29 VwVfG.
 5. **Frist nutzen.** Lieber Fristverlaengerung beantragen als unvollstaendig liefern.
 6. **Inhalt der Stellungnahme:** keine pauschalen Selbstvorwuerfe; konkrete Belege zu Art. 30, 32, 35; klare Trennung zwischen Tatsachen und Rechtsauffassung.
@@ -570,7 +567,6 @@ Sieben-Fragen-Diagnose:
 - StPO § 147.
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

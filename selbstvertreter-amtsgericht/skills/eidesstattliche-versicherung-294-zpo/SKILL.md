@@ -30,7 +30,7 @@ Die **eidesstattliche Versicherung** (e. V.) ist ein Mittel der **Glaubhaftmachu
 - **§ 920 ZPO** — Antrag auf Arrest mit Glaubhaftmachung.
 - **§ 936 ZPO** — Einstweilige Verfuegung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann genuegt Glaubhaftmachung?
 
@@ -83,7 +83,7 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe).
 - Vorsaetzlich: Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 - Fahrlaessig (§ 161 StGB): Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-Achtung: Auch wenn die Versicherung formell nicht durch zustaendige Stelle abgenommen wurde, kann § 156 StGB greifen (Streitfrage; pruefen).
+Achtung: Auch wenn die Versicherung formell nicht durch zuständige Stelle abgenommen wurde, kann § 156 StGB greifen (Streitfrage; pruefen).
 
 ### Schritt 5 — Beweiswert in Glaubhaftmachungs-Verfahren
 
@@ -136,7 +136,6 @@ E. V. ist haeufig die einfachste Form.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
-
 
 ## Qualitäts-Hardening
 

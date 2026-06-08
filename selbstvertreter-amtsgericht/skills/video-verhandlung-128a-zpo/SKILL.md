@@ -7,7 +7,7 @@ description: "Video-Verhandlung nach § 128a ZPO. Teilnahme an muendlicher Verha
 
 ## Worum geht es?
 
-Seit einigen Jahren ist Video-Verhandlung im Zivilprozess moeglich (§ 128a ZPO). Sie nehmen aus dem eigenen Wohn-/Arbeitszimmer am Termin teil — per Video-Konferenz. Praktisch fuer lange Anfahrt, Krankheit, Auslandsaufenthalt. Diese Skill zeigt, wann und wie.
+Seit einigen Jahren ist Video-Verhandlung im Zivilprozess moeglich (§ 128a ZPO). Sie nehmen aus dem eigenen Wohn-/Arbeitszimmer am Termin teil — per Video-Konferenz. Praktisch für lange Anfahrt, Krankheit, Auslandsaufenthalt. Diese Skill zeigt, wann und wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Seit einigen Jahren ist Video-Verhandlung im Zivilprozess moeglich (§ 128a ZPO)
 - **§ 128a I ZPO** — Voraussetzungen, Antrag.
 - **§ 128a II ZPO** — Pflicht zum Erscheinen im Saal auch bei Video moeglich.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Antrag stellen
 

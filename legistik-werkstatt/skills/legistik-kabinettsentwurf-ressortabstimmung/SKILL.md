@@ -5,12 +5,26 @@ description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im L
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk
 
-## Spezialwissen: Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk / kabinettsentwuerfe compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** XML.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Arbeitsfokus: **Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
+- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
+- `§ 45 GGO` — Beteiligung.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk
+- **Normen-/Quellenanker:** XML.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

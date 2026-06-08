@@ -17,7 +17,7 @@ Die Berufungsfrist betraegt 1 Monat ab Zustellung des vollstaendigen schriftlich
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Rechtsmittelfrist**: Frist fuer Einlegung eines Rechtsmittels.
+- **Rechtsmittelfrist**: Frist für Einlegung eines Rechtsmittels.
 - **Notfrist**: Nicht verlaengerbar.
 - **Rechtskraft**: Endgueltige Verbindlichkeit des Urteils.
 
@@ -28,7 +28,7 @@ Die Berufungsfrist betraegt 1 Monat ab Zustellung des vollstaendigen schriftlich
 - **§ 224 I ZPO** — Notfrist nicht verlaengerbar.
 - **§ 187, 188 BGB** — Fristberechnung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Zustellung des Urteils
 
@@ -78,7 +78,7 @@ Bei Eile: Selbst-Einreichung der Berufungsschrift (§ 78 III ZPO erlaubt es). Be
 
 § 520 II ZPO: **2 Monate** ab Zustellung des Urteils.
 
-Wichtig: Begruendungs-Frist laeuft ab **Zustellung**, **nicht** ab Einlegung der Berufung. Wenn Sie also 4 Wochen mit Berufung warten, haben Sie nur 4 Wochen fuer Begruendung.
+Wichtig: Begruendungs-Frist laeuft ab **Zustellung**, **nicht** ab Einlegung der Berufung. Wenn Sie also 4 Wochen mit Berufung warten, haben Sie nur 4 Wochen für Begruendung.
 
 Verlaengerung der Begruendungs-Frist moeglich nach § 520 II 3 ZPO (auf Antrag, durch Vorsitzenden).
 
@@ -94,7 +94,7 @@ Wenn Berufungsfrist versaeumt:
 
 Bei Unsicherheit lieber **eher** Berufung einlegen als zu spaet. Sie koennen die Berufung spaeter zuruecknehmen, wenn Sie sich anders entscheiden.
 
-Bei Selbst-Einlegung muessen Sie aber bedenken: ohne Anwalt fuer Begruendung droht trotzdem Verwerfung.
+Bei Selbst-Einlegung muessen Sie aber bedenken: ohne Anwalt für Begruendung droht trotzdem Verwerfung.
 
 ### Schritt 9 — PKH parallel
 
@@ -128,7 +128,6 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 517 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

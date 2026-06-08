@@ -1,34 +1,34 @@
 ---
 name: bag-equal-mindesturlaub-kein-betriebsrat
-description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkret Prüffeld für bag equal pay paarvergleich 8azr30024, Prüffeld für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüffeld für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkrete Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüfungslinie für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # BAG Equal Mindesturlaub Kein Betriebsrat
 
 ## Arbeitsbereich
 
-**BAG Equal Mindesturlaub Kein Betriebsrat** ordnet den Fall über die tragenden Prüffelder: Prüffeld für bag equal pay paarvergleich 8azr30024, Prüffeld für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**BAG Equal Mindesturlaub Kein Betriebsrat** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bag-equal-pay-paarvergleich-8azr30024` | Prüffeld für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `bag-mindesturlaub-kein-verzicht-9azr10424` | Prüffeld für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-equal-pay-paarvergleich-8azr30024` | Prüfungslinie für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-mindesturlaub-kein-verzicht-9azr10424` | Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll. |
-| `betriebsrat-beschluss-heilung-nachtraeglich` | Prüffeld für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `betriebsrat-beschluss-heilung-nachtraeglich` | Prüfungslinie für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
 
-**Fokus:** Prüffeld für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -40,14 +40,13 @@ description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: p
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum es geht
 
 Dieser Skill ist ein Live-Research-für Equal-Pay-Fälle mit Paarvergleich. Er darf eine konkrete BAG-Entscheidung erst ausgeben, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, freie oder amtliche Quelle und tragende Aussage verifiziert sind.
 
 ## Leitentscheidung
 
-- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts fuer gleiche oder gleichwertige Arbeit eine hoehere Verguetung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
+- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Paarvergleich bei Entgeltdiskriminierung; Vorinstanz LAG Baden-Württemberg). Tragende Aussage: Es genügt, dass die Klägerin substantiiert darlegt, dass ein einzelner Kollege des anderen Geschlechts für gleiche oder gleichwertige Arbeit eine hoehere Verguetung erhaelt, um die Vermutung der geschlechtsbezogenen Entgeltdiskriminierung (§ 22 AGG) auszuloesen; auf Mediane oder Vergleichsgruppengroessen kommt es nicht an. Selbst der bestverdienende maennliche Kollege kann als Vergleichsperson herangezogen werden.
 - Offene Quelle: dejure.org, Vernetzung BAG 23.10.2025 - 8 AZR 300/24; Pressemitteilung BAG (Entscheidungen Online).
 - Status: Volltextveroeffentlichung gemaess Aussagen Drittquellen noch ausstehend - bei Schriftsatz vor Versand pruefen, ob Volltext inzwischen verfuegbar ist.
 
@@ -70,7 +69,7 @@ Für Arbeitnehmerinnen bedeutet die Entscheidung: Der Auskunftsanspruch nach Par
 
 ## Argumentationslinie im Schriftsatz
 
-Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des § 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende fuer die konkrete Differenz darlegen und beweisen.
+Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mit einem einzigen Kollegen des anderen Geschlechts, um die Vermutung des § 22 AGG auszuloesen. Mediane, Durchschnittsbetrachtungen oder Verhandlungsgeschick rechtfertigen die Differenz nicht pauschal. Der Arbeitgeber muss konkret und nachvollziehbar geschlechtsneutrale, objektive Gruende für die konkrete Differenz darlegen und beweisen.
 
 ## Typische Arbeitgeber-Einwände und Reaktion
 
@@ -87,15 +86,15 @@ Der Anspruch richtet sich auf Entgeltnachzahlung für den Differenzbetrag (Parag
 
 ## Ausblick EU-Lohntransparenzrichtlinie 2023/970
 
-Die Richtlinie (EU) 2023/970 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Staerkung der Anwendung des Grundsatzes des gleichen Entgelts fuer Maenner und Frauen bei gleicher oder gleichwertiger Arbeit durch Entgelttransparenz und Durchsetzungsmechanismen (ABl. L 132 vom 17.05.2023, S. 21) ist bis zum 07. Juni 2026 in deutsches Recht umzusetzen. Nationale Umsetzung steht zum Stand Mai 2026 noch aus; ein Referentenentwurf zur Aenderung des EntgTranspG ist angekuendigt. Praxisrelevante Pflichten der Richtlinie:
+Die Richtlinie (EU) 2023/970 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Staerkung der Anwendung des Grundsatzes des gleichen Entgelts für Maenner und Frauen bei gleicher oder gleichwertiger Arbeit durch Entgelttransparenz und Durchsetzungsmechanismen (ABl. L 132 vom 17.05.2023, S. 21) ist bis zum 07. Juni 2026 in deutsches Recht umzusetzen. Nationale Umsetzung steht zum Stand Mai 2026 noch aus; ein Referentenentwurf zur Aenderung des EntgTranspG ist angekuendigt. Praxisrelevante Pflichten der Richtlinie:
 
 - Art. 5 — Vorvertragliche Entgelttransparenz: Bewerber haben Anspruch auf Information ueber das Einstiegsentgelt oder dessen Spanne; Verbot, nach der bisherigen Gehaltshistorie zu fragen.
-- Art. 7 — Auskunftsanspruch der Beschaeftigten ueber das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht fuer gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
+- Art. 7 — Auskunftsanspruch der Beschaeftigten ueber das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht für gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
 - Art. 9 — Berichtspflicht des Arbeitgebers ueber das geschlechtsspezifische Entgeltgefaelle: Arbeitgeber ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (nach Uebergangsfristen).
 - Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung, wenn das Entgeltgefaelle bei einer Arbeitnehmerkategorie mindestens fuenf Prozent betraegt und nicht durch geschlechtsneutrale Faktoren erklaerbar ist.
 - Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung einschliesslich entgangenem Entgelt, Boni und Sachleistungen.
 - Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers, sobald dieser Transparenzpflichten verletzt hat.
-- Art. 21 — Verjaehrungsfrist mindestens drei Jahre ab Kenntnis der Diskriminierung.
+- Art. 21 — Verjährungsfrist mindestens drei Jahre ab Kenntnis der Diskriminierung.
 
 Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj — vor Beratung ueberpruefen, ob das Umsetzungsgesetz inzwischen verkuendet ist.
 
@@ -105,7 +104,7 @@ In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle 
 
 ## 2. `bag-mindesturlaub-kein-verzicht-9azr10424`
 
-**Fokus:** Prüffeld für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -116,7 +115,6 @@ In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -181,7 +179,6 @@ Verbindung mit `aufhebungsvertrag` und `aufhebungsvertrag-sperrzeit-prognose` f�
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach § 102 BetrVG als notwendige Wirksamkeitsvoraussetzung jeder Arbeitgeberkündigung in Betrieben mit Betriebsrat. Die fehlerhafte oder unterbliebene Anhörung führt nach § 102 Abs. 1 Satz 3 BetrVG zwingend zur Unwirksamkeit der Kündigung – unabhängig davon, ob ein Kündigungsschutzrecht im Übrigen besteht. Der Skill ist einschlägig bei der Prüfung einer erhaltenen Kündigung (Arbeitnehmerperspektive), beim Entwurf des Anhörungsschreibens (Arbeitgeberperspektive) sowie bei der Frage des Widerspruchsrechts des BR (§ 102 Abs. 3 BetrVG) und des Weiterbeschäftigungsanspruchs (§ 102 Abs. 5 BetrVG).
@@ -211,7 +208,7 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
 ### Leitentscheidungen (BGH-Stil)
 
 - **Inhalt der Anhörungsmitteilung / subjektive Determinierung:**
- BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, fuer den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
+ BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, für den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
  BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende duerfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
 
 - **Fristbeginn / Vollstaendigkeit der Unterlagen:**
@@ -221,7 +218,7 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
  Hier weitere Rechtsprechung zur § 102 Abs. 5 BetrVG-Weiterbeschaeftigung vor Schriftsatzverwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
 
 - **Nachschieben von Kuendigungsgruenden:**
- Standardrechtsprechung: Nachschieben grundsaetzlich nur fuer Kuendigungsgruende, die im Zeitpunkt der Anhoerung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
+ Standardrechtsprechung: Nachschieben grundsaetzlich nur für Kuendigungsgruende, die im Zeitpunkt der Anhörung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
 
 ### Quellenregel
 
@@ -254,7 +251,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 | Kündigungsart | Frist | Fristbeginn |
 |---|---|---|
-| Ordentliche Kuendigung | 1 Woche (§ 102 Abs. 2 Satz 1 BetrVG) | Zugang des vollstaendigen Anhoerungsschreibens beim Vorsitzenden, § 26 Abs. 2 BetrVG |
+| Ordentliche Kuendigung | 1 Woche (§ 102 Abs. 2 Satz 1 BetrVG) | Zugang des vollstaendigen Anhörungsschreibens beim Vorsitzenden, § 26 Abs. 2 BetrVG |
 | Außerordentliche Kündigung | 3 Tage | Zugang des vollständigen Anhörungsschreibens |
 
 - **Fristablauf ohne Stellungnahme des BR** → Arbeitgeber kann kündigen (§ 102 Abs. 2 Satz 2 BetrVG: BR gilt als angehört).
@@ -335,7 +332,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 4. `betriebsrat-beschluss-heilung-nachtraeglich`
 
-**Fokus:** Prüffeld für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsratsbeschluss — Heilung nachträglich
 
@@ -346,7 +343,6 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Rechtsgrundlagen
 

@@ -7,29 +7,29 @@ description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseige
 
 ## Arbeitsbereich
 
-**Kuendigung Zugang Ladestation Tiefgarage** ordnet den Fall über die tragenden Prüffelder: Kündigung-Zugang-Check, Ladestation Tiefgarage, Laienmodus Wohnraummiete. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kuendigung Zugang Ladestation Tiefgarage** ordnet den Fall über die tragenden Prüfungslinien: Kündigung-Zugang-Check, Ladestation Tiefgarage, Laienmodus Wohnraummiete. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-kuendigung-zugang-check` | Kündigung-Zugang-Check: Prüffeld für Miet- und WEG-Recht; prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-ladestation-tiefgarage` | Ladestation Tiefgarage: Prüffeld für Miet- und WEG-Recht; klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-laienmodus-wohnraummiete` | Laienmodus Wohnraummiete: Prüffeld für Miet- und WEG-Recht; erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mandantenbrief-einfach` | Mandantenbrief einfach: Prüffeld für Miet- und WEG-Recht; übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-kuendigung-zugang-check` | Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht; prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-ladestation-tiefgarage` | Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht; klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-laienmodus-wohnraummiete` | Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht; erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-mandantenbrief-einfach` | Mandantenbrief einfach: Prüfungslinie für Miet- und WEG-Recht; übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-miet-wohnungseigentumsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Miet Wohnungseigentumsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-kuendigung-zugang-check`
 
-**Fokus:** Kündigung-Zugang-Check: Prüffeld für Miet- und WEG-Recht; prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht; prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Kündigung-Zugang-Check
 
@@ -41,9 +41,8 @@ description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseige
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -74,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-ladestation-tiefgarage`
 
-**Fokus:** Ladestation Tiefgarage: Prüffeld für Miet- und WEG-Recht; klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht; klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Ladestation Tiefgarage
 
@@ -86,9 +85,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -119,7 +117,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-laienmodus-wohnraummiete`
 
-**Fokus:** Laienmodus Wohnraummiete: Prüffeld für Miet- und WEG-Recht; erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht; erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Laienmodus Wohnraummiete
 
@@ -131,9 +129,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -164,7 +161,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-mandantenbrief-einfach`
 
-**Fokus:** Mandantenbrief einfach: Prüffeld für Miet- und WEG-Recht; übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Mandantenbrief einfach: Prüfungslinie für Miet- und WEG-Recht; übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Mandantenbrief einfach
 
@@ -176,9 +173,8 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
@@ -220,7 +216,6 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-miet-wohnungseigentumsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..

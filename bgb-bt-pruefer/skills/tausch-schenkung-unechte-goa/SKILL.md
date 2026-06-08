@@ -1,42 +1,26 @@
 ---
 name: tausch-schenkung-unechte-goa
-description: "Tausch Schenkung Unechte GOA im Plugin Bgb Bt Pruefer: prüft konkret Tausch § 480 BGB und Schenkung §§ 516-534 BGB, Unechte GoA § 687 BGB, Verbrauchsgüterkauf §§ 474 ff. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Tausch Schenkung Unechte GOA
+# Tausch und Schenkung §§ 480 und 516 ff. BGB
 
 ## Arbeitsbereich
 
-**Tausch Schenkung Unechte GOA** ordnet den Fall über die tragenden Prüffelder: Tausch § 480 BGB und Schenkung §§ 516-534 BGB, Unechte GoA § 687 BGB, Verbrauchsgüterkauf §§ 474 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `tausch-und-schenkung` | Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. |
-| `unechte-goa-paragraph-687` | Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes. |
-| `verbrauchsgueterkauf-digitales` | Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB. |
+Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Bgb Bt Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `tausch-und-schenkung`
-
-**Fokus:** Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede.
-
-# Tausch und Schenkung §§ 480 und 516 ff. BGB
 
 ## Fachkern: Tausch und Schenkung §§ 480 und 516 ff. BGB
-- **Spezialgegenstand:** Tausch und Schenkung §§ 480 und 516 ff. BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -103,192 +87,11 @@ Tauschvertrag nach § 480 BGB und Schenkungsrecht (§§ 516 ff. BGB) prüfen: Un
 - bereicherungsrecht-leistungskondiktion
 - vertragstypen-mischvertrag-router
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/bgb/__516.html
 - https://www.gesetze-im-internet.de/bgb/__518.html
 - https://www.gesetze-im-internet.de/bgb/__530.html
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `unechte-goa-paragraph-687`
-
-**Fokus:** Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes.
-
-# Unechte GoA § 687 BGB
-
-## Fachkern: Unechte GoA § 687 BGB
-- **Spezialgegenstand:** Unechte GoA § 687 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Zweck
-
-Unechte Geschäftsführung ohne Auftrag nach § 687 BGB prüfen: § 687 Abs. 1 (Geschäftsanmaßung) und § 687 Abs. 2 (wissentliche Eigengeschäftsführung) und ihre Rechtsfolgen.
-
-## Normanker
-
-- § 687 Abs. 1 BGB: Irrtümliche Eigengeschäftsführung (kein Auftrag, kein GoA-Regime)
-- § 687 Abs. 2 BGB: Wissentliche Behandlung eines fremden Geschäfts als eigenes (Geschäftsanmaßung)
-- § 687 Abs. 2 S. 1 BGB: Herausgabepflicht und Schadensersatz nach § 678 BGB
-- § 687 Abs. 2 S. 2 BGB: Geschäftsherr kann Genehmigung erklären
-- §§ 677 ff. BGB: Echte GoA als Ausgangspunkt für Abgrenzung
-
-## Intake
-
-- Hat der Handelnde gewusst, dass das Geschäft ein fremdes ist (§ 687 Abs. 2 BGB)?
-- Oder handelte er irrtümlich in der Annahme, ein eigenes Geschäft zu führen (§ 687 Abs. 1 BGB)?
-- Welches Ergebnis hat die Geschäftsführung erbracht (Erlös, Nutzungen, Schaden)?
-- Hat der Geschäftsherr die Geschäftsführung genehmigt?
-- Sind Schadensersatzansprüche nach § 678 BGB im Raum?
-
-## Prüfraster
-
-1. Echte GoA (§§ 677 ff. BGB) abgrenzen: Fremdgeschäftsführungswille und -bewusstsein vorhanden?
-2. § 687 Abs. 1 BGB: Handelnder hält irrtümlich fremdes Geschäft für eigenes; kein GoA-Regime, normale Regeln
-3. § 687 Abs. 2 BGB: Handelnder weiß, dass es fremdes Geschäft ist, behandelt es aber als eigenes
-4. Rechtsfolge § 687 Abs. 2 S. 1 BGB: Herausgabepflicht nach §§ 681 und 667 BGB; Schadensersatz nach § 678 BGB
-5. Genehmigung nach § 687 Abs. 2 S. 2 BGB: Geschäftsherr kann GoA-Regime nachträglich anerkennen
-6. Aufwendungsersatz: bei § 687 Abs. 2 BGB kein Aufwendungsersatz für den Handelnden
-
-## Fallstricke
-
-- § 687 Abs. 1 BGB ist eigentlich kein GoA-Fall; Handelnder haftet nach normalen Regeln (Delikt, Bereicherung).
-- § 687 Abs. 2 BGB: Wissen über Fremdheit ist subjektives Tatbestandsmerkmal; genaue Prüfung nötig.
-- Genehmigung nach § 687 Abs. 2 S. 2 BGB kann Aufwendungsersatzanspruch des Handelnden entstehen lassen.
-- Abgrenzung zu § 678 BGB: dieser gilt bei echter GoA gegen den Willen des Geschäftsherrn.
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Einordnungsmatrix (echte GoA vs. § 687 Abs. 1 und 2 BGB)
-- Herausgabe- und Schadensersatz-Analyse
-- Genehmigungsoption für den Geschäftsherrn
-- Risikoampel
-
-## Qualitätsregeln
-
-- Kenntnis der Fremdheit als Schlüsselmerkmal für § 687 Abs. 2 BGB immer sachverhaltsnah prüfen.
-- Aufwendungsersatz bei § 687 Abs. 2 BGB ausdrücklich ausschließen.
-- § 687 Abs. 1 BGB nicht mit echter GoA verwechseln.
-
-## Anschluss-Skills
-
-- goa-grundschema-paragraph-677
-- goa-entgegenstehender-wille-paragraphen-678-679
-- bereicherungsrecht-leistungskondiktion
-
-
-## Quellen
-
-- https://www.gesetze-im-internet.de/bgb/__687.html
-- https://www.gesetze-im-internet.de/bgb/__677.html
-- https://www.gesetze-im-internet.de/bgb/__678.html
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `verbrauchsgueterkauf-digitales`
-
-**Fokus:** Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB.
-
-# Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
-
-## Fachkern: Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
-- **Spezialgegenstand:** Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Zweck
-
-Verbrauchsgüterkauf nach §§ 474 ff. BGB und seine Schnittstellen zu §§ 327 ff. BGB für digitale Produkte prüfen: zwingende Normen, Beweislastumkehr, Updatepflichten.
-
-## Normanker
-
-- § 474 BGB: Verbrauchsgüterkauf (Verbraucher kauft von Unternehmer)
-- § 475 BGB: Abweichende Vereinbarungen (Verbot der Benachteiligung des Verbrauchers)
-- § 476 BGB: Abweichende Vereinbarungen bei Ware mit digitalen Elementen
-- § 477 BGB: Beweislastumkehr zugunsten des Verbrauchers
-- § 478 BGB: Rückgriff des Unternehmers (Lieferkette)
-- §§ 327 ff. BGB: Verträge über digitale Inhalte und digitale Dienstleistungen
-
-## Intake
-
-- Liegt ein Verbrauchsgüterkauf vor (Verbraucher kauft von Unternehmer eine bewegliche Sache)?
-- Tritt der Mangel innerhalb von 12 Monaten nach Übergabe auf (Beweislastumkehr § 477 BGB)?
-- Enthält die Kaufsache digitale Elemente (§ 475b ff. BGB anwendbar)?
-- Haben die Parteien abweichende Vereinbarungen getroffen (Zulässigkeit nach § 476 BGB prüfen)?
-- Gibt es Rückgriffsansprüche in der Lieferkette (§ 478 BGB)?
-
-## Prüfraster
-
-1. Verbrauchsgüterkauf-Tatbestand: Verbraucher (§ 13 BGB) kauft von Unternehmer (§ 14 BGB) eine bewegliche Sache
-2. Zwingende Normen nach § 475 BGB: Vereinbarungen zum Nachteil des Verbrauchers unwirksam
-3. Beweislastumkehr nach § 477 BGB: Mangel, der innerhalb von 12 Monaten auftritt, gilt als bei Übergabe vorhanden
-4. Ausnahmen: Unvereinbarkeit des Mangels mit dieser Vermutung (z.B. Verschleiß)
-5. Ware mit digitalen Elementen: §§ 475b ff. BGB mit Updatepflichten und besonderen Mangelanforderungen
-6. Digitale Produkte (kein Kauf): §§ 327 ff. BGB anstelle von Kaufrecht
-7. Rückgriff in der Lieferkette nach § 478 BGB: Unternehmer kann Mängelrechte gegenüber Lieferanten geltend machen
-8. Verjährung: § 438 Abs. 1 Nr. 3 BGB (2 Jahre); nicht abkürzbar bei Verbrauchsgüterkauf
-
-## Fallstricke
-
-- Beweislastumkehr gilt nur innerhalb von 12 Monaten (nach 2022er Reform; vorher 6 Monate).
-- Gebrauchte Sachen: Gewährleistungsfrist kann auf 1 Jahr verkürzt werden (§ 476 Abs. 2 BGB).
-- Fehler bei der Abgrenzung digitales Produkt (§ 327 BGB) vs. Ware mit digitalen Elementen (§ 475b BGB).
-- Ausschluss oder Beschränkung von Mängelrechten bei Verbrauchsgüterkauf ist nur in den Grenzen von § 476 BGB möglich.
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Verbrauchsgüterkauf-Check (Parteien, Gegenstand, Fristen)
-- Beweislastumkehr-Analyse (Zeitpunkt, Vermutung, Ausnahmen)
-- Digital-Schnittstellen-Übersicht
-- Lieferketten-Rückgriffs-Check
-
-## Qualitätsregeln
-
-- Beweislastumkehr-Zeitraum (12 Monate) und Ausnahmen präzise prüfen.
-- Abgrenzung digitales Produkt/Ware mit digitalen Elementen immer vor Normauswahl klären.
-- § 476 BGB-Zwingendes immer mitprüfen.
-
-## Anschluss-Skills
-
-- kaufrecht-beweislast-verjaehrung-digitale-elemente
-- kaufrecht-ware-mit-digitalen-elementen-475b
-- kaufrecht-sachmangel-paragraph-434
-- kaufrecht-nacherfuellung-ruecktritt-minderung
-
-
-## Quellen
-
-- https://www.gesetze-im-internet.de/bgb/__474.html
-- https://www.gesetze-im-internet.de/bgb/__477.html
-- https://www.gesetze-im-internet.de/bgb/__475b.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -7,7 +7,7 @@ description: "Bei der Zeitpunkt der Kenntnis über den Umfang der Haftung entsch
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -88,7 +88,6 @@ Nicht jede Unsicherheit ist Kenntnis. Umgekehrt kann der Empfänger nach klarer 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

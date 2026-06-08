@@ -130,7 +130,7 @@ Strukturiertes Auftragsblatt als Markdown, das durch alle weiteren Skills mitgef
 Nach Aufnahme von Startbahn; Zielen und Eckdaten unmittelbar weiter zu **`legw-ressort-router`**.
 Dieser leitet auf den fachlich richtigen Heranfuehrungs-Skill `legw-ressort-<kuerzel>` und die
 ressorteigene Aufgaben- und Spezialkette. Ohne Ressort-Router bleibt die Materie ein blinder Fleck;
-Politikwissenschaftler bekommen erst dort das Sachfeld-Verstaendnis fuer Landwirtschaft; Chemie;
+Politikwissenschaftler bekommen erst dort das Sachfeld-Verstaendnis für Landwirtschaft; Chemie;
 Bauwesen; Verkehr und Co.
 
 Wenn das Vorhaben digital-tauglich werden soll (Rulemap; BMJ-Initiative; SPRIND), zusaetzlich

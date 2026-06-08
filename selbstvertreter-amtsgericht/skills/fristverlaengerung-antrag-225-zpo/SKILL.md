@@ -12,7 +12,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 ## Wann brauchen Sie diese Skill?
 
 - Sie schaffen die Frist nicht.
-- Sie brauchen mehr Zeit fuer den Schriftsatz.
+- Sie brauchen mehr Zeit für den Schriftsatz.
 - Sie warten auf Beweise (Sachverstaendiger).
 
 ## Fachbegriffe (kurz erklaert)
@@ -27,7 +27,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 - **§ 224 II ZPO** — Andere Fristen koennen verlaengert werden.
 - **§ 225 ZPO** — Antrag und Bewilligung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Frist verlaengerbar
 
@@ -83,7 +83,7 @@ Faustregel: Mindestens 3-5 Tage vor Frist-Ende.
 Die Begruendung muss substantiiert sein:
 
 - "Ich bin krank" reicht nicht. → Attest.
-- "Ich brauche Zeit fuer Recherche" reicht nicht. → Konkret, was Sie recherchieren.
+- "Ich brauche Zeit für Recherche" reicht nicht. → Konkret, was Sie recherchieren.
 - "Beweis-Beschaffung dauert" — okay, mit konkretem Aufwand.
 
 Gute Gruende:
@@ -109,7 +109,7 @@ Bei mehrfachen Antraegen oder pauschalen Gruenden: Ablehnung wahrscheinlicher.
 
 - Frist bleibt unveraendert.
 - Sie muessen handeln.
-- Falls bereits Termin fuer Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
+- Falls bereits Termin für Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
 
 ### Schritt 7 — Bei Notfrist
 
@@ -144,7 +144,6 @@ Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung be
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 224, 225 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

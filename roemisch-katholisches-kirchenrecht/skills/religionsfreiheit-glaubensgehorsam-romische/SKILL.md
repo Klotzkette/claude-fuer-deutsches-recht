@@ -1,43 +1,43 @@
 ---
 name: religionsfreiheit-glaubensgehorsam-romische
-description: "Religionsfreiheit Glaubensgehorsam Romische im Römisch-katholischen Kirchenrecht: prüft konkret Religionsfreiheit und Glaubensgehorsam, Römische Kurie und Dikasterien, Sakramentenempfang nach Kirchenaustritt, Sakramentenverweigerung und Rechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Religionsfreiheit Glaubensgehorsam Romische
+# Religionsfreiheit und Glaubensgehorsam
 
 ## Arbeitsbereich
 
-**Religionsfreiheit Glaubensgehorsam Romische** ordnet den Fall über die tragenden Prüffelder: Religionsfreiheit und Glaubensgehorsam, Römische Kurie und Dikasterien, Sakramentenempfang nach Kirchenaustritt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `romische-kurie-und-dikasterien` | Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `sakramentenempfang-nach-kirchenaustritt` | Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `sakramentenverweigerung-und-rechte` | Sakramentenverweigerung und Rechte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+## Canones- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `CIC can. 7` — Inkrafttreten kirchlicher Gesetze.
+- `CIC can. 11` — Adressaten rein kirchlicher Gesetze.
+- `CIC can. 96` — Rechtsstellung der Getauften.
+- `CIC can. 1055 § 1` — Ehebegriff.
+- `CIC can. 1108 § 1` — kanonische Eheschliessungsform.
+- `CIC can. 1246 § 1` — Sonn- und Feiertage.
+- `CIC can. 1752` — salus animarum als Auslegungsziel.
+- `KKK 1776` — Gewissen.
+- `KKK 1783` — Gewissensbildung.
+- `KKK 2032` — kirchliche Morallehre.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Römisch-katholisches Kirchenrecht (CIC 1983) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: CIC can. 1734 Rekurs 10 Tage / 15 Tage, can. 1646 Berufung 15 Tage, can. 1641 Rechtskraft nach 2 gleichlautenden Urteilen (entfällt 2015 Mitis Iudex).
 - Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `religionsfreiheit-und-glaubensgehorsam`
-
-**Fokus:** Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
-
-# Religionsfreiheit und Glaubensgehorsam
 
 ## Fachkern: Religionsfreiheit und Glaubensgehorsam
-- **Spezialgegenstand:** Religionsfreiheit und Glaubensgehorsam; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
 - **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Auftrag
 
@@ -58,180 +58,6 @@ Dieser Skill prüft insbesondere: **kein Glaubenszwang und kirchliche Verbindlic
 **CIC-/Normanker:** can. 748, 212, 750-754.
 
 **Katechismusanker:** KKK 160, 1730-1748, 2104-2109.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
-## 2. `romische-kurie-und-dikasterien`
-
-**Fokus:** Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
-
-# Römische Kurie und Dikasterien
-
-## Fachkern: Römische Kurie und Dikasterien
-- **Spezialgegenstand:** Römische Kurie und Dikasterien; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Dikasterien für Lehre, Gottesdienst, Klerus, Laien, Orden und Ehe**.
-
-**CIC-/Normanker:** can. 360-361; Praedicate Evangelium live prüfen.
-
-**Katechismusanker:** KKK 880-896.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
-## 3. `sakramentenempfang-nach-kirchenaustritt`
-
-**Fokus:** Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
-
-# Sakramentenempfang nach Kirchenaustritt
-
-## Fachkern: Sakramentenempfang nach Kirchenaustritt
-- **Spezialgegenstand:** Sakramentenempfang nach Kirchenaustritt; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Taufe bleibt, aber Einschränkungen können greifen**.
-
-**CIC-/Normanker:** can. 843, 912, 915, 916.
-
-**Katechismusanker:** KKK 837-838, 1384-1395, 1422-1498.
-
-Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
-
-## Arbeitsworkflow
-
-1. Sachverhalt in harte Tatsachen und offene Punkte teilen.
-2. Canon, Katechismus, Partikularrecht, staatliches Recht und pastorale Klugheit separat notieren.
-3. Zuständigkeit bestimmen: Pfarrei, Ordinariat, Bischof, Offizialat, Dikasterium oder Apostolischer Stuhl.
-4. Ergebnis nicht überziehen: Wo Dispens, Rekurs, Tribunal oder bischöfliche Entscheidung nötig sind, wird kein endgültiger Ersatzentscheid simuliert.
-5. Pastoral klar sprechen: freundlich, katholisch, ohne lehrmäßige Verwässerung.
-6. Mehrsprachige Fassung bauen: Fachbegriffe nicht platt übersetzen; bei Latein knappe Formel plus Erklärung, bei Arabisch klare moderne Kirchensprache.
-7. Red-Team auf Normfehler, Zuständigkeitsfehler, falsche Härte, falsche Milde und unklare Beweislage.
-
-## Ausgabeformate
-
-- Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
-- Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Fachmodul-Empfehlung für den nächsten Schritt.
-
-## Qualitäts- und Quellenregel
-
-- CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.
-- Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
-- Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
-- Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
-
-## 4. `sakramentenverweigerung-und-rechte`
-
-**Fokus:** Sakramentenverweigerung und Rechte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
-
-# Sakramentenverweigerung und Rechte
-
-## Fachkern: Sakramentenverweigerung und Rechte
-- **Spezialgegenstand:** Sakramentenverweigerung und Rechte; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.
-- **Entscheidende Weiche:** Canon, kirchliche Zuständigkeit, pastoraler Zweck, Rechtsweg, Dispens/Remonstration/Rekurs, Beweis und mehrsprachige Kommunikation trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Auftrag
-
-Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht CIC und Katechismus**. Er antwortet ausdrücklich kirchentreu, papsttreu und lehramtsorientiert. Ziel ist keine private Deutung, sondern eine brauchbare kirchenrechtliche und katechetische Arbeitsausgabe.
-
-## Sofortfragen
-
-1. Welche Sprache oder Parallelsprachen werden gebraucht: Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein, Portugiesisch?
-2. Wer fragt: gläubige Person, Pfarrer, Ordinariat, Offizialat, Bischof, Familie, Katechetin, Kirchenvorstand, Anwältin oder staatliche Stelle?
-3. Geht es um Recht, Lehre, Sakrament, Status, Verfahren, Vermögen, Disziplin oder Kommunikation?
-4. Gibt es Urkunden, Registereinträge, Dekrete, Bescheide, E-Mails, Gesprächsnotizen oder Zeugenaussagen?
-5. Muss sofort gehandelt werden: Frist, Rekurs, Sakramentenzulassung, Begräbnis, Schutzfall, Medienlage, staatliche Behörde?
-
-## Canonischer und katechetischer Fokus
-
-Dieser Skill prüft insbesondere: **Sakramente nicht verweigern und Zulassung begrenzen**.
-
-**CIC-/Normanker:** can. 213, 843, 912, 915-916.
-
-**Katechismusanker:** KKK 1127-1134, 1384-1395.
 
 Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Text live geprüft. Bei orientalischen katholischen Kirchen wird ausdrücklich zum CCEO geroutet. Bei Deutschlandfragen werden staatlicher Kirchenaustritt, Kirchensteuer und innerkirchlicher Status getrennt geprüft.
 

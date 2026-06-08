@@ -7,10 +7,10 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 
 ## Arbeitsbereich
 
-**Cyber Loesegeld Versr Deckungsanfrage** ordnet den Fall über die tragenden Prüffelder: Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und, Cyberversicherung bei Ransomware, Prüfung von Versicherungsschadenfaellen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Cyber Loesegeld Versr Deckungsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und, Cyberversicherung bei Ransomware, Prüfung von Versicherungsschadenfaellen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht` | Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prüft Lösegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwäsche AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster Deckungsschutz Versicherer Lösegeldzahlung Sanktionsprüfung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionsprüfung Deckungsanalyse und Handlungsempfehlung für oder gegen Lösegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage. |
 | `versr-cyber-ransomware-dora-sanktionen` | Cyberversicherung bei Ransomware: Deckung, Lösegeld, Forensik, DSGVO-Meldung, DORA/NIS2 und Sanktionsrecht. |
@@ -18,12 +18,12 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`
 
@@ -45,7 +45,7 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 6. Wurde das BSI (bei KRITIS) und das LKA Cybercrime informiert?
 7. Welche Backup-Optionen bestehen — wurde eine Datenwiederherstellung ohne Zahlung versucht?
 8. Liegt das Ablehnungsschreiben des Versicherers vor und auf welche Klausel stützt dieser sich?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -87,7 +87,6 @@ Konkrete BGH-Rechtsprechung zu Cyber-AVB ist bisher dünn; OLG-Entscheidungen vo
 
 ## Prüfschema in Tabellenform
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
@@ -120,7 +119,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Keine Zahlung geplant Wiederherstellung Vorrang | IT-Forensik und Wiederherstellung statt Loesegeldzahlung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -250,11 +248,10 @@ Dokumentation für Rückversicherer und BaFin anlegen.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 
@@ -415,7 +412,7 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 6. Bestehen Beweismittel für den Schaden — Polizeibericht, Fotos, Sachverständigengutachten, ärztliche Atteste, Rechnungen?
 7. Hat der Versicherer gemäß § 14 VVG den Schaden nach Abschluss der nötigen Erhebungen fällig gestellt oder verzögert?
 8. Wurde die Ombudsstelle Versicherungen eingeschaltet (hemmt Verjährung § 204 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -446,7 +443,6 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 Hinweis: Reihenfolge neueste zuerst. Vor Versand jedes Aktenzeichen in offener Quelle (juris.bundesgerichtshof.de, dejure.org, openjur.de) aufrufen und Randnummer einsetzen.
 
 ## Prüfschema in Tabellenform
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -507,7 +503,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mandant will schnelle Zahlung ohne Rechtsstreit | Verhandlungsstrategie vor Fristsetzung; Klage nur als letztes Mittel |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -623,11 +618,10 @@ auf maximal [X] % begrenzt, da [Schwere und Umstände].
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 

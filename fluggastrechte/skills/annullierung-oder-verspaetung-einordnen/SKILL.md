@@ -1,6 +1,6 @@
 ---
 name: annullierung-oder-verspaetung-einordnen
-description: "Prüffeld für annullierung oder verspaetung einordnen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen
@@ -98,3 +98,15 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
  - Höhe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
  - offenen Fragen zur Klärung mit dem Mandanten
 - Hinweis auf Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen` zur Prüfung der Ausnahmen.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- Art. 5 VO 261/2004
+- Art. 7 VO 261/2004
+- EuGH C-83/10 (Sousa Rodríguez)
+- Art. 6 VO 261/2004
+- Art. 7 VO 261/2004 (analog ab 3h)
+- EuGH C-402/07 (Sturgeon)
+- EuGH C-581/10 (Nelson)

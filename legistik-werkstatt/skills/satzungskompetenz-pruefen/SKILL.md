@@ -66,7 +66,7 @@ Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhaf
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze fuer Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
+Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze für Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
 
 ## Quellenregel
 

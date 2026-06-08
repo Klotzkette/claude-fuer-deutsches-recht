@@ -1,33 +1,21 @@
 ---
 name: aml-kyc-start-chronologie-fristen
-description: "Start Chronologie Fristen im Plugin Geldwaeschepraevention Aml Kyc: prüft konkret Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML KYC-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Start Chronologie Fristen
+# Geldwaeschepraeventition AML/KYC — Allgemein
 
 ## Arbeitsbereich
 
-**Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML KYC-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin geldwaeschepraevention-aml-kyc: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin geldwaeschepraevention-aml-kyc: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML KYC-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Geldwäscheprävention (AML/KYC) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
 - Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Geldwaeschepraevention AML KYC-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -37,10 +25,6 @@ description: "Start Chronologie Fristen im Plugin Geldwaeschepraevention Aml Kyc
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
-
-# Geldwaeschepraeventition AML/KYC — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -139,12 +123,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `geldwaesche-audit-internal-revision` | Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Prüfer will AML-Kontrollsystem auf Wirksamkeit prüfen. Normen § 4 GwG interne Sicherungsmassnahmen § 6… |
-| `geldwaesche-behoerdenverfahren` | Begleitung von Behoerdenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG… |
+| `geldwaesche-behoerdenverfahren` | Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG… |
 | `geldwaesche-bussgeld-reputation` | Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bußgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG… |
 | `geldwaesche-datenqualitaet-register` | Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20… |
 | `geldwaesche-gruppenweite-compliance` | Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9… |
 | `geldwaesche-immobilien-gueterhaendler` | AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse… |
-| `geldwaesche-kommandocenter` | Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow… |
+| `geldwaesche-kommandocenter` | Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow… |
 | `geldwaesche-krypto-zahlungsdienstleister` | AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleister. Anwendungsfall Krypto-Transaktion soll bewertet oder Krypto-Dienstleister muss KYC-Prozess aufsetzen. Normen § 2 Abs. 1 Nr. 10b GwG… |
 | `geldwaesche-kyc-onboarding` | KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschäftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgeführt werden. Normen §§ 10… |
 | `geldwaesche-pep-hochrisikoland` | Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen.… |
@@ -152,7 +136,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `geldwaesche-sanktionsscreening` | Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschäft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001… |
 | `geldwaesche-schulung-awareness` | Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6… |
 | `geldwaesche-sicherungsmassnahmen-icp` | Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne… |
-| `geldwaesche-simulation-testlauf` | Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke… |
+| `geldwaesche-simulation-testlauf` | Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behördenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke… |
 | `geldwaesche-transaktionsmonitoring` | Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwäscherisiko prüfen. Normen § 10 Abs. 1 Nr. 5 GwG… |
 | `geldwaesche-transaktionsstopp-freeze` | Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht… |
 | `geldwaesche-transparenzregister` | Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG… |
@@ -164,7 +148,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin deckt das gesamte Geldwaesche-Praeventionsrecht nach dem Geldwaeschegesetz (GwG) ab. Es richtet sich an Compliance-Beauftragte, Rechtsanwaelte und Geldwaeschebeauftragte bei Banken, Zahlungsdienstleistern, Kreditinstituten, Immobilienmaklern, Gueterhaendlern und anderen Verpflichteten nach § 2 GwG.
 
-Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboarding neuer Kunden, der Pruefung politisch exponierter Personen (PEP), dem Sanktionsscreening, der Ermittlung wirtschaftlich Berechtigter (UBO), der Vorbereitung von Verdachtsmeldungen an die FIU ueber goAML sowie bei Behoerdenverfahren und internen Audits.
+Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboarding neuer Kunden, der Pruefung politisch exponierter Personen (PEP), dem Sanktionsscreening, der Ermittlung wirtschaftlich Berechtigter (UBO), der Vorbereitung von Verdachtsmeldungen an die FIU ueber goAML sowie bei Behördenverfahren und internen Audits.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -176,13 +160,13 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 
 ## Fachbegriffe (kurz erklaert)
 
-- **GwG** — Geldwaeschegesetz; setzt die 6. EU-Geldwaescherichtlinie um und regelt Sorgfaltspflichten fuer Verpflichtete.
+- **GwG** — Geldwaeschegesetz; setzt die 6. EU-Geldwaescherichtlinie um und regelt Sorgfaltspflichten für Verpflichtete.
 - **KYC** — Know Your Customer; Kundenpruefungspflichten nach §§ 10-17 GwG: Identifizierung, Risikoklassifizierung, Monitoring.
 - **UBO** — Ultimate Beneficial Owner (wirtschaftlich Berechtigter); Person mit mehr als 25 Prozent Beteiligung oder Kontrolle nach § 3 GwG.
-- **PEP** — Politically Exposed Person (politisch exponierte Person); Personen in herausgehobenen oeffentlichen Aemtern mit erhoehtem Risikoprofil.
-- **FIU** — Financial Intelligence Unit (Zentralstelle fuer Finanztransaktionsuntersuchungen); staatliche Behoerde, die Verdachtsmeldungen entgegennimmt.
-- **goAML** — Meldeportal der FIU fuer elektronische Verdachtsmeldungen nach § 43 GwG.
-- **ICP** — Internal Control Program (interne Sicherungsmassnahmen); Pflicht nach § 6 GwG fuer Verpflichtete ab bestimmter Groesse.
+- **PEP** — Politically Exposed Person (politisch exponierte Person); Personen in herausgehobenen öffentlichen Aemtern mit erhoehtem Risikoprofil.
+- **FIU** — Financial Intelligence Unit (Zentralstelle für Finanztransaktionsuntersuchungen); staatliche Behörde, die Verdachtsmeldungen entgegennimmt.
+- **goAML** — Meldeportal der FIU für elektronische Verdachtsmeldungen nach § 43 GwG.
+- **ICP** — Internal Control Program (interne Sicherungsmassnahmen); Pflicht nach § 6 GwG für Verpflichtete ab bestimmter Groesse.
 - **Transparenzregister** — Nationales Register der wirtschaftlich Berechtigten nach §§ 18-20 GwG.
 
 ## Rechtsgrundlagen
@@ -196,22 +180,22 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 - §§ 43-47 GwG (Meldepflichten, Verdachtsmeldung an FIU)
 - EU-Sanktionsverordnungen (EU 2580/2001, EU 881/2002, EU 765/2006 u. a.)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Verpflichteten-Status pruefen: Ist das Unternehmen nach § 2 GwG verpflichtet? (`geldwaesche-verpflichteten-check`)
 2. Risikoprofil bestimmen: Risikoanalyse nach § 5 GwG erstellen oder aktualisieren (`geldwaesche-risikoanalyse-unternehmen`).
-3. Konkreten Anwendungsfall einordnen: KYC-Onboarding, Verdachtspruefung, Sanktionsscreening, Behoerdenverfahren?
+3. Konkreten Anwendungsfall einordnen: KYC-Onboarding, Verdachtspruefung, Sanktionsscreening, Behördenverfahren?
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Eilpflichten pruefen: Verdachtsmeldung unverzueglich, Transaktionsstopp sofortig.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `geldwaesche-kommandocenter` — Zentrales Steuerungsmodul fuer alle AML/KYC-Faelle vom Intake bis zum Massnahmenplan.
+- `geldwaesche-kommandocenter` — Zentrales Steuerungsmodul für alle AML/KYC-Faelle vom Intake bis zum Massnahmenplan.
 - `geldwaesche-verpflichteten-check` — Prueft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist.
-- `geldwaesche-risikoanalyse-unternehmen` — Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG erstellen fuer Verpflichtete.
+- `geldwaesche-risikoanalyse-unternehmen` — Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG erstellen für Verpflichtete.
 - `geldwaesche-kyc-onboarding` — KYC-Onboarding neuer Kunden mit Identifizierung, Risikoklassifizierung und Freigabe nach GwG.
 - `geldwaesche-ubo-wirtschaftlich-berechtigte` — Wirtschaftlich Berechtigte, Kontrollketten und Trust-/Stiftungsstrukturen ermitteln nach GwG.
-- `geldwaesche-pep-hochrisikoland` — Verstaerkte KYC-Pruefung fuer PEP, Hochrisikolaender und komplexe Strukturen nach GwG.
+- `geldwaesche-pep-hochrisikoland` — Verstaerkte KYC-Pruefung für PEP, Hochrisikolaender und komplexe Strukturen nach GwG.
 - `geldwaesche-sanktionsscreening` — Sanktionsscreening von Kunden, Transaktionen und Beteiligten gegen EU-, US- und UN-Sanktionslisten.
 - `geldwaesche-transaktionsmonitoring` — Auffaellige Transaktionsmuster und Red-Flags im Zahlungsverkehr erkennen nach GwG.
 - `geldwaesche-transaktionsstopp-freeze` — Transaktionsstopp, Kontosperrung und Nichtdurchfuehrung bei Sanktions- oder Verdachtstreffer.
@@ -219,11 +203,11 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 - `geldwaesche-transparenzregister` — Transparenzregister-Einsicht, Abgleich und Unstimmigkeitsmeldung nach GwG.
 - `geldwaesche-sicherungsmassnahmen-icp` — Interne Sicherungsmassnahmen (ICP) nach § 6 GwG aufbauen und haerten.
 - `geldwaesche-gruppenweite-compliance` — Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern.
-- `geldwaesche-krypto-zahlungsdienstleister` — AML/KYC-Pruefung fuer Krypto-Assets, Wallets, Travel Rule und Zahlungsdienstleister.
-- `geldwaesche-immobilien-gueterhaendler` — AML/KYC-Pruefung fuer Immobilienmakler, Gueterhaendler, Kunsthandel und Edelmetalle.
+- `geldwaesche-krypto-zahlungsdienstleister` — AML/KYC-Pruefung für Krypto-Assets, Wallets, Travel Rule und Zahlungsdienstleister.
+- `geldwaesche-immobilien-gueterhaendler` — AML/KYC-Pruefung für Immobilienmakler, Gueterhaendler, Kunsthandel und Edelmetalle.
 - `geldwaesche-datenqualitaet-register` — Datenqualitaet im KYC-System und Transparenzregister-Abgleich auf Dubletten und Fehler pruefen.
 - `geldwaesche-schulung-awareness` — Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG.
-- `geldwaesche-simulation-testlauf` — Simulation eines Compliance-Arbeitstags mit Onboarding, Alerts, Verdachtspruefung und Behoerdenfragen.
+- `geldwaesche-simulation-testlauf` — Simulation eines Compliance-Arbeitstags mit Onboarding, Alerts, Verdachtspruefung und Behördenfragen.
 - `geldwaesche-behoerdenverfahren` — Begleitung von BaFin-Pruefungen, FIU-Nachfragen und Massnahmenbescheiden.
 - `geldwaesche-bussgeld-reputation` — Bussgeldriskien, Geschaeftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen strukturieren.
 - `geldwaesche-audit-internal-revision` — Interne Revision und Audit der AML/KYC-Kontrollen nach GwG durch Compliance-Beauftragten oder externen Pruefer.
@@ -247,7 +231,7 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 ## Querverweise
 
 - `corporate-kanzlei` — GwG-Confliktcheck und Sanktionspruefung bei M&A-Transaktionen.
-- `regulatorisches-recht` — BaFin-Aufsicht und MaRisk-Anforderungen fuer Finanzunternehmen.
+- `regulatorisches-recht` — BaFin-Aufsicht und MaRisk-Anforderungen für Finanzunternehmen.
 - `datenschutzrecht` — KYC-Datenverarbeitung unterliegt DSGVO; Aufbewahrungspflichten versus Loeschpflicht.
 - `vertragsrecht` — Geheimhaltungsklauseln und AML-Representations in Transaktionsvertraegen.
 
@@ -259,7 +243,6 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 - FATF Recommendations (2023)
 - EU-Geldwaescheverordnung (MLD6) in der Uebergangsphase
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -268,72 +251,26 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `workflow-chronologie-und-belegmatrix`
+## Normen und Rechtsprechung
 
-**Fokus:** Chronologie und Belegmatrix im Plugin geldwaeschepraevention-aml-kyc: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+### Kuratierte Normen-Bibliothek
 
-# Chronologie und Belegmatrix
+- § 2 GwG
+- § 43 GwG
+- § 4 GwG
+- § 6 GwG
+- § 5 GwG
+- § 15 GwG
+- § 1 GwG
+- § 3 GwG
+- § 11 GwG
+- § 23a GwG
+- § 20 GwG
+- § 7 GwG
 
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin geldwaeschepraevention-aml-kyc: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
+### Leitentscheidungen
 
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 3. `workflow-fristen-und-risikoampel`
-
-**Fokus:** Fristen- und Risikoampel im Plugin geldwaeschepraevention-aml-kyc: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
-
-# Fristen- und Risikoampel
-
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin geldwaeschepraevention-aml-kyc: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

@@ -12,7 +12,7 @@
 | Editorial | Editorial KI und Vertragsrecht | Herausgeberkreis (Dr. Lenz, Prof. Krenz) | fehlt | 2 | 0 | Dr. Lenz schreibt noch, Text bis Mo 12:00 zugesagt, Stand offen |
 | Aufsatz I | KI-Vertragsprüfung in Kanzleien -- empirische Befunde 2025 | Seidenpfennig | zu lang | 20 | 28 | 28 Seiten, Fußnoten 18/24/31/44/63 unsauber, IV.3 wirkt wie Übernahme aus eigenem Gutachten Q4/2025 |
 | Aufsatz II | Datenraum-Sicherheit in mittelgroßen Kanzleien | Dr. Klemens Vortrup | gesetzt | 12 | 12 | ok, freigegeben 28.05. |
-| Rechtsprechung | BGH-Entscheidung zur Plattformhaftung (Volltext folgt) | Lenz | fast fertig | 6 | 6 | Online first gewünscht, zwei Platzhalter, Volltext-Embargo der Pressestelle |
+| Rechtsprechung | BGH-Entscheidung zur Plattformhaftung (Volltext folgt) | Lenz | fast fertig | 6 | 6 | Online first gewünscht; Randnummern und Praxisfolge werden erst nach amtlichem Volltext finalisiert, Volltext-Embargo der Pressestelle |
 | Praxis | Datenschutz in Verlagen -- DSFA für Autor:innenverträge | Dr. Almut Greve | gesetzt | 8 | 7 | Abbildung aus Fremdquelle, Alt-Text fehlt |
 | Praxis II | Rückrufrecht nach § 41 UrhG | Dr. Krug | freigegeben | 5 | 5 | ok |
 | Rezension | Handbuch Legal Tech, hg. Schramm-Wenders, 3. Aufl. | Rabenau | fertig | 3 | 3 | Screenshot aus Vortrag, Rechteproblem |
@@ -27,10 +27,7 @@
 
 Dr. Lenz möchte die Rechtsprechungsanmerkung zur BGH-Entscheidung vom 20.05.2026 (Plattformhaftung) bereits diese Woche online stellen, vor Erscheinen des Heftes. Begründung: andere Verlage hätten die Entscheidung schon mit kurzen Tickermeldungen aufgegriffen, der MFJ-Beitrag verliere an Sichtbarkeit, wenn er erst Ende Juni komme.
 
-Die Entscheidung ist frei in der BGH-Datenbank abrufbar (Termin-Vorschau); der Volltext erscheint laut Pressestelle voraussichtlich Mittwoch 03.06. Die Anmerkung enthält aber noch zwei Platzhalter:
-
-- `[Rn. aus BGH-Urteil ergänzen, Quelle: amtlicher Volltext]`
-- `[Auswirkung für Verlagspraxis präzisieren, ggf. Hinweis auf § 7 DSA]`
+Die Entscheidung ist frei in der BGH-Datenbank abrufbar (Termin-Vorschau); der Volltext erscheint laut Pressestelle voraussichtlich Mittwoch 03.06. Die Anmerkung enthält zwei noch nicht freigegebene Arbeitsstellen. Erstens muss der Randnummernverweis nach Erscheinen des amtlichen Volltexts eingetragen werden; zweitens soll die Praxisfolge für Verlagshäuser konkretisiert werden, insbesondere die Frage, ob redaktionelle Plattformhinweise anders zu behandeln sind als automatisierte Upload- oder Empfehlungsfunktionen. Eine Veröffentlichung vor dieser Ergänzung wäre möglich, aber redaktionell riskant, weil sie den Beitrag wie eine Tickermeldung und nicht wie eine belastbare Anmerkung wirken ließe.
 
 Die Pressestelle des BGH hat per E-Mail vom 30.05. mitgeteilt, dass der Volltext frühestens Mittwoch 03.06., 14:00 Uhr veröffentlicht wird. Eine vorherige Zitierung der Randnummern ist nicht möglich.
 

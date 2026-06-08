@@ -9,9 +9,23 @@ description: "Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und
 
 Für Familienbetreuer, die Geld verwalten, ohne Buchhalter zu sein.
 
-## Norm- und Quellenanker
+## Normenanker
 
-BGB §§ 1835 ff., 1840 ff., 1865 ff. live prüfen; FamFG; Betreuungsgerichtspraxis.
+Arbeitsfokus: **Familienbetreuer: Bankkonto und einfache Rechnungslegung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 

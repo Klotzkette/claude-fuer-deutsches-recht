@@ -6,15 +6,12 @@ description: "Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung:
 # Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung
 
 ## Fachkern: Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung
-- **Spezialgegenstand:** Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** JGG, Diversion, Jugendgerichtshilfe, Weisungen und Hauptverhandlung
 
@@ -40,6 +37,16 @@ Dieser Abschnitt bearbeitet **Fachkern: Jugendstrafrecht aus StA-Sicht: Erziehun
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 1 Abs. 2 JGG, § 105 JGG (Heranwachsende)
+- § 2 JGG (Erziehungsgedanke)
+- §§ 9-16a JGG (Erziehungsmaßregeln)
+- § 17 JGG (Jugendstrafe)
+- § 45 JGG (Diversion)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -7,25 +7,25 @@ description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozia
 
 ## Arbeitsbereich
 
-**Unfallrente SGB Unfallversicherung BG** ordnet den Fall über die tragenden Prüffelder: Unfallrente nach § 56 SGB VII, Streit mit der Berufsgenossenschaft SGB VII, Die Untätigkeitsklage nach § 88 SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Unfallrente SGB Unfallversicherung BG** ordnet den Fall über die tragenden Prüfungslinien: Unfallrente nach § 56 SGB VII, Streit mit der Berufsgenossenschaft SGB VII, Die Untätigkeitsklage nach § 88 SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `unfallrente-56-sgb-vii` | Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster. |
 | `unfallversicherung-bg-anerkennung-sgb-vii` | Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte. |
-| `untaetigkeitsklage-88-sgg` | Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger. |
+| `untaetigkeitsklage-88-sgg` | Die Untätigkeitsklage nach § 88 SGG. Wenn die Behörde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger. |
 | `urteil-sozialgericht-was-jetzt` | Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger. |
 | `vergleich-vorschlag-101-sgg` | Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `unfallrente-56-sgb-vii`
 
@@ -41,7 +41,6 @@ description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozia
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Anspruch § 56 SGB VII
 
 Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbeitsunfall, BK) eine MdE von mindestens 20 Prozent ueber 26 Wochen hinaus erleidet.
@@ -54,7 +53,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 ## MdE-Tabellen
 
-- BG-Bundesvereinigung Tabellen fuer typische Schadensbilder.
+- BG-Bundesvereinigung Tabellen für typische Schadensbilder.
 - Bei Streit individuell zu pruefen.
 
 ## Berechnung
@@ -74,7 +73,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 ## Befristung
 
-- Vorlaeufige Unfallrente fuer 3 Jahre.
+- Vorlaeufige Unfallrente für 3 Jahre.
 - Danach Dauerunfallrente.
 
 ## Pruefraster
@@ -99,10 +98,9 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Wenn Sie bei der Arbeit oder auf dem Weg dahin verletzt werden, ist die Berufsgenossenschaft (BG) zustaendig. Auch bei Berufskrankheiten. Wenn die BG die Anerkennung verweigert, gehen Sie zum SG.
+Wenn Sie bei der Arbeit oder auf dem Weg dahin verletzt werden, ist die Berufsgenossenschaft (BG) zuständig. Auch bei Berufskrankheiten. Wenn die BG die Anerkennung verweigert, gehen Sie zum SG.
 
 ## In einfacher Sprache
 
@@ -132,7 +130,7 @@ Sie hatten einen Arbeitsunfall. Oder eine Berufskrankheit. Die Berufsgenossensch
 - **§ 27 SGB VII** — Heilbehandlung.
 - **Berufskrankheiten-Verordnung (BKV)** — Liste der anerkannten BKs.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Arbeitsunfall pruefen
 
@@ -150,7 +148,7 @@ Wichtig: Auch Wegeunfaelle sind erfasst (§ 8 Abs. 2 Nr. 1 SGB VII).
 Es muss:
 
 - Eine in der BKV gelistete Krankheit sein (oder "Wie-BK" nach § 9 Abs. 2 SGB VII), und
-- Berufliche Belastung dafuer ursaechlich gewesen sein.
+- Berufliche Belastung dafür ursaechlich gewesen sein.
 
 Bekannte BKs:
 
@@ -201,7 +199,7 @@ Mit freundlichen Gruessen
 
 ### Schritt 5 — Klage am SG
 
-Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispiel: BG Holz und Metall hat Sitz Mainz — Klage geht ans SG Mainz.
+Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispiel: BG Holz und Metall hat Sitz Mainz — Klage geht ans SG Mainz.
 
 ### Schritt 6 — Im Verfahren
 
@@ -227,7 +225,7 @@ Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispi
 ## Typische Fehler
 
 - D-Arzt nicht aufgesucht → Beweisnot
-- Verspaetete BK-Anzeige → Verjaehrung beachten (4 Jahre nach Kenntnis)
+- Verspaetete BK-Anzeige → Verjährung beachten (4 Jahre nach Kenntnis)
 - Privater Arzt-Behandlung statt BG-Wege → Erstattung gefaehrdet
 - Wegeunfall-Definition (Umweg, Unterbrechung) zu locker
 
@@ -243,7 +241,6 @@ Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispi
 
 Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris pruefen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -254,38 +251,37 @@ Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Ane
 
 ## 3. `untaetigkeitsklage-88-sgg`
 
-**Fokus:** Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger.
+**Fokus:** Die Untätigkeitsklage nach § 88 SGG. Wenn die Behörde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger.
 
-# Wenn die Behoerde nichts tut — Untaetigkeitsklage § 88 SGG
+# Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wenn die Behoerde nichts tut — Untaetigkeitsklage § 88 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behoerde, endlich zu entscheiden.
+Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behörde, endlich zu entscheiden.
 
 ## In einfacher Sprache
 
-Sie haben einen Antrag gestellt. Die Behoerde tut nichts. Nach langer Zeit koennen Sie zum Gericht. Das Gericht zwingt die Behoerde, endlich zu antworten.
+Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit koennen Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben einen Antrag gestellt vor mehr als 6 Monaten.
 - Sie haben Widerspruch eingelegt vor mehr als 3 Monaten.
-- Die Behoerde meldet sich nicht oder verzoegert.
+- Die Behörde meldet sich nicht oder verzoegert.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Untaetigkeitsklage**: Klage darauf, dass die Behoerde endlich entscheidet.
-- **Sachgrund**: Ein objektiver Grund, warum die Behoerde noch nicht entschieden hat.
-- **Bescheidungsurteil**: Das Gericht zwingt die Behoerde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
+- **Untaetigkeitsklage**: Klage darauf, dass die Behörde endlich entscheidet.
+- **Sachgrund**: Ein objektiver Grund, warum die Behörde noch nicht entschieden hat.
+- **Bescheidungsurteil**: Das Gericht zwingt die Behörde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
 
 ## Rechtsgrundlagen
 
@@ -293,11 +289,11 @@ Sie haben einen Antrag gestellt. Die Behoerde tut nichts. Nach langer Zeit koenn
 - **§ 88 Abs. 2 SGG** — Bei Widerspruchsverfahren nach 3 Monaten.
 - **§ 131 SGG** — Bescheidungsurteil.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fristen pruefen
 
-- **Antrag bei Behoerde**: 6 Monate seit Antragsdatum
+- **Antrag bei Behörde**: 6 Monate seit Antragsdatum
 - **Widerspruch**: 3 Monate seit Widerspruchsdatum
 
 Erst nach Ablauf koennen Sie klagen.
@@ -307,7 +303,7 @@ Erst nach Ablauf koennen Sie klagen.
 Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
 
 ```
-[Behoerde] [Ort, Datum]
+[Behörde] [Ort, Datum]
 
 Az: [...]
 
@@ -334,7 +330,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde]
+[Behörde]
 [Adresse]
 
 — Beklagte —
@@ -356,11 +352,11 @@ I. Sachverhalt
 - 6 / 3 Monate sind verstrichen.
 
 II. Rechtliche Wuerdigung
-Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund fuer die Untaetigkeit ist nicht ersichtlich.
+Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund für die Untaetigkeit ist nicht ersichtlich.
 
 Anlagen:
 - Antrag / Widerspruch
-- Schriftverkehr mit der Behoerde
+- Schriftverkehr mit der Behörde
 
 [Unterschrift]
 ```
@@ -373,18 +369,18 @@ Wie sonst: schriftlich, Fax, MJP, oder zur Niederschrift.
 
 Drei Moeglichkeiten:
 
-- **Behoerde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
-- **Sachgrund**: Wenn die Behoerde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
-- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behoerde, binnen [n] Wochen zu entscheiden.
+- **Behörde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
+- **Sachgrund**: Wenn die Behörde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
+- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behörde, binnen [n] Wochen zu entscheiden.
 
 ### Schritt 6 — Inhalt der Entscheidung
 
-Wichtig: Das Gericht entscheidet nur, DASS die Behoerde entscheiden muss — nicht WIE. Wenn die Behoerde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
+Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nicht WIE. Wenn die Behörde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
 
 ## Worauf Sie besonders achten muessen
 
 - **Fristen sind streng**: 6 / 3 Monate. Vorher ist Klage unzulaessig.
-- **Sachgrund**: Pruefen Sie, ob die Behoerde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
+- **Sachgrund**: Pruefen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
 - **Nicht Aufgeben**: Untaetigkeit-Klage ist meist erfolgreich und kostenfrei.
 
 ## Typische Fehler
@@ -404,7 +400,6 @@ Wichtig: Das Gericht entscheidet nur, DASS die Behoerde entscheiden muss — nic
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen oft Sachgrund — aber nicht unbegrenzt.
-
 
 ## Qualitäts-Hardening
 
@@ -427,7 +422,6 @@ Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen of
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -458,7 +452,7 @@ Sie haben das Urteil bekommen. Gewonnen, verloren oder teils. Wir helfen Ihnen z
 - **§ 144 SGG** — Berufung; Wertgrenze.
 - **§ 151 SGG** — Berufungsfrist.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Urteil systematisch lesen
 
@@ -489,7 +483,7 @@ Pruefen:
 
 - **Rechtsmittelbelehrung**: Berufung moeglich oder nur Nichtzulassungsbeschwerde?
 - **Frist**: 1 Monat ab Zustellung
-- **Wert**: Berufung zum LSG nur, wenn Wert ueber 750 EUR oder laufende Leistungen fuer mehr als 1 Jahr (§ 144 SGG)
+- **Wert**: Berufung zum LSG nur, wenn Wert ueber 750 EUR oder laufende Leistungen für mehr als 1 Jahr (§ 144 SGG)
 - **Aussichten**: Wie wahrscheinlich Erfolg?
 
 ### Schritt 5 — Berufung ueberlegen
@@ -503,7 +497,7 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ### Schritt 6 — Bei Teil-Sieg
 
 - Pruefen, ob die verlorenen Teile lohnend zu klagen sind.
-- Berufung nur fuer Teile moeglich, wenn Wertgrenze gehalten.
+- Berufung nur für Teile moeglich, wenn Wertgrenze gehalten.
 
 ### Schritt 7 — Bei vollem Sieg
 
@@ -514,9 +508,9 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ## Worauf Sie besonders achten muessen
 
 - **Rechtsmittelfrist 1 Monat** — wieder eng.
-- **Wertgrenze § 144 SGG**: 750 EUR oder laufende Leistungen fuer mehr als 1 Jahr.
+- **Wertgrenze § 144 SGG**: 750 EUR oder laufende Leistungen für mehr als 1 Jahr.
 - **Nichtzulassungsbeschwerde** ist Alternative wenn keine Berufung.
-- **Bei Sieg auf Umsetzung achten** — manche Behoerden zoegern.
+- **Bei Sieg auf Umsetzung achten** — manche Behörden zoegern.
 
 ## Typische Fehler
 
@@ -536,7 +530,6 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell.
-
 
 ## Qualitäts-Hardening
 
@@ -560,26 +553,25 @@ Stand: 05/2026. SGG aktuell.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Im Termin oder im schriftlichen Verfahren kann ein Vergleich vorgeschlagen werden. Das bedeutet: Sie und die Behoerde einigen sich. Diese Skill zeigt, was ein Vergleich ist und worauf Sie achten muessen.
+Im Termin oder im schriftlichen Verfahren kann ein Vergleich vorgeschlagen werden. Das bedeutet: Sie und die Behörde einigen sich. Diese Skill zeigt, was ein Vergleich ist und worauf Sie achten muessen.
 
 ## In einfacher Sprache
 
-Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Seiten geben nach. Sie bekommen etwas, die Behoerde gibt etwas. Wir helfen Ihnen zu entscheiden.
+Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Seiten geben nach. Sie bekommen etwas, die Behörde gibt etwas. Wir helfen Ihnen zu entscheiden.
 
 ## Wann brauchen Sie diese Skill?
 
 - Im Termin schlaegt das Gericht einen Vergleich vor.
-- Die Behoerde macht ein Angebot.
+- Die Behörde macht ein Angebot.
 - Sie ueberlegen, ob Sie es annehmen sollen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Vergleich**: Einigung beider Seiten.
 - **Teilvergleich**: Einigung nur ueber Teil-Aspekte.
-- **Anerkenntnis**: Behoerde gibt vollstaendig nach.
+- **Anerkenntnis**: Behörde gibt vollstaendig nach.
 - **Widerruf**: In manchen Faellen koennen Sie Vergleich widerrufen.
 - **Vergleichsangebot**: Konkreter Vorschlag.
 
@@ -589,7 +581,7 @@ Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Se
 - **§ 101 Abs. 1 SGG** — Materieller Vergleichsschluss.
 - **§ 101 Abs. 2 SGG** — Bedenkzeit / Widerruf.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vergleichsvorschlag verstehen
 
@@ -643,7 +635,7 @@ Manchmal mit Widerrufsfrist. Wenn Sie sich dann anders entscheiden: rechtzeitig 
 
 Im Vergleich wird die Kostenregel geregelt:
 
-- "Die Beklagte traegt die ausserhalb des Verfahrens entstandenen Kosten" → gut fuer Sie
+- "Die Beklagte traegt die ausserhalb des Verfahrens entstandenen Kosten" → gut für Sie
 - "Jeder traegt eigene Kosten" → neutral
 - "Klaeger traegt Kosten" → eher schlecht; pruefen
 
@@ -672,7 +664,6 @@ Im Vergleich wird die Kostenregel geregelt:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 101 SGG aktuell.
-
 
 ## Qualitäts-Hardening
 

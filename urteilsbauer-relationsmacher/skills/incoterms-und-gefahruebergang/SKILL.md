@@ -7,7 +7,6 @@ description: "Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertr
 
 Die Incoterms (International Commercial Terms) der Internationalen Handelskammer (ICC) regeln Lieferort, Gefahrübergang, Kostenverteilung und Versicherungspflichten.
 
-
 ## Triage zu Beginn
 
 1. Welche Incoterms-Klausel wurde vereinbart — Fassung 2020, 2010 oder älter?

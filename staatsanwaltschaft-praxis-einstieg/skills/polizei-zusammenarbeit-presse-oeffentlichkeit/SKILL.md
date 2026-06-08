@@ -1,48 +1,29 @@
 ---
 name: polizei-zusammenarbeit-presse-oeffentlichkeit
-description: "Polizei Zusammenarbeit Presse Oeffentlichkeit im Plugin Staatsanwaltschaft Praxis Einstieg: prüft konkret Zusammenarbeit mit der Polizei, Presse und Öffentlichkeit, Presseauskunft und Öffentlichkeit in Strafsachen, Protokoll und Nachbereitung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Polizei Zusammenarbeit Presse Oeffentlichkeit
+# Zusammenarbeit mit der Polizei
 
 ## Arbeitsbereich
 
-**Polizei Zusammenarbeit Presse Oeffentlichkeit** ordnet den Fall über die tragenden Prüffelder: Zusammenarbeit mit der Polizei, Presse und Öffentlichkeit, Presseauskunft und Öffentlichkeit in Strafsachen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `polizei-zusammenarbeit-ermittlungsauftrag` | Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
-| `presse-und-oeffentlichkeit` | Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
-| `presseauskunft-und-oeffentlichkeit` | Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
-| `protokoll-und-nachbereitung` | Protokoll und Nachbereitung: Praxis-Skill für neue Staatsanwälte zu sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
-| `rechtshilfe-europaeische-ermittlungsanordnung` | Europäische Ermittlungsanordnung und Rechtshilfe: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Staatsanwaltschaft Praxis Einstieg klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `polizei-zusammenarbeit-ermittlungsauftrag`
-
-**Fokus:** Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
-
-# Zusammenarbeit mit der Polizei
 
 ## Fachkern: Zusammenarbeit mit der Polizei
-- **Spezialgegenstand:** Zusammenarbeit mit der Polizei wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Zusammenarbeit mit der Polizei** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht
 
@@ -62,13 +43,23 @@ Dieser Abschnitt bearbeitet **Fachkern: Zusammenarbeit mit der Polizei** im Bere
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-
 ## Spezielle Leitplanken
 
 - Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Nr. 3 RiStBV (Wächterin des Gesetzes)
+- § 168b StPO (Aufzeichnung)
+- § 169a StPO (Schlussvermerk)
+- Nr. 9-13 RiStBV (Aktenführung)
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
@@ -76,201 +67,3 @@ Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustei
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 2. `presse-und-oeffentlichkeit`
-
-**Fokus:** Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
-
-# Presse und Öffentlichkeit
-
-## Fachkern: Presse und Öffentlichkeit
-- **Spezialgegenstand:** Presse und Öffentlichkeit wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
-- **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Presse und Öffentlichkeit** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
-- Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
-- Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
-
-## Output
-
-Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 3. `presseauskunft-und-oeffentlichkeit`
-
-**Fokus:** Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
-
-# Presseauskunft und Öffentlichkeit in Strafsachen
-
-## Fachkern: Presseauskunft und Öffentlichkeit in Strafsachen
-- **Spezialgegenstand:** Presseauskunft und Öffentlichkeit in Strafsachen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
-- **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Presseauskunft und Öffentlichkeit in Strafsachen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Presseleitlinien, Unschuldsvermutung, Persönlichkeitsrechte und Behördenkommunikation
-
-## Einstieg
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, Nebenstrafrecht und einschlägige Landesvorgaben live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
-- Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
-- Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
-
-## Output
-
-Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 4. `protokoll-und-nachbereitung`
-
-**Fokus:** Protokoll und Nachbereitung: Praxis-Skill für neue Staatsanwälte zu sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
-
-# Protokoll und Nachbereitung
-
-## Fachkern: Protokoll und Nachbereitung
-- **Spezialgegenstand:** Protokoll und Nachbereitung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
-- **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Protokoll und Nachbereitung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, einschlägiges Nebenstrafrecht und landesrechtliche Verwaltungsvorschriften live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
-- Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
-- Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
-
-## Output
-
-Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 5. `rechtshilfe-europaeische-ermittlungsanordnung`
-
-**Fokus:** Europäische Ermittlungsanordnung und Rechtshilfe: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
-
-# Europäische Ermittlungsanordnung und Rechtshilfe
-
-## Fachkern: Europäische Ermittlungsanordnung und Rechtshilfe
-- **Spezialgegenstand:** Europäische Ermittlungsanordnung und Rechtshilfe wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
-- **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Europäische Ermittlungsanordnung und Rechtshilfe** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** EIO, Übersetzung, Verhältnismäßigkeit, Fristen und Beweisverwertung
-
-## Einstieg
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StPO, StGB, GVG, RiStBV, JGG, OWiG, Nebenstrafrecht und einschlägige Landesvorgaben live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
-- Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
-- Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
-
-## Output
-
-Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.

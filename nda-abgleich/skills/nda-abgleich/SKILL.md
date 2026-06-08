@@ -14,7 +14,7 @@ description: "Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln o
 5. **Datenschutz:** Dürfen die eingereichten NDAs in das eingesetzte KI-System geladen werden (§ 203 StGB, GeschGehG)?
 
 ## Zentrale Normen
-- § 2 GeschGehG (Definition Geschaeftsgeheimnis — Schutzvoraussetzungen fuer NDA-Schutzgegenstand): https://www.gesetze-im-internet.de/geschgehg/__2.html
+- § 2 GeschGehG (Definition Geschaeftsgeheimnis — Schutzvoraussetzungen für NDA-Schutzgegenstand): https://www.gesetze-im-internet.de/geschgehg/__2.html
 - § 4 GeschGehG (Handlungsverbote bei Geheimnisverrat): https://www.gesetze-im-internet.de/geschgehg/__4.html
 - § 6 GeschGehG (Unterlassungs- und Beseitigungsanspruechen): https://www.gesetze-im-internet.de/geschgehg/__6.html
 - § 9 GeschGehG (Schadensersatz): https://www.gesetze-im-internet.de/geschgehg/__9.html

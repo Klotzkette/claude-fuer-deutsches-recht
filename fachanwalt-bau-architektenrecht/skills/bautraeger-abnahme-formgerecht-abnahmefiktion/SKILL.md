@@ -7,24 +7,24 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Bautraeger Abnahme Formgerecht Abnahmefiktion** ordnet den Fall über die tragenden Prüffelder: Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Abnahme Formgerecht Abnahmefiktion** ordnet den Fall über die tragenden Prüfungslinien: Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bautraeger-abnahme-formgerecht-640-bgb` | Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster. |
 | `bautraeger-abnahmefiktion-clause-unwirksam` | Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster. |
 | `bautraeger-anlagen-zur-baubeschreibung` | Anlagen zur Baubeschreibung beim Bautraegervertrag. Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter Anlagen. |
-| `bautraeger-aufflassungsvormerkung-883-bgb` | Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen fuer den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster. |
+| `bautraeger-aufflassungsvormerkung-883-bgb` | Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-abnahme-formgerecht-640-bgb`
 
@@ -49,12 +49,12 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 
 ## Folge Abnahme
 
-- Beginn der Verjaehrungsfrist § 634a BGB (5 Jahre fuer Bauwerk).
+- Beginn der Verjährungsfrist § 634a BGB (5 Jahre für Bauwerk).
 - Umkehr der Beweislast: Erwerber muss spaetere Maengel beweisen.
 - Verguetungspflicht wird faellig.
 - Gefahrtragung geht auf Erwerber ueber.
 
-## Foerderung Bautraeger zur Abnahme
+## Förderung Bautraeger zur Abnahme
 
 - Bautraeger draengt oft auf Abnahme, um Verguetung zu erhalten und Maengelhaftungsfrist zu starten.
 - Erwerber sollte nicht abnehmen, wenn wesentliche Maengel bestehen.
@@ -94,7 +94,7 @@ oder
 ## Folge Unwirksamkeit
 
 - Keine Abnahme erfolgt.
-- Verjaehrungsfrist startet nicht.
+- Verjährungsfrist startet nicht.
 - Verguetung nicht faellig.
 
 ## Pruefraster
@@ -155,13 +155,13 @@ oder
 
 ## 4. `bautraeger-aufflassungsvormerkung-883-bgb`
 
-**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen fuer den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
+**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
 
 # Bautraeger Aufflassungsvormerkung 883 Bgb
 
 ## Norm
 
-§ 883 BGB Vormerkung — Sicherungsinstrument fuer einen schuldrechtlichen Anspruch auf Eigentumsuebertragung.
+§ 883 BGB Vormerkung — Sicherungsinstrument für einen schuldrechtlichen Anspruch auf Eigentumsuebertragung.
 
 ## Funktion beim Bautraegervertrag
 

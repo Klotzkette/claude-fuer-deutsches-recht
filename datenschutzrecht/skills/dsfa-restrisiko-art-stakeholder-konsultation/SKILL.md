@@ -7,25 +7,25 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 
 ## Arbeitsbereich
 
-**Dsfa Restrisiko ART Stakeholder Konsultation** ordnet den Fall über die tragenden Prüffelder: Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Dsfa Restrisiko ART Stakeholder Konsultation** ordnet den Fall über die tragenden Prüfungslinien: Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `dsfa-restrisiko-und-art-36-konsultation` | Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Massnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist. |
 | `dsfa-stakeholder-konsultation-art-35-9` | Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Pruefung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation. |
-| `dsfa-template-deutsch-vollvorlage` | Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern fuer alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen. |
-| `dsfa-typische-fehler-bei-erstpruefung` | Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste fuer DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis. |
+| `dsfa-template-deutsch-vollvorlage` | Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen. |
+| `dsfa-typische-fehler-bei-erstpruefung` | Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis. |
 | `dsfa-update-bei-aenderungen-und-revision` | Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Aenderungsanalyse Risikoreassessment und Versionshistorie. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `dsfa-restrisiko-und-art-36-konsultation`
 
@@ -35,7 +35,7 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 
 ## Zweck
 
-Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zustaendigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
+Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zuständigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
 
 ## Wann dieses Modul hilft
 
@@ -61,7 +61,7 @@ Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforder
 3. **Risikoanalyse.** Risikomatrix vor und nach Massnahmen; Identifizierung der Szenarien, die im hohen Bereich verbleiben.
 4. **Massnahmen.** Sind alle technisch und organisatorisch zumutbaren Massnahmen ergriffen? Pruefung Art. 32 DSGVO, Stand der Technik, Implementierungskosten gegen Risikoreduktion.
 5. **Restrisiko.** Wenn hoch verbleibend: Art. 36 Konsultation Pflicht. Begruendung warum das Restrisiko nicht weiter reduzierbar ist (Wirtschaftlichkeit, technische Grenzen, gesetzlicher Zweck).
-6. **Konsultation / Genehmigung.** Konsultationsantrag an die zustaendige Aufsichtsbehoerde mit den Inhalten nach Art. 36 Abs. 3 DSGVO. Frist 8 Wochen; Verarbeitung darf bis zur Antwort nicht aufgenommen werden.
+6. **Konsultation / Genehmigung.** Konsultationsantrag an die zuständige Aufsichtsbehoerde mit den Inhalten nach Art. 36 Abs. 3 DSGVO. Frist 8 Wochen; Verarbeitung darf bis zur Antwort nicht aufgenommen werden.
 
 ## Mustertext / Template (Konsultationsantrag)
 
@@ -131,7 +131,7 @@ Mit freundlichen Gruessen
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Restrisiko-Berechnung
 - `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Dokumentation
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA und Konsultation
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA und Konsultation
 - `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026
@@ -158,13 +158,13 @@ Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im
 
 - Bei DSFA mit Beschaeftigtendaten (Betriebsrat als Vertretung)
 - Bei DSFA mit Patientendaten oder Kundendaten in grossem Umfang
-- Bei oeffentlichen Konsultationen (z. B. Smart-City-Projekte)
+- Bei öffentlichen Konsultationen (z. B. Smart-City-Projekte)
 - Wenn die Aufsichtsbehoerde im Vorabkonsultationsverfahren Art. 36 Stakeholder-Beteiligung erwartet
 - Bei KI-Systemen, die viele Betroffene treffen
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 9 DSGVO: Der Verantwortliche holt gegebenenfalls den Standpunkt der betroffenen Personen oder ihrer Vertreter zu der beabsichtigten Verarbeitung ein, unbeschadet des Schutzes gewerblicher oder oeffentlicher Interessen oder der Sicherheit der Verarbeitungsvorgaenge.
+- Art. 35 Abs. 9 DSGVO: Der Verantwortliche holt gegebenenfalls den Standpunkt der betroffenen Personen oder ihrer Vertreter zu der beabsichtigten Verarbeitung ein, unbeschadet des Schutzes gewerblicher oder öffentlicher Interessen oder der Sicherheit der Verarbeitungsvorgaenge.
 - § 26 BDSG, BetrVG (§§ 87, 90, 94): Beteiligung des Betriebsrats bei Beschaeftigtendatenverarbeitungen mit Mitbestimmungsbezug.
 - EDSA-Leitlinien WP 248 rev.01 zur Konsultation.
 - EDSA-Stellungnahmen zur Konsultation in komplexen Verarbeitungen.
@@ -178,7 +178,7 @@ Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im
  - Schriftliche Konsultation des Betriebsrats mit Beschreibung der Verarbeitung
  - Umfrage unter Betroffenenstichprobe
  - Workshop oder Diskussionsrunde
- - Oeffentliche Anhoerung (oeffentliche Stellen)
+ - Oeffentliche Anhörung (öffentliche Stellen)
  - Verbaendekonsultation (Verbraucherzentralen, Datenschutzvereine)
 5. **Restrisiko.** Bewertung des Konsultationsergebnisses und Eingang in die DSFA. Wenn Konsultation unterbleibt: Begruendung dokumentieren (Art. 35 Abs. 9 Halbsatz 2 — Schutzinteressen).
 6. **Konsultation / Genehmigung.** DSB einbinden; Ergebnis der Stakeholder-Konsultation explizit in der DSFA verarbeiten.
@@ -208,7 +208,7 @@ Verantwortlicher: [NAME]
 [ ] schriftliche Stellungnahme Betriebsrat (BetrVG §§ 87, 90, 94)
 [ ] strukturierte Umfrage (Stichprobe N=[X])
 [ ] Workshop / Diskussionsrunde
-[ ] oeffentliche Anhoerung
+[ ] öffentliche Anhörung
 [ ] Verbaendebeteiligung
 
 5. Zeitplan
@@ -231,7 +231,7 @@ Unterschrift DSB: ____________________
 
 - KI-Personalauswahl im Konzern: schriftliche Stellungnahme Betriebsrat plus Mitarbeiterumfrage.
 - Patientenakten-Migration in Cloud: Patientenvertretung anhoeren, Patienteninformation vorbereiten.
-- Smart-City-Sensorik: oeffentliche Anhoerung, Verbaendebeteiligung Datenschutzverein.
+- Smart-City-Sensorik: öffentliche Anhörung, Verbaendebeteiligung Datenschutzverein.
 - Connected-Vehicle-Telematik: Verbraucherverbaende anhoeren, ggf. Nutzerstichprobe.
 - Schueler-Lernplattform: Eltern- und Schuelervertretung anhoeren, Landesdatenschutz informieren.
 
@@ -250,7 +250,7 @@ Unterschrift DSB: ____________________
 - Betriebsrat wird umgangen, obwohl Mitbestimmung nach BetrVG ausgeloest ist.
 - Konsultation wird nach DSFA-Abschluss durchgefuehrt — verfehlt den Zweck der Risikoabwaegung.
 - Schutzinteressen werden pauschal behauptet ohne konkrete Begruendung.
-- Bei oeffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
+- Bei öffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
 - Eingaenge der Stakeholder werden nicht im Verarbeitungsverzeichnis Art. 30 verlinkt.
 
 ## Querverweise
@@ -270,7 +270,7 @@ Unterschrift DSB: ____________________
 
 ## 3. `dsfa-template-deutsch-vollvorlage`
 
-**Fokus:** Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern fuer alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen.
+**Fokus:** Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen.
 
 # DSFA-Vollvorlage Deutsch
 
@@ -290,9 +290,9 @@ Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35
 - Art. 35 Abs. 7 DSGVO Mindestinhalte:
  - lit. a systematische Beschreibung der Verarbeitungsvorgaenge und Zwecke
  - lit. b Bewertung der Notwendigkeit und Verhaeltnismaessigkeit
- - lit. c Bewertung der Risiken fuer die Rechte und Freiheiten der Betroffenen
+ - lit. c Bewertung der Risiken für die Rechte und Freiheiten der Betroffenen
  - lit. d Abhilfemassnahmen mit Garantien und Sicherheitsvorkehrungen
-- Art. 35 Abs. 2 DSGVO DSB-Anhoerung.
+- Art. 35 Abs. 2 DSGVO DSB-Anhörung.
 - Art. 35 Abs. 9 DSGVO Stakeholder-Konsultation soweit angemessen.
 - Art. 5 Abs. 2 DSGVO Rechenschaftspflicht.
 - EDSA-Leitlinien WP 248 rev.01.
@@ -358,7 +358,7 @@ Freigabeempfehlung: [Ja / Vorab-Konsultation Art. 36 / Nein]
 
 2. BEWERTUNG DER NOTWENDIGKEIT UND VERHAELTNISMAESSIGKEIT
  (Art. 35 Abs. 7 lit. b DSGVO)
-2.1 Erforderlichkeit der Verarbeitung fuer den Zweck
+2.1 Erforderlichkeit der Verarbeitung für den Zweck
 [Geeignet, erforderlich, kein milderes Mittel]
 2.2 Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO)
 [...]
@@ -438,14 +438,14 @@ Verweis: [...]
 
 6.5 Ueberpruefungsplan (Art. 35 Abs. 11 DSGVO)
 Naechste Pruefung: [DATUM]
-Trigger fuer ausserplanmaessige Pruefung: [Aenderung Datenarten / Empfaenger / Technologie / Rechtslage]
+Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / Technologie / Rechtslage]
 ```
 
 ## Typische Fehler
 
 - Vorlage wird verwendet, ohne den Datenfluss konkret zu beschreiben — Sektion 1 bleibt floskelhaft.
 - Verhaeltnismaessigkeit wird auf Rechtsgrundlage reduziert — Datenminimierung und Speicherbegrenzung werden uebersehen.
-- Risikoszenarien werden nur fuer Vertraulichkeit gepflegt, andere Schutzziele bleiben leer.
+- Risikoszenarien werden nur für Vertraulichkeit gepflegt, andere Schutzziele bleiben leer.
 - Massnahmen-Tabelle ohne Verantwortliche und Fristen — nicht steuerbar.
 - DSB unterschreibt nicht oder spaeter — Beweisluecke.
 - Versionierung fehlt — bei Aenderung nicht nachvollziehbar.
@@ -472,13 +472,13 @@ Trigger fuer ausserplanmaessige Pruefung: [Aenderung Datenarten / Empfaenger / T
 
 ## 4. `dsfa-typische-fehler-bei-erstpruefung`
 
-**Fokus:** Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste fuer DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis.
+**Fokus:** Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis.
 
 # Typische Fehler bei der DSFA-Erstpruefung
 
 ## Zweck
 
-Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste fuer DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
+Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste für DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
 
 ## Wann dieses Modul hilft
 
@@ -492,7 +492,7 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 
 - Art. 35 DSGVO mit allen Absaetzen.
 - Art. 5 Abs. 2 DSGVO Rechenschaftspflicht.
-- Art. 83 Abs. 4 lit. a DSGVO Bussgeldtatbestand fuer Verstoesse gegen Art. 35.
+- Art. 83 Abs. 4 lit. a DSGVO Bussgeldtatbestand für Verstoesse gegen Art. 35.
 - EDSA-Leitlinien WP 248 rev.01 und einschlaegige Aufsichtsbehoerdenpraxis.
 
 ## Fehlerkatalog mit Gegenmassnahmen
@@ -507,7 +507,7 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 ### 2. Beschreibung der Verarbeitung
 
 - Beschreibung floskelhaft, ohne Datenfluss. Gegenmassnahme: Datenflussdiagramm und konkrete Empfaengeraufzaehlung.
-- Drittlandbezug uebersehen, weil EU-Hosting. Gegenmassnahme: Zugriffsbefugnis pruefen, Skill dsfa-fuer-internationale-datentransfers.
+- Drittlandbezug uebersehen, weil EU-Hosting. Gegenmassnahme: Zugriffsbefugnis pruefen, Skill dsfa-für-internationale-datentransfers.
 - Sub-Auftragsverarbeiter nicht gelistet. Gegenmassnahme: vollstaendige AVV-Kette.
 - Aufbewahrungsfristen pauschal. Gegenmassnahme: Loeschkonzept beifuegen.
 
@@ -519,16 +519,16 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 
 ### 4. Risikoanalyse
 
-- Risiko nur fuer Vertraulichkeit untersucht. Gegenmassnahme: alle Schutzziele SDM durchgehen.
+- Risiko nur für Vertraulichkeit untersucht. Gegenmassnahme: alle Schutzziele SDM durchgehen.
 - Wahrscheinlichkeit ohne Bedrohungsmodell. Gegenmassnahme: Bedrohungsannahmen explizit machen.
 - Schadenschwere aus Sicht des Verantwortlichen statt Betroffener. Gegenmassnahme: Erwaegungsgrund 75 DSGVO als Massstab.
-- Risikomatrix bleibt fuer Massnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Massnahme zuordnen.
+- Risikomatrix bleibt für Massnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Massnahme zuordnen.
 
 ### 5. Massnahmen
 
 - TOM-Konzept fehlt oder ist generisch. Gegenmassnahme: konkrete Massnahmen mit Verantwortlichen und Fristen.
 - Vertragliche Massnahmen (AVV, SCC) nicht referenziert. Gegenmassnahme: Verweis auf konkrete Vertragsversion und Datum.
-- KI-Spezifika fehlen. Gegenmassnahme: Skill dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo.
+- KI-Spezifika fehlen. Gegenmassnahme: Skill dsfa-für-ki-systeme-schnittstelle-art-26-kivo.
 - Stand der Technik nicht begruendet. Gegenmassnahme: BSI- oder ENISA-Referenz beifuegen.
 
 ### 6. Restrisiko
@@ -539,7 +539,7 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 
 ### 7. Konsultation und Freigabe
 
-- DSB-Anhoerung nur muendlich oder gar nicht. Gegenmassnahme: schriftliche Stellungnahme, datiert und unterzeichnet.
+- DSB-Anhörung nur muendlich oder gar nicht. Gegenmassnahme: schriftliche Stellungnahme, datiert und unterzeichnet.
 - Stakeholder-Konsultation Art. 35 Abs. 9 nicht erwogen. Gegenmassnahme: Skill dsfa-stakeholder-konsultation-art-35-9.
 - Freigabe ohne Datum oder durch Unbefugten. Gegenmassnahme: definierter Eskalations- und Freigabeprozess.
 - Verarbeitung wird vor Antwort der Aufsicht aufgenommen. Gegenmassnahme: Projektplan an Frist 8 Wochen ankoppeln.
@@ -665,7 +665,7 @@ Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen
 3. **Risikoanalyse.** Erneute Risikoanalyse nach Methodik des urspruenglichen DSFA-Skills; Risikomatrix vor und nach erneuten Massnahmen.
 4. **Massnahmen.** Pruefung, ob bestehende Massnahmen ausreichen oder ergaenzt werden muessen.
 5. **Restrisiko.** Vergleich Restrisiko alt versus neu; ggf. neue Art. 36 Konsultation.
-6. **Konsultation / Genehmigung.** DSB-Anhoerung, Freigabe und Versionierung; alte Versionen archivieren, nicht loeschen.
+6. **Konsultation / Genehmigung.** DSB-Anhörung, Freigabe und Versionierung; alte Versionen archivieren, nicht loeschen.
 
 ## Mustertext / Template Revisionsplan
 
@@ -706,7 +706,7 @@ Verantwortlicher: [NAME]
 [Liste der zusaetzlichen oder geaenderten Massnahmen]
 
 6. Freigabe
-- DSB-Anhoerung: [Datum, Stellungnahme]
+- DSB-Anhörung: [Datum, Stellungnahme]
 - Genehmigung Verantwortlicher: [Name, Datum]
 - Aufsicht informiert (falls Art. 36): [Datum]
 - Eintrag Verarbeitungsverzeichnis aktualisiert: [Datum]

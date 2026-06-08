@@ -7,10 +7,10 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 
 ## Arbeitsbereich
 
-**Bautraeger Leistungsbeschreibung** ordnet den Fall über die tragenden Prüffelder: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Leistungsbeschreibung** ordnet den Fall über die tragenden Prüfungslinien: Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bautraeger-leistungsbeschreibung-baubeschreibung` | Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Pruefraster. |
 | `bautraeger-mabv-buchfuehrungspflicht-10` | MaBV § 10 Buchfuehrungspflicht. Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Pruefberichte. Folgen bei Versaeumnis. Liefert Pruefraster. |
@@ -19,12 +19,12 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-leistungsbeschreibung-baubeschreibung`
 
@@ -120,7 +120,7 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 - Bei schwacher Buergschaft: Erwerber haftet im Schlepptau.
 
 ### § 3-Modell Vorteile
-- Erwerber zahlt nur fuer Geleistetes.
+- Erwerber zahlt nur für Geleistetes.
 - Bei Insolvenz: bisher gezahlte Raten sind ggf. werthaltig in Vermoegensauskehr.
 
 ### § 3-Modell Risiken

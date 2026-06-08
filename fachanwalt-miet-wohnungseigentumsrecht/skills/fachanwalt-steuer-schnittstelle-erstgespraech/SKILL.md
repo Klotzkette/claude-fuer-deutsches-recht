@@ -7,25 +7,25 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 
 ## Arbeitsbereich
 
-**Steuer Schnittstelle Erstgespraech** ordnet den Fall über die tragenden Prüffelder: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Steuer Schnittstelle Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-steuer-schnittstelle-vermietung` | Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung. |
-| `fachanwalt-miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Foerderung BAFA BEG-EM. |
-| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Prüffeld für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM. |
+| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Miet Wohnungseigentumsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-steuer-schnittstelle-vermietung`
 
@@ -40,7 +40,6 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail.
@@ -86,7 +85,6 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erk
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Wohnraum-, Gewerberaum- und WEG-Recht (Telefon, Mail, Empfehlung, Walk-in).
@@ -97,7 +95,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erk
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Wohnraum-, Gewerberaum- und WEG-Recht:
+Standard-Fragenraster für Wohnraum-, Gewerberaum- und WEG-Recht:
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -110,15 +108,15 @@ Standard-Fragenraster fuer Wohnraum-, Gewerberaum- und WEG-Recht:
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Wohnraum-, Gewerberaum- und WEG-Recht:
 
@@ -132,23 +130,23 @@ Standard-Streitwerte im Bereich Wohnraum-, Gewerberaum- und WEG-Recht:
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Wohnraum-, Gewerberaum- und WEG-Recht.
+- BORA, BRAO, FAO für Fachanwaltschaft Wohnraum-, Gewerberaum- und WEG-Recht.
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- §§ 535 ff. BGB, WEG, BetrKV, II. BV, MietenWoG (Land) (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- §§ 535 ff. BGB, WEG, BetrKV, II. BV, MietenWoG (Land) (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -171,14 +169,13 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Wohnraum-, Gewerberaum- und WEG-Recht). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -188,7 +185,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -260,9 +257,9 @@ Triage: bei akutem Schriftsatzbedarf konkrete Aktenzeichen vor Zitierung live ve
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
 
 ## 3. `fachanwalt-miet-weg-mediation-mietverein-schlichtung`
 
@@ -277,7 +274,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -366,13 +362,13 @@ Mietstreitigkeiten sind häufig Beziehungs-Streit (Hausgemeinschaft, Vermieter-M
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
 
-Verifizierte Eckpunkte fuer Mediations- und Vergleichsverhandlungs-Kontext (vor Zitierung Volltext pruefen):
+Verifizierte Eckpunkte für Mediations- und Vergleichsverhandlungs-Kontext (vor Zitierung Volltext pruefen):
 
-- BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel-Streit (Eigenbedarf + Krankheit/Alter) muss Tatgericht vollstaendig aufklaeren — fuer Verhandlungsfenster bedeutet das: medizinische Tatsachen sind oft Vergleichshebel.
+- BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24: bei Haerteklausel-Streit (Eigenbedarf + Krankheit/Alter) muss Tatgericht vollstaendig aufklaeren — für Verhandlungsfenster bedeutet das: medizinische Tatsachen sind oft Vergleichshebel.
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23: bei Untervermietungs-Konflikten Gewinngrenze als Verhandlungsanker.
 - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23: bei WEG-Kostenverteilung-Streit Sachgrund-Diskussion fuehrt zum Vergleichsraum.
 
-Verjaehrungshemmung der Mediation: § 204 Abs. 1 Nr. 4 BGB (waehrend Verfahren + 3 Monate).
+Verjährungshemmung der Mediation: § 204 Abs. 1 Nr. 4 BGB (waehrend Verfahren + 3 Monate).
 
 ## Quellenregel
 
@@ -409,7 +405,7 @@ Die Parteien einigen sich wie folgt:
 3. Die Kosten des Rechtsstreits werden gegeneinander
  aufgehoben.
 
-Vollstreckbare Ausfertigung: fuer [VERMIETER]
+Vollstreckbare Ausfertigung: für [VERMIETER]
 ```
 
 ## Quellen und Updates
@@ -422,7 +418,7 @@ Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
 
 ## 4. `fachanwalt-miet-weg-waermepumpe-geg`
 
-**Fokus:** Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Foerderung BAFA BEG-EM.
+**Fokus:** Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM.
 
 # Wärmepumpen-Einbau in WEG nach GEG 2024
 
@@ -434,7 +430,6 @@ Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kaltstart-Rückfragen
 
 1. Aktueller Heizungs-Status — Alter der Anlage, Defekt-Datum, Zwangstausch nach §§ 71 ff. GEG?
@@ -445,7 +440,7 @@ Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
 6. Haben Nachbareigentümer bereits Einwände wegen Lärmimmissionen geäußert — Schallgutachten vorhanden?
 7. Sind KfW/BAFA-Förderanträge rechtzeitig vor Auftragsvergabe gestellt?
 8. Werden vermietete Einheiten miterfasst — Modernisierungsankündigung § 555c BGB an Mieter?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -482,7 +477,7 @@ Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
 
 Belegt ueber bundesgerichtshof.de und dejure.org:
 
-- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt fuer die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Klaeger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
+- **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt für die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Klaeger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
 - **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://dejure.org/2025,9080
 - **BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23** — Kostenverteilung bei baulichen Maßnahmen / Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG, einschliesslich Erhaltungsruecklage; PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 
@@ -515,7 +510,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Denkmalschutz blockiert Umbau | Behordliche Genehmigung Denkmalbehoerde; GEG-Ausnahmen pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -655,7 +649,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung`
 
-**Fokus:** Prüffeld für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
 
@@ -666,7 +660,6 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 

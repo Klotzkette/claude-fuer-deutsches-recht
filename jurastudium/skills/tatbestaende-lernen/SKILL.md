@@ -1,35 +1,34 @@
 ---
 name: tatbestaende-lernen
-description: "Tatbestaende Lernen im Jurastudium: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Tatbestaende Lernen im Jurastudium im Jurastudium: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Tatbestaende Lernen
 
 ## Arbeitsbereich
 
-**Tatbestaende Lernen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Tatbestaende Lernen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `tatbestaende-lernen` | Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht öffentliches Recht, Subsumtion, Methodenlehre. Prüfraster Tatbestandsmerkmale vollständig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Lösungsschemata für Klausuraufbau und zu Karteikarten für allgemeines Lernen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Jurastudium klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DRiG § 5a Studiendauer 9 Semester (Regelstudienzeit), Freischuss-Frist (i.d.R. 8 Semester nach JAG), Wiederholungsfrist, Hausarbeit 4-6 Wochen.
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `tatbestaende-lernen`
 
 **Fokus:** Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht öffentliches Recht, Subsumtion, Methodenlehre. Prüfraster Tatbestandsmerkmale vollständig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Lösungsschemata für Klausuraufbau und zu Karteikarten für allgemeines Lernen.
 
 # Tatbestände lernen
-
 
 ## Triage zu Beginn
 1. Welcher Tatbestand soll erarbeitet werden (§ 242 StGB, § 280 BGB, § 823 BGB, etc.)?
@@ -41,9 +40,9 @@ description: "Tatbestaende Lernen im Jurastudium: fachlicher Arbeitsgang mit Pr�
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende fuer Drill-Lernen
-- §§ 242, 263, 212 StGB — Straf-Kerntatbestaende fuer Drill-Lernen
-- §§ 40, 42 VwGO — VwR-Grundtatbestaende fuer Drill-Lernen
+- §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende für Drill-Lernen
+- §§ 242, 263, 212 StGB — Straf-Kerntatbestaende für Drill-Lernen
+- §§ 40, 42 VwGO — VwR-Grundtatbestaende für Drill-Lernen
 - §§ 133, 157 BGB — Auslegung als Querschnittskompetenz bei jedem Tatbestand
 
 ## Quellenregel
@@ -111,7 +110,7 @@ Schemata sind erlaubt — als Lernhilfsmittel, **nicht** als Klausurprodukt. Sie
 ### Öffentliches Recht
 - **§ 35 VwVfG** (VA).
 - **§§ 113, 114, 80 V VwGO** (Anfechtung, Ermessen, einstweiliger Rechtsschutz).
-- **Grundrechte** als Schichtenprüfung (siehe `methodenlehre-oeffentliches-recht`).
+- **Grundrechte** als Schichtenprüfung (siehe `methodenlehre-öffentliches-recht`).
 
 ## Karteikartenintegration
 
@@ -124,7 +123,7 @@ Diese Skill arbeitet eng mit `karteikarten`:
 
 - `subsumtionslehre` — Tatbestände werden gelernt, **damit** subsumiert werden kann.
 - `karteikarten` — Format für die abrufbaren Bausteine.
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-oeffentliches-recht` — Tatbestände im jeweiligen Methodenrahmen.
+- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — Tatbestände im jeweiligen Methodenrahmen.
 - `loesungsschemata` — Hilfsgerüst (mit Disclaimer).
 - `pruefungsgespraech-ag` — Definitionen mündlich abfragen.
 

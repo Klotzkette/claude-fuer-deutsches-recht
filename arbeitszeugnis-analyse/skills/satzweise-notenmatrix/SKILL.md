@@ -36,13 +36,13 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 **Beispiel 5 – Note 1:** "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" → Steigerer "stets sehr weit", expliziter Vergleich "ueber unseren Anforderungen". Themenbereich Arbeitsergebnis.
 
-**Beispiel 6 – Note 3:** "war ein geschaetzter Ansprechpartner, sein persoenliches Verhalten war einwandfrei" → "geschaetzt" ohne Steigerung, "einwandfrei" ohne "stets". Themenbereich Sozialverhalten.
+**Beispiel 6 – Note 3:** "war ein geschaetzter Ansprechpartner, sein persönliches Verhalten war einwandfrei" → "geschaetzt" ohne Steigerung, "einwandfrei" ohne "stets". Themenbereich Sozialverhalten.
 
 **Beispiel 7 – Note 4:** "war stets bemueht" → Codewort, unabhaengig vom restlichen Satz. Themenbereich je nach Kontext.
 
 ## Ausgabeformat
 
-Tabelle mit den Spalten: laufende Nummer, Satzkurzform (gekuerzt auf maximal achtzig Zeichen), Themenbereich, Note, erkannte Steigerungsadverbien, erkannte Superlative, Begruendung in einem Satz. Anschliessend eine Bereichsuebersicht mit Anzahl Saetze und Notenmittel je Themenbereich. Diese Matrix dient als Eingangsbasis fuer den Bereichs-Drift-Detektor und die Gesamtnoten-Aggregation.
+Tabelle mit den Spalten: laufende Nummer, Satzkurzform (gekuerzt auf maximal achtzig Zeichen), Themenbereich, Note, erkannte Steigerungsadverbien, erkannte Superlative, Begruendung in einem Satz. Anschliessend eine Bereichsuebersicht mit Anzahl Saetze und Notenmittel je Themenbereich. Diese Matrix dient als Eingangsbasis für den Bereichs-Drift-Detektor und die Gesamtnoten-Aggregation.
 
 ## Rechtliche Einordnung und Normen
 

@@ -7,30 +7,30 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 
 ## Arbeitsbereich
 
-**Computerbetrug 263a Design Designg** ordnet den Fall über die tragenden Prüffelder: Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Computerbetrug 263a Design Designg** ordnet den Fall über die tragenden Prüfungslinien: Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-computerbetrug-263a-stgb` | Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off. |
 | `strafrecht-spezial-design-strafrecht-51-designg` | Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht. |
 | `strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb` | Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhaeltnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren. |
-| `strafrecht-spezial-faktische-geschaeftsfuehrer` | Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln fuer andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien fuer faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung. |
-| `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb` | Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft fuer und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen. |
+| `strafrecht-spezial-faktische-geschaeftsfuehrer` | Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung. |
+| `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb` | Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft für und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen. |
 | `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb` | Gefaehrliche Koerperverletzung nach § 224 StGB. Qualifikationen Nr. 1 Gift und gesundheitsschaedliche Stoffe; Nr. 2 Waffe oder gefaehrliches Werkzeug; Nr. 3 hinterlistiger Ueberfall; Nr. 4 mit anderen Beteiligten gemeinschaftlich; Nr. 5 lebensgefaehrdende Behandlung. Strafrahmen sechs Monate bis zehn Jahre. |
-| `strafrecht-spezial-geldwaesche-261-stgb-neu-2021` | Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo fuer Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules. |
-| `strafrecht-spezial-geschgehg-23-strafvorschriften` | Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschaeftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing. |
+| `strafrecht-spezial-geldwaesche-261-stgb-neu-2021` | Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo für Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules. |
+| `strafrecht-spezial-geschgehg-23-strafvorschriften` | Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschäftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing. |
 | `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb` | Glaeubigerbeguenstigung nach Paragraph 283c StGB. Bevorzugte Befriedigung eines Glaeubigers in der Krise zum Nachteil der Glaeubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenzung Paragraph 130 InsO Anfechtung. Verteidigung mit Bargeschaeftsausnahme Paragraph 142 InsO und Sanierungsversuch. |
 | `strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg` | Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG. Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Pruefungsberichten. Schutzgut Vertrauen des Rechtsverkehrs. Abgrenzung zu Paragraph 263 StGB und Paragraph 331 HGB. Praxisrelevanz Gruendung Kapitalerhoehung Sanierung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-computerbetrug-263a-stgb`
 
@@ -167,14 +167,14 @@ Subjektiv Vorsatz, mindestens dolus eventualis. Vorsatz muss umfassen: dass ein 
 
 Paragraph 51 Abs 4 DesignG: Antragsdelikt. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter. Antragsberechtigt: Designinhaber (Paragraph 7 DesignG), ausschliesslicher Lizenznehmer (mit Zustimmung), Rechtsnachfolger.
 
-Privatklageweg Paragraph 374 StPO ist nach hM bei Paragraph 51 DesignG eroeffnet, soweit StA nicht das besondere oeffentliche Interesse bejaht (typisch bei kommerziellem Vertrieb in grossen Stueckzahlen).
+Privatklageweg Paragraph 374 StPO ist nach hM bei Paragraph 51 DesignG eroeffnet, soweit StA nicht das besondere öffentliche Interesse bejaht (typisch bei kommerziellem Vertrieb in grossen Stueckzahlen).
 
 ## Praktikertipps der Verteidigung
 
 - **Schutzfaehigkeit angreifen.** Designrecht wird ohne materielle Pruefung eingetragen (anders als Patent). Vor Strafverfahren oder parallel sollte ein **Nichtigkeitsantrag** beim DPMA gestellt werden (Paragraph 33 DesignG). Bei rechtskraeftiger Nichtigkeit entfaellt der Strafvorwurf rueckwirkend. Pruefen: Neuheit (Vorveroeffentlichungen, Recherchen Designview), Eigenart (verschiedener Gesamteindruck), Ausschlussgruende (technisch zwingende Merkmale).
 - **Gesamteindruck pruefen.** Paragraph 38 Abs 2 DesignG: Schutz umfasst Erzeugnisse mit gleichem Gesamteindruck aus Sicht des informierten Benutzers. Vergleich Vorbestehendes Design / Beschuldigte Ware: Verteidigung sollte synoptische Gegenueberstellung erstellen, charakteristische Merkmale isolieren, Differenzen herausarbeiten.
 - **Vorbenutzungsrecht Paragraph 41 DesignG.** Wer das Design vor Anmeldung im Inland in Gebrauch genommen oder die hierzu erforderlichen Anstalten getroffen hat, darf das Design weiter benutzen. Vorbenutzungsbeweis erfordert konkretes Datum und Umstaende; Zeugen, Rechnungen, Konstruktionsunterlagen.
-- **Vorsatz erschuettern.** Designrechte sind dem allgemeinen Verkehr oft unbekannt. Vor Abmahnung typischerweise nur Fahrlaessigkeit; strafrechtlich nicht erfasst. Nach Abmahnung ist Vorsatz fuer fortdauernde Verletzung regelmaessig zu bejahen.
+- **Vorsatz erschuettern.** Designrechte sind dem allgemeinen Verkehr oft unbekannt. Vor Abmahnung typischerweise nur Fahrlaessigkeit; strafrechtlich nicht erfasst. Nach Abmahnung ist Vorsatz für fortdauernde Verletzung regelmaessig zu bejahen.
 - **Erschoepfung Paragraph 48 DesignG.** Bei Reimport aus EWR-Land Erschoepfung gegeben, sofern Designinhaber das Inverkehrbringen autorisiert hat.
 
 ## Trade-off-Matrix
@@ -226,7 +226,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Anzahl verkaufter Stuecke, Umsatz, S
 - Paragraph 77b StGB Antragsfrist; Paragraph 374 StPO Privatklage.
 - BGH staendige Rspr. zur Senkung der Schoepfungshoehe bei Werken der angewandten Kunst (Geburtstagszug-Linie), Auswirkung auf Doppelqualifikation Design + Urheberrecht; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz verifizieren.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz.
-- VO (EU) 608/2013 fuer Grenzbeschlagnahme designverletzender Ware.
+- VO (EU) 608/2013 für Grenzbeschlagnahme designverletzender Ware.
 
 ## 3. `strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb`
 
@@ -236,7 +236,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Anzahl verkaufter Stuecke, Umsatz, S
 
 ## Worum geht es
 
-§§ 239a, 239b StGB schuetzen die persoenliche Freiheit gegen besonders gefaehrliche Formen der Entfuehrung. Beide Normen haben eine **Dreiecksstruktur**: Taeter – Opfer – Erpresster bzw. Genoetigter.
+§§ 239a, 239b StGB schuetzen die persönliche Freiheit gegen besonders gefaehrliche Formen der Entfuehrung. Beide Normen haben eine **Dreiecksstruktur**: Taeter – Opfer – Erpresster bzw. Genoetigter.
 
 - **§ 239a StGB Erpresserischer Menschenraub:** Entfuehrung oder Bemaechtigung eines Menschen, um die Sorge des Opfers oder Dritter um sein Wohl zur Erpressung (§ 253 StGB) auszunutzen. **Vermoegensbezug.**
 - **§ 239b StGB Geiselnahme:** Entfuehrung oder Bemaechtigung eines Menschen, um diesen oder Dritte durch die Drohung mit dem Tod oder schwerer Koerperverletzung oder mit Freiheitsentziehung von einer Woche oder mehr zu noetigen. **Allgemeine Noetigungsbezug.**
@@ -266,7 +266,7 @@ Strafrahmen:
 
 **Entfuehrung:** Aktive Verbringung des Opfers an einen anderen Ort gegen seinen Willen. Bei freiwilliger Begleitung des Opfers (z. B. Liebesbeziehung) entfaellt das Entfuehrungselement.
 
-**Sich-Bemaechtigen:** Erlangung der physischen Herrschaft. Reicht aus, wenn das Opfer in der Wohnung des Taeters gefesselt wird; auch Gewaltausuebung in einem oeffentlichen Raum kann ausreichen.
+**Sich-Bemaechtigen:** Erlangung der physischen Herrschaft. Reicht aus, wenn das Opfer in der Wohnung des Taeters gefesselt wird; auch Gewaltausuebung in einem öffentlichen Raum kann ausreichen.
 
 **§ 239a StGB – Erpressungsabsicht:** Der Taeter muss die Lage zur Erpressung (§ 253 StGB) ausnutzen wollen. Vermoegensbezug erforderlich. Loesegeldforderung klassisch.
 
@@ -338,7 +338,7 @@ Strafrahmen:
 
 ## 4. `strafrecht-spezial-faktische-geschaeftsfuehrer`
 
-**Fokus:** Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln fuer andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien fuer faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung.
+**Fokus:** Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung.
 
 # Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht
 
@@ -350,18 +350,18 @@ Bedeutung: Der faktische GF haftet wie der eingetragene GF strafrechtlich, zivil
 
 ## Tatbestand im Detail
 
-### Paragraph 14 StGB Handeln fuer andere
+### Paragraph 14 StGB Handeln für andere
 
 Paragraph 14 Abs 1 StGB regelt die strafrechtliche Verantwortung von Organen und Vertretern; Absatz 3 stellt klar, dass die Norm auch bei Pflichten greift, die an die GF-Stellung anknuepfen (z. B. Paragraph 15a InsO, Paragraph 84 GmbHG).
 
-### BGH-Kriterien fuer faktische GF-Stellung
+### BGH-Kriterien für faktische GF-Stellung
 
-BGH staendige Rspr. verlangt fuer die Annahme einer faktischen GF-Stellung:
+BGH staendige Rspr. verlangt für die Annahme einer faktischen GF-Stellung:
 
-- **Tatsaechliche Ausuebung** von GF-Funktionen in **erheblicher Anzahl**,
+- **Tatsaechliche Ausübung** von GF-Funktionen in **erheblicher Anzahl**,
 - **Dauerhaftigkeit** (nicht nur sporadische Einzeleingriffe),
 - **Eigenstaendige Entscheidungsmacht** (nicht nur Beratung),
-- **Aussenwirkung** (Vertretung gegenueber Banken, Lieferanten, Behoerden),
+- **Aussenwirkung** (Vertretung gegenueber Banken, Lieferanten, Behörden),
 - **Hauptsaechliches Tragen** der Unternehmensgeschicke.
 
 Indizien: Eigenstaendige Bankvollmachten, Vertragsabschluesse im Aussenverhaeltnis, Lohnzahlungsanordnungen, Steuererklaerungspflichten.
@@ -417,7 +417,7 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant X hat keine faktische Geschaeftsfuehrungsfunktion bei der Y GmbH ausgeuebt. Er hatte weder Bankvollmacht (Anlage SS 1) noch Vertragsabschlussvollmacht (Vertraege Anlage SS 2 zeigen Unterschrift des eingetragenen GF Z). Seine Rolle beschraenkte sich auf beratende Hinweise; eigenstaendige Entscheidungen hat er nicht getroffen. Die BGH-Kriterien fuer faktische GF-Stellung (staendige Rspr.) sind nicht erfuellt."
+**Schutzschrift-Snippet:** "Mein Mandant X hat keine faktische Geschaeftsfuehrungsfunktion bei der Y GmbH ausgeuebt. Er hatte weder Bankvollmacht (Anlage SS 1) noch Vertragsabschlussvollmacht (Vertraege Anlage SS 2 zeigen Unterschrift des eingetragenen GF Z). Seine Rolle beschraenkte sich auf beratende Hinweise; eigenstaendige Entscheidungen hat er nicht getroffen. Die BGH-Kriterien für faktische GF-Stellung (staendige Rspr.) sind nicht erfuellt."
 
 **Einlassungs-Snippet:** "Ich habe Herrn Z (eingetragenen GF) bei einzelnen Geschaeftsentscheidungen beraten, aber alle Entscheidungen wurden von Herrn Z getroffen und umgesetzt. Bankvollmachten hatte ich nicht; mit Lieferanten habe ich nicht verhandelt; die Mitarbeitervertraege haben Herr Z unterschrieben. Wenn ich beratend taetig war, dann immer im Auftrag der Gesellschaft, nicht als deren Vertreter."
 
@@ -433,7 +433,7 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 
 ## Quellen Stand 06/2026
 
-- Paragraph 14 StGB Handeln fuer andere im Wortlaut (gesetze-im-internet.de).
+- Paragraph 14 StGB Handeln für andere im Wortlaut (gesetze-im-internet.de).
 - Paragraph 25 StGB Taeterschaft, Mittaeterschaft.
 - Paragraph 26 StGB Anstiftung.
 - Paragraph 15a InsO; Paragraph 84 GmbHG; Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG.
@@ -441,7 +441,6 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 - BGH staendige Rspr. zur strafrechtlichen Erfassung faktischer GF nach Paragraph 14 Abs 3 StGB.
 - BAG staendige Rspr. zur Arbeitnehmerstellung bei faktischer GF.
 - Paragraph 43 GmbHG Sorgfaltspflicht des GF (auch faktischer).
-
 
 ## Qualitäts-Hardening
 
@@ -453,38 +452,38 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 
 ## 5. `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb`
 
-**Fokus:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft fuer und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen.
+**Fokus:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft für und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen.
 
 # Falschbeurkundung im Amt Paragraph 348 StGB und mittelbare Falschbeurkundung Paragraph 271 StGB
 
 ## Worum geht es
 
-Die beiden Paragraphen schuetzen die **Beweiskraft oeffentlicher Urkunden** vor inhaltlicher Verfaelschung:
+Die beiden Paragraphen schuetzen die **Beweiskraft öffentlicher Urkunden** vor inhaltlicher Verfaelschung:
 
-- **Paragraph 348 StGB** sanktioniert den Amtstraeger, der innerhalb seiner Zustaendigkeit eine rechtserhebliche Tatsache als wahr beurkundet, obwohl sie falsch ist.
+- **Paragraph 348 StGB** sanktioniert den Amtstraeger, der innerhalb seiner Zuständigkeit eine rechtserhebliche Tatsache als wahr beurkundet, obwohl sie falsch ist.
 - **Paragraph 271 StGB** sanktioniert den Privaten, der einen Amtstraeger zur Falschbeurkundung veranlasst.
 
-Geschuetztes Rechtsgut: Beweiskraft oeffentlicher Urkunden fuer und gegen jedermann (Paragraph 415 ZPO). Anwendungsfaelle: Standesbeamte beurkundet falsches Geburtsdatum; Notar beurkundet falsches Verkaufsdatum; Auslaenderbehoerde beurkundet falsche Identitaet; Schiffsregister beurkundet falschen Schiffseigner; Grundbuchamt beurkundet falsche Eigentuemerangabe.
+Geschuetztes Rechtsgut: Beweiskraft öffentlicher Urkunden für und gegen jedermann (Paragraph 415 ZPO). Anwendungsfaelle: Standesbeamte beurkundet falsches Geburtsdatum; Notar beurkundet falsches Verkaufsdatum; Auslaenderbehoerde beurkundet falsche Identitaet; Schiffsregister beurkundet falschen Schiffseigner; Grundbuchamt beurkundet falsche Eigentuemerangabe.
 
 ## Tatbestand und Auslegung
 
 ### Paragraph 348 StGB Falschbeurkundung im Amt
 
-Tauglicher Taeter ist nur ein **Amtstraeger**, der **zur Aufnahme oeffentlicher Urkunden befugt** ist. Erfasst sind:
+Tauglicher Taeter ist nur ein **Amtstraeger**, der **zur Aufnahme öffentlicher Urkunden befugt** ist. Erfasst sind:
 
 - Standesbeamte (Geburten, Eheschliessungen, Sterbefaelle).
 - Notare bei der Beurkundung (Paragraph 39 BeurkG).
 - Grundbuchbeamte und Rechtspfleger im Grundbuchverfahren.
 - Beamte der Kfz-Zulassungsstellen.
-- Sonstige Beamte mit oeffentlicher Beurkundungsbefugnis.
+- Sonstige Beamte mit öffentlicher Beurkundungsbefugnis.
 
-**Tatbestand:** Innerhalb seiner Zustaendigkeit eine rechtserhebliche Tatsache, fuer die die Urkunde Beweis fuehren soll, **als wahr beurkunden, obwohl sie falsch ist**, oder beurkundete Tatsachen verfaelschen.
+**Tatbestand:** Innerhalb seiner Zuständigkeit eine rechtserhebliche Tatsache, für die die Urkunde Beweis fuehren soll, **als wahr beurkunden, obwohl sie falsch ist**, oder beurkundete Tatsachen verfaelschen.
 
 **Rechtserheblich** sind Tatsachen, die im Rechtsverkehr Bedeutung haben — Identitaet, Datum, Eigentumsverhaeltnis, Personenstand.
 
 ### Paragraph 271 StGB mittelbare Falschbeurkundung
 
-Tauglicher Taeter ist jeder, der einen Amtstraeger zu Falschbeurkundung veranlasst. **Tatbestand:** Erwirken, dass Erklaerungen, Verhandlungen oder Tatsachen in oeffentlichen Urkunden als abgegeben, geschehen oder vorhanden erklaert werden, **die nicht abgegeben, nicht geschehen oder nicht vorhanden sind**.
+Tauglicher Taeter ist jeder, der einen Amtstraeger zu Falschbeurkundung veranlasst. **Tatbestand:** Erwirken, dass Erklaerungen, Verhandlungen oder Tatsachen in öffentlichen Urkunden als abgegeben, geschehen oder vorhanden erklaert werden, **die nicht abgegeben, nicht geschehen oder nicht vorhanden sind**.
 
 Der Amtstraeger selbst handelt **gutglaeubig** — er glaubt der falschen Angabe und beurkundet sie. Der Private taeuscht den Amtstraeger.
 
@@ -492,7 +491,7 @@ Anwendungsfaelle: falsche Eheschliessungsabsicht, Scheinehe zur Aufenthaltserlan
 
 ### "Oeffentliche Urkunde"
 
-Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde innerhalb ihrer Amtsbefugnisse oder einer mit oeffentlichem Glauben versehenen Person in der vorgeschriebenen Form aufgenommen ist. Beispiele: Geburtsurkunde, Notarsurkunde, Grundbuchauszug, KFZ-Schein, Reisepass.
+Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde innerhalb ihrer Amtsbefugnisse oder einer mit öffentlichem Glauben versehenen Person in der vorgeschriebenen Form aufgenommen ist. Beispiele: Geburtsurkunde, Notarsurkunde, Grundbuchauszug, KFZ-Schein, Reisepass.
 
 ### Subjektiver Tatbestand
 
@@ -503,7 +502,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde inne
 ## Praktikertipps Verteidigung
 
 - **Rechtserheblichkeit pruefen.** Nicht jede Tatsache in einer Urkunde ist rechtserheblich. Nebenangaben (z. B. Beruf, Adresse zur Information) sind oft nicht erfasst.
-- **Beweiskraft der Urkunde pruefen.** Hat die Urkunde Beweiskraft "fuer und gegen jedermann" (Paragraph 415 ZPO)? Wenn nur "fuer den Beschluss" — keine oeffentliche Urkunde im Sinne von Paragraph 348 StGB.
+- **Beweiskraft der Urkunde pruefen.** Hat die Urkunde Beweiskraft "für und gegen jedermann" (Paragraph 415 ZPO)? Wenn nur "für den Beschluss" — keine öffentliche Urkunde im Sinne von Paragraph 348 StGB.
 - **Vorsatzausschluss durch Beratung.** Bei komplexen Beurkundungsfragen (z. B. Auslandssachverhalt) kann Vorsatz ueber Falschheit fehlen.
 - **Paragraph 271 StGB nur bei aktivem Veranlassen.** Wenn der Amtstraeger selbst Fehler macht und Mandant nicht aktiv getaeuscht hat — Paragraph 271 StGB nicht erfuellt.
 - **Konkurrenz zu Paragraph 267 StGB Urkundenfaelschung pruefen.** Faelschung **echter** Urkunde ist Paragraph 267 StGB; Beurkundung **falschen Inhalts** ist Paragraph 348 / 271 StGB. Wichtige Abgrenzung.
@@ -513,7 +512,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde inne
 
 | Pfad A Bestreiten Falschheit | Pfad B Bestreiten Vorsatz / Rechtserheblichkeit | Empfehlung |
 | --- | --- | --- |
-| Bei objektiv klarer Diskrepanz zwischen Urkunde und Realitaet riskant. | Beratung dokumentieren; "Nebentatsache nicht rechtserheblich" als Verteidigungslinie. | Pfad B haeufiger erfolgreich. Bei Scheinehe-Verfahren oft schwer zu fuehren, weil Beweismaterial der Behoerde umfangreich ist. |
+| Bei objektiv klarer Diskrepanz zwischen Urkunde und Realitaet riskant. | Beratung dokumentieren; "Nebentatsache nicht rechtserheblich" als Verteidigungslinie. | Pfad B haeufiger erfolgreich. Bei Scheinehe-Verfahren oft schwer zu fuehren, weil Beweismaterial der Behörde umfangreich ist. |
 
 ## Konkurrenzen
 
@@ -528,16 +527,16 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde inne
 - **Strafrahmen Paragraph 348 Abs 1 StGB:** Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - **Strafrahmen Paragraph 271 Abs 1 StGB:** Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 - **Strafrahmen Paragraph 271 Abs 2 StGB schwerer Fall:** Freiheitsstrafe von 3 Monaten bis zu 5 Jahren bei Bereicherungsabsicht.
-- **Disziplinarrechtliche Folgen** fuer Amtstraeger; Entfernung aus dem Dienst moeglich.
+- **Disziplinarrechtliche Folgen** für Amtstraeger; Entfernung aus dem Dienst moeglich.
 - **Berufsverbot Paragraph 70 StGB** moeglich.
 - BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
 - Bei Auslaender: Ausweisungsrisiko bei Aufenthaltserschleichung.
 
 ## Mustertexte
 
-**Schriftsatz-Snippet (Rechtserheblichkeit):** "Die im Anklageschriftsatz monierten Angaben in der Notarsurkunde betrafen lediglich die Anschrift eines Vertragspartners. Diese Anschrift war fuer den Vertragsschluss nicht rechtserheblich; die Urkunde sollte Beweis nur fuer den Vertragsinhalt und nicht fuer die Anschrift fuehren. Eine rechtserhebliche Tatsache im Sinne von Paragraph 348 StGB ist damit nicht betroffen."
+**Schriftsatz-Snippet (Rechtserheblichkeit):** "Die im Anklageschriftsatz monierten Angaben in der Notarsurkunde betrafen lediglich die Anschrift eines Vertragspartners. Diese Anschrift war für den Vertragsschluss nicht rechtserheblich; die Urkunde sollte Beweis nur für den Vertragsinhalt und nicht für die Anschrift fuehren. Eine rechtserhebliche Tatsache im Sinne von Paragraph 348 StGB ist damit nicht betroffen."
 
-**Schriftsatz-Snippet (Scheinehe-Bestreiten):** "Mein Mandant und seine Ehefrau haben am DD.MM.JJJJ unter Anwesenheit beider Familien geheiratet. Eine Scheinehe lag nicht vor. Die spaetere Trennung im Mai JJJJ ist auf persoenliche Differenzen zurueckzufuehren und stellt kein Indiz fuer eine zur Zeit der Eheschliessung fehlende Eheabsicht dar."
+**Schriftsatz-Snippet (Scheinehe-Bestreiten):** "Mein Mandant und seine Ehefrau haben am DD.MM.JJJJ unter Anwesenheit beider Familien geheiratet. Eine Scheinehe lag nicht vor. Die spaetere Trennung im Mai JJJJ ist auf persönliche Differenzen zurueckzufuehren und stellt kein Indiz für eine zur Zeit der Eheschliessung fehlende Eheabsicht dar."
 
 **Einlassungs-Snippet:** "Ich habe gegenueber dem Standesbeamten am DD.MM.JJJJ angegeben, dass ich am 12.05.1985 geboren wurde. Mein tatsaechliches Geburtsdatum laut Geburtsregister meines Heimatlandes lautet 12.05.1986. Ich habe dieses Datum erst spaeter durch Vergleich mit meiner Geburtsurkunde bemerkt. Eine vorsaetzliche Falschangabe lag nicht vor."
 
@@ -550,14 +549,13 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde inne
 
 - Paragraph 348 StGB Falschbeurkundung im Amt im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 271 StGB mittelbare Falschbeurkundung im Wortlaut.
-- Paragraph 415 ZPO Beweiskraft oeffentlicher Urkunden.
-- Paragraph 39 BeurkG Beurkundungsgesetz fuer Notare.
+- Paragraph 415 ZPO Beweiskraft öffentlicher Urkunden.
+- Paragraph 39 BeurkG Beurkundungsgesetz für Notare.
 - Paragraph 267 StGB Urkundenfaelschung — Abgrenzung.
 - BGH staendige Rspr. zur Rechtserheblichkeit der beurkundeten Tatsachen.
-- BGH staendige Rspr. zur Beweiskraft oeffentlicher Urkunden im Strafrecht.
+- BGH staendige Rspr. zur Beweiskraft öffentlicher Urkunden im Strafrecht.
 - BGH-Linie zur Scheinehe und Aufenthaltserschleichung.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -596,7 +594,7 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 - **Waffe** ist ein Gegenstand, der nach seiner objektiven Beschaffenheit dazu bestimmt ist, erhebliche Verletzungen herbeizufuehren (Schusswaffe, Stichwaffe, Hieb- und Stosswaffe).
 - **Gefaehrliches Werkzeug** ist ein Gegenstand, der nach seiner objektiven Beschaffenheit und Art seiner konkreten Verwendung im Einzelfall geeignet ist, erhebliche Koerperverletzungen herbeizufuehren. Beispiele: Glasflasche (beim Schlag), schwerer Stiefel (beim Tritt), Schluesselbund, PKW. **Streitig:** Koerperteile (Faust, Fuss); nach staendiger BGH-Rechtsprechung **kein** gefaehrliches Werkzeug.
 
-**Nr. 3 – Hinterlistiger Ueberfall:** Ueberraschender Angriff unter planmaessiger Verbergung der Angriffsabsicht. Vorbedachte Verbergung der Absicht. Reines Plueckichkeitsmoment reicht nicht; erforderlich ist eine besondere Tueckigkeit (Lauerstellung, Maske, falsche Identitaet).
+**Nr. 3 – Hinterlistiger Ueberfall:** Ueberraschender Angriff unter planmäßiger Verbergung der Angriffsabsicht. Vorbedachte Verbergung der Absicht. Reines Plueckichkeitsmoment reicht nicht; erforderlich ist eine besondere Tueckigkeit (Lauerstellung, Maske, falsche Identitaet).
 
 **Nr. 4 – Mit einem anderen Beteiligten gemeinschaftlich:** Mindestens zwei am Tatort anwesende Personen wirken zusammen. Es genuegt nach staendiger BGH-Rechtsprechung, dass die anderen Beteiligten am Tatort anwesend sind und das Opfer dadurch in Furcht versetzt wird – auch Anstiftungs- oder Beihilfehandlungen sind moeglich. Nicht erforderlich, dass alle Beteiligten Mittaeter iSd § 25 Abs. 2 StGB sind.
 
@@ -668,7 +666,7 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 
 ## 7. `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
 
-**Fokus:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo fuer Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
+**Fokus:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo für Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
 
 # Geldwaesche § 261 StGB Reform 2021 (All-Crimes-Approach)
 
@@ -695,7 +693,7 @@ Wer einen Gegenstand, der aus einer **rechtswidrigen Tat** herruehrt:
 1. **verbirgt,**
 2. die **Aufklaerung** ueber dessen Herkunft oder das Auffinden, den Verfall, die Einziehung oder die Sicherstellung **vereitelt oder gefaehrdet,**
 3. **sich oder einem Dritten verschafft** oder
-4. **verwahrt oder fuer sich oder einen Dritten verwendet,** wenn er die Herkunft des Gegenstandes zu dem Zeitpunkt gekannt hat, in dem er ihn erlangt hat.
+4. **verwahrt oder für sich oder einen Dritten verwendet,** wenn er die Herkunft des Gegenstandes zu dem Zeitpunkt gekannt hat, in dem er ihn erlangt hat.
 
 ### Schluesselbegriffe
 
@@ -722,7 +720,7 @@ Wer einen Gegenstand, der aus einer **rechtswidrigen Tat** herruehrt:
 
 Wer freiwillig:
 
-1. die Tat bei der zustaendigen Behoerde anzeigt oder freiwillig veranlasst, dass die Anzeige erstattet wird, und
+1. die Tat bei der zuständigen Behörde anzeigt oder freiwillig veranlasst, dass die Anzeige erstattet wird, und
 2. soweit moeglich die Sicherstellung des Gegenstandes bewirkt,
 
 wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil bereits entdeckt war.
@@ -772,11 +770,11 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 ### Bestreiten Vorsatz bei Money Mule
 
-"Der Mandant hat nach Auslobung der Stellenanzeige 'Finanzagent' auf der Plattform [Name] tatsaechlich angenommen, eine legitime Inkassofunktion fuer ein internationales Unternehmen zu uebernehmen. Aus dem WhatsApp-Chat mit dem Auftraggeber (Anlage K-2) ist erkennbar, dass professionell wirkende Begruendungen fuer die Zwischenkonto-Loesung angegeben wurden. Eine Kenntnis der Herkunft aus rechtswidriger Tat im Sinne von § 261 Abs. 1 StGB lag nicht vor; ein leichtfertiges Verhalten im Sinne von § 261 Abs. 6 StGB ist nicht ohne weiteres anzunehmen."
+"Der Mandant hat nach Auslobung der Stellenanzeige 'Finanzagent' auf der Plattform [Name] tatsaechlich angenommen, eine legitime Inkassofunktion für ein internationales Unternehmen zu uebernehmen. Aus dem WhatsApp-Chat mit dem Auftraggeber (Anlage K-2) ist erkennbar, dass professionell wirkende Begruendungen für die Zwischenkonto-Loesung angegeben wurden. Eine Kenntnis der Herkunft aus rechtswidriger Tat im Sinne von § 261 Abs. 1 StGB lag nicht vor; ein leichtfertiges Verhalten im Sinne von § 261 Abs. 6 StGB ist nicht ohne weiteres anzunehmen."
 
 ### Antrag § 261 Abs. 9 StGB
 
-"Es wird Antrag auf Anerkennung der taetigen Reue gemaess § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zustaendigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermoegenswerte in Hoehe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
+"Es wird Antrag auf Anerkennung der taetigen Reue gemaess § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zuständigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermoegenswerte in Hoehe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
 
 ## Querverweise
 
@@ -798,17 +796,17 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 ## 8. `strafrecht-spezial-geschgehg-23-strafvorschriften`
 
-**Fokus:** Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschaeftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing.
+**Fokus:** Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschäftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing.
 
 # Strafvorschriften des Geschaeftsgeheimnisgesetzes nach Paragraph 23 GeschGehG
 
 ## Worum geht es
 
-Paragraph 23 GeschGehG ersetzt seit 26.04.2019 den frueheren Paragraph 17 UWG (Geheimnisverrat). Das Geschaeftsgeheimnisgesetz setzt die EU-Richtlinie 2016/943 um. Anwendungsfaelle: ehemaliger Mitarbeiter nimmt Kundendatei oder Quellcode zum neuen Arbeitgeber mit, IT-Insider-Datenklau, Industriespionage durch Wettbewerber, unrechtmaessige Veroeffentlichung von Produktentwicklungen, kommerzielle Verwertung gestohlener Geschaeftsstrategien.
+Paragraph 23 GeschGehG ersetzt seit 26.04.2019 den frueheren Paragraph 17 UWG (Geheimnisverrat). Das Geschaeftsgeheimnisgesetz setzt die EU-Richtlinie 2016/943 um. Anwendungsfaelle: ehemaliger Mitarbeiter nimmt Kundendatei oder Quellcode zum neuen Arbeitgeber mit, IT-Insider-Datenklau, Industriespionage durch Wettbewerber, unrechtmäßige Veroeffentlichung von Produktentwicklungen, kommerzielle Verwertung gestohlener Geschaeftsstrategien.
 
 Strafrahmen Paragraph 23 Abs 1 bis 4 GeschGehG: bis drei Jahre Freiheitsstrafe oder Geldstrafe (Grundtatbestand). Qualifikation Paragraph 23 Abs 4 GeschGehG (gewerbsmaessig, im Auftrag eines fremden Staates oder bei besonders schwerwiegenden Faellen): bis fuenf Jahre Freiheitsstrafe (Wortlaut bitte verifizieren — die Qualifikationen sind in mehrere Absaetze gegliedert).
 
-Antragsdelikt grundsaetzlich (Paragraph 23 Abs 7 GeschGehG analog der UrhG-Systematik), Ausnahme besonderes oeffentliches Interesse. **Verifizieren** vor konkreter Anwendung.
+Antragsdelikt grundsaetzlich (Paragraph 23 Abs 7 GeschGehG analog der UrhG-Systematik), Ausnahme besonderes öffentliches Interesse. **Verifizieren** vor konkreter Anwendung.
 
 ## Tatbestand und Geltungsbereich
 
@@ -821,8 +819,8 @@ Tatobjekt ist das Geschaeftsgeheimnis nach Paragraph 2 Nr 1 GeschGehG. Drei kumu
 Praxiswichtig: Das Merkmal der "angemessenen Geheimhaltungsmassnahmen" ist die neue Huerde gegenueber dem frueheren Paragraph 17 UWG. Wer keine Schutzmassnahmen organisiert, hat strafrechtlich kein Geschaeftsgeheimnis (BGH staendige Rspr. zum Geschaeftsgeheimnisbegriff bestaetigt).
 
 Tathandlungen Paragraph 23 Abs 1 GeschGehG:
-- **Erlangen** des Geschaeftsgeheimnisses durch unbefugten Zugriff, Aneignung von Tragern (Datentraeger, Dokumente), Beobachtung, Vermessung, Kopie.
-- **Nutzen** des Geschaeftsgeheimnisses (Verwertung im eigenen oder fremden Geschaeftsbetrieb).
+- **Erlangen** des Geschäftsgeheimnisses durch unbefugten Zugriff, Aneignung von Tragern (Datentraeger, Dokumente), Beobachtung, Vermessung, Kopie.
+- **Nutzen** des Geschäftsgeheimnisses (Verwertung im eigenen oder fremden Geschaeftsbetrieb).
 - **Offenlegen** an Dritte (Mitteilung, Veroeffentlichung).
 
 Subjektiv Vorsatz, mindestens dolus eventualis. Vorsatz muss umfassen: dass es sich um ein Geschaeftsgeheimnis handelt, dass keine Berechtigung zur Nutzung besteht, dass der Schutzbereich der angemessenen Geheimhaltungsmassnahmen reicht.
@@ -831,18 +829,18 @@ Erlaubte Handlungen Paragraph 5 GeschGehG: Whistleblowing zur Aufdeckung rechtsw
 
 ## Strafantrag und Antragsbefugnis
 
-Paragraph 23 Abs 7 GeschGehG (Verifikation noetig — der genaue Absatz fuer die Antragsdeliktqualifikation kann variieren): Die Tat wird grundsaetzlich nur auf Antrag verfolgt; Ausnahme: besonderes oeffentliches Interesse durch StA bejaht. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter.
+Paragraph 23 Abs 7 GeschGehG (Verifikation noetig — der genaue Absatz für die Antragsdeliktqualifikation kann variieren): Die Tat wird grundsaetzlich nur auf Antrag verfolgt; Ausnahme: besonderes öffentliches Interesse durch StA bejaht. Antragsfrist Paragraph 77b StGB drei Monate ab Kenntnis von Tat und Taeter.
 
-Antragsberechtigt: Inhaber des Geschaeftsgeheimnisses (Paragraph 2 Nr 2 GeschGehG). Bei juristischen Personen Vertretungsorgan. Bei Konzernstrukturen: Konzernobergesellschaft oder die operative Gesellschaft, die das Geheimnis kontrolliert.
+Antragsberechtigt: Inhaber des Geschäftsgeheimnisses (Paragraph 2 Nr 2 GeschGehG). Bei juristischen Personen Vertretungsorgan. Bei Konzernstrukturen: Konzernobergesellschaft oder die operative Gesellschaft, die das Geheimnis kontrolliert.
 
 Praxis: Strafanzeige durch betroffenes Unternehmen wird haeufig parallel zu zivilrechtlichen Massnahmen (einstweilige Verfuegung Paragraph 6 GeschGehG, Unterlassungsklage Paragraph 6 GeschGehG, Schadensersatzklage Paragraph 10 GeschGehG) gestellt. Beweissicherung durch Strafverfahren (Beschlagnahme von Datentraegern) ist oft entscheidend.
 
 ## Praktikertipps der Verteidigung
 
 - **Angemessene Geheimhaltungsmassnahmen bestreiten.** Pruefen, ob Inhaber tatsaechlich vertragliche NDAs hatte, technische Zugangsbeschraenkungen (Passwortschutz, Zwei-Faktor), organisatorische Massnahmen (Need-to-know-Prinzip, abgeschlossene Aktenraeume), Vertraulichkeitskennzeichnung. Fehlen dieser Massnahmen entkraeftet den Geheimnisbegriff. Vor Gericht eidesstattliche Versicherung des frueheren Mitarbeiters zu den real gelebten Schutzmassnahmen einbringen.
-- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Wenn Mandant die Information zur Aufdeckung rechtswidriger Handlungen oder zur Wahrung berechtigter oeffentlicher Interessen offenlegte, ist Tat gerechtfertigt. HinSchG (Hinweisgeberschutzgesetz) seit 2023 schaerfere Vorgaben fuer interne Meldewege; vorrangige interne Meldung pruefen.
+- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Wenn Mandant die Information zur Aufdeckung rechtswidriger Handlungen oder zur Wahrung berechtigter öffentlicher Interessen offenlegte, ist Tat gerechtfertigt. HinSchG (Hinweisgeberschutzgesetz) seit 2023 schaerfere Vorgaben für interne Meldewege; vorrangige interne Meldung pruefen.
 - **Allgemein bekannt geworden.** Wenn das Geheimnis zwischenzeitlich oeffentlich wurde (z. B. durch Branchenpublikation), entfaellt der Schutz; spaetere Verwertung ist dann nicht mehr strafbar.
-- **Mitnahme von Erfahrungswissen.** BGH staendige Rspr. (auch zu Paragraph 17 UWG aF) hat Erfahrungswissen, Kunden- und Marktkenntnisse, die ein Arbeitnehmer im Laufe seiner Taetigkeit gewinnt, von Geschaeftsgeheimnissen abgegrenzt. Bei Kundenkontakten ohne mitgenommene Datei-Kopie eher kein Geschaeftsgeheimnis im Sinne des Paragraph 2 Nr 1 GeschGehG.
+- **Mitnahme von Erfahrungswissen.** BGH staendige Rspr. (auch zu Paragraph 17 UWG aF) hat Erfahrungswissen, Kunden- und Marktkenntnisse, die ein Arbeitnehmer im Laufe seiner Taetigkeit gewinnt, von Geschäftsgeheimnissen abgegrenzt. Bei Kundenkontakten ohne mitgenommene Datei-Kopie eher kein Geschaeftsgeheimnis im Sinne des Paragraph 2 Nr 1 GeschGehG.
 - **Beweisproblem digitale Spuren.** IT-forensische Auswertung der Datentraeger des Mandanten ist Standard; Verteidigung sollte fruehzeitig eigene IT-Forensik beauftragen, Geraete-Image sichern, parallel zur Beschlagnahme.
 
 ## Trade-off-Matrix
@@ -871,7 +869,7 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 ## Mustertexte
 
-**Strafantrag-Snippet:** "Namens und mit Vollmacht der X GmbH, Inhaberin des Geschaeftsgeheimnisses 'Y-Produktionsverfahren', stelle ich gemaess Paragraph 23 Abs 7 GeschGehG iVm Paragraph 158 StPO Strafanzeige und Strafantrag wegen unbefugten Erlangens und Nutzens eines Geschaeftsgeheimnisses (Paragraph 23 Abs 1 GeschGehG). Die Mandantin hat angemessene Geheimhaltungsmassnahmen getroffen: vertragliche NDA mit allen Mitarbeitern (Anlage K1), technische Zugriffsbeschraenkung mit Need-to-know-Prinzip (Anlage K2), schriftliche Vertraulichkeitskennzeichnung des betreffenden Dokuments (Anlage K3). Kenntnis von Tat und Taeter wurde am DD.MM.JJJJ erlangt; die Frist nach Paragraph 77b StGB ist gewahrt."
+**Strafantrag-Snippet:** "Namens und mit Vollmacht der X GmbH, Inhaberin des Geschäftsgeheimnisses 'Y-Produktionsverfahren', stelle ich gemaess Paragraph 23 Abs 7 GeschGehG iVm Paragraph 158 StPO Strafanzeige und Strafantrag wegen unbefugten Erlangens und Nutzens eines Geschäftsgeheimnisses (Paragraph 23 Abs 1 GeschGehG). Die Mandantin hat angemessene Geheimhaltungsmassnahmen getroffen: vertragliche NDA mit allen Mitarbeitern (Anlage K1), technische Zugriffsbeschraenkung mit Need-to-know-Prinzip (Anlage K2), schriftliche Vertraulichkeitskennzeichnung des betreffenden Dokuments (Anlage K3). Kenntnis von Tat und Taeter wurde am DD.MM.JJJJ erlangt; die Frist nach Paragraph 77b StGB ist gewahrt."
 
 **Schutzschrift-Snippet:** "Die streitgegenstaendliche Information ist nicht als Geschaeftsgeheimnis im Sinne von Paragraph 2 Nr 1 GeschGehG zu qualifizieren. Die Mandantin hat keine angemessenen Geheimhaltungsmassnahmen getroffen: Die Datei lag im allgemein zugaenglichen Netzwerkverzeichnis ohne Passwortschutz; eine schriftliche Vertraulichkeitskennzeichnung war nicht angebracht; die NDA-Pflichten waren nur muendlich erteilt und nicht durchgesetzt. Die Information ist daher nicht durch Paragraph 23 GeschGehG geschuetzt. Beweisangebot: Zeugenvernehmung des frueheren IT-Administrators X."
 
@@ -890,7 +888,7 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 - Paragraphen 2, 3, 5, 6, 10, 16 GeschGehG (Begriffe, Whistleblower-Schutz, zivilrechtliche Anspruche, Geheimnisschutz im Verfahren).
 - Richtlinie (EU) 2016/943 zum Schutz vertraulichen Know-hows.
 - Paragraph 17 UWG aF (aufgehoben mit Wirkung 26.04.2019, Altfaelle).
-- HinSchG (Hinweisgeberschutzgesetz) Stand 2023 fuer Whistleblower-Konstellationen.
+- HinSchG (Hinweisgeberschutzgesetz) Stand 2023 für Whistleblower-Konstellationen.
 - Paragraph 77b StGB Antragsfrist; Paragraph 153a StPO Einstellung gegen Auflage.
 - BGH staendige Rspr. zum Geschaeftsgeheimnisbegriff nach Paragraph 17 UWG aF; Uebertragung auf GeschGehG erfolgt schrittweise.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz.
@@ -905,7 +903,7 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 Paragraph 283c StGB schuetzt die Glaeubigergesamtheit vor selektiver Befriedigung einzelner Glaeubiger nach Eintritt der Zahlungsunfaehigkeit. Anwendungsfall: GF zahlt die letzten EUR 50.000 auf das Konto an die Hausbank zurueck, an die er persoenlich gebuergt hat, statt die Mittel zur Insolvenzantragstellung zu reservieren. Oder er zahlt vorrangig den Lieferanten, der ihm in der naechsten Saison wieder beliefern soll.
 
-Die Norm ist die strafrechtliche Spiegelung der insolvenzrechtlichen Anfechtungstatbestaende Paragraph 130 InsO (kongruente Deckung) und Paragraph 131 InsO (inkongruente Deckung). Strafrechtlich pruefbar ist nicht jede Anfechtungslage, aber jede Anfechtungslage ist Pruefanker fuer eine moegliche strafrechtliche Glaeubigerbeguenstigung.
+Die Norm ist die strafrechtliche Spiegelung der insolvenzrechtlichen Anfechtungstatbestaende Paragraph 130 InsO (kongruente Deckung) und Paragraph 131 InsO (inkongruente Deckung). Strafrechtlich pruefbar ist nicht jede Anfechtungslage, aber jede Anfechtungslage ist Pruefanker für eine moegliche strafrechtliche Glaeubigerbeguenstigung.
 
 ## Tatbestand im Detail
 
@@ -948,14 +946,14 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 
 - **Paragraph 283c StGB hinter Paragraph 283 StGB.** Wenn die Beguenstigung gleichzeitig Beiseiteschaffen iSv Paragraph 283 Abs 1 Nr 1 StGB ist (z. B. an Verwandten), geht 283 StGB als schwereres Delikt vor.
 - **Paragraph 283c StGB neben Paragraph 266 StGB Untreue.** Bei Selbstbeguenstigung ueber den GF kann Untreue parallel verwirklicht sein (Vermoegensbetreuungspflicht gegenueber GmbH verletzt).
-- **Paragraph 283c StGB neben Paragraph 15b InsO Zahlungsverbot.** Strafrechtlich kein Verstoss gegen Paragraph 15b InsO, aber der zivilrechtliche Erstattungsanspruch gegen den GF kann Indiz fuer die Beguenstigung sein.
+- **Paragraph 283c StGB neben Paragraph 15b InsO Zahlungsverbot.** Strafrechtlich kein Verstoss gegen Paragraph 15b InsO, aber der zivilrechtliche Erstattungsanspruch gegen den GF kann Indiz für die Beguenstigung sein.
 - **Paragraph 283c StGB und Paragraph 130, 131 InsO.** Anfechtungstatbestaende sind nicht deckungsgleich mit Strafbarkeit, aber stark indiziell.
 
 ## Strafzumessung und Folgen
 
 - Strafrahmen Paragraph 283c Abs 1 StGB: Freiheitsstrafe bis 2 Jahre oder Geldstrafe.
 - Versuch milder nach Paragraph 23 Abs 2, Paragraph 49 Abs 1 StGB.
-- **Einziehung Paragraph 73 StGB**: gegenueber dem beguenstigten Glaeubiger. Wertersatz Paragraph 73c StGB.
+- **Einziehung Paragraph 73 StGB**: gegenueber dem begünstigten Glaeubiger. Wertersatz Paragraph 73c StGB.
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre als GF.
 - BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen.
 - Parallele zivilrechtliche Haftung gegenueber dem Insolvenzverwalter aus Paragraph 130 ff. InsO und Paragraph 826 BGB.
@@ -984,7 +982,6 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 - Paragraph 39 Abs 1 Nr 5 InsO Nachrang Gesellschafterdarlehen.
 - BGH staendige Rspr. zur Beguenstigungsabsicht (direkter Vorsatz erforderlich, nicht Eventualvorsatz).
 - BGH staendige Rspr. zur Inkongruenz bei Zahlung vor Faelligkeit.
-
 
 ## Qualitäts-Hardening
 
@@ -1090,11 +1087,10 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 - Paragraph 8 Abs 2 GmbHG Versicherung des GF bei Anmeldung.
 - Paragraph 19 Abs 4 GmbHG verdeckte Sacheinlage.
 - Paragraph 9a, 24 GmbHG Differenzhaftung.
-- Paragraph 49 Abs 3 GmbHG Pflicht zur Einberufung bei Verlust der Haelfte des Stammkapitals (Anknuepfung fuer Paragraph 82 Abs 1 Nr 2 GmbHG).
+- Paragraph 49 Abs 3 GmbHG Pflicht zur Einberufung bei Verlust der Haelfte des Stammkapitals (Anknuepfung für Paragraph 82 Abs 1 Nr 2 GmbHG).
 - Paragraph 320 HGB Auskunftspflicht gegenueber Abschlusspruefern.
 - Paragraph 331 HGB unrichtige Darstellung im Jahresabschluss.
 - BGH staendige Rspr. zur verdeckten Sacheinlage und Hin- und Herzahlen.
-
 
 ## Qualitäts-Hardening
 

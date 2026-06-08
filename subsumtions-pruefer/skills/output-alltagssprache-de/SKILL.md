@@ -1,6 +1,6 @@
 ---
 name: output-alltagssprache-de
-description: "Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behoerdenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen und Fachterminologie ohne Erklärung."
+description: "Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus: ohne Fachbegriffe oder mit Erklärung, für Mandanten, Betroffene oder Behördenmitarbeiter. Behaelt die Strukturierung bei, vermeidet aber Lateinismen und Fachterminologie ohne Erklärung."
 ---
 
 # Output: Alltagssprache (Deutsch)

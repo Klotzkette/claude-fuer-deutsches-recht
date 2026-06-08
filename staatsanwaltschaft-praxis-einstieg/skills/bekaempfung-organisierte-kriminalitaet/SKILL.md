@@ -6,15 +6,12 @@ description: "OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill f�
 # OK-Verfahren: Strukturermittlung ohne Tunnelblick
 
 ## Fachkern: OK-Verfahren: Strukturermittlung ohne Tunnelblick
-- **Spezialgegenstand:** OK-Verfahren: Strukturermittlung ohne Tunnelblick wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: OK-Verfahren: Strukturermittlung ohne Tunnelblick** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Tatkomplexe, Telekommunikation, Vertrauenspersonen, verdeckte Maßnahmen und Abschlussverfügung
 
@@ -40,6 +37,15 @@ Dieser Abschnitt bearbeitet **Fachkern: OK-Verfahren: Strukturermittlung ohne Tu
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 129 StGB (kriminelle Vereinigung)
+- § 129a StGB (terroristische Vereinigung)
+- §§ 100a-100c StPO (TKÜ, akustische Wohnraumüberwachung)
+- BVerfGE 109, 279
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

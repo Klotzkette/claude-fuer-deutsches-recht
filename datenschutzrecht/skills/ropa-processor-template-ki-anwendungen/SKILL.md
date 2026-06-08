@@ -7,25 +7,25 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 
 ## Arbeitsbereich
 
-**Ropa Processor Template KI Anwendungen** ordnet den Fall über die tragenden Prüffelder: Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Ropa Processor Template KI Anwendungen** ordnet den Fall über die tragenden Prüfungslinien: Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `ropa-en-processor-template` | Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendors with German clients. |
-| `ropa-fuer-ki-anwendungen-besonderheiten` | Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen fuer LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl. |
-| `ropa-konzernumlauf-und-multi-entity` | Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage fuer Master-RoPA und Entity-Anhaenge. |
+| `ropa-für-ki-anwendungen-besonderheiten` | Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl. |
+| `ropa-konzernumlauf-und-multi-entity` | Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Master-RoPA und Entity-Anhaenge. |
 | `spezial-auskunft-behoerden-gericht-und-registerweg` | Auskunft: Behörden-, Gerichts- oder Registerweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bdsg-tatbestand-beweis-und-belege` | Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `ropa-en-processor-template`
 
@@ -127,7 +127,6 @@ Version 1.1 – [change] – [date, author]
 - DSK Short Paper No. 13 "Processor Agreements" (Status 16 January 2018).
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (adopted 7 July 2021).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -136,11 +135,11 @@ Version 1.1 – [change] – [date, author]
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `ropa-fuer-ki-anwendungen-besonderheiten`
+## 2. `ropa-für-ki-anwendungen-besonderheiten`
 
-**Fokus:** Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen fuer LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl.
+**Fokus:** Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl.
 
-# RoPA fuer KI-Anwendungen – Besonderheiten
+# RoPA für KI-Anwendungen – Besonderheiten
 
 ## Zweck
 
@@ -148,7 +147,7 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 ## Wann dieses Modul hilft
 
-- Mandant fuehrt LLM-API (z. B. fuer interne Assistenten, Chatbots, Code-Generierung) ein.
+- Mandant fuehrt LLM-API (z. B. für interne Assistenten, Chatbots, Code-Generierung) ein.
 - HR setzt KI-Tools zur Vorauswahl ein.
 - Fachabteilung nutzt RAG-Architektur mit unternehmenseigenen Daten.
 - KI-Modelle werden auf personenbezogenen Daten **trainiert oder feinabgestimmt**.
@@ -180,18 +179,18 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 1. **KI-Inventur:** Welche KI-Funktionen sind im Einsatz? Anbieter, Modell, Hostingort.
 2. **Datentyp-Mapping:** Sind personenbezogene Daten in Eingaben, Trainingsdaten, Embeddings, Logs oder Outputs?
-3. **Rolle pruefen:** Verantwortlicher fuer welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
+3. **Rolle pruefen:** Verantwortlicher für welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
 4. **Rechtsgrundlage:** Art. 6 DSGVO; bei besonderen Datenkategorien Art. 9; bei Beschaeftigten § 26 BDSG; bei Web-Scraping kritisch zu pruefen.
 5. **Drittlandtransfer:** Hosting in USA/UK? DPF-Listing, SCC, TIA.
 6. **Art. 22 DSGVO:** Trifft das System Entscheidungen mit rechtlicher Wirkung?
 7. **DSFA:** typischerweise Pflicht; in RoPA verlinken.
 8. **TOM-Erweiterung:** Prompt-Filterung, Output-Filter, Logging-Limits, Model-Isolation, kein Training auf Mandantendaten.
 9. **KI-VO-Bezug:** Falls Hochrisiko, KI-VO-Dokumentation referenzieren.
-10. **Loeschfristen:** insbesondere fuer Prompt-Logs und Vector-Embeddings.
+10. **Loeschfristen:** insbesondere für Prompt-Logs und Vector-Embeddings.
 
 ## Mustertext / Template
 
-### Erweiterte RoPA-Zeilen fuer KI-Anwendungen
+### Erweiterte RoPA-Zeilen für KI-Anwendungen
 
 | Nr. | KI-Anwendung | Zweck | Rechtsgrundlage | Datenkategorien (Input/Training/Output) | Anbieter / Hosting | Drittland / Garantie | Art. 22 DSGVO einschlaegig? | DSFA-Verweis | KI-VO-Status | Spezifische TOMs | Loeschfristen Logs |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -207,7 +206,7 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 - Verbot Training-Opt-out durchsetzen (Auswahl entsprechender Tarife).
 - Modell-Isolation (kein Cross-Tenant-Training).
 - Logging-Limit; rollenbasierter Zugriff auf Logs.
-- Vector-Store-Verschluesselung at-rest; Loeschmechanismus fuer Embeddings.
+- Vector-Store-Verschluesselung at-rest; Loeschmechanismus für Embeddings.
 - Schulung Mitarbeiter zu Prompt-Hygiene.
 
 ## Typische Fehler
@@ -223,12 +222,12 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Basis.
-- `ropa-art-30-controller-deutsch-vorlage` fuer Grundvorlage.
-- `dsfa-erstellung` fuer Art. 35 DSGVO.
-- `mandantendaten-ki` (in `kanzleifuehrung-und-mandat` Plugin) fuer berufsrechtliche Seite.
-- `ki-vo-ai-act-pruefer` (in `ki-vo` Plugin) fuer KI-Verordnung.
-- `tia-template-deutsch-vollvorlage` fuer Transferpruefung.
+- `ropa-art-30-dsgvo-grundlagen` für Basis.
+- `ropa-art-30-controller-deutsch-vorlage` für Grundvorlage.
+- `dsfa-erstellung` für Art. 35 DSGVO.
+- `mandantendaten-ki` (in `kanzleifuehrung-und-mandat` Plugin) für berufsrechtliche Seite.
+- `ki-vo-ai-act-pruefer` (in `ki-vo` Plugin) für KI-Verordnung.
+- `tia-template-deutsch-vollvorlage` für Transferpruefung.
 
 ## Quellen Stand 06/2026
 
@@ -241,18 +240,18 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 ## 3. `ropa-konzernumlauf-und-multi-entity`
 
-**Fokus:** Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage fuer Master-RoPA und Entity-Anhaenge.
+**Fokus:** Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Master-RoPA und Entity-Anhaenge.
 
 # RoPA im Konzern und in Multi-Entity-Strukturen
 
 ## Zweck
 
-Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur fuer Master-RoPA mit Entity-Anhaengen.
+Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur für Master-RoPA mit Entity-Anhaengen.
 
 ## Wann dieses Modul hilft
 
 - Konzernweiter RoPA-Roll-out (Mutter- und Tochtergesellschaften).
-- Shared-Service-Center fuer HR, IT, Buchhaltung, Recht (typischerweise Processor-Konstellation).
+- Shared-Service-Center für HR, IT, Buchhaltung, Recht (typischerweise Processor-Konstellation).
 - Intercompany Data Transfer Agreements (IDTA, hier deutscher Begriff: konzerninterne Datentransfer-Vereinbarung).
 - Binding Corporate Rules (BCR) im Aufbau.
 - M&A-Due-Diligence (Datenschutz-DD).
@@ -278,7 +277,7 @@ Konzerninterne Uebermittlungen in Drittlaender unterliegen Art. 44 ff. DSGVO. Lo
 
 - BCR (Art. 47 DSGVO) – aufwendig, aber genehmigungsfaehig.
 - SCC (Beschluss (EU) 2021/914) zwischen den konzernzugehoerigen Stellen.
-- Angemessenheitsbeschluss (z. B. EU-US DPF fuer US-Tochter im DPF).
+- Angemessenheitsbeschluss (z. B. EU-US DPF für US-Tochter im DPF).
 
 ### EDSA-Leitlinien
 
@@ -287,8 +286,8 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 ## Ablauf / Checkliste
 
 1. **Strukturkarte:** Liste aller Konzerngesellschaften mit Sitz, Rechtsform, taetigem Personal, Datenkategorien.
-2. **Rollen-Mapping:** Wer ist fuer welchen Datenfluss Controller, Joint Controller oder Processor?
-3. **Master-RoPA:** zentrales Dokument fuer gruppenuebergreifende Prozesse (Konzern-HR, Konzern-CRM, Konzern-Compliance).
+2. **Rollen-Mapping:** Wer ist für welchen Datenfluss Controller, Joint Controller oder Processor?
+3. **Master-RoPA:** zentrales Dokument für gruppenuebergreifende Prozesse (Konzern-HR, Konzern-CRM, Konzern-Compliance).
 4. **Entity-Anhaenge:** pro Gesellschaft eigene Tabelle mit Spezifika.
 5. **Intercompany-Vertraege:** AVV oder Joint-Controllership-Vereinbarung verlinken.
 6. **BCR-Status:** wenn vorhanden, in jedem Entity-RoPA als Garantie referenzieren; sonst SCC.
@@ -302,7 +301,7 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 Konzern: [Mutter AG]
 Konzernweite DSB: [Name, Kontakt]
 Geltungsbereich: [Liste der Tochtergesellschaften, EU/EWR + Drittlaender]
-Konzerninterne Garantie: [BCR genehmigt YYYY-MM-DD durch Lead-Behoerde XY] oder [SCC-Rahmenvertrag YYYY]
+Konzerninterne Garantie: [BCR genehmigt YYYY-MM-DD durch Lead-Behörde XY] oder [SCC-Rahmenvertrag YYYY]
 Erstellt: [Datum]
 Letzte Aenderung: [Datum]
 Version: [v1.0]
@@ -349,11 +348,11 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Basis.
-- `avv-konzern-und-multi-party-konstellation` fuer Vertragsseite.
-- `avv-art-26-joint-controllership-deutsch` fuer Joint Controllership.
-- `bcr-binding-corporate-rules` (falls Skill existiert) fuer BCR-Verfahren.
-- `tia-template-deutsch-vollvorlage` fuer Transferpruefung.
+- `ropa-art-30-dsgvo-grundlagen` für Basis.
+- `avv-konzern-und-multi-party-konstellation` für Vertragsseite.
+- `avv-art-26-joint-controllership-deutsch` für Joint Controllership.
+- `bcr-binding-corporate-rules` (falls Skill existiert) für BCR-Verfahren.
+- `tia-template-deutsch-vollvorlage` für Transferpruefung.
 
 ## Quellen Stand 06/2026
 
@@ -362,7 +361,6 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (verabschiedet 07.07.2021).
 - EDPB Working Document on Approval Procedure for BCR (zuletzt aktualisiert 2022).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-
 
 ## Qualitäts-Hardening
 
@@ -379,11 +377,7 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 # Auskunft: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Auskunft: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Auskunft: Behörden-, Gerichts- oder Registerweg / auskunft behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -436,11 +430,7 @@ Bei unvollständiger Auskunft frühzeitig nachhaken und konkret benennen, was fe
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage / bdsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

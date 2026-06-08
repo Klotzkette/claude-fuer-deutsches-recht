@@ -5,7 +5,6 @@ description: "Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3
 
 # /tabellenreview-3d:vorlage-immobilien-portfolio
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

@@ -31,7 +31,7 @@ Sie brauchen Pflege. Die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. 
 - **Medizinischer Dienst (MD)**: Begutachtungsstelle (seit 2022, frueher MDK).
 - **Module**: 6 Bereiche der Begutachtung (Mobilitaet, Kognition etc.).
 - **Pflegeprotokoll**: Aufzeichnung der taeglichen Pflege.
-- **Pflegegeld**: Geld fuer pflegende Angehoerige.
+- **Pflegegeld**: Geld für pflegende Angehoerige.
 - **Pflegesachleistung**: Leistung durch ambulanten Pflegedienst.
 
 ## Rechtsgrundlagen
@@ -44,7 +44,7 @@ Sie brauchen Pflege. Die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. 
 - **§ 39 SGB XI** — Verhinderungspflege.
 - **§ 40 SGB XI** — Pflegehilfsmittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pflegegrad-System verstehen
 
@@ -142,7 +142,7 @@ Der MD bewertet mit [n] Punkten. Tatsaechlich brauche ich:
 - Beim Essen und Trinken [Minuten]
 - Bei der Mobilitaet [Minuten]
 
-Pflegeprotokoll fuer 14 Tage liegt bei (Anlage 1).
+Pflegeprotokoll für 14 Tage liegt bei (Anlage 1).
 
 Aerztliche Atteste:
 - Dr. [Name], Hausarzt, vom [Datum]
@@ -164,13 +164,13 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 - **Pflegeprotokoll ueber min. 14 Tage** — kuerzer wirkt schwach.
 - **MD heisst seit 2022 MD**, nicht mehr MDK.
 - **Aerztliche Atteste** mit konkreten Funktionsbeschreibungen.
-- **Hilfsmittel als Indikator** fuer Pflegebedarf.
+- **Hilfsmittel als Indikator** für Pflegebedarf.
 
 ## Typische Fehler
 
 - Pflegeprotokoll zu pauschal → Minuten genau
 - Aerztliche Atteste alt → aktuell halten
-- Begruendung pro Modul fehlt → Modul fuer Modul argumentieren
+- Begruendung pro Modul fehlt → Modul für Modul argumentieren
 - "Es geht mir schlechter" ohne konkreten Verlauf → konkret
 
 ## Querverweise

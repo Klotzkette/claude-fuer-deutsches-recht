@@ -17,11 +17,11 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 - §§ 305-310 BGB AGB-Recht.
 - P2B-Verordnung (EU) 2019/1150 Plattform-Business-Verordnung.
 - DSA-Verordnung (EU) 2022/2065.
-- DMA-Verordnung (EU) 2022/1925 fuer Gatekeeper.
+- DMA-Verordnung (EU) 2022/1925 für Gatekeeper.
 
 ## Plattform-AGB
 
-- App Store-AGB Apple: Provision 30 Prozent (15 Prozent fuer kleine Entwickler) — DMA-Pflicht zur Alternative.
+- App Store-AGB Apple: Provision 30 Prozent (15 Prozent für kleine Entwickler) — DMA-Pflicht zur Alternative.
 - Google Play-AGB: aehnlich, mit DMA-Pflicht.
 - Amazon Marketplace: Allgemeine Verkaufsbedingungen mit Sanktionen.
 
@@ -52,3 +52,32 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 
 - Klauselraster.
 - Beschwerde-/Klageentwurf.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 305 BGB (Einbeziehung von AGB)
+- § 305c BGB (überraschende und mehrdeutige Klauseln)
+- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
+- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
+- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
+- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
+- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
+- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
+- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
+- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
+
+### Leitentscheidungen
+
+- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
+- BGH I ZR 26/19 (Cookie-Banner als AGB)
+- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
+- BGH I ZR 196/19 (Verbandsklagebefugnis vzbv)
+- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
+
+### Anwendung im Skill
+
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.

@@ -18,9 +18,9 @@ Wenn Sie das Urteil gewonnen haben und der Schuldner nicht freiwillig zahlt, beg
 ## Fachbegriffe (kurz erklaert)
 
 - **Zwangsvollstreckung**: Staatliche Durchsetzung eines Titels gegen einen Schuldner.
-- **Gerichtsvollzieher**: Behoerden-Vertreter, der Pfaendungen vornimmt.
-- **Vollstreckungs-Gericht**: AG am Wohnort des Schuldners fuer Lohn- und Kontopfaendungen.
-- **Substitutionsagent**: Spezialisiertes Tool / Skill-Set fuer Vollstreckungs-Themen.
+- **Gerichtsvollzieher**: Behörden-Vertreter, der Pfaendungen vornimmt.
+- **Vollstreckungs-Gericht**: AG am Wohnort des Schuldners für Lohn- und Kontopfaendungen.
+- **Substitutionsagent**: Spezialisiertes Tool / Skill-Set für Vollstreckungs-Themen.
 
 ## Rechtsgrundlagen
 
@@ -29,7 +29,7 @@ Wenn Sie das Urteil gewonnen haben und der Schuldner nicht freiwillig zahlt, beg
 - **§§ 828–863 ZPO** — Pfaendung von Forderungen (Lohn-, Konto-Pfaendung).
 - **§§ 864 ff. ZPO** — Immobiliarvollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vorbereitung
 
@@ -74,7 +74,7 @@ Falls Sie sofort starten muessen:
 - Vollstreckungs-Akt einreichen.
 - Auftrag erteilen.
 
-Aber: Strategische Planung ist wichtig — und dafuer der Substitutionsagent.
+Aber: Strategische Planung ist wichtig — und dafür der Substitutionsagent.
 
 ### Schritt 6 — Kosten der Vollstreckung
 
@@ -102,7 +102,7 @@ Wenn Vollstreckung erfolglos:
 
 ## Worauf Sie besonders achten muessen
 
-- **Hier nur Querverweis** — Substitutionsagent fuer Vollstreckung nutzen.
+- **Hier nur Querverweis** — Substitutionsagent für Vollstreckung nutzen.
 - **Klausel und Zustellung** vor Vollstreckung Pflicht.
 - **Bonitaet** pruefen.
 
@@ -122,7 +122,6 @@ Wenn Vollstreckung erfolglos:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
-
 
 ## Qualitäts-Hardening
 

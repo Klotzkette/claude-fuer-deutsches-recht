@@ -43,7 +43,7 @@ description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklär
 
 ## Pflegegeld vs. Pflegesachleistung
 
-- Pflegegeld: direkte Zahlung an Pflegebeduerftige fuer Pflege durch Angehoerige.
+- Pflegegeld: direkte Zahlung an Pflegebeduerftige für Pflege durch Angehoerige.
 - Pflegesachleistung: Pflegedienst direkt von Pflegekasse bezahlt.
 - Kombinationsleistung: anteilige Mischung.
 

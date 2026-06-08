@@ -7,25 +7,25 @@ description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden be
 
 ## Arbeitsbereich
 
-**Untreue Schaden** ordnet den Fall über die tragenden Prüffelder: Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Untreue Schaden** ordnet den Fall über die tragenden Prüfungslinien: Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit` | Vermoegensschaden bei Paragraph 266 StGB Untreue. BGH-Stufenmodell und BVerfG-Vorgaben zur Bezifferbarkeit. Schadensgleiche Vermoegensgefaehrdung als Verfassungsfrage. Revisionsangriffe gegen unzureichende Schadensfeststellung. Sachverstaendigenbeweis und Bilanzierung im Strafverfahren. |
-| `strafrecht-spezial-verbandssanktionengesetz-stand-2026` | Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum fuer Compliance-Verantwortliche und Unternehmensleitung. |
+| `strafrecht-spezial-verbandssanktionengesetz-stand-2026` | Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung. |
 | `strafprozess-akteneinsicht-nachlieferungen-und-sonderbaende` | Akteneinsicht operativ steuern: Antrag, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, digitale Beweismittel, Asservate, Nachlieferungen, Opferdaten, Schwärzungen und Aktenvollständigkeit nach § 147 StPO kontrollieren. |
 | `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung` | Steuerhinterziehung nach Paragraph 370 AO. Vorsatztatbestand mit Verkuerzungserfolg. Drei Tathandlungen unrichtige Angaben pflichtwidriges Verschweigen Unterlassung. Schwellen besonders schwerer Fall Paragraph 370 III AO ab 50.000 Euro grosses Ausmass. Abgrenzung Paragraph 378 AO leichtfertige Verkuerzung als OWi. Verteidigung Vorsatz Verbotsirrtum Schaetzung. |
-| `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig` | Paragraph 370a AO historisch — gewerbsmaessige oder bandenmaessige Steuerhinterziehung; Tatbestand 2008 vom BVerfG fuer nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 370 III AO Regelbeispiele. Beweisrechtliche Relevanz fuer Altfaelle. |
+| `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig` | Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung; Tatbestand 2008 vom BVerfG für nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 370 III AO Regelbeispiele. Beweisrechtliche Relevanz für Altfaelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
 
@@ -100,7 +100,7 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 
 **Schutzschrift-Snippet:** "Das Sachverstaendigengutachten Anlage SS 1 (Wirtschaftspruefer X vom DD.MM.JJJJ) belegt, dass die behauptete Schadenshoehe der Anklage von EUR Y bilanziell nicht haltbar ist. Der korrekte Wertansatz unter Beruecksichtigung der Fortfuehrungspraemissen ergibt einen Schaden von hoechstens EUR Z. Die schadensgleiche Vermoegensgefaehrdung ist iSd BVerfG-Beschlusses vom 23.06.2010 (2 BvR 2559/08) nicht hinreichend beziffert."
 
-**Einlassungs-Snippet:** "Ich war der Auffassung, dass der gewaehrte Kredit durch die Sicherheiten Y und Z hinreichend abgesichert war. Das Risiko eines Ausfalls habe ich auf hoechstens 10 Prozent geschaetzt; eine vollstaendige Wertberichtigung hielt ich fuer ueberzogen."
+**Einlassungs-Snippet:** "Ich war der Auffassung, dass der gewaehrte Kredit durch die Sicherheiten Y und Z hinreichend abgesichert war. Das Risiko eines Ausfalls habe ich auf hoechstens 10 Prozent geschaetzt; eine vollstaendige Wertberichtigung hielt ich für ueberzogen."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Einholung eines Wirtschaftspruefergutachtens zu erheben zum Beweis der Tatsache, dass die Forderung gegen die Z GmbH im Zeitpunkt der Kreditvergabe nach IDW S 6-Standards mit nicht mehr als EUR W abzuschreiben gewesen waere."
 
@@ -121,7 +121,6 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 - IDW S 6-Standards zur Unternehmensbewertung.
 - IDW PS 800-Standards zur Schadensbewertung im Strafverfahren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -132,7 +131,7 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 
 ## 2. `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
-**Fokus:** Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum fuer Compliance-Verantwortliche und Unternehmensleitung.
+**Fokus:** Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung.
 
 # Verbandssanktionen Stand 06/2026
 
@@ -160,7 +159,7 @@ Spezial-Mandat: Beratung Unternehmen oder Unternehmensvertretern bei drohender V
 
 ### § 130 OWiG Aufsichtspflichtverletzung
 
-- Verletzung Aufsichtspflicht im Unternehmen als eigene OWi der Leitungsperson; ggf. Anknuepfungstat fuer § 30 OWiG.
+- Verletzung Aufsichtspflicht im Unternehmen als eigene OWi der Leitungsperson; ggf. Anknuepfungstat für § 30 OWiG.
 
 ### § 73 ff. StGB Einziehung
 
@@ -187,7 +186,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 
 **Stand 06/2026 nicht in Kraft.** Bei Beratung darauf hinweisen, dass eine Reform absehbar erfolgen koennte, aber derzeit § 30 OWiG plus Spezialgesetze gelten.
 
-## Praktikertipps fuer Verteidigung Verband
+## Praktikertipps für Verteidigung Verband
 
 - **Compliance-Defence dokumentieren.** Bei Anlasstat eines Mitarbeiters Verbandsverantwortung reduzieren durch Nachweis wirksamen Compliance-Programms (ISO 37301).
 - **Internal Investigations** durchfuehren — aber strikt trennen zwischen Verteidigung der Leitungsperson und Verband. BGH 27.07.2010 — 2 BvR 882/09 zu Anwaltsdurchsuchungen und BVerfG 27.06.2018 — 2 BvR 1287/17 (Jones-Day-Entscheidung) zur Beschlagnahmefaehigkeit Internal-Investigations-Unterlagen beachten; Aktenzeichen jeweils vor Verwendung verifizieren.
@@ -204,7 +203,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 | Internal Investigations mit voller Offenlegung | Bonusrahmen durch Kooperation | Hohe Kosten, Beschlagnahmerisiko |
 | Selbstanzeige fruehzeitig | Strafmilderung; ggf. § 153a StPO Einstellung gegen Auflage | Reputationsschaden |
 | Aktiver Sanktion-Vergleich (Settlement) | Planbar | Anerkennung Schuld |
-| Vollverteidigung Bestreiten | Ggf. Freispruch | Lange Verfahren, hohe Kosten, oeffentliche Aufmerksamkeit |
+| Vollverteidigung Bestreiten | Ggf. Freispruch | Lange Verfahren, hohe Kosten, öffentliche Aufmerksamkeit |
 
 ## Konkurrenzen und Parallelverfahren
 
@@ -321,7 +320,7 @@ Nicht reflexhaft vollständige Weitergabe an Mandant. Bei sensiblen Daten, Ansch
 
 ## Worum geht es
 
-Paragraph 370 AO ist das **zentrale Strafdelikt des deutschen Steuerstrafrechts**. Vorsaetzliches Verkuerzen oder Erlangen ungerechtfertigter Steuervorteile durch unrichtige Angaben, pflichtwidriges Verschweigen oder pflichtwidriges Unterlassen. Geschuetztes Rechtsgut: Steueraufkommen des Bundes, der Laender und der Gemeinden. Anders als bei Paragraph 263 StGB (Vermoegensschaden) genuegt die Verkuerzung; Bereicherungsabsicht ist nicht erforderlich.
+Paragraph 370 AO ist das **zentrale Strafdelikt des deutschen Steuerstrafrechts**. Vorsaetzliches Verkuerzen oder Erlangen ungerechtfertigter Steuervorteile durch unrichtige Angaben, pflichtwidriges Verschweigen oder pflichtwidriges Unterlassen. Geschuetztes Rechtsgut: Steueraufkommen des Bundes, der Länder und der Gemeinden. Anders als bei Paragraph 263 StGB (Vermoegensschaden) genuegt die Verkuerzung; Bereicherungsabsicht ist nicht erforderlich.
 
 Anwendungsfaelle: Schwarzgeld auf Schweizer Konto, Erloese nicht erklaert; Umsatzsteuer-Karussell; Scheinrechnungen zur Gewinnminderung; Unterlassen der Steuererklaerung trotz Pflicht; Manipulation von Kassen­einnahmen in der Gastronomie. **Paragraph 378 AO leichtfertige Steuerverkuerzung ist OWi und kein Strafrecht — das ist die zentrale Abgrenzung.**
 
@@ -339,7 +338,7 @@ Verkuerzung ist Eintritt eines Steuerschadens: Steuer wurde nicht oder nicht in 
 
 ### Subjektiver Tatbestand: Vorsatz
 
-Vorsatz hinsichtlich aller Merkmale. Mindestens dolus eventualis: Mandant haelt es ernsthaft fuer moeglich, dass die Angaben unrichtig sind, und nimmt das in Kauf. **Paragraph 378 AO (leichtfertige Steuerverkuerzung)** ist die OWi-Variante bei grober Fahrlaessigkeit; **bei einfacher Fahrlaessigkeit ist die Tat straflos.**
+Vorsatz hinsichtlich aller Merkmale. Mindestens dolus eventualis: Mandant haelt es ernsthaft für moeglich, dass die Angaben unrichtig sind, und nimmt das in Kauf. **Paragraph 378 AO (leichtfertige Steuerverkuerzung)** ist die OWi-Variante bei grober Fahrlaessigkeit; **bei einfacher Fahrlaessigkeit ist die Tat straflos.**
 
 ### Absatz 2 Vollendung
 
@@ -347,20 +346,20 @@ Vollendung mit Eintritt der Verkuerzung. Bei Veranlagungssteuern (ESt, KSt, USt-
 
 ### Absatz 3 besonders schwerer Fall
 
-Regelbeispiele: Verkuerzung in **grossem Ausmass** (Schwelle ab 50.000 Euro Verkuerzungsbetrag je Tat nach BGH staendige Rspr.); Bandentat; gewerbliche oder bandenmaessige Begehung; Missbrauch von Amtsstellung. Strafrahmen 6 Monate bis 10 Jahre.
+Regelbeispiele: Verkuerzung in **grossem Ausmass** (Schwelle ab 50.000 Euro Verkuerzungsbetrag je Tat nach BGH staendige Rspr.); Bandentat; gewerbliche oder bandenmäßige Begehung; Missbrauch von Amtsstellung. Strafrahmen 6 Monate bis 10 Jahre.
 
 ### Absatz 4 Verkuerzung — Definitionsnorm
 
 Steuer ist verkuerzt, wenn sie nicht, nicht in voller Hoehe oder nicht rechtzeitig festgesetzt worden ist.
 
-### Absatz 6 Verjaehrung
+### Absatz 6 Verjährung
 
 Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders schwerer Fall ab 50.000 Euro); sonst 5 Jahre (Paragraph 78 StGB). Steuerrechtliche Festsetzungsverjaehrung getrennt davon (Paragraph 169 AO).
 
 ## Praktikertipps Verteidigung
 
 - **Vorsatz konsequent angreifen.** Bei komplexen Steuersachverhalten (z. B. internationale Strukturen, Umsatzsteuer-Karussell-Vorstrukturen) ist Vorsatz schwer zu beweisen. Steuerberatung dokumentieren — fuehrt regelmaessig zu Vorsatzausschluss oder Strafmilderung.
-- **Verkuerzungsbetrag bestreiten.** Selbstaendige Schaetzung der Finanzbehoerde nach Paragraph 162 AO ist nicht bindend fuer das Strafgericht. Substantiierte Gegenrechnung, ggf. mit Steuerberater. Bei Schwarzeinnahmen-Vorwuerfen: Gegenrechnungen zu Betriebsausgaben, USt-Vorsteuerabzug.
+- **Verkuerzungsbetrag bestreiten.** Selbstaendige Schaetzung der Finanzbehoerde nach Paragraph 162 AO ist nicht bindend für das Strafgericht. Substantiierte Gegenrechnung, ggf. mit Steuerberater. Bei Schwarzeinnahmen-Vorwuerfen: Gegenrechnungen zu Betriebsausgaben, USt-Vorsteuerabzug.
 - **Schwelle "grosses Ausmass" 50.000 Euro je Tat.** Tat im prozessualen Sinn = ein Veranlagungszeitraum, eine Steuerart. Bei mehreren Veranlagungszeitraeumen Summierung nicht zulaessig (BGH-Rspr.); Strafverfolgung muss je Tat schwelle pruefen.
 - **Selbstanzeige Paragraph 371 AO** als zentrale Verteidigungsstrategie — siehe Fachmodul. Strenge Voraussetzungen seit Reform 2015.
 - **Korrekturanzeige Paragraph 153 AO.** Nachtraegliche Berichtigung pflichtwidriger Angaben ist gesetzliche Pflicht; bei rechtzeitiger Korrektur tritt Vorsatzausschluss ein.
@@ -395,9 +394,9 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 
 **Einlassungs-Snippet (Vorsatzausschluss durch Steuerberatung):** "Ich habe meine Steuererklaerung durch den Steuerberater X erstellen lassen. Ich habe dem Steuerberater alle Unterlagen vollstaendig uebergeben und mich auf seine fachliche Beurteilung verlassen. Eine vorsaetzliche Verkuerzung lag nicht vor."
 
-**Selbstanzeige-Snippet:** "Hiermit erklaere ich vollstaendige strafbefreiende Selbstanzeige nach Paragraph 371 AO fuer die Einkommensteuer der Jahre 2018 bis 2024. In der Anlage finden Sie die berichtigten Erklaerungen sowie die Berechnung der Mehrsteuer in Hoehe von EUR X. Die Mehrsteuer einschliesslich Hinterziehungszinsen werde ich binnen 30 Tagen ueberweisen."
+**Selbstanzeige-Snippet:** "Hiermit erklaere ich vollstaendige strafbefreiende Selbstanzeige nach Paragraph 371 AO für die Einkommensteuer der Jahre 2018 bis 2024. In der Anlage finden Sie die berichtigten Erklaerungen sowie die Berechnung der Mehrsteuer in Hoehe von EUR X. Die Mehrsteuer einschliesslich Hinterziehungszinsen werde ich binnen 30 Tagen ueberweisen."
 
-**Schriftsatz-Snippet (Schaetzung bestreiten):** "Die im Anklageschriftsatz aufgefuehrte Schaetzung der Finanzbehoerde ist nicht bindend fuer das Strafgericht. Eine substantiierte Gegenrechnung ergibt einen Verkuerzungsbetrag von hoechstens EUR Y; damit liegt kein grosses Ausmass nach Paragraph 370 III Nr 1 AO vor."
+**Schriftsatz-Snippet (Schaetzung bestreiten):** "Die im Anklageschriftsatz aufgefuehrte Schaetzung der Finanzbehoerde ist nicht bindend für das Strafgericht. Eine substantiierte Gegenrechnung ergibt einen Verkuerzungsbetrag von hoechstens EUR Y; damit liegt kein grosses Ausmass nach Paragraph 370 III Nr 1 AO vor."
 
 ## Querverweise
 
@@ -410,14 +409,13 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 
 - Paragraph 370 AO im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 378 AO leichtfertige Steuerverkuerzung als OWi.
-- Paragraph 162 AO Schaetzung (nicht bindend fuer Strafgericht).
+- Paragraph 162 AO Schaetzung (nicht bindend für Strafgericht).
 - Paragraph 153 AO Berichtigungspflicht.
 - Paragraph 169 AO Festsetzungsverjaehrung; Paragraph 235 AO Hinterziehungszinsen.
 - BGH staendige Rspr. zur Schwelle "grosses Ausmass" ab 50.000 Euro je Tat.
 - BGH staendige Rspr. zur Strafzumessung bei Steuerhinterziehung.
 - BGH staendige Rspr. zum Vorsatzerfordernis bei komplexen Steuersachverhalten.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -429,15 +427,15 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 
 ## 5. `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig`
 
-**Fokus:** Paragraph 370a AO historisch — gewerbsmaessige oder bandenmaessige Steuerhinterziehung; Tatbestand 2008 vom BVerfG fuer nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 370 III AO Regelbeispiele. Beweisrechtliche Relevanz fuer Altfaelle.
+**Fokus:** Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung; Tatbestand 2008 vom BVerfG für nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 370 III AO Regelbeispiele. Beweisrechtliche Relevanz für Altfaelle.
 
-# Paragraph 370a AO historisch — gewerbsmaessige oder bandenmaessige Steuerhinterziehung
+# Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung
 
 ## Worum geht es
 
-Paragraph 370a AO war von 2001 bis 2008 ein eigenstaendiger Tatbestand der **gewerbsmaessigen oder bandenmaessigen Steuerhinterziehung** mit erhoehtem Strafrahmen. Er wurde **vom Bundesverfassungsgericht in seiner Entscheidung vom 23. Juni 2010 wegen Unbestimmtheit des Begriffs grossen Ausmasses als verfassungswidrig erklaert** und ist nicht mehr in Kraft (BVerfG staendige Linie zur Bestimmtheit Art 103 II GG).
+Paragraph 370a AO war von 2001 bis 2008 ein eigenstaendiger Tatbestand der **gewerbsmäßigen oder bandenmäßigen Steuerhinterziehung** mit erhoehtem Strafrahmen. Er wurde **vom Bundesverfassungsgericht in seiner Entscheidung vom 23. Juni 2010 wegen Unbestimmtheit des Begriffs grossen Ausmasses als verfassungswidrig erklaert** und ist nicht mehr in Kraft (BVerfG staendige Linie zur Bestimmtheit Art 103 II GG).
 
-**Wichtig: Dieser Skill ist als historische Dokumentation zu verstehen.** Aktuelle Verfahren wegen gewerbsmaessiger oder bandenmaessiger Steuerhinterziehung verlaufen ueber **Paragraph 370 Abs 3 AO** (besonders schwerer Fall mit Regelbeispielen). Bei Altfaellen, die noch in einem laufenden Strafverfahren stehen oder bei Verjaehrungsfragen relevant sein koennen, ist die historische Norm zu beruecksichtigen.
+**Wichtig: Dieser Skill ist als historische Dokumentation zu verstehen.** Aktuelle Verfahren wegen gewerbsmäßiger oder bandenmäßiger Steuerhinterziehung verlaufen ueber **Paragraph 370 Abs 3 AO** (besonders schwerer Fall mit Regelbeispielen). Bei Altfaellen, die noch in einem laufenden Strafverfahren stehen oder bei Verjährungsfragen relevant sein koennen, ist die historische Norm zu beruecksichtigen.
 
 ## Tatbestand und Auslegung historisch
 
@@ -459,7 +457,7 @@ Der Gesetzgeber hat die Qualifikationsmerkmale in Paragraph 370 Abs 3 AO als **R
 
 - Nummer 1 Verkuerzung **in grossem Ausmass** (BGH staendige Rspr.: ab 50.000 Euro je Tat).
 - Nummer 2 Missbrauch von Amtsstellung oder Stellung als Amtstraeger.
-- Nummer 3 bandenmaessige Verkuerzung von USt oder Verbrauchsteuern.
+- Nummer 3 bandenmäßige Verkuerzung von USt oder Verbrauchsteuern.
 - Nummer 4 Verwendung nachgemachter Belege.
 - Nummer 5 Verkuerzung als Mitglied einer Bande.
 
@@ -467,9 +465,9 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 
 ## Praktikertipps Verteidigung
 
-- **Altfaelle aus 2001 bis 2010 pruefen.** Wenn Verfahren noch laeuft oder Verjaehrungsfragen offen sind: Paragraph 370a AO ist nicht mehr anwendbar; Anklage muss auf Paragraph 370 Abs 3 AO umgestellt werden.
+- **Altfaelle aus 2001 bis 2010 pruefen.** Wenn Verfahren noch laeuft oder Verjährungsfragen offen sind: Paragraph 370a AO ist nicht mehr anwendbar; Anklage muss auf Paragraph 370 Abs 3 AO umgestellt werden.
 - **Konversion in Paragraph 370 Abs 3 AO.** Bei Verfahren, die ursprueglich auf Paragraph 370a AO gestuetzt waren: Pruefen, ob die Tatbestandsmerkmale auch nach Paragraph 370 Abs 3 AO erfuellt sind. Beweisanforderung mitunter veraendert.
-- **Verjaehrungsstreit.** Steuerstrafverjaehrung 15 Jahre bei besonders schwerem Fall, sonst 5 Jahre. Wenn Tat unter Paragraph 370a AO (Mindestfreiheitsstrafe 1 Jahr) qualifiziert war, gilt nun Paragraph 370 Abs 3 AO; Verjaehrungsfrist bleibt 15 Jahre.
+- **Verjährungsstreit.** Steuerstrafverjaehrung 15 Jahre bei besonders schwerem Fall, sonst 5 Jahre. Wenn Tat unter Paragraph 370a AO (Mindestfreiheitsstrafe 1 Jahr) qualifiziert war, gilt nun Paragraph 370 Abs 3 AO; Verjährungsfrist bleibt 15 Jahre.
 - **Strafhoehe vergleichen.** Frueher Mindestfreiheitsstrafe 1 Jahr (Paragraph 370a AO); heute mindestens 6 Monate (Paragraph 370 Abs 3 AO).
 - **Bei Hinweis auf Paragraph 370a AO in alten Akten:** Beweisverwertungsverbote pruefen; ggf. Verfahrensruege.
 
@@ -477,7 +475,7 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 
 | Pfad A Beruhen auf historischer Nichtigkeit | Pfad B Konversion in Paragraph 370 Abs 3 AO akzeptieren | Empfehlung |
 | --- | --- | --- |
-| Argumentationsvorteil bei Altfaellen mit Zustellungs-Streit; rein verfahrensrechtlich. | Wenn Tatbestandsmerkmale Paragraph 370 Abs 3 AO erfuellt sind: Strafrahmen-Wechsel oft ohne Auswirkung. | Bei Verteidigung in Altfaellen Pfad A zunaechst pruefen; haeufig nur formaler Vorteil, der zur Konversion fuehrt. Inhaltlich Schwerpunkt auf Schwelle "grosses Ausmass" oder bandenmaessige Begehung. |
+| Argumentationsvorteil bei Altfaellen mit Zustellungs-Streit; rein verfahrensrechtlich. | Wenn Tatbestandsmerkmale Paragraph 370 Abs 3 AO erfuellt sind: Strafrahmen-Wechsel oft ohne Auswirkung. | Bei Verteidigung in Altfaellen Pfad A zunaechst pruefen; haeufig nur formaler Vorteil, der zur Konversion fuehrt. Inhaltlich Schwerpunkt auf Schwelle "grosses Ausmass" oder bandenmäßige Begehung. |
 
 ## Konkurrenzen historisch
 
@@ -488,14 +486,14 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 
 - **Historischer Strafrahmen Paragraph 370a AO:** Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 - **Aktueller Strafrahmen Paragraph 370 Abs 3 AO:** Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
-- **Verjaehrung 15 Jahre** in Faellen des Paragraph 370 Abs 3 AO (Paragraph 376 Abs 1 AO).
+- **Verjährung 15 Jahre** in Faellen des Paragraph 370 Abs 3 AO (Paragraph 376 Abs 1 AO).
 - **Einziehung Paragraph 73 StGB** bleibt einschlaegig.
 - **Berufsverbot** moeglich.
 - BZRG-Eintrag bei Geldstrafe ueber 90 Tagessaetzen.
 
 ## Mustertexte
 
-**Schriftsatz-Snippet (Altfall Paragraph 370a AO):** "Die Anklage stuetzt sich auf Paragraph 370a AO. Diese Norm wurde durch das Bundesverfassungsgericht in der Entscheidung vom 23. Juni 2010 fuer verfassungswidrig erklaert und ist nicht mehr anwendbar. Es ist daher zu pruefen, ob die Tatbestandsmerkmale auch unter Paragraph 370 Abs 3 AO erfuellt sind."
+**Schriftsatz-Snippet (Altfall Paragraph 370a AO):** "Die Anklage stuetzt sich auf Paragraph 370a AO. Diese Norm wurde durch das Bundesverfassungsgericht in der Entscheidung vom 23. Juni 2010 für verfassungswidrig erklaert und ist nicht mehr anwendbar. Es ist daher zu pruefen, ob die Tatbestandsmerkmale auch unter Paragraph 370 Abs 3 AO erfuellt sind."
 
 **Schriftsatz-Snippet (Schwelle grosses Ausmass):** "Eine Verkuerzung in grossem Ausmass nach Paragraph 370 Abs 3 Satz 2 Nr 1 AO liegt nach BGH staendige Rspr. erst ab einem Verkuerzungsbetrag von 50.000 Euro je Tat vor. Im vorliegenden Fall wurde diese Schwelle in keiner Einzeltat erreicht. Eine Aggregation ueber mehrere Veranlagungszeitraeume ist unzulaessig."
 
@@ -514,6 +512,6 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 - Paragraph 370 Abs 3 AO mit Regelbeispielen als Nachfolgeregelung.
 - BGH staendige Rspr. zur Schwelle "grosses Ausmass" ab 50.000 Euro je Tat.
 - BGH staendige Rspr. zur Bandenabrede (Mindestens drei Personen, Mindestens drei Taten).
-- Paragraph 376 AO Verjaehrung im Steuerstrafrecht.
+- Paragraph 376 AO Verjährung im Steuerstrafrecht.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).

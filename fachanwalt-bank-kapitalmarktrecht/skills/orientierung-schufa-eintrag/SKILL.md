@@ -1,29 +1,29 @@
 ---
 name: orientierung-schufa-eintrag
-description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüffeld für fachanwalt bank kapitalmarktrecht schufa. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Orientierung Schufa Eintrag
 
 ## Arbeitsbereich
 
-**Orientierung Schufa Eintrag** ordnet den Fall über die tragenden Prüffelder: Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüffeld für fachanwalt bank kapitalmarktrecht schufa. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Orientierung Schufa Eintrag** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Prüffeld für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Prüffeld für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bank- und Kapitalmarktrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-orientierung`
 
@@ -97,7 +97,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
 
 - **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
-- **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins fuer Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
+- **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins für Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
 - **BGH XI ZR 553/19** 2024 — Stärkung der Rechte von Darlehensnehmern bei Altforderungen (Volltext und Datum vor Versand verifizieren). Quelle: juris.bundesgerichtshof.de
 
 ### EuGH-Linien
@@ -132,7 +132,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag`
 
-**Fokus:** Prüffeld für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # SCHUFA-Eintrag
 
@@ -200,7 +200,7 @@ Der Eintrag ist rechtswidrig:
 Wir fordern Loeschung innerhalb der Monatsfrist des Art. 12 Abs. 3
 DSGVO sowie Bestaetigung gegenueber dieser Kanzlei.
 
-Andernfalls werden wir Beschwerde nach Art. 77 DSGVO bei der zustaendigen
+Andernfalls werden wir Beschwerde nach Art. 77 DSGVO bei der zuständigen
 Aufsichtsbehoerde einreichen und gerichtliche Loeschung sowie
 Schadensersatz nach Art. 82 DSGVO geltend machen.
 
@@ -215,13 +215,13 @@ Mit freundlichen Gruessen
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`
 
-**Fokus:** Prüffeld für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # SCHUFA-Löschungsanspruch
 
 ## Zweck
 
-Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Löschung, Schadensersatz.
+Mandate von Verbrauchern mit unrechtmäßigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Löschung, Schadensersatz.
 
 ## 1) Eingangs-Abfrage
 

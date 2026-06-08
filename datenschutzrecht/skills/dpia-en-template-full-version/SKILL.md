@@ -186,7 +186,7 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — German full template
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risk methodology
 - `datenschutzrecht/skills/dpia-en-summary-for-management/SKILL.md` — English management summary
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — International transfers
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — International transfers
 - `references/zitierweise.md` — Citation rules
 
 ## Sources as of 06/2026
@@ -197,7 +197,6 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - SDM V3.0 (German Standard Data Protection Model) — protection goals
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-
 
 ## Qualitäts-Hardening
 

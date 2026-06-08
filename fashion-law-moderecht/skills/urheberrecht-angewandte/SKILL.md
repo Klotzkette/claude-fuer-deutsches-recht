@@ -1,28 +1,28 @@
 ---
 name: urheberrecht-angewandte
-description: "Urheberrecht Angewandte im Fashion Law (Moderecht): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law Moderecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Urheberrecht Angewandte
 
 ## Arbeitsbereich
 
-**Urheberrecht Angewandte** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Urheberrecht Angewandte** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `urheberrecht-angewandte-kunst` | Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fashion Law (Moderecht) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
 - Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `urheberrecht-angewandte-kunst`
 

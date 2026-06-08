@@ -7,30 +7,30 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 
 ## Arbeitsbereich
 
-**Stgb Easy Social Media Amtsdelikte** ordnet den Fall über die tragenden Prüffelder: Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Stgb Easy Social Media Amtsdelikte** ordnet den Fall über die tragenden Prüfungslinien: Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie. |
 | `strafrecht-spezial-188-stgb-social-media-beweise` | Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge. |
-| `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt` | Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft. |
-| `strafrecht-spezial-amtstraegerbestechung-332-334-stgb` | Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo fuer Vergabekorruption Amtstraegerbestechung Richterbestechung. |
+| `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt` | Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt für Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausübung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft. |
+| `strafrecht-spezial-amtstraegerbestechung-332-334-stgb` | Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo für Vergabekorruption Amtstraegerbestechung Richterbestechung. |
 | `strafrecht-spezial-arzneimittelstrafrecht-amg-95-96` | Arzneimittelstrafrecht: § 95 sowie § 96 AMG Strafvorschriften, gefaelschte Arzneimittel, Inverkehrbringen ohne Zulassung. Abgrenzung zu BtMG, NpSG. § 95 AMG Doping-Bezug, AntiDopG. Praxis Online-Apotheken und Forensik. |
 | `strafrecht-spezial-aussagedelikte-153-stgb-uneidlich` | Falsche uneidliche Aussage nach Paragraph 153 StGB. Aussagedelikte vor Gericht und parlamentarischen Untersuchungsausschuessen. Zeugenstellung Vereidigung. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 154 StGB Meineid und Paragraph 156 StGB falsche Versicherung an Eides Statt. |
 | `strafrecht-spezial-aussagedelikte-154-stgb-meineid` | Meineid nach Paragraph 154 StGB. Vereidigung als Voraussetzung. Qualifikation der falschen uneidlichen Aussage Paragraph 153 StGB. Eidesformel und Versicherungsformeln. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 153 StGB Paragraph 156 StGB. |
-| `strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit` | Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen fuer Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung. |
+| `strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit` | Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen für Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung. |
 | `strafrecht-spezial-aussagepsy-identifizierung-wiedererkennen` | Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs. simultane Vorlage, Gegenueberstellung in vivo, Tatzeugenidentifizierung. Methodische Fehlerquellen (cross-race-effect, unconscious transference, weapon focus). Verteidigerwerkzeug gegen Identifizierungsfehler in Strafverfahren. |
 | `strafrecht-spezial-aussagepsy-mimik-emotionsbewertung` | Emotionsbewertung in der Vernehmung und Hauptverhandlung: Gefahren der Mimik-Lese, micro expressions, demeanor evidence. Wissenschaftlicher Forschungsstand zur Luegenerkennung durch Beobachtung. Verteidigerwerkzeug gegen die typische Tatrichter-Formel die Zeugin wirkte aufrichtig. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-188-stgb-easy-verteidigung`
 
@@ -40,7 +40,7 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn Mandantschaft wegen einer Äußerung über einen Bürgermeister, Gemeinderat, Abgeordneten, Minister, Kandidaten, Parteifunktionär oder sonst politisch sichtbaren Amtsträger angezeigt, angehört, per Strafbefehl belegt oder angeklagt wird. Der Skill soll Verteidigung schnell handlungsfähig machen: nicht zuerst eine Vorlesung, sondern Akte sortieren, Angriffspunkte finden, Schweigen sichern, Beweise sichern und eine schlanke Verteidigungslinie bauen.
+Anwendungsfall: mandantschaft wegen einer Äußerung über einen Bürgermeister, Gemeinderat, Abgeordneten, Minister, Kandidaten, Parteifunktionär oder sonst politisch sichtbaren Amtsträger angezeigt, angehört, per Strafbefehl belegt oder angeklagt wird. Der Skill soll Verteidigung schnell handlungsfähig machen: nicht zuerst eine Vorlesung, sondern Akte sortieren, Angriffspunkte finden, Schweigen sichern, Beweise sichern und eine schlanke Verteidigungslinie bauen.
 
 ## Sofortmodus
 
@@ -118,7 +118,7 @@ Erstelle immer:
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn der Tatvorwurf aus einem Post, Repost, Kommentar, Meme, Video, Story, Chat-Screenshot, Demonstrationsclip oder Blogbeitrag entsteht. In §-188-Verfahren ist der Screenshot oft die halbe Wahrheit: Verteidigung muss zeigen, was davor, danach, darunter und daneben stand.
+Anwendungsfall: der Tatvorwurf aus einem Post, Repost, Kommentar, Meme, Video, Story, Chat-Screenshot, Demonstrationsclip oder Blogbeitrag entsteht. In §-188-Verfahren ist der Screenshot oft die halbe Wahrheit: Verteidigung muss zeigen, was davor, danach, darunter und daneben stand.
 
 ## Sofort sichern
 
@@ -182,13 +182,13 @@ Je nach Verfahrensstand:
 
 ## 3. `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt`
 
-**Fokus:** Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft.
+**Fokus:** Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt für Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausübung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft.
 
 # Koerperverletzung im Amt nach Paragraph 340 StGB
 
 ## Worum geht es
 
-Paragraph 340 StGB ist die **Qualifikation der Koerperverletzung durch einen Amtstraeger** bei Ausuebung des Dienstes oder in Beziehung darauf. Sanktioniert wird damit insbesondere die Polizeigewalt jenseits der Notwehr- oder Festnahmegrenzen, Gewalt in Justizvollzugsanstalten, koerperliche Eingriffe von Beamten gegen Buerger. Geschuetztes Rechtsgut: die koerperliche Integritaet des Buergers und das besondere Vertrauen in die staatliche Gewaltausuebung.
+Paragraph 340 StGB ist die **Qualifikation der Koerperverletzung durch einen Amtstraeger** bei Ausübung des Dienstes oder in Beziehung darauf. Sanktioniert wird damit insbesondere die Polizeigewalt jenseits der Notwehr- oder Festnahmegrenzen, Gewalt in Justizvollzugsanstalten, koerperliche Eingriffe von Beamten gegen Buerger. Geschuetztes Rechtsgut: die koerperliche Integritaet des Buergers und das besondere Vertrauen in die staatliche Gewaltausuebung.
 
 Anwendungsfaelle: Polizeibeamter schlaegt mit Schlagstock auf bereits festgenommenen Beschuldigten; Justizvollzugsbeamter fixiert Gefangenen unverhaeltnismaessig fest; Polizist setzt Taser ein, obwohl andere Mittel zur Verfuegung standen; Beamter des Ordnungsdienstes verursacht Verletzung bei Personenkontrolle. Sehr praxisrelevantes Delikt in einer Polizeigewalt-Diskussion.
 
@@ -198,9 +198,9 @@ Anwendungsfaelle: Polizeibeamter schlaegt mit Schlagstock auf bereits festgenomm
 
 **Amtstraeger** im Sinne von Paragraph 11 Abs 1 Nr 2 StGB: Beamter, Richter, in einem sonstigen oeffentlich-rechtlichen Amtsverhaeltnis Stehender. **Polizeibeamte**, **Justizvollzugsbeamte**, **Zollbeamte**, **kommunale Ordnungskraefte** sind erfasst. Bei privaten Sicherheitsdiensten greift Paragraph 340 StGB nur, wenn sie hoheitliche Aufgaben uebernommen haben.
 
-### In Ausuebung des Dienstes oder in Beziehung darauf
+### In Ausübung des Dienstes oder in Beziehung darauf
 
-- **In Ausuebung des Dienstes:** Tat erfolgt im dienstlichen Handeln (z. B. Festnahme, Vernehmung, Personenkontrolle).
+- **In Ausübung des Dienstes:** Tat erfolgt im dienstlichen Handeln (z. B. Festnahme, Vernehmung, Personenkontrolle).
 - **In Beziehung auf den Dienst:** Tat steht in raeumlich-zeitlich-funktionalem Bezug zum Dienst (z. B. Polizeibeamter prallt mit Privatperson in seiner Wache zusammen).
 
 Privatkonflikte ohne Dienstbezug fallen nicht unter Paragraph 340 StGB; dann gilt Paragraph 223 ff. StGB normal.
@@ -230,7 +230,7 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 - **Verhaeltnismaessigkeit als Verteidigungslinie.** Verteidiger des Polizeibeamten: substantiierte Darstellung, dass mildere Mittel nicht zur Verfuegung standen oder ausgereizt waren. Verteidiger des Geschaedigten: Gegenrechnung der Verhaeltnismaessigkeit.
 - **Notwehr und Nothilfe Paragraph 32 StGB.** Bei Angriffen von Beschuldigten gegen Polizeibeamte greift Notwehr; Polizei darf sich gegen Angriffe wehren. Schwierige Abgrenzung zu Notwehrexzess Paragraph 33 StGB.
 - **Beweisaufnahme Videoaufnahme.** Polizeiliches Bodycam-Video oder Ueberwachungskameras zentral. Verteidiger sollte unverzueglich Sicherstellung beantragen.
-- **Zeugenbeistand fuer mitbeteiligte Beamte.** Aussagen kollegialer Beamten kritisch hinterfragen; Konfliktsituationen mit Aussagedelikten.
+- **Zeugenbeistand für mitbeteiligte Beamte.** Aussagen kollegialer Beamten kritisch hinterfragen; Konfliktsituationen mit Aussagedelikten.
 - **Disziplinarrecht parallel.** Disziplinarverfahren laeuft regelmaessig parallel; Verteidiger sollte beide Verfahren koordinieren.
 
 ## Trade-off-Matrix
@@ -276,13 +276,12 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 - Paragraph 340 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
 - Paragraph 223 ff. StGB Koerperverletzungsdelikte.
 - Paragraph 11 Abs 1 Nr 2 StGB Amtstraegerbegriff.
-- Polizeigesetze der Laender (z. B. Paragraph 19 ff. PolG NRW; Paragraph 36 ff. BPolG).
+- Polizeigesetze der Länder (z. B. Paragraph 19 ff. PolG NRW; Paragraph 36 ff. BPolG).
 - Paragraph 32 StGB Notwehr; Paragraph 34 StGB Notstand.
 - Paragraph 33 BeamtStG Disziplinarrecht.
-- BGH staendige Rspr. zur Abgrenzung zwischen rechtmaessiger Amtsausuebung und Koerperverletzung im Amt.
+- BGH staendige Rspr. zur Abgrenzung zwischen rechtmäßiger Amtsausuebung und Koerperverletzung im Amt.
 - BVerfG-Rechtsprechung zur Polizeigewalt und Verhaeltnismaessigkeit (Art 2 II GG).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -294,13 +293,13 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 
 ## 4. `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
 
-**Fokus:** Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo fuer Vergabekorruption Amtstraegerbestechung Richterbestechung.
+**Fokus:** Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo für Vergabekorruption Amtstraegerbestechung Richterbestechung.
 
 # Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Bestechung oder Bestechlichkeit eines Amtstraegers wegen **pflichtwidriger Diensthandlung**. Klassische Konstellationen: Korruption in Vergabeverfahren (Bau, IT, Beratung an Behoerde), Schmiergeld an Bauamtsleiter fuer Baugenehmigung trotz Versagensgrund, Bestechung Polizeibeamter zur Niederschlagung eines Verfahrens, Richterbestechung. Strafrahmen sechs Monate bis fuenf Jahre Freiheitsstrafe; bei Richtern ein bis zehn Jahre.
+Spezial-Mandat: Anklage Bestechung oder Bestechlichkeit eines Amtstraegers wegen **pflichtwidriger Diensthandlung**. Klassische Konstellationen: Korruption in Vergabeverfahren (Bau, IT, Beratung an Behörde), Schmiergeld an Bauamtsleiter für Baugenehmigung trotz Versagensgrund, Bestechung Polizeibeamter zur Niederschlagung eines Verfahrens, Richterbestechung. Strafrahmen sechs Monate bis fuenf Jahre Freiheitsstrafe; bei Richtern ein bis zehn Jahre.
 
 Abgrenzung zu §§ 331 / 333 StGB (Vorteilsannahme / Vorteilsgewaehrung — kein Pflichtwidrigkeitserfordernis; eigener Skill).
 
@@ -311,13 +310,13 @@ Abgrenzung zu §§ 331 / 333 StGB (Vorteilsannahme / Vorteilsgewaehrung — kein
 - Vorteilsbeschreibung (Geld, Sachgeschenke, kuenstlich erfundene Auftraege).
 - Korrespondenz, Zahlungsstroeme, ggf. Mittelsmaenner.
 - Compliance-Strukturen im Geberunternehmen.
-- Parallele Vergabeverfahren / Behoerdenakten.
+- Parallele Vergabeverfahren / Behördenakten.
 
 ## Tatbestand und Auslegung
 
 ### § 332 Abs. 1 StGB Bestechlichkeit (Nehmer)
 
-Wer als **Amtstraeger, Europaeischer Amtstraeger oder fuer den oeffentlichen Dienst besonders Verpflichteter** einen Vorteil fuer sich oder einen Dritten **als Gegenleistung dafuer fordert, sich versprechen laesst oder annimmt, dass er eine Diensthandlung vorgenommen hat oder kuenftig vornehme** und dadurch **seine Dienstpflichten verletzt hat oder verletzen wuerde**.
+Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteter** einen Vorteil für sich oder einen Dritten **als Gegenleistung dafür fordert, sich versprechen laesst oder annimmt, dass er eine Diensthandlung vorgenommen hat oder kuenftig vornehme** und dadurch **seine Dienstpflichten verletzt hat oder verletzen wuerde**.
 
 ### § 332 Abs. 2 StGB Bestechlichkeit Richter
 
@@ -344,10 +343,10 @@ Spiegelbildlich zu § 332 StGB.
 
 ## Praktikertipps Verteidigung
 
-- **Pflichtwidrigkeit angreifen.** War die Diensthandlung tatsaechlich pflichtwidrig oder im Ermessen? Behoerdenakten, Dienstanweisungen, Ermessensspielraeume sichten.
+- **Pflichtwidrigkeit angreifen.** War die Diensthandlung tatsaechlich pflichtwidrig oder im Ermessen? Behördenakten, Dienstanweisungen, Ermessensspielraeume sichten.
 - **Konnex Vorteil ↔ Handlung.** Bei zeitlich weit entfernten Zahlungen Bestreiten der konkreten Verknuepfung. Bei "Klimapflege" ohne konkrete Handlung Rueckfall auf §§ 331/333 StGB.
 - **Amtstraegereigenschaft.** Bei freien Beratern, Aussenbeamten, kommunalen Mandatstraegern Streit (BGH zum Amtstraegerbegriff § 11 StGB). Aktenzeichen vor Verwendung verifizieren.
-- **Vorsatz angreifen.** Bei komplexer Behoerdenstruktur kann der Geber die Pflichtwidrigkeit nicht erkennen.
+- **Vorsatz angreifen.** Bei komplexer Behördenstruktur kann der Geber die Pflichtwidrigkeit nicht erkennen.
 - **Aufklaerungshilfe § 46b StGB.** Bei Komplex-Korruption oft erhebliche Strafmilderung.
 - **Verstaendigung § 257c StPO** mit Bewaehrung bei Erstdelikt moeglich, wenn vollstaendige Wiedergutmachung.
 
@@ -355,17 +354,17 @@ Spiegelbildlich zu § 332 StGB.
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Bestreiten Pflichtwidrigkeit | §§ 331/333 statt §§ 332/334; deutlich niedrigerer Rahmen | Behoerden-Belege |
+| Bestreiten Pflichtwidrigkeit | §§ 331/333 statt §§ 332/334; deutlich niedrigerer Rahmen | Behörden-Belege |
 | Bestreiten Unrechtsvereinbarung | Tatbestand entfaellt | Indizienlage oft erdrueckend |
 | Bestreiten Amtstraegereigenschaft | Tatbestand entfaellt | Eng |
-| Aufklaerungshilfe § 46b StGB | Erhebliche Milderung; ggf. Bewaehrung | Eigene Belastung; Risiko fuer Mit-Beschuldigte |
+| Aufklaerungshilfe § 46b StGB | Erhebliche Milderung; ggf. Bewaehrung | Eigene Belastung; Risiko für Mit-Beschuldigte |
 | Verstaendigung § 257c StPO | Planbarkeit | Bindung |
 | Schadenswiedergutmachung § 46a StGB | Strafmilderung | Eingestaendnis |
 
 ## Konkurrenzen
 
 - **§ 332/334 StGB / § 331/333 StGB.** §§ 332/334 Spezialnorm bei Pflichtwidrigkeit.
-- **§ 332/334 StGB / § 263 StGB.** Bei Vermoegensschaedigung der Behoerde Tateinheit.
+- **§ 332/334 StGB / § 263 StGB.** Bei Vermoegensschaedigung der Behörde Tateinheit.
 - **§ 332/334 StGB / § 266 StGB Untreue.** Tateinheit bei Untreue durch Amtstraeger.
 - **§ 332/334 StGB / § 299 StGB.** Beim "Sektorenwechsel" — privater Auftragnehmer und Amtstraeger zugleich.
 - **§ 332/334 StGB / § 30 OWiG.** Verbandsgeldbusse Geber-Unternehmen.
@@ -375,7 +374,7 @@ Spiegelbildlich zu § 332 StGB.
 
 - **Strafrahmen** §§ 332 Abs. 1, 334 Abs. 1 sechs Monate bis fuenf Jahre / drei Monate bis fuenf Jahre.
 - **§ 335 StGB** besonders schwere Faelle ein bis zehn Jahre.
-- **§ 46 StGB** Hoehe Vorteil, Wettbewerbsschaden, oeffentliches Interesse, Wiedergutmachung.
+- **§ 46 StGB** Hoehe Vorteil, Wettbewerbsschaden, öffentliches Interesse, Wiedergutmachung.
 - **Einziehung § 73 StGB** zwingend (Vorteilsgegenstand sowie der durch die Diensthandlung erlangte Vermoegensvorteil).
 - **§ 73d StGB erweiterte Einziehung** bei Strukturen.
 - **Berufsverbot § 70 StGB / Dienstentfernung § 13 BDG**.
@@ -396,7 +395,7 @@ Spiegelbildlich zu § 332 StGB.
 
 ### Aufklaerungshilfe § 46b StGB
 
-"Der Mandant ist bereit, im Wege der Aufklaerungshilfe gemaess § 46b StGB umfassend ueber die Korruptionsstrukturen im [Behoerde] auszusagen. Er hat insbesondere Kenntnis ueber die Rolle der Personen [Namen] und kann zur Aufklaerung folgender weiterer Taten beitragen: [...]. Es wird eine Strafmilderung nach § 49 Abs. 1 StGB beantragt."
+"Der Mandant ist bereit, im Wege der Aufklaerungshilfe gemaess § 46b StGB umfassend ueber die Korruptionsstrukturen im [Behörde] auszusagen. Er hat insbesondere Kenntnis ueber die Rolle der Personen [Namen] und kann zur Aufklaerung folgender weiterer Taten beitragen: [...]. Es wird eine Strafmilderung nach § 49 Abs. 1 StGB beantragt."
 
 ## Querverweise
 
@@ -425,7 +424,7 @@ Spiegelbildlich zu § 332 StGB.
 
 ## Worum geht es
 
-Das Arzneimittelgesetz (AMG) regelt den Verkehr mit Arzneimitteln. §§ 95, 96 AMG enthalten Strafvorschriften fuer den unerlaubten Umgang. Strafbarkeit bei
+Das Arzneimittelgesetz (AMG) regelt den Verkehr mit Arzneimitteln. §§ 95, 96 AMG enthalten Strafvorschriften für den unerlaubten Umgang. Strafbarkeit bei
 - Inverkehrbringen ohne Zulassung (§ 96 AMG)
 - gefaelschten Arzneimitteln
 - Doping-Substanzen ausserhalb sportlicher Wettkaempfe (§ 95 AMG i.V.m. AntiDopG)
@@ -440,7 +439,7 @@ Abgrenzung zu BtMG (Anlagen I-III): Wenn der Stoff im BtMG aufgefuehrt ist, BtMG
 - Anwendung von Doping-Substanzen ueber AntiDopG hinaus
 
 **§ 96 AMG:** Erweiterte Strafvorschriften, z.B.
-- gewerbsmaessiges oder banden- gefaehrliches Anwenden oder Inverkehrbringen
+- gewerbsmäßiges oder banden- gefaehrliches Anwenden oder Inverkehrbringen
 - Doping zum Selbstzwecke (AntiDopG-Spezialvorschriften)
 - Faelschung Arzneimittel (§ 95 Abs. 1 Nr. 3a AMG: bis 5 Jahre)
 
@@ -448,7 +447,7 @@ Abgrenzung zu BtMG (Anlagen I-III): Wenn der Stoff im BtMG aufgefuehrt ist, BtMG
 
 **Stoffliche Erfassung:** Alle Arzneimittel im Sinne von § 2 AMG. Auch Praeparate ohne formelle Zulassung, soweit sie als Arzneimittel anzusehen sind (pharmakologische Wirkung oder Bestimmung nach Herstelleraussage). Abgrenzung zu Lebensmitteln, Nahrungsergaenzungsmitteln, Kosmetika.
 
-**Doping-Bezug:** Anti-Doping-Gesetz (AntiDopG) ist seit 18.12.2015 spezialgesetzliche Regelung fuer Doping. § 4 AntiDopG erfasst Eigendoping und Doping von anderen. AMG bleibt anwendbar bei Anwendung von Doping-Substanzen, die zugleich Arzneimittel sind.
+**Doping-Bezug:** Anti-Doping-Gesetz (AntiDopG) ist seit 18.12.2015 spezialgesetzliche Regelung für Doping. § 4 AntiDopG erfasst Eigendoping und Doping von anderen. AMG bleibt anwendbar bei Anwendung von Doping-Substanzen, die zugleich Arzneimittel sind.
 
 ## Mengen und Schwellen
 
@@ -459,7 +458,7 @@ AMG kennt keine "nicht geringe Menge" wie BtMG. Mengenfragen werden ueber § 96 
 | § 95 Abs. 1 AMG Grundtatbestand | bis 3 Jahre Freiheitsstrafe oder Geldstrafe |
 | § 95 Abs. 3 AMG besonders schwerer Fall | bis 5 Jahre |
 | § 96 AMG | bis 1 Jahr Freiheitsstrafe oder Geldstrafe (mit Spezialvariationen) |
-| § 4 AntiDopG | bis 3 Jahre; bei gewerbsmaessigem oder bandenmaessigem Doping 1 bis 10 Jahre |
+| § 4 AntiDopG | bis 3 Jahre; bei gewerbsmäßigem oder bandenmäßigem Doping 1 bis 10 Jahre |
 
 ## Praktikertipps der Verteidigung
 
@@ -525,7 +524,7 @@ AMG kennt keine "nicht geringe Menge" wie BtMG. Mengenfragen werden ueber § 96 
 - § 48 AMG Verschreibungspflicht.
 - § 11a ApoG Versandapotheke.
 - AntiDopG (Anti-Doping-Gesetz) vom 10.12.2015, in Kraft seit 18.12.2015 — § 4 AntiDopG Strafvorschriften.
-- BtMG fuer Spezialitaet.
+- BtMG für Spezialitaet.
 - LFGB Lebensmittel- und Futtermittelgesetzbuch.
 - BGH staendige Rspr. zur Arzneimittel-Eigenschaft (BGH-Linie verifizieren).
 - BVerfG zur Bestimmtheit des Arzneimittel-Begriffs (BVerfG-Linie verifizieren).
@@ -541,13 +540,13 @@ AMG kennt keine "nicht geringe Menge" wie BtMG. Mengenfragen werden ueber § 96 
 
 ## Worum geht es
 
-Paragraph 153 StGB sanktioniert die **falsche uneidliche Aussage** eines Zeugen oder Sachverstaendigen vor Gericht oder einer anderen zur eidlichen Vernehmung zustaendigen Stelle. Geschuetztes Rechtsgut: die staatliche Rechtspflege und die Wahrheitsfindung in gerichtlichen und behoerdlichen Verfahren. Anders als Paragraph 154 StGB (Meineid) setzt Paragraph 153 StGB keine Vereidigung voraus — die blosse uneidliche Aussage genuegt.
+Paragraph 153 StGB sanktioniert die **falsche uneidliche Aussage** eines Zeugen oder Sachverstaendigen vor Gericht oder einer anderen zur eidlichen Vernehmung zuständigen Stelle. Geschuetztes Rechtsgut: die staatliche Rechtspflege und die Wahrheitsfindung in gerichtlichen und behoerdlichen Verfahren. Anders als Paragraph 154 StGB (Meineid) setzt Paragraph 153 StGB keine Vereidigung voraus — die blosse uneidliche Aussage genuegt.
 
 Anwendungsfaelle: Zeuge im Zivilprozess sagt unwahr aus, um den Beklagten zu schuetzen; Zeuge im Strafverfahren leugnet eine Tat, die er beobachtet hat; Sachverstaendiger gibt unwahres Gutachten ab; Aussage vor parlamentarischem Untersuchungsausschuss. Wichtiges Anwendungsfeld auch: Beihilfe und Anstiftung durch Verteidiger oder Beistand.
 
 ## Tatbestand und Auslegung
 
-### Vor Gericht oder zur eidlichen Vernehmung zustaendiger Stelle
+### Vor Gericht oder zur eidlichen Vernehmung zuständiger Stelle
 
 Erfasst sind Aussagen vor:
 
@@ -572,7 +571,7 @@ Aussage ist falsch, wenn der **objektive** Inhalt der Aussage nicht der Wahrheit
 
 ### Vorsatz
 
-Vorsatz hinsichtlich der Unrichtigkeit der Aussage. Dolus eventualis genuegt: Zeuge haelt es ernsthaft fuer moeglich, dass die Aussage falsch ist, und nimmt das in Kauf.
+Vorsatz hinsichtlich der Unrichtigkeit der Aussage. Dolus eventualis genuegt: Zeuge haelt es ernsthaft für moeglich, dass die Aussage falsch ist, und nimmt das in Kauf.
 
 ### Subsidiaritaet
 
@@ -583,7 +582,7 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - **Vorsatz angreifen.** Bei komplexen Sachverhalten kann Zeuge sich irren ohne Vorsatz. "Erinnerung war truebe" entlastet, wenn nicht zu offensichtlich falsch.
 - **Aussage substantiiert vergleichen.** Wortlaut der Aussage (Protokoll) und tatsaechlicher Sachverhalt vergleichen. Oft sind Aussagen ungenau, aber nicht falsch.
 - **Berichtigungsmoeglichkeit Paragraph 158 StGB.** Wer die falsche Aussage rechtzeitig **vor Beendigung des Verfahrens** berichtigt und dadurch eine Schaedigung abwendet, kann straffrei bleiben (Paragraph 158 Abs 1 StGB). Berichtigung muss vor Eintritt des Rechtskraft erfolgen.
-- **Zustaendigkeit der vernehmenden Stelle pruefen.** Wenn die Stelle nicht zur eidlichen Vernehmung zustaendig ist, fehlt Tatbestandsmerkmal. Beispiel: blosse Anhoerung vor der StA ist umstritten.
+- **Zuständigkeit der vernehmenden Stelle pruefen.** Wenn die Stelle nicht zur eidlichen Vernehmung zuständig ist, fehlt Tatbestandsmerkmal. Beispiel: blosse Anhörung vor der StA ist umstritten.
 - **Zeugnisverweigerungsrecht beachten.** Wenn Zeuge sein Recht aus Paragraph 52 StPO oder Paragraph 384 ZPO nicht ausuebt und falsch aussagt, kann Paragraph 153 StGB voll greifen. Anwalt sollte den Zeugen im Vorfeld auf Verweigerungsrechte hinweisen.
 - **Sachverstaendigenaussagen.** Bei Sachverstaendigengutachten ist die Abgrenzung zwischen "wissenschaftlicher Bewertung" und "falscher Tatsachenangabe" entscheidend; Bewertungen sind nicht Paragraph 153 StGB.
 
@@ -631,10 +630,9 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - Paragraph 52 StPO Zeugnisverweigerungsrecht; Paragraph 384 ZPO.
 - Paragraph 24 PUAG Aussagepflicht vor parlamentarischen Untersuchungsausschuessen.
 - BGH staendige Rspr. zur objektiven Theorie der falschen Aussage.
-- BGH staendige Rspr. zur Tatbestandsbegrenzung "vor Gericht oder einer zur eidlichen Vernehmung zustaendigen Stelle".
+- BGH staendige Rspr. zur Tatbestandsbegrenzung "vor Gericht oder einer zur eidlichen Vernehmung zuständigen Stelle".
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
 
 ## Qualitäts-Hardening
 
@@ -654,7 +652,7 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 
 Paragraph 154 StGB sanktioniert den **Meineid** — eine falsche Aussage, die der Zeuge oder Sachverstaendige **unter Eid** abgegeben hat. Der Meineid ist die qualifizierte Form der falschen Aussage nach Paragraph 153 StGB; die Schwere ergibt sich aus der besonderen Wahrheitsverpflichtung durch die Eidesformel. Geschuetztes Rechtsgut: die staatliche Rechtspflege und Wahrheitsfindung sowie die durch den Eid besonders gefestigte Aussagewahrheit.
 
-Anwendungsfaelle: Zeuge wird in der Hauptverhandlung des Strafprozesses vereidigt und sagt unter Eid unwahr aus; Zeuge schwoert in einer Beweisaufnahme im Zivilprozess; Eidesleistung vor parlamentarischem Untersuchungsausschuss. In der heutigen Praxis ist die Vereidigung **seltener als frueher** geworden — nach Paragraph 59 StPO wird der Zeuge nur dann vereidigt, wenn das Gericht es fuer notwendig haelt.
+Anwendungsfaelle: Zeuge wird in der Hauptverhandlung des Strafprozesses vereidigt und sagt unter Eid unwahr aus; Zeuge schwoert in einer Beweisaufnahme im Zivilprozess; Eidesleistung vor parlamentarischem Untersuchungsausschuss. In der heutigen Praxis ist die Vereidigung **seltener als frueher** geworden — nach Paragraph 59 StPO wird der Zeuge nur dann vereidigt, wenn das Gericht es für notwendig haelt.
 
 ## Tatbestand und Auslegung
 
@@ -662,7 +660,7 @@ Anwendungsfaelle: Zeuge wird in der Hauptverhandlung des Strafprozesses vereidig
 
 Voraussetzung ist eine **wirksame Vereidigung** durch das Gericht. Wirksamkeit setzt voraus:
 
-- Zustaendigkeit des Gerichts zur Vereidigung.
+- Zuständigkeit des Gerichts zur Vereidigung.
 - Verwendung der gesetzlich vorgeschriebenen Eidesformel ("Ich schwoere bei Gott dem Allmaechtigen und Allwissenden ..." oder eidesgleiche Beteuerung Paragraph 65 StPO).
 - Nicht-Bestehen eines Vereidigungsverbots (Paragraph 60 StPO bei Beschuldigtenstellung, bei Kindern unter 18 Jahren u. a.).
 
@@ -686,11 +684,11 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 
 ## Praktikertipps Verteidigung
 
-- **Vereidigung pruefen.** War das Gericht zustaendig? Wurde die Eidesformel korrekt verwendet? Wurde der Zeuge belehrt? Bei Verfahrensfehlern bleibt es bei Paragraph 153 StGB.
+- **Vereidigung pruefen.** War das Gericht zuständig? Wurde die Eidesformel korrekt verwendet? Wurde der Zeuge belehrt? Bei Verfahrensfehlern bleibt es bei Paragraph 153 StGB.
 - **Vorsatz angreifen.** Bei komplexen Sachverhalten Erinnerungstreue bestreiten. "Glaubte zur Zeit der Vereidigung an die Wahrheit" entlastet, wenn substantiiert.
 - **Berichtigung Paragraph 158 StGB.** Wer den Meineid rechtzeitig vor Verfahrensbeendigung berichtigt und dadurch eine Schaedigung abwendet, kann straffrei bleiben.
 - **Vereidigungsverbote pruefen.** Paragraph 60 StPO Beschuldigter; Paragraph 393 ZPO Partei; Kinder unter 18 Jahren. Wenn unzulaessig vereidigt: Paragraph 154 StGB nicht erfuellt.
-- **Vergleich der Eidesversicherung mit Aussage.** Hat der Zeuge sich auf eine bestimmte Aussage geschworen oder nur "ich schwoere, die Wahrheit zu sagen"? Bei abstraktem Eid bleibt nur Paragraph 153 StGB fuer die einzelne Falschaussage.
+- **Vergleich der Eidesversicherung mit Aussage.** Hat der Zeuge sich auf eine bestimmte Aussage geschworen oder nur "ich schwoere, die Wahrheit zu sagen"? Bei abstraktem Eid bleibt nur Paragraph 153 StGB für die einzelne Falschaussage.
 - **Strafmass-Strategie.** Meineid hat Mindeststrafe ein Jahr — Bewaehrungsgrenze knapp. Strafmilderung ueber Paragraph 49 StGB anstreben (z. B. minder schwerer Fall Paragraph 154 Abs 3 StGB).
 
 ## Trade-off-Matrix
@@ -743,7 +741,6 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 - BGH staendige Rspr. zur Voraussetzung wirksamer Vereidigung.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -754,7 +751,7 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 
 ## 8. `strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit`
 
-**Fokus:** Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen fuer Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung.
+**Fokus:** Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen für Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung.
 
 # Glaubhaftigkeit der Aussage vs. Glaubwuerdigkeit der Person
 
@@ -779,11 +776,11 @@ Glaubhaftigkeit ist methodisch operationalisierbar und Gegenstand eines aussagep
 - Vorstrafen, Falschaussagen in anderen Verfahren.
 - Persoenlichkeitsmerkmale, Auffaelligkeiten in Anamnese.
 - Aussagebereitschaft, Motivation.
-- Eindruck im persoenlichen Auftreten.
+- Eindruck im persönlichen Auftreten.
 
 Glaubwuerdigkeit der Person ist nicht Gegenstand der aussagepsychologischen Methodik. Sie ist eher persoenlichkeitsdiagnostisch bzw. forensisch-psychiatrisch — und auch dort nur ein nachrangiges Pruefelement.
 
-**Methodische Konsequenz.** Eine Aussage einer "glaubwuerdigen" Person kann unglaubhaft sein (z. B. weil suggestiv kontaminiert). Eine Aussage einer "unglaubwuerdigen" Person (z. B. mit Vorstrafen) kann glaubhaft sein. Der Schluss vom persoenlichen Eindruck der Zeugin auf die Wahrheit der Aussage ist methodisch unzulaessig.
+**Methodische Konsequenz.** Eine Aussage einer "glaubwuerdigen" Person kann unglaubhaft sein (z. B. weil suggestiv kontaminiert). Eine Aussage einer "unglaubwuerdigen" Person (z. B. mit Vorstrafen) kann glaubhaft sein. Der Schluss vom persönlichen Eindruck der Zeugin auf die Wahrheit der Aussage ist methodisch unzulaessig.
 
 **Begriffsverwirrung in der Praxis.** Tatrichter und Staatsanwaelte verwenden die Begriffe oft unscharf. "Der Zeuge wirkte glaubwuerdig" ist eine Aussage ueber die Person, die methodisch wenig taugt. Sie ersetzt nicht die Wuerdigung der Aussage selbst.
 
@@ -810,10 +807,10 @@ Im Plaedoyer trennen Sie die Begriffe explizit: "Es ist zu unterscheiden zwische
 
 ## Mustertexte
 
-**Mustersatz fuer Schriftsatz:**
+**Mustersatz für Schriftsatz:**
 "Die Anklageschrift fuehrt aus, die Zeugin sei glaubwuerdig. Hierzu ist methodisch klarzustellen: Glaubwuerdigkeit ist eine Eigenschaft der Person und ersetzt nicht die Pruefung der Glaubhaftigkeit der Aussage. Glaubhaftigkeit wird nach aussagepsychologischer Methodik anhand der Aussageentstehung, der Aussagekonstanz und der Realkennzeichen geprueft (vgl. BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Wenn das Gericht den Eindruck haben sollte, die Zeugin sei eine glaubwuerdige Person, ist dies nachvollziehbar. Es ist jedoch methodisch nicht das Pruefkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, und diese ist nach der Hypothesen-gegen-Hypothesen-Methode des BGH zu pruefen. Die Methode verlangt, dass alle plausiblen Alternativen ausgeschlossen werden — Suggestion, Falscherinnerung, Motivation. Diese Alternativen sind hier nicht ausgeschlossen. Damit ist die Verurteilung nicht zu tragen."
 
 ## Querverweise
@@ -888,14 +885,14 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin ist der einzige direkte Belastungsbeweis. Sie ist aus empirischer Sicht eine der unsichersten Beweisformen ueberhaupt. Im vorliegenden Fall kommen folgende Risikofaktoren zusammen: Beobachtungszeit unter [X] Sekunden, Nacht, schlechte Beleuchtung, Distanz von [Meter], Bewaffnung des Taeters mit moeglichem weapon focus, Cross-race-Bedingung, Latenz von [Zeitraum] zwischen Tat und Identifizierung, suboptimale Lichtbildvorlage [konkret]. Jeder dieser Faktoren senkt die Wahrscheinlichkeit einer korrekten Identifizierung. Zusammen genuegen sie nicht fuer die richterliche Ueberzeugung."
+Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin ist der einzige direkte Belastungsbeweis. Sie ist aus empirischer Sicht eine der unsichersten Beweisformen ueberhaupt. Im vorliegenden Fall kommen folgende Risikofaktoren zusammen: Beobachtungszeit unter [X] Sekunden, Nacht, schlechte Beleuchtung, Distanz von [Meter], Bewaffnung des Taeters mit moeglichem weapon focus, Cross-race-Bedingung, Latenz von [Zeitraum] zwischen Tat und Identifizierung, suboptimale Lichtbildvorlage [konkret]. Jeder dieser Faktoren senkt die Wahrscheinlichkeit einer korrekten Identifizierung. Zusammen genuegen sie nicht für die richterliche Ueberzeugung."
 
 ## Mustertexte
 
 **Hilfsbeweisantrag aussagepsychologisches Gutachten zur Identifizierung:**
-"Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Qualitaet der Wiedererkennens-Aussage der Zeugin [Name] einzuholen. Konkrete Anhaltspunkte fuer eingeschraenkte Aussagezuverlaessigkeit: Beobachtungsdauer maximal [Sekunden]; Nacht und schlechte Beleuchtung (Tatortlichtmessung Bl. [X]); Distanz von [Meter] zwischen Zeugin und Taeter (Akten-Skizze Bl. [Y]); bewaffneter Taeter (weapon focus); Cross-race-Konstellation; Latenz von [Zeitraum] zwischen Tat und Wahllichtbildvorlage."
+"Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Qualitaet der Wiedererkennens-Aussage der Zeugin [Name] einzuholen. Konkrete Anhaltspunkte für eingeschraenkte Aussagezuverlaessigkeit: Beobachtungsdauer maximal [Sekunden]; Nacht und schlechte Beleuchtung (Tatortlichtmessung Bl. [X]); Distanz von [Meter] zwischen Zeugin und Taeter (Akten-Skizze Bl. [Y]); bewaffneter Taeter (weapon focus); Cross-race-Konstellation; Latenz von [Zeitraum] zwischen Tat und Wahllichtbildvorlage."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Eine sichere, ueberzeugt vorgetragene Wiedererkennens-Aussage ist nicht gleichbedeutend mit einer richtigen Identifizierung. Die psychologische Forschung ist hier seit Jahrzehnten eindeutig: Subjektive Sicherheit und objektive Richtigkeit korrelieren nur schwach. Die Zeugin moege subjektiv sicher sein — das aendert nichts daran, dass die objektiven Bedingungen ihrer Wahrnehmung [Nacht, Distanz, Stress, weapon focus] der korrekten Identifizierung methodisch entgegenstehen. Damit kann das Gericht nicht von der noetigen Sicherheit ausgehen."
 
 ## Querverweise
@@ -950,8 +947,8 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - **Hauptverhandlung wahrnehmen.** Beobachtung der Vernehmungsdynamik in der Hauptverhandlung dokumentieren. Provokationen, Pausen, Wechsel der Vernehmungspersonen.
 - **Im Plaedoyer auf Forschungsstand verweisen.** "Es ist verstaendlich, dass das Gericht sich einen Eindruck verschafft. Methodisch beweiserheblich ist dieser Eindruck aber nicht. Die Luegenerkennungsforschung ist seit Jahrzehnten eindeutig: Eindruckspsychologie ist nicht zuverlaessig."
 - **Polygraph ist kein Ausweg.** Auch wenn Mandant einen Polygraphentest verlangt — die Ergebnisse sind in Deutschland nicht zugelassen. Vorsicht vor privaten Polygraphenanbietern.
-- **Mimik-Lese in Vernehmungen adressieren.** Wenn ein Vernehmungsbeamter aussagt, der Mandant habe "geschwitzt und ausgewichen, das spricht fuer Schuld" — diese Aussage ist methodisch wertlos und kann so im Plaedoyer eingeordnet werden.
-- **Demeanor evidence und Confrontation.** Bei Videovernehmung oder § 247a-Vernehmung ist die Beobachtung durch das Gericht ohnehin nur eingeschraenkt moeglich. Diese Konstellation kann fuer die Methodenkritik nutzbar gemacht werden.
+- **Mimik-Lese in Vernehmungen adressieren.** Wenn ein Vernehmungsbeamter aussagt, der Mandant habe "geschwitzt und ausgewichen, das spricht für Schuld" — diese Aussage ist methodisch wertlos und kann so im Plaedoyer eingeordnet werden.
+- **Demeanor evidence und Confrontation.** Bei Videovernehmung oder § 247a-Vernehmung ist die Beobachtung durch das Gericht ohnehin nur eingeschraenkt moeglich. Diese Konstellation kann für die Methodenkritik nutzbar gemacht werden.
 
 ## Trade-off-Matrix
 
@@ -964,14 +961,14 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer methodisch und respektvoll: "Es ist eine menschliche und legitime Tendenz, Aussagen anhand des persoenlichen Eindrucks zu beurteilen. Eindrucks-Bewertung darf aber nicht die methodische Pruefung der Aussage ersetzen. Die wissenschaftliche Forschung zur Luegenerkennung ist seit Jahrzehnten eindeutig: Menschen erkennen Luegen nicht besser als der Zufall, auch wenn sie professionell mit Aussagen arbeiten. Der Eindruck der Zeugin in der Hauptverhandlung mag positiv sein — aber er ersetzt nicht die Anwendung der Hypothesen-gegen-Hypothesen-Methode. Diese ist hier nicht durchgefuehrt."
+Im Plaedoyer methodisch und respektvoll: "Es ist eine menschliche und legitime Tendenz, Aussagen anhand des persönlichen Eindrucks zu beurteilen. Eindrucks-Bewertung darf aber nicht die methodische Pruefung der Aussage ersetzen. Die wissenschaftliche Forschung zur Luegenerkennung ist seit Jahrzehnten eindeutig: Menschen erkennen Luegen nicht besser als der Zufall, auch wenn sie professionell mit Aussagen arbeiten. Der Eindruck der Zeugin in der Hauptverhandlung mag positiv sein — aber er ersetzt nicht die Anwendung der Hypothesen-gegen-Hypothesen-Methode. Diese ist hier nicht durchgefuehrt."
 
 ## Mustertexte
 
-**Mustersatz fuer Revisionsbegruendung:**
-"Die Beweiswuerdigung des Landgerichts (Urteilsumdruck S. [X]) stuetzt sich im Wesentlichen auf den persoenlichen Eindruck, den die Zeugin in der Hauptverhandlung gemacht habe. Eine methodische Pruefung der Aussage anhand der Realkennzeichen, der Konstanz und der Aussagegenese fehlt. Damit ist die Beweiswuerdigung in einer Aussage-gegen-Aussage-Konstellation luckenhaft (BGH, Urt. v. 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
+**Mustersatz für Revisionsbegruendung:**
+"Die Beweiswuerdigung des Landgerichts (Urteilsumdruck S. [X]) stuetzt sich im Wesentlichen auf den persönlichen Eindruck, den die Zeugin in der Hauptverhandlung gemacht habe. Eine methodische Pruefung der Aussage anhand der Realkennzeichen, der Konstanz und der Aussagegenese fehlt. Damit ist die Beweiswuerdigung in einer Aussage-gegen-Aussage-Konstellation luckenhaft (BGH, Urt. v. 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
 
-**Mustersatz fuer Plaedoyer:**
+**Mustersatz für Plaedoyer:**
 "Bitte verzeihen Sie, wenn ich Ihnen widerspreche: Auch das geuebte Auge erkennt Luegen nicht. Die Luegenerkennungsforschung ist hier seit Jahrzehnten konsistent. Polizeiliche Erfahrung und richterliche Routine bringen statistisch keinen relevanten Vorteil gegenueber dem Zufall. Das macht die Eindrucksbewertung nicht wertlos — sie ist menschlich und unvermeidbar. Aber sie ersetzt nicht die methodische Pruefung. Und diese ist hier nicht im Sinne der Hypothesen-gegen-Hypothesen-Methode geleistet."
 
 ## Querverweise

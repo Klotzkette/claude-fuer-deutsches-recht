@@ -1,6 +1,6 @@
 ---
 name: hochschule-ki-detektor-menschliche-pruefung
-description: "KI-Detektoren in Schule, Hochschule und Auswahlverfahren: methodische Grenzen, False Positives, Transparenz, Anhoerung, menschliche Plausibilitaetspruefung, Datenschutz und Beweisakte. Baut einen belastbaren Entscheidungsvermerk statt Detektor-Automatismus."
+description: "KI-Detektoren in Schule, Hochschule und Auswahlverfahren: methodische Grenzen, False Positives, Transparenz, Anhörung, menschliche Plausibilitaetspruefung, Datenschutz und Beweisakte. Baut einen belastbaren Entscheidungsvermerk statt Detektor-Automatismus."
 ---
 
 # KI-Detektor plus menschliche Prüfung

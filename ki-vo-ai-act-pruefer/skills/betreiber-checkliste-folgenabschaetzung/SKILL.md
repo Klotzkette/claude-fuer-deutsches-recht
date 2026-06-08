@@ -145,7 +145,7 @@ F. ABSCHLUSS
  Unterzeichnet von: __________________
  Funktion: __________________________
 
-PFLICHT: Bei oeffentlichen Stellen ist
+PFLICHT: Bei öffentlichen Stellen ist
 diese Folgenabschaetzung der nationalen
 Aufsichtsbehoerde vor Betriebsaufnahme
 zu uebermitteln (Art. 27 Abs. 4 KI-VO).

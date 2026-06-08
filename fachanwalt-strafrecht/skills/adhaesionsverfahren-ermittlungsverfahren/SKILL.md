@@ -7,25 +7,25 @@ description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft kon
 
 ## Arbeitsbereich
 
-**Adhaesionsverfahren Ermittlungsverfahren** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin fachanwalt-strafrecht, Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten, Ermittlungsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Adhaesionsverfahren Ermittlungsverfahren** ordnet den Fall über die tragenden Prüfungslinien: Red-Team Qualitygate im Plugin fachanwalt-strafrecht, Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten, Ermittlungsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `fachanwalt-strafrecht-adhaesionsverfahren` | Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO. |
 | `spezial-ermittlungsverfahren-vergleich-eskalation` | Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-orientierung-fristen-form-und-zuständigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `strafprozess-aktenlog-fristen-und-wiedervorlagen` | Aktenlog, Fristenbuch und Wiedervorlagen im Strafverfahren: erstellt aus Eingangspost, beA, EGVP, Verfügung, Ladung, Beschluss, Strafbefehl, Urteil und Aktennachlieferung eine robuste Fristen- und Aufgabensteuerung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-redteam-qualitygate`
 
@@ -67,8 +67,8 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Frist-Re-Check** alle Verfahrensschritte: Berufung § 314 StPO (1 Woche), Revision § 341 StPO (1 Woche) + § 345 StPO (1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen), Beschwerde § 311 StPO (sofortige 1 Woche; einfache § 304 StPO unbefristet), Wiedereinsetzung § 44 StPO (1 Woche ab Wegfall), Klageerzwingungsverfahren § 172 StPO.
 - **Belehrungs-Re-Check:** § 136 StPO Beschuldigtenbelehrung; § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO Auskunftsverweigerung; § 257c V StPO Verstaendigungsbelehrung; qualifizierte Belehrung bei Wiederholung der Vernehmung.
 - **Beweisverwertungs-Check:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Sperrwirkung; Beweisverwertungsverbote bei Belehrungsmaengeln (BGH-Linie).
-- **Verfahrensruegen-Check fuer Revision:** absoluter Revisionsgrund § 338 StPO (Besetzung, Ausschlussgruende, Sachleitung); relativer § 337 StPO; Verstaendigungsmaengel § 257c StPO; Akteneinsichts-Verletzung § 147 StPO.
-- **Vollmachts-Check:** Mandatsvollmacht; Vertretungsvollmacht fuer § 411 II StPO bei Strafbefehl, § 232 StPO bei Abwesenheitsverhandlung.
+- **Verfahrensruegen-Check für Revision:** absoluter Revisionsgrund § 338 StPO (Besetzung, Ausschlussgruende, Sachleitung); relativer § 337 StPO; Verstaendigungsmaengel § 257c StPO; Akteneinsichts-Verletzung § 147 StPO.
+- **Vollmachts-Check:** Mandatsvollmacht; Vertretungsvollmacht für § 411 II StPO bei Strafbefehl, § 232 StPO bei Abwesenheitsverhandlung.
 - **Konsequenzen-Re-Check:** BZRG-Eintrag, FZR-Eintrag, berufsrechtliche Konsequenzen (Beamtenrecht, Aerzte, Rechtsanwaelte), auslaendische Folgen (Visum, Niederlassung).
 - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB, § 53 I Nr. 2 StPO Zeugnisverweigerung.
 
@@ -94,7 +94,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 8. Welcher Betrag soll konkret geltend gemacht werden, oder soll das Schmerzensgeld dem Ermessen des Gerichts überlassen bleiben?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -160,7 +160,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Schadenshoehe unklar | Feststellungsklage zuerst; Leistungsklage nach Konkretisierung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -355,11 +354,7 @@ des Strafprozesses sprengt.
 # Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation / ermittlungsverfahren vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -389,18 +384,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## 4. `spezial-orientierung-fristen-form-und-zustaendigkeit`
+## 4. `spezial-orientierung-fristen-form-und-zuständigkeit`
 
 **Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg / orientierung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -430,14 +421,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## Strafrecht-Orientierung Fristen / Form / Zustaendigkeit Bausteine
-- **Sachliche Zustaendigkeit GVG:**
+## Strafrecht-Orientierung Fristen / Form / Zuständigkeit Bausteine
+- **Sachliche Zuständigkeit GVG:**
  - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
  - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
  - **Grosse Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
  - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
  - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
-- **Oertliche Zustaendigkeit StPO:**
+- **Oertliche Zuständigkeit StPO:**
  - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
  - **§ 8 StPO:** Wohnsitz Beschuldigter.
  - **§ 9 StPO:** Ergreifungsort.
@@ -450,7 +441,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
  - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
 - **Form-Re-Check:**
- - **Schriftform** zwingend fuer Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
+ - **Schriftform** zwingend für Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
  - **Unterschrift** Verteidiger / Mandant.
  - **Vollmacht** bei Vertretung.
  - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
@@ -524,3 +515,29 @@ Lege mindestens an:
 - `Wiedervorlagenliste`
 - `Rot-Liste heute`
 - `Nächste Kanzleihandlung`
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46a StGB
+- § 263 StGB
+- § 49 StGB
+- § 177 StGB
+- § 46 StGB
+- § 46b StGB
+- § 35 BtMG
+- § 261 StGB
+- § 249 StGB
+- § 212 StGB
+- § 31 BtMG
+- § 240 StGB
+
+### Leitentscheidungen
+
+- EuGH C-610/15
+- EuGH C-527/15
+- EuGH C-128/11
+- EuGH C-145/10
+- EuGH C-355/12
+

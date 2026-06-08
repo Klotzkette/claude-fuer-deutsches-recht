@@ -118,7 +118,7 @@ Dieser Skill liefert den vollständigen Mandanten-von "Hochrisiko-Diagnose" bis 
 - Anforderungen an Eingabedaten
 - ggf. Informationen zur Datenverarbeitung durch das System
 
-→ Detail-Skill: `hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13`
+→ Detail-Skill: `hochrisiko-transparenz-und-informationen-für-betreiber-art-13`
 
 ---
 

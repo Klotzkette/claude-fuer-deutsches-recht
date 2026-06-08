@@ -7,10 +7,10 @@ description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Lan
 
 ## Arbeitsbereich
 
-**Sammelantrag GAP Schriftsatzkern** ordnet den Fall über die tragenden Prüffelder: Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Sammelantrag GAP Schriftsatzkern** ordnet den Fall über die tragenden Prüfungslinien: Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `sammelantrag-gap-checkliste` | Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
@@ -18,12 +18,12 @@ description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Lan
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Agrarrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `sammelantrag-gap-checkliste`
 
@@ -45,7 +45,7 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 6. **Haben Vor-Ort-Kontrollen im Vorjahr stattgefunden?** — Befunde aus Vorjahr beeinflussen Risikoklassifizierung und Sanktionshöhe in laufendem Jahr.
 7. **Gibt es laufende Förderverpflichtungen ELER (Agrarumweltmaßnahmen, Vertragsnaturschutz)?** — Auflagen sind im Sammelantrag zu bestätigen; Abweichungen führen zu Rückzahlungspflichten.
 8. **Wurde die Düngeverordnung vollständig eingehalten?** — GAB 1 (Grundanforderungen Betriebsführung) knüpft an Düngeverordnung; Verstoß = Konditionalitäts-Kürzung.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -149,7 +149,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Schriftsatzbaustein — Widerspruch gegen Förderbescheid
 
 ```
-An das Amt fuer Agrarordnung / Landwirtschaftskammer [Land]
+An das Amt für Agrarordnung / Landwirtschaftskammer [Land]
 [Anschrift] [Ort, Datum]
 
 Widerspruch gegen Förderbescheid
@@ -185,7 +185,7 @@ Begründung:
 
 Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
 ```
 
 --- vor Versand klaeren ---
@@ -278,7 +278,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -340,7 +340,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -348,7 +348,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Agrar-, Forst- und Lebensmittelrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Agrar-, Forst- und Lebensmittelrecht.
 - §§ 585 ff. BGB, GAP-DZ-VO, BTSchG, BNatSchG, BImSchG, LFGB sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -359,7 +359,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Agrar-, Forst- und Lebensmittelrecht
 
@@ -385,7 +384,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Agrar-, Forst- und Lebensmittelrecht (Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -417,7 +416,7 @@ Typische Antraege in Agrar-, Forst- und Lebensmittelrecht (Klage/Widerspruch im 
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -452,8 +451,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung — Rechtsprechung Agrarrecht-Schriftsatz
 
@@ -480,11 +479,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / agrarrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

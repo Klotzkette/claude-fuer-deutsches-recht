@@ -1,25 +1,39 @@
 ---
 name: btr-aufgabenkreise-formulierung
-description: "Aufgabenkreise praezise formulieren: Vermoegenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behoerden, Postangelegenheiten. Pruefraster fuer Mass und Mindestmass nach Reform 2023."
+description: "Aufgabenkreise praezise formulieren: Vermoegenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behörden, Postangelegenheiten. Pruefraster für Mass und Mindestmass nach Reform 2023."
 ---
 
 # Btr: Aufgabenkreise
 
-## Spezialwissen: Btr: Aufgabenkreise
-- **Spezialgegenstand:** Btr: Aufgabenkreise / btr aufgabenkreise formulierung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Arbeitsfokus: **Btr: Aufgabenkreise**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Btr: Aufgabenkreise
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -47,7 +61,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

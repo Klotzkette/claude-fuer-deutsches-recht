@@ -7,10 +7,10 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 
 ## Arbeitsbereich
 
-**Schiedsklausel Intwr Grenzueberschreitender** ordnet den Fall über die tragenden Prüffelder: Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertragsstreit mit Rechtswahl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Schiedsklausel Intwr Grenzueberschreitender** ordnet den Fall über die tragenden Prüfungslinien: Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertragsstreit mit Rechtswahl. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` | Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren). |
 | `intwr-schiedsklausel-newyork-spezial` | Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt. |
@@ -18,12 +18,12 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Wirtschaftsrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`
 
@@ -41,7 +41,7 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 6. Liegt Verbraucherbeteiligung vor? § 1031 Abs. 5 ZPO — schärfere Formanforderungen zwingend.
 7. Soll Streitschlichtung (Mediation, Conciliation) als vorgeschaltete Pflichtphase vereinbart werden (so genannte Multi-Tier-Klausel)? Begründung: wirkt kostenmindernd, muss präzise formuliert sein um Zuständigkeitsfragen zu vermeiden.
 8. Notwendigkeit von Interim Relief (einstweilige Maßnahmen) — Zuständigkeit des Schiedsgerichts, Notfallschiedsrichter ICC Art. 29, DIS § 23, oder staatliche Gerichte weiterhin offen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -100,11 +100,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Schiedsklausel formulieren oder pruefen | Template unten; ICC oder DIS als Institution empfehlen |
 | Variante A — Mandant will staatliche Gerichtsbarkeit | Kein Schiedsverfahren; Gerichtsstandsklausel nach Art. 25 Bruessel Ia |
-| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzustaendigkeit beachten |
+| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzuständigkeit beachten |
 | Variante C — Investitionsstreit | ICSID pruefen; Achmea-Problematik bei Intra-EU-BIT beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -113,7 +112,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ```
 Alle Streitigkeiten, die sich im Zusammenhang mit diesem Vertrag oder
 ueber seine Gueltigkeit ergeben, werden nach der Schiedsgerichts-
-ordnung der Deutschen Institution fuer Schiedsgerichtsbarkeit e.V.
+ordnung der Deutschen Institution für Schiedsgerichtsbarkeit e.V.
 (DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig
 entschieden.
 
@@ -172,7 +171,7 @@ gegenstand sind hinreichend bestimmt.
 
 Wir beantragen daher, die Klage als unzulaessig abzuweisen.
 
-Vorsorglich und bedingt fuer den Fall, dass das Gericht die Einrede
+Vorsorglich und bedingt für den Fall, dass das Gericht die Einrede
 zurueckweist, beantragen wir Klageabweisung in der Sache.
 
 [Unterschrift]
@@ -319,20 +318,16 @@ Anwendbares Recht: [RECHTSORDNUNG]
 # IntWR: Schiedsklausel New York
 
 ## Spezialwissen: IntWR: Schiedsklausel New York
-- **Spezialgegenstand:** IntWR: Schiedsklausel New York / intwr schiedsklausel newyork spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -360,7 +355,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

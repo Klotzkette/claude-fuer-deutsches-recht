@@ -43,7 +43,7 @@ description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die
 
 - EM-Rente regelmaessig 3 Jahre befristet.
 - Nach 9 Jahren ggf. unbefristet.
-- Pruefantraege Behoerden initiative.
+- Pruefantraege Behörden initiative.
 
 ## Hinzuverdienst
 

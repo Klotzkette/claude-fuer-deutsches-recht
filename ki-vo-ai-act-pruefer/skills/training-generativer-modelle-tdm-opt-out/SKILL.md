@@ -1,13 +1,13 @@
 ---
 name: training-generativer-modelle-tdm-opt-out
-description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk fuer Modellanbieter und Unternehmensnutzer."
+description: "Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk für Modellanbieter und Unternehmensnutzer."
 ---
 
 # Training generativer Modelle: TDM und Opt-out
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn ein Modell mit fremden Werken, Datenbanken, Bildern, Musik, Code oder Texten trainiert wurde oder wenn ein Unternehmen ein Modell einkauft und die Trainingsdatenrisiken verstehen muss.
+Anwendungsfall: ein Modell mit fremden Werken, Datenbanken, Bildern, Musik, Code oder Texten trainiert wurde oder wenn ein Unternehmen ein Modell einkauft und die Trainingsdatenrisiken verstehen muss.
 
 ## Prüffragen
 

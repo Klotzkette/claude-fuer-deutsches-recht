@@ -5,12 +5,26 @@ description: "Forschungsdaten: Fristennotiz und nächster Schritt im DFG-Förder
 
 # Forschungsdaten: Fristennotiz und nächster Schritt
 
-## Spezialwissen: Forschungsdaten: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Forschungsdaten: Fristennotiz und nächster Schritt / forschungsdaten fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DFG, KI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Regelungs- und Quellenanker
 
+Arbeitsfokus: **Forschungsdaten: Fristennotiz und nächster Schritt**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Ausgangspunkt.
+- `Art. 89 Abs. 1 DSGVO` — Garantien für wissenschaftliche Forschungszwecke.
+- `Art. 9 Abs. 2 lit. j DSGVO` — besondere Kategorien personenbezogener Daten in Forschungskontexten.
+- `§ 27 Abs. 1 BDSG` — Datenverarbeitung zu wissenschaftlichen Forschungszwecken.
+- `§ 7 Abs. 1 TierSchG` — Tierversuche nur bei gesetzlich anerkanntem Zweck und Erforderlichkeit.
+- `§ 8 Abs. 1 TierSchG` — Genehmigungspflichtiger Tierversuch.
+- `§ 69a UrhG` — Computerprogramme als Schutzgegenstand bei Forschungssoftware.
+- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen.
+- `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
+- `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Forschungsdaten: Fristennotiz und nächster Schritt
+- **Normen-/Quellenanker:** DFG, KI.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

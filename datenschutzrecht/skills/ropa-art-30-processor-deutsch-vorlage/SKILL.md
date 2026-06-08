@@ -1,24 +1,24 @@
 ---
 name: ropa-art-30-processor-deutsch-vorlage
-description: "Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele fuer Hosting, Steuerberatung, Lohnbuchhaltung."
+description: "Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele für Hosting, Steuerberatung, Lohnbuchhaltung."
 ---
 
 # RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch
 
 ## Zweck
 
-Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet fuer Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
+Dieser Skill liefert eine ausfuellfertige Vorlage für das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet für Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
 
 ## Wann dieses Modul hilft
 
 - Auftragsverarbeiter baut sein RoPA erstmalig auf.
-- Kanzlei taetigt fuer Mandanten Datenverarbeitung im Auftrag (z. B. Lohnbuchhaltung, IT-Outsourcing) und ist insoweit Processor.
+- Kanzlei taetigt für Mandanten Datenverarbeitung im Auftrag (z. B. Lohnbuchhaltung, IT-Outsourcing) und ist insoweit Processor.
 - Audit eines bestehenden Processor-RoPA.
 - Aufsichtsbehoerde verlangt nach Art. 30 Abs. 4 DSGVO Vorlage.
 
 ## Rechtlicher Rahmen
 
-Art. 30 Abs. 2 DSGVO – Pflichtinhalte fuer Processor:
+Art. 30 Abs. 2 DSGVO – Pflichtinhalte für Processor:
 
 a) Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, in dessen Auftrag er taetig ist, sowie ggf. eines Vertreters des Verantwortlichen oder des Auftragsverarbeiters und eines Datenschutzbeauftragten;
 b) Kategorien der im Auftrag jedes Verantwortlichen durchgefuehrten Verarbeitungen;
@@ -86,18 +86,17 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Rechtsrahmen.
-- `ropa-art-30-controller-deutsch-vorlage` fuer Controller-Pendant.
-- `avv-art-28-dsgvo-grundtatbestand` fuer Vertragspflichten.
-- `avv-cloud-und-subverarbeitung-art-28-iv` fuer Subverarbeiter-Klauseln.
-- `tia-template-deutsch-vollvorlage` fuer Transferpruefung.
+- `ropa-art-30-dsgvo-grundlagen` für Rechtsrahmen.
+- `ropa-art-30-controller-deutsch-vorlage` für Controller-Pendant.
+- `avv-art-28-dsgvo-grundtatbestand` für Vertragspflichten.
+- `avv-cloud-und-subverarbeitung-art-28-iv` für Subverarbeiter-Klauseln.
+- `tia-template-deutsch-vollvorlage` für Transferpruefung.
 
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 2, Art. 28.
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 - DSK-Kurzpapier Nr. 13 "Auftragsverarbeitung" (Stand 16.01.2018).
-
 
 ## Qualitäts-Hardening
 

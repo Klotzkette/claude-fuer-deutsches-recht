@@ -1,6 +1,6 @@
 ---
 name: vendor-due-diligence-ai-act-beschaffung
-description: "KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen fuer Einkauf und Legal."
+description: "KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen für Einkauf und Legal."
 ---
 
 # KI-Beschaffung: Vendor Due Diligence

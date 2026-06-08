@@ -15,7 +15,7 @@ Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat einge
 
 - Mandant erhaelt ein Auskunftsersuchen nach Art. 15 DSGVO.
 - Mandant meldet eine moegliche Datenpanne.
-- Aufsichtsbehoerde hat angeschrieben (Pruefung, Anhoerung, Bussgeldbescheid).
+- Aufsichtsbehoerde hat angeschrieben (Pruefung, Anhörung, Bussgeldbescheid).
 - Betroffener klagt auf Schadensersatz nach Art. 82 DSGVO.
 - Beschwerde nach Art. 77 DSGVO ist eingegangen.
 
@@ -23,10 +23,10 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 
 1. **Rolle:** Welche Rolle hat der Mandant in der Datenverarbeitung? Verantwortlicher (Art. 4 Nr. 7 DSGVO), Auftragsverarbeiter (Art. 4 Nr. 8, Art. 28 DSGVO) oder gemeinsam Verantwortlicher (Art. 26 DSGVO)? Wer hat ueber Zweck und Mittel entschieden?
 2. **Anlass:** Wer hat den Vorgang ausgeloest? Aufsichtsbehoerde, Betroffener selbst, Konkurrent, Gegnervertreter, eigene interne Pruefung, Whistleblower?
-3. **Frist:** Welche Frist laeuft jetzt? Art. 12 III DSGVO (ein Monat ab Eingang Antrag, Verlaengerung bis drei Monate gesamt), Art. 33 DSGVO (72 Stunden ab Kenntnis), Anhoerungsfrist im Bussgeldverfahren, Klagefrist?
+3. **Frist:** Welche Frist laeuft jetzt? Art. 12 III DSGVO (ein Monat ab Eingang Antrag, Verlaengerung bis drei Monate gesamt), Art. 33 DSGVO (72 Stunden ab Kenntnis), Anhörungsfrist im Bussgeldverfahren, Klagefrist?
 4. **Risikoklasse:** Welche Datenkategorien sind betroffen? Allgemeine personenbezogene Daten, besondere Kategorien (Art. 9 DSGVO Gesundheit Religion Gewerkschaft sexuelle Orientierung biometrische Daten), Strafrechtsdaten (Art. 10 DSGVO), Minderjaehrigen-Daten (Art. 8 DSGVO)?
 5. **Vorgeschichte:** Gab es schon Vorgaenge in derselben Sache? Frueheres Bussgeld, frueherer Auskunftsantrag, fruehere Beschwerde, frueherer Schadensersatzprozess?
-6. **Mandatsziel:** Was will der Mandant erreichen? Behoerdenkommunikation deeskalieren, Bussgeld senken, Schadensersatz abwehren, Auskunft formal erteilen, Klage einreichen?
+6. **Mandatsziel:** Was will der Mandant erreichen? Behördenkommunikation deeskalieren, Bussgeld senken, Schadensersatz abwehren, Auskunft formal erteilen, Klage einreichen?
 7. **Geheimhaltung und Mitwirkung:** Wer im Mandantenhaus weiss bereits Bescheid? Geschaeftsfuehrung, Datenschutzbeauftragter (Art. 37 DSGVO), Betriebsrat, IT-Leitung? Wer entscheidet?
 
 ## Rechtlicher Rahmen
@@ -40,10 +40,10 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 - **Art. 77 DSGVO** Beschwerderecht.
 - **Art. 82 DSGVO** Schadensersatz materieller und immaterieller Schaden.
 - **Art. 83 DSGVO** Bussgelder bis 4 Prozent Jahresumsatz oder 20 Mio. EUR.
-- **§ 40 BDSG** Aufsichtsbehoerden der Laender.
+- **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **§ 13 BDSG** Bestellung BfDI.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst:** Aktenzeichen anlegen, Mandantenvollmacht klaeren, schriftlich oder per Mail bestaetigen, dass Mandat angenommen ist. Kostenhinweis nach § 49b BRAO und RVG erteilen.
 2. **Als zweites:** Sieben Fragen in dieser Reihenfolge stellen. Antworten in der Matrix erfassen (siehe Mustertexte).
@@ -57,7 +57,7 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 |---|---|---|
 | Datenpanne unklar | Frist 72h laeuft (Art. 33 DSGVO) | vorschnelle Meldung erzeugt Bussgeldrisiko durch Selbstbelastung |
 | Auskunftsersuchen schwammig | schnelle Antwort signalisiert Kooperation | unvollstaendige Antwort triggert Beschwerde nach Art. 77 |
-| Behoerdenanschreiben | Reaktion vor Anhoerungsende | unueberlegte Stellungnahme wird Bussgeldakte |
+| Behördenanschreiben | Reaktion vor Anhörungsende | unueberlegte Stellungnahme wird Bussgeldakte |
 | Schadensersatzklage | Klageerwiderung in Frist | vorzeitige Anerkenntnis schliesst Verteidigung aus |
 
 ## Mustertexte
@@ -120,7 +120,6 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 - EDSA, Leitlinien 9/2022 zur Meldung von Verletzungen des Schutzes personenbezogener Daten, angenommen 28.03.2023.
 - BRAO § 43a, § 49b; RVG-Hinweise zur Vertretung in Datenschutzmandaten.
 - Kein Modellwissen zu konkreten Aufsatzfundstellen. Verifizierung vor Versand in amtliche Quellen.
-
 
 ## Qualitäts-Hardening
 

@@ -7,36 +7,34 @@ description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz S
 
 ## Arbeitsbereich
 
-**Verbraucher Regelinsolvenz Jahres** ordnet den Fall über die tragenden Prüffelder: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verbraucher Regelinsolvenz Jahres** ordnet den Fall über die tragenden Prüfungslinien: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 | `verbraucherinsolvenz-3-jahres-restschuldbefreiung` | Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster. |
 | `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung` | Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `verbraucher-oder-regelinsolvenz`
 
-**Fokus:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
 
 ## Fachkern: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
-- **Spezialgegenstand:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -73,15 +71,13 @@ InsO § 304; § 15a InsO als Altlast; Forderungsstruktur. Entscheidend ist immer
 # Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
 
 ## Fachkern: Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
-- **Spezialgegenstand:** Verbraucherinsolvenz 3 Jahres Restschuldbefreiung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Aufgabe
 
-Skill fuer die verkuerzte Restschuldbefreiung.
+Skill für die verkuerzte Restschuldbefreiung.
 
 ## Norm
 
@@ -117,7 +113,7 @@ Skill fuer die verkuerzte Restschuldbefreiung.
 
 ## Nachtraeglich auftauchende Glaeubiger
 
-- § 301 InsO: Restschuldbefreiung wirkt auch fuer nicht angemeldete Glaeubiger.
+- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Glaeubiger.
 - Ausnahme: arglistig verschwiegene Forderungen (§ 302 InsO).
 
 ## Pruefraster
@@ -140,20 +136,18 @@ Skill fuer die verkuerzte Restschuldbefreiung.
 # Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 
 ## Fachkern: Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
-- **Spezialgegenstand:** Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Aufgabe
 
-Skill fuer den ersten Vergleichsvorschlag im aussergerichtlichen Schuldenbereinigungsverfahren.
+Skill für den ersten Vergleichsvorschlag im aussergerichtlichen Schuldenbereinigungsverfahren.
 
 ## Norm
 
 - § 305 InsO (Insolvenzverordnung).
-- Schuldnerberatungsstellen-Recht der Laender.
+- Schuldnerberatungsstellen-Recht der Länder.
 
 ## Voraussetzungen
 
@@ -170,7 +164,7 @@ Skill fuer den ersten Vergleichsvorschlag im aussergerichtlichen Schuldenbereini
 ### Schritt 2: Quotenberechnung
 - Realistisch erfuellbare Quote.
 - Typische Spanne 0-30 Prozent.
-- Sondervorschriften fuer einzelne Glaeubigertypen (z. B. Finanzamt nach AO).
+- Sondervorschriften für einzelne Glaeubigertypen (z. B. Finanzamt nach AO).
 
 ### Schritt 3: Vergleichsvorschlag
 - Form: Schriftlich.

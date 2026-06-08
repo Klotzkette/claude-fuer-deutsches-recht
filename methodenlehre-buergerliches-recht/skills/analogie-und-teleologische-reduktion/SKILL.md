@@ -63,7 +63,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 - **§ 181 BGB (Insichgeschaeft)** — Wortlaut erfasst auch Faelle, in denen der Vertretene durch das Insichgeschaeft nur Vorteile erlangt. Hier reduziert die Rechtsprechung den Anwendungsbereich teleologisch.
 - **§ 932 BGB (gutglaeubiger Erwerb)** — Der Wortlaut erfasst auch das ueber-uebergeber-Erwerbsverhaeltnis; bei bestimmten Konstellationen wird teleologisch reduziert.
-- **Verjaehrungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjaehrungseinrede bewirkt.
+- **Verjährungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjährungseinrede bewirkt.
 
 **Verbot der Analogie:**
 
@@ -74,7 +74,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten Privater sind moeglich, soweit die Voraussetzungen erfuellt sind.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 **Fuer die Analogie:**
 
@@ -122,7 +122,6 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -130,3 +129,32 @@ Stand: Mai 2026.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 20 Abs. 3 GG (Gesetzesbindung)
+- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
+- § 133 BGB (Auslegung Willenserklärung)
+- § 157 BGB (Auslegung Verträge)
+- § 242 BGB (Treu und Glauben)
+- § 305c Abs. 2 BGB (Unklarheitenregel)
+- EGBGB Art. 6 (ordre public)
+- GG Art. 1, 2 (Verfassungskonforme Auslegung)
+- ZPO § 286 (freie Beweiswürdigung)
+- GVG § 132 (Vorlage Großer Senat)
+
+### Leitentscheidungen
+
+- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- BGH GSZ 1/11 (BGH-Methodik)
+- BVerfG 2 BvR 883/14 (Wortlautgrenze)
+- BGH V ZR 250/02 (teleologische Reduktion)
+
+### Anwendung im Skill
+
+- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
+- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
+- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.

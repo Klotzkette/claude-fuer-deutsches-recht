@@ -7,10 +7,10 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 
 ## Arbeitsbereich
 
-**Folgenorientierte Auslegung Formale** ordnet den Fall über die tragenden Prüffelder: Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Folgenorientierte Auslegung Formale** ordnet den Fall über die tragenden Prüfungslinien: Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `folgenorientierte-auslegung-empirie` | Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt. |
 | `formale-legalitaet-vs-einzelfallgerechtigkeit` | Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung. |
@@ -20,12 +20,12 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `folgenorientierte-auslegung-empirie`
 
@@ -40,7 +40,6 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Berücksichtigung von Rechtsfolgen bei der Auslegung ist methodisch zulässig und in bestimmten Bereichen geboten — aber nur unter strengen Bedingungen. Dieses Skill zeigt, wann Folgenargumente in die Auslegung einbezogen werden dürfen, wie sie empirisch zu belegen sind und wo die Grenze zur unzulässigen Konsequenzenpolitik verläuft.
 
@@ -130,10 +129,9 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
+Anwendungsfall: das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
 
 ## Prüfroutine
 
@@ -174,7 +172,6 @@ Erstelle eine Matrix `Formaler Befund / Härte / Normanker / Kompetenz / Verallg
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Art. 20 Abs. 3 GG bindet die vollziehende Gewalt an Gesetz und Recht sowie die Rechtsprechung an Gesetz und Recht. Dieses Prüfprotokoll hilft dabei, in jedem Auslegungs- und Rechtsfortbildungsschritt zu verifizieren, ob diese Bindung eingehalten wird. Es ist das zentrale Demokratieprinzip der richterlichen Methodenlehre.
 
@@ -265,7 +262,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Gesetzgebungsmaterialien sind wichtige Auslegungshilfen, aber keine bindenden Normen. Dieses Skill vermittelt den methodisch disziplinierten Umgang mit Bundestags-Drucksachen, Begründungsschriften, Protokollen und sonstigen Materialien und zeigt, wie der Gesetzgeberwille korrekt ermittelt und eingewichtet wird.
 
 ## Mandantenfall
@@ -354,7 +350,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Im demokratischen Rechtsstaat haben Gesetzgebung, Rechtsprechung und Rechtswissenschaft unterschiedliche und klar abgegrenzte Rollen bei der Rechtsbildung. Dieses Skill systematisiert diese Rollen und hilft, Rollenkonfusionen zu erkennen und methodisch korrekt zu verorten. Es ist grundlegend für alle Fragen institutioneller Kompetenz in der Methodenlehre.
 

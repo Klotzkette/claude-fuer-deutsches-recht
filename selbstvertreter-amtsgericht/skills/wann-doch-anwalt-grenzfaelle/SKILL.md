@@ -28,15 +28,15 @@ Selbstvertretung vor dem AG ist moeglich und oft sinnvoll. Aber nicht immer. Bei
 - **§ 114 FamFG** — Familiensachen.
 - **§ 121 ZPO** — Anwaltsbeiordnung bei PKH.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Roter Faden: Wann immer Anwalt?
 
 #### Ueberblick:
 
 - **Familienverfahren (Ehesachen)** § 114 FamFG: Anwaltszwang.
-- **Streitwert hoch, ab LG-Zustaendigkeit**: Anwaltszwang § 78 ZPO.
-- **Berufung vor LG**: Anwaltszwang fuer Begruendung.
+- **Streitwert hoch, ab LG-Zuständigkeit**: Anwaltszwang § 78 ZPO.
+- **Berufung vor LG**: Anwaltszwang für Begruendung.
 
 #### Wenn diese Faelle: Anwalt zwingend.
 
@@ -55,8 +55,8 @@ Auch vor AG kann Anwalt sinnvoll sein bei:
 Faustregel:
 
 - Streitwert bis 1.000 EUR: Selbstvertretung oft ausreichend (auch § 495a ZPO vereinfachtes Verfahren moeglich).
-- Streitwert 1.000-10.000 EUR: AG zustaendig, kein Anwaltszwang — Pruefung Einzelfall.
-- Streitwert ueber 10.000 EUR: LG zustaendig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
+- Streitwert 1.000-10.000 EUR: AG zuständig, kein Anwaltszwang — Pruefung Einzelfall.
+- Streitwert ueber 10.000 EUR: LG zuständig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
 
 ### Schritt 4 — Spezialmaterie
 
@@ -65,7 +65,7 @@ Bei Spezial-Rechtsgebieten:
 - **Familienrecht**: Anwaltszwang in Ehesachen.
 - **Arbeitsrecht**: Vor ArbG erste Instanz kein Anwaltszwang, aber Fachanwalt oft hilfreich.
 - **Mietsachen**: Mieterverein als Alternative.
-- **Verkehrsrecht (Unfall)**: Anwalt fuer Versicherungs-Verhandlungen.
+- **Verkehrsrecht (Unfall)**: Anwalt für Versicherungs-Verhandlungen.
 - **Sozialrecht**: Vor Sozialgericht eigene Regeln.
 
 ### Schritt 5 — Kosten-Nutzen-Rechnung
@@ -105,7 +105,7 @@ Sie koennen:
 
 - Selbst klagen.
 - Bei Komplikationen Anwalt einschalten (= "Beistand" im Termin nicht erlaubt, aber Beratung im Hintergrund).
-- Anwalt fuer Berufung mandatieren.
+- Anwalt für Berufung mandatieren.
 
 ### Schritt 9 — Wenn PKH bewilligt: Anwalt beiordnen lassen
 
@@ -118,7 +118,7 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 Beantworten Sie:
 
 - Verstehe ich, was im Verfahren passieren wird?
-- Habe ich Zeit fuer Schriftsaetze und Termine?
+- Habe ich Zeit für Schriftsaetze und Termine?
 - Habe ich Mut, im Termin selbst zu sprechen?
 - Habe ich klare Beweis-Lage?
 
@@ -127,7 +127,7 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 ## Worauf Sie besonders achten muessen
 
 - **Anwaltszwang vor LG** und in bestimmten AG-Verfahren.
-- **Berufung braucht Anwalt** fuer Begruendung.
+- **Berufung braucht Anwalt** für Begruendung.
 - **Komplexe Sachen** ueberfordern Laien.
 - **PKH** als Brueckenfinanzierung.
 
@@ -135,7 +135,7 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 
 - "Ich brauche keinen Anwalt." → Manchmal doch.
 - "Anwalt zahlt sich nicht aus." → Bei Komplikationen schon.
-- "Ich nehme erst Anwalt fuer Berufung." → Gut, aber AG-Phase vorher gut gestalten.
+- "Ich nehme erst Anwalt für Berufung." → Gut, aber AG-Phase vorher gut gestalten.
 
 ## Querverweise
 
@@ -148,7 +148,6 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-
 
 ## Qualitäts-Hardening
 

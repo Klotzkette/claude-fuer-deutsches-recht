@@ -7,10 +7,10 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 
 ## Arbeitsbereich
 
-**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüffelder: Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüfungslinien: Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix für arbeitsrechtliche Mandate: zeitliche Sachverhaltsaufbereitung, Ereignis-Zeitachse, Dokumentenzuordnung nach Datum, Lückenidentifikation, Erstellung einer strukturierten Fallchronologie als Arbeitsgrundlage. |
 | `workflow-fristen-und-risikoampel` | Fristen und Risikoampel: vollständige Fristenübersicht für arbeitsrechtliche Mandate, Ampelbewertung nach Dringlichkeit, Fristenkalender, Wiedervorlagensystem, kritische Fristen Kündigung KSchG, Befristung TzBfG, AGG, Berufung ArbGG. |
@@ -18,12 +18,12 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 
@@ -38,7 +38,6 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Strukturierte Aufbereitung des Sachverhalts in einer zeitlichen Abfolge mit Belegzuordnung — Grundlage für Schriftsatz, Prüfvermerk und Mandantengespräch. Verhindert, dass wichtige Ereignisse vergessen oder falsch eingeordnet werden.
@@ -153,7 +152,6 @@ BESCHAFFUNGSWEGE:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständige Fristenkontrolle für alle laufenden und entstehenden Fristen im Arbeitsrechtsmandat — mit Ampelbewertung nach Dringlichkeit. Grundlage für Wiedervorlagenkalender und Mandantenkommunikation.
@@ -282,7 +280,6 @@ ERLEDIGT:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Strukturierte Kommunikation mit Mandanten im Arbeitsrechtsmandat — von der Mandantsaufnahme bis zum Abschluss. Sicherstellt, dass Informationspflichten erfüllt werden und der Mandant informiert und eingebunden bleibt.

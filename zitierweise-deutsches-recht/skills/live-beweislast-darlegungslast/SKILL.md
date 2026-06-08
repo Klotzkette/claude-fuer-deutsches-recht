@@ -5,12 +5,24 @@ description: "Live: Beweislast, Darlegungslast und Substantiierung im Zitierweis
 
 # Live: Beweislast, Darlegungslast und Substantiierung
 
-## Spezialwissen: Live: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Live: Beweislast, Darlegungslast und Substantiierung / live beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Regelungs- und Quellenanker
 
+Arbeitsfokus: **Live: Beweislast, Darlegungslast und Substantiierung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
+- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
+- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
+- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
+- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Live: Beweislast, Darlegungslast und Substantiierung
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

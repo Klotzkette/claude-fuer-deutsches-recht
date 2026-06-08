@@ -1,13 +1,13 @@
 ---
 name: agb-werkleistung-vob-b-aktuell
-description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-fuer-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster."
+description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster."
 ---
 
 # Agb Werkleistung Vob B Aktuell
 
 ## Fachkern: Agb Werkleistung Vob B Aktuell
 
-- **Klauselproblem (Agb Werkleistung Vob B Aktuell):** AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-fuer-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster.
+- **Klauselproblem (Agb Werkleistung Vob B Aktuell):** AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -19,7 +19,7 @@ description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behande
 - BGH VII ZR 137/16.
 
 ### § 13 VOB-B Maengelhaftung
-- Verkuerzung der Verjaehrungsfrist von 5 auf 4 Jahre — wirksam in B2B.
+- Verkuerzung der Verjährungsfrist von 5 auf 4 Jahre — wirksam in B2B.
 - In B2C unwirksam wegen § 309 Nr. 8 Buchst. b ff. BGB.
 
 ### § 17 VOB-B Sicherheitsleistung

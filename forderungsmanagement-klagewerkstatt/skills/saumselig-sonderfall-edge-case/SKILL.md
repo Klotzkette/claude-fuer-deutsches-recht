@@ -1,41 +1,44 @@
 ---
 name: saumselig-sonderfall-edge-case
-description: "Saumselig: Sonderfall und Edge-Case-Prüfung im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Spezielle Fallkonstellationen die vom Standard abweichen. Schuldner ist unbekannt verstorben verzogen ins Ausland oder unter Betreuung. Pinpoints ZPO 185 öffentliche Zustellung BGB 1922 Erbfolge BGB 1896 Betreuung ZPO 50 Parteifaehigkeit. Liefert Behandlungsstrategien je Sonderfall."
 ---
 
-# Saumselig: Sonderfall und Edge-Case-Prüfung
+# Saumselige Sonderfaelle
 
-## Fachkern: Saumselig: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Saumselig: Sonderfall und Edge-Case-Prüfung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+Edge-Cases die das Standardverfahren stoppen.
 
+## Sonderfall-Katalog
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+| Konstellation | Strategie | Norm |
+|---|---|---|
+| Schuldner verzogen Anschrift unbekannt | Einwohnermeldeamtsanfrage Auskunftei dann öffentliche Zustellung | BMG 44 ZPO 185 |
+| Schuldner verstorben Erben unklar | Erbenermittlung Klage gegen Nachlass Nachlasspfleger nach BGB 1961 | BGB 1922 1961 |
+| Schuldner unter Betreuung | Vertretung durch Betreuer Klage gegen Betreuer in seiner Stellvertreterrolle | BGB 1814 ff |
+| Schuldner Minderjaehrige | Eltern als gesetzliche Vertreter | BGB 1626 1629 |
+| Schuldner GmbH ohne Geschaeftsfuehrer | Notbestellung BGB 29 oder Bestellung Notgeschaeftsfuehrer GmbHG 35 |
+| Schuldner Auslandsanschrift | Brüssel Ia EuMVVO Pruefung | VO 1215/2012 |
+| Schuldner BGB-Gesellschaft GbR | Klage gegen Gesellschaft und Gesellschafter samt Haftung BGB 720 723 |
+| Forderung gegen Verein | Klage gegen e V Vorstand | BGB 26 |
+| Insolvente Privatperson | Tabellenanmeldung InsO 174 oder Restschuldbefreiung beachten | InsO 286 ff |
+| Forderung gegen Behörde | Pruefung Rechtsweg | GVG 13 VwGO 40 |
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Oeffentliche Zustellung ZPO 185
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Saumselig** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Voraussetzung ist dass Aufenthalt unbekannt und Wohnsitz nicht zu ermitteln. Antrag mit Glaubhaftmachung Recherche Einwohnermeldeamt Auskunftei Schufa Online-Suche. Beschluss des Gerichts. Aushang oder Veroeffentlichung im elektronischen Gerichtsportal. Frist beginnt mit Ablauf eines Monats.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Nachlass-Konstellation
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+Bei verstorbenem Schuldner pruefen ob Nachlass werthaltig. Klage gegen Erben BGB 1967 mit Haftung beschraenkt nach BGB 1990 wenn Nachlass unzureichend. Nachlasspflegschaft beantragen falls Erben unbekannt BGB 1961.
+
+## Norm-Pinpoints
+
+- ZPO 50 185
+- BGB 1922 1961 1967 1990
+- BGB 1626 1629 1814 ff
+- GmbHG 35
+
+## Quellen
+
+- [ZPO 185](https://www.gesetze-im-internet.de/zpo/__185.html)
+- [BGB 1922](https://www.gesetze-im-internet.de/bgb/__1922.html)
+- [BGB 1961](https://www.gesetze-im-internet.de/bgb/__1961.html)

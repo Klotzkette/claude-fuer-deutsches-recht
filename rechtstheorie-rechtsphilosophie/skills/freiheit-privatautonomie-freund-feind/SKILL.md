@@ -7,23 +7,40 @@ description: "Freiheit Privatautonomie Freund Feind im Rechtstheorie und Rechtsp
 
 ## Arbeitsbereich
 
-**Freiheit Privatautonomie Freund Feind** ordnet den Fall über die tragenden Prüffelder: Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Freiheit Privatautonomie Freund Feind** ordnet den Fall über die tragenden Prüfungslinien: Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `freiheit-privatautonomie-paternalismus` | Prueft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus. |
 | `freund-feind-rhetorik-und-pluralismuscheck` | Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang und Feinderklaerung in rechtlichen Argumenten; stellt pluralistische, grundrechts- und verfahrensgebundene Gegenpruefungen bereit. |
 | `gerechtigkeit-verteilung-effizienz` | Prueft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen. |
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Arbeitsweg
 
-- Rolle und Ziel im Rechtstheorie und Rechtsphilosophie klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `freiheit-privatautonomie-paternalismus`
 
@@ -39,13 +56,10 @@ description: "Freiheit Privatautonomie Freund Feind im Rechtstheorie und Rechtsp
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Freiheit und Paternalismus
-- **Spezialgegenstand:** Freiheit und Paternalismus; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -91,13 +105,10 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Freund-Feind-Rhetorik und Pluralismuscheck
-- **Spezialgegenstand:** Freund-Feind-Rhetorik und Pluralismuscheck; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 
@@ -154,13 +165,10 @@ Schließe mit einer Formulierung, die harte rechtliche Konsequenzen nur an prüf
 - **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Gerechtigkeit, Verteilung, Effizienz
-- **Spezialgegenstand:** Gerechtigkeit, Verteilung, Effizienz; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Aufgabe
 

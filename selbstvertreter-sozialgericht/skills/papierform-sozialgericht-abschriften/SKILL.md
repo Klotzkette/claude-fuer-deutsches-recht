@@ -17,7 +17,7 @@ Auch ohne Internet und Fax koennen Sie klagen. Per Post. Dabei muessen Sie aber 
 
 ## In einfacher Sprache
 
-Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das Gericht braucht den Brief mehrfach. Einmal fuer sich, einmal fuer den Gegner.
+Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das Gericht braucht den Brief mehrfach. Einmal für sich, einmal für den Gegner.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,8 +27,8 @@ Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das G
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Abschrift**: Kopie eines Schriftsatzes fuer die Gegenseite.
-- **Original**: Mit Unterschrift versehenes Exemplar fuer das Gericht.
+- **Abschrift**: Kopie eines Schriftsatzes für die Gegenseite.
+- **Original**: Mit Unterschrift versehenes Exemplar für das Gericht.
 - **Einschreiben mit Rueckschein**: Brief, Empfaenger unterschreibt; Sie bekommen Beleg.
 - **Einwurf-Einschreiben**: Brief, Auslieferung wird dokumentiert.
 
@@ -39,7 +39,7 @@ Sie koennen Ihre Klage per Brief schicken. Das ist immer noch ok. Wichtig: das G
 - **§ 93 SGG** — Abschriften.
 - **§ 65a SGG** — Elektronische Alternative (siehe MJP).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Schriftsatz fertigstellen
 
@@ -47,24 +47,24 @@ Erstellen Sie die Klage am Computer oder schreiben sie sauber per Hand. Unterzei
 
 ### Schritt 2 — Abschriften anfertigen
 
-Pro Beklagter eine Abschrift, plus eine fuer das Gericht (Akte), plus eine fuer Sie:
+Pro Beklagter eine Abschrift, plus eine für das Gericht (Akte), plus eine für Sie:
 
-- Bei 1 beklagter Behoerde: 3 Exemplare (1 Original + 1 fuer Behoerde + 1 fuer Sie)
-- Bei 2 beklagten Behoerden: 4 Exemplare
+- Bei 1 beklagter Behörde: 3 Exemplare (1 Original + 1 für Behörde + 1 für Sie)
+- Bei 2 beklagten Behörden: 4 Exemplare
 
-Das Gericht braucht: 1 mit Originalunterschrift + Abschriften zur Zustellung an die Behoerde(n).
+Das Gericht braucht: 1 mit Originalunterschrift + Abschriften zur Zustellung an die Behörde(n).
 
 Sie machen einfach Kopien (kein Notar oder so noetig). Auf den Abschriften "Abschrift" oben drueber schreiben.
 
 ### Schritt 3 — Anlagen ebenfalls in Abschrift
 
-Alle Anlagen einmal fuer das Gericht (Original-Kopie reicht) und einmal je Beklagter.
+Alle Anlagen einmal für das Gericht (Original-Kopie reicht) und einmal je Beklagter.
 
 ### Schritt 4 — Versand vorbereiten
 
 - Adresse aus www.sozialgerichtsbarkeit.de
 - Umschlag entsprechend gross
-- Fragen Sie in der Post nach dem Porto fuer Maxibrief / Paketchen, je nach Umfang.
+- Fragen Sie in der Post nach dem Porto für Maxibrief / Paketchen, je nach Umfang.
 
 ### Schritt 5 — Versandweg waehlen
 
@@ -106,7 +106,6 @@ Aufheben min. 5 Jahre.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 93 SGG zu Abschriften. Postpreise variieren, aktuell pruefen.
-
 
 ## Qualitäts-Hardening
 

@@ -7,33 +7,33 @@ description: "Oertliche ZPO Online Verfahren im Selbstvertretung am Amtsgericht:
 
 ## Arbeitsbereich
 
-**Oertliche ZPO Online Verfahren** ordnet den Fall über die tragenden Prüffelder: Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Oertliche ZPO Online Verfahren** ordnet den Fall über die tragenden Prüfungslinien: Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `oertliche-zustaendigkeit-12-37-zpo` | Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt. |
+| `oertliche-zuständigkeit-12-37-zpo` | Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt. |
 | `online-verfahren-11-buch-zpo-experimentell` | Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme. |
 | `rechtsmittelfrist-517-zpo` | Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollständigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `oertliche-zustaendigkeit-12-37-zpo`
+## 1. `oertliche-zuständigkeit-12-37-zpo`
 
 **Fokus:** Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt.
 
-# Welches Amtsgericht ist oertlich zustaendig?
+# Welches Amtsgericht ist oertlich zuständig?
 
 ## Worum geht es?
 
-Es reicht nicht zu wissen, dass das AG zustaendig ist — Sie muessen wissen, **welches** AG. Deutschland hat ueber 600 Amtsgerichte. Die ZPO regelt das in §§ 12 ff. Regel: Sie klagen am Wohnsitz des Beklagten ("allgemeiner Gerichtsstand"). Es gibt aber **besondere Gerichtsstaende**, an denen Sie als Klaeger waehlen koennen. Und es gibt **ausschliessliche Gerichtsstaende**, die alle anderen verdraengen.
+Es reicht nicht zu wissen, dass das AG zuständig ist — Sie muessen wissen, **welches** AG. Deutschland hat ueber 600 Amtsgerichte. Die ZPO regelt das in §§ 12 ff. Regel: Sie klagen am Wohnsitz des Beklagten ("allgemeiner Gerichtsstand"). Es gibt aber **besondere Gerichtsstaende**, an denen Sie als Klaeger waehlen koennen. Und es gibt **ausschliessliche Gerichtsstaende**, die alle anderen verdraengen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -55,16 +55,16 @@ Es reicht nicht zu wissen, dass das AG zustaendig ist — Sie muessen wissen, **
 - **§ 17 ZPO** — Allg. Gerichtsstand juristischer Person = Sitz.
 - **§ 21 ZPO** — Niederlassungs-Gerichtsstand.
 - **§ 29 ZPO** — Gerichtsstand des Erfuellungsorts.
-- **§ 29a ZPO** — Ausschliesslicher Gerichtsstand fuer Wohnraummietsachen (Lage des Mietobjekts).
+- **§ 29a ZPO** — Ausschliesslicher Gerichtsstand für Wohnraummietsachen (Lage des Mietobjekts).
 - **§ 29c ZPO** — Verbraucher-Gerichtsstand (Wohnsitz des Verbrauchers).
 - **§ 32 ZPO** — Gerichtsstand der unerlaubten Handlung (Tatort).
 - **§§ 38–40 ZPO** — Gerichtsstandsvereinbarung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ausschliesslichen Gerichtsstand pruefen
 
-Wenn Ihr Streit unter eine **ausschliessliche** Zustaendigkeit faellt, koennen Sie nirgends sonst klagen. Wichtigste Faelle:
+Wenn Ihr Streit unter eine **ausschliessliche** Zuständigkeit faellt, koennen Sie nirgends sonst klagen. Wichtigste Faelle:
 
 - **Wohnraummietsache (§ 29a ZPO)**: Lage der Mietsache.
 - **Dingliche Klagen ueber Grundstuecke (§ 24 ZPO)**: Lage des Grundstuecks.
@@ -105,19 +105,19 @@ Wenn beide Parteien im Vertrag einen Gerichtsstand vereinbart haben: § 38 ZPO.
 
 Faustregel: Mit einem Verbraucher kann ein anderer Gerichtsstand i. d. R. **nicht** wirksam vereinbart werden.
 
-### Schritt 5 — Gerichts-Wahl bei Mehrfach-Zustaendigkeit
+### Schritt 5 — Gerichts-Wahl bei Mehrfach-Zuständigkeit
 
-Mehrere Gerichtsstaende gleichzeitig moeglich? Sie waehlen als Klaeger. § 35 ZPO. Aber: Praktische Erwaegungen — Anfahrt fuer Sie, Anfahrt fuer Zeugen, Sprache des Gerichts (falls dolmetscherpflichtig). Skill `dolmetscher-185-gvg`.
+Mehrere Gerichtsstaende gleichzeitig moeglich? Sie waehlen als Klaeger. § 35 ZPO. Aber: Praktische Erwaegungen — Anfahrt für Sie, Anfahrt für Zeugen, Sprache des Gerichts (falls dolmetscherpflichtig). Skill `dolmetscher-185-gvg`.
 
 ### Schritt 6 — Beim falschen Gericht eingeklagt?
 
-Beklagter ruegt Unzustaendigkeit in der Klageerwiderung; Gericht verweist auf Antrag nach § 281 ZPO. Wenn Beklagter ruegelos verhandelt: Gericht wird zustaendig (§ 39 ZPO).
+Beklagter ruegt Unzuständigkeit in der Klageerwiderung; Gericht verweist auf Antrag nach § 281 ZPO. Wenn Beklagter ruegelos verhandelt: Gericht wird zuständig (§ 39 ZPO).
 
 ## Worauf Sie besonders achten muessen
 
 - **Mietsache § 29a ZPO**: Ausschliesslich am Lagrort der Wohnung. Wenn Vermieter in Hamburg sitzt und Wohnung in Muenchen ist: Muenchen!
 - **Online-Streit**: BGH hat Kriterien zur "bestimmungsgemaessen" Abrufbarkeit entwickelt. Bei Online-Kaufstreitigkeiten z. B. § 29c ZPO und § 32 ZPO konkurrieren.
-- **Erfuellungsort bei Geldschulden**: Die alte Streitfrage Bring- vs. Schickschuld. Pruefen Sie Vertragsregelung; ansonsten ist die Streitfrage in der Praxis fuer Sie als Laien schwer aufzuloesen — fragen Sie ggf. die Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
+- **Erfuellungsort bei Geldschulden**: Die alte Streitfrage Bring- vs. Schickschuld. Pruefen Sie Vertragsregelung; ansonsten ist die Streitfrage in der Praxis für Sie als Laien schwer aufzuloesen — fragen Sie ggf. die Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
 
 ## Typische Fehler
 
@@ -128,14 +128,13 @@ Beklagter ruegt Unzustaendigkeit in der Klageerwiderung; Gericht verweist auf An
 ## Querverweise
 
 - `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Welche Gerichtsstufe?
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Welche Gerichtsstufe?
 - `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungsort und Gerichtsstand bei Online-Delikten beachten — bei Unsicherheit Rechtsantragsstelle einschalten.
-
 
 ## Qualitäts-Hardening
 
@@ -153,30 +152,30 @@ Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungs
 
 ## Worum geht es?
 
-Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende ueber eine Internet-Plattform zu fuehren — ohne Papier, ohne persoenliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und fuer **bestimmte Streit-Typen**.
+Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende ueber eine Internet-Plattform zu fuehren — ohne Papier, ohne persönliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und für **bestimmte Streit-Typen**.
 
-**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts.**
+**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts.**
 
 ## In einfacher Sprache
 
-Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die Klage ein. Sie sehen die Antwort der Gegenseite am Bildschirm. Manchmal gibt es ein Video-Treffen. Das gibt es nur bei einigen Gerichten und nur fuer bestimmte Streit-Themen.
+Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die Klage ein. Sie sehen die Antwort der Gegenseite am Bildschirm. Manchmal gibt es ein Video-Treffen. Das gibt es nur bei einigen Gerichten und nur für bestimmte Streit-Themen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen klagen und Ihr Amtsgericht bietet das Online-Verfahren an.
 - Sie wurden in einem Online-Verfahren verklagt.
-- Sie wollen wissen, ob das Online-Verfahren fuer Ihren Fall passt.
+- Sie wollen wissen, ob das Online-Verfahren für Ihren Fall passt.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Online-Verfahren**: Ein voll-digitales Zivilverfahren auf einer Internet-Plattform.
 - **Experimentier-Klausel**: Eine Gesetzesregelung, die ein neues Verfahren erstmal in einem Test-Modus zulaesst.
-- **Strukturierte Eingabe-Maske**: Ein Formular auf der Plattform, in das Sie Ihren Sachverhalt Schritt fuer Schritt eintippen.
+- **Strukturierte Eingabe-Maske**: Ein Formular auf der Plattform, in das Sie Ihren Sachverhalt Schritt für Schritt eintippen.
 - **Teilnehmende Gerichte**: Nicht jedes Amtsgericht bietet das Online-Verfahren an. Eine Liste finden Sie auf der Webseite der Justiz Ihres Bundeslandes.
 
 ## Rechtsgrundlagen (Stand 2026)
 
-- **11. Buch ZPO (Online-Verfahren)** — neues Buch der Zivilprozessordnung, eingefuehrt mit dem Gesetz zur Foerderung digitaler Justiz-Verfahren (genaues Inkrafttreten und Paragraphen verifizieren).
+- **11. Buch ZPO (Online-Verfahren)** — neues Buch der Zivilprozessordnung, eingefuehrt mit dem Gesetz zur Förderung digitaler Justiz-Verfahren (genaues Inkrafttreten und Paragraphen verifizieren).
 - **§ 128a ZPO** — Video-Verhandlung (auch im klassischen Verfahren moeglich, vgl. `video-verhandlung-128a-zpo`).
 - **§ 130a ZPO** — elektronische Einreichung (gilt auch im klassischen Verfahren).
 
@@ -202,26 +201,26 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 
 ## Risiken und Grenzen
 
-- **Nicht fuer komplexe Faelle**: Schwierige Sachverhalte (medizinische Gutachten, technische Details) lassen sich in der Eingabe-Maske nur eingeschraenkt darstellen.
+- **Nicht für komplexe Faelle**: Schwierige Sachverhalte (medizinische Gutachten, technische Details) lassen sich in der Eingabe-Maske nur eingeschraenkt darstellen.
 - **Technik-Voraussetzungen**: Sie brauchen Computer, stabile Internet-Verbindung, Webcam, Mikrofon.
 - **Identifikation**: Sie muessen sich elektronisch ausweisen (z.B. Mein Justizpostfach, eID Personalausweis).
 - **Akten-Backup**: Sie sollten regelmaessig Kopien Ihrer Eingaben lokal speichern (z.B. als PDF herunterladen).
 - **Nicht ueberall verfuegbar**: Nur an teilnehmenden Amtsgerichten.
-- **Nicht fuer alle Streit-Typen**: Bestimmte Sachgebiete koennen ausgeschlossen sein.
+- **Nicht für alle Streit-Typen**: Bestimmte Sachgebiete koennen ausgeschlossen sein.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Ihr Amtsgericht teilnimmt
 
-Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der Webseite des oertlich zustaendigen Amtsgerichts nach. Beispiele:
+Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der Webseite des oertlich zuständigen Amtsgerichts nach. Beispiele:
 
-- Justizportal Bund-Laender
+- Justizportal Bund-Länder
 - "Online-Verfahren" als Stichwort suchen.
 - Bei der Geschaeftsstelle des Amtsgerichts nachfragen.
 
 ### Schritt 2 — Pruefen, ob Ihr Streit-Typ zugelassen ist
 
-Das Online-Verfahren ist nicht fuer alle Streit-Typen offen. Typisch zugelassen sind z.B. Zahlungsklagen unter einem bestimmten Streitwert. Lesen Sie die Bedingungen der Plattform.
+Das Online-Verfahren ist nicht für alle Streit-Typen offen. Typisch zugelassen sind z.B. Zahlungsklagen unter einem bestimmten Streitwert. Lesen Sie die Bedingungen der Plattform.
 
 ### Schritt 3 — Auf der Plattform registrieren
 
@@ -258,7 +257,7 @@ Wenn ein Termin stattfindet, bekommen Sie einen Link. Loggen Sie sich rechtzeiti
 - Ruhiger Raum, kein Hintergrund-Laerm.
 - Webcam auf Augenhoehe.
 - Stabile Internet-Verbindung.
-- Personalausweis griffbereit fuer Identitaets-Pruefung.
+- Personalausweis griffbereit für Identitaets-Pruefung.
 
 ### Schritt 8 — Urteil im Plattform-Postfach
 
@@ -273,7 +272,7 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 
 ## Typische Fehler
 
-- **Fehler:** Plattform fuer hochkomplexe Faelle nutzen — Eingabe-Maske ist zu eng. → **So vermeiden:** Bei komplexen Faellen klassisches Verfahren waehlen.
+- **Fehler:** Plattform für hochkomplexe Faelle nutzen — Eingabe-Maske ist zu eng. → **So vermeiden:** Bei komplexen Faellen klassisches Verfahren waehlen.
 - **Fehler:** Plattform-Postfach nicht regelmaessig pruefen — Fristen verpasst. → **So vermeiden:** Mehrmals pro Woche einloggen oder Benachrichtigungs-E-Mail aktivieren.
 - **Fehler:** Lokale Sicherungs-Kopien vergessen. → **So vermeiden:** Nach jeder Eingabe als PDF herunterladen.
 - **Fehler:** Bei Video-Termin technische Probleme — kein Backup-Geraet. → **So vermeiden:** Vor dem Termin Funktion testen, Smartphone als Backup griffbereit.
@@ -287,7 +286,7 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts vor Klageeinreichung.**
+Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts vor Klageeinreichung.**
 
 ## 3. `rechtsmittelfrist-517-zpo`
 
@@ -307,7 +306,7 @@ Die Berufungsfrist betraegt 1 Monat ab Zustellung des vollstaendigen schriftlich
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Rechtsmittelfrist**: Frist fuer Einlegung eines Rechtsmittels.
+- **Rechtsmittelfrist**: Frist für Einlegung eines Rechtsmittels.
 - **Notfrist**: Nicht verlaengerbar.
 - **Rechtskraft**: Endgueltige Verbindlichkeit des Urteils.
 
@@ -318,7 +317,7 @@ Die Berufungsfrist betraegt 1 Monat ab Zustellung des vollstaendigen schriftlich
 - **§ 224 I ZPO** — Notfrist nicht verlaengerbar.
 - **§ 187, 188 BGB** — Fristberechnung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Zustellung des Urteils
 
@@ -368,7 +367,7 @@ Bei Eile: Selbst-Einreichung der Berufungsschrift (§ 78 III ZPO erlaubt es). Be
 
 § 520 II ZPO: **2 Monate** ab Zustellung des Urteils.
 
-Wichtig: Begruendungs-Frist laeuft ab **Zustellung**, **nicht** ab Einlegung der Berufung. Wenn Sie also 4 Wochen mit Berufung warten, haben Sie nur 4 Wochen fuer Begruendung.
+Wichtig: Begruendungs-Frist laeuft ab **Zustellung**, **nicht** ab Einlegung der Berufung. Wenn Sie also 4 Wochen mit Berufung warten, haben Sie nur 4 Wochen für Begruendung.
 
 Verlaengerung der Begruendungs-Frist moeglich nach § 520 II 3 ZPO (auf Antrag, durch Vorsitzenden).
 
@@ -384,7 +383,7 @@ Wenn Berufungsfrist versaeumt:
 
 Bei Unsicherheit lieber **eher** Berufung einlegen als zu spaet. Sie koennen die Berufung spaeter zuruecknehmen, wenn Sie sich anders entscheiden.
 
-Bei Selbst-Einlegung muessen Sie aber bedenken: ohne Anwalt fuer Begruendung droht trotzdem Verwerfung.
+Bei Selbst-Einlegung muessen Sie aber bedenken: ohne Anwalt für Begruendung droht trotzdem Verwerfung.
 
 ### Schritt 9 — PKH parallel
 
@@ -418,7 +417,6 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 517 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

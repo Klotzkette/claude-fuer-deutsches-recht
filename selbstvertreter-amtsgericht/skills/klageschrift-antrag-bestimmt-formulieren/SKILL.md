@@ -31,7 +31,7 @@ Der Klageantrag ist das **Herzstueck** Ihrer Klage. Er bestimmt, was das Gericht
 - **§ 261 III Nr. 2 ZPO** — Streitgegenstand-Definition.
 - **§ 308 ZPO** — Gericht entscheidet nicht ueber mehr als beantragt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klagentyp bestimmen
 
@@ -117,7 +117,7 @@ Hilfsweise: Der Beklagte wird verurteilt, ...
 
 Beispiel:
 
-- "Hilfsweise (fuer den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
+- "Hilfsweise (für den Fall, dass der Hauptantrag nicht durchdringt): Der Beklagte wird verurteilt, an den Klaeger 1.000 EUR zu zahlen."
 
 ### Schritt 7 — Kostenantrag
 
@@ -132,7 +132,7 @@ Die Kosten des Rechtsstreits traegt der Beklagte.
 Immer dazu:
 
 ```
-Das Urteil wird fuer vorlaeufig vollstreckbar erklaert.
+Das Urteil wird für vorlaeufig vollstreckbar erklaert.
 ```
 
 Bei AG-Urteilen i. d. R. ohne Sicherheitsleistung (§ 708 ZPO).
@@ -148,7 +148,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt der
  Beklagte.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar
+3. Das Urteil wird für vorlaeufig vollstreckbar
  erklaert.
 ```
 
@@ -177,7 +177,6 @@ Antraege:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 253 II Nr. 2 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

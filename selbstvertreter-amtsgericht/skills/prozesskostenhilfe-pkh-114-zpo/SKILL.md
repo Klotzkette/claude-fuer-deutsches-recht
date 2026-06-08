@@ -27,12 +27,12 @@ Wenn Sie sich Klage und Gerichtskosten nicht leisten koennen, gibt es **Prozessk
 - **§ 114 I ZPO** — Voraussetzungen PKH.
 - **§ 115 ZPO** — Einkommen, einzusetzendes Vermoegen.
 - **§ 117 ZPO** — Antragsform.
-- **§ 118 ZPO** — Anhoerung Gegner.
+- **§ 118 ZPO** — Anhörung Gegner.
 - **§ 120 ZPO** — Ratenzahlung.
 - **§ 121 ZPO** — Beiordnung eines Anwalts.
 - **§ 124 ZPO** — Aufhebung der Bewilligung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -49,7 +49,7 @@ Wenn ein Punkt fehlt, scheitert PKH.
 § 115 ZPO regelt Einkommens-Anrechnung:
 
 - Nettoeinkommen (Lohn, Selbstaendigkeit, Sozialleistungen).
-- Minus Freibetraege fuer Sie selbst, Partner, Kinder.
+- Minus Freibetraege für Sie selbst, Partner, Kinder.
 - Minus Mietkosten in angemessener Hoehe.
 - Minus weitere Abzuege (Versicherungen, Werbungskosten).
 
@@ -67,7 +67,7 @@ Wenn Sie groesseres Bargeld, Wertpapiere, Immobilie haben: Anrechnung. Sie muess
 
 ### Schritt 4 — Antragsformular
 
-Das amtliche Formular "Erklaerung ueber die persoenlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
+Das amtliche Formular "Erklaerung ueber die persönlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
 
 - Persoenliche Daten.
 - Familienstand, Unterhaltspflichten.

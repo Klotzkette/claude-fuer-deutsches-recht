@@ -13,7 +13,7 @@ description: "Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. 
 
 ## Pflegekurse § 45 SGB XI
 
-- Kostenlose Pflegekurse fuer Angehoerige.
+- Kostenlose Pflegekurse für Angehoerige.
 - Praktische Anleitung Hebetechniken Wundversorgung.
 - Auch online.
 
@@ -25,7 +25,7 @@ description: "Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. 
 
 ## Sozialversicherung der Pflegeperson § 44 SGB XI
 
-- Bei nichterwerbsmaessiger Pflege ab 10 Stunden/Woche an mindestens 2 Tagen.
+- Bei nichterwerbsmäßiger Pflege ab 10 Stunden/Woche an mindestens 2 Tagen.
 - Pflegekasse zahlt Rentenversicherungsbeitraege.
 - Sozialer Schutz.
 

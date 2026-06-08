@@ -6,20 +6,16 @@ description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz e
 # Vorher-Nachher-Tabelle
 
 ## Fachkern: Vorher-Nachher-Tabelle
-- **Spezialgegenstand:** Vorher-Nachher-Tabelle wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umformulierungen. Er stellt sicher, dass jede Überarbeitung transparent, nachvollziehbar und lehrreich ist: Der Nutzer sieht nicht nur das Ergebnis, sondern versteht auch, warum jede Änderung vorgenommen wurde.
-
 
 ## Triage zu Beginn
 1. Welche Berufsgruppe ist der Absender: Rechtsanwalt, Steuerberater, Notar oder allgemeines Unternehmen?
 2. Welche Kuerzel-Normen sind voraussichtlich zu verwenden (BRAO-43a, BORA-25, StBerG-57)?
 3. Soll das Ausgabeformat vollstaendig (Analyse + Tabelle + ueberarbeiteter Text) oder komprimiert erstellt werden?
-4. Ist das Ergebnis fuer sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
+4. Ist das Ergebnis für sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

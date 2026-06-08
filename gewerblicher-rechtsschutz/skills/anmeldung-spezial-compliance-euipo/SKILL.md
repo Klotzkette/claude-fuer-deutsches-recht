@@ -1,35 +1,21 @@
 ---
 name: anmeldung-spezial-compliance-euipo
-description: "Anmeldung Spezial Compliance Euipo im Plugin Gewerblicher Rechtsschutz: prüft konkret Anmeldung im gewerblichen Rechtsschutz, Compliance-Mandantenkommunikation im gewerblichen, EUIPO-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege im Gewerblicher Rechtsschutz: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anmeldung Spezial Compliance Euipo
+# Spezial: Anmeldung – Behörden, Gerichte und Registerwege
 
 ## Arbeitsbereich
 
-**Anmeldung Spezial Compliance Euipo** ordnet den Fall über die tragenden Prüffelder: Anmeldung im gewerblichen Rechtsschutz, Compliance-Mandantenkommunikation im gewerblichen, EUIPO-Verfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `spezial-anmeldung-behoerden-gericht-und-registerweg` | Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege. |
-| `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` | Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen. |
-| `spezial-euipo-dokumentenmatrix-und-lueckenliste` | EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden. |
+Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Gewerblicher Rechtsschutz klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `spezial-anmeldung-behoerden-gericht-und-registerweg`
-
-**Fokus:** Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege.
-
-# Spezial: Anmeldung – Behörden, Gerichte und Registerwege
 
 ## Zweck und Mandatsbezug
 
@@ -167,289 +153,31 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 ## Anschluss-Skills
 
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren im Detail
+- `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren im Detail
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung Schritt für Schritt
 
-## 2. `spezial-compliance-mandantenkommunikation-entscheidungsvorlage`
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 97a UrhG
+- § 97 UrhG
+- § 8c UWG
+- § 14 MarkenG
+- § 42 MarkenG
+- § 8 UWG
+- § 13 UWG
+- § 26 MarkenG
+- § 9 PatG
+- § 66 MarkenG
+- § 8 MarkenG
+- § 6 ArbnErfG
+
+### Leitentscheidungen
+
+- BGH I ZR 153/16
+- BGH I ZR 82/99
+- BGH I ZR 20/07
+- BGH X ZR 171/12
 
-**Fokus:** Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen.
-
-# Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage
-
-## Zweck und Mandatsbezug
-
-Dieser Skill behandelt die **strukturierte Mandantenkommunikation und Erstellung von Entscheidungsvorlagen** in IP- und Wettbewerbsschutzverfahren. Eine professionelle Entscheidungsvorlage gibt dem Mandanten alle relevanten Informationen – Handlungsoptionen, Risiken, Kosten, Fristen – und ermöglicht eine fundierte, dokumentierte Entscheidung.
-
-Mandatsbezug: Mandant erhält Abmahnung und fragt: Was soll ich tun? Mandant will Marke anmelden und fragt: Was kostet das und was riskiere ich? Rechtsabteilung muss dem Vorstand eine Entscheidungsvorlage zu einer IP-Klagestrategie präsentieren.
-
-## Grundprinzipien der Entscheidungsvorlage
-
-### Prinzip 1 – Fakten vor Wertung
-
-- Zuerst gesicherte Fakten: Was steht fest (Schutzrecht, Verletzung, Fristen)?
-- Dann Wertung: Was ist wahrscheinlich, was unklar?
-- Trenne: gesicherte Rechtsaussage vs. Prognose vs. Annahme.
-
-### Prinzip 2 – Optionen vollständig darstellen
-
-- Nie nur eine Option präsentieren.
-- Mindestens: Option A (aktiv), Option B (passiv/abwartend), Option C (verhandeln).
-- Jede Option mit Kosten, Risiken, Zeitaufwand und voraussichtlichem Ergebnis.
-
-### Prinzip 3 – Kosten explizit machen
-
-- Anwaltskosten, Gerichtskosten, Kostenrisiko bei Verlust.
-- Eigene Kosten vs. Kostenerstattung bei Obsiegen.
-- Keine Überraschungen: Mandant muss vor Entscheidung alle Kosten kennen.
-
-### Prinzip 4 – Frist sichtbar machen
-
-- Die wichtigste Frist immer in der Vorlage hervorheben.
-- Was passiert, wenn Frist versäumt wird?
-- Wann muss der Mandant entscheiden?
-
-### Prinzip 5 – Empfehlung geben
-
-- Anwalt gibt eine Empfehlung; Mandant entscheidet.
-- Empfehlung begründen: Warum diese Option?
-- Bei Risikoungewissheit: Empfehlung mit Vorbehalt.
-
-## Strukturvorlage: Entscheidungsvorlage IP-Verfahren
-
-```
-ENTSCHEIDUNGSVORLAGE
-[Mandant] | [Verfahrensbezeichnung] | [Datum]
-Erstellt von: [Anwalt] | Vorlage bis: [Datum/Frist]
-
-───────────────────────────────────────────────
-1. SITUATION
-
-Worum geht es:
-[Ein Satz: Kern des Problems]
-
-Gesicherte Fakten:
-- [Fakt 1: z.B. Markenanmeldung der Gegenseite liegt vor]
-- [Fakt 2: z.B. Verletzungshandlung durch Screenshot belegt]
-
-Offene Punkte:
-- [Was noch ungeklärt ist]
-
-Kritische Frist: [Datum + was passiert bei Versäumnis]
-
-───────────────────────────────────────────────
-2. HANDLUNGSOPTIONEN
-
-Option A – [Bezeichnung, z.B. „Abmahnung versenden"]
-- Vorgehen: [Kurzbeschreibung]
-- Kosten: [Anwaltsgebühren, ggf. Gerichtskosten]
-- Risiko: [Was kann schiefgehen]
-- Ergebnis bei Erfolg: [Was wird erreicht]
-- Ergebnis bei Misserfolg: [Was droht]
-- Zeitaufwand: [Realistisch]
-
-Option B – [Bezeichnung, z.B. „Abwarten und beobachten"]
-- Vorgehen: [Kurzbeschreibung]
-- Kosten: [Gering / keine Anwaltskosten]
-- Risiko: [z.B. Verletzung setzt sich fort; Dringlichkeit für EV schwindet]
-- Ergebnis: [Verletzung bleibt; kein Recht durchgesetzt]
-
-Option C – [Bezeichnung, z.B. „Direkt verhandeln"]
-- Vorgehen: [Kurzbeschreibung]
-- Kosten: [Gering]
-- Risiko: [Gegenseite lehnt ab; Zeitverlust]
-- Ergebnis bei Einigung: [Lizenz, Unterlassung, Vergleich]
-
-───────────────────────────────────────────────
-3. EMPFEHLUNG
-
-Wir empfehlen Option [A/B/C], weil:
-[Begründung in 3–5 Sätzen]
-
-Vorbehalt: [Wenn weitere Informationen benötigt werden]
-
-───────────────────────────────────────────────
-4. ENTSCHEIDUNG DES MANDANTEN
-
-□ Option A – [Bezeichnung]
-□ Option B – [Bezeichnung]
-□ Option C – [Bezeichnung]
-□ Weitere Informationen erforderlich (dann: ________________)
-
-Datum: _______________ Unterschrift: _______________
-```
-
-## Typische IP-Szenarien mit Entscheidungsstruktur
-
-### Szenario 1: Abmahnung empfangen
-
-| Option | Beschreibung | Kosten (ca.) | Risiko |
-|---|---|---|---|
-| A: Modifizierte UE | Verletzung anerkennen, Umfang begrenzen | 500–1.500 EUR Anwalt | Bindung an UE |
-| B: Vollständige UE | Schnellste Lösung | 300–800 EUR Anwalt | Weite Bindung |
-| C: Ablehnung + Schutzschrift | Starke Einwendungen vorhanden | 1.500–3.000 EUR Anwalt | EV-Risiko, Prozesskostenrisiko |
-
-### Szenario 2: EV beantragen
-
-| Option | Beschreibung | Kosten (ca.) | Risiko |
-|---|---|---|---|
-| A: EV sofort | Klare Verletzung, Dringlichkeit | 2.000–5.000 EUR + Gerichtskosten | § 945 ZPO-Haftung |
-| B: Abmahnung zuerst | Reaktion abwarten | 500–1.500 EUR Anwalt | Dringlichkeit schwindet |
-| C: Direktverhandlung | Einigung anstreben | Gering | Gegenseite lehnt ab |
-
-### Szenario 3: Markenanmeldung
-
-| Option | Schutzgebiet | Kosten (ca.) | Bearbeitungszeit |
-|---|---|---|---|
-| A: DPMA national | Deutschland | 300–900 EUR + Anwalt | 3–6 Monate |
-| B: EUIPO Unionsmarke | 27 EU-Staaten | 850–1.350 EUR + Anwalt | 4–8 Monate |
-| C: IR-Marke WIPO | Wunschländer | Variabel + Anwalt | 12–18 Monate |
-
-## Dokumentation der Mandantenentscheidung
-
-- Entscheidungsvorlage mit Datum und Unterschrift des Mandanten in Akte.
-- Bei mündlicher Entscheidung: Kurze E-Mail-Bestätigung einholen.
-- Begründung der Entscheidung vermerken (wichtig für spätere Haftungsfragen).
-- Folgeauftrag an Anwalt klar formulieren: Was soll als nächstes geschehen?
-
-## Kommunikationstipps
-
-- **Sprache:** Mandantenfreundlich; keine Fachbegriffe ohne Erklärung.
-- **Länge:** Entscheidungsvorlage maximal 2–3 Seiten; Anlagen für Details.
-- **Ton:** Sachlich, nicht alarmistisch; Risiken klar, aber ohne unnötige Panikmache.
-- **Timing:** Entscheidungsvorlage immer mit Frist versehen; Mandant braucht Zeitdruck.
-
-## Quellenregel
-
-- Normen für Kostenberechnung: RVG, GKG – [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- DPMA-Gebühren: [dpma.de/service/gebuehren](https://www.dpma.de/service/gebuehren/index.html).
-- EUIPO-Gebühren: [euipo.europa.eu](https://www.euipo.europa.eu/en/trade-marks/fees-and-payments).
-- Keine BeckRS-Blindzitate; konkrete Kostenangaben über offizielle Gebührentabellen prüfen.
-
-## Anschluss-Skills
-
-- `workflow-mandantenkommunikation` – Mandantenkommunikation Workflow
-- `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Zieldefinition
-- `workflow-output-waehlen` – Richtiges Outputformat wählen
-- `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenverwaltung
-
-## 3. `spezial-euipo-dokumentenmatrix-und-lueckenliste`
-
-**Fokus:** EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden.
-
-# Spezial: EUIPO – Dokumentenmatrix und Lückenliste
-
-## Zweck und Mandatsbezug
-
-Dieser Skill liefert eine **vollständige Dokumentenmatrix für EUIPO-Verfahren** – Unionsmarkenanmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerdeverfahren. Er hilft dabei, vollständige Akten zusammenzustellen, Dokumentenlücken rechtzeitig zu erkennen und fristgerechte Einreichungen zu sichern.
-
-Mandatsbezug: Anwalt bereitet EUIPO-Widerspruch vor und fragt: Welche Dokumente muss ich einreichen? Was passiert, wenn ein Beleg fehlt? Mandant hat eine Unionsmarke erhalten und wird nun vor dem EUIPO mit einem Nichtigkeitsantrag konfrontiert.
-
-## EUIPO-Überblick
-
-- **Sitz:** Alicante, Spanien
-- **Website:** [euipo.europa.eu](https://www.euipo.europa.eu)
-- **Online-Portal:** eSearch Plus (Recherche), eFiling (Einreichung)
-- **Verfahrenssprache:** Eine der fünf Sprachen (Deutsch, Englisch, Französisch, Spanisch, Italienisch); zweite Sprache nach Wahl aus diesen fünf.
-- **Rechtsnormen:** VO (EU) 2017/1001 (EUTMR), DurchführungsVO (EU) 2018/626.
-
-## Dokumentenmatrix: Unionsmarkenanmeldung
-
-| Dokument | Pflicht / Optional | Hinweise |
-|---|---|---|
-| Antragsformular (eFiling) | Pflicht | Online über euipo.europa.eu/eFiling |
-| Zeichenabbildung | Pflicht | jpg, png mind. 800x800 Pixel; bei 3D: bis 5 Ansichten |
-| Waren-/Dienstleistungsverzeichnis | Pflicht | TMclass für korrekte Klassifizierung nutzen |
-| Anmeldegebühr | Pflicht | 850 EUR (1 Klasse); + 50 EUR (2. Klasse); + 150 EUR (ab 3. Klasse) |
-| Prioritätsnachweis | Falls Priorität beansprucht | Beglaubigte Kopie Voranmeldung; innerhalb 3 Monate |
-| Ausstellungspriorität | Falls zutreffend | Nachweis Messeteilnahme; innerhalb 6 Monate |
-| Beglaubigte Übersetzung | Bei nicht-EU-Sprache | Dokumente in EUIPO-Sprache oder beglaubigte Übersetzung |
-
-**Häufige Lücken:**
-- Zeichenabbildung zu klein oder unscharf → EUIPO fordert Nachbesserung mit Frist.
-- Klassifizierung unvollständig → EUIPO schlägt Korrekturen vor.
-- Prioritätsfrist 3 Monate versäumt → Priorität geht verloren.
-
-## Dokumentenmatrix: Unionsmarken-Widerspruch
-
-| Dokument | Pflicht / Optional | Frist |
-|---|---|---|
-| Widerspruchsformular | Pflicht | 3 Monate ab Veröffentlichung (Art. 46 EUTMR) |
-| Widerspruchsgebühr | Pflicht | 320 EUR; ohne Zahlung: Widerspruch unwirksam |
-| Nachweis älteres Recht | Pflicht (im Substantiierungsverfahren) | Innerhalb vom EUIPO gesetzter Frist |
-| Registerauszug ältere Marke | Pflicht | EUIPO-Auszug oder nationaler Auszug |
-| Benutzungsnachweis | Falls ältere Marke > 5 Jahre eingetragen | Auf Aufforderung des Inhabers |
-| Übersetzungen | Soweit nötig | In Verfahrenssprache |
-| Begründung | Pflicht (Substantiierung) | Innerhalb Kühlschrankfrist (2 Monate nach Ende Widerspruchsfrist) |
-
-**Häufige Lücken:**
-- Ältere Marke hat Eintragungsdatum > 5 Jahre → Benutzungsnachweis nicht vorbereitet.
-- Begründung zu pauschal → EUIPO setzt Frist zur Verbesserung.
-- Registerauszug veraltet (> 3 Monate alt) → EUIPO akzeptiert nicht.
-
-### Benutzungsnachweis – Detailliste
-
-Bei älterer Marke mit > 5 Jahren Eintragung verlangt der Markeninhaber Benutzungsnachweis:
-- Rechnungen mit Datumsangabe und Warenbezug.
-- Produktkataloge, Werbematerial (mit Datierung).
-- eidesstattliche Versicherung mit Umsatzangaben je Jahr.
-- Onlinepräsenz-Belege (Screenshots mit Datum, Domain-Registrierungsdaten).
-- Zeitraum: Letzte 5 Jahre vor Einreichung des Widerspruchs.
-
-## Dokumentenmatrix: Unionsmarken-Nichtigkeitsantrag
-
-| Dokument | Pflicht / Optional | Hinweise |
-|---|---|---|
-| Antrag auf Erklärung der Nichtigkeit | Pflicht | eFiling |
-| Antragsgebühr | Pflicht | 1.080 EUR (relative Gründe), 630 EUR (absolute Gründe) |
-| Nachweis älteres Recht | Pflicht (bei rel. Gründen) | Registerauszug |
-| Begründung | Pflicht | Darlegung der Nichtigkeitsgründe |
-| Beweismittel | Pflicht | Abhängig vom Nichtigkeitsgrund |
-| Benutzungsnachweis älteres Recht | Falls > 5 Jahre eingetragen | Auf Aufforderung |
-
-**Nichtigkeitsgründe:**
-- **Absolute Gründe (Art. 59 EUTMR):** Keine Unterscheidungskraft, Beschreibung, Bösgläubigkeit.
-- **Relative Gründe (Art. 60 EUTMR):** Ältere Marke, älteres Recht.
-
-## Dokumentenmatrix: Beschwerde vor Beschwerdekammer
-
-| Dokument | Frist | Inhalt |
-|---|---|---|
-| Beschwerdeschrift | 2 Monate ab Zustellung der angefochtenen Entscheidung | Identifikation der angefochtenen Entscheidung |
-| Beschwerdebegründung | 4 Monate ab Zustellung | Vollständige rechtliche und tatsächliche Begründung |
-| Beschwerdegebühr | Mit Einreichung | 720 EUR (Widerspruch/Nichtigkeitsverfahren) |
-| Neue Beweismittel | Begründet zulässig | EUIPO-Grundsatz: Keine nova; Ausnahmen |
-
-## Fristen-Übersicht EUIPO
-
-| Frist | Verfahren | Dauer |
-|---|---|---|
-| Widerspruchsfrist | Nach Veröffentlichung Unionsmarke | 3 Monate |
-| Substantiierungsfrist | Nach Ende Widerspruchsfrist | 2 Monate (+ Verlängerung möglich) |
-| Beschwerde-Einlegung | Nach Entscheidung | 2 Monate |
-| Beschwerde-Begründung | Nach Entscheidung | 4 Monate |
-| Benutzungsnachweis | Auf Aufforderung des Inhabers | Gesetzt vom EUIPO (i.d.R. 2 Monate) |
-| Verlängerung Unionsmarke | Vor Ablauf der 10-Jahresfrist | 6-Monats-Puffer nach Ablauf (mit Zuschlag) |
-
-## Lückenliste: Was fehlt häufig?
-
-1. **Registerauszug zu alt:** EUIPO akzeptiert nur aktuelle Auszüge (i.d.R. < 3 Monate).
-2. **Benutzungsnachweis unvollständig:** Zu wenige Belege; kein klarer Warenbezug.
-3. **Übersetzung fehlt:** Nicht-EU-Dokumente ohne beglaubigte Übersetzung.
-4. **Vollmacht:** Bei erstmaliger Vertretung durch neuen Anwalt; ggf. EUIPO-Bevollmächtigten eintragen.
-5. **Prioritätsnachweis zu spät:** Frist 3 Monate ab Anmeldedatum; nicht nachholbar.
-6. **Zeichenabbildung ungeeignet:** Bei Farbmarke: Farbangabe nach Pantone/RGB erforderlich.
-
-## Quellenregel
-
-- VO (EU) 2017/1001 (EUTMR): [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
-- EUIPO-Leitlinien: [euipo.europa.eu/en/trade-marks/trade-mark-guidelines](https://www.euipo.europa.eu/en/trade-marks/trade-mark-guidelines)
-- EUIPO eFiling: [euipo.europa.eu](https://www.euipo.europa.eu)
-- Keine BeckRS-Blindzitate; aktuelle Gebühren und Fristen über EUIPO-Website prüfen.
-
-## Anschluss-Skills
-
-- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren
-- `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
-- `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
-- `markenrecherche` – Kollisionsrecherche vor Anmeldung

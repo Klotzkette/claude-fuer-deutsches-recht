@@ -1,36 +1,21 @@
 ---
 name: belegkette-rueckverfolgung-caching-rerun
-description: "Belegkette Rueckverfolgung Caching Rerun im Plugin Tabellenreview 3D: prüft konkret Belegkette für Forderungen und Zahlungen zurückverfolgen, Zwischenergebnisse des 3D-Tabellenreviews cachen und, Dokumentenstapel für 3D-Tabellenreview einlesen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzung: nicht Excel-Export im Tabellenreview 3d: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Belegkette Rueckverfolgung Caching Rerun
+# /tabellenreview-3d:belegkette-rueckverfolgung
 
 ## Arbeitsbereich
 
-**Belegkette Rueckverfolgung Caching Rerun** ordnet den Fall über die tragenden Prüffelder: Belegkette für Forderungen und Zahlungen zurückverfolgen, Zwischenergebnisse des 3D-Tabellenreviews cachen und, Dokumentenstapel für 3D-Tabellenreview einlesen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `belegkette-rueckverfolgung` | Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzung: nicht Excel-Export. |
-| `caching-und-teil-rerun` | Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausführen ohne Vollneustart. Normen: technisch. Prüfraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeiteten Zeilen. Abgrenzung: nicht vollständiger Neustart. |
-| `dokumentstapel-aufnehmen` | Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Prüfraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output: Dokumentenstapel-Inventar. Abgrenzung: nicht Einzeldokument-Prüfung. |
+Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzung: nicht Excel-Export. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Tabellenreview 3D klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `belegkette-rueckverfolgung`
-
-**Fokus:** Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzung: nicht Excel-Export.
-
-# /tabellenreview-3d:belegkette-rueckverfolgung
-
 
 ## Triage zu Beginn
 
@@ -42,7 +27,6 @@ description: "Belegkette Rueckverfolgung Caching Rerun im Plugin Tabellenreview 
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 
@@ -88,137 +72,3 @@ Diese Datei MUSS bei jeder Mandatsübergabe mitgehen. Sie ist die Reproduzierbar
 
 - Bei geänderten Dokumenten (Vertragsversion 2 überschreibt Version 1) erhält die Belegkette die alte Fassung — der Prüfer entscheidet ob neu zu rechnen ist.
 - Bei OCR-Fehlern (Zitat hat OCR-Wortwahl die im Original anders steht) kann die Volltextsuche fehlschlagen — das ist ein bekannter OCR-Falschalarm, kein Belegkette-Bruch.
-
-## 2. `caching-und-teil-rerun`
-
-**Fokus:** Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausführen ohne Vollneustart. Normen: technisch. Prüfraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeiteten Zeilen. Abgrenzung: nicht vollständiger Neustart.
-
-# /tabellenreview-3d:caching-und-teil-rerun
-
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-## Zweck
-
-Ein 25.000-Zellen-Würfel komplett neu zu berechnen weil ein einziger Spaltenprompt um drei Worte präziser wurde ist verschwenderisch. Dieser Skill macht den Würfel inkrementell.
-
-## Cache-Key
-
-Pro Zelle ein deterministischer Hash:
-
-```
-sha256(spaltenprompt-version + zeilenprompt-version + dokument-hash + arbeitsblatt-perspektive + modell-version)
-```
-
-Wenn irgendeine dieser Komponenten sich ändert wird der Cache-Eintrag invalidiert.
-
-## Invalidierungsregeln
-
-- **Patch-Änderung am Spaltenprompt:** Cache bleibt gültig (siehe `prompt-versionierung`)
-- **Minor-Änderung am Spaltenprompt:** Cache wird auf `nachprüfen` gesetzt — Prüfer entscheidet ob neu rechnen
-- **Major-Änderung am Spaltenprompt:** Cache invalidiert, betroffene Zellen müssen neu berechnet werden
-- **Zeilenprompt geändert:** nur die betroffene Zeile invalidiert, über alle Arbeitsblätter
-- **Arbeitsblatt-Perspektive geändert:** alle Zellen dieses Arbeitsblatts invalidiert
-- **Dokument-Hash geändert (z. B. neue Version):** alle Zellen dieser Zeile invalidiert
-- **Modell-Version geändert:** Vorgehen wählbar — komplett neu / Stichprobe prüfen / Cache übernehmen mit Hinweis
-
-## Quasi-Duplikate
-
-Ein Vertrag-Cousin (sehr ähnlich) kann Cache-Treffer vom geprüften Originalvertrag übernehmen — als VORSCHLAG nicht als Befund. Schwelle: Cosine-Ähnlichkeit über 95 Prozent UND derselbe Dokumenttyp UND derselbe Vertragspartner-Stamm. Prüfer-Flag automatisch. Prüfer bestätigt oder verwirft.
-
-## Kostenschätzung
-
-Vor jedem Teil-Rerun schaetzt der Skill:
-- Anzahl zu berechnender Zellen
-- erwartete Laufzeit
-- erwartete Token-/Kosten-Aufnahme
-- Auswirkung auf Audit-Trail
-
-Prüfer kann Rerun beauftragen / ablehnen / nur Stichprobe rechnen lassen.
-
-## Ausgabe
-
-- `cache.parquet` — alle Zellen mit Cache-Key Antwort Belegkette Ampel
-- `rerun-vorschlag.md` — pro Änderung welche Zellen invalidiert sind und Kostenschätzung
-- Eintrag in `audit-trail-protokoll`
-
-## Grenzen
-
-Caching ist ein Effizienzwerkzeug nicht ein Beweismittel. Wer auf gerichtsfeste Reproduzierbarkeit angewiesen ist (z. B. Verfahrenseingabe) sollte einen kompletten Lauf ohne Cache machen und das Ergebnis hashen.
-
-## 3. `dokumentstapel-aufnehmen`
-
-**Fokus:** Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Prüfraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output: Dokumentenstapel-Inventar. Abgrenzung: nicht Einzeldokument-Prüfung.
-
-# /tabellenreview-3d:dokumentstapel-aufnehmen
-
-
-## Triage zu Beginn
-
-1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
-2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
-3. Wird das Ergebnis in die Mandatsakte aufgenommen?
-4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
-
-## Rechtliche Grundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-## Zweck
-
-Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Dokument doppelt kein Dokument vergessen kein Dokument falsch klassifiziert. Dieser Skill ist die Eingangsphase der Zeilenachse.
-
-## Eingabequellen
-
-- **VDR-Export:** Verzeichnis mit Originalstruktur — Datasite Intralinks Box SharePoint
-- **Lokaler Ordner:** flach oder verschachtelt
-- **E-Mail-Anhänge:** automatische Extraktion aus EML / MSG
-- **Gescannte PDF:** OCR-Pipeline mit Konfidenzwert pro Seite
-- **Manuelle Liste:** vom Nutzer eingegebene Dateipfade
-
-## Ablauf
-
-1. **Inventarisierung:** alle Dateien rekursiv erfassen, kanonischen Pfad bilden.
-2. **Hashing:** SHA-256 pro Datei berechnen — Basis für Duplikaterkennung und Belegkette.
-3. **Klassifikation:** Dokumenttyp aus Dateiname Mimetype und Inhalt (z. B. Vertrag-Kunde / Vertrag-Lieferant / NDA / Bankvereinbarung / Lizenzvertrag / Personalakte / Grundbuchauszug / Mietvertrag / Gesellschaftsvertrag).
-4. **Sprache:** Sprachidentifikation pro Dokument (Deutsch / Englisch / sonstige).
-5. **OCR bei Scans:** OCR ausführen, Konfidenz protokollieren. Konfidenz unter 90 Prozent = `prüferflag`.
-6. **Duplikatprüfung:** Hash-Identität erkennt exakte Duplikate. Ähnlichkeit (z. B. Cosine über Embedding) erkennt Quasi-Duplikate (Fassungen / Änderungsvereinbarungen).
-7. **Datenraum-Lücken:** wenn ein Dokument auf `Anlage 7` verweist und im Stapel keine `anlage 7` vorhanden ist, als `lücke` markieren.
-8. **Zeilen-Inventar schreiben:** `zeilen-inventar.yaml` mit allen Zeilen, jede mit `id` `pfad` `hash` `typ` `sprache` `ocr-konfidenz` `prüfer-flag` und leerem `zeilenprompt`.
-
-## Pflichtfelder pro Zeile
-
-```yaml
-- id: z-0042
- pfad: "vdr/kunden/042-rahmenvertrag-mueller-gmbh-2023.pdf"
- hash: "sha256:a1b2..."
- typ: "rahmenvertrag-kunde"
- sprache: "de"
- seitenzahl: 47
- ocr-konfidenz: 0.97
- pruefer-flag: null
- zeilenprompt: ""
- datenraum-luecken: []
-```
-
-## Ausgabe
-
-- `zeilen-inventar.yaml` — vollständige Zeilenachse
-- `duplikatreport.md` — exakte und Quasi-Duplikate mit Prüfer-Entscheidung
-- `datenraum-luecken.md` — referenzierte aber nicht vorhandene Dokumente
-
-## Grenzen
-
-Klassifikation ist heuristisch. Bei Konfidenz unter 80 Prozent fragt der Skill zurück. OCR-Qualität hängt vom Scan ab. Belegkette ist nur so gut wie die OCR-Konfidenz.

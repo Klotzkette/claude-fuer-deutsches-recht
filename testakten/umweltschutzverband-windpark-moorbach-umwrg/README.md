@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf`](gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf`](gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-umweltschutzverband-windpark-moorbach-umwrg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

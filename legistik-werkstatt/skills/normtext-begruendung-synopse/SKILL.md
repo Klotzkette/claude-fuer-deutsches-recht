@@ -5,6 +5,24 @@ description: "Normtext, Begründung und Synopse als Gesetzgebungswerkstatt: füh
 
 # Normtext, Begründung und Synopse als Gesetzgebungswerkstatt
 
+## Normenanker
+
+Arbeitsfokus: **Normtext, Begründung und Synopse als Gesetzgebungswerkstatt**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
+- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
+- `§ 45 GGO` — Beteiligung.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `legistik-werkstatt`. Kontext des Plugins: Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.
 

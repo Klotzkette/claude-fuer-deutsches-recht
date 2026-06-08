@@ -20,7 +20,7 @@ description: "Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert d
 
 ## Kurzzeitpflege § 42 SGB XI
 
-- Stationaere Pflege fuer Uebergangszeit (z. B. nach Krankenhausentlassung Reha).
+- Stationaere Pflege für Uebergangszeit (z. B. nach Krankenhausentlassung Reha).
 - Dauer max. 8 Wochen pro Kalenderjahr.
 - Hoechstbetrag 1774 Euro/Jahr (2024 — verifizieren).
 

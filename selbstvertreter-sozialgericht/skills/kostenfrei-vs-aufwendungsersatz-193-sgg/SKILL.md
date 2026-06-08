@@ -17,7 +17,7 @@ Wenn Sie das SG-Verfahren ganz oder teilweise gewinnen, muss die Beklagte Ihnen 
 
 ## In einfacher Sprache
 
-Wenn Sie gewinnen, muss die Behoerde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Porto. Wir zeigen, was alles und wie.
+Wenn Sie gewinnen, muss die Behörde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Porto. Wir zeigen, was alles und wie.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -29,14 +29,14 @@ Wenn Sie gewinnen, muss die Behoerde Ihnen Geld zurueckzahlen. Anwalt, Fahrt, Po
 - **Aufwendungs-Ersatz**: Erstattung der aussergerichtlichen Kosten.
 - **Notwendigkeit**: Nur notwendige, nicht beliebige Kosten.
 - **Kostenfestsetzungs-Antrag**: Spezielles Verfahren zur Festsetzung.
-- **Auslagenpauschale**: Pauschal-Betrag fuer Porto und Kopien.
+- **Auslagenpauschale**: Pauschal-Betrag für Porto und Kopien.
 
 ## Rechtsgrundlagen
 
 - **§ 193 SGG** — Aussergerichtliche Kosten.
 - **§ 197 SGG** — Festsetzung der Kosten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie gewonnen haben
 
@@ -55,7 +55,7 @@ NICHT erstattungsfaehig:
 
 - Eigene Stunden (Sie sind keine Profi-Person)
 - Allgemeine Lebensfuehrungskosten
-- Zeit fuer Aktenstudium
+- Zeit für Aktenstudium
 
 ### Schritt 3 — Antrag im Urteil oder spaeter
 
@@ -126,8 +126,7 @@ Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 193 SGG aktuell. RVG fuer Anwaltsrechnung pruefen.
-
+Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung pruefen.
 
 ## Qualitäts-Hardening
 

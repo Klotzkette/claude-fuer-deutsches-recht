@@ -1,31 +1,31 @@
 ---
 name: ropa-richtlinien-monitor-art-controller-dsgvo
-description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht: prüft konkret Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage fuer das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten, RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht: prüft konkret Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten, RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Ropa Richtlinien Monitor ART Controller DSGVO
 
 ## Arbeitsbereich
 
-**Ropa Richtlinien Monitor ART Controller DSGVO** ordnet den Fall über die tragenden Prüffelder: Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage fuer das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Ropa Richtlinien Monitor ART Controller DSGVO** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `richtlinien-monitor` | Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung. |
-| `ropa-art-30-controller-deutsch-vorlage` | Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel fuer Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage fuer Kanzleien und Unternehmen. |
-| `ropa-art-30-dsgvo-grundlagen` | Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill fuer das Records of Processing Activities (RoPA). |
+| `ropa-art-30-controller-deutsch-vorlage` | Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel für Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage für Kanzleien und Unternehmen. |
+| `ropa-art-30-dsgvo-grundlagen` | Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA). |
 | `ropa-bdsg-besondere-art-9-categories` | RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. 9 DSGVO (Gesundheit, biometrische Daten, Religion, Gewerkschaftszugehoerigkeit), bei Beschaeftigtendaten § 26 BDSG und strafrechtlichen Verurteilungen Art. 10 DSGVO. Erhoehte Anforderungen an Zweckbestimmung, Erforderlichkeit, Rechtsgrundlage und TOMs. |
 | `ropa-en-controller-template` | Full English-language template for the Records of Processing Activities (RoPA) of the controller under Article 30(1) GDPR. Seven mandatory contents, cover sheet, three worked examples (HR, client files, CRM with US sub-processor), and a versioning footer. Suitable for German law firms with international clients. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `richtlinien-monitor`
 
@@ -166,7 +166,7 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen des TDDDG, neuen EDSA-Leitli
 
 - **TDDDG (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz):** Seit 14.05.2024 (loest TTDSG ab); enthaelt §§ 24-25 zur Cookie- und Endgeraetezugriffs-Einwilligung. Quelle: gesetze-im-internet.de/tdddg.
 - **EDSA-Guidelines Cookies / Tracking:** EDSA-Guidelines 02/2023 und Aktualisierungen (z.B. Dark Patterns) live ueber edpb.europa.eu pruefen.
-- **DSK-Beschluesse (Datenschutzkonferenz Bund-Laender):** Aktuelle DSK-Beschluesse zu Cookies, Drittlandtransfer, KI, Beschaeftigtendatenschutz live ueber datenschutzkonferenz-online.de pruefen.
+- **DSK-Beschluesse (Datenschutzkonferenz Bund-Länder):** Aktuelle DSK-Beschluesse zu Cookies, Drittlandtransfer, KI, Beschaeftigtendatenschutz live ueber datenschutzkonferenz-online.de pruefen.
 - **EuGH-Linie Cookies / Einwilligung:** Aktuelle EuGH-Verfahren zur Granularitaet, Freiwilligkeit, Pay-or-OK-Modellen live ueber curia.europa.eu pruefen.
 - **DSA-Werbetransparenz:** Datenschutzerklaerung sollte bei Plattformen Hinweise auf DSA-Werbearchiv (Art. 39 DSA) und Empfehlungssysteme (Art. 38 DSA) enthalten.
 - **KI-VO Art. 50:** Falls Webseite Chatbot oder KI-generierte Inhalte enthaelt — KI-VO-Transparenzpflichten ab 02.08.2026 in Datenschutzerklaerung / Impressum / Hinweise integrieren.
@@ -202,13 +202,13 @@ Verantwortlich: [PERSON/ROLLE]
 
 ## 2. `ropa-art-30-controller-deutsch-vorlage`
 
-**Fokus:** Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel fuer Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage fuer Kanzleien und Unternehmen.
+**Fokus:** Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel für Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage für Kanzleien und Unternehmen.
 
 # RoPA-Vorlage Verantwortlicher (Controller) – Deutsch
 
 ## Zweck
 
-Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Er enthaelt die Spaltenstruktur, ein Deckblatt, drei vollstaendig befuellte Beispiele und einen Versionierungs-Footer.
+Dieser Skill liefert eine ausfuellfertige Vorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Er enthaelt die Spaltenstruktur, ein Deckblatt, drei vollstaendig befuellte Beispiele und einen Versionierungs-Footer.
 
 ## Wann dieses Modul hilft
 
@@ -219,14 +219,14 @@ Dieser Skill liefert eine ausfuellfertige Vorlage fuer das Verzeichnis von Verar
 
 ## Rechtlicher Rahmen
 
-Art. 30 Abs. 1 DSGVO – Pflichtinhalte fuer Verantwortliche:
+Art. 30 Abs. 1 DSGVO – Pflichtinhalte für Verantwortliche:
 
 a) Name und Kontaktdaten des Verantwortlichen, ggf. gemeinsam Verantwortlicher, Vertreter und Datenschutzbeauftragter;
 b) Zwecke der Verarbeitung;
 c) Beschreibung der Kategorien betroffener Personen und der Kategorien personenbezogener Daten;
 d) Kategorien von Empfaengern, gegenueber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, einschliesslich Empfaenger in Drittlaendern oder internationalen Organisationen;
 e) ggf. Uebermittlungen in ein Drittland oder an eine internationale Organisation, einschliesslich der Angabe des betreffenden Drittlands sowie bei Uebermittlungen gemaess Art. 49 Abs. 1 Unterabs. 2 DSGVO Dokumentierung der geeigneten Garantien;
-f) wenn moeglich, vorgesehene Fristen fuer die Loeschung der verschiedenen Datenkategorien;
+f) wenn moeglich, vorgesehene Fristen für die Loeschung der verschiedenen Datenkategorien;
 g) wenn moeglich, allgemeine Beschreibung der TOMs gemaess Art. 32 Abs. 1 DSGVO.
 
 ## Ablauf / Checkliste
@@ -249,7 +249,7 @@ Verantwortlicher: [Firmenname / Kanzleiname]
 Anschrift: [...]
 Vertreter (Art. 27): [falls anwendbar]
 Datenschutzbeauftragter: [Name, Kontakt]
-Aufsichtsbehoerde: [zustaendige LDI / BfDI]
+Aufsichtsbehoerde: [zuständige LDI / BfDI]
 Erstellt: [Datum]
 Letzte Aenderung: [Datum]
 Version: [v1.0]
@@ -260,7 +260,7 @@ Version: [v1.0]
 | Nr. | Verarbeitungstaetigkeit | Zweck | Rechtsgrundlage | Kategorien Betroffene | Datenkategorien | Empfaengerkategorien | Drittland / Garantie | Loeschfrist | TOM-Verweis |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Personalverwaltung Beschaeftigte | Begruendung, Durchfuehrung und Beendigung des Arbeitsverhaeltnisses | Art. 6 Abs. 1 lit. b DSGVO, § 26 BDSG | Beschaeftigte, Bewerber | Stammdaten, Vertragsdaten, Lohndaten, Krankheitszeiten | Sozialversicherungstraeger, Finanzamt, Lohnbuchhaltungsdienstleister | nein | 10 Jahre nach Ausscheiden (§ 257 HGB, § 147 AO); Bewerberdaten 6 Monate | TOM-Anhang Ziff. 1, 3, 5 |
-| 2 | Mandantenakte (Rechtsdienstleistung) | Anbahnung, Durchfuehrung und Abrechnung von Mandaten | Art. 6 Abs. 1 lit. b und f DSGVO; § 50 BRAO | Mandanten, Gegner, Zeugen | Stammdaten, Korrespondenz, Schriftsaetze, Honorardaten | Gerichte, Behoerden, Gegenanwaelte, Versicherer | nein | 6 Jahre nach Mandatsende (§ 50 Abs. 1 BRAO); steuerlich relevante Belege 10 Jahre | TOM-Anhang Ziff. 1, 2, 4, 6 |
+| 2 | Mandantenakte (Rechtsdienstleistung) | Anbahnung, Durchfuehrung und Abrechnung von Mandaten | Art. 6 Abs. 1 lit. b und f DSGVO; § 50 BRAO | Mandanten, Gegner, Zeugen | Stammdaten, Korrespondenz, Schriftsaetze, Honorardaten | Gerichte, Behörden, Gegenanwaelte, Versicherer | nein | 6 Jahre nach Mandatsende (§ 50 Abs. 1 BRAO); steuerlich relevante Belege 10 Jahre | TOM-Anhang Ziff. 1, 2, 4, 6 |
 | 3 | Kontaktformular Website | Beantwortung von Anfragen | Art. 6 Abs. 1 lit. b oder f DSGVO | Interessenten, Mandanten | Name, E-Mail, Telefon, Anfrageinhalt | Hosting-Dienstleister (AVV) | nein | 6 Monate nach Erledigung | TOM-Anhang Ziff. 1, 5 |
 | 4 | CRM Vertrieb | Kundenpflege, Akquise | Art. 6 Abs. 1 lit. b und f DSGVO | Bestandskunden, Interessenten | Stammdaten, Kontakthistorie, Umsatzdaten | CRM-SaaS-Anbieter (USA) | USA – EU-US DPF (Aktiv-Listing dokumentiert in Anhang DPF-Liste) | 3 Jahre nach letztem Kontakt | TOM-Anhang Ziff. 1, 2, 5 |
 
@@ -282,11 +282,11 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Rechtsrahmen.
-- `ropa-art-30-processor-deutsch-vorlage` fuer Spiegel-Vorlage Processor.
-- `ropa-bdsg-besondere-art-9-categories` fuer Gesundheits- und Beschaeftigtendaten.
-- `avv-tom-art-32-dsgvo-anlage` fuer TOM-Konzept.
-- `drittlandstransfer-pruefung` fuer Art. 44 ff. DSGVO.
+- `ropa-art-30-dsgvo-grundlagen` für Rechtsrahmen.
+- `ropa-art-30-processor-deutsch-vorlage` für Spiegel-Vorlage Processor.
+- `ropa-bdsg-besondere-art-9-categories` für Gesundheits- und Beschaeftigtendaten.
+- `avv-tom-art-32-dsgvo-anlage` für TOM-Konzept.
+- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO.
 
 ## Quellen Stand 06/2026
 
@@ -295,7 +295,6 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - BRAO § 50 (Aktenaufbewahrung).
 - HGB § 257, AO § 147 (handels-/steuerrechtliche Aufbewahrung).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-
 
 ## Qualitäts-Hardening
 
@@ -307,20 +306,20 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 
 ## 3. `ropa-art-30-dsgvo-grundlagen`
 
-**Fokus:** Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill fuer das Records of Processing Activities (RoPA).
+**Fokus:** Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA).
 
 # Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
 
 ## Zweck
 
-Dieser Skill ordnet das Verzeichnis von Verarbeitungstaetigkeiten (Records of Processing Activities, kurz RoPA) nach Art. 30 DSGVO ein. Er erklaert Pflichtige, Inhalte, Form und Verhaeltnis zu anderen Dokumentationspflichten (DSFA, AVV, RoPA), damit Kanzleien und Datenschutzbeauftragte das richtige Werkzeug fuer das richtige Dokument waehlen.
+Dieser Skill ordnet das Verzeichnis von Verarbeitungstaetigkeiten (Records of Processing Activities, kurz RoPA) nach Art. 30 DSGVO ein. Er erklaert Pflichtige, Inhalte, Form und Verhaeltnis zu anderen Dokumentationspflichten (DSFA, AVV, RoPA), damit Kanzleien und Datenschutzbeauftragte das richtige Werkzeug für das richtige Dokument waehlen.
 
 ## Wann dieses Modul hilft
 
 - Mandant fragt: "Brauchen wir ein Verarbeitungsverzeichnis?"
 - Aufsichtsbehoerde verlangt nach Art. 30 Abs. 4 DSGVO Vorlage des Verzeichnisses.
 - Audit eines bestehenden Verzeichnisses auf Vollstaendigkeit.
-- Erstaufbau eines RoPA in einer Kanzlei, einem Unternehmen oder einer oeffentlichen Stelle.
+- Erstaufbau eines RoPA in einer Kanzlei, einem Unternehmen oder einer öffentlichen Stelle.
 - Abgrenzung Controller-Verzeichnis (Art. 30 Abs. 1 DSGVO) vs. Processor-Verzeichnis (Art. 30 Abs. 2 DSGVO).
 
 ## Rechtlicher Rahmen
@@ -334,14 +333,14 @@ Pflichtinhalte:
 3. Beschreibung der Kategorien betroffener Personen und der Kategorien personenbezogener Daten.
 4. Kategorien von Empfaengern, denen offengelegt wurde oder noch offengelegt wird.
 5. Drittlandtransfer: Empfaengerland und Dokumentation geeigneter Garantien (Art. 46 Abs. 2 DSGVO).
-6. Vorgesehene Loeschfristen fuer die verschiedenen Datenkategorien.
+6. Vorgesehene Loeschfristen für die verschiedenen Datenkategorien.
 7. Allgemeine Beschreibung der technischen und organisatorischen Massnahmen (TOMs) gemaess Art. 32 Abs. 1 DSGVO.
 
 ### Art. 30 Abs. 2 DSGVO – Verzeichnis des Auftragsverarbeiters (Processor)
 
 Pflichtinhalte:
 
-1. Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, fuer den er taetig ist, ggf. Vertreter und DSB.
+1. Name und Kontaktdaten des Auftragsverarbeiters und jedes Verantwortlichen, für den er taetig ist, ggf. Vertreter und DSB.
 2. Kategorien der im Auftrag jedes Verantwortlichen durchgefuehrten Verarbeitungen.
 3. Drittlandtransfer: Empfaengerland und geeignete Garantien.
 4. Allgemeine Beschreibung der TOMs (Art. 32 Abs. 1 DSGVO).
@@ -354,17 +353,17 @@ Schriftlich oder elektronisch. In der Praxis: Excel, Datenbank, RoPA-Software, W
 
 Auf Anforderung der Aufsichtsbehoerde vorzulegen.
 
-### Art. 30 Abs. 5 DSGVO – Ausnahme fuer KMU
+### Art. 30 Abs. 5 DSGVO – Ausnahme für KMU
 
 Unternehmen oder Einrichtungen mit weniger als 250 Mitarbeitern sind grundsaetzlich befreit, **es sei denn**:
 
-- die Verarbeitung birgt ein Risiko fuer Rechte und Freiheiten;
+- die Verarbeitung birgt ein Risiko für Rechte und Freiheiten;
 - die Verarbeitung erfolgt nicht nur gelegentlich;
 - die Verarbeitung umfasst besondere Datenkategorien (Art. 9 DSGVO) oder Daten ueber strafrechtliche Verurteilungen (Art. 10 DSGVO).
 
 In der Praxis: praktisch jede Kanzlei, jede Arztpraxis, jedes HR-System eines Mittelstaendlers erfuellt mindestens einen Ausnahmegrund. Die KMU-Ausnahme ist daher weitgehend Theorie.
 
-### § 70 BDSG – RoPA fuer Bundesbehoerden
+### § 70 BDSG – RoPA für Bundesbehoerden
 
 Fuer Bundesbehoerden im Anwendungsbereich der JI-Richtlinie (Polizei und Justiz) gilt § 70 BDSG mit eigenen Mindestinhalten.
 
@@ -377,7 +376,7 @@ Fuer Bundesbehoerden im Anwendungsbereich der JI-Richtlinie (Polizei und Justiz)
 5. **Drittlandtransfer:** separate Spalte; Verweis auf SCC, BCR, DPF, Angemessenheitsbeschluss.
 6. **Loeschfristen:** konkrete Fristen, nicht "nach gesetzlichen Vorgaben".
 7. **TOM-Referenz:** Verweis auf TOM-Konzept; nicht jede Massnahme im RoPA wiederholen.
-8. **Versionierung:** Datierte Snapshots fuer Audit-Trail.
+8. **Versionierung:** Datierte Snapshots für Audit-Trail.
 9. **Review-Zyklus:** jaehrlich oder bei wesentlicher Aenderung.
 
 ## Mustertext / Template
@@ -401,7 +400,7 @@ Konkrete Vorlagen liefern die Skills:
 
 ## Typische Fehler
 
-- KMU-Ausnahme bejaht, obwohl regelmaessige Personalverarbeitung erfolgt.
+- KMU-Ausnahme bejaht, obwohl regelmäßige Personalverarbeitung erfolgt.
 - TOM-Spalte mit "Verschluesselung" abgespeist – zu pauschal, Aufsichtsbehoerde fordert Konkretion.
 - Drittlandtransfer nicht erfasst, obwohl SaaS in den USA gehostet wird.
 - Empfaengerkategorien fehlen oder werden mit Einzelempfaengern verwechselt.
@@ -411,18 +410,17 @@ Konkrete Vorlagen liefern die Skills:
 
 ## Querverweise
 
-- `dsfa-erstellung` fuer hochrisikobehaftete Verarbeitungen.
-- `avv-art-28-dsgvo-grundtatbestand` fuer Processor-Vertraege.
-- `drittlandstransfer-pruefung` fuer Art. 44 ff. DSGVO.
-- `dsb-bestellungspflicht-pruefung` fuer DSB-Verantwortlichkeiten.
+- `dsfa-erstellung` für hochrisikobehaftete Verarbeitungen.
+- `avv-art-28-dsgvo-grundtatbestand` für Processor-Vertraege.
+- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO.
+- `dsb-bestellungspflicht-pruefung` für DSB-Verantwortlichkeiten.
 
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), insbesondere Art. 30, Erwaegungsgrund 13, 82.
-- BDSG, insbesondere § 70 fuer Bundesbehoerden.
+- BDSG, insbesondere § 70 für Bundesbehoerden.
 - EDSA: Position Paper on Article 30(5) GDPR (vom 19.04.2018).
-- Konferenz der unabhaengigen Datenschutzaufsichtsbehoerden des Bundes und der Laender (DSK): Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-
+- Konferenz der unabhaengigen Datenschutzaufsichtsbehoerden des Bundes und der Länder (DSK): Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
 ## Qualitäts-Hardening
 
@@ -468,7 +466,7 @@ Verarbeitung ist verboten, soweit sie ergibt:
 
 ### Art. 9 Abs. 2 DSGVO – Ausnahmen
 
-Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeitsrecht und Sozialrecht (lit. b), lebenswichtigem Interesse (lit. c), Vereinen und Religionsgemeinschaften (lit. d), oeffentlich gemachten Daten (lit. e), Rechtsanspruechen (lit. f), erhebliches oeffentliches Interesse (lit. g), Gesundheits- und Sozialfuersorge (lit. h), oeffentliche Gesundheit (lit. i), Archiv-/Forschungs-/Statistikzwecke (lit. j).
+Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeitsrecht und Sozialrecht (lit. b), lebenswichtigem Interesse (lit. c), Vereinen und Religionsgemeinschaften (lit. d), oeffentlich gemachten Daten (lit. e), Rechtsanspruechen (lit. f), erhebliches öffentliches Interesse (lit. g), Gesundheits- und Sozialfürsorge (lit. h), öffentliche Gesundheit (lit. i), Archiv-/Forschungs-/Statistikzwecke (lit. j).
 
 ### § 26 BDSG – Beschaeftigtendaten
 
@@ -476,7 +474,7 @@ Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeits
 
 ### § 22 BDSG
 
-§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im oeffentlichen Interesse liegenden Zwecken, fuer Beschaeftigungszwecke, fuer praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden muessen.
+§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im öffentlichen Interesse liegenden Zwecken, für Beschaeftigungszwecke, für praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden muessen.
 
 ### Art. 10 DSGVO
 
@@ -494,7 +492,7 @@ Daten ueber strafrechtliche Verurteilungen und Straftaten duerfen nur unter beho
 
 ## Mustertext / Template
 
-### Zusatzspalten fuer besondere Datenkategorien
+### Zusatzspalten für besondere Datenkategorien
 
 | Verarbeitung | Datenkategorie (Art. 9) | Doppelte Rechtsgrundlage | DSFA-Verweis | Spezifische TOMs (§ 22 Abs. 2 BDSG) |
 |---|---|---|---|---|
@@ -519,11 +517,11 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Basis.
-- `ropa-art-30-controller-deutsch-vorlage` fuer Basisvorlage.
-- `dsfa-erstellung` fuer Art. 35 DSGVO.
-- `mitarbeiter-datenschutz-26-bdsg` (falls vorhanden) fuer Beschaeftigtenkontext.
-- `avv-tom-art-32-dsgvo-anlage` fuer TOM-Anhang.
+- `ropa-art-30-dsgvo-grundlagen` für Basis.
+- `ropa-art-30-controller-deutsch-vorlage` für Basisvorlage.
+- `dsfa-erstellung` für Art. 35 DSGVO.
+- `mitarbeiter-datenschutz-26-bdsg` (falls vorhanden) für Beschaeftigtenkontext.
+- `avv-tom-art-32-dsgvo-anlage` für TOM-Anhang.
 
 ## Quellen Stand 06/2026
 
@@ -533,7 +531,6 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 - EStG § 39 (Lohnsteuermerkmale).
 - EDSA: Leitlinien 03/2019 zur Verarbeitung personenbezogener Daten durch Videoeinrichtungen (Version 2.0 vom 29.01.2020).
 - BVerfG, Beschluss vom 11.11.2020 – 1 BvR 3214/15 (Antiterrordatei-Folgeentscheidung) – bei Anpassung des § 22 BDSG sinngemaess beachten; vor Zitierung amtliche Fundstelle pruefen.
-
 
 ## Qualitäts-Hardening
 
@@ -642,7 +639,6 @@ Version 1.1 – [change] – [date, author]
 - HGB Sec. 257; AO Sec. 147.
 - DSK Short Paper No. 1 "Records of Processing Activities" (Status 17 December 2018).
 - EDPB Position Paper on Article 30(5) GDPR (19 April 2018).
-
 
 ## Qualitäts-Hardening
 

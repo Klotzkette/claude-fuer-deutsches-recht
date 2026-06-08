@@ -7,25 +7,25 @@ description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret So
 
 ## Arbeitsbereich
 
-**Strafprozess Ermittlungsverfahren** ordnet den Fall über die tragenden Prüffelder: Sofortmaßnahmen im Ermittlungsverfahren, Rechtsmittel- und Notfristencockpit im Strafverfahren, BtMG-Verteidigungspraxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Strafprozess Ermittlungsverfahren** ordnet den Fall über die tragenden Prüfungslinien: Sofortmaßnahmen im Ermittlungsverfahren, Rechtsmittel- und Notfristencockpit im Strafverfahren, BtMG-Verteidigungspraxis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafprozess-ermittlungsverfahren-sofortmassnahmen` | Sofortmaßnahmen im Ermittlungsverfahren: Polizei- oder StA-Kontakt, Vorladung, Durchsuchung, Beschlagnahme, Festnahme, Akteneinsicht, Schweigerecht, Pflichtverteidigung, Presse- und Familienkontakt in eine sichere Verteidigungsroutine bringen. |
 | `strafprozess-rechtsmittel-und-notfristencockpit` | Rechtsmittel- und Notfristencockpit im Strafverfahren: prüft Strafbefehlseinspruch, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung, Empfangsbekenntnis, Fristbeginn und Mandantenentscheidung. |
-| `strafrecht-spezial-btmg-strafverfahren-praxis` | BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste fuer Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung. |
-| `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren` | Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/oeffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung. |
-| `strafrecht-spezial-markenrecht-144-markeng-strafverfahren` | Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes oeffentliches Interesse. Zustaendigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung. |
+| `strafrecht-spezial-btmg-strafverfahren-praxis` | BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste für Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung. |
+| `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren` | Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung. |
+| `strafrecht-spezial-markenrecht-144-markeng-strafverfahren` | Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafprozess-ermittlungsverfahren-sofortmassnahmen`
 
@@ -157,7 +157,7 @@ Prüfe:
 
 ## 3. `strafrecht-spezial-btmg-strafverfahren-praxis`
 
-**Fokus:** BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste fuer Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung.
+**Fokus:** BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste für Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung.
 
 # BtMG-Strafverfahren: Verteidigungspraxis
 
@@ -165,7 +165,7 @@ Prüfe:
 
 Das BtMG-Verfahren hat eigene Eigenarten: hohe Bedeutung verdeckter Ermittlungen (V-Personen, TKUE, Observation), aufwaendige Sicherstellungs- und Analytik-Praxis, regelmaessig Untersuchungshaft wegen Fluchtgefahr und Wiederholungsgefahr (§ 112 Abs. 2, Abs. 3 StPO), enge Verbindung zur OK-Verfahrenspraxis.
 
-Dieser Skill ist Checkliste fuer Strafverteidiger in BtMG-Verfahren — von der ersten Polizeikontaktnahme bis zur Hauptverhandlung.
+Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der ersten Polizeikontaktnahme bis zur Hauptverhandlung.
 
 ## Tatbestand und Stoffliche Erfassung
 
@@ -281,7 +281,7 @@ Dieser Skill ist Checkliste fuer Strafverteidiger in BtMG-Verfahren — von der 
 
 ## 4. `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren`
 
-**Fokus:** Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/oeffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
+**Fokus:** Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
 
 # Haeusliche Gewalt im Strafverfahren — Verteidigerleitfaden
 
@@ -306,7 +306,7 @@ Dieser Skill ist Checkliste fuer Strafverteidiger in BtMG-Verfahren — von der 
 
 ## Praktikertipps der Verteidigung
 
-- **Strafantrag und oeffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsaetzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen oeffentlichen Interesses ein Einschreiten von Amts wegen fuer geboten. Deshalb zuerst klaeren: Strafantrag gestellt? Frist und Berechtigung? Ruecknahme nach § 77d StGB denkbar? Hat die StA das besondere oeffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermoegensdelikte, nicht Koerperverletzung.
+- **Strafantrag und öffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsaetzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen öffentlichen Interesses ein Einschreiten von Amts wegen für geboten. Deshalb zuerst klaeren: Strafantrag gestellt? Frist und Berechtigung? Rücknahme nach § 77d StGB denkbar? Hat die StA das besondere öffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermoegensdelikte, nicht Koerperverletzung.
 - **Aussage-gegen-Aussage**: regelmaessig methodische Glaubhaftigkeitspruefung erforderlich. Verteidigung sollte aussagepsychologisches SV-Gutachten anregen (§ 244 III StPO), wenn Realkennzeichen schwach sind oder Motiv zur Falschbelastung erkennbar (Trennungsdynamik, Sorgerechtsstreit).
 - **Polizeiprotokoll als Beweismittel**: Sturmprotokolle der Polizei, Wegweisungs-/Rueckkehrverbote nach Polizeigesetz Land sind oft Schluesselbeweise. Verteidiger holt Protokoll im Original; Verzerrungen durch Stresssituation und Wahrnehmungslueken kommen vor.
 - **Schutzraum-Akte**: Mandant darf wegen Aufnahme in Frauenhaus keine Annaeherung suchen. Adressfeststellung durch Verteidiger ueber Strafakte (§ 147 StPO) — diskret und ohne Verschriftlichung im Mandantenkontakt.
@@ -358,9 +358,8 @@ Dieser Skill ist Checkliste fuer Strafverteidiger in BtMG-Verfahren — von der 
 
 - §§ 223 ff., 177, 238, 240, 241 StGB.
 - GewSchG, insb. §§ 1, 2, 4 GewSchG.
-- Polizeigesetze der Laender (Wegweisung/Rueckkehrverbot je nach Bundesland unterschiedlich — z.B. § 31 PolG NRW).
+- Polizeigesetze der Länder (Wegweisung/Rueckkehrverbot je nach Bundesland unterschiedlich — z.B. § 31 PolG NRW).
 - BGH staend. Rspr. zu Aussage-gegen-Aussage-Konstellation; methodische Standards der Aussagepsychologie BGH 30.07.1999 - 1 StR 618/98 (BGHSt 45, 164).
-
 
 ## Qualitäts-Hardening
 
@@ -372,15 +371,15 @@ Dieser Skill ist Checkliste fuer Strafverteidiger in BtMG-Verfahren — von der 
 
 ## 5. `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
 
-**Fokus:** Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes oeffentliches Interesse. Zustaendigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung.
+**Fokus:** Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung.
 
 # Strafverfahren bei Markenstraftaten nach Paragraph 144 MarkenG
 
 ## Worum geht es
 
-Paragraph 144 MarkenG ist die zentrale prozessuale Klammer fuer Markenstraftaten. Er regelt:
+Paragraph 144 MarkenG ist die zentrale prozessuale Klammer für Markenstraftaten. Er regelt:
 
-- Paragraph 144 Abs 1 MarkenG: **Antragsdelikt-Charakter** des Paragraph 143 MarkenG (Grundtatbestand) und ggf. weiterer Tatbestaende mit Ausnahme besonderes oeffentliches Interesse.
+- Paragraph 144 Abs 1 MarkenG: **Antragsdelikt-Charakter** des Paragraph 143 MarkenG (Grundtatbestand) und ggf. weiterer Tatbestaende mit Ausnahme besonderes öffentliches Interesse.
 - Paragraph 144 Abs 2 MarkenG: **Privatklageweg** Paragraph 374 StPO als alternative oder primaere Verfolgungsstrategie.
 - Vereinfacht: Paragraph 143a MarkenG (bandenmaessig) bleibt davon unberuehrt; siehe `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`.
 
@@ -388,7 +387,7 @@ Praxisrelevanz: Markeninhaber stehen vor der Wahl zwischen Strafanzeige (mit Str
 
 ## Tatbestand und Geltungsbereich
 
-Paragraph 144 Abs 1 MarkenG: Paragraph 143 MarkenG (Grundtatbestand) wird nur auf Antrag verfolgt, es sei denn, die Strafverfolgungsbehoerde haelt wegen des besonderen oeffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen fuer geboten. Praxistypische Indikatoren fuer besonderes oeffentliches Interesse:
+Paragraph 144 Abs 1 MarkenG: Paragraph 143 MarkenG (Grundtatbestand) wird nur auf Antrag verfolgt, es sei denn, die Strafverfolgungsbehoerde haelt wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten. Praxistypische Indikatoren für besonderes öffentliches Interesse:
 
 - Hoher Umsatz aus Verletzungshandlung.
 - Vertrieb gefaehrlicher Faelschungen (Arzneimittel, Sicherheitsausruestung, Kinderspielzeug — Gesundheitsgefahr).
@@ -414,10 +413,10 @@ Der Antrag muss schriftlich (Paragraph 158 StPO; in Praxis ueber Strafanzeige mi
 ## Praktikertipps der Verteidigung
 
 - **Antragsfrist mathematisch pruefen.** Drei Monate ab Kenntnis von Tat und Taeter. Wann hatte das Vertretungsorgan tatsaechlich Kenntnis? Testkauf-Datum, Versandnachweis, interne Mitteilung dokumentieren. Verspaeteter Antrag fuehrt zur Einstellung Paragraph 170 Abs 2 StPO.
-- **Besonderes oeffentliches Interesse erschuettern.** Wenn StA Offizialverfolgung aufnimmt, ist die Annahme des besonderen oeffentlichen Interesses zu pruefen. Bei nur einzelnen Verkaufstaten geringen Umfangs ist das Interesse nicht zu bejahen; Antragsmangel fuehrt zur Einstellung.
-- **Privatklageverweis anregen.** Im Schriftsatz an die StA frueh anregen, dass keine besondere oeffentliche Bedeutung gegeben sei und der Markeninhaber auf den Privatklageweg verwiesen werden moege. Markeninhaber scheut Privatklageweg wegen Kostenrisiko und Aufwand; oft Effekt der faktischen Einstellung.
+- **Besonderes öffentliches Interesse erschuettern.** Wenn StA Offizialverfolgung aufnimmt, ist die Annahme des besonderen öffentlichen Interesses zu pruefen. Bei nur einzelnen Verkaufstaten geringen Umfangs ist das Interesse nicht zu bejahen; Antragsmangel fuehrt zur Einstellung.
+- **Privatklageverweis anregen.** Im Schriftsatz an die StA frueh anregen, dass keine besondere öffentliche Bedeutung gegeben sei und der Markeninhaber auf den Privatklageweg verwiesen werden moege. Markeninhaber scheut Privatklageweg wegen Kostenrisiko und Aufwand; oft Effekt der faktischen Einstellung.
 - **Adhaesion vorbereiten oder verhindern.** Markeninhaber kann Adhaesionsantrag nach Paragraphen 403 ff. StPO stellen (Schadensersatz im Strafverfahren). Verteidigung sollte Bezifferung pruefen und ggf. Verweisung an Zivilverfahren beantragen (Paragraph 406 Abs 1 S 3 bis 6 StPO).
-- **Zustaendigkeit.** Amtsgericht regelmaessig bei Paragraph 143 MarkenG (Strafrahmen bis drei Jahre, Paragraph 24 GVG). Bei Paragraph 143a MarkenG (Verbrechen) Landgericht (Paragraph 74 Abs 1 GVG, sofern Erwartung ueber vier Jahre Strafe). Bei Bezug zur Wirtschaftsstrafkammer Paragraph 74c GVG pruefen (gewerblicher Rechtsschutz ist nach Auslegung erfasst).
+- **Zuständigkeit.** Amtsgericht regelmaessig bei Paragraph 143 MarkenG (Strafrahmen bis drei Jahre, Paragraph 24 GVG). Bei Paragraph 143a MarkenG (Verbrechen) Landgericht (Paragraph 74 Abs 1 GVG, sofern Erwartung ueber vier Jahre Strafe). Bei Bezug zur Wirtschaftsstrafkammer Paragraph 74c GVG pruefen (gewerblicher Rechtsschutz ist nach Auslegung erfasst).
 
 ## Trade-off-Matrix
 
@@ -444,11 +443,11 @@ Praxistipps:
 
 ## Mustertexte
 
-**Schriftsatz an StA — Verweis auf Privatklageweg:** "Namens des Beschuldigten beantrage ich, das Verfahren gegen meinen Mandanten nach Paragraph 170 Abs 2 StPO einzustellen. Mein Mandant hat das streitgegenstaendliche Verhalten nur einmalig vorgenommen; ein Umsatz von EUR X im Tatzeitraum belegt das Fehlen einer fortlaufenden Erwerbsabsicht. Ein besonderes oeffentliches Interesse an der Strafverfolgung im Sinne Paragraph 144 Abs 1 MarkenG ist nicht erkennbar; die Markeninhaberin moege auf den Privatklageweg Paragraph 374 StPO iVm Paragraph 144 Abs 2 MarkenG verwiesen werden."
+**Schriftsatz an StA — Verweis auf Privatklageweg:** "Namens des Beschuldigten beantrage ich, das Verfahren gegen meinen Mandanten nach Paragraph 170 Abs 2 StPO einzustellen. Mein Mandant hat das streitgegenstaendliche Verhalten nur einmalig vorgenommen; ein Umsatz von EUR X im Tatzeitraum belegt das Fehlen einer fortlaufenden Erwerbsabsicht. Ein besonderes öffentliches Interesse an der Strafverfolgung im Sinne Paragraph 144 Abs 1 MarkenG ist nicht erkennbar; die Markeninhaberin moege auf den Privatklageweg Paragraph 374 StPO iVm Paragraph 144 Abs 2 MarkenG verwiesen werden."
 
 **Antragsrueckname-Vereinbarung (Verteidigerseite):** "Im Wege der gueltichen Streitbeilegung erkennt mein Mandant Schadensersatz an die X AG in Hoehe von EUR Y an. Die X AG verpflichtet sich, den Strafantrag gemaess Paragraph 77d StGB zurueckzunehmen, sobald die Zahlung erfolgt ist. Beide Parteien vereinbaren wechselseitige Stillschweigeverpflichtungen."
 
-**Strafanzeige mit Antrag (Markeninhaber-Seite):** "Namens und mit Vollmacht der X AG, Inhaberin der Marke Y, erstatte ich Strafanzeige und stelle Strafantrag gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 143 MarkenG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt. Ein besonderes oeffentliches Interesse besteht: Der Beschuldigte hat ueber die Plattform Z im Tatzeitraum [...] Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben; die Vertriebsstruktur weist auf Wiederholungsabsicht hin. Die Akte enthaelt: Testkaeufe (Anlage K1), Originalitaetsbegutachtung durch X AG (Anlage K2), Plattform-Verkaufsstatistik (Anlage K3)."
+**Strafanzeige mit Antrag (Markeninhaber-Seite):** "Namens und mit Vollmacht der X AG, Inhaberin der Marke Y, erstatte ich Strafanzeige und stelle Strafantrag gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 143 MarkenG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt. Ein besonderes öffentliches Interesse besteht: Der Beschuldigte hat ueber die Plattform Z im Tatzeitraum [...] Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben; die Vertriebsstruktur weist auf Wiederholungsabsicht hin. Die Akte enthaelt: Testkaeufe (Anlage K1), Originalitaetsbegutachtung durch X AG (Anlage K2), Plattform-Verkaufsstatistik (Anlage K3)."
 
 ## Querverweise
 
@@ -464,7 +463,7 @@ Praxistipps:
 - Paragraphen 4, 14, 30, 142a MarkenG.
 - Paragraphen 77, 77b, 77d StGB (Strafantrag, Antragsfrist, Antragsruecknahme).
 - Paragraphen 158, 170, 374 StPO; Paragraphen 380 ff. StPO Suehneverfahren.
-- Paragraphen 24, 74, 74c GVG Zustaendigkeit.
+- Paragraphen 24, 74, 74c GVG Zuständigkeit.
 - Paragraphen 403 ff. StPO Adhaesionsverfahren.
-- VO (EU) 608/2013 (Produktpiraterieverordnung) fuer Grenzbeschlagnahme.
-- BGH staendige Rspr. zum besonderen oeffentlichen Interesse bei IP-Straftaten; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz live verifizieren.
+- VO (EU) 608/2013 (Produktpiraterieverordnung) für Grenzbeschlagnahme.
+- BGH staendige Rspr. zum besonderen öffentlichen Interesse bei IP-Straftaten; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz live verifizieren.

@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 177 KB) | PDF | [`gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf`](gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 186 KB) | PDF | [`gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf`](gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -34,6 +34,7 @@ Interne Managementakte einer mittelständischen deutschen Wirtschaftskanzlei mit
 | `11-ki-dms-investitionscase.md` | Legal-Tech-/DMS-/KI-Investitionsvorlage mit Datenschutz- und § 203-Risiko |
 | `12-management-committee-beschlusslog.md` | Entscheidungslog mit Ownern, Fristen und Review-Datum |
 | `gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf` | Durchsuchbares Gesamt-PDF der Akte |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Geeignete Plugins
 

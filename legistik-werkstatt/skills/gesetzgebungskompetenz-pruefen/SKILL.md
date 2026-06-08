@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-pruefen
-description: "Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschließliche Bundeskompetenz Art. 71 i.V.m. 73 GG. Konkurrierende Kompetenz Art. 72 i.V.m. 74 GG Erforderlichkeitsklausel Abweichung Laender. Auffangkompetenz Laender Art. 70 GG Sperrwirkung Bundesrecht. Annexkompetenz Kompetenz kraft Sachzusammenhangs BVerfGE 3/407. Bei Landesgesetzen zusaetzlich Landesverfassung. Output Gutachten ein bis zwei Seiten Empfehlung Tragfähigkeit. Abgrenzung zu normhierarchie-routing Normebenenwahl."
+description: "Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschließliche Bundeskompetenz Art. 71 i.V.m. 73 GG. Konkurrierende Kompetenz Art. 72 i.V.m. 74 GG Erforderlichkeitsklausel Abweichung Länder. Auffangkompetenz Länder Art. 70 GG Sperrwirkung Bundesrecht. Annexkompetenz Kompetenz kraft Sachzusammenhangs BVerfGE 3/407. Bei Landesgesetzen zusaetzlich Landesverfassung. Output Gutachten ein bis zwei Seiten Empfehlung Tragfähigkeit. Abgrenzung zu normhierarchie-routing Normebenenwahl."
 ---
 
 # Gesetzgebungskompetenz prüfen
@@ -45,7 +45,7 @@ Wenn Landesgesetz: Prüfung der Landesverfassung. Hat das Land Selbstverwaltung 
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 70 GG (Auffangkompetenz Laender) — Art. 71-73 GG (ausschliessliche Bundeskompetenz) — Art. 72-74 GG (konkurrierende Kompetenz, Erforderlichkeit) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 80 GG (Verordnungsermaechtigung)
+Art. 70 GG (Auffangkompetenz Länder) — Art. 71-73 GG (ausschliessliche Bundeskompetenz) — Art. 72-74 GG (konkurrierende Kompetenz, Erforderlichkeit) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 80 GG (Verordnungsermaechtigung)
 
 ## Quellenregel
 

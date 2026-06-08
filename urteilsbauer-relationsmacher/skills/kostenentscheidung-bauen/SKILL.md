@@ -1,6 +1,6 @@
 ---
 name: kostenentscheidung-bauen
-description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollständiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Prüfraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil."
+description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollständiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Prüfraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorläufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil."
 ---
 
 # Kostenentscheidung

@@ -43,7 +43,6 @@ Rot markieren:
 - Drohung, Nötigung, Sachbeschädigung, Nachstellung,
 - Baumfällung während Schutzzeiten oder bei Baumschutzsatzung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -5,7 +5,6 @@ description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchs
 
 # /verzeichnis-durchsuchen — Skill-Registry-Browser
 
-
 ## Triage zu Beginn
 1. Nach welchem Skill oder welchem Rechtsgebiet wird gesucht (Stichwort oder freie Suche)?
 2. Welche Registries sind in der Watchlist — und sind sie aktuell (Cache aelter als 7 Tage)?

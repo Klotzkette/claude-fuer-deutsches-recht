@@ -1,9 +1,9 @@
 ---
 name: ruecknahme-48-sgb-x-aenderung
-description: "Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster."
+description: "Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung für die Zukunft oder rueckwirkend. Liefert Pruefraster."
 ---
 
-# Ruecknahme 48 Sgb X Aenderung
+# Rücknahme 48 Sgb X Aenderung
 
 ## Fachlicher Anker
 
@@ -13,14 +13,14 @@ description: "Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der
 
 ## Anwendungsfall
 
-Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Verhaeltnisse aendern sich — Einkommen Bedarfsgemeinschaft Erwerbsfaehigkeit. Behoerde hebt den Dauerverwaltungsakt mit § 48 SGB X auf.
+Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Verhaeltnisse aendern sich — Einkommen Bedarfsgemeinschaft Erwerbsfaehigkeit. Behörde hebt den Dauerverwaltungsakt mit § 48 SGB X auf.
 
 ## Voraussetzungen § 48 Abs. 1 SGB X
 
 - Verwaltungsakt mit Dauerwirkung (laufende Leistung).
 - Wesentliche Aenderung der tatsaechlichen oder rechtlichen Verhaeltnisse.
 
-## Aufhebung fuer Vergangenheit
+## Aufhebung für Vergangenheit
 
 § 48 Abs. 1 Satz 2 SGB X — nur unter engen Voraussetzungen:
 - Vorteil ist gewaehrt worden ohne dass Anspruch bestand und der Beguenstigte hat dies erkannt oder grob fahrlaessig nicht erkannt.
@@ -44,5 +44,5 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 1. Welcher Dauerverwaltungsakt?
 2. Welche Aenderung der Verhaeltnisse?
 3. Wesentlich?
-4. Aufhebung fuer Zukunft oder rueckwirkend?
+4. Aufhebung für Zukunft oder rueckwirkend?
 5. Vertrauensschutz greift?

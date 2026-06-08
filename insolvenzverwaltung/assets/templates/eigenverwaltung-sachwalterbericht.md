@@ -1,6 +1,6 @@
 # Sachwalterbericht Eigenverwaltung
 
-| Prüffeld | Befund | Beleg | Ampel |
+| Prüfungslinie | Befund | Beleg | Ampel |
 | --- | --- | --- | --- |
 | Finanzplan | [ ] | [ ] | [ ] |
 | Zahlungsläufe | [ ] | [ ] | [ ] |

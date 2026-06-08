@@ -37,3 +37,13 @@ Diese Quellenkarte sichert im Bereich **Fluggastrechte** tragende Normen, Rechts
 - Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
 - Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
 - Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)

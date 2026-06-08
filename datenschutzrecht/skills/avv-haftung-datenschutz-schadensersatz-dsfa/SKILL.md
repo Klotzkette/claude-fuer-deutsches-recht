@@ -7,29 +7,29 @@ description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: p
 
 ## Arbeitsbereich
 
-**AVV Haftung Datenschutz Schadensersatz Dsfa** ordnet den Fall über die tragenden Prüffelder: Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**AVV Haftung Datenschutz Schadensersatz Dsfa** ordnet den Fall über die tragenden Prüfungslinien: Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `avv-haftung-risikoallokation-art-82-dsgvo` | Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine fuer Innen- und Aussenhaftung mit Cap-Hinweisen. |
-| `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjaehrung Anspruchskonkurrenz. Schritt-fuer-Schritt fuer Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung. |
-| `dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden` | Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere fuer Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung. |
-| `dsr-schadensersatz-art82-spezial` | Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster fuer Klaegervertreter. |
+| `avv-haftung-risikoallokation-art-82-dsgvo` | Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine für Innen- und Aussenhaftung mit Cap-Hinweisen. |
+| `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjährung Anspruchskonkurrenz. Schritt-für-Schritt für Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung. |
+| `dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden` | Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung. |
+| `dsr-schadensersatz-art82-spezial` | Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster für Klaegervertreter. |
 | `dsv-bussgeldverteidigung-art-83` | Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `avv-haftung-risikoallokation-art-82-dsgvo`
 
-**Fokus:** Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine fuer Innen- und Aussenhaftung mit Cap-Hinweisen.
+**Fokus:** Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine für Innen- und Aussenhaftung mit Cap-Hinweisen.
 
 # AVV-Haftung und Risikoallokation – Art. 82 DSGVO
 
@@ -42,12 +42,12 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 - Haftungscaps im AVV werden verhandelt.
 - Mandant hat Schadensersatzanspruch gegen den Vertragspartner zu pruefen.
 - Aussenhaftung gegenueber einem Betroffenen ist eingetreten und der Innenregress steht an.
-- Mandant beziffert das Restrisiko fuer ein Cyber-Versicherungsdeckungsgespraech.
+- Mandant beziffert das Restrisiko für ein Cyber-Versicherungsdeckungsgespraech.
 
 ## Rechtlicher Rahmen
 
 - Art. 82 Abs. 1 DSGVO: Jeder, der wegen eines Verstosses gegen die DSGVO einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder den Auftragsverarbeiter.
-- Art. 82 Abs. 2 DSGVO: Verantwortlicher haftet fuer den Schaden, den eine seiner Verarbeitungen verursacht hat. Auftragsverarbeiter haftet, wenn er gegen speziell ihm auferlegte Pflichten verstossen hat oder Weisungen des Verantwortlichen widersprochen oder ueberschritten hat.
+- Art. 82 Abs. 2 DSGVO: Verantwortlicher haftet für den Schaden, den eine seiner Verarbeitungen verursacht hat. Auftragsverarbeiter haftet, wenn er gegen speziell ihm auferlegte Pflichten verstossen hat oder Weisungen des Verantwortlichen widersprochen oder ueberschritten hat.
 - Art. 82 Abs. 3 DSGVO: Befreiung, wenn nachgewiesen wird, dass der Schaden in keiner Weise zu vertreten ist.
 - Art. 82 Abs. 4 DSGVO: Gesamtschuldnerische Haftung mehrerer Verantwortlicher / Auftragsverarbeiter, wenn an demselben Verarbeitungsvorgang beteiligt.
 - Art. 82 Abs. 5 DSGVO: Innenregress nach Mass des Verschuldensanteils.
@@ -68,7 +68,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 3. **Cap-Diskussion.**
  - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
  - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
- - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap fuer Datenschutzverletzungen.
+ - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap für Datenschutzverletzungen.
 
 4. **Versicherung.**
  - Cyber-Versicherung des Auftragsverarbeiters: Deckungssumme, Selbstbehalt, Geltungsbereich.
@@ -77,7 +77,7 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 
 5. **Sub-AV-Kette.**
  - Haftung in der Kette wird durch Art. 28 Abs. 4 DSGVO durchgereicht.
- - Primaerer Auftragsverarbeiter haftet weiter fuer Sub-AV.
+ - Primaerer Auftragsverarbeiter haftet weiter für Sub-AV.
  - Regress des primaeren Auftragsverarbeiters gegen Sub-AV vertraglich zu sichern.
 
 ## Mustertext / Template
@@ -90,18 +90,18 @@ Haftungsklausel:
 >
 > (2) Im Innenverhaeltnis tragen Verantwortlicher und Auftragsverarbeiter den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils. Hat ein Auftragsverarbeiter den vollen Schadenersatz an einen Betroffenen geleistet, steht ihm gegen den Verantwortlichen ein Regressanspruch in Hoehe des Verschuldensanteils des Verantwortlichen zu (Art. 82 Abs. 5 DSGVO).
 >
-> (3) Die Haftung des Auftragsverarbeiters gegenueber dem Verantwortlichen aus oder im Zusammenhang mit diesem Vertrag, einschliesslich Regressansprueche nach Absatz (2), ist auf einen Betrag von [BETRAG] EUR pro Schadensfall und insgesamt auf [BETRAG] EUR pro Kalenderjahr begrenzt. Die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
+> (3) Die Haftung des Auftragsverarbeiters gegenueber dem Verantwortlichen aus oder im Zusammenhang mit diesem Vertrag, einschliesslich Regressansprueche nach Absatz (2), ist auf einen Betrag von [BETRAG] EUR pro Schadensfall und insgesamt auf [BETRAG] EUR pro Kalenderjahr begrenzt. Die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >
 > (4) Der Auftragsverarbeiter haelt waehrend der Vertragslaufzeit eine Cyber-Haftpflichtversicherung mit einer Deckungssumme von mindestens [BETRAG] EUR pro Schadensfall und mindestens [BETRAG] EUR pro Versicherungsjahr vor. Der Versicherungsnachweis wird dem Verantwortlichen jaehrlich unaufgefordert vorgelegt.
 >
 > (5) DSGVO-Bussgelder, die einer Partei direkt durch eine Aufsichtsbehoerde auferlegt werden, traegt diese Partei selbst. Im Innenverhaeltnis besteht ein Erstattungsanspruch nur, soweit das Bussgeld auf einer schuldhaften Pflichtverletzung der anderen Partei beruht.
 >
-> (6) Der Auftragsverarbeiter haftet fuer das Verhalten seiner Sub-Auftragsverarbeiter in dem Umfang wie fuer eigenes Verhalten (Art. 28 Abs. 4 DSGVO)."
+> (6) Der Auftragsverarbeiter haftet für das Verhalten seiner Sub-Auftragsverarbeiter in dem Umfang wie für eigenes Verhalten (Art. 28 Abs. 4 DSGVO)."
 
 ## Typische Drafting-Fehler
 
 - Vollstaendige Haftungsfreistellung des Auftragsverarbeiters – nicht zulaessig wegen Art. 82 Abs. 2 DSGVO.
-- Cap auch fuer Vorsatz und grobe Fahrlaessigkeit – AGB-rechtlich unwirksam (§ 309 Nr. 7 BGB).
+- Cap auch für Vorsatz und grobe Fahrlaessigkeit – AGB-rechtlich unwirksam (§ 309 Nr. 7 BGB).
 - Pauschale Uebernahme aller Aussenhaftungsrisiken – wirtschaftlich unrealistisch ohne Versicherung.
 - Bussgelder-Regress ohne Bezug zur konkreten Pflichtverletzung – Art. 83 DSGVO Sanktionscharakter spricht gegen pauschalen Regress.
 - Versicherungsnachweis nicht eingefordert.
@@ -122,7 +122,7 @@ Haftungsklausel:
 
 ## 2. `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
 
-**Fokus:** Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjaehrung Anspruchskonkurrenz. Schritt-fuer-Schritt fuer Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung.
+**Fokus:** Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjährung Anspruchskonkurrenz. Schritt-für-Schritt für Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung.
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
 
@@ -141,25 +141,25 @@ Sieben-Fragen-Diagnose:
 3. **Kausalitaet:** Welcher Schaden hat sich aus welchem Verstoss konkret entwickelt? Kausalkette schriftlich.
 4. **Schadensart:** Materiell (Vermoegen) und/oder immateriell (Gefuehl, Kontrollverlust, Sorge)? Hoehe geschaetzt?
 5. **Beweislast:** Wer muss was beweisen — Verantwortlicher entlastet sich nach Art. 82 III DSGVO, dass er nicht verantwortlich ist; Klaeger muss Verstoss und Schaden darlegen.
-6. **Verjaehrung:** Art. 82 selbst regelt nichts; nach BGH-Rspr. § 195 BGB drei Jahre ab Kenntnis.
+6. **Verjährung:** Art. 82 selbst regelt nichts; nach BGH-Rspr. § 195 BGB drei Jahre ab Kenntnis.
 7. **Anspruchskonkurrenz:** UWG, BDSG § 83, deliktische Ansprueche §§ 823 ff. BGB?
 
 ## Rechtlicher Rahmen
 
 - **Art. 82 I DSGVO** Jede Person, die einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch gegen den Verantwortlichen oder Auftragsverarbeiter.
-- **Art. 82 II DSGVO** Verantwortlicher haftet fuer Schaeden aus Verarbeitungen; Auftragsverarbeiter nur bei Pflichtverletzung gegen DSGVO-Auftragsverarbeiterspflichten oder Weisung.
+- **Art. 82 II DSGVO** Verantwortlicher haftet für Schaeden aus Verarbeitungen; Auftragsverarbeiter nur bei Pflichtverletzung gegen DSGVO-Auftragsverarbeiterspflichten oder Weisung.
 - **Art. 82 III DSGVO** Entlastung des Verantwortlichen oder Auftragsverarbeiters bei Nachweis, in keinerlei Hinsicht verantwortlich.
 - **Art. 82 IV DSGVO** Gesamtschuld bei mehreren Verantwortlichen.
 - **EuGH C-300/21 Oesterreichische Post** (Urteil 04.05.2023): Kein blosser Verstoss reicht; konkreter Schaden notwendig; keine Erheblichkeitsschwelle.
-- **EuGH C-340/21 Bulgarian Sofia** (Urteil 14.12.2023): Auch blosse Sorge vor Datenmissbrauch kann immaterieller Schaden sein; Verantwortlicher hat TOM-Pflicht und Beweislast fuer Geeignetheit; Hackerangriff allein entlastet nicht.
-- **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befuerchtungen Betroffener koennen Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu pruefen.
+- **EuGH C-340/21 Bulgarian Sofia** (Urteil 14.12.2023): Auch blosse Sorge vor Datenmissbrauch kann immaterieller Schaden sein; Verantwortlicher hat TOM-Pflicht und Beweislast für Geeignetheit; Hackerangriff allein entlastet nicht.
+- **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befürchtungen Betroffener koennen Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu pruefen.
 - **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Hoehe nach nationalem Recht, aber unter Beachtung Effektivitaet und Aequivalenz.
 - **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen moeglich.
 - **BGH VI ZR 1148/22** (Urteil 18.11.2024): Bei DSGVO-Verstoss zeitnah Kontrollverlust und Folgen darzulegen; pauschale Behauptung reicht nicht.
 - **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
 - **§ 195 BGB** drei Jahre.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 ### Klaegerseite
 
@@ -170,9 +170,9 @@ Sieben-Fragen-Diagnose:
 ### Beklagtenseite
 
 1. **Zuerst:** Klageerwiderungsfrist sichern (§ 277 ZPO).
-2. **Als zweites:** Tatbestand pruefen — Verstoss nachweisbar? TOM Art. 32 dokumentiert? Belege fuer entlastenden Nachweis Art. 82 III?
+2. **Als zweites:** Tatbestand pruefen — Verstoss nachweisbar? TOM Art. 32 dokumentiert? Belege für entlastenden Nachweis Art. 82 III?
 3. **Als drittes:** Kausalitaet und Schaden bestreiten — Erhalt von Spam-Mails, Wechselgefuehle ohne konkrete Folge sind nach EuGH C-300/21 nicht ausreichend; aber Sorge kann nach EuGH C-340/21 reichen.
-4. **NICHT vorschnell anerkennen:** Auch nicht "aus Goodwill", da Praezedenz fuer weitere Verfahren.
+4. **NICHT vorschnell anerkennen:** Auch nicht "aus Goodwill", da Praezedenz für weitere Verfahren.
 5. **Vergleich erwaegen:** Bei klarer Beweislast lieber Vergleich als Praezedenzurteil.
 
 ## Trade-off-Matrix
@@ -180,7 +180,7 @@ Sieben-Fragen-Diagnose:
 | Variante | Vorteil | Nachteil |
 |---|---|---|
 | Klage mit hohem Streitwert | Maximale Forderung | Hohe Vorschuesse, Risiko Klageabweisung |
-| Streitwertbegrenzung Amtsgericht | Schnell, kostenarm | Reicht oft nicht fuer Praezedenz |
+| Streitwertbegrenzung Amtsgericht | Schnell, kostenarm | Reicht oft nicht für Praezedenz |
 | Vergleich vor Klage | Schnelle Erledigung | Keine Klaerung, Wiederholungsrisiko |
 | Vollstaendige Verteidigung | Praezedenz, klare Rechtslage | Reputationsrisiko, Folgeklagen |
 
@@ -210,7 +210,7 @@ Sieben-Fragen-Diagnose:
 > 2. Schaden bestreiten: blosse Sorge ohne Substanz reicht nach BGH VI ZR 1148/22 nicht; konkrete Folgen notwendig.
 > 3. Kausalitaet bestreiten — auch bei TOM-Pflichtverletzung muss Schaden konkret aus Verletzung resultieren.
 > 4. Entlastung Art. 82 III: TOM Art. 32 lagen vor (Anlage), Massnahmen waren angemessen.
-> 5. Verjaehrung pruefen (§ 195 BGB).
+> 5. Verjährung pruefen (§ 195 BGB).
 > 6. Hilfsweise Minderung der Hoehe (EuGH C-456/22: kompensatorisch, nicht praeventiv).
 
 ## Typische Fehler
@@ -218,8 +218,8 @@ Sieben-Fragen-Diagnose:
 - Pauschale Schadensbehauptung "Kontrollverlust" ohne konkrete Substanz (BGH VI ZR 1148/22).
 - TOM-Pflicht Art. 32 unterschaetzt — Beklagte muss Massnahmen aktiv belegen.
 - Verschuldensfrage nach EuGH C-741/21 uebersehen.
-- Streitwert zu hoch angesetzt — bei AG-Zustaendigkeit Vorbehalt.
-- Verjaehrung nicht gerueckpruefte (§ 195 BGB drei Jahre ab Kenntnis).
+- Streitwert zu hoch angesetzt — bei AG-Zuständigkeit Vorbehalt.
+- Verjährung nicht gerueckpruefte (§ 195 BGB drei Jahre ab Kenntnis).
 
 **Was triggert hohe Schadensersatzbetraege?** Art. 9-Daten, Massenvorfall, nachweisbare Kettenfolge (Identitaetsdiebstahl), fehlende Reaktion des Verantwortlichen, kein DSB.
 
@@ -243,7 +243,6 @@ Sieben-Fragen-Diagnose:
 - EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -254,13 +253,13 @@ Sieben-Fragen-Diagnose:
 
 ## 3. `dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden`
 
-**Fokus:** Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere fuer Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung.
+**Fokus:** Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung.
 
 # Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere
 
 ## Zweck
 
-Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere fuer die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
+Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere für die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
 
 ## Wann dieses Modul hilft
 
@@ -271,15 +270,15 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 7 lit. c DSGVO: Bewertung der Risiken fuer die Rechte und Freiheiten der Betroffenen.
+- Art. 35 Abs. 7 lit. c DSGVO: Bewertung der Risiken für die Rechte und Freiheiten der Betroffenen.
 - EDSA-Leitlinien WP 248 rev.01 mit Risiko-Skalen.
-- ENISA-Leitfaden zur DSFA — Methodik fuer Eintrittswahrscheinlichkeit und Schadenschwere.
-- Erwaegungsgrund 75 DSGVO: Beispiele fuer materielle und immaterielle Schaeden (Diskriminierung, Identitaetsdiebstahl, finanzieller Verlust, Rufschaedigung, Verlust der Vertraulichkeit besonders geschuetzter Daten).
+- ENISA-Leitfaden zur DSFA — Methodik für Eintrittswahrscheinlichkeit und Schadenschwere.
+- Erwaegungsgrund 75 DSGVO: Beispiele für materielle und immaterielle Schaeden (Diskriminierung, Identitaetsdiebstahl, finanzieller Verlust, Rufschaedigung, Verlust der Vertraulichkeit besonders geschuetzter Daten).
 - Erwaegungsgrund 76 DSGVO: Risiko ist anhand einer objektiven Bewertung zu beurteilen.
 
 ## Ablauf 6-Schritte-Methodik
 
-1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage fuer die Bedrohungsanalyse.
+1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage für die Bedrohungsanalyse.
 2. **Verhaeltnismaessigkeitspruefung.** Welche Schutzziele sind beruehrt (Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung)?
 3. **Risikoanalyse.** Pro Schutzziel Bedrohungsszenarien definieren:
  - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
@@ -289,7 +288,7 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
  - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
  - Nicht-Verkettung: ungewollte Zusammenfuehrung
  - Datenminimierung: ueber Zweck hinausreichende Speicherung
- Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere fuer Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
+ Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere für Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
 4. **Massnahmen.** Wirkung der geplanten Massnahmen auf Wahrscheinlichkeit und Schwere; Pruefung ob die Risikostufe sinkt.
 5. **Restrisiko.** Risikostufe nach Massnahmen, dokumentiert pro Szenario. Wenn hoch verbleibend, Vorab-Konsultation nach Art. 36.
 6. **Konsultation / Genehmigung.** DSB-Stellungnahme; Risikomatrix in die DSFA als zentrales Steuerungsdokument einbetten.
@@ -353,7 +352,7 @@ Unterschrift DSB: ____________________
 ## Querverweise
 
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Aufnahme in Vollvorlage
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien fuer Schwellwert
+- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien für Schwellwert
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Restrisiko und Art. 36
 - `datenschutzrecht/skills/dsfa-methodik-cnil-pia-vs-bsfd-bsi/SKILL.md` — Methodenwahl
 - `references/zitierweise.md` — Zitierweise
@@ -370,25 +369,21 @@ Unterschrift DSB: ____________________
 
 ## 4. `dsr-schadensersatz-art82-spezial`
 
-**Fokus:** Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster fuer Klaegervertreter.
+**Fokus:** Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster für Klaegervertreter.
 
 # DSR: Art-82-Schadensersatz
 
 ## Spezialwissen: DSR: Art-82-Schadensersatz
-- **Spezialgegenstand:** DSR: Art-82-Schadensersatz / dsr schadensersatz art82 spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** Art. 82, DSGVO, DSR.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -416,7 +411,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -484,3 +479,32 @@ Schritt 7: Stellungnahme verfassen; ggf. Bußgeldbescheid abwarten; Einspruch fr
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-schadensersatz-art-82` deckt zivilrechtliche Folgen ab.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 DSGVO (Grundsätze der Verarbeitung)
+- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
+- Art. 13, 14 DSGVO (Informationspflichten)
+- Art. 15 DSGVO (Auskunftsrecht)
+- Art. 28 DSGVO (Auftragsverarbeitung)
+- Art. 32 DSGVO (Sicherheit der Verarbeitung)
+- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
+- Art. 82 DSGVO (Schadensersatz)
+- Art. 83 DSGVO (Bußgelder)
+- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
+
+### Leitentscheidungen
+
+- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
+- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
+- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
+- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
+
+### Anwendung im Skill
+
+- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
+- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
+- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.

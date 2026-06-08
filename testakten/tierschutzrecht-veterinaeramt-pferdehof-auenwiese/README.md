@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 58 KB) | PDF | [`gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf`](gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf`](gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -28,6 +28,7 @@ Tierschutzakte Pferdehof Auenwiese: Veterinäramt, Haltungsanordnung, Wegnahme, 
 | `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
 | `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
 | `07-entwurf-naechster-schritt.md` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Passende Plugins
 

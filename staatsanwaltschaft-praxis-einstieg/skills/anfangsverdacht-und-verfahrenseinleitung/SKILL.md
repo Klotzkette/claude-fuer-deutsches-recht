@@ -6,15 +6,12 @@ description: "Anfangsverdacht und Verfahrenseinleitung: Praxis-Skill für neue S
 # Anfangsverdacht und Verfahrenseinleitung
 
 ## Fachkern: Anfangsverdacht und Verfahrenseinleitung
-- **Spezialgegenstand:** Anfangsverdacht und Verfahrenseinleitung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Anfangsverdacht und Verfahrenseinleitung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Anfangsverdacht, Anzeige, Strafantrag, Offizialdelikt und erste Verfügung trennen
 
@@ -34,13 +31,23 @@ Dieser Abschnitt bearbeitet **Fachkern: Anfangsverdacht und Verfahrenseinleitung
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-
 ## Spezielle Leitplanken
 
 - Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 152 Abs. 2 StPO (Legalitätsprinzip, Anfangsverdacht)
+- § 160 Abs. 1, 2 StPO (Erforschungspflicht, entlastende Umstände)
+- Nr. 3 RiStBV (Wächterin des Gesetzes)
+- § 152 Abs. 2 StPO, § 160 StPO (Verfahrenseinleitung von Amts wegen)
+- § 158 StPO (Strafanzeige, Strafantrag)
+- Nr. 6 ff. RiStBV
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

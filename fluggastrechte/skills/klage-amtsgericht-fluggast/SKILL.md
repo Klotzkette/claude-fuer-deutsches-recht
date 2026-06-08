@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: "Prüffeld für klage amtsgericht fluggast: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für klage amtsgericht fluggast im Fluggastrechte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Klage zum Amtsgericht (Fluggastrechte)
@@ -271,8 +271,8 @@ beA-Konvention:
 - Art. 7 VO (EG) Nr. 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse
 - Art. 5 Abs. 1 lit. c VO (EG) Nr. 261/2004 — Annullierung; Art. 6 VO — Verspaetung
 - Art. 5 Abs. 3 VO (EG) Nr. 261/2004 — Befreiung nur bei aussergewoehnlichen Umstaenden (Beweislast Airline)
-- § 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) — sachliche Zustaendigkeit Amtsgericht bis 10.000 EUR
-- §§ 12, 13, 17 ZPO — oertliche Zustaendigkeit allgemein
+- § 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) — sachliche Zuständigkeit Amtsgericht bis 10.000 EUR
+- §§ 12, 13, 17 ZPO — oertliche Zuständigkeit allgemein
 - § 253 ZPO — Klageerhebung Schriftform, Mindestinhalt Klageschrift
 - § 60 ZPO — Streitgenossenschaft mehrerer Passagiere
 - §§ 286, 288 BGB — Verzug und Verzugszinsen

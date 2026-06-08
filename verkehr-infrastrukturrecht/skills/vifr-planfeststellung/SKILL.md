@@ -1,50 +1,46 @@
 ---
 name: vifr-planfeststellung
-description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verkehr Infrastrukturrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Vifr Planfeststellung
 
 ## Arbeitsbereich
 
-**Vifr Planfeststellung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Vifr Planfeststellung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `vifr-planfeststellung-strasse-bauleiter` | Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhoerungsverfahren, Beschluss. Pruefraster fuer Vorhabentraeger und Einwender. |
+| `vifr-planfeststellung-strasse-bauleiter` | Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss. Pruefraster für Vorhabentraeger und Einwender. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verkehrs- und Infrastrukturrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: VwVfG § 73 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist, VwGO § 47 Normenkontrolle 1 Jahr, BVerwGO § 50 Abs. 1 Nr. 6 erstinstanzliche Zuständigkeit BVerwG.
 - Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB §§ 38, 246, VwVfG §§ 72-78 (Planfeststellung), VwGO §§ 47 ff., BNatSchG §§ 14, 15, 34, 44, WHG §§ 8, 67, EU-FFH-RL, UmwRG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Planfeststellungsbeschluss, Erörterungsprotokoll, UVP-Bericht, FFH-Verträglichkeitsstudie, Einwendung, Klage zum BVerwG, Erlaubnis nach § 67 WHG — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vifr-planfeststellung-strasse-bauleiter`
 
-**Fokus:** Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhoerungsverfahren, Beschluss. Pruefraster fuer Vorhabentraeger und Einwender.
+**Fokus:** Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss. Pruefraster für Vorhabentraeger und Einwender.
 
 # ViFR: Planfeststellung Strasse
 
 ## Spezialwissen: ViFR: Planfeststellung Strasse
-- **Spezialgegenstand:** ViFR: Planfeststellung Strasse / vifr planfeststellung strasse bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FStrG, UVP.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -72,7 +68,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

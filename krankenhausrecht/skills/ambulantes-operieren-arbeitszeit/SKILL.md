@@ -1,42 +1,26 @@
 ---
 name: ambulantes-operieren-arbeitszeit
-description: "Ambulantes Operieren Arbeitszeit im Plugin Krankenhausrecht: prüft konkret Ambulantes Operieren am Krankenhaus nach § 115b SGB V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Ambulantes Operieren Arbeitszeit
+# Ambulantes Operieren § 115b SGB V
 
 ## Arbeitsbereich
 
-**Ambulantes Operieren Arbeitszeit** ordnet den Fall über die tragenden Prüffelder: Ambulantes Operieren am Krankenhaus nach § 115b SGB V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ambulantes-operieren-115b-sgb-v` | Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG. |
-| `arbeitszeit-bereitschaftsdienst-rufdienst` | Arbeitszeit Bereitschaftsdienst Rufdienst: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
-| `barrierefreiheit-krankenhauskommunikation` | Barrierefreiheit Krankenhauskommunikation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
+Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Krankenhausrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `ambulantes-operieren-115b-sgb-v`
-
-**Fokus:** Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG.
-
-# Ambulantes Operieren § 115b SGB V
 
 ## Fachkern: Ambulantes Operieren § 115b SGB V
-- **Spezialgegenstand:** Ambulantes Operieren § 115b SGB V. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Worum geht es konkret
 § 115b SGB V eroeffnet Krankenhaeusern die Moeglichkeit, ambulante Operationen im Rahmen des AOP-Katalogs zu erbringen. Seit 2023 gilt ein erweiterter Katalog mit Kontextfaktoren (Schweregrad, soziale Lage, Risikofaktoren). Abrechnung gegenueber Kassenaerztlicher Vereinigung (KV), nicht Kasse direkt.
@@ -52,11 +36,11 @@ description: "Ambulantes Operieren Arbeitszeit im Plugin Krankenhausrecht: prüf
 - **SGB V § 115b** Ambulantes Operieren am Krankenhaus, AOP-Vertrag.
 - **AOP-Vertrag** zwischen GKV-SV, KBV, DKG i. d. F. 2023 ff.
 - **AOP-Katalog (Anlage 1 AOP-Vertrag)** mit Kontextfaktoren.
-- **SGB V § 115f** Hybrid-DRG fuer haeufige Eingriffe (Schnittstelle ambulant/stationaer).
+- **SGB V § 115f** Hybrid-DRG für haeufige Eingriffe (Schnittstelle ambulant/stationaer).
 - **BMV-AE** und KV-Abrechnungsregeln (HVM, EBM).
 - **MD-Pruefung § 275c SGB V** und § 17c KHG zur Fehlbelegungspruefung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Eingriff im AOP-Katalog identifizieren:** OPS-Code abgleichen.
 2. **Kontextfaktoren pruefen:** Sind Schweregrad-/Risiko-Konstellationen erfuellt, die stationaeren Aufenthalt rechtfertigen?
 3. **Abrechnungsweg waehlen:** AOP (KV) oder Hybrid-DRG (Kasse direkt) oder stationaer (Kasse, DRG).
@@ -75,8 +59,8 @@ description: "Ambulantes Operieren Arbeitszeit im Plugin Krankenhausrecht: prüf
 
 ## Praxistipps
 - AOP-Katalog 2023 hat Kontextfaktoren neu eingefuehrt — sie machen die Abgrenzung lebbar.
-- Hybrid-DRG (§ 115f SGB V) ist seit 2024 fuer einen wachsenden Katalog scharf gestellt; einheitlicher Festbetrag.
-- Personalmeldung an InEK auch fuer ambulante Eingriffe relevant (Strukturpruefung).
+- Hybrid-DRG (§ 115f SGB V) ist seit 2024 für einen wachsenden Katalog scharf gestellt; einheitlicher Festbetrag.
+- Personalmeldung an InEK auch für ambulante Eingriffe relevant (Strukturpruefung).
 - Bei MD-Pruefung "primaere Fehlbelegung" droht Abschlag auf AOP-Pauschale; Begruendung Kontextfaktor sichern.
 - KV-Honorar-HVM kann Pauschalierungen, Quoten und Begrenzungen vorsehen.
 
@@ -108,92 +92,24 @@ description: "Ambulantes Operieren Arbeitszeit im Plugin Krankenhausrecht: prüf
 - Hybrid-DRG-Verordnung (Live-Check BMG).
 - BSG, staend. Rspr. zur Fehlbelegung und zum AOP-Vertrag.
 
-## 2. `arbeitszeit-bereitschaftsdienst-rufdienst`
+## Normen und Rechtsprechung
 
-**Fokus:** Arbeitszeit Bereitschaftsdienst Rufdienst: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+### Kuratierte Normen-Bibliothek
 
-# Arbeitszeit Bereitschaftsdienst Rufdienst
+- § 1-23 KHG
+- § 17a-17d KHG
+- § 18a KHG
+- § 80 VwG
+- § 5c IfSG
+- § 17 KHEntgG
+- § 14 ApoG
+- § 9 KHG
+- § 13 KHEntgG
+- § 6 IfSG
+- § 17c KHG
+- § 203 StGB
 
-## Fachkern: Arbeitszeit Bereitschaftsdienst Rufdienst
-- **Spezialgegenstand:** Arbeitszeit Bereitschaftsdienst Rufdienst. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+### Leitentscheidungen
 
+- EuGH C-280/00
 
-## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Arbeitszeit Bereitschaftsdienst Rufdienst** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 3. `barrierefreiheit-krankenhauskommunikation`
-
-**Fokus:** Barrierefreiheit Krankenhauskommunikation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
-
-# Barrierefreiheit Krankenhauskommunikation
-
-## Fachkern: Barrierefreiheit Krankenhauskommunikation
-- **Spezialgegenstand:** Barrierefreiheit Krankenhauskommunikation. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Barrierefreiheit Krankenhauskommunikation** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?

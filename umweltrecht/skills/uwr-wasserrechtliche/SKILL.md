@@ -1,50 +1,46 @@
 ---
 name: uwr-wasserrechtliche
-description: "UWR Wasserrechtliche im Plugin Umweltrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # UWR Wasserrechtliche
 
 ## Arbeitsbereich
 
-**UWR Wasserrechtliche** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**UWR Wasserrechtliche** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `uwr-wasserrechtliche-erlaubnis-leitfaden` | Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster fuer Industrieanlagen und kommunale Vorhaben. |
+| `uwr-wasserrechtliche-erlaubnis-leitfaden` | Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster für Industrieanlagen und kommunale Vorhaben. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Umweltrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BImSchG § 10 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist 1 Monat, BBodSchG Sanierungsuntersuchung 1 Jahr, Störfall-Anzeige unverzüglich.
 - Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `uwr-wasserrechtliche-erlaubnis-leitfaden`
 
-**Fokus:** Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster fuer Industrieanlagen und kommunale Vorhaben.
+**Fokus:** Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster für Industrieanlagen und kommunale Vorhaben.
 
 # UwR: Wasserrecht-Erlaubnis
 
 ## Spezialwissen: UwR: Wasserrecht-Erlaubnis
-- **Spezialgegenstand:** UwR: Wasserrecht-Erlaubnis / uwr wasserrechtliche erlaubnis leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** WHG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -72,7 +68,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

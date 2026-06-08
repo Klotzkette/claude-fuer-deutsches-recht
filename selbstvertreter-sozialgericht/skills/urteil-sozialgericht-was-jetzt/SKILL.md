@@ -40,7 +40,7 @@ Sie haben das Urteil bekommen. Gewonnen, verloren oder teils. Wir helfen Ihnen z
 - **§ 144 SGG** — Berufung; Wertgrenze.
 - **§ 151 SGG** — Berufungsfrist.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Urteil systematisch lesen
 
@@ -71,7 +71,7 @@ Pruefen:
 
 - **Rechtsmittelbelehrung**: Berufung moeglich oder nur Nichtzulassungsbeschwerde?
 - **Frist**: 1 Monat ab Zustellung
-- **Wert**: Berufung zum LSG nur, wenn Wert ueber 750 EUR oder laufende Leistungen fuer mehr als 1 Jahr (§ 144 SGG)
+- **Wert**: Berufung zum LSG nur, wenn Wert ueber 750 EUR oder laufende Leistungen für mehr als 1 Jahr (§ 144 SGG)
 - **Aussichten**: Wie wahrscheinlich Erfolg?
 
 ### Schritt 5 — Berufung ueberlegen
@@ -85,7 +85,7 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ### Schritt 6 — Bei Teil-Sieg
 
 - Pruefen, ob die verlorenen Teile lohnend zu klagen sind.
-- Berufung nur fuer Teile moeglich, wenn Wertgrenze gehalten.
+- Berufung nur für Teile moeglich, wenn Wertgrenze gehalten.
 
 ### Schritt 7 — Bei vollem Sieg
 
@@ -96,9 +96,9 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ## Worauf Sie besonders achten muessen
 
 - **Rechtsmittelfrist 1 Monat** — wieder eng.
-- **Wertgrenze § 144 SGG**: 750 EUR oder laufende Leistungen fuer mehr als 1 Jahr.
+- **Wertgrenze § 144 SGG**: 750 EUR oder laufende Leistungen für mehr als 1 Jahr.
 - **Nichtzulassungsbeschwerde** ist Alternative wenn keine Berufung.
-- **Bei Sieg auf Umsetzung achten** — manche Behoerden zoegern.
+- **Bei Sieg auf Umsetzung achten** — manche Behörden zoegern.
 
 ## Typische Fehler
 
@@ -118,7 +118,6 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell.
-
 
 ## Qualitäts-Hardening
 

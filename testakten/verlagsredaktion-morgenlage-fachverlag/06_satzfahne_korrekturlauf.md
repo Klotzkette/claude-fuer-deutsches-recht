@@ -17,18 +17,18 @@
 | Nr. | Seite | Beitrag | Art | Beschreibung |
 | --- | ---: | --- | --- | --- |
 | 1 | 2 | Inhaltsverzeichnis | Inhalt | Beitrag Seidenpfennig noch mit Vortitel "KI-Vertragsprüfung -- Praxis", Originaltitel des Manuskripts lautet "KI-Vertragsprüfung in Kanzleien -- empirische Befunde 2025" |
-| 2 | 3 | Editorial | Platzhalter | "Editorial folgt -- bitte freihalten" als Lauftext sichtbar; Editorial Lenz noch nicht eingebaut |
+| 2 | 3 | Editorial | Inhalt | Editorialtext fehlt; der Hinweis “Editorial folgt” ist in der Fahne noch als Lauftext sichtbar und muss vor Druck vollständig durch den Herausgebertext ersetzt werden |
 | 3 | 6 | Aufsatz Seidenpfennig | Layout | drei Tabellen über mehrere Seiten gelaufen, Tabellenkopfwiederholung fehlt auf Folgeseiten |
 | 4 | 14 | Aufsatz Seidenpfennig | Layout | Fußnote 44 läuft auf nächste Seite und verdrängt Zwischenüberschrift "IV.3 Vergleich mit US-Praxis" |
 | 5 | 24 | Aufsatz Vortrup | Schreibweise | "Datenraum" mehrfach als "Daten Raum" mit Spatium getrennt (Layoutbug Trennung) |
 | 6 | 28 | Praxis Greve | Bild | Tabelle "Häufige DSFA-Risiken im Verlag" zu klein gesetzt (8 pt statt 9 pt), nicht mehr lesbar im S/W-Druck |
 | 7 | 31 | Praxis Greve | Bild | Abbildung Workflow Datenschutz ohne Alt-Text und ohne Credit-Zeile |
-| 8 | 36 | Rechtsprechung Lenz | Inhalt | zwei Platzhalter im Lauftext: `[Rn. aus BGH-Urteil ergänzen]` und `[Auswirkung für Verlagspraxis präzisieren]` |
+| 8 | 36 | Rechtsprechung Lenz | Inhalt | Randnummernverweis und Praxisfolge sind noch nicht finalisiert; beide Stellen müssen nach Erscheinen des amtlichen Volltexts fachlich ausformuliert werden |
 | 9 | 44 | Rezension Rabenau | Bild | Screenshot Folie 12 mit sichtbarem Wasserzeichen noch im Layout; Bildcredit fehlt |
 | 10 | 50 | Tagungsbericht Wendt | Schreibweise | Bucerius einmal "Bucerius Law School", einmal "Bucerius Law-School" mit Bindestrich |
 | 11 | 51 | -- | Sonst | Autorenname "Oktavia Lenz" einmal als "Octavia Lenz" gesetzt (vermutlich aus Word-Originaldatei übernommen) |
 | 12 | 53 | Nachrichten Gesetzgebung | Inhalt | dritte Meldung fehlt ("Bundesrat zur DSA-Durchführungsverordnung -- Stellungnahme vom 16.05.2026") |
-| 13 | 57 | Buchanzeige Datenschutz | Inhalt | Klappentext fehlt komplett, Platzhalter "<Klappentext folgt aus Marketing>" |
+| 13 | 57 | Buchanzeige Datenschutz | Inhalt | Klappentext fehlt komplett; Marketing muss bis Dienstag 16:00 eine druckfähige Fassung liefern, sonst wird die Anzeige durch eine Eigenanzeige der Vorauflage ersetzt |
 | 14 | 60 | Rezensionsteil | Layout | Witwen-/Waisenzeilen in 3 Spalten, eine Zeile am Spaltenende einzeln |
 | 15 | 63 | Impressum | Inhalt | Rechtsstandsvermerk lautet "Stand: April 2026", muss "Stand: Juni 2026" lauten |
 | 16 | 64 | Impressum | Inhalt | Herausgeberzeile noch ohne Dr. Krenz, obwohl seit Heft 6 wieder Mitherausgeber (zurück aus Elternzeit Mitte Juni) |
@@ -40,7 +40,7 @@
 | Editorial | Lenz | offen | offen | Editorial fehlt noch |
 | Aufsatz I | Seidenpfennig | offen (Kürzung) | offen | Beitrag zu lang, Kürzungsentscheidung erwartet Mi 03.06. |
 | Aufsatz II | Vortrup | 28.05. erteilt | offen | Korrektur Trennfehler "Daten Raum" |
-| Rechtsprechung | Lenz | offen (Platzhalter) | offen | Embargo Volltext |
+| Rechtsprechung | Lenz | offen (Randnummern/Praxisfolge) | offen | Embargo Volltext |
 | Praxis | Greve | 24.05. erteilt | offen | Tabelle zu klein, Alt-Text |
 | Praxis II Rückrufrecht | Krug | 27.05. erteilt | offen | Bucerius-Schreibung |
 | Rezension | Rabenau | offen (Bildrechte) | offen | Screenshot-Wasserzeichen |

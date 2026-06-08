@@ -20,11 +20,11 @@ Strukturierte Dokumentation einer DSFA als Beleg der Rechenschaftspflicht nach A
 ## Rechtlicher Rahmen
 
 - Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — der Verantwortliche muss die Einhaltung der Grundsaetze nachweisen koennen.
-- Art. 24 DSGVO: Verantwortung des fuer die Verarbeitung Verantwortlichen.
+- Art. 24 DSGVO: Verantwortung des für die Verarbeitung Verantwortlichen.
 - Art. 30 DSGVO: Verzeichnis von Verarbeitungstaetigkeiten — DSFA-Verweis.
 - Art. 35 Abs. 11 DSGVO: Re-Pruefungspflicht.
 - Art. 58 Abs. 1 lit. a DSGVO: Auskunftsbefugnis der Aufsicht.
-- § 257 HGB, § 147 AO fuer Aufbewahrungsfristen kaufmaennischer und steuerlicher Unterlagen — DSFA ist nicht kaufmaennisches Dokument, aber an die Verarbeitungstaetigkeit gekoppelt.
+- § 257 HGB, § 147 AO für Aufbewahrungsfristen kaufmaennischer und steuerlicher Unterlagen — DSFA ist nicht kaufmaennisches Dokument, aber an die Verarbeitungstaetigkeit gekoppelt.
 
 ## Ablauf 6-Schritte-Methodik
 
@@ -50,8 +50,8 @@ DSB: [NAME]
 05 Methodenwahl-Memo (Skill dsfa-methodik-cnil-pia-vs-bsfd-bsi)
 06 Vollstaendige DSFA (Skill dsfa-template-deutsch-vollvorlage)
 07 Risikomatrix (Skill dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden)
-08 TIA falls Drittlandtransfer (Skill dsfa-fuer-internationale-datentransfers)
-09 KI-FRIA falls Hochrisiko-KI (Skill dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo)
+08 TIA falls Drittlandtransfer (Skill dsfa-für-internationale-datentransfers)
+09 KI-FRIA falls Hochrisiko-KI (Skill dsfa-für-ki-systeme-schnittstelle-art-26-kivo)
 10 Stakeholder-Konsultation (Skill dsfa-stakeholder-konsultation-art-35-9)
 11 DSB-Stellungnahme
 12 Vorabkonsultation Art. 36 (falls erfolgt)
@@ -73,7 +73,7 @@ Zugriffskonzept
 ## Aufbewahrungsregeln
 
 - DSFA muss waehrend der gesamten Dauer der Verarbeitungstaetigkeit aufbewahrt werden.
-- Nach Ende der Verarbeitung mindestens fuer den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei oeffentlichen Stellen oft 10 Jahre.
+- Nach Ende der Verarbeitung mindestens für den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei öffentlichen Stellen oft 10 Jahre.
 - Alte Versionen nicht loeschen, sondern archivieren.
 - Bei Anbieterwechsel: Uebergabe der Akte einschliesslich aller Versionen.
 - Bei steuerlich relevanten Verarbeitungen ggf. § 147 AO 10 Jahre.
@@ -83,7 +83,7 @@ Zugriffskonzept
 - Datierung und Unterschrift jedes Dokuments
 - Versionierung und Aenderungshistorie
 - Klare Autorenschaft (Wer hat dokumentiert, wer hat beschlossen?)
-- DSB-Anhoerung dokumentiert mit Datum
+- DSB-Anhörung dokumentiert mit Datum
 - Quellenverzeichnis (Aufsichtshinweise, Leitlinien, Rechtsprechung)
 - Verweis auf Verarbeitungsverzeichnis und AVV
 

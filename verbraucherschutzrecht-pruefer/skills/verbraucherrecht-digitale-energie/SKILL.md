@@ -1,36 +1,21 @@
 ---
 name: verbraucherrecht-digitale-energie
-description: "Verbraucherrecht Digitale Energie im Verbraucherschutzrecht: prüft konkret Digitale Produkte nach §§ 327 ff, Energie, Smart Meter und Wärme, Online-Finanzdienstleistung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Verbraucherrecht Digitale Energie
+# Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.
 
 ## Arbeitsbereich
 
-**Verbraucherrecht Digitale Energie** ordnet den Fall über die tragenden Prüffelder: Digitale Produkte nach §§ 327 ff, Energie, Smart Meter und Wärme. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `verbraucherrecht-digitale-produkte-327-bgb` | Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
-| `verbraucherrecht-energie-smartmeter-waerme` | Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
-| `verbraucherrecht-finanzdienstleistung-online` | Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
-| `verbraucherrecht-plattform-marktplatz-haendler` | Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.; Normanker: BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
+Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherschutzrecht Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 312 ff., 355, 357, 491 ff., UWG §§ 3, 5, 6, 7, RDG, VBVG, EU-Verbraucherrechts-RL 2011/83; UKlaG; VSBG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `verbraucherrecht-digitale-produkte-327-bgb`
-
-**Fokus:** Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
-
-# Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.
 
 ## Fachkern: Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.
 
@@ -42,81 +27,6 @@ description: "Verbraucherrecht Digitale Energie im Verbraucherschutzrecht: prüf
 ## Normanker
 
 BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle. Der aktuelle Normtext, insbesondere BGB/EGBGB und Spezialrecht, ist bei frist- oder anspruchstragenden Punkten live zu prüfen.
-
-## Prüfprogramm
-
-1. Verbraucherstatus, Unternehmerseite, Vertragstyp und Zeitpunkt klären.
-2. Pflichtinformation, Einwilligung, Widerruf, Preis, Lieferung/Bereitstellung und Mangel trennen.
-3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
-4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
-5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
-
-## 2. `verbraucherrecht-energie-smartmeter-waerme`
-
-**Fokus:** Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
-
-# Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.
-
-## Fachkern: Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.
-
-- **Verbraucherproblem (Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.):** Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.
-- **Beleganker:** Vertrag, Screenshot, Rechnung, Widerrufsbelehrung, AGB, Plattformseite, Zahlungsfluss und Kommunikation müssen als Anspruchsbelege geordnet werden.
-- **Normenanker:** BGB-Verbraucherrecht, EGBGB-Informationspflichten, UWG/UKlaG, DSGVO-Schnittstellen und Spezialrecht live prüfen.
-- **Arbeitsprodukt:** Verbraucher-Check, Anspruchsziel, Beweisfragen und kurzer Textbaustein ohne unnötige Selbstbelastung.
-
-## Normanker
-
-EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV. Der aktuelle Normtext, insbesondere BGB/EGBGB und Spezialrecht, ist bei frist- oder anspruchstragenden Punkten live zu prüfen.
-
-## Prüfprogramm
-
-1. Verbraucherstatus, Unternehmerseite, Vertragstyp und Zeitpunkt klären.
-2. Pflichtinformation, Einwilligung, Widerruf, Preis, Lieferung/Bereitstellung und Mangel trennen.
-3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
-4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
-5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
-
-## 3. `verbraucherrecht-finanzdienstleistung-online`
-
-**Fokus:** Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
-
-# Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
-
-## Fachkern: Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
-
-- **Verbraucherproblem (Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.):** Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
-- **Beleganker:** Vertrag, Screenshot, Rechnung, Widerrufsbelehrung, AGB, Plattformseite, Zahlungsfluss und Kommunikation müssen als Anspruchsbelege geordnet werden.
-- **Normenanker:** BGB-Verbraucherrecht, EGBGB-Informationspflichten, UWG/UKlaG, DSGVO-Schnittstellen und Spezialrecht live prüfen.
-- **Arbeitsprodukt:** Verbraucher-Check, Anspruchsziel, Beweisfragen und kurzer Textbaustein ohne unnötige Selbstbelastung.
-
-## Normanker
-
-BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle. Der aktuelle Normtext, insbesondere BGB/EGBGB und Spezialrecht, ist bei frist- oder anspruchstragenden Punkten live zu prüfen.
-
-## Prüfprogramm
-
-1. Verbraucherstatus, Unternehmerseite, Vertragstyp und Zeitpunkt klären.
-2. Pflichtinformation, Einwilligung, Widerruf, Preis, Lieferung/Bereitstellung und Mangel trennen.
-3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
-4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
-5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
-
-## 4. `verbraucherrecht-plattform-marktplatz-haendler`
-
-**Fokus:** Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.; Normanker: BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
-
-# Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.
-
-## Fachkern: Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.
-
-- **Verbraucherproblem (Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.):** Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.
-- **Beleganker:** Vertrag, Screenshot, Rechnung, Widerrufsbelehrung, AGB, Plattformseite, Zahlungsfluss und Kommunikation müssen als Anspruchsbelege geordnet werden.
-- **Normenanker:** BGB-Verbraucherrecht, EGBGB-Informationspflichten, UWG/UKlaG, DSGVO-Schnittstellen und Spezialrecht live prüfen.
-- **Arbeitsprodukt:** Verbraucher-Check, Anspruchsziel, Beweisfragen und kurzer Textbaustein ohne unnötige Selbstbelastung.
-
-## Normanker
-
-BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht. Der aktuelle Normtext, insbesondere BGB/EGBGB und Spezialrecht, ist bei frist- oder anspruchstragenden Punkten live zu prüfen.
 
 ## Prüfprogramm
 

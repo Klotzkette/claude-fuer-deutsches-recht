@@ -1,28 +1,28 @@
 ---
 name: zwangsgeld-zwangsvollstreckung
-description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Bürokratie-Entbürokratisierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsgeld Zwangsvollstreckung
 
 ## Arbeitsbereich
 
-**Zwangsgeld Zwangsvollstreckung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Zwangsgeld Zwangsvollstreckung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zwangsgeld-und-zwangsvollstreckung-behoerde` | Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Bürokratieabbau und Entbürokratisierung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: NKR-Stellungnahme i.d.R. 4 Wochen vor Kabinett, OZG-Umsetzung erweitert durch OZGÄndG, Verordnungsbefristung nach BEG IV regelmäßig 7 Jahre.
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zwangsgeld-und-zwangsvollstreckung-behoerde`
 

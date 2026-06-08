@@ -15,7 +15,7 @@ Dieser Skill liefert die Selbstprüfung **vor** Verkündung — nicht erst, wenn
 
 Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es auf Kausalitaet ankommt:
 
-1. **Nicht vorschriftsmaessige Besetzung** des Gerichts (Nr. 1)
+1. **Nicht vorschriftsmäßige Besetzung** des Gerichts (Nr. 1)
  - Geschäftsverteilungsplan eingehalten?
  - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
  - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -170,7 +170,7 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 
 - `tatbestand-zivil-schreiben` — vollständig und widerspruchsfrei
 - `tenor-bauen-zivil` — vollstreckbar
-- `vorlaeufige-vollstreckbarkeit` — Paragraf 708 ff. ZPO
+- `vorläufige-vollstreckbarkeit` — Paragraf 708 ff. ZPO
 - `relation-zivil` — Gesamtaufbau
 
 ## Anschluss

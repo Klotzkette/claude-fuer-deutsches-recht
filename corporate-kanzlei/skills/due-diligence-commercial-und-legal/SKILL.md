@@ -1,34 +1,21 @@
 ---
 name: due-diligence-commercial-und-legal
-description: "DUE Diligence Commercial und Legal im Corporate-Kanzlei-Praxis: prüft konkret Commercial Contracts Due Diligence, Legal Due Diligence für M&A-Transaktionen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting im Corporate Kanzlei: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# DUE Diligence Commercial und Legal
+# Due Diligence — Commercial Contracts
 
 ## Arbeitsbereich
 
-**DUE Diligence Commercial und Legal** ordnet den Fall über die tragenden Prüffelder: Commercial Contracts Due Diligence, Legal Due Diligence für M&A-Transaktionen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `corporate-kanzlei-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting. |
-| `corporate-kanzlei-due-diligence-legal` | Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting. |
+Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Corporate Kanzlei klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `corporate-kanzlei-due-diligence-commercial-contracts`
-
-**Fokus:** Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting.
-
-# Due Diligence — Commercial Contracts
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Due Diligence — Commercial Contracts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -37,7 +24,6 @@ description: "DUE Diligence Commercial und Legal im Corporate-Kanzlei-Praxis: pr
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Fachkern: Due Diligence — Commercial Contracts
 
@@ -142,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Anspruchsgrundlagen & Normen
 
 - **§ 307 BGB** — AGB-Inhaltskontrolle; Klauseln mit unangemessener Benachteiligung unwirksam
-- **§ 309 Nr. 7 BGB** — Haftungsfreizeichnung fuer Koerperschaeden; verboten in AGB
+- **§ 309 Nr. 7 BGB** — Haftungsfreizeichnung für Koerperschaeden; verboten in AGB
 - **§ 314 BGB** — ausserordentliches Kuendigungsrecht bei wichtigem Grund
 - **§ 613a BGB** — Betriebsuebergang; automatischer Uebergang von Arbeitsvertraegen
 - **§§ 74 ff. HGB** — nachvertragliches Wettbewerbsverbot; Entschaedigungspflicht
@@ -169,7 +155,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Abtretungsverbote | Zustimmungserfordernis bei Abtretung oder Verpfaendung | Finanzierungs-Securitization gehemmt | Consent; vertragliche Liberalisierung |
 | Geheimhaltung | Laufzeit, Ausnahmen, Vertragsstrafe | Post-Closing Know-How-Schutz | Erfuellung sicherstellen |
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Material Contracts Liste erstellen** — aus DD-IRL, Jahresabschluss-Anhang, Management-Input; Schwellenwert definieren (z.B. >100 TEUR Jahresvolumen oder strategisch wesentlich)
 2. **Vertraege klassifizieren** — Kunde, Lieferant, Finanzierung, Lizenz, JV, Miet, Arbeitsrecht, Sonstige
@@ -178,14 +164,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Haftungslimits abgleichen** — mit Unternehmensrisikoprofil und W&I-Deckungsgrenzen
 6. **Wettbewerbsverbote pruefen** — Gueltigkeit nach §§ 74 ff. HGB und § 138 BGB; GWB-Konformitaet
 7. **Contract Summary erstellen** — pro wesentlichem Vertrag: Parteien, Laufzeit, Volumen, CoC, Kuendigung, Kernrisiken
-8. **Empfehlung fuer SPA** — welche Vertraege brauchen Consents, spezifische Reps, Indemnities oder Closing Conditions?
+8. **Empfehlung für SPA** — welche Vertraege brauchen Consents, spezifische Reps, Indemnities oder Closing Conditions?
 
 ## Entscheidungsbaum: Consent erforderlich?
 
 ```
 Wesentlicher Vertrag mit CoC-Klausel identifiziert?
  → Ja: Klausel loest Kuendigung aus?
- → Ja: Wesentlich fuer Geschaeftsbetrieb?
+ → Ja: Wesentlich für Geschaeftsbetrieb?
  → Ja: Consent vor Signing einholen → ggf. Closing Condition
  → Nein: Disclosure Letter; SPA-Rep "kein wesentlicher Vertrag betroffen"
  → Nein: Klausel loest nur Anpassungsrecht aus?
@@ -226,12 +212,12 @@ EMPFEHLUNG: [Consent einholen bis [Datum] / Disclosure / Indemnity]
 - CoC-Klausel in Top-Kundenvertrag ohne Consent → Kuendigungsrisiko post-Closing gefaehrdet Unternehmenswert
 - Lizenzvertrag mit Abtretungsverbot ohne Consent → IP-Verlust; Deal-Breaker-Potential
 - Wettbewerbsverbot laenger als 2 Jahre nach § 138 BGB → Nichtigkeit; Mitarbeiter nicht gebunden
-- Haftungslimit unter versichertem Schadenspotenzial → Gap-Risiko fuer Kaeufer
+- Haftungslimit unter versichertem Schadenspotenzial → Gap-Risiko für Kaeufer
 - Exklusivitaet kartellrechtlich problematisch → GWB-Bussgeld, Nichtigkeit der Klausel
 
 ## Vertiefung: Open Source Software-Risiken (IP/IT-Workstream)
 
-Lizenzvertraege fuer Software koennen Open-Source-Copyleft-Pflichten enthalten (GPL, LGPL). Im DD pruefen: (a) Welche Open-Source-Bestandteile sind im Produkt; (b) Welche Lizenzpflichten bestehen (Quelltextoffenlegung); (c) Enthaelt Lizenz Termination-Right bei GPL-Verletzung. Risiko: Wichtigstes Produkt muss Open Source veroeffentlicht werden.
+Lizenzvertraege für Software koennen Open-Source-Copyleft-Pflichten enthalten (GPL, LGPL). Im DD pruefen: (a) Welche Open-Source-Bestandteile sind im Produkt; (b) Welche Lizenzpflichten bestehen (Quelltextoffenlegung); (c) Enthaelt Lizenz Termination-Right bei GPL-Verletzung. Risiko: Wichtigstes Produkt muss Open Source veroeffentlicht werden.
 
 ## Quellen
 
@@ -239,173 +225,3 @@ Lizenzvertraege fuer Software koennen Open-Source-Copyleft-Pflichten enthalten (
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 7
-
-## 2. `corporate-kanzlei-due-diligence-legal`
-
-**Fokus:** Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting.
-
-# Legal Due Diligence
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legal Due Diligence` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Triage — klaere vor Beginn der LDD
-
-1. Buy-Side oder Sell-Side DD? (Kaeufer analysiert oder Verkaefer bereitet auf)
-2. Full-Scope oder Limited-Scope (Focus Areas)?
-3. Zeitrahmen: Wie viele Tage bis zum DD-Report-Deadline?
-4. Welche Workstreams sind relevant: Corporate, Vertraege, HR, IP/IT, Litigation, Compliance, Real Estate?
-5. Gibt es bekannte Deal-Breaker-Themen aus dem Process Letter oder ersten Gespraechen?
-6. W&I-Versicherung geplant? (Underwriter stellt eigene DD-Anforderungen)
-7. Sind Datenschutz/DSGVO und Exportkontrolle eigene Workstreams?
-
-## Zentrale Anspruchsgrundlagen & Normen
-
-- **§§ 311 II, 241 II BGB** — vorvertragliche Aufklaerungspflichten; Haftung fuer falsche/unterlassene Information
-- **§ 444 BGB** — Arglist schliesst Haftungsfreizeichnung aus; kein Ruckgriff auf Beschraenkungen
-- **§ 123 BGB** — Anfechtung wegen arglistiger Taeuschung; 1 Jahr Frist (§ 124 BGB)
-- **§ 453 BGB** — Anteilskauf; Maengelhaftung bei Garanieverletzungen
-- **§ 15 IV GmbHG** — Vinkulierung von GmbH-Anteilen; Zustimmungserfordernisse bei Abtretung
-- **§ 68 II AktG** — Vinkulierung von Namensaktien
-- **§ 179a AktG** — Zustimmung HV bei Asset Deal (gesamtes Gesellschaftsvermoegen)
-- **§§ 35 ff. GWB** — Fusionskontrolle; anmeldepflichtige Zusammenschluesse
-- **Art. 4 DSGVO i.V.m. Art. 28 DSGVO** — Datenschutz im Datenraum und bei Zielgesellschaft
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## LDD-Workstreams — Pruefungsmatrix
-
-| Workstream | Kerndokumente | Hauptrisiken | Vertragsmechanismus |
-|---|---|---|---|
-| Corporate | Satzung, Handelsregister, Gesellschaftervertraege, Organbeschluesse | Minderheitsrechte, Change-of-Control, Vinkulierung | Corporate Title Warranty, Zustimmungsvorbehalt |
-| Vertraege | Wesentliche Vertraege, Material Contracts, Aufhebungsvereinbarungen | CoC-Klauseln, Kuendigungsrechte, Exklusivitaet | Specific Reps, Indemnity |
-| HR/Arbeitsrecht | Arbeitsvertraege, Betriebsvereinbarungen, Pensionszusagen | § 613a BGB, Betriebsrat, Change-of-Control | HR Warranty, Pension Indemnity |
-| IP/IT | Marken, Patente, Lizenzen, Domain-Namen, Quellcode | Lizenzkuendigungen, Open-Source-Pflichten, IT-Sicherheit | IP Title Warranty, Source Code Escrow |
-| Litigation | Laufende Rechtsstreitigkeiten, Schiedsverfahren, Behoerdenverfahren | Haftungsvolumen, Rueckstellungsluecken | Litigation Indemnity, Disclosure Schedule |
-| Compliance | GwG, Kartellrecht, Exportkontrolle, Korruption (FCPA/UKBA) | Bussgeld, Lizenzentzug, Reputationsrisiko | Compliance Warranty, Anti-Corruption Rep |
-| Real Estate | Grundbuchauszuege, Mietvertraege, Altlasten | Umwelthaftung, Sonderkuendigungsrechte | Real Estate Warranty, Environmental Indemnity |
-| Tax | Steuererklaerungen, Betriebspruefungsbescheide, Verrechnungspreise | Steuernachforderungen | Tax Indemnity (Separate-Strang), Tax Warranty |
-
-## Red-Flag-Bewertungsmatrix
-
-| Schweregrad | Definition | Konsequenz |
-|---|---|---|
-| Red Flag / Deal Breaker | Existenzgefaehrdend, nicht heilbar, Strukturaenderung noetig | Separate Empfehlung; ggf. Deal-Abbruch |
-| High Risk | Erheblich, heilbar oder abzudecken; ohne Mechanismus Deal-Wert-Minderung | Spezifische Indemnity oder Kaufpreisabschlag |
-| Medium Risk | Bedeutsam, vertretbar durch Warranty; kein unmittelbarer Schaden | Disclosure Schedule; General Warranty |
-| Low Risk | Marginal; marktkonform | Offenlegung im Disclosure Letter; keine gesonderte Klausel |
-
-## Schritt-fuer-Schritt-Workflow
-
-1. **DD-Scope festlegen** — Workstreams, Tiefen-Level (Full/Limited), Ressourcen, Zeitplan
-2. **IRL (Information Request List) erstellen** — gegliedert nach Workstreams; priorisiert nach Wesentlichkeit
-3. **Datenraum strukturieren** — Index-Mapping, Gap-Analyse, fehlende Dokumente als TODO markieren
-4. **Workstream-Pruefung** — jedes Dokument mit Datum, Fundstelle (Datenraum-ID) und Risikoklasse erfassen
-5. **Red Flag Memo intern** — laufende Zusammenfassung fuer Deal-Team; taeglich aktualisieren
-6. **Rueckfragen (Q&A)** — schriftliche Fragen an Verkaefer ueber Q&A-Funktion; Antworten dokumentieren
-7. **DD-Report finalisieren** — Executive Summary, Workstream-Abschnitte, Risikomatrix, Empfehlungen
-8. **SPA-Mapping** — DD-Findings mit konkreten Vertragsklauseln verknuepfen (Reps, Indemnities, Closing Conditions)
-9. **W&I-Underwriter-Briefing** — DD-Report und Red Flag Memo an Versicherer; No-Claims Declaration
-
-## Output-Template DD-Red-Flag-Memo
-
-**Adressat:** Deal-Team intern / Managing Partner — Tonfall sachlich, risikopriorisiert
-
-```
-LEGAL DUE DILIGENCE — RED FLAG MEMO (INTERN, VERTRAULICH)
-Transaktion: [DEAL-NAME]
-Zielgesellschaft: [NAME, Sitz]
-Datum: [DATUM]
-Version: [Nr.]
-Bearbeiter: [NAMEN]
-
-1. EXECUTIVE SUMMARY
- Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
- Deal-Breaker identifiziert: [Ja/Nein — wenn Ja: Beschreibung]
- Empfehlung: [Weiterverhandeln / Kaufpreisanpassung erforderlich / Abbruch pruefen]
-
-2. RED FLAGS (nach Schweregrad)
- | Nr. | Workstream | Befund | Schweregrad | Vertragsmechanismus |
- |-----|-----------|--------|-------------|---------------------|
- | 1 | [Workstream] | [Befund] | [Red Flag] | [Indemnity / KP-Abschlag] |
-
-3. HIGH-RISK-FINDINGS
- [Strukturierter Ueberblick]
-
-4. OFFENE PUNKTE / Q&A-AUSSTEHEND
- | Nr. | Frage | An Verkaefer seit | Frist |
- |-----|-------|-------------------|-------|
- | 1 | [Frage] | [Datum] | [Datum] |
-
-5. EMPFEHLUNGEN SPA-ADJUSTMENTS
- [Konkrete Klausel-Anpassungen, Indemnity-Empfehlungen]
-```
-
-## Output-Template DD-Report Struktur
-
-```
-LEGAL DUE DILIGENCE REPORT
-Transaktion: [DEAL-NAME]
-Zielgesellschaft: [NAME]
-Datum: [DATUM]
-
-I. EXECUTIVE SUMMARY
-II. SCOPE AND METHODOLOGY
-III. CORPORATE / ANTEILSSTRUKTUR
-IV. WESENTLICHE VERTRAEGE
-V. HR UND ARBEITSRECHT
-VI. IP UND IT
-VII. LITIGATION UND BESCHWERDEN
-VIII.COMPLIANCE UND REGULIERUNG
-IX. IMMOBILIEN UND UMWELT
-X. STEUERN (Ueberblick; Details im Tax DD Report)
-XI. RISIKOMATRIX (konsolidiert)
-XII. SPA-EMPFEHLUNGEN
-ANLAGEN: Dokumentenindex, Q&A-Log, Organigramm
-```
-
-## Rote Schwellen
-
-- DD-Report ohne Risikomatrix und SPA-Mapping-Empfehlung — Red Flags ohne Konsequenz
-- Q&A-Antworten nicht dokumentiert — Beweisrisiko bei Arglist-Vorwurf (§ 444 BGB)
-- Litigation-Risiken nicht mit Rueckstellungen abgeglichen — Wertluecke im Kaufpreis
-- § 613a-Risiken (Betriebsuebergang Asset Deal) nicht identifiziert — unerwarteter Arbeitnehmer-Uebergang
-- FDI/Aussenwirtschaftsrechtliche Genehmigungspflicht uebersehen — Closing-Risiko, Nichtigkeit
-
-## Vertiefung: Besondere Risikobereiche
-
-### Change-of-Control-Klauseln
-Wesentliche Vertraege (Kundenv., Lieferantenv., Bankkredite, Mietvertraege, Lizenzen) enthalten haeufig CoC-Kuendigungsrechte. Im LDD: systematisches Mapping aller wesentlichen Vertraege mit CoC-Klauseln; Verhandlung von Consents vor Signing.
-
-### Kartellrecht (§§ 35 ff. GWB; FKVO)
-Ab Umsatzschwellen: Anmeldepflicht Bundeskartellamt / EU-Kommission. Vollzugsverbot (Gun Jumping) bis zur Freigabe strikt einhalten — Bussgeld bis 10 % des Weltumsatzes.
-
-### DSGVO-Compliance im Datenraum
-Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht fuer DD-Zwecke erforderlich sind. Anonymisierung oder Pseudonymisierung von HR-Daten vorsehen.
-
-## Quellen
-
-- § 311 II BGB: https://www.gesetze-im-internet.de/bgb/__311.html
-- § 444 BGB: https://www.gesetze-im-internet.de/bgb/__444.html
-- § 453 BGB: https://www.gesetze-im-internet.de/bgb/__453.html
-- § 15 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__15.html
-- § 179a AktG: https://www.gesetze-im-internet.de/aktg/__179a.html
-- §§ 35 ff. GWB: https://www.gesetze-im-internet.de/gwb/__35.html
-- AWG § 4-6 (FDI-Pruefung); AWV §§ 55 ff. (sektorale Investitionspruefung): https://www.gesetze-im-internet.de/awv_2013/
-- EU-FDI-Screening-VO (EU) 2019/452: https://eur-lex.europa.eu/eli/reg/2019/452
-- EU Foreign Subsidies Regulation (FSR) (VO (EU) 2022/2560; in Kraft 12.01.2023; anwendbar ab 12.07.2023; Notifizierungspflicht ab 12.10.2023). M&A-Schwelle: mindestens eine Partei (oder Zielgesellschaft) ueber EUR 500 Mio. EU-Umsatz UND erworbene Seite hat ueber EUR 50 Mio. drittstaatliche finanzielle Zuwendungen in letzten drei Jahren erhalten. Bei Vergabeverfahren: ueber EUR 250 Mio. Auftragswert und ueber EUR 4 Mio. Drittstaaten-Zuwendungen. VO-Text: https://eur-lex.europa.eu/eli/reg/2022/2560 — Kommission Guidance: https://competition-policy.ec.europa.eu/foreign-subsidies-regulation_en
-- MoPeG (BGBl. I 2021, 3436; in Kraft 01.01.2024) — Auswirkungen auf DD bei Personengesellschaften (eGbR, OHG, KG): https://www.gesetze-im-internet.de/bgb/__705.html
-- DiRUG/DiREG: Online-Beurkundung Kapitalmassnahmen seit 01.08.2023 — DD-Implikation fuer Closing-Mechanik
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

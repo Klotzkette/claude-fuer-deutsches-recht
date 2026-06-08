@@ -35,7 +35,7 @@ Sie muessen nicht immer ins Gericht fahren. Sie koennen auch per Video teilnehme
 
 - **§ 110a SGG** — Verhandlung mittels Bild- und Tonuebertragung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Antrag stellen
 
@@ -111,7 +111,6 @@ Mit freundlichen Gruessen
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110a SGG. Praxis variiert je SG.
-
 
 ## Qualitäts-Hardening
 

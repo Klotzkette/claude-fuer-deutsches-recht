@@ -1,6 +1,6 @@
 ---
 name: rueckausnahme-art-6-abs-3
-description: "Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausnahmsweise nicht Hochrisiko ist. Art. 6 Abs. 3 KI-VO: kein erhebliches Risiko fuer Gesundheit, Sicherheit oder Grundrechte, vier enge Fallgruppen, Profiling-Sperre, Begruendungs- und Dokumentationspflicht nach Art. 6 Abs. 4. Besonders wichtig fuer allgemeine Assistenzsysteme, Chatbots und vorbereitende Tools in Personal, Justiz, Bildung, Kredit und Verwaltung. Output: begruendeter Rueckausnahme-Vermerk mit Risikobegruendung und Folge-Skills."
+description: "Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausnahmsweise nicht Hochrisiko ist. Art. 6 Abs. 3 KI-VO: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, vier enge Fallgruppen, Profiling-Sperre, Begruendungs- und Dokumentationspflicht nach Art. 6 Abs. 4. Besonders wichtig für allgemeine Assistenzsysteme, Chatbots und vorbereitende Tools in Personal, Justiz, Bildung, Kredit und Verwaltung. Output: begruendeter Rueckausnahme-Vermerk mit Risikobegruendung und Folge-Skills."
 ---
 
 # Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 KI-VO
@@ -159,7 +159,6 @@ Anhang-III-Treffer: [NR. / BEREICH / KONKRETER TATBESTAND]
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Maßgeblich sind Art. 6 Abs. 3 und 4 KI-VO, Art. 3 Nr. 12/13/23 KI-VO und Anhang III. Keine Rechtsberatung; die Rückausnahme ist eng und tatsachenabhängig.
-
 
 ## Qualitäts-Hardening
 

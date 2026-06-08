@@ -29,7 +29,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koen
 
 - **§ 109 SGG-Gutachten**: Gutachten eines vom Versicherten gewaehlten Arztes.
 - **Kostenvorschuss**: Sie zahlen vorab oder spaetestens nach Gutachten.
-- **Anhoerungsrecht**: Sie haben einen Anspruch auf Anhoerung (in engen Grenzen).
+- **Anhörungsrecht**: Sie haben einen Anspruch auf Anhörung (in engen Grenzen).
 
 ## Rechtsgrundlagen
 
@@ -37,7 +37,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koen
 - **§ 109 Abs. 1 S. 2 SGG** — Kosten traegt der Antragsteller.
 - **§ 109 Abs. 1 S. 3 SGG** — Bei Erfolg kann das Gericht die Kosten der Staatskasse auferlegen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob § 109 sinnvoll
 
@@ -108,7 +108,7 @@ Das Gericht setzt einen Vorschuss fest. Diesen ueberweisen Sie an die Gerichtska
 
 - Untersuchung beim Wahl-Gutachter.
 - Gutachten geht ans Gericht.
-- Sie und die beklagte Behoerde erhalten Kopie.
+- Sie und die beklagte Behörde erhalten Kopie.
 
 ### Schritt 7 — Bei Erfolg: Kostenerstattung
 
@@ -147,7 +147,6 @@ Wenn auch die Beklagte verliert, koennen die Kosten ueber § 193 SGG erstattet w
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 109 SGG aktuell. Pruefen Sie aktuelle Gerichtskosten-Praxis bei Ihrem SG.
-
 
 ## Qualitäts-Hardening
 

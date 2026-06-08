@@ -1,44 +1,43 @@
 ---
 name: glaeubigerantrag-insolvenzanfechtung
-description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsrecht: prüft konkret Prüffeld für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsrecht: prüft konkrete Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Glaeubigerantrag Insolvenzanfechtung
 
 ## Arbeitsbereich
 
-**Glaeubigerantrag Insolvenzanfechtung** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Glaeubigerantrag Insolvenzanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Prüffeld für fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung` | Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich prüfen: Verwalter- und Anfechtungsgegnerperspektive, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146, KI-Screening von Schuldnerakten und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen. |
 | `fachanwalt-insolvenz-sanierungsrecht-orientierung` | Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenkarte verifizierbare Quellen und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan. |
-| `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Prüffeld für fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `insanw-anfechtungsmandat-leitfaden` | Leitfaden Anfechtungsmandat fuer Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung. |
+| `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `insanw-anfechtungsmandat-leitfaden` | Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag`
 
-**Fokus:** Prüffeld für fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -50,7 +49,7 @@ description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsr
 6. Sollen sofortige Sicherungsmaßnahmen (§ 21 InsO: vorläufiger Insolvenzverwalter, Zustimmungsvorbehalt, ZV-Einstellung) beantragt werden?
 7. Ist das Rechtsschutzbedürfnis gegeben – liegt keine bloße Druckausübung vor?
 8. Sind Verfahrenskosten gedeckt: kann der Mandant ggf. gemäß § 26 Abs. 1 InsO Kostenvorschuss leisten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -276,7 +275,6 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Kaltstartfragen
 
 1. Wer ist Mandant: Insolvenzverwalter, Sachwalter, Anfechtungsgegner, Gesellschafter, Bank, Lieferant?
@@ -384,7 +382,6 @@ Hinweis: Keine Rechtsberatung. Diese Prüfung ist Facharbeitsstruktur; Rechtssta
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## FAO-Voraussetzungen (§ 14 FAO)
 
@@ -526,16 +523,15 @@ VI. KOSTEN / HONORARRAHMEN
 
 ## 4. `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`
 
-**Fokus:** Prüffeld für fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -547,7 +543,7 @@ VI. KOSTEN / HONORARRAHMEN
 6. Benötigt das Unternehmen sofortige Vollstreckungsschutz durch Stabilisierungsanordnung §§ 49 ff. StaRUG?
 7. Ist Anteilsinhaberschaft (Debt-to-Equity-Swap) als Teil des Plans vorgesehen, und haben Gesellschafter dem zugestimmt?
 8. Wurden externe Sanierungsberater (Restrukturierungsbeauftragter § 73 StaRUG) bereits eingebunden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -751,7 +747,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 5. `insanw-anfechtungsmandat-leitfaden`
 
-**Fokus:** Leitfaden Anfechtungsmandat fuer Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung.
+**Fokus:** Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung.
 
 # InsAnw: Anfechtung-Leitfaden
 
@@ -763,22 +759,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: InsAnw: Anfechtung-Leitfaden
-- **Spezialgegenstand:** InsAnw: Anfechtung-Leitfaden / insanw anfechtungsmandat leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -806,7 +797,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

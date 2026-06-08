@@ -7,10 +7,10 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 
 ## Arbeitsbereich
 
-**UWG Systematik Statt Streit** ordnet den Fall über die tragenden Prüffelder: UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**UWG Systematik Statt Streit** ordnet den Fall über die tragenden Prüfungslinien: UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `uwg-systematik-und-anwendung` | UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbände. Beispielfälle und Schriftsatzbausteine. |
 | `vergleich-statt-streit-strategie` | Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz. Wann Vergleich sinnvoll, Vergleichsoptionen (Abgrenzung, Kreuzlizenz, Einmalzahlung), Vergleichsprotokoll, RVG-Einigungsgebühr, Vergleichsklauseln und Risiken. |
@@ -18,12 +18,12 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `uwg-systematik-und-anwendung`
 
@@ -344,7 +344,7 @@ In Marken-, Patent-, Design- und Wettbewerbsrecht typische Interessen-Cluster:
 - Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung)
 - Vertraulichkeit (NDA im Vergleich)
 
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 ```
 Schritt 1: Analyse BATNA und ZOPA

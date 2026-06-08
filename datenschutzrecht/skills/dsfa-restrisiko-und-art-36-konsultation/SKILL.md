@@ -7,7 +7,7 @@ description: "Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36
 
 ## Zweck
 
-Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zustaendigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
+Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zuständigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
 
 ## Wann dieses Modul hilft
 
@@ -33,7 +33,7 @@ Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforder
 3. **Risikoanalyse.** Risikomatrix vor und nach Massnahmen; Identifizierung der Szenarien, die im hohen Bereich verbleiben.
 4. **Massnahmen.** Sind alle technisch und organisatorisch zumutbaren Massnahmen ergriffen? Pruefung Art. 32 DSGVO, Stand der Technik, Implementierungskosten gegen Risikoreduktion.
 5. **Restrisiko.** Wenn hoch verbleibend: Art. 36 Konsultation Pflicht. Begruendung warum das Restrisiko nicht weiter reduzierbar ist (Wirtschaftlichkeit, technische Grenzen, gesetzlicher Zweck).
-6. **Konsultation / Genehmigung.** Konsultationsantrag an die zustaendige Aufsichtsbehoerde mit den Inhalten nach Art. 36 Abs. 3 DSGVO. Frist 8 Wochen; Verarbeitung darf bis zur Antwort nicht aufgenommen werden.
+6. **Konsultation / Genehmigung.** Konsultationsantrag an die zuständige Aufsichtsbehoerde mit den Inhalten nach Art. 36 Abs. 3 DSGVO. Frist 8 Wochen; Verarbeitung darf bis zur Antwort nicht aufgenommen werden.
 
 ## Mustertext / Template (Konsultationsantrag)
 
@@ -103,7 +103,7 @@ Mit freundlichen Gruessen
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Restrisiko-Berechnung
 - `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Dokumentation
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA und Konsultation
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA und Konsultation
 - `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026

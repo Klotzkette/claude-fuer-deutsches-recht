@@ -7,10 +7,10 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Krankenkassen Hilfsmittel Leistungsablehnung** ordnet den Fall über die tragenden Prüffelder: Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Krankenkassen Hilfsmittel Leistungsablehnung** ordnet den Fall über die tragenden Prüfungslinien: Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `krankenkassen-hilfsmittel-33-sgb-v` | Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage. |
 | `krankenkassen-leistungsablehnung-sgb-v` | Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage. |
@@ -20,12 +20,12 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `krankenkassen-hilfsmittel-33-sgb-v`
 
@@ -40,7 +40,6 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruchsgrundlage
 
@@ -103,7 +102,6 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die Krankenkasse lehnt eine Behandlung oder Leistung ab. Sie sind betroffen — koerperlich und finanziell. Diese Skill zeigt typische Streit-Konstellationen und wie Sie vorgehen.
@@ -137,7 +135,7 @@ Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie
 - **§ 48 SGB V** — Hoechstdauer Krankengeld.
 - **§ 13 Abs. 3a SGB V** — Genehmigungsfiktion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid pruefen
 
@@ -249,7 +247,6 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 
 Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmittel-Verzeichnis online aktuell. MD seit 2022.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -271,7 +268,6 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Rolle des MD
 
@@ -333,7 +329,6 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Anspruch
 
 § 40 Abs. 1 SGB V: Reha ambulant stationaer als Leistung der Krankenkasse, wenn ambulante Behandlung nicht ausreicht.
@@ -375,7 +370,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 1. Aerztliche Verordnung (Muster 61)?
 2. Reha-Bedarf belegbar?
-3. Welcher Traeger zustaendig?
+3. Welcher Traeger zuständig?
 4. Wahlrecht beachtet?
 5. AHB-Anschluss moeglich?
 
@@ -392,7 +387,6 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Wechselrecht
 
@@ -412,7 +406,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 ## Wahltarife § 53 SGB V
 
 - Selbstbehalt: Beitragsrueckverguetung bei Nichtinanspruchnahme.
-- Krankengeld-Wahltarif fuer Selbststaendige.
+- Krankengeld-Wahltarif für Selbststaendige.
 - Beihilfeergaenzungstarif.
 - Bonus-Programme.
 

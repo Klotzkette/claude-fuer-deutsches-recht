@@ -1,38 +1,25 @@
 ---
 name: schulung-urteilsbauer-aktenintake-beschluss
-description: "Schulung Urteilsbauer Aktenintake Beschluss im Plugin Urteilsbauer Relationsmacher: prüft konkret Schulungs-Trainerleitfaden für Plugin, Aktenintake, Beschluss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Schulung Urteilsbauer Aktenintake Beschluss
+# Trainer-Leitfaden Schulung Urteilsbauer
 
 ## Arbeitsbereich
 
-**Schulung Urteilsbauer Aktenintake Beschluss** ordnet den Fall über die tragenden Prüffelder: Schulungs-Trainerleitfaden für Plugin, Aktenintake, Beschluss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `schulung-urteilsbauer` | Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung. |
-| `spezial-aktenintake-schriftsatz-brief-und-memo-bausteine` | Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-beschluss-tatbestand-beweis-und-belege` | Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `schulung-urteilsbauer`
-
-**Fokus:** Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung.
-
-# Trainer-Leitfaden Schulung Urteilsbauer
+## Spezialwissen
 
 Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
-
 
 ## Triage zu Beginn (für Trainer)
 
@@ -76,7 +63,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Block | Dauer | Skills | Lernziel |
 |---|---|---|---|
 | Urteil schreiben | 90 Min | `tenor-bauen-zivil`, `tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben` | Vollständiges Urteil im Urteilsstil |
-| Nebenentscheidungen | 60 Min | `kostenentscheidung-bauen`, `vorlaeufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` | Tenor-Ziff. 2-4 korrekt |
+| Nebenentscheidungen | 60 Min | `kostenentscheidung-bauen`, `vorläufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` | Tenor-Ziff. 2-4 korrekt |
 | Selbstkontrolle | 45 Min | `berufungsfest-pruefen`, `revisionsfest-pruefen` | Fehler selbst erkennen |
 | Render | 45 Min | `dokumente-rendern-urteil-docx` | DOCX live erstellen |
 
@@ -106,7 +93,7 @@ Die Teilnehmenden koennen am Ende
 | Internationales | `internationales-privatrecht`, `cisg-pruefen`, `kollidierende-agb-pruefen`, `incoterms-und-gefahruebergang` |
 | Beweis | `beweisbeschluss-vorbereiten`, `beweiswuerdigung-mit-richter-input` |
 | Urteil schreiben | `tenor-bauen-zivil`, `tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben` |
-| Nebenentscheidungen | `kostenentscheidung-bauen`, `vorlaeufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` |
+| Nebenentscheidungen | `kostenentscheidung-bauen`, `vorläufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` |
 | Selbstkontrolle | `berufungsfest-pruefen`, `revisionsfest-pruefen` |
 | Ausgabe | `dokumente-rendern-urteil-docx` |
 
@@ -138,9 +125,8 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 2. Beide AGB kollidieren - Knock-out Doktrin greift.
 3. CISG ist anwendbar, auch ohne ausdrücklichen Ausschluss in beiden AGB.
 4. Incoterm FOB Galway - Gefahrübergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
-5. Streitwert 1577 EUR - sachlich zustaendig AG nach Paragraf 23 Nr. 1 GVG.
+5. Streitwert 1577 EUR - sachlich zuständig AG nach Paragraf 23 Nr. 1 GVG.
 6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.
-
 
 ---
 
@@ -148,85 +134,3 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 ## Audit-Hinweis (27.05.2026)
 
 Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.
-
-## 2. `spezial-aktenintake-schriftsatz-brief-und-memo-bausteine`
-
-**Fokus:** Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Spezialwissen: Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine / aktenintake schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aktenintake** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 3. `spezial-beschluss-tatbestand-beweis-und-belege`
-
-**Fokus:** Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-## Spezialwissen: Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage / beschluss tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beschluss** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

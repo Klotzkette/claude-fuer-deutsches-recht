@@ -7,10 +7,10 @@ description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: p
 
 ## Arbeitsbereich
 
-**Pflvg Quoten Sonderfall Stgb** ordnet den Fall über die tragenden Prüffelder: Pflvg, Quoten, Stgb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Pflvg Quoten Sonderfall Stgb** ordnet den Fall über die tragenden Prüfungslinien: Pflvg, Quoten, Stgb. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-pflvg-risikoampel-und-gegenargumente` | Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-quoten-sonderfall-und-edge-case` | Quoten: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -18,12 +18,12 @@ description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: p
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verkehrsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-pflvg-risikoampel-und-gegenargumente`
 
@@ -32,11 +32,7 @@ description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: p
 # Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien / pflvg risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -73,11 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Quoten: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Quoten: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Quoten: Sonderfall und Edge-Case-Prüfung / quoten sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -114,11 +106,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Stgb: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Stgb: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Stgb: Formular, Portal und Einreichungslogik / stgb formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -152,8 +140,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Versicherer-Portale (Unfallregulierung):**
  - **HUK24, Allianz, AXA, Generali, R+V, DEVK** etc. - Online-Schadenmeldung mit Aktenzeichen.
  - **GDV-Online (Gesamtverband Deutscher Versicherer):** Aktenzeichenabfrage HISP (Hinweis- und Informationssystem); Halterabfrage, Versicherungsauskunft.
- - **TYP A / B-Anlageformular** Versicherer fuer Personen- vs. Sachschaden.
-- **Behoerden / Aemter:**
+ - **TYP A / B-Anlageformular** Versicherer für Personen- vs. Sachschaden.
+- **Behörden / Aemter:**
  - **KBA Flensburg (Kraftfahrt-Bundesamt):** Halterabfrage § 29 StVG; FAER-Punkte online.
  - **Fuehrerscheinstelle (Landratsamt / Buergeramt):** Antraege MPU, Wiedererteilung Fahrerlaubnis § 20 FeV, Umtausch.
  - **Bussgeldstelle (zentrales OWi-Verfahren des jeweiligen Bundeslands):** Einspruch § 67 OWiG.
@@ -162,8 +150,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **LG (Verkehrszivilrecht):** ab Streitwert ueber 5.000 EUR; Berufung gegen AG-Urteile.
  - **OLG (Rechtsbeschwerde §§ 79, 80 OWiG):** OWi-Sache.
 - **eAkte / beA / MJP-Portal:**
- - **beA (besonderes elektronisches Anwaltspostfach):** zwingend fuer Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).
- - **MJP (Mein Justizpostfach):** fuer Buergerinnen und Buerger; freiwillig.
+ - **beA (besonderes elektronisches Anwaltspostfach):** zwingend für Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).
+ - **MJP (Mein Justizpostfach):** für Buergerinnen und Buerger; freiwillig.
  - **EGVP:** elektronisches Gerichts- und Verwaltungspostfach.
 - **Anwaltliche Formulare:**
  - Vollmacht (sicher mit Vertretungsbefugnis im Strafverfahren § 411 II StPO).

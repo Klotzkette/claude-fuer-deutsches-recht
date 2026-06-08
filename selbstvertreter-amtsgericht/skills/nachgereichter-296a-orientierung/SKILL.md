@@ -7,10 +7,10 @@ description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgerich
 
 ## Arbeitsbereich
 
-**Nachgereichter 296a Orientierung** ordnet den Fall über die tragenden Prüffelder: Nachgereichter Schriftsatz nach Schluss der muendlichen, Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertret. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Nachgereichter 296a Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Nachgereichter Schriftsatz nach Schluss der muendlichen, Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertret. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `nachgereichter-schriftsatz-296a-zpo` | Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht. |
 | `orientierung-selbstvertreter-amtsgericht` | Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen. |
@@ -18,12 +18,12 @@ description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgerich
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `nachgereichter-schriftsatz-296a-zpo`
 
@@ -44,7 +44,7 @@ Nach der muendlichen Verhandlung ist Schluss — eigentlich. Wenn der Vorsitzend
 ## Fachbegriffe (kurz erklaert)
 
 - **Schluss der muendlichen Verhandlung**: Foerml. Erklaerung des Vorsitzenden, dass keine weiteren Erklaerungen entgegengenommen werden.
-- **Schriftsatznachlass**: Nachtraegliche Frist fuer einen Schriftsatz nach Termin.
+- **Schriftsatznachlass**: Nachtraegliche Frist für einen Schriftsatz nach Termin.
 - **Wiedereroeffnung der muendlichen Verhandlung**: Bei nachgereichten Schriftsaetzen kann das Gericht die muendliche Verhandlung wiedereroeffnen.
 
 ## Rechtsgrundlagen
@@ -53,7 +53,7 @@ Nach der muendlichen Verhandlung ist Schluss — eigentlich. Wenn der Vorsitzend
 - **§ 156 ZPO** — Wiedereroeffnung muendliche Verhandlung.
 - **§ 283 ZPO** — Schriftsatznachlass auf Antrag.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was nach Schluss noch geht
 
@@ -155,7 +155,6 @@ Wenn im Termin neuer Vortrag der Gegenseite kommt:
 
 Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -193,12 +192,12 @@ Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie koenn
 ## Rechtsgrundlagen
 
 - **§ 78 ZPO** — Anwaltszwang vor Landgericht und hoeher; e contrario kein Anwaltszwang vor AG.
-- **§ 23 GVG** — Sachliche Zustaendigkeit des AG.
+- **§ 23 GVG** — Sachliche Zuständigkeit des AG.
 - **§ 23a, 23b, 23c GVG** — Familiensachen, Betreuungssachen, Nachlasssachen.
-- **§§ 12 ff. ZPO** — Oertliche Zustaendigkeit.
+- **§§ 12 ff. ZPO** — Oertliche Zuständigkeit.
 - **§ 495a ZPO** — Vereinfachtes Verfahren bis 1.000 EUR Streitwert (Stand 2026, vorher 600 EUR).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klaeren Sie Ihre Rolle
 
@@ -213,17 +212,17 @@ Wenn Sie Anfänger sind, starten Sie zuerst mit `anfaenger-workflow-amtsgericht`
 
 Schaetzen Sie, um welche Geldsumme es geht. Das ist Ihr Streitwert. Bei Sachen ohne Geldforderung (z. B. "Sie sollen die Garage raeumen") schaetzt das Gericht. Skill `klage-streitwert-angabe-3-zpo` hilft.
 
-### Schritt 3 — Zustaendigkeit pruefen
+### Schritt 3 — Zuständigkeit pruefen
 
-- Streitwert unterhalb der Wertgrenze § 23 Nr. 1 GVG? AG zustaendig. Skill `sachliche-zustaendigkeit-amtsgericht-23-gvg`.
+- Streitwert unterhalb der Wertgrenze § 23 Nr. 1 GVG? AG zuständig. Skill `sachliche-zuständigkeit-amtsgericht-23-gvg`.
 - Mietsache, Reisevertrag, Familiensache? Immer AG, unabhaengig vom Wert. Skill `ausnahmen-streitwertgrenze-23-nr-2-gvg`.
-- Welches AG raeumlich? Wohnort Beklagter ist der Hauptfall. Skill `oertliche-zustaendigkeit-12-37-zpo`.
+- Welches AG raeumlich? Wohnort Beklagter ist der Hauptfall. Skill `oertliche-zuständigkeit-12-37-zpo`.
 
 ### Schritt 4 — Erfolgsaussichten ehrlich pruefen
 
 Klagen kostet Geld, auch wenn Sie keinen Anwalt brauchen — Gerichtskosten, evtl. Sachverstaendiger, im Verlust-Fall die Kosten der Gegenseite. Skill `vorabklaerung-erfolgsaussichten-selbstcheck`.
 
-### Schritt 5 — Verjaehrung pruefen (Klaeger!)
+### Schritt 5 — Verjährung pruefen (Klaeger!)
 
 Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr Anspruch noch durchsetzbar? Skill `verjaehrungsfrist-pruefen-195-bgb`.
 
@@ -250,7 +249,7 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 - "Ich schreibe nur, dass ich gewinnen will." → Sie brauchen einen **konkreten** Antrag (z. B. "Der Beklagte wird verurteilt, an mich 1.500 EUR nebst Zinsen zu zahlen.").
 - "Beweise reiche ich spaeter ein." → Beweismittel muessen Sie **benennen** (mindestens). Skill `klageschrift-beweisangebote-einbauen-373-zpo`.
 - "Ich warte ab, was die Gegenseite schreibt." → Beim Beklagten oft toedlich: Wer in der Frist nicht reagiert, kassiert ein Versaeumnisurteil. Skill `saeumnis-vermeiden-330-ff-zpo`.
-- "Ich verklage erstmal, einigen kann ich mich spaeter." → Vorgerichtliche Mahnung und Verzug sind Voraussetzung fuer manche Anspruchspositionen (z. B. Verzugszinsen). Skill `aussergerichtliche-mahnung-286-bgb`.
+- "Ich verklage erstmal, einigen kann ich mich spaeter." → Vorgerichtliche Mahnung und Verzug sind Voraussetzung für manche Anspruchspositionen (z. B. Verzugszinsen). Skill `aussergerichtliche-mahnung-286-bgb`.
 
 ## Querverweise
 
@@ -259,8 +258,8 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 - `sanity-check-selbstvertretung-amtsgericht` — letzte Ampel vor Versand, Termin oder Rechtsmittel.
 - `zulassungsgrenzen-check-amtsgericht` — Streitwert, AG/LG, § 495a ZPO, Berufung, Anwaltszwang.
 - `rechtsprechungschat-amtsgericht` — Rechtsprechung finden, prüfen und sauber verwenden.
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — AG ueberhaupt zustaendig?
-- `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — AG ueberhaupt zuständig?
+- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Lohnt sich der Prozess?
 - `kostenrisiko-streitwert-berechnen-gkg` — Was kostet das?
 - `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
@@ -268,7 +267,6 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). § 495a ZPO: Wertgrenze 1.000 EUR (Anhebung von 600 EUR). § 511 II Nr. 1 ZPO: Berufungs-Beschwer 1.000 EUR (Anhebung von 600 EUR). MJP (Mein Justizpostfach) ist seit 2024 im Buerger-Betrieb.
-
 
 ## Qualitäts-Hardening
 
@@ -309,7 +307,7 @@ Im Gegensatz zum Strafrecht ist die eigene Aussage im Zivilprozess **kein** voll
 - **§ 448 ZPO** — Vernehmung von Amts wegen.
 - **§ 452 ZPO** — Glaubwuerdigkeit, Eid.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Subsidiaritaet pruefen
 
@@ -322,7 +320,7 @@ Beispiel: Sie wollen beweisen, dass am Telefon ein Vertrag geschlossen wurde. Ke
 ```
 Beweis: Vernehmung des Klaegers als Partei
  gemaess § 448 ZPO,
- zum Beweis dafuer, dass am 5.3.2025
+ zum Beweis dafür, dass am 5.3.2025
  in einem Telefongespraech um 10:30 Uhr
  zwischen dem Klaeger und dem Beklagten
  ein Kaufvertrag ueber [Sache] zum
@@ -350,7 +348,7 @@ Aber: Eine konsistente, detaillierte Aussage kann ueberzeugen.
 ### Schritt 6 — Im Termin
 
 - Belehrung durch Gericht.
-- Anhoerung zur Person.
+- Anhörung zur Person.
 - Vernehmung zur Sache.
 - Fragen der Gegenseite und des Gerichts.
 
@@ -371,7 +369,7 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 
 ## Typische Fehler
 
-- "Meine Aussage ist Beweis fuer alles." → Im Zivilprozess nur subsidiaer.
+- "Meine Aussage ist Beweis für alles." → Im Zivilprozess nur subsidiaer.
 - "Ich werde im Termin erzaehlen, was ich erinnere." → Lieber vorab sortieren.
 - "Bei Falschaussage passiert nichts." → Strafrechtlich relevant.
 
@@ -385,7 +383,6 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 445 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

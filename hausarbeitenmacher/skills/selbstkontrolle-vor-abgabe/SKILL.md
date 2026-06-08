@@ -1,0 +1,276 @@
+---
+name: selbstkontrolle-vor-abgabe
+description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Selbst-Kontrolle vor Abgabe
+
+## Arbeitsbereich
+
+Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Hausarbeitsfrist i.d.R. 4-6 Wochen, kein Abgabeaufschub, JAG-Wiederholung pro Klausur, Promotionsverfahren landesrechtlich.
+- Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+1. Wie viel Zeit bleibt noch bis zur Abgabe für den Endcheck?
+2. Liegen bereits Hinweise auf Schwachstellen aus Tutoren-Feedback vor?
+3. Wurde die Arbeit nach einer Pause erneut gelesen (frische Perspektive)?
+4. Sind alle Formalia (Inhaltsverzeichnis, Literaturverzeichnis, Zitierweise, Seitenzahlen) geprueft?
+
+## Aktuelle Rechtsprechung und Methodik
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen
+- § 276 BGB — Verschulden: Massstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
+- § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
+- §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
+- § 17 JAG NRW analog — Qualitaetsstandards für schriftliche Pruefungsleistungen
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Zweck
+
+Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle. Sie nimmt einen Tag in Anspruch, aber sie kann Dir eine ganze Note retten.
+
+**Wichtig vorab:** Du gibst eine **eigene Leistung** ab. Vom Plugin generierte Textbausteine gehören in **Deine** Worte umgeschrieben oder als Pruefstein zum Abgleich genutzt, nicht als Copy-Paste-Material. Wer Plugin-Output ungeprüft übernimmt riskiert eine Prüfungstaeuschung. Eigenständigkeitserklärung gewissenhaft unterschreiben.
+
+## Durchgang 1 — Inhaltlich
+
+### Schritt 1.1 — Anspruchs-Grundlagen-Vollständigkeit
+
+- Habe ich alle Anspruchsgrundlagen geprüft (V-C-G-D-D-B)?
+- Bei ÖR: Habe ich Zulässigkeit und Begründetheit vollständig?
+- Bei Strafrecht: Drei-Stufen-Aufbau bei jedem Delikt?
+- Habe ich für jede Person, gegen die Ansprüche bestehen können, eine eigene Prüfung?
+
+### Schritt 1.2 — Subsumtion-Konsistenz
+
+- Hat jede Tatbestandsmerkmals-Prüfung Vier-Schritte-Struktur?
+- Habe ich für jede Definition einen Beleg?
+- Habe ich für jede Subsumtion einen konkreten Sachverhalts-Bezug?
+- Habe ich jedes Tatbestandsmerkmal abgearbeitet?
+
+### Schritt 1.3 — Streit-Stände
+
+- Habe ich jeden ergebnis-relevanten Streit darstellt?
+- Habe ich zu jedem Streit mindestens zwei Positionen?
+- Habe ich für jede Position Belege?
+- Habe ich eine eigene Stellungnahme mit Argumenten?
+
+### Schritt 1.4 — Auslegung
+
+- Habe ich bei strittigen Tatbestandsmerkmalen ausgelegt?
+- Habe ich die vier klassischen Methoden eingesetzt?
+- Bei EU-Bezug: richtlinien-konforme Auslegung?
+- Bei Grundrechts-Bezug: verfassungs-konforme Auslegung?
+
+### Schritt 1.5 — Konkurrenzen
+
+- Habe ich bei mehreren Anspruchs-Grundlagen die Konkurrenz dargestellt?
+- Habe ich bei Strafrecht Tateinheit / Tatmehrheit erfasst?
+- Habe ich bei Lex-specialis-Konstellation die richtige Norm bevorzugt?
+
+### Schritt 1.6 — Ergebnis
+
+- Habe ich pro Anspruch ein klares Zwischenergebnis?
+- Habe ich am Ende ein Gesamt-Ergebnis?
+- Stimmt das Gesamt-Ergebnis mit den Zwischenergebnissen überein?
+
+---
+
+## Durchgang 2 — Formal
+
+### Schritt 2.1 — Gliederung
+
+- Ist die Gliederung konsistent (A.I.1.a)aa))?
+- Sind die Tiefen-Stufen einheitlich?
+- Stimmt das Inhaltsverzeichnis mit dem Text überein?
+- Sind alle Seitenzahlen korrekt?
+
+### Schritt 2.2 — Zitierweise
+
+- Habe ich für **jede** juristische Aussage einen Beleg?
+- Sind alle Belege vollständig (Gericht-Datum-Az-Fundstelle / Bearbeiter-Auflage-Norm-Randnummer)?
+- Habe ich die richtige Reihenfolge (Rspr. → Kommentar → Aufsatz → Lehrbuch)?
+- Sind meine Quellen aktuell (neueste Auflage, neueste Rechtsprechung)?
+
+### Schritt 2.3 — Stil
+
+- Habe ich Gutachtenstil durchgängig (Konjunktiv im Obersatz, Definition, Subsumtion, Ergebnis)?
+- Keine umgangssprachlichen Wendungen?
+- Keine zu langen Sätze (über 4 Zeilen)?
+- Konsistente Personen-Buchstaben?
+
+### Schritt 2.4 — Formalia
+
+- Deckblatt vollständig (Name, Matrikel-Nr., Kurs, Semester, Lehrkraft)?
+- Inhaltsverzeichnis mit Seitenzahlen?
+- Literaturverzeichnis vollständig und alphabetisch?
+- Sigel-Verzeichnis ggf.?
+- Rechtschreibung sorgfältig?
+- Rand-Vorschriften eingehalten?
+
+### Schritt 2.5 — Sprache
+
+- Konsistente Personen-Bezeichnung?
+- Klare Subsumtions-Sprache ("Hier hat...")?
+- Keine Tipp- und Rechtschreib-Fehler?
+- Trennungen vermieden bei wichtigen Begriffen?
+
+---
+
+## Durchgang 3 — Plagiats-Check
+
+### Schritt 3.1 — Verdacht-Stellen
+
+Bei jeder Stelle, an der Du Dich unsicher bist, ob Du den Gedanken **wirklich selbst entwickelt** oder aus einer Quelle übernommen hast:
+
+- Original-Quelle aufsuchen
+- Quote (wörtlich oder sinngemäß) mit Beleg versehen
+- Falls Du den Gedanken aus mehreren Quellen kombiniert hast: alle Belege zitieren
+
+### Schritt 3.2 — Plagiats-Software
+
+Falls Du Zugang hast (manche Universitäten bieten studentischen Zugang):
+
+- Eigene Datei hochladen
+- Treffer prüfen
+- Bei Treffer: korrekt zitieren oder umformulieren
+
+### Schritt 3.3 — Plagiats-Risiko
+
+- Sekundärzitate erkennbar markieren
+- KI-generierten Text vermeiden (außer mit Belege)
+- Eigene Formulierung
+
+---
+
+## Durchgang 4 — Lern-Selbst-Prüfung (sokratisch)
+
+Beantworte Dir **mündlich** (oder schriftlich für Dich) folgende Fragen, **ohne in die Hausarbeit zu schauen**:
+
+### Frage 1: Erkläre die Aufgabenstellung
+
+- Was war das politische / sachliche Problem?
+- Welche Beteiligten standen sich gegenüber?
+- Welche Frage war zu beantworten?
+
+### Frage 2: Anspruchs-Grundlagen
+
+- Welche Anspruchs-Grundlagen kommen in Betracht?
+- Warum diese Reihenfolge?
+- Welche Anspruchs-Grundlage ist im Ergebnis tragfähig?
+
+### Frage 3: Streit-Punkte
+
+- Welche Streitpunkte hast Du behandelt?
+- Was sind die wichtigsten Argumente für die jeweilige Position?
+- Warum hast Du eine bestimmte Position gewählt?
+
+### Frage 4: Methodische Anwendung
+
+- Welche Auslegungs-Methode war zentral?
+- Welche Methode hast Du eingesetzt?
+- Wenn Du jetzt zurückblickst — hättest Du eine andere Methode bevorzugt?
+
+### Frage 5: Lern-Zuwachs
+
+- Was hast Du aus dieser Hausarbeit gelernt?
+- Welche Anspruchs-Grundlage / Methode / Streit-Punkt verstehst Du jetzt besser?
+- Was war schwierig?
+
+**Wenn Du diese Fragen nicht beantworten kannst — ist die Hausarbeit zwar geschrieben, aber Du hast den Stoff nicht durchdrungen. Überdenke kritische Stellen noch einmal.**
+
+---
+
+## Endcheck-Checkliste
+
+```
+☐ Anspruchs-Grundlagen-Reihenfolge V-C-G-D-D-B
+☐ Subsumtion vollständig Vier-Schritte
+☐ Definitionen mit Beleg
+☐ Konkrete Sachverhalts-Bezug bei jeder Subsumtion
+☐ Streit-Stände mit zwei Positionen + Belege
+☐ Eigene Stellungnahme mit Argumenten
+☐ Auslegung bei strittigen Merkmalen
+☐ Konkurrenzen erfasst
+☐ Pro Anspruch Zwischenergebnis
+☐ Gesamt-Ergebnis am Ende
+☐ Gliederung konsistent
+☐ Inhaltsverzeichnis = Text
+☐ Zitierweise vollständig
+☐ Aktuelle Quellen
+☐ Gutachtenstil
+☐ Konsistente Sprache
+☐ Deckblatt vollständig
+☐ Literaturverzeichnis alphabetisch
+☐ Plagiats-Check
+☐ Lern-Selbst-Prüfung bestanden
+```
+
+---
+
+## Bei Erkenntnis nach Endcheck
+
+### "Mir fehlt eine wesentliche Anspruchs-Grundlage"
+
+- Berechne, wie viel Zeit noch bleibt
+- Bei hinreichend Zeit: nachträglich einarbeiten
+- Bei knapper Zeit: ggf. als Hilfsweise-Erwähnung in Schluss
+
+### "Ich habe einen Streit nicht erkannt"
+
+- Recherche kurz
+- Bei wichtigem Streit: kurze Ergänzung
+- Bei nebensächlichem Streit: ggf. weglassen
+
+### "Mein Stil ist inkonsistent"
+
+- Suche nach Stellen mit Indikativ statt Konjunktiv (im Obersatz)
+- Suche nach "natürlich" / "selbstverständlich" / "offensichtlich"
+- Überarbeite
+
+### "Zitate fehlen"
+
+- Markiere alle Stellen ohne Beleg
+- Recherchiere die Quellen nach
+- Wenn keine Quelle gefunden — Aussage abschwächen oder weglassen
+
+---
+
+## Abschluss-Reflexion
+
+Bevor Du die Hausarbeit abgibst, halte einen Moment inne:
+
+- Bin ich mit dem Ergebnis zufrieden?
+- Habe ich mein Bestes gegeben?
+- Habe ich gelernt?
+
+Wenn Du diese Fragen mit "ja" beantworten kannst — gib die Hausarbeit ab.
+
+Wenn nicht — überarbeite noch eine Stunde.
+
+**Du hast eine Hausarbeit geschrieben, die Du durchdrungen hast. Das ist der eigentliche Erfolg.**
+
+## Hilfsfragen für Deine Reflexion
+
+- Habe ich **beide Durchgänge** sorgfältig durchgeführt?
+- Habe ich die **Lern-Selbst-Prüfung** bestanden?
+- Habe ich für die **Abgabe** alle Formalia?
+- Bin ich mit dem **Inhalt** zufrieden?
+
+## Übergang zu
+
+- Abgabe — Du hast es geschafft.
+- Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
+
+<!-- AUDIT 27.05.2026 — Bundle 033 —
+ nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
+-->

@@ -9,12 +9,23 @@ description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohn
 
 Für Überforderungsschutz: kleine regelmäßige Schritte statt Chaos.
 
-## Norm- und Quellenanker
+## Normenanker
 
-- BGB §§ 1814 ff. für Betreuung, Aufgabenkreise, Wunschbeachtung und unterstützte Entscheidungsfindung.
-- BGB §§ 1821 ff. für Pflichten des Betreuers, Vermögenssorge, Genehmigungen und Berichtspflichten je nach Aufgabenkreis.
-- FamFG für Kommunikation mit Betreuungsgericht, Anhörung, Genehmigung und Beschwerde.
-- BtOG: Betreuungsverein, Betreuungsbehörde und Unterstützung ehrenamtlicher Betreuer aktiv nutzen.
+Arbeitsfokus: **Familienbetreuer: Monatsroutine und Kalender**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 

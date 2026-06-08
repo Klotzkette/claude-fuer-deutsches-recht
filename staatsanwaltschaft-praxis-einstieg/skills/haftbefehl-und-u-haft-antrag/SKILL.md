@@ -6,15 +6,12 @@ description: "Haftbefehl und Untersuchungshaft: Praxis-Skill für neue Staatsanw
 # Haftbefehl und Untersuchungshaft
 
 ## Fachkern: Haftbefehl und Untersuchungshaft
-- **Spezialgegenstand:** Haftbefehl und Untersuchungshaft wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Haftbefehl und Untersuchungshaft** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** dringenden Tatverdacht, Haftgründe, Verhältnismäßigkeit und Beschleunigungsgebot für Haftanträge strukturieren
 
@@ -34,13 +31,25 @@ Dieser Abschnitt bearbeitet **Fachkern: Haftbefehl und Untersuchungshaft** im Be
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-
 ## Spezielle Leitplanken
 
 - Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 112 Abs. 1, 2 StPO (Haftgründe)
+- § 112a StPO (Wiederholungsgefahr)
+- § 116 StPO (Außervollzugsetzung)
+- BVerfGE 19, 342 (Verhältnismäßigkeit U-Haft)
+- §§ 112, 112a, 116 StPO (U-Haft, Außervollzugsetzung)
+- § 121 StPO (6-Monatsfrist, OLG-Haftprüfung)
+- § 117 StPO (Haftprüfung)
+- BVerfG NStZ 2006, 460 (Beschleunigungsgebot)
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

@@ -6,11 +6,9 @@ description: "Übersetzt komplexes Robotikrecht in entscheidungsfähige Vorstand
 # Board- und C-Level-Briefing
 
 ## Fachkern: Board- und C-Level-Briefing
-- **Spezialgegenstand:** Board- und C-Level-Briefing; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
 - **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 Workflow- und Einstiegsskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
@@ -49,3 +47,12 @@ Liefere je nach Auftrag eines der folgenden Formate:
 - **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
 
 Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EU) 2023/1230 (Maschinenverordnung)
+- Art. 6 AI-Act (Hochrisiko-KI)
+- §§ 1-19 ProdHaftG
+- RL (EU) 2024/2853 (neue Produkthaftungs-RL)

@@ -1,18 +1,18 @@
 ---
 name: strafr-dysfunk-darlegungslast-empirie-nutzen
-description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft konkret Darlegungs- und Substantiierungslast fuer den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs, Hinweis auf einen heilbaren Fehler im Ablehnungs- oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft konkret Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs, Hinweis auf einen heilbaren Fehler im Ablehnungs- oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Strafr Dysfunk Darlegungslast Empirie Nutzen
 
 ## Arbeitsbereich
 
-**Strafr Dysfunk Darlegungslast Empirie Nutzen** ordnet den Fall über die tragenden Prüffelder: Darlegungs- und Substantiierungslast fuer den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Strafr Dysfunk Darlegungslast Empirie Nutzen** ordnet den Fall über die tragenden Prüfungslinien: Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafr-dysfunk-darlegungslast-umkehren` | Darlegungs- und Substantiierungslast fuer den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen. |
+| `strafr-dysfunk-darlegungslast-umkehren` | Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen. |
 | `strafr-dysfunk-empirie-nutzen` | Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen. Praxiserhebungen an Oberlandesgerichten und Diplomarbeiten zeigen sehr geringe Fallzahlen problematischer Verteidigung. Wer Dysfunktionalitaet behauptet hat empirische Darlegungslast. Daten zu Verfahren mit hoher Beweisantragszahl Befangenheitsantraegen und tatsaechlichem Missbrauch. Argumentation in Schriftsatz und mediennaher Auseinandersetzung. Quellen vor Verwendung verifizieren. |
 | `strafr-dysfunk-erklaerungsrecht-257-stpo` | Erklaerungsrecht § 257 Abs. 2 StPO und schriftliche Form § 257a StPO als legitime offensive Verteidigungsmittel nutzen. Erklaerung nach Beweiserhebung zu jeder einzelnen Beweisaufnahmehandlung. Sachgerechte Form mit Bezug zu konkreter Aussage Indizienlage Beweiswuerdigung. Abgrenzung zu polemischer Eskalation. Praktische Mustertexte. Folge wenn Vorsitz das Wort entzieht oder § 178 GVG droht. |
 | `strafr-dysfunk-hinweis-auf-heilbaren-fehler` | Hinweis auf einen heilbaren Fehler im Ablehnungs- oder Sanktionsbeschluss als Verteidigungswerkzeug. Statt sofortiger Eskalation eine schriftliche Erinnerung und Bitte um ergaenzende Begruendung. Kollegiale Form schuetzt vor Missbrauchsvorwurf und gibt dem Gericht Gelegenheit. Falls keine Reaktion erfolgt verstaerkt sich die Revisionsruege. Mustertexte und Eskalationsstufen. |
@@ -21,22 +21,22 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 | `strafr-dysfunk-konfliktverteidigung-vs-dysfunktional` | Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen. Schwerpunkt liegt im aktiven Akt. Konfliktverteidigung ist Negation der Verfahrensherrschaft des Gerichts durch zugespitzten Einsatz prozessualer Rechte. Dysfunktional waere erst das verdeckte Unterlassen zielfuehrenden Prozessierens. Wer harte Mittel einsetzt aber die Sache vorantreibt verteidigt nicht dysfunktional sondern engagiert. Wichtige praktische Indikatoren zur Selbstkontrolle und zur Argumentation gegen das Gericht. |
 | `strafr-dysfunk-mandant-strategie-schuetzen` | Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen. Klare Kommunikation mit dem Mandanten. Strategie wird nicht durch Druck des Gerichts geaendert sondern durch sachliche Bewertung. Mandanteneinwilligung zur Strategie dokumentieren. Wechselrede mit Mandanten zu Folgen einer harten Linie. Mandanteninteresse als Mittelpunkt nicht Verteidigerego. |
 | `strafr-dysfunk-pflichtverteidiger-entpflichtung-143a` | Entpflichtung des Pflichtverteidigers nach § 143a Abs. 2 StPO insbesondere Variante 2 (zerruettetes Vertrauensverhaeltnis) abwehren. Strenge Voraussetzungen. Konkrete Tatsachen die das Vertrauensverhaeltnis endgueltig zerruetten. Pauschale Konfliktverteidigung traegt die Entpflichtung nicht. Stellungnahme des Mandanten ist entscheidend. Verteidigung gegen den Antrag der StA oder des Gerichts. |
-| `strafr-dysfunk-senatsschelte-obiter-dicta` | Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen. Unterscheidung zwischen tragender Wuerdigung und beilaeufiger Kritik an der Verteidigung. Revisionsrelevanz wenn Verteidigerkritik in die Beweiswuerdigung einfliesst. Ruegestrategie nach § 261 StPO und § 338 StPO. Kein Anlass fuer ueberzogene Reaktion sondern fuer praezise Filterung und ggf Ruege. |
+| `strafr-dysfunk-senatsschelte-obiter-dicta` | Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen. Unterscheidung zwischen tragender Wuerdigung und beilaeufiger Kritik an der Verteidigung. Revisionsrelevanz wenn Verteidigerkritik in die Beweiswuerdigung einfliesst. Ruegestrategie nach § 261 StPO und § 338 StPO. Kein Anlass für ueberzogene Reaktion sondern für praezise Filterung und ggf Ruege. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafr-dysfunk-darlegungslast-umkehren`
 
-**Fokus:** Darlegungs- und Substantiierungslast fuer den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen.
+**Fokus:** Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen.
 
-# Darlegungslast fuer den Missbrauchsvorwurf umkehren
+# Darlegungslast für den Missbrauchsvorwurf umkehren
 
 ## Kaltstart-Rueckfragen
 
@@ -50,7 +50,7 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 
 - Sanktion ist die Ausnahme. Sie braucht eine Norm und konkrete Subsumtion.
 - Pauschalvorwuerfe Konfliktverteidigung dysfunktional sind keine Subsumtion.
-- Bei § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht: das Gericht muss zwei Voraussetzungen substantiieren — Beweisantrag waere ohne wesentliche Foerderung der Sachaufklaerung und Antragsteller weiss das.
+- Bei § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht: das Gericht muss zwei Voraussetzungen substantiieren — Beweisantrag waere ohne wesentliche Förderung der Sachaufklaerung und Antragsteller weiss das.
 - Bei § 26a StPO unzulaessige Ablehnung: das Gericht muss konkrete Befangenheitsbehauptung als untauglich darstellen.
 
 ## Schriftsatzformulierung (Bausteine)
@@ -160,10 +160,10 @@ Erklaerung gemaess § 257 Abs. 2 StPO
 
 Die Aussage des Zeugen X hat im Vergleich zur frueheren Vernehmung
 vom [Datum] Bl. XX d.A. einen wesentlichen Widerspruch hinsichtlich
-[Detail] aufgedeckt. Dieser Widerspruch ist fuer die Glaubhaftigkeitsbewertung
+[Detail] aufgedeckt. Dieser Widerspruch ist für die Glaubhaftigkeitsbewertung
 relevant, weil [konkrete Folge].
 
-Die Verteidigung haelt die Aussage in diesem Punkt fuer nicht tragfaehig
+Die Verteidigung haelt die Aussage in diesem Punkt für nicht tragfaehig
 und behaelt sich weiteren Vortrag im Plaedoyer vor.
 ```
 
@@ -295,13 +295,13 @@ Andernfalls behaelt sich die Verteidigung die Revisionsruege vor.
 
 1. Wird ein KI-Modell zur Schriftsatzproduktion eingesetzt?
 2. Welcher Anteil des Schriftsatzes ist KI-generiert (Argumentation, Zitate, Tatsachen)?
-3. Wer ist fuer die Endkontrolle verantwortlich?
-4. Sind Verifizierungswege fuer Zitate definiert (offizielle Quelle Datenbank Verlagsfundstelle)?
+3. Wer ist für die Endkontrolle verantwortlich?
+4. Sind Verifizierungswege für Zitate definiert (offizielle Quelle Datenbank Verlagsfundstelle)?
 
 ## Risikolage
 
 - KI-Modelle generieren ueberzeugend wirkende, aber zum Teil erfundene Aktenzeichen, Entscheidungen oder Kommentarfundstellen.
-- Ein Schriftsatz mit erfundenen Zitaten ist Schlechterfuellung des Mandatsvertrags (Geschaeftsbesorgungsvertrag § 675 BGB), bietet Angriffsflaeche fuer berufsrechtliche Massnahmen (§ 43a Abs. 3 BRAO) und kann das Vertrauensverhaeltnis zum Gericht beschaedigen.
+- Ein Schriftsatz mit erfundenen Zitaten ist Schlechterfuellung des Mandatsvertrags (Geschaeftsbesorgungsvertrag § 675 BGB), bietet Angriffsflaeche für berufsrechtliche Massnahmen (§ 43a Abs. 3 BRAO) und kann das Vertrauensverhaeltnis zum Gericht beschaedigen.
 - Eingriffstatbestaende wie § 138a StPO greifen meist nicht, aber die Konsequenzen sind erheblich.
 
 ## Verifizierungsregeln
@@ -324,13 +324,13 @@ Pruefung Schriftsatz vom [Datum]
 
 ## Verantwortung
 
-- Verantwortung fuer den Schriftsatz liegt beim Verteidiger, nicht beim Modell.
+- Verantwortung für den Schriftsatz liegt beim Verteidiger, nicht beim Modell.
 - Im Gerichtssaal nicht hinter dem Tool verstecken. Korrektur sofort, falls Fehler bemerkt wird. Schadenbegrenzung gegenueber Mandant.
 
 ## Pitfalls
 
 - Vertrauen in Modellausgaben ohne Verifizierung.
-- KI-Schriftsatz als Pauschalersatz fuer eigene Aktenkenntnis.
+- KI-Schriftsatz als Pauschalersatz für eigene Aktenkenntnis.
 - Versteck hinter dem Modell, wenn der Fehler auffliegt.
 
 ## Querverweise
@@ -376,7 +376,7 @@ Pruefung Schriftsatz vom [Datum]
 ## Praktische Selbstkontrolle
 
 - Vor jedem aggressiven Antrag: schriftlich notieren, welchem Verteidigungsziel er konkret dient (Aufklaerung, Glaubhaftigkeit, Beweisverwertung, Verfahrenstrennung).
-- Aktennotiz mit Datum und Begruendung in Handakte. Diese Notiz ist im Ernstfall (§ 138a StPO, Berufsrechtsverfahren) nicht erforderlich aber Beleg fuer sachorientierte Arbeit.
+- Aktennotiz mit Datum und Begruendung in Handakte. Diese Notiz ist im Ernstfall (§ 138a StPO, Berufsrechtsverfahren) nicht erforderlich aber Beleg für sachorientierte Arbeit.
 - Mandantenbesprechung dokumentieren: Mandant entscheidet ueber Strategie nach Belehrung.
 
 ## Argumentation gegen das Gericht
@@ -487,7 +487,7 @@ Pruefung Schriftsatz vom [Datum]
 ## Pitfalls
 
 - Wenn das Verhaeltnis tatsaechlich zerruettet ist, im Interesse des Mandanten ehrlich pruefen und ggf einer geordneten Mandatsbeendigung Vorrang geben.
-- Pflichtverteidigerwechsel nicht als persoenliche Niederlage werten.
+- Pflichtverteidigerwechsel nicht als persönliche Niederlage werten.
 
 ## Querverweise
 
@@ -503,7 +503,7 @@ Pruefung Schriftsatz vom [Datum]
 
 ## 10. `strafr-dysfunk-senatsschelte-obiter-dicta`
 
-**Fokus:** Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen. Unterscheidung zwischen tragender Wuerdigung und beilaeufiger Kritik an der Verteidigung. Revisionsrelevanz wenn Verteidigerkritik in die Beweiswuerdigung einfliesst. Ruegestrategie nach § 261 StPO und § 338 StPO. Kein Anlass fuer ueberzogene Reaktion sondern fuer praezise Filterung und ggf Ruege.
+**Fokus:** Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen. Unterscheidung zwischen tragender Wuerdigung und beilaeufiger Kritik an der Verteidigung. Revisionsrelevanz wenn Verteidigerkritik in die Beweiswuerdigung einfliesst. Ruegestrategie nach § 261 StPO und § 338 StPO. Kein Anlass für ueberzogene Reaktion sondern für praezise Filterung und ggf Ruege.
 
 # Senatsschelte und obiter dicta in Urteilen filtern
 
@@ -532,7 +532,7 @@ Pruefung Schriftsatz vom [Datum]
 
 ## Pitfalls
 
-- Senatskritik als persoenlichen Angriff lesen. Sie ist meist rechtspolitisch gemeint und nicht persoenlich.
+- Senatskritik als persönlichen Angriff lesen. Sie ist meist rechtspolitisch gemeint und nicht persoenlich.
 - Vorschnelle Rueckzueg aus dem Mandat als Reaktion auf Kritik.
 
 ## Querverweise

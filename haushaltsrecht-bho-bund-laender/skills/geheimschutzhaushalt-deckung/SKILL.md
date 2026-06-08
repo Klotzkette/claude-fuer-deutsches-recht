@@ -1,28 +1,28 @@
 ---
 name: geheimschutzhaushalt-deckung
-description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO) im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Geheimschutzhaushalt Deckung
 
 ## Arbeitsbereich
 
-**Geheimschutzhaushalt Deckung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Geheimschutzhaushalt Deckung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bho-299-geheimschutzhaushalt-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden. Deckung finden für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Haushaltsrecht Bho Bund Laender klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung 2018/1046; HGrG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bho-299-geheimschutzhaushalt-deckung-finden`
 
@@ -41,12 +41,22 @@ Geheimschutzhaushalt Deckung Finden wird nicht als abstraktes Schema beantwortet
 3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
 4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
-## Norm- und Quellenanker
+## Normenanker
 
-- BHO, HGrG, Haushaltsgesetz, Haushaltsplan, VV-BHO
-- Einzelplan, Kapitel, Titel, Verpflichtungsermächtigung, Deckungsfähigkeit
-- Art. 109, 110, 115 GG, Schuldenbremse, Sondervermögen
-- Landeshaushaltsordnungen und kommunale Haushaltsbezüge live prüfen
+Arbeitsfokus: **Geheimschutzhaushalt Deckung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
+- `§ 17 BHO` — Einzelveranschlagung.
+- `§ 19 BHO` — Übertragbarkeit.
+- `§ 20 BHO` — Deckungsfähigkeit.
+- `§ 22 BHO` — Sperrvermerk.
+- `§ 37 BHO` — über- und außerplanmäßige Ausgaben.
+- `§ 38 BHO` — Verpflichtungen ohne Ausgabe im Haushaltsjahr.
+- `Art. 112 GG` — Notbewilligungsrecht.
+- `Art. 110 Abs. 1 GG` — Bindung an Haushaltsplan/Haushaltsgesetz.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Prüfroutine
 

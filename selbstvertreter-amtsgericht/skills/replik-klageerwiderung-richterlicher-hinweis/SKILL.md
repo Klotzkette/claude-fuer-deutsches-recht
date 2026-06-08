@@ -7,10 +7,10 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 
 ## Arbeitsbereich
 
-**Replik Klageerwiderung Richterlicher Hinweis** ordnet den Fall über die tragenden Prüffelder: Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Replik Klageerwiderung Richterlicher Hinweis** ordnet den Fall über die tragenden Prüfungslinien: Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `replik-auf-klageerwiderung-systematik` | Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen. |
 | `richterlicher-hinweis-139-zpo-reaktion` | Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken. |
@@ -18,12 +18,12 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `replik-auf-klageerwiderung-systematik`
 
@@ -54,11 +54,11 @@ Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moegl
 - **§ 273 ZPO** — Vorbereitung der Verhandlung.
 - **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klageerwiderung pruefen
 
-Lesen Sie Wort fuer Wort:
+Lesen Sie Wort für Wort:
 
 - Welche Tatsachen bestreitet der Beklagte?
 - Welche Einreden erhebt er?
@@ -77,9 +77,9 @@ Wenn Beklagter neue Tatsachen vortraegt — Sie muessen darauf reagieren:
 
 ### Schritt 3 — Auf Einreden reagieren
 
-Wenn Beklagter Verjaehrung einredet:
+Wenn Beklagter Verjährung einredet:
 
-- Verjaehrungs-Berechnung pruefen.
+- Verjährungs-Berechnung pruefen.
 - Hemmung darlegen (Verhandlungen, Mahnbescheid).
 - Neubeginn pruefen (Anerkenntnis).
 
@@ -99,7 +99,7 @@ Wenn Ihre Klage Beweis nicht klar hatte, jetzt ergaenzen:
 ```
 Beweis: Zeugnis des Herrn X,
 [ladungsfaehige Anschrift],
-zum Beweis dafuer, dass ...
+zum Beweis dafür, dass ...
 ```
 
 ### Schritt 5 — Replik strukturieren
@@ -128,7 +128,7 @@ Wuerdigung):
 [Stellungnahme]
 
 Zu III. der Klageerwiderung (Einreden):
-- Verjaehrungs-Einrede: [Erwiderung]
+- Verjährungs-Einrede: [Erwiderung]
 - Aufrechnung: [Erwiderung]
 
 III. Ergaenzender Sachvortrag
@@ -177,7 +177,7 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 ## Worauf Sie besonders achten muessen
 
 - **Pro Beklagten-Tatsache eine Antwort** — sonst Geltend.
-- **Beweismittel benennen** auch fuer neue Tatsachen.
+- **Beweismittel benennen** auch für neue Tatsachen.
 - **Frist einhalten** oder Verlaengerung beantragen.
 - **Wahrheitspflicht** beachten.
 
@@ -198,7 +198,6 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -237,7 +236,7 @@ Der Richter hat eine **Hinweispflicht** nach § 139 ZPO: Wenn er ein wichtiges D
 - **§ 139 IV ZPO** — Hinweise sind im Protokoll oder schriftlich zu dokumentieren.
 - **§ 138 III ZPO** — Wahrheitspflicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Hinweis genau lesen
 
@@ -339,7 +338,6 @@ Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler).
 
 Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -369,7 +367,7 @@ Wenn es um eine technische, medizinische oder andere Fachfrage geht (Reparaturko
 - **Sachverstaendiger**: Vom Gericht beauftragte Person mit besonderer Fachkunde.
 - **Privatgutachten**: Vom Klaeger/Beklagten in eigener Initiative eingeholtes Gutachten.
 - **Gerichtsgutachten**: Vom Gericht beauftragtes Gutachten.
-- **Vorschuss**: Vorab zu zahlende Kosten fuer die Beauftragung.
+- **Vorschuss**: Vorab zu zahlende Kosten für die Beauftragung.
 
 ## Rechtsgrundlagen
 
@@ -378,9 +376,9 @@ Wenn es um eine technische, medizinische oder andere Fachfrage geht (Reparaturko
 - **§ 404 ZPO** — Auswahl des Sachverstaendigen.
 - **§ 17 GKG** — Vorschuss.
 - **§ 411 ZPO** — Schriftliches Gutachten.
-- **§ 412 ZPO** — Anhoerung im Termin.
+- **§ 412 ZPO** — Anhörung im Termin.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sachverstaendiger noetig
 
@@ -403,7 +401,7 @@ Beispiele:
 Beweisantrag (§ 402 ZPO):
 
 Es wird beantragt, ein schriftliches Sachverstaendigen-
-Gutachten einzuholen zum Beweis dafuer, dass die
+Gutachten einzuholen zum Beweis dafür, dass die
 Reparaturkosten des Fahrzeugs Mercedes Benz, Modell X,
 amtl. Kennzeichen Y, infolge des Unfalls vom [Datum]
 einen Betrag von 4.250 EUR netto erreichen.
@@ -448,7 +446,7 @@ Nachteil:
 
 Sachverstaendiger erstellt schriftliches Gutachten. Parteien koennen Stellungnahme abgeben.
 
-Im Termin: ggf. Anhoerung Sachverstaendiger (§ 412 ZPO).
+Im Termin: ggf. Anhörung Sachverstaendiger (§ 412 ZPO).
 
 ### Schritt 7 — Gegen-Gutachten
 
@@ -483,7 +481,6 @@ Wenn Gerichtsgutachten ueberzeugt nicht: Sie koennen Privat-Gegen-Gutachten einr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 402 ff. ZPO, § 17 GKG unveraendert.
-
 
 ## Qualitäts-Hardening
 

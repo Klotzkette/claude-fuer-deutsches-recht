@@ -7,10 +7,10 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 
 ## Arbeitsbereich
 
-**Influencer Marketing KI Trainingsdaten** ordnet den Fall über die tragenden Prüffelder: Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Influencer Marketing KI Trainingsdaten** ordnet den Fall über die tragenden Prüfungslinien: Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `influencer-marketing-uwg-spezial` | Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs. bezahlte Posts, Schleichwerbung, Abmahnpraxis, Plattformregeln Instagram/TikTok/YouTube, DS-GVO-Schnittstellen. |
 | `ki-trainingsdaten-und-urheberrecht-spezial` | KI-Trainingsdaten und Urheberrecht: Text and Data Mining (TDM) §§ 44a, 44b UrhG, Opt-out-Vorbehalt, KI-generierte Werke und Schutzfähigkeit, EU AI Act, Haftung für KI-Output, Datenbankschutz § 87a UrhG, aktuelle EuGH-/BGH-Leitlinien. |
@@ -18,12 +18,12 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `influencer-marketing-uwg-spezial`
 
@@ -240,22 +240,22 @@ Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-syst
 
 1. **Schriftsatztyp:** Abmahnung, einstweiliger Verfuegungsantrag, Unterlassungsklage, Loeschungsklage Marke oder Schadensersatzklage?
 2. **Anspruchsgrundlage:** §§ 14, 18, 19 MarkenG? §§ 38 ff. DesignG? §§ 3 ff. UWG? §§ 97 ff. UrhG? §§ 139 ff. PatG?
-3. **Zustaendigkeit:** LG (Markenkammern) oder Spezialgerichte? OLG als Beschwerdegericht?
+3. **Zuständigkeit:** LG (Markenkammern) oder Spezialgerichte? OLG als Beschwerdegericht?
 4. **Fristen:** Klage-/Widerspruchs-/Einspruchs-/Beschwerdefrist eingehalten und notiert?
 5. **Beweislage:** Welche Urkunden, Zeugen, Sachverstaendige stehen zur Verfuegung?
 6. **Gegnerische Einwaende vorausschauen:** Was wird die Gegenseite entgegenhalten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
 Markenrecht:
-§ 14 Abs. 2 MarkenG (Verletzung) → § 14 Abs. 5 MarkenG (Unterlassung) → § 14 Abs. 6 MarkenG (Schadensersatz) → § 18 MarkenG (Vernichtung/Rueckruf) → § 19 MarkenG (Auskunft) → §§ 195, 199 BGB (Verjaehrung 3 Jahre)
+§ 14 Abs. 2 MarkenG (Verletzung) → § 14 Abs. 5 MarkenG (Unterlassung) → § 14 Abs. 6 MarkenG (Schadensersatz) → § 18 MarkenG (Vernichtung/Rueckruf) → § 19 MarkenG (Auskunft) → §§ 195, 199 BGB (Verjährung 3 Jahre)
 
 UWG:
 § 3 UWG (Generalklausel) → § 3a/§ 5/§ 7 UWG (Tatbestand) → § 8 Abs. 1 UWG (Unterlassung) → § 8 Abs. 3 UWG (Aktivlegitimation) → § 9 UWG (Schadensersatz) → § 13 Abs. 3 UWG (Abmahnkosten) → § 8c UWG (Missbrauch)
 
 DesignG:
-§ 38 Abs. 1 DesignG (Unterlassung) → § 42 DesignG (Schadensersatz) → § 43 DesignG (Auskunft) → §§ 195, 199 BGB (Verjaehrung)
+§ 38 Abs. 1 DesignG (Unterlassung) → § 42 DesignG (Schadensersatz) → § 43 DesignG (Auskunft) → §§ 195, 199 BGB (Verjährung)
 
 ## Aufbauschema Schriftsatz
 
@@ -263,7 +263,7 @@ DesignG:
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen; Streitwert.
 
 ### B. Antraege
@@ -300,7 +300,7 @@ DesignG:
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 
-## Zentrale Rechtsprechung fuer Substantiierung
+## Zentrale Rechtsprechung für Substantiierung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -348,10 +348,10 @@ mit den folgenden Antraegen:
 
 I. ANTRAEGE
 
-1. Die Beklagte wird verurteilt, es bei Meidung eines fuer jeden Fall der
+1. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der
  Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu 250.000 EUR, ersatzweise
  Ordnungshaft, zu unterlassen, im geschaeftlichen Verkehr das Zeichen [ZEICHEN]
- fuer Waren/Dienstleistungen der Klasse [X] zu benutzen.
+ für Waren/Dienstleistungen der Klasse [X] zu benutzen.
 
 2. Die Beklagte wird verurteilt, der Klaegerin Auskunft zu erteilen ueber
  [UMFANG AUSKUNFTSANSPRUCH § 19 MarkenG].
@@ -389,13 +389,12 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Pruefkette vor Versand
 
 1. Antrag tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-Konformitaet (PDF/A, ERVV-Signatur)?

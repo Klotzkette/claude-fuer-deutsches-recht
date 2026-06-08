@@ -163,7 +163,7 @@ Wenn eine Ausgabe nur testweise erzeugt und nie verwendet wird, dokumentiere das
 
 ## Routing
 
-- **KI-System wahrscheinlich:** weiter zu `territorialer-anwendungsbereich-art-2`, danach `persoenlicher-anwendungsbereich-rollen-art-3` und `risikoklassen-uebersicht-und-triage`.
+- **KI-System wahrscheinlich:** weiter zu `territorialer-anwendungsbereich-art-2`, danach `persönlicher-anwendungsbereich-rollen-art-3` und `risikoklassen-uebersicht-und-triage`.
 - **Konventionelle Software wahrscheinlich:** Ergebnis dokumentieren; bei Grenzfällen zusätzlich `abgrenzung-konventionelle-software-vs-ki-system`.
 - **GPAI oder allgemeiner Chatbot betroffen:** zusätzlich `gpai-vorliegen-art-3-nr-63`, `begrenztes-risiko-art-50-transparenzpflichten` und bei Hochrisiko-Kontexten `hochrisiko-art-6-abs-2-anhang-iii`.
 - **Unklare Tatsachen:** offene Punkte im Output markieren und nicht mit Scheinsicherheit entscheiden.
@@ -205,7 +205,6 @@ Diese Einordnung beruht auf den angegebenen Tatsachen. Bei geänderter Zweckbest
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Zu berücksichtigen sind Art. 3 Nr. 1, Nr. 12, Nr. 13 und Nr. 23 KI-VO, Erwägungsgrund 12 sowie die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung; die Einordnung bleibt abhängig vom konkreten Tatsachenvortrag.
-
 
 ## Qualitäts-Hardening
 

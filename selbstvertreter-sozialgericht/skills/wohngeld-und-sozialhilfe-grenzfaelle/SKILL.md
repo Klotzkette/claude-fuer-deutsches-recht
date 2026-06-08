@@ -13,7 +13,7 @@ description: "Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Ge
 
 ## Worum geht es?
 
-Wohngeld und Sozialhilfe sind verschieden. Auch das zustaendige Gericht ist verschieden. Diese Skill hilft Ihnen, das richtige Verfahren zu finden.
+Wohngeld und Sozialhilfe sind verschieden. Auch das zuständige Gericht ist verschieden. Diese Skill hilft Ihnen, das richtige Verfahren zu finden.
 
 ## In einfacher Sprache
 
@@ -23,28 +23,28 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 
 - Streit ueber Wohngeld-Hoehe.
 - Streit ueber Sozialhilfe-Bewilligung.
-- Sie wissen nicht, welches Gericht zustaendig ist.
+- Sie wissen nicht, welches Gericht zuständig ist.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Wohngeld** (WoGG): Zuschuss zur Miete fuer Personen mit geringem Einkommen.
+- **Wohngeld** (WoGG): Zuschuss zur Miete für Personen mit geringem Einkommen.
 - **Sozialhilfe** (SGB XII): Lebensunterhalt-Sicherung.
 - **Wohngeldbehoerde**: meist die Stadt oder der Kreis.
-- **Sozialamt**: Behoerde fuer SGB XII.
+- **Sozialamt**: Behörde für SGB XII.
 
 ## Rechtsgrundlagen
 
 - **Wohngeldgesetz (WoGG)** — Anspruch und Hoehe.
 - **§ 7 SGB II** — Buergergeld.
 - **§ 41 SGB XII** — Grundsicherung im Alter / bei dauerhafter EM.
-- **§ 51 SGG** — Sozialgerichts-Zustaendigkeit.
-- **§ 40 VwGO** — Verwaltungsgerichts-Zustaendigkeit.
+- **§ 51 SGG** — Sozialgerichts-Zuständigkeit.
+- **§ 40 VwGO** — Verwaltungsgerichts-Zuständigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was ist was?
 
-| Leistung | Behoerde | Gericht |
+| Leistung | Behörde | Gericht |
 |---|---|---|
 | Wohngeld | Wohngeldbehoerde (Stadt) | Verwaltungsgericht |
 | Buergergeld | Jobcenter | Sozialgericht |
@@ -54,7 +54,7 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 ### Schritt 2 — Abgrenzung Wohngeld zu Buergergeld
 
 - **Wohngeld**: Wenn Sie genug Geld zum Leben haben, aber die Miete zu hoch ist.
-- **Buergergeld + KdU**: Wenn Sie auch Geld fuer den Lebensunterhalt brauchen.
+- **Buergergeld + KdU**: Wenn Sie auch Geld für den Lebensunterhalt brauchen.
 
 In manchen Faellen koennen Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermoegens-Pruefung wie bei Buergergeld.
 
@@ -79,9 +79,9 @@ Bei Streit um Sozialhilfe / Grundsicherung:
 
 Wenn Sie nicht sicher sind, ob Sie Wohngeld oder Sozialhilfe / Buergergeld brauchen:
 
-- Antrag bei beiden Behoerden
-- § 16 SGB I sichert Frist: ein Antrag gilt fuer alle
-- Behoerden klaeren intern
+- Antrag bei beiden Behörden
+- § 16 SGB I sichert Frist: ein Antrag gilt für alle
+- Behörden klaeren intern
 
 ### Schritt 6 — Folge: Falsche Klage
 
@@ -102,14 +102,13 @@ Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zustaendigkeit-51-sgg` — SG-Zustaendigkeit
+- `sozialgericht-zuständigkeit-51-sgg` — SG-Zuständigkeit
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld
 - `grundsicherung-sgb-xii` — Grundsicherung
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Pruefen Sie aktuelle Werte unter www.bmwsb.bund.de.
-
 
 ## Qualitäts-Hardening
 

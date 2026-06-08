@@ -13,11 +13,11 @@ description: "Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1
 
 ## Worum geht es?
 
-Sie haben den Widerspruch eingelegt und gewartet. Jetzt ist die Antwort der Behoerde da: der Widerspruchsbescheid. Diese Skill zeigt, was er bedeutet und wie Sie weiter vorgehen.
+Sie haben den Widerspruch eingelegt und gewartet. Jetzt ist die Antwort der Behörde da: der Widerspruchsbescheid. Diese Skill zeigt, was er bedeutet und wie Sie weiter vorgehen.
 
 ## In einfacher Sprache
 
-Die Behoerde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bisschen. Wir helfen Ihnen zu verstehen, was im Brief steht und was Sie jetzt tun koennen.
+Die Behörde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bisschen. Wir helfen Ihnen zu verstehen, was im Brief steht und was Sie jetzt tun koennen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,10 +27,10 @@ Die Behoerde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bissc
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Widerspruchsbescheid**: Die abschliessende Antwort der Behoerde auf Ihren Widerspruch.
-- **Zurueckweisung**: Behoerde sagt Nein.
-- **Abhilfe**: Behoerde sagt Ja.
-- **Teilabhilfe**: Behoerde sagt zum Teil Ja.
+- **Widerspruchsbescheid**: Die abschliessende Antwort der Behörde auf Ihren Widerspruch.
+- **Zurueckweisung**: Behörde sagt Nein.
+- **Abhilfe**: Behörde sagt Ja.
+- **Teilabhilfe**: Behörde sagt zum Teil Ja.
 - **Klagefrist**: Zeit, um beim SG Klage einzureichen — 1 Monat ab Bekanntgabe.
 
 ## Rechtsgrundlagen
@@ -41,21 +41,21 @@ Die Behoerde hat geantwortet. Sie haben gewonnen, verloren oder beides ein bissc
 - **§ 78 SGG** — Vorverfahren als Voraussetzung der Klage.
 - **§ 66 SGG** — Bei falscher / fehlender Rechtsbehelfsbelehrung: 1 Jahr Klagefrist.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Brief lesen und Bekanntgabedatum festhalten
 
 Schreiben Sie sich das Datum auf, an dem Sie den Brief bekommen haben. Wieder 4-Tage-Fiktion: 4. Tag nach Aufgabe zur Post.
 
-### Schritt 2 — Pruefen, was die Behoerde gesagt hat
+### Schritt 2 — Pruefen, was die Behörde gesagt hat
 
 Drei Moeglichkeiten:
 
-- **Volle Abhilfe**: Behoerde gibt Ihnen Recht. Geld kommt. Fertig.
-- **Teilabhilfe**: Behoerde gibt Ihnen teilweise Recht. Pruefen Sie genau, was bleibt.
-- **Volle Zurueckweisung**: Behoerde haelt am Bescheid fest. Klage moeglich.
+- **Volle Abhilfe**: Behörde gibt Ihnen Recht. Geld kommt. Fertig.
+- **Teilabhilfe**: Behörde gibt Ihnen teilweise Recht. Pruefen Sie genau, was bleibt.
+- **Volle Zurueckweisung**: Behörde haelt am Bescheid fest. Klage moeglich.
 
-Siehe `teilstattgabe-vollstattgabe-verstehen` fuer Details.
+Siehe `teilstattgabe-vollstattgabe-verstehen` für Details.
 
 ### Schritt 3 — Klage-Entscheidung treffen
 
@@ -63,7 +63,7 @@ Ueberlegen:
 
 - Habe ich noch Argumente, die nicht beruecksichtigt wurden?
 - Gibt es neue Beweismittel?
-- Ist meine Sache wichtig fuer mich (Geld, Existenz)?
+- Ist meine Sache wichtig für mich (Geld, Existenz)?
 - Was kostet mich das Verfahren? (Beim SG meistens nichts!)
 - Wie sind meine Chancen?
 
@@ -71,7 +71,7 @@ Ueberlegen:
 
 Wenn Sie klagen wollen:
 
-1. Adresse des zustaendigen SG finden (siehe `oertliche-zustaendigkeit-57-sgg`).
+1. Adresse des zuständigen SG finden (siehe `oertliche-zuständigkeit-57-sgg`).
 2. Klageart waehlen (siehe `klagearten-uebersicht-sgg`).
 3. Klage schriftlich oder zur Niederschrift einreichen.
 
@@ -108,7 +108,7 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 ## Typische Fehler
 
 - "Ich denke noch ein paar Wochen nach" → Frist vergeht
-- Klage an die Behoerde statt ans SG → Klage geht an SG!
+- Klage an die Behörde statt ans SG → Klage geht an SG!
 - Bekanntgabedatum statt Bescheidsdatum verwechselt → Bekanntgabe zaehlt
 - Nicht erkennen, dass es Teilabhilfe ist → genau lesen
 
@@ -123,8 +123,7 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig fuer Bekanntgabefiktion.
-
+Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig für Bekanntgabefiktion.
 
 ## Qualitäts-Hardening
 

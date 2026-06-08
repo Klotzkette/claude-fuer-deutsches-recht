@@ -75,7 +75,7 @@ Bitte bis Mittwoch 03.06., 15:00:
 
 ## Vorgehensvorschlag Klee
 
-1. Rohentwurf bis Mittwoch 14:00, mit Platzhaltern für KI-Kapitel und Preis.
+1. Rohentwurf bis Mittwoch 14:00 mit offen gekennzeichneter Preiszeile und vorsichtiger Formulierung zum KI-Kapitel, solange Kapitel 4 noch nicht freigegeben ist.
 2. Schlagworte (10) erst nach Rücksprache mit VLB-Verantwortlichem Stein.
 3. LinkedIn-Post nicht vor Cover-Freigabe.
 4. Citation-Empfehlung mit Mohn klären (ein Titel oder zwei).

@@ -5,6 +5,22 @@ description: "Erkennt doppelte Dateien, verschiedene Fassungen desselben Dokumen
 
 # Duplikate, Fassungen und Hashlog
 
+## Normenanker
+
+Arbeitsfokus: **Duplikate, Fassungen und Hashlog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill macht die stille technische Kontrolle hinter dem Anlagenverzeichnis. Er entscheidet nicht materiell-rechtlich, aber er zeigt, ob die Anlagenbasis stabil genug ist, um gerichtsfest verwendet zu werden.

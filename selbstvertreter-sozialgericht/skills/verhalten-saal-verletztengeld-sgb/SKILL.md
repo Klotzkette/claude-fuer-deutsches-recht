@@ -7,25 +7,25 @@ description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialger
 
 ## Arbeitsbereich
 
-**Verhalten Saal Verletztengeld SGB** ordnet den Fall über die tragenden Prüffelder: Wie verhalte ich mich im Sitzungssaal des SG, Verletztengeld nach § 46 SGB VII, Die Verpflichtungsklage nach § 54 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verhalten Saal Verletztengeld SGB** ordnet den Fall über die tragenden Prüfungslinien: Wie verhalte ich mich im Sitzungssaal des SG, Verletztengeld nach § 46 SGB VII, Die Verpflichtungsklage nach § 54 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `verhalten-im-saal-sozialgericht-laienleitfaden` | Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt. |
 | `verletztengeld-46-sgb-vii` | Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster. |
-| `verpflichtungsklage-54-sgg` | Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger. |
+| `verpflichtungsklage-54-sgg` | Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behörde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger. |
 | `versand-selbst-zurechnung-laien-sozialgericht` | Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung. |
 | `video-verhandlung-110a-sgg` | Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `verhalten-im-saal-sozialgericht-laienleitfaden`
 
@@ -40,7 +40,6 @@ description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialger
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -69,7 +68,7 @@ Im Sitzungssaal gibt es Regeln. Aufstehen wenn der Richter kommt. Hoeflich sein.
 - **§§ 169 ff. GVG** — Oeffentlichkeit, Sitzungsordnung.
 - **§ 12 SGG** — Ehrenamtliche Richter.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vor dem Saal
 
@@ -81,7 +80,7 @@ Im Sitzungssaal gibt es Regeln. Aufstehen wenn der Richter kommt. Hoeflich sein.
 ### Schritt 2 — Wenn Sie aufgerufen werden
 
 - Den Saal betreten
-- Auf den Platz fuer "Klaeger" / "Antragsteller" gehen (links oder rechts vom Richtertisch — wird angesagt)
+- Auf den Platz für "Klaeger" / "Antragsteller" gehen (links oder rechts vom Richtertisch — wird angesagt)
 - Vor dem Richtertisch: leichtes Kopfnicken zur Begruessung
 
 ### Schritt 3 — Wenn die Richter eintreten
@@ -119,7 +118,7 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 - Bei Antworten: konkret, ehrlich, kurz
 - Bei Unsicherheit: "Ich weiss das nicht" oder "Das muesste ich erst pruefen"
 
-### Schritt 8 — Bei Fragen der Behoerden-Vertreterin / des Behoerden-Vertreters
+### Schritt 8 — Bei Fragen der Behörden-Vertreterin / des Behörden-Vertreters
 
 - Auch sie / er ist Partei. Sie muessen nicht alles beantworten.
 - Bei provokanten Fragen: ruhig bleiben.
@@ -165,7 +164,6 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 
 Stand: 05/2026. Praxis-Hinweise.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -187,7 +185,6 @@ Stand: 05/2026. Praxis-Hinweise.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 
@@ -222,7 +219,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 ## 3. `verpflichtungsklage-54-sgg`
 
-**Fokus:** Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger.
+**Fokus:** Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behörde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger.
 
 # Die Verpflichtungsklage — § 54 Abs. 1 SGG
 
@@ -234,14 +231,13 @@ Stand: 05/2026. Praxis-Hinweise.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Die Verpflichtungsklage zielt darauf, dass die Behoerde einen positiven Bescheid erlaesst. Sie haben etwas beantragt — z.B. EM-Rente oder Pflegegrad 3 — und es wurde abgelehnt. Mit der Verpflichtungsklage wollen Sie, dass das Gericht die Behoerde verpflichtet, Ihnen das zu geben.
+Die Verpflichtungsklage zielt darauf, dass die Behörde einen positiven Bescheid erlaesst. Sie haben etwas beantragt — z.B. EM-Rente oder Pflegegrad 3 — und es wurde abgelehnt. Mit der Verpflichtungsklage wollen Sie, dass das Gericht die Behörde verpflichtet, Ihnen das zu geben.
 
 ## In einfacher Sprache
 
-Sie haben etwas beantragt. Die Behoerde hat Nein gesagt. Sie wollen, dass das Gericht der Behoerde sagt: Geben Sie es ihm doch. Das nennt man Verpflichtungsklage.
+Sie haben etwas beantragt. Die Behörde hat Nein gesagt. Sie wollen, dass das Gericht der Behörde sagt: Geben Sie es ihm doch. Das nennt man Verpflichtungsklage.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -254,7 +250,7 @@ Sie haben etwas beantragt. Die Behoerde hat Nein gesagt. Sie wollen, dass das Ge
 ## Fachbegriffe (kurz erklaert)
 
 - **Verpflichtungsklage**: Klage auf Erlass eines positiven Verwaltungsakts.
-- **Versagungsgegenklage**: Behoerde hat abgelehnt — Sie klagen dagegen.
+- **Versagungsgegenklage**: Behörde hat abgelehnt — Sie klagen dagegen.
 - **Bescheidungsklage**: Klage auf neuerliche Entscheidung — selten.
 
 ## Rechtsgrundlagen
@@ -264,7 +260,7 @@ Sie haben etwas beantragt. Die Behoerde hat Nein gesagt. Sie wollen, dass das Ge
 - **§ 87 SGG** — Klagefrist 1 Monat.
 - **§ 131 SGG** — Urteil des Gerichts.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, was Sie wollen
 
@@ -290,7 +286,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde] (z.B. Deutsche Rentenversicherung Bund)
+[Behörde] (z.B. Deutsche Rentenversicherung Bund)
 [Adresse]
 
 — Beklagte —
@@ -324,7 +320,7 @@ II. Rechtliche Wuerdigung
  - Belege: [Atteste, Berichte]
 
 3. Verschlossener Teilzeitarbeitsmarkt (bei 3 bis 6 h)
- - Der Arbeitsmarkt fuer Teilzeit-Stellen ist fuer mich nicht verfuegbar.
+ - Der Arbeitsmarkt für Teilzeit-Stellen ist für mich nicht verfuegbar.
 
 III. Beweismittel
 - Befundberichte Hausarzt vom [Datum]
@@ -370,7 +366,7 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 
 - **Genauer Antrag**: "EM-Rente in voller Hoehe ab Antragstellung [Datum]". Nicht nur "Ich will Rente".
 - **Versicherungsrechtliche Voraussetzungen**: Vor jedem EM-Rente-Streit muessen Sie pruefen, ob Wartezeit (5 Jahre) und Pflichtbeitragsdichte (3 von 5) erfuellt sind. Wenn nicht: keine Chance, ausser Ausnahme.
-- **Berufsschutz** § 240 SGB VI nur fuer Jahrgaenge vor 02.01.1961.
+- **Berufsschutz** § 240 SGB VI nur für Jahrgaenge vor 02.01.1961.
 
 ## Typische Fehler
 
@@ -392,7 +388,6 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschlossenen Teilzeitarbeitsmarkt zu beachten. Verifizierung in einer amtlichen oder frei zugänglichen Quelle empfohlen; juris nur bei vorhandenem Lizenzzugriff.
-
 
 ## Qualitäts-Hardening
 
@@ -416,7 +411,6 @@ Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschloss
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Wenn Sie etwas abschicken, brauchen Sie einen Beweis, dass es angekommen ist. Sonst koennen Sie nicht nachweisen, dass Sie rechtzeitig waren. Diese Skill zeigt, welche Beweise wann gelten — und wie Sie sie aufheben.
@@ -435,14 +429,14 @@ Wenn Sie etwas abschicken, sammeln Sie den Beweis. Sonst kann jemand sagen, der 
 - **Zugangsnachweis**: Beweis, dass der Brief beim Empfaenger ankam.
 - **Sendebericht**: Fax-Beleg mit OK-Vermerk.
 - **Quittung**: Bestaetigung digitaler Sendungen (MJP, ELSTER).
-- **Empfangsstempel**: Behoerden-Stempel auf Ihrem Beleg.
+- **Empfangsstempel**: Behörden-Stempel auf Ihrem Beleg.
 
 ## Rechtsgrundlagen
 
 - **§ 130 BGB analog** — Zugang ist Wirksamkeitsvoraussetzung.
 - **§ 65a SGG** — Elektronische Quittung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Versand mit Beweis je nach Weg
 
@@ -465,7 +459,7 @@ Empfehlung: Pro Sache ein Ordner mit Reitern:
 
 1. Bescheide
 2. Eigene Schreiben (mit Versandbeweisen)
-3. Antworten der Behoerde
+3. Antworten der Behörde
 4. Anwalts- / Beratungsverkehr
 5. Atteste / Beweise
 
@@ -496,7 +490,7 @@ Bei Einschreiben:
 
 ### Schritt 7 — Bei Probleme: Beweis verteidigen
 
-- Hat die Behoerde behauptet, nichts erhalten zu haben?
+- Hat die Behörde behauptet, nichts erhalten zu haben?
 - Legen Sie Sendebericht, Rueckschein oder Stempel vor.
 - Bei Online-Sendungen: digitale Quittung.
 
@@ -526,7 +520,6 @@ Bei Einschreiben:
 
 Stand: 05/2026. Standard-Beweispraxis.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -548,7 +541,6 @@ Stand: 05/2026. Standard-Beweispraxis.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -574,7 +566,7 @@ Sie muessen nicht immer ins Gericht fahren. Sie koennen auch per Video teilnehme
 
 - **§ 110a SGG** — Verhandlung mittels Bild- und Tonuebertragung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Antrag stellen
 
@@ -650,7 +642,6 @@ Mit freundlichen Gruessen
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110a SGG. Praxis variiert je SG.
-
 
 ## Qualitäts-Hardening
 

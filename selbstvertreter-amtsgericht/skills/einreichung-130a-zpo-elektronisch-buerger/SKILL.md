@@ -19,7 +19,7 @@ Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter be
 
 - **Elektronisches Dokument**: Datei (PDF, anderer Format), die elektronisch uebermittelt wird.
 - **Qualifizierte elektronische Signatur (qeS)**: Elektronische Signatur mit Sicherheits-Zertifikat — gleichwertig handschriftlicher Unterschrift.
-- **Sicherer Uebermittlungsweg**: Vom Gesetz anerkannte Form der Uebermittlung (beA fuer Anwaelte, MJP fuer Buerger).
+- **Sicherer Uebermittlungsweg**: Vom Gesetz anerkannte Form der Uebermittlung (beA für Anwaelte, MJP für Buerger).
 
 ## Rechtsgrundlagen
 
@@ -29,7 +29,7 @@ Eine elektronische Einreichung kann Schriftformersatz sein — aber nur unter be
 - **§ 130b ZPO** — Form der gerichtlichen Entscheidungen.
 - **§ 174 ZPO** — Zustellung an Anwaelte ueber beA.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche elektronischen Wege gibt es?
 
@@ -70,7 +70,7 @@ Speichern Sie die Bestaetigung.
 
 ### Schritt 6 — Wirkung des Eingangs
 
-§ 130a V ZPO: Das elektronische Dokument ist eingegangen, sobald es auf der fuer den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Datum/Uhrzeit der Speicherung ist Eingang.
+§ 130a V ZPO: Das elektronische Dokument ist eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Datum/Uhrzeit der Speicherung ist Eingang.
 
 Auch um 23:59 Uhr eines Frist-Tags eingereicht ist fristwahrend (sofern Bestaetigung).
 
@@ -83,7 +83,7 @@ Wenn die Uebermittlung versagt:
 
 ### Schritt 8 — Pflicht oder Wahl?
 
-§ 130d ZPO verpflichtet **Anwaelte und Behoerden** zur elektronischen Einreichung. Buerger sind **nicht** verpflichtet — koennen weiter Papier. Aber elektronisch ist praktisch oft besser.
+§ 130d ZPO verpflichtet **Anwaelte und Behörden** zur elektronischen Einreichung. Buerger sind **nicht** verpflichtet — koennen weiter Papier. Aber elektronisch ist praktisch oft besser.
 
 ## Worauf Sie besonders achten muessen
 
@@ -107,8 +107,7 @@ Wenn die Uebermittlung versagt:
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 130a ZPO seit Gesetz zur Foerderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
-
+Stand: 05/2026. § 130a ZPO seit Gesetz zur Förderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
 
 ## Qualitäts-Hardening
 

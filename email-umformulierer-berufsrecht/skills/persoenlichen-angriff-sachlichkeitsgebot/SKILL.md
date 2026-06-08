@@ -1,45 +1,27 @@
 ---
 name: persoenlichen-angriff-sachlichkeitsgebot
-description: "Persoenlichen Angriff Sachlichkeitsgebot im Plugin Email Umformulierer Berufsrecht: prüft konkret Persoenliche Angriffe und Beleidigungen in, Sachlichkeitsgebot nach § 26 BORA auf konkrete, Sachverhalt in Anwaltskorrespondenz neutral und ohne. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren) im Berufsrechts-E-Mail: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Persoenlichen Angriff Sachlichkeitsgebot
+# Persönlichen Angriff entschärfen
 
 ## Arbeitsbereich
 
-**Persoenlichen Angriff Sachlichkeitsgebot** ordnet den Fall über die tragenden Prüffelder: Persoenliche Angriffe und Beleidigungen in, Sachlichkeitsgebot nach § 26 BORA auf konkrete, Sachverhalt in Anwaltskorrespondenz neutral und ohne. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `persoenlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persoenliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren). |
-| `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen Versachlichungspotenzial. Output: Prüfprotokoll ueberarbeitete sachliche Version. Abgrenzung: systematischer Sachlichkeits-Skill; nicht für spezifische Situationen wie Ironie oder Angriffe. |
-| `sachverhalt-neutral-darstellen` | Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht für rechtliche Stellungnahmen. |
+Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Email Umformulierer Berufsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `persoenlichen-angriff-entschaerfen`
-
-**Fokus:** Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persoenliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren).
-
-# Persönlichen Angriff entschärfen
 
 ## Fachkern: Persönlichen Angriff entschärfen
-- **Spezialgegenstand:** Persönlichen Angriff entschärfen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angriffe in beruflichen Texten. Persönliche Angriffe sind häufig das größte Hindernis für sachliche Kommunikation — sie verleiten den Empfänger zur Gegenreaktion und verhärten Fronten. Die systematische Umformulierung löst dieses Problem.
-
 
 ## Triage zu Beginn
 1. Kommt der Angriff aus eingehendem Schreiben (neutralisieren im Antwortschreiben) oder aus eigenem Entwurf (entfernen)?
@@ -51,10 +33,10 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persoenliche Angriffe unzulaessig
-- § 185 StGB — Beleidigung: persoenliche Angriffe koennen strafbar sein
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persönliche Angriffe unzulaessig
+- § 185 StGB — Beleidigung: persönliche Angriffe koennen strafbar sein
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Schadenersatz bei Persoenlichkeitsverletzung
-- § 1004 BGB — Unterlassungsanspruch bei andauernden persoenlichen Angriffen
+- § 1004 BGB — Unterlassungsanspruch bei andauernden persönlichen Angriffen
 
 ## Quellenregel
 
@@ -96,121 +78,3 @@ Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt "Sie" als hand
 Der Skill gibt aus: (1) Identifizierte persönliche Angriffe im Text. (2) Eingesetzte Entschärfungstechnik. (3) Neutralisierte Alternativformulierung. (4) Überarbeiteter Gesamttext ohne persönliche Angriffe.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## 2. `sachlichkeitsgebot-anwendung`
-
-**Fokus:** Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen Versachlichungspotenzial. Output: Prüfprotokoll ueberarbeitete sachliche Version. Abgrenzung: systematischer Sachlichkeits-Skill; nicht für spezifische Situationen wie Ironie oder Angriffe.
-
-# Sachlichkeitsgebot-Anwendung
-
-## Fachkern: Sachlichkeitsgebot-Anwendung
-- **Spezialgegenstand:** Sachlichkeitsgebot-Anwendung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill erläutert das anwaltliche Sachlichkeitsgebot in seiner normativen Tiefe und wendet es auf konkrete Formulierungen an. Das Sachlichkeitsgebot ist einer der wichtigsten berufsrechtlichen Standards und gleichzeitig einer der am häufigsten missverstandenen.
-
-## § 43a Abs. 3 BRAO — Norminhalt
-
-§ 43a Abs. 3 BRAO enthält das Sachlichkeitsgebot für Rechtsanwälte. Es verbietet: (a) bewusst unwahre Tatsachenbehauptungen, (b) herabsetzende Äußerungen, für die kein sachlicher Anlass besteht, (c) reine Schmähkritik ohne sachliche Auseinandersetzung. Das Sachlichkeitsgebot gilt für alle Äußerungen im Rahmen der Berufsausübung — also nicht nur gegenüber Mandanten, sondern auch gegenüber Kollegen, Gerichten, Behörden und der Öffentlichkeit.
-
-## Abgrenzung: Kritik vs. Schmähkritik
-
-Erlaubte Kritik ist sachbezogen, bezieht sich auf nachprüfbare Tatsachen oder klar kenntliche Werturteile und ist verhältnismäßig. Schmähkritik ist dagegen primär darauf ausgerichtet, den Adressaten zu verletzen oder herabzusetzen, ohne dass ein sachlicher Bezug zum Streitgegenstand besteht. Die Grenze ist fließend: Eine deutliche Kritik an einem Schriftsatz ist erlaubt; die persönliche Abwertung des Verfassers ist es nicht.
-
-## Tatsachenbehauptungen vs. Werturteile
-
-Tatsachenbehauptungen sind einer Wahrheitsprüfung zugänglich und müssen wahr sein oder zumindest auf ausreichenden tatsächlichen Anhaltspunkten beruhen. Werturteile sind Meinungsäußerungen, die verfassungsrechtlich durch Art. 5 Abs. 1 GG geschützt sind — aber auch Werturteile können in Schmähkritik umschlagen. Die Aussage "Ihr Schriftsatz enthält keine Auseinandersetzung mit § 284 BGB" ist eine prüfbare Tatsachenbehauptung. Die Aussage "Ihr Schriftsatz ist eine Frechheit" ist ein Werturteil, das keine sachliche Auseinandersetzung enthält.
-
-## BVerfG-Rechtsprechung
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Berufsrechtlicher Hintergrund
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Das Gericht hat offensichtlich nicht einmal die Klageschrift gelesen."
-**Nachher:** Werturteil mit sachlichem Bezug zulässig, wenn begründet. Besser: "Die Urteilsbegründung geht auf den Vortrag unter Ziffer 3 der Klageschrift nicht ein."
-
-**Vorher:** "Die Gegenpartei handelt rechtsmissbräuchlich und verwerflich."
-**Nachher:** Tatsachenbehauptung; Rechtsmissbrauch muss konkret belegt werden. Konform: "Es bestehen Anhaltspunkte für rechtsmissbräuchliches Verhalten, insbesondere aufgrund von X."
-
-**Vorher:** "Ich erwarte von einem Richter, dass er das Gesetz kennt."
-**Nachher:** Herabsetzend. Konform: "Ich bitte das Gericht, die Ausführungen zu § 284 BGB in der Berufungsbegründung zu berücksichtigen."
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Einordnung der Äußerung (Tatsache / Werturteil / Schmähkritik). (2) Berufsrechtliche Bewertung. (3) Einschlägige Norm und ggf. Rechtsprechung. (4) Konforme Alternativformulierung.
-
-## 3. `sachverhalt-neutral-darstellen`
-
-**Fokus:** Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht für rechtliche Stellungnahmen.
-
-# Sachverhalt neutral darstellen
-
-## Fachkern: Sachverhalt neutral darstellen
-- **Spezialgegenstand:** Sachverhalt neutral darstellen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
-- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sachverhaltsschilderungen in sachliche, objektive Darstellungen. Ziel ist nicht die Verschleierung des Problems, sondern seine nüchterne und präzise Beschreibung — so wie es ein guter Schriftsatz erfordert.
-
-
-## Triage zu Beginn
-1. Welcher Abschnitt des Textes enthaelt subjektive Wertungen, die in neutrale Darstellung umgewandelt werden muessen?
-2. Muss der Sachverhalt vollstaendig erhalten bleiben oder darf er kondensiert werden?
-3. Fuer welchen Adressaten: Gericht (maximale Sachlichkeit), Mandant (erklaerend), Gegner (zurueckhaltend)?
-4. Gibt es Passagen, bei denen die Distanzierungsformel ("nach Ihrer Darstellung") benoetigt wird?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot und Wahrheitspflicht bei Sachverhaltsschilderungen
-- § 138 ZPO — Wahrheitspflicht der Parteien im Prozess (Sachverhalt muss wahrheitsgemaess dargestellt werden)
-- § 823 Abs. 1 BGB — Persoenlichkeitsrecht: neutrale Schilderung schutzt vor Haftung
-- § 193 StGB — Wahrnehmung berechtigter Interessen: Schutzbereich bei wahrheitsgemaesser sachlicher Darstellung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Grundprinzipien der neutralen Darstellung
-
-Die wichtigsten Werkzeuge sind: Passivkonstruktionen (nicht "Sie haben versäumt" sondern "die Frist ist verstrichen"), Datumsbezüge statt unbestimmter Zeitangaben (nicht "seit Wochen" sondern "seit dem TT.MM.JJJJ"), unpersönliche Pronomen (nicht "Sie ignorieren" sondern "eine Rückmeldung steht noch aus"), Distanzierungsformeln (nicht "Sie behaupten" sondern "nach Ihrer Darstellung" oder "ausweislich Ihres Schreibens") sowie Trennung von Sachverhalt und Wertung.
-
-## Passiv vs. Aktiv
-
-Die Entscheidung zwischen Passiv und Aktiv hat im juristischen Kontext erhebliche Bedeutung. Passivkonstruktionen entlasten den Text von Schuldzuweisungen: "Eine Frist wurde bislang nicht gewährt" statt "Sie haben keine Frist gesetzt". Aktiv ist angebracht, wenn die handelnde Person bewusst benannt werden soll: "Mit Schreiben vom TT.MM.JJJJ hat die Gegenseite mitgeteilt...". Aktivkonstruktionen mit klarem Subjektbezug auf Dokumente oder Daten (nicht auf Personen) sind besonders effektiv.
-
-## Distanzierungsformeln
-
-Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Formeln: "nach Ihrer Darstellung", "ausweislich Ihrer E-Mail vom TT.MM.JJJJ", "wie Sie mitteilen", "soweit ich Ihrem Schreiben entnehme", "nach dem mir vorliegenden Sachstand". Diese Formeln signalisieren, dass der Schreiber die Aussage zitiert, ohne sie zu bestätigen oder abzulehnen.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO fordert Sachlichkeit. Das Sachlichkeitsgebot verlangt nicht nur die Vermeidung von Beleidigungen, sondern auch eine wahrheitsgemäße, nicht verzerrende Darstellung. Die neutrale Sachverhaltsschilderung schützt auch vor dem Vorwurf, bewusst falsche Tatsachen zu behaupten (§ 43a Abs. 3 Satz 2 BRAO).
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Sie ignorieren mich seit Wochen."
-**Nachher:** "Eine Rückmeldung auf das Schreiben vom TT.MM.JJJJ steht bislang aus."
-
-**Vorher:** "Sie haben einfach die Frist verstreichen lassen, ohne mich zu informieren."
-**Nachher:** "Die Frist vom TT.MM.JJJJ ist verstrichen. Eine vorherige Mitteilung ist nicht erfolgt."
-
-**Vorher:** "Ihre Mandantin behauptet frech, sie habe nie zugestimmt."
-**Nachher:** "Nach der Darstellung Ihrer Mandantin liegt eine Zustimmung nicht vor."
-
-**Vorher:** "Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
-**Nachher:** "Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
-
-## Ausgabeformat
-
-Der Skill gibt für jeden umzuformulierenden Satz aus: (1) Original. (2) Neutrale Fassung. (3) Erläuterung des eingesetzten Mittels (Passiv, Datumsbezug, Distanzierungsformel). (4) Optionaler Hinweis auf berufsrechtliche Relevanz.

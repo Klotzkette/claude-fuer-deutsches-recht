@@ -14,7 +14,7 @@ description: "AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung
 
 ## Norm
 
-- § 305 Abs. 1 BGB: AGB-Eigenschaft setzt Stellung fuer "Vielzahl von Vertraegen" voraus.
+- § 305 Abs. 1 BGB: AGB-Eigenschaft setzt Stellung für "Vielzahl von Vertraegen" voraus.
 - In Konzernvertraegen oft vorformuliert, aber individuell ausgehandelt.
 - § 310 Abs. 1 BGB: B2B-Wertungen.
 
@@ -38,7 +38,7 @@ description: "AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung
 
 ## Pruefraster
 
-1. Vorformulierung fuer Vielzahl von Vertraegen?
+1. Vorformulierung für Vielzahl von Vertraegen?
 2. Individuell ausgehandelt?
 3. § 307 BGB-Risiko?
 4. Steuerliche und kartellrechtliche Wechselwirkung?

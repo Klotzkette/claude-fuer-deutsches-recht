@@ -7,10 +7,10 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 
 ## Arbeitsbereich
 
-**Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüffelder: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `urteil-rechtskraft-705-zpo` | Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter. |
 | `urteilsverkuendung-310-zpo` | Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben. |
@@ -18,12 +18,12 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `urteil-rechtskraft-705-zpo`
 
@@ -54,7 +54,7 @@ Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor i
 - **§ 708 ZPO** — Vorlaeufige Vollstreckbarkeit.
 - **§ 717 ZPO** — Schaden bei Aufhebung im Rechtsmittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann tritt formelle Rechtskraft ein?
 
@@ -67,11 +67,11 @@ Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor i
 Auch vor Rechtskraft kann das Urteil schon Wirkungen entfalten:
 
 - **Vorlaeufige Vollstreckbarkeit** (§ 708 ZPO): Bei AG-Urteilen i. d. R. von Amts wegen erklaert. Sie koennen sofort pfaenden, ohne Sicherheitsleistung.
-- Wenn Berufung erfolgreich: Schadensersatz fuer ungerechtfertigte Vollstreckung moeglich (§ 717 II ZPO).
+- Wenn Berufung erfolgreich: Schadensersatz für ungerechtfertigte Vollstreckung moeglich (§ 717 II ZPO).
 
 ### Schritt 3 — Rechtskraft-Vermerk
 
-Nach Eintritt der Rechtskraft koennen Sie beim Gericht den **Rechtskraft-Vermerk** beantragen — eine Bescheinigung, dass das Urteil rechtskraeftig ist. Das brauchen Sie fuer manche Vollstreckungs-Akte oder zur Vorlage bei Behoerden.
+Nach Eintritt der Rechtskraft koennen Sie beim Gericht den **Rechtskraft-Vermerk** beantragen — eine Bescheinigung, dass das Urteil rechtskraeftig ist. Das brauchen Sie für manche Vollstreckungs-Akte oder zur Vorlage bei Behörden.
 
 ### Schritt 4 — Materielle Rechtskraft
 
@@ -107,14 +107,14 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 
 - **Vorlaeufige Vollstreckbarkeit** vor Rechtskraft.
 - **Rechtskraft erst nach Ablauf Berufungsfrist**.
-- **Rechtskraft-Vermerk** fuer formelle Nachweise.
+- **Rechtskraft-Vermerk** für formelle Nachweise.
 - **§ 717 II ZPO** Schadensersatz-Risiko bei Aufhebung.
 
 ## Typische Fehler
 
 - "Urteil ist endgueltig sofort nach Verkuendung." → Nein, erst nach Rechtskraft.
 - "Ich kann nochmal klagen mit anderen Beweisen." → Bei Rechtskraft i. d. R. ausgeschlossen.
-- "Vor Rechtskraft keine Vollstreckung." → Doch, vorlaeufige Vollstreckbarkeit.
+- "Vor Rechtskraft keine Vollstreckung." → Doch, vorläufige Vollstreckbarkeit.
 
 ## Querverweise
 
@@ -126,7 +126,6 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -167,7 +166,7 @@ Nach Abschluss der muendlichen Verhandlung verkuendet das Gericht das Urteil. Ve
 - **§ 313 ZPO** — Schriftliches Urteil.
 - **§ 315 ZPO** — Bekanntgabe.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Schluss der muendlichen Verhandlung
 
@@ -222,7 +221,7 @@ Skill `urteil-pruefen-313-zpo`.
 
 ### Schritt 6 — Rechtsmittel-Frist beginnt mit Zustellung
 
-Die Frist fuer Berufung (1 Monat, § 517 ZPO) beginnt mit Zustellung des **vollstaendigen schriftlichen Urteils** — nicht mit der Verkuendung.
+Die Frist für Berufung (1 Monat, § 517 ZPO) beginnt mit Zustellung des **vollstaendigen schriftlichen Urteils** — nicht mit der Verkuendung.
 
 Datum der Zustellung notieren. Skill `fristbeginn-zustellung-protokollieren`.
 
@@ -268,7 +267,6 @@ Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 
 Stand: 05/2026. § 310 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -285,7 +283,7 @@ Stand: 05/2026. § 310 ZPO unveraendert.
 
 ## Worum geht es?
 
-Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besonderer Situation geschlossen wurde (Haustuergeschaeft, ausserhalb der Geschaeftsraeume), koennen Sie am **eigenen Wohnsitz** klagen — und nur dort verklagt werden. Das ist eine Schutzvorschrift fuer Verbraucher. Praktisch sehr nuetzlich, wenn der Verkaeufer weit weg sitzt.
+Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besonderer Situation geschlossen wurde (Haustuergeschaeft, ausserhalb der Geschaeftsraeume), koennen Sie am **eigenen Wohnsitz** klagen — und nur dort verklagt werden. Das ist eine Schutzvorschrift für Verbraucher. Praktisch sehr nuetzlich, wenn der Verkaeufer weit weg sitzt.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -303,26 +301,26 @@ Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besond
 
 ## Rechtsgrundlagen
 
-- **§ 29c ZPO** — Ausschliesslicher Verbrauchergerichtsstand am Wohnsitz des Verbrauchers fuer Vertraege nach § 312b BGB und § 312c BGB.
+- **§ 29c ZPO** — Ausschliesslicher Verbrauchergerichtsstand am Wohnsitz des Verbrauchers für Vertraege nach § 312b BGB und § 312c BGB.
 - **§ 13 BGB** — Verbraucher-Definition.
 - **§ 14 BGB** — Unternehmer-Definition.
 - **§ 312b BGB** — Vertraege ausserhalb der Geschaeftsraeume.
 - **§ 312c BGB** — Fernabsatzvertraege.
 - **Art. 18 Brüssel-Ia-VO** — Internationaler Verbrauchergerichtsstand (bei EU-Sachverhalten).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Sind Sie Verbraucher?
 
 - Sie kaufen privat: ja.
-- Sie kaufen fuer Ihr Einzelunternehmen / Ihre Praxis: nein.
+- Sie kaufen für Ihr Einzelunternehmen / Ihre Praxis: nein.
 - Mischzweck: Schwerpunkt entscheidet (BGH).
 
 ### Schritt 2 — Welcher Vertragstyp?
 
 - Sie haben den Vertrag **online** geschlossen? → Fernabsatzvertrag § 312c BGB. § 29c ZPO greift.
 - Sie haben den Vertrag an der **Haustuer** unterschrieben? → § 312b BGB. § 29c ZPO greift.
-- Sie haben in einer Filiale unterschrieben? → § 29c ZPO greift **nicht**. Normale Gerichtsstandsregeln (Skill `oertliche-zustaendigkeit-12-37-zpo`).
+- Sie haben in einer Filiale unterschrieben? → § 29c ZPO greift **nicht**. Normale Gerichtsstandsregeln (Skill `oertliche-zuständigkeit-12-37-zpo`).
 - Bei einer Messe / einem Verkaufsstand? → § 312b BGB greift; § 29c ZPO greift (sofern sonstige Voraussetzungen vorliegen).
 
 ### Schritt 3 — Folge: Ausschliesslicher Gerichtsstand
@@ -339,12 +337,12 @@ Bei EU-grenzueberschreitenden Vertraegen pruefen Sie zusaetzlich Art. 17 ff. Bru
 
 ### Schritt 6 — Falls Sie als Beklagter ruegen wollen
 
-Schreiben Sie in die Klageerwiderung: "Die oertliche Zustaendigkeit wird geruegt. Das Gericht XXX ist nicht zustaendig. Zustaendig nach § 29c ZPO ist das Amtsgericht (mein Wohnsitz)." Antrag: Verweisung nach § 281 ZPO.
+Schreiben Sie in die Klageerwiderung: "Die oertliche Zuständigkeit wird geruegt. Das Gericht XXX ist nicht zuständig. Zustaendig nach § 29c ZPO ist das Amtsgericht (mein Wohnsitz)." Antrag: Verweisung nach § 281 ZPO.
 
 ## Worauf Sie besonders achten muessen
 
 - **§ 29c ZPO greift nicht generell bei Online-Bestellungen** — nur bei Fernabsatzvertraegen § 312c BGB. Wenn Sie online ein Hotel buchen, ist die Lage komplexer.
-- **Verbrauchereigenschaft beweispflichtig**: Sie als Verbraucher tragen die Darlegungslast. Bewahren Sie Belege fuer privaten Charakter des Kaufs auf.
+- **Verbrauchereigenschaft beweispflichtig**: Sie als Verbraucher tragen die Darlegungslast. Bewahren Sie Belege für privaten Charakter des Kaufs auf.
 - **Gerichtsstands-Klausel im AGB**: Bei Verbrauchern oft unwirksam — § 38 III ZPO, § 309 Nr. 13 BGB.
 
 ## Typische Fehler
@@ -355,14 +353,13 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zustaendigkeit wird geruegt
 
 ## Querverweise
 
-- `oertliche-zustaendigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Sachliche Zustaendigkeit AG.
+- `oertliche-zuständigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Sachliche Zuständigkeit AG.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 29c ZPO unveraendert. Bei internationalen Verbrauchertraegen Bruessel-Ia-VO zusaetzlich beachten.
-
 
 ## Qualitäts-Hardening
 

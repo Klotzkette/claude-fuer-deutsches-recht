@@ -153,7 +153,6 @@ Die folgenden Punkte können ohne menschliche Bewertung nicht abgeschlossen werd
 
 Hinweis: Keine Rechtsberatung. Dieses Screening erzeugt Kandidaten und Belegketten, keine belastbare Anspruchsdurchsetzung ohne fachliche Endprüfung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

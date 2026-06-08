@@ -1,37 +1,21 @@
 ---
 name: abtretung-adversarial-test
-description: "Abtretung Adversarial Test im AGB-Recht: prüft konkret Abtretung, Adversarial Test AGB, Änderungsvorbehalt 308, AGB bei Arbeitnehmerueberlassung (AUeG). Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung im AGB-Recht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Abtretung Adversarial Test
+# Abtretung
 
 ## Arbeitsbereich
 
-**Abtretung Adversarial Test** ordnet den Fall über die tragenden Prüffelder: Abtretung, Adversarial Test AGB, Änderungsvorbehalt 308. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `abtretung` | Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `adversarial-test-agb` | Output- und Streit-Skill für Adversarial Test AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `aenderungsvorbehalt-308` | Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `agb-arbeitnehmerueberlassung-aueg` | AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Liefert Pruefraster. |
+Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Agb Recht Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 bis 310 BGB, UKlaG, B2C — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `abtretung`
-
-**Fokus:** Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-
-
-# Abtretung
 
 ## Fachkern: Abtretung
 
@@ -78,207 +62,35 @@ description: "Abtretung Adversarial Test im AGB-Recht: prüft konkret Abtretung,
 - Bei B2C streng, verständlich und dokumentationsfähig formulieren.
 - Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
 
-## Quellenanker
+## Normen und Rechtsprechung
 
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
+### Kuratierte Normen-Bibliothek
 
-## 2. `adversarial-test-agb`
+- § 305 BGB (Einbeziehung von AGB)
+- § 305c BGB (überraschende und mehrdeutige Klauseln)
+- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
+- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
+- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
+- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
+- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
+- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
+- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
+- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
 
-**Fokus:** Output- und Streit-Skill für Adversarial Test AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
+### Leitentscheidungen
 
+- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
+- BGH I ZR 26/19 (Cookie-Banner als AGB)
+- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
+- BGH I ZR 196/19 (Verbandsklagebefugnis vzbv)
+- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
 
-# Adversarial Test AGB
+### Anwendung im Skill
 
-## Fachkern: Adversarial Test AGB
-
-- **Klauselproblem (Adversarial Test AGB):** macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Adversarial Test AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
+- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
+- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
 
 ## Quellenanker
 
 Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 3. `aenderungsvorbehalt-308`
-
-**Fokus:** Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-
-
-# Änderungsvorbehalt 308
-
-## Fachkern: Änderungsvorbehalt 308
-
-- **Klauselproblem (Änderungsvorbehalt 308):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus Änderungsvorbehalt (§ 308 Nr. 4 BGB):**
- - **Voraussetzungen:** (a) Änderung der versprochenen Leistung muss vereinbart sein, (b) sie ist nur zulässig, wenn dem Vertragspartner zumutbar - was nur bei einem Sachgrund gegeben ist, der die einseitige Änderungsbefugnis rechtfertigt, und (c) bei Berücksichtigung der Interessen des Verwenders.
- - **Notwendige Konkretisierung:** Anlass und Umfang der Änderung müssen vorab beschrieben sein. Generalklauseln ("aus sachlichem Grund", "soweit erforderlich", "zur Anpassung an neue Entwicklungen") sind regelmäßig zu unbestimmt und damit unwirksam (BGH, ständige Rechtsprechung).
- - **Hauptpflicht vs. Nebenleistung:** Änderungsvorbehalt für die Hauptleistung (Was wird geschuldet, zu welchem Preis) ist regelmäßig unwirksam, da Vertragskern. Bei Nebenleistungen (Schnittstellen, technische Spezifikationen, Modalitäten) eher zulässig.
- - **Praxisbeispiel digitale Produkte:** § 327r BGB (Bereitstellungsänderung digitaler Produkte) verlangt: triftiger Grund, kostenfrei, Informationspflicht, ggf. Rücktrittsrecht des Verbrauchers.
- - **B2B:** § 308 Nr. 4 BGB greift direkt nicht (§ 310 Abs. 1 BGB), aber Wertung über § 307 BGB. Im B2B wird ein Änderungsvorbehalt häufiger zugestanden, jedoch nur bei klarer Anlassbeschreibung und Reziprozität.
- - **Pflicht zur Information:** Über die Änderung muss in angemessener Frist vorab informiert werden (z.B. 6 Wochen). Stillschweigende Zustimmungsfiktion ist Klauselverbot nach § 308 Nr. 5 BGB (B2C).
-6. **Rechtsfolge:** Unwirksamkeit; § 308 Nr. 4 BGB ist Klauselverbot mit Wertungsmöglichkeit. Ersatzregel: Änderung nur einvernehmlich.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-### Mustertext (zulässiger Änderungsvorbehalt, eng)
-
-> Der Anbieter ist berechtigt, die in Anlage [X] aufgeführten Leistungsmerkmale anzupassen, soweit dies aufgrund (a) gesetzlicher Vorgaben, (b) zwingender Anforderungen an die IT-Sicherheit oder (c) der Weiterentwicklung der zugrundeliegenden Software erforderlich ist und für den Kunden zumutbar ist. Über die geplante Anpassung wird der Anbieter den Kunden mindestens 6 Wochen vor Wirksamwerden in Textform informieren. Verändert die Anpassung den vertragstypischen Leistungsumfang erheblich, kann der Kunde den Vertrag bis zum Wirksamwerden außerordentlich kündigen.
-
-## Aktuelle BGH-Linie zu Aenderungsvorbehalten
-
-### Norm
-- § 308 Nr. 4 BGB Aenderungsvorbehalt der versprochenen Leistung; nur wirksam, wenn die Aenderung dem Verwender unter Beruecksichtigung der Interessen des Vertragspartners zumutbar ist.
-- § 307 BGB als Auffangkontrolle.
-
-### Energiepreisanpassungs-Linie
-- BGH zur unwirksamen Preisanpassung in Energielieferungsvertraegen — staendige Rspr.; Leitlinien BGH VIII ZR 178/08, BGH VIII ZR 244/10, BGH VIII ZR 295/13 (Az im Digitalisat verifizieren).
-- Unwirksam: einseitige Preisanpassungen ohne nachvollziehbare Berechnungsformel; einseitige Anpassung ohne paralleles Loesungsrecht.
-- Wirksam: Anpassung gekoppelt an Indizes (etwa StatBA-Verbraucherpreisindex) mit transparenter Formel und Kuendigungsrecht.
-
-### Update-Klauseln neu (§ 327f BGB)
-- Seit 01.01.2022 in Kraft: § 327f BGB regelt die Aktualisierungspflicht fuer digitale Produkte. AGB-Klauseln, die diese Pflicht unterlaufen, sind unwirksam.
-- BGH-Folgejudikate sind im Aufbau; Pruefung Az live verifizieren.
-
-### Weitere relevante AGB-Klauseln § 308 BGB
-- Nr. 1: Annahmefrist und Leistungsfrist.
-- Nr. 1a: Zahlungsfrist.
-- Nr. 1b: Ueberpruefungs- und Aenderungsfrist.
-- Nr. 5: Fiktive Erklaerungen.
-- Nr. 7: Aufwandsentschaedigung.
-
-### Pruefraster
-1. Bezug zur Hauptleistung oder zur Modalitaet?
-2. Veraenderungsgrund konkret und beschraenkt definiert?
-3. Loesungsrecht oder Anpassungsrecht des Vertragspartners?
-4. Transparenzgebot § 307 Abs. 1 Satz 2 BGB?
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 4. `agb-arbeitnehmerueberlassung-aueg`
-
-**Fokus:** AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Liefert Pruefraster.
-
-
-# Agb Arbeitnehmerueberlassung Aueg
-
-## Fachkern: Agb Arbeitnehmerueberlassung Aueg
-
-- **Klauselproblem (Agb Arbeitnehmerueberlassung Aueg):** AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Liefert Pruefraster.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Norm
-
-- AUeG (Arbeitnehmerueberlassungsgesetz).
-- §§ 305-310 BGB anwendbar.
-- BAG- und BGH-Rechtsprechung zu Verleiher-Entleiher-Vertraegen.
-
-## Klassische Klauseln
-
-### Equal-Pay
-- § 8 AUeG: Equal-Pay-Grundsatz nach 9 Monaten.
-- Branchenzuschlaege als Ausnahme nach Tarifvertrag.
-- AGB-Klauseln, die Equal-Pay weiter ausschliessen, sind unwirksam.
-
-### Vertragsstrafe bei Abwerbung
-- Wettbewerbsschutz fuer Verleiher: AGB-Klausel mit Vertragsstrafe in Hoehe einer Vermittlungsprovision (3-6 Monatsgehaelter) wirksam, soweit angemessen.
-- BAG 9 AZR 162/12 (Az verifizieren).
-
-### Verleihverbot
-- § 1 Abs. 1b AUeG: Verleihhoechstdauer 18 Monate.
-- AGB-Klauseln muessen die Hoechstdauer beachten.
-
-### Sicherheitenklauseln
-- Stellung von Bankbuergschaften / Verleiher haftet als Gesamtschuldner.
-
-## Pruefraster
-
-1. Verleiher-Entleiher-Vertrag oder Arbeitsvertrag?
-2. AGB-Risiko bei Equal-Pay?
-3. Vertragsstrafe angemessen?
-4. Verleihhoechstdauer beruecksichtigt?
-5. Lizenz des Verleihers nach § 1 AUeG?
-
-## Output
-
-- Klauselraster.
-- Schriftsatzbaustein.

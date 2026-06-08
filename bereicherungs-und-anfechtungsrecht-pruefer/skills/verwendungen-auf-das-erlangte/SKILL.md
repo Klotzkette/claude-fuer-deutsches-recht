@@ -7,7 +7,7 @@ description: "Bei aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gege
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -82,7 +82,6 @@ Verwendungen mindern den Herausgabeanspruch nicht automatisch. Sie können Gegen
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

@@ -1,35 +1,21 @@
 ---
 name: simulation-training-verjaehrung-zustellung
-description: "Simulation Training Verjaehrung Zustellung im Plugin Verkehrsowi Verteidiger: prüft konkret Simulationstraining für OWi-Mandate, Verfolgungsverjährung im OWi-Verfahren prüfen, Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Simulation Training Verjaehrung Zustellung
+# Simulationstraining OWi-Mandate
 
 ## Arbeitsbereich
 
-**Simulation Training Verjaehrung Zustellung** ordnet den Fall über die tragenden Prüffelder: Simulationstraining für OWi-Mandate, Verfolgungsverjährung im OWi-Verfahren prüfen, Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `verkehrsowi-simulation-training` | Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten. |
-| `verkehrsowi-verjaehrung-zustellung` | Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid. |
-| `verkehrsowi-zeugen-polizei-strategie` | Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV), Erinnerungsfähigkeit Routine-OWi, Vorhalt frueherer Aussage, Sachverständiger Aussage-Glaubwürdigkeit. Output Fragenkatalog für Polizeizeugen-Vernehmung, Strategie-Memo. Abgrenzung: Fahreridentifizierung siehe verkehrsowi-fahreridentifizierung; HV-Gesamt siehe verkehrsowi-hauptverhandlung-amtsgericht. |
+Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verkehrs-OWi-Verteidigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `verkehrsowi-simulation-training`
-
-**Fokus:** Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten.
-
-# Simulationstraining OWi-Mandate
 
 ## Zweck
 
@@ -60,7 +46,7 @@ Lena Beispiel erhielt einen Bussgeldbescheid: qualifiziertes Rotlicht (> 1 Sekun
 **Aufgaben:**
 1. Beweislage analysieren: Wie wurde die Rotphasendauer von > 1 Sekunde festgestellt?
 2. Angriffspunkt: Polizeibeamten koennen Sekunden nicht exakt schaetzen
-3. Sachverstaendigenantrag formulieren fuer Rotphasendauer-Messung
+3. Sachverstaendigenantrag formulieren für Rotphasendauer-Messung
 4. Haertefall-Argumentation prufen (Lena ist Krankenpflegerin, benoetigt Auto)
 
 **Erwartungshorizont:**
@@ -96,7 +82,6 @@ Polizeibeamter sagt aus: "Ich sah das Fahrzeug mit 80 km/h und sicher mehr als e
 - Ergebnisse aus Simulation immer mit tatsaechlicher Rechtslage abgleichen.
 - Anwaltliche Endkontrolle vor Uebertragung auf echte Mandate.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -104,136 +89,3 @@ Polizeibeamter sagt aus: "Ich sah das Fahrzeug mit 80 km/h und sicher mehr als e
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `verkehrsowi-verjaehrung-zustellung`
-
-**Fokus:** Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid.
-
-# Verfolgungsverjaehrung und Zustellungsmaengel — § 31 OWiG
-
-## Triage zu Beginn
-
-1. **Wann war das angebliche Tatdatum?** — Verjaerunsfrist laeuft ab Tatende.
-2. **Frist bei § 24 StVG / § 26a StVG?** — § 26 Abs. 3 StVG: 3 Monate Verjaerunsfrist fuer einfache Verkehrs-OWi.
-3. **Unterbrechungshandlungen geprueft?** — § 33 OWiG: Anhoerung des Betroffenen, Bussgeldbescheid, Eingang Einspruch — unterbrechen Verjaehrung.
-4. **Absolute Verjaehrung?** — § 33 Abs. 3 OWiG: absolute Verjaehrung = doppelte ordentliche Frist (bei 3-Monats-Frist: 6 Monate).
-5. **Zustellungsfehler moeglich?** — Fehlerhafte Zustellung unterbricht die Verjaehrung nicht; Bescheid gilt als nicht zugestellt.
-
-## Zentrale Normen
-
-- **§ 31 OWiG** — Verfolgungsverjaehrung im OWi-Verfahren (allgemein); Grundfrist 3 Jahre fuer alle OWi
-- **§ 26 Abs. 3 StVG** — Verkehrs-OWi: 3 Monate Verjaerunsfrist ab Tatende (abgekuerzt gegenueber § 31 OWiG)
-- **§ 33 OWiG** — Unterbrechungshandlungen: Anhoerung, Bussgeldbescheid, Einspruch, Hauptverhandlungstermin
-- **§ 33 Abs. 3 OWiG** — Absolute Verjaehrung: Doppelte ordentliche Frist; faengt nach jeder Unterbrechung neu an, aber nie nach absoluter Frist
-- **§ 28 OWiG** — Bekanntgabe des Bussgeldbescheids; fehlerhafte Bekanntgabe = keine Unterbrechung
-- **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Verjaerungs-Pruefschema
-
-```
-1. Tatdatum: [DATUM]
-2. Verjaehrungsfrist:
- - Verkehrs-OWi § 26 Abs. 3 StVG: 3 Monate
- - Andere OWi § 31 OWiG: 3 Jahre
-3. Erste Verjaerungs-Deadline: Tatdatum + [Frist]
-4. Unterbrechungshandlungen nach § 33 OWiG:
- - Anhoerungsschreiben: Datum + Zustellungsnachweis?
- - Bussgeldbescheid: Datum + Zustellungsnachweis?
-5. Neue Verjaerungs-Deadline nach letzter Unterbrechung
-6. Absolute Verjaehrung: Doppelte Grundfrist ab Tatende
- - Bei 3 Monaten: 6 Monate ab Tatende
-7. Ist absolute Verjaehrung abgelaufen? → Einstellung zwingend!
-```
-
-## Zustellungsmaengel als Verteidigung
-
-```
-Zustellungsform pruefen:
-□ PZU (Postzustellungsurkunde): ordnungsgemaesse Haushaltszustellung?
-□ Einwurf-Einschreiben: Beweis des Einwurfs durch Einschreib-Beleg?
-□ Persoenliche Uebergabe: quittiert?
-□ Zustellung an falschen Empfaenger?
-
-Wenn Zustellungsmangel vorliegt:
-→ Unterbrechung nach § 33 OWiG ist NICHT eingetreten
-→ Verjaehrungsfrist lief ununterbrochen weiter
-→ Moegliche Verjaehrung pruefen und Einstellung beantragen
-```
-
-## Harte Leitplanken
-
-- Verjaehrungseinwand ist Prozesshindernis — von Amts wegen zu beachten, muss aber in der Regel gerueagt werden.
-- Absolute Verjaehrung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
-- Zustellungsmangel-Prufung ist Standardbestandteil jedes OWi-Mandats.
-- Anwaltliche Endkontrolle bei Verjaerungs-Berechnung.
-
-## 3. `verkehrsowi-zeugen-polizei-strategie`
-
-**Fokus:** Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV), Erinnerungsfähigkeit Routine-OWi, Vorhalt frueherer Aussage, Sachverständiger Aussage-Glaubwürdigkeit. Output Fragenkatalog für Polizeizeugen-Vernehmung, Strategie-Memo. Abgrenzung: Fahreridentifizierung siehe verkehrsowi-fahreridentifizierung; HV-Gesamt siehe verkehrsowi-hauptverhandlung-amtsgericht.
-
-# Polizeibeamten als Zeugen im OWi-Verfahren
-
-## Triage zu Beginn
-
-1. **Welche Beamten sind als Zeugen geladen?** — Messbeamter, Beobachtungsbeamter (bei Rotlicht/Handy), Anhaltebeamter.
-2. **Haben die Beamten ein Protokoll gefuehrt?** — Datum, Uhrzeit, Messort, Geraet, Bemerkungen.
-3. **Gibt es Inkonsistenzen zwischen Protokoll und zu erwartender HV-Aussage?** — Vermeintliche Erinnerung vs. Protokoll-Wiedergabe.
-4. **Sind mehrere Beamte taetig geworden?** — Arbeitsteilung: Messbeamter vs. Anhaltebeamter vs. Schreiber.
-5. **Lag Routine-Masse an OWi-Faellen vor?** — Massenhaftes Aufschreiben von OWi-Verfahren senkt individuelle Erinnerungsqualitaet.
-
-## Zentrale Normen
-
-- **§ 48 StPO i.V.m. § 46 OWiG** — Zeugenpflicht: Beamte sind auch als Zeugen verpflichtet
-- **§ 68a StPO i.V.m. § 71 OWiG** — Vorleben des Zeugen (Vorstrafen) darf erfragt werden
-- **§ 240 StPO i.V.m. § 71 OWiG** — Fragerecht aller Beteiligter
-- **§ 249 StPO i.V.m. § 71 OWiG** — Urkundsbeweis; Protokolle und Berichte verlesen
-- **§ 254 StPO i.V.m. § 71 OWiG** — Vorhalt: frueherer Wortlaut darf vorgehalten werden
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Fragestrategie Polizeibeamter-Zeuge
-
-### Einstiegsfragen (neutral)
-- "Wann und wo haben Sie den Messvorgang durchgefuehrt?"
-- "Koennen Sie sich an diesen konkreten Fall erinnern, oder lesen Sie aus dem Protokoll?"
-- "Wie viele Messungen haben Sie an diesem Tag durchgefuehrt?"
-
-### Vertiefungsfragen (Erinnerung pruefen)
-- "Beschreiben Sie bitte das Fahrzeug des Betroffenen ohne in Ihre Unterlagen zu schauen."
-- "Koennen Sie die Kleidung oder das Aussehen des Fahrers beschreiben?"
-- "War das Messfoto klar genug um den Fahrer eindeutig zu identifizieren?"
-
-### Technik-Fragen (Messverfahren)
-- "Haben Sie eine Einweisung in das Messgeraet [Modell] erhalten?"
-- "Koennen Sie mir den genauen Standort der Messanlage auf einer Karte zeigen?"
-- "Wurden vor und nach der Messung Kontrollmessungen durchgefuehrt?"
-
-### Vorhalt-Fragen (Inkonsistenz)
-- "In Ihrem Protokoll vom [DATUM] haben Sie [X] notiert. Jetzt sagen Sie [Y]. Wie erklaeren Sie das?"
-
-## Schritt-fuer-Schritt-Vorbereitung
-
-1. **Protokolle der Polizeibeamten vollstaendig aus der Akte entnehmen.**
-2. **Inkonsistenzen zwischen Protokoll und Stellungnahmen markieren.**
-3. **Frageliste erstellen** — offene Fragen zuerst, dann konkrete Vorhalt-Fragen.
-4. **In der HV:** Sachlich und respektvoll bleiben; Ziel ist Glaubwuerdigkeitserschuetterung, nicht Konfrontation.
-5. **Protokollnotiz:** Wichtige Antworten sofort in der HV notieren.
-
-## Harte Leitplanken
-
-- Keine Fragen stellen, deren Antwort unbekannt und schaedlich sein koennte.
-- Vorhalt nur mit konkreter Fundstelle in der Akte.
-- Polizeibeamten haben grundsaetzlich nicht mehr Glaubwuerdigkeit als andere Zeugen — aber das ist in der HV oft zu betonen.
-- Anwaltliche Endkontrolle bei Frageliste vor HV.

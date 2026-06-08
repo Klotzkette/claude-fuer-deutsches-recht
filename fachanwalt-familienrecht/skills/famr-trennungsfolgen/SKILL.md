@@ -7,12 +7,12 @@ description: "Famr Trennungsfolgen im Plugin Fachanwalt Familienrecht: prüft ko
 
 ## Arbeitsbereich
 
-**Famr Trennungsfolgen** ordnet den Fall über die tragenden Prüffelder: Fachanwalt Familienrecht — Allgemein im Familienrecht, Trennungsfolgen, Vermoegensauseinandersetzung im Scheidungsfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Famr Trennungsfolgen** ordnet den Fall über die tragenden Prüfungslinien: Fachanwalt Familienrecht — Allgemein im Familienrecht, Trennungsfolgen, Vermoegensauseinandersetzung im Scheidungsfall. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `allgemein` | Fachanwalt Familienrecht — Allgemein im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `allgemein` | Fachanwalt Familienrecht — Allgemein im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `famr-trennungsfolgen-workflow` | Trennungsfolgen: Unterhalt (Trennung, Kind), Hausrat, Wohnungszuweisung, Sorgerecht, Umgang, Versorgungsausgleich-Vorab. Pruefraster und Erstgespraechs-Checkliste mit Mandantenfragen. |
 | `famr-vermoegensauseinandersetzung-workflow` | Vermoegensauseinandersetzung im Scheidungsfall: Zugewinnausgleich Anfangs- und Endvermoegen, Auskunftsanspruch § 1379 BGB, Bewertungsstichtag, gemeinsame Konten und Immobilien. Pruefraster und Mustertexte. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-familienrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
@@ -20,16 +20,16 @@ description: "Famr Trennungsfolgen im Plugin Fachanwalt Familienrecht: prüft ko
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Familienrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
-**Fokus:** Fachanwalt Familienrecht — Allgemein im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Fachanwalt Familienrecht — Allgemein im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -40,8 +40,6 @@ description: "Famr Trennungsfolgen im Plugin Fachanwalt Familienrecht: prüft ko
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-
-
 # Fachanwalt Familienrecht — Allgemein
 
 ## Fachlicher Kern — Familienrecht
@@ -51,7 +49,6 @@ description: "Famr Trennungsfolgen im Plugin Fachanwalt Familienrecht: prüft ko
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Schnellstart-Workflow
 
@@ -203,12 +200,12 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `eu-auslandsrenten-und-scheidung` | EU-Auslandsrenten und Scheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Be... |
 | `excel-pruefmatrix-anrechte` | Excel-Prüfmatrix Anrechte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenv... |
 | `externe-teilung-14-versausglg` | Externe Teilung § 14 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Be... |
-| `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` | Prüffeld für fachanwalt familienrecht duesseldorfer tabelle unterhalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum u... |
+| `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` | Prüfungslinie für fachanwalt familienrecht duesseldorfer tabelle unterhalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum u... |
 | `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` | Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einst... |
 | `fachanwalt-familienrecht-mediation-156-famfg-cochemer` | Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation §... |
 | `fachanwalt-familienrecht-orientierung` | Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 2... |
-| `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` | Prüffeld für fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum... |
-| `fachanwalt-familienrecht-scheidungsantrag-stellen` | Prüffeld für fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Akte... |
+| `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` | Prüfungslinie für fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum... |
+| `fachanwalt-familienrecht-scheidungsantrag-stellen` | Prüfungslinie für fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Akte... |
 | `fachanwalt-familienrecht-unterhaltsberechnung` | Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trenn... |
 | `fachanwalt-familienrecht-versorgungsausgleich` | Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (exter... |
 | `fachanwalt-familienrecht-zugewinnausgleich-berechnen` | Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermögen inkl... |
@@ -217,7 +214,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `famr-mandantenaufnahme-spezial` | Mandantenaufnahme im Familienrecht: emotionale Lage, Eilbedarf (Gewaltschutz, Kindeswohlgefaehrdung, Wegnahme Kind), Vertraulichkeit Familienangehoerige, Verfahrenskostenhilfe. Strukturierte... |
 | `famr-regenbogenfamilien-recht-spezial` | Spezialfall Regenbogenfamilien: rechtliche Elternschaft nach BGH, Stiefkindadoption, Co-Mutter-Anerkennung, Reform des Abstammungsrechts (Entwurf 2024 ff.), Sorgerecht bei Trennung. Pruefras... |
 | `famr-trennungsfolgen-workflow` | Trennungsfolgen: Unterhalt (Trennung, Kind), Hausrat, Wohnungszuweisung, Sorgerecht, Umgang, Versorgungsausgleich-Vorab. Pruefraster und Erstgespraechs-Checkliste mit Mandantenfragen. |
-| `famr-trennungsjahr-praxis` | Trennungsjahr in der Praxis § 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall. Praxistipps fuer Beweissicherung, Schriftverkehr, Mandantenleitfaden.... |
+| `famr-trennungsjahr-praxis` | Trennungsjahr in der Praxis § 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall. Praxistipps für Beweissicherung, Schriftverkehr, Mandantenleitfaden.... |
 | `famr-vermoegensauseinandersetzung-workflow` | Vermoegensauseinandersetzung im Scheidungsfall: Zugewinnausgleich Anfangs- und Endvermoegen, Auskunftsanspruch § 1379 BGB, Bewertungsstichtag, gemeinsame Konten und Immobilien. Prue... |
 | `famr-versorgungsausgleich-spezial` | Spezialfall Versorgungsausgleich: VersAusglG, Anrechte Berechnung pro Versorgungstraeger, externe Teilung, interne Teilung, Anpassung wegen Unterhaltszahlung. Pruefraster und Beispielsfall.... |
 | `fehlerhafte-auskunft-versorgungstraeger` | Fehlerhafte Auskunft Versorgungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB... |
@@ -237,7 +234,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `nachtraegliche-auskunft-und-vollstreckung` | Nachträgliche Auskunft und Vollstreckung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, S... |
 | `nicht-ausgleichsreife-anrechte-19-versausglg` | Nicht ausgleichsreife Anrechte § 19 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwe... |
 | `notarielle-scheidungsfolgenvereinbarung-va` | Notarielle Scheidungsfolgenvereinbarung VA: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde,... |
-| `oeffentlicher-dienst-zusatzversorgung-vbl` | Öffentlicher Dienst Zusatzversorgung VBL: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, S... |
+| `öffentlicher-dienst-zusatzversorgung-vbl` | Öffentlicher Dienst Zusatzversorgung VBL: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, S... |
 | `pensionszusage-bewertung-insolvenzrisiko` | Pensionszusage Bewertung Insolvenzrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, S... |
 | `private-rentenversicherung-kapitalwahlrecht` | Private Rentenversicherung Kapitalwahlrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde... |
 | `red-team-va-beschluss-rechnerisch` | Red-Team VA-Beschluss rechnerisch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI,... |
@@ -261,7 +258,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `spezial-literatur-schriftsatz-brief-und-memo-bausteine` | Literatur: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
 | `spezial-mandate-risikoampel-und-gegenargumente` | Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
 | `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
+| `spezial-orientierung-fristen-form-und-zuständigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
 | `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
 | `spezial-sorge-compliance-dokumentation-und-akte` | Sorge: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
 | `spezial-umgang-mehrparteien-konflikt-und-interessen` | Umgang: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
@@ -302,22 +299,17 @@ Weitere Skills: insgesamt 108 Anschluss-Skills in diesem Plugin.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: FamR: Trennungsfolgen
-- **Spezialgegenstand:** FamR: Trennungsfolgen / famr trennungsfolgen workflow. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -345,7 +337,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -364,22 +356,17 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: FamR: Vermoegensauseinandersetzung
-- **Spezialgegenstand:** FamR: Vermoegensauseinandersetzung / famr vermoegensauseinandersetzung workflow. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -407,7 +394,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -425,7 +412,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aufgabe
 Dieses Modul bearbeitet: Anschluss-Skills Router im Plugin fachanwalt-familienrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor..
@@ -469,7 +455,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-familienrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..

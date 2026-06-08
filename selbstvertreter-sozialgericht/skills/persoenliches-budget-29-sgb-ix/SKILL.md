@@ -13,7 +13,7 @@ description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Vorausset
 
 ## Anspruch
 
-§ 29 SGB IX: Leistungen zur Teilhabe koennen auf Antrag als persoenliches Budget ausgefuehrt werden.
+§ 29 SGB IX: Leistungen zur Teilhabe koennen auf Antrag als persönliches Budget ausgefuehrt werden.
 
 ## Vorteile
 
@@ -43,7 +43,7 @@ description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Vorausset
 
 ## Anwendungsfaelle
 
-- Persoenliche Assistenz fuer Schwerbehinderte.
+- Persoenliche Assistenz für Schwerbehinderte.
 - Familienunterstuetzende Dienste.
 - Mobilitaet (Fahrtkosten).
 

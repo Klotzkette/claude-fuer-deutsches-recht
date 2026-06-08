@@ -6,15 +6,12 @@ description: "Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklag
 # Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife
 
 ## Fachkern: Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife
-- **Spezialgegenstand:** Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Onlinebetrug, Plattformdaten, Zahlungsfluss, Geschädigtenliste und Anklage-/Strafbefehlstauglichkeit
 
@@ -40,6 +37,21 @@ Dieser Abschnitt bearbeitet **Fachkern: Betrug im Onlinehandel: Beweis, Schaden,
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 263 StGB (Betrug)
+- § 263 Abs. 3 StGB (besonders schwere Fälle)
+- BGHSt 51, 165 (Saldierungsprinzip)
+- BVerfGE 126, 170 (bezifferbarer Schaden)
+- § 100a StPO (TKÜ)
+- § 100b StPO (Online-Durchsuchung)
+- § 100g StPO (Verkehrsdaten)
+- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- §§ 202a, 202c StGB
+- BVerfGE 125, 260; BVerfGE 154, 152
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

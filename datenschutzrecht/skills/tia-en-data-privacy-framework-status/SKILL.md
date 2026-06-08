@@ -119,7 +119,6 @@ Fallback clause: [reference]
 - Schrems III proceedings (NOYB) at the General Court of the EU – check current case status.
 - DPF list: dataprivacyframework.gov.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

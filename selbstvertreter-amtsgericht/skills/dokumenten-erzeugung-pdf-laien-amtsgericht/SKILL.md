@@ -3,7 +3,7 @@ name: dokumenten-erzeugung-pdf-laien-amtsgericht
 description: "PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools."
 ---
 
-# PDF-Erzeugung fuer Ihre Klage — von Word bis Scanner-App
+# PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App
 
 ## Worum geht es?
 
@@ -19,19 +19,19 @@ Das Gericht erwartet heute fast immer **PDF-Dateien**. Diese Skill zeigt Ihnen, 
 ## Fachbegriffe (kurz erklaert)
 
 - **PDF**: Portable Document Format. Ein Format, das auf jedem Geraet gleich aussieht.
-- **PDF/A**: Eine spezielle Version von PDF fuer die Archivierung. Das Gericht akzeptiert diese Variante besonders gerne.
+- **PDF/A**: Eine spezielle Version von PDF für die Archivierung. Das Gericht akzeptiert diese Variante besonders gerne.
 - **OCR**: Texterkennung — wandelt ein Bild-PDF in ein durchsuchbares Text-PDF um.
 
-## Schritt-fuer-Schritt — PDF aus Word/LibreOffice
+## Schritt-für-Schritt — PDF aus Word/LibreOffice
 
 ### Schritt 1 — Klageschrift fertig schreiben
 
-Schriftart Times New Roman oder Arial, 12pt, Zeilenabstand 1,5. Siehe `anlagen-formatieren-k1-k2-pdf-amtsgericht` fuer Details.
+Schriftart Times New Roman oder Arial, 12pt, Zeilenabstand 1,5. Siehe `anlagen-formatieren-k1-k2-pdf-amtsgericht` für Details.
 
 ### Schritt 2 — Als PDF exportieren
 
 **In Word:**
-- Datei → Exportieren → PDF/XPS-Dokument erstellen → "Veroeffentlichen".
+- Datei → Exportieren → PDF/XPS-Dokument erstellen → "Veröffentlichen".
 - Dateityp: **PDF/A** (wenn moeglich).
 
 **In LibreOffice:**
@@ -48,7 +48,7 @@ Oeffnen Sie das fertige PDF und scrollen Sie es durch. Pruefen Sie:
 
 Wenn ja, ist das PDF einreichbar.
 
-## Schritt-fuer-Schritt — Papier scannen
+## Schritt-für-Schritt — Papier scannen
 
 ### Schritt 1 — Scanner waehlen
 
@@ -117,7 +117,7 @@ Geben Sie Ihren PDFs aussagekraeftige Namen:
 2025-05-27_Anlage_K2_Rechnung.pdf
 ```
 
-Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hilft Ihnen selbst, das Richtige zu finden.
+Das Datum am Anfang sorgt für chronologische Sortierung. Der Inhalt im Namen hilft Ihnen selbst, das Richtige zu finden.
 
 **Vermeiden Sie:**
 - Leerzeichen ("Anlage K1.pdf" - geht, aber unterstrich ist besser)
@@ -126,7 +126,7 @@ Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hi
 
 ## Worauf Sie besonders achten muessen
 
-- **PDF/A bevorzugen** fuer Klageschrift und eigene Schriftsaetze (Archiv-Format).
+- **PDF/A bevorzugen** für Klageschrift und eigene Schriftsaetze (Archiv-Format).
 - **Lesbarkeit pruefen** vor dem Absenden.
 - **Datenschutz** bei Online-Tools: lokale Programme nutzen, wenn sensible Daten dabei sind.
 - **Dateigroesse**: Wenn ueber 60 MB → komprimieren.
@@ -149,7 +149,6 @@ Das Datum am Anfang sorgt fuer chronologische Sortierung. Der Inhalt im Namen hi
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vom Gericht bevorzugte Format. Praxis-Hinweise zu Tools sind unverbindliche Empfehlungen.
-
 
 ## Qualitäts-Hardening
 

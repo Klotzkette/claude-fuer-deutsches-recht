@@ -7,10 +7,10 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 
 ## Arbeitsbereich
 
-**Zeugenbeweis FF Zulassungsgrenzen Check** ordnet den Fall über die tragenden Prüffelder: Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zeugenbeweis FF Zulassungsgrenzen Check** ordnet den Fall über die tragenden Prüfungslinien: Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zeugenbeweis-373-ff-zpo` | Zeugenbeweis nach §§ 373 ff. ZPO. Ladungsfähige Anschrift Beweisthema Zeugnis-Verweigerungsrechte Vereidigung. Wie Sie Zeugen benennen und im Verfahren einbringen. Was bei nahen Angehoerigen und Aussage-Wert zu beachten ist. |
 | `zulassungsgrenzen-check-amtsgericht` | Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter vor dem Amtsgericht: § 23 GVG 10.000 EUR, Sonderzuständigkeiten, § 495a ZPO 1.000 EUR, § 511 ZPO Berufungsbeschwer 1.000 EUR, Übergangsfälle, Anwaltszwang und rote Flaggen. |
@@ -18,12 +18,12 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zeugenbeweis-373-ff-zpo`
 
@@ -53,11 +53,11 @@ Der Zeugenbeweis ist neben der Urkunde das wichtigste Beweismittel im Zivilproze
 - **§ 373 ZPO** — Beweisantrag durch Bezeichnung des Zeugen und Beweisthema.
 - **§ 380 ZPO** — Folgen Nichterscheinen.
 - **§ 383 ZPO** — Zeugnisverweigerungsrechte (Verwandte, Beichtgeheimnis etc.).
-- **§ 384 ZPO** — Zeugnisverweigerungsrecht aus persoenlichen Gruenden.
+- **§ 384 ZPO** — Zeugnisverweigerungsrecht aus persönlichen Gruenden.
 - **§ 391 ZPO** — Eid.
 - **§ 397 ZPO** — Fragerecht der Parteien.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Zeuge geeignet
 
@@ -82,7 +82,7 @@ Im Beweisantrag konkret:
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
  Musterstrasse 1, 12345 Musterstadt,
- zum Beweis dafuer, dass der Beklagte
+ zum Beweis dafür, dass der Beklagte
  am 12.3.2025 zwischen 10 und 11 Uhr
  die Lieferung an der Adresse des
  Klaegers entgegen genommen und
@@ -109,7 +109,7 @@ Das Gericht laedt den Zeugen. Er muss erscheinen (§ 380 ZPO), sonst Ordnungsmit
 Im Termin:
 
 - Belehrung durch das Gericht ueber Wahrheits-Pflicht.
-- Anhoerung zur Person.
+- Anhörung zur Person.
 - Vernehmung zum Beweisthema.
 - Fragen der Parteien (§ 397 ZPO).
 
@@ -123,7 +123,7 @@ Sie duerfen mit dem Zeugen sprechen — aber nicht "trainieren". Erlaubte Vorber
 Verboten:
 
 - Aussage diktieren.
-- Geld fuer guenstige Aussage.
+- Geld für guenstige Aussage.
 
 Verbotenes Vorgehen kann Strafverfolgung ausloesen (Anstiftung zur Falschaussage).
 
@@ -167,7 +167,6 @@ Zeuge bekommt Entschaedigung nach JVEG. Sie als beweispflichtige Partei zahlen g
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 373 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -261,7 +260,7 @@ Nach Urteil:
 [Klare Handlungsempfehlung: AG, LG/Anwalt, Rechtsantragsstelle, PKH, Streitwert nacharbeiten.]
 
 **Nächste Skills**
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg`
+- `sachliche-zuständigkeit-amtsgericht-23-gvg`
 - `anwaltszwang-pruefen-78-zpo`
 - `klage-streitwert-angabe-3-zpo`
 - `berufung-amtsgericht-511-zpo`
@@ -271,7 +270,6 @@ Nach Urteil:
 - Werte immer mit "mehr als", "bis einschließlich" und konkretem Betrag formulieren.
 - Bei knappem Streitwert nicht kreativ kleinrechnen. Teilklage nur mit deutlichem Hinweis auf Risiken.
 - Bei Berufung nie verschweigen, dass vor dem Landgericht Anwaltszwang besteht.
-
 
 ## Qualitäts-Hardening
 
@@ -289,7 +287,7 @@ Nach Urteil:
 
 ## Worum geht es?
 
-Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben das Schreiben einem Boten, Verwandten oder Bekannten — der bringt es zum Gericht. Wenn er den Termin verpasst oder das Schreiben verloren geht, sind **Sie** das Problem los — meinen Sie. Falsch. Nach Linie des BVerfG (Selbstverantwortung) und BGH (Wiedereinsetzung) tragen Sie das Risiko fuer die Auswahl und Ueberwachung der eingeschalteten Person. Diese Skill warnt vor den haeufigsten Fallen.
+Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben das Schreiben einem Boten, Verwandten oder Bekannten — der bringt es zum Gericht. Wenn er den Termin verpasst oder das Schreiben verloren geht, sind **Sie** das Problem los — meinen Sie. Falsch. Nach Linie des BVerfG (Selbstverantwortung) und BGH (Wiedereinsetzung) tragen Sie das Risiko für die Auswahl und Ueberwachung der eingeschalteten Person. Diese Skill warnt vor den haeufigsten Fallen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -300,15 +298,15 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
 ## Fachbegriffe (kurz erklaert)
 
 - **Wiedereinsetzung in den vorigen Stand**: Recht, eine versaeumte Frist nachzuholen, wenn man unverschuldet die Frist versaeumt hat (§ 233 ZPO).
-- **Bote**: Person, die fuer Sie etwas physisch transportiert.
-- **Selbstverantwortung**: Verfassungsrechtliches Prinzip — Sie tragen die Verantwortung fuer Ihre eigenen Sachen, auch wenn Sie Hilfsmittel einsetzen.
+- **Bote**: Person, die für Sie etwas physisch transportiert.
+- **Selbstverantwortung**: Verfassungsrechtliches Prinzip — Sie tragen die Verantwortung für Ihre eigenen Sachen, auch wenn Sie Hilfsmittel einsetzen.
 
 ## Rechtsgrundlagen
 
 - **§ 233 ZPO** — Wiedereinsetzung in den vorigen Stand: nur bei "ohne Verschulden" versaeumter Frist.
-- **§ 234 ZPO** — Frist fuer Wiedereinsetzungs-Antrag (2 Wochen).
+- **§ 234 ZPO** — Frist für Wiedereinsetzungs-Antrag (2 Wochen).
 - **§ 236 ZPO** — Form des Antrags.
-- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko fuer Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren.
+- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko für Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren.
 - **BGH-Linie zur Wiedereinsetzung bei Bote/Drittversand** — Aktuelles Aktenzeichen mit konkretem Sachverhalt in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren, bevor Sie sich darauf berufen.
 
 <!-- AUDIT 27.05.2026 | welle 4 | selbstvertreter-amtsgericht
@@ -317,11 +315,11 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
  - BGH VI ZR 67/15: WRONG_TOPIC (echtes Thema Arzthaftung/Behandlungsfehler, NJW 2016, 713;
  der Skill behauptete NJW 2016, 1305 und Bote/Drittversand) -> AZ und Fundstelle entfernt -->
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wer ist Bote?
 
-Bote ist, wer eine Sache fuer Sie nur **transportiert** ohne eigene Erklaerung. Beispiele:
+Bote ist, wer eine Sache für Sie nur **transportiert** ohne eigene Erklaerung. Beispiele:
 
 - Sie geben Brief mit Auftrag, ihn zum Briefkasten zu werfen.
 - Sie schicken Verwandten zum Gericht.

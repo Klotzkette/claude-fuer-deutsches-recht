@@ -1,35 +1,21 @@
 ---
 name: wasser-bodenschutz-uwr-altlasten-bimschg
-description: "Wasser Bodenschutz UWR Altlasten Bimschg im Plugin Umweltrecht: prüft konkret Unternehmen beantragt WHG-Erlaubnis oder hat, Spezialfall Altlastenpruefung, Bauleiter BImSchG-Genehmigung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Wasser Bodenschutz UWR Altlasten Bimschg
+# Wasser- und Bodenschutzrecht
 
 ## Arbeitsbereich
 
-**Wasser Bodenschutz UWR Altlasten Bimschg** ordnet den Fall über die tragenden Prüffelder: Unternehmen beantragt WHG-Erlaubnis oder hat, Spezialfall Altlastenpruefung, Bauleiter BImSchG-Genehmigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `umweltrecht-wasser-bodenschutz` | Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A). |
-| `uwr-altlasten-pruefung-spezial` | Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte fuer Bescheid-Anfechtung. |
-| `uwr-bimschg-genehmigung-bauleiter` | Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender. |
+Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Umweltrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BImSchG § 10 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist 1 Monat, BBodSchG Sanierungsuntersuchung 1 Jahr, Störfall-Anzeige unverzüglich.
 - Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `umweltrecht-wasser-bodenschutz`
-
-**Fokus:** Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A).
-
-# Wasser- und Bodenschutzrecht
 
 ## Triage — klaere zuerst
 
@@ -39,11 +25,11 @@ description: "Wasser Bodenschutz UWR Altlasten Bimschg im Plugin Umweltrecht: pr
 4. Ist ein Sanierungsplan nach §§ 13, 14 BBodSchG erforderlich?
 5. Bestehen Erstattungsansprueche gegen Mitverantwortliche (§ 24 BBodSchG)?
 6. Besteht Freistellungs- oder Haftungsregelung im Kaufvertrag?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
-- **§ 8 WHG** — Grundsatz Erlaubnispflicht fuer Gewaesserbenutzung
+- **§ 8 WHG** — Grundsatz Erlaubnispflicht für Gewaesserbenutzung
 - **§ 9 WHG** — Benutzungen (Entnahme, Einleitung, Aufstau)
 - **§ 10 WHG** — Erlaubnis (gebundene Entscheidung vs. Bewilligung)
 - **§ 12 WHG** — Versagungsgrundsaetze (schaedliche Gewaesserveraenderung)
@@ -62,8 +48,7 @@ description: "Wasser Bodenschutz UWR Altlasten Bimschg im Plugin Umweltrecht: pr
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
-
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -111,7 +96,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template: Stellungnahme gegen Sanierungsanordnung
 
 **Adressat:** Bodenbehoerde — Tonfall: sachlich-juristisch
@@ -133,7 +117,7 @@ Die angeordneten Sanierungskosten betragen ca. [BETRAG] EUR.
 Der Verkehrswert des Grundstuecks betraegt [BETRAG] EUR (Gutachten Anlage).
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wenn Sanierungskosten den Grundstueckswert wesentlich uebersteigen und
-kein ueberragend schutzwuerdiges oeffentliches Interesse besteht.
+kein ueberragend schutzwuerdiges öffentliches Interesse besteht.
 
 III. Verursacher-Vorrang
 Eigentlicher Verursacher ist [FIRMA/PERSON] (Nachweise Anlage).
@@ -153,11 +137,10 @@ Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Fristen-Ueberblick
 
@@ -173,7 +156,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Art. 4 Abs. 1 WRRL: Mitgliedstaaten muessen Verschlechterung des Zustands von Wasserkörpern verhindern.
 - BGH-Linie: OWG-Einleit-Erlaubnis muss WRRL-Konformitaet beachten; keine blosse formale Genehmigung.
-- Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen fuer Industrie.
+- Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen für Industrie.
 
 ## Anschluss-Skills
 
@@ -181,108 +164,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-verfahren` — Klage gegen Sanierungsanordnung
 - `umweltrecht-immissionsschutz-bimschg` — Betriebsgenehmigung mit Wasserrechtsbezug
 - `umweltrecht-bussgeld-sanktionen` — Verstoss Wasserrecht
-
-## 2. `uwr-altlasten-pruefung-spezial`
-
-**Fokus:** Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte fuer Bescheid-Anfechtung.
-
-# Umwelt: Altlastenpruefung
-
-## Spezialwissen: Umwelt: Altlastenpruefung
-- **Spezialgegenstand:** Umwelt: Altlastenpruefung / uwr altlasten pruefung spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BBodSchG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 3. `uwr-bimschg-genehmigung-bauleiter`
-
-**Fokus:** Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender.
-
-# UwR: BImSchG-Genehmigung
-
-## Spezialwissen: UwR: BImSchG-Genehmigung
-- **Spezialgegenstand:** UwR: BImSchG-Genehmigung / uwr bimschg genehmigung bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BImSchG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

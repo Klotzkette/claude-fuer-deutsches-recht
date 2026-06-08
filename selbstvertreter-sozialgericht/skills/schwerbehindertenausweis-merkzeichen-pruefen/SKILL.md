@@ -43,7 +43,7 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 - Landesblindengeld und steuerliche Pauschbeträge getrennt vom Ausweisverfahren prüfen.
 
 ### Gl — gehoerlos
-- Gehoerlosengeld in einigen Laendern.
+- Gehoerlosengeld in einigen Ländern.
 
 ### RF — Rundfunkbeitragsbefreiung
 - Regelmäßig Rundfunkbeitragsermäßigung; echte Befreiung nur bei eigener sozial-/rundfunkrechtlicher Grundlage. Nicht automatisch versprechen.

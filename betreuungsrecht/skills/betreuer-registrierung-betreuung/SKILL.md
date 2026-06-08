@@ -1,35 +1,21 @@
 ---
 name: betreuer-registrierung-betreuung
-description: "Betreuer Registrierung Betreuung im Plugin Betreuungsrecht: prüft konkret Prüffeld für betreuer als erbe, Erklärt die Abgrenzung beruflicher / ehrenamtlicher, Anwaltskosten im Betreuungsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüfungslinie für betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Betreuer Registrierung Betreuung
+# Betreuer als Erbe und Beschenkter
 
 ## Arbeitsbereich
 
-**Betreuer Registrierung Betreuung** ordnet den Fall über die tragenden Prüffelder: Prüffeld für betreuer als erbe, Erklärt die Abgrenzung beruflicher / ehrenamtlicher, Anwaltskosten im Betreuungsverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `betreuer-als-erbe` | Prüffeld für betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen und Sozialarbeiter), Berufshaftpflicht 250000 EUR pro Fall und 1000000 EUR jaehrlich, Eignungsgespraech bei der Stammbehoerde, Vergueturung nach VBVG, Bestandsbetreuer-Übergangsregelung Paragraph 32 BtOG, Subsidiaritaetsprinzip Paragraph 1816 Abs. 5 BGB. Verwenden bei Fragen wie 'Wie werde ich Berufsbetreuer', 'Sachkunde Betreuer', 'Anerkennung als Volljurist', 'Vergueturung Betreuer', 'Berufshaftpflicht Betreuer', 'Subsidiaritaet ehrenamtlich beruflich'. |
-| `betreuung-anwaltskosten-rvg` | Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten. |
+Prüfungslinie für betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Betreuungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `betreuer-als-erbe`
-
-**Fokus:** Prüffeld für betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
-# Betreuer als Erbe und Beschenkter
 
 ## Wann diesen Skill aufrufen
 
@@ -186,228 +172,24 @@ Die Faustformel "Berufsbetreuer darf nicht erben" ist daher zu pauschal und in d
 
 Pinpoint-Zitierung mit Randnummer und juengere Entscheidungen zuerst.
 
-## 2. `betreuer-registrierung`
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 278 FamFG
+- § 5 BtOG
+- § 274 FamFG
+- § 280 FamFG
+- § 30 BtOG
+- § 23 BtOG
+- § 8 BtOG
+- § 293 FamFG
+- § 292 FamFG
+- § 299 FamFG
+- § 312 FamFG
+- § 319 FamFG
+
+### Leitentscheidungen
+
+- BGH XII ZB 174/18
 
-**Fokus:** Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen und Sozialarbeiter), Berufshaftpflicht 250000 EUR pro Fall und 1000000 EUR jaehrlich, Eignungsgespraech bei der Stammbehoerde, Vergueturung nach VBVG, Bestandsbetreuer-Übergangsregelung Paragraph 32 BtOG, Subsidiaritaetsprinzip Paragraph 1816 Abs. 5 BGB. Verwenden bei Fragen wie 'Wie werde ich Berufsbetreuer', 'Sachkunde Betreuer', 'Anerkennung als Volljurist', 'Vergueturung Betreuer', 'Berufshaftpflicht Betreuer', 'Subsidiaritaet ehrenamtlich beruflich'.
-
-# Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung
-
-## Wann diesen Skill aufrufen
-
-Wenn der Nutzer wissen will, **wer** überhaupt Betreuer werden darf, **wie** sich beruflicher und ehrenamtlicher Betreuer unterscheiden, oder **wie** die Registrierung als beruflicher Betreuer nach §§ 23 ff. BtOG abläuft. Auch wenn die Frage nur scheinbar berufsrechtlich klingt (Vergueturung, Haftpflicht), aber im Kern auf den Status als Berufsbetreuer abzielt.
-
-## Triage — kläre vor Beratung zur Registrierung
-1. Ist die Person bereits als Berufsbetreuer registriert (Bestandsbetreuer § 32 BtOG) oder Erstregistrierung?
-2. Liegt ein Volljurist-Abschluss vor? Dann kürzte Sachkunde-Route (§ 23 Abs. 3 BtOG i.V.m. BtRegV).
-3. Wird Berufshaftpflicht 250.000 / 1.000.000 EUR nachgewiesen?
-4. Ehrenamtlich oder beruflich? § 30 BtOG (Zuwendungsverbot) gilt nur für Berufsbetreuer.
-5. Subsidiarität: Besteht Vorrang einer ehrenamtlichen Lösung (§ 1816 Abs. 5 BGB)?
-
-## Aktuelle Rechtsprechung (Stand 05/2026, Live-Verifikation vor Verwendung)
-
-- BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des § 1816 BGB. Der Wunsch der/des Betroffenen, durch eine nahe Angehörige (hier: Mutter) betreut zu werden, hat Vorrang vor der Bestellung eines Berufsbetreuers. Wenn Zweifel an der Eignung der gewünschten Person bestehen, muss das Gericht von Amts wegen ermitteln (§ 26 FamFG) und die Wunschperson persönlich anhören. Quelle: bundesgerichtshof.de / dejure.org.
-- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## I. Der "rechtliche Betreuer" als Oberbegriff
-
-Der Gesetzgeber spricht systematisch vom **rechtlichen Betreuer** im Sinne des § 1814 Abs. 1 BGB n.F. — er handelt für volljährige Personen, die ihre Angelegenheiten wegen Krankheit oder Behinderung ganz oder teilweise rechtlich nicht selbst besorgen können.
-
-Drei Erscheinungsformen:
-
-1. **Ehrenamtliche Betreuer mit familiaerer Bindung** (§ 21 BtOG) — meist Angehörige.
-2. **Ehrenamtliche Betreuer ohne familiaere Bindung** (§ 22 BtOG) — verpflichtet zum Abschluss einer Vereinbarung mit einem anerkannten Betreuungsverein (§ 15 BtOG).
-3. **Berufliche Betreuer** (§§ 19 Abs. 2, 23 ff. BtOG) — Personen, die Betreuungen entgeltlich und berufsmaessig führen.
-
-## II. Ehrenamtlicher (privater) Betreuer
-
-Eine Privatperson, die die Betreuung **unentgeltlich** im Sinne des § 1878 BGB n.F. führt. Sie erhält nur eine **pauschale Aufwandsentschädigung** nach § 1878 BGB i.V.m. § 22 JVEG (derzeit 425 EUR pro Jahr).
-
-Rekrutierung typischerweise aus dem familiaeren oder freundschaftlichen Umfeld; nach § 22 BtOG aber auch fremde Personen möglich, sofern Vereinbarung mit einem Betreuungsverein besteht.
-
-**Keine Sachkundeprüfung** — die persönliche Eignung prüfen die Betreuungsgerichte im Einzelfall.
-
-Wichtig für die Praxis: § 30 BtOG (Annahmeverbot von Zuwendungen) gilt **nicht** für ehrenamtliche Betreuer. Angehörige dürfen testamentarisch bedacht werden, ohne berufsrechtliche Bedenken.
-
-## III. Beruflicher Betreuer
-
-Legaldefinition § 19 Abs. 2 BtOG: derjenige, der Betreuungen **berufsmaessig** führt.
-
-Förmliche Feststellung der Berufsmaessigkeit durch das Gericht nach § 1 Abs. 2 VBVG; vermutet bei:
-
-- mindestens elf Betreuungen oder
-- Tätigkeit mit mehr als 20 Wochenstunden.
-
-Erscheinungsformen:
-
-- Freiberuflich (über 80 Prozent der Fälle).
-- **Vereinsbetreuer** (§ 14 BtOG, angestellt bei einem anerkannten Betreuungsverein).
-- **Behördenbetreuer** (§ 5 BtOG) — nachrangig.
-
-Vergueturung nach **VBVG** (Vormuender- und Betreuervergueturungsgesetz) in Form monatlicher Fallpauschalen. Staffelung nach drei Faktoren:
-
-- Qualifikation (Vergütungstabelle A, B oder C),
-- Wohnsitz des Betreuten (stationär oder ambulant),
-- Vermögensstatus (mittellos oder vermögend).
-
-Für volljuristisch qualifizierte Betreuer (Tabelle C): monatliche Pauschalen zwischen ungefähr 200 EUR und 320 EUR pro Fall. Hauptberuflich tragfähig bei rund 40 Fällen.
-
-## IV. Subsidiaritaet — Vorrang des Ehrenamts
-
-Zentrale Wertentscheidung des Reformgesetzgebers: **§ 1816 Abs. 5 BGB n.F.** Das Gericht darf einen beruflichen Betreuer nur bestellen, wenn keine geeignete ehrenamtliche Person zur Verfügung steht.
-
-Ausdruck des verfassungsrechtlichen Selbstbestimmungs- und Verhältnismäßigkeitsgrundsatzes (Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG).
-
-## V. Übersicht der Unterschiede
-
-| Merkmal | Beruflicher Betreuer | Ehrenamtlicher Betreuer |
-|---|---|---|
-| Rechtsgrundlage | §§ 19 Abs. 2, 23 ff. BtOG | §§ 21, 22 BtOG |
-| Registrierung | Pflicht (§ 23 BtOG) | Nicht erforderlich |
-| Sachkundenachweis | 270 Stunden Sachkundelehrgang oder Anerkennung (§ 23 Abs. 3 BtOG) | Nicht erforderlich |
-| Vergueturung | Fallpauschalen nach VBVG | Aufwandspauschale § 1878 BGB |
-| Bestellung | Vorschlag der Stammbehörde; Subsidiaritaet beachten | Vorrang vor Beruf nach § 1816 Abs. 5 BGB |
-| Berufshaftpflicht | Pflicht: 250.000 EUR pro Fall und 1.000.000 EUR jaehrlich | Nicht erforderlich |
-| § 30 BtOG (Zuwendungsverbot) | Erfasst | Nicht erfasst |
-| Anzahl Betreuungen typisch | Vollzeit etwa 40 Fälle | Meist 1, selten mehrere |
-
-## VI. Weg in die Berufsbetreuung — Registrierung nach §§ 23 ff. BtOG
-
-### 1. Antrag bei der Stammbehörde
-
-Antrag bei der **oertlich zuständigen Betreuungsbehörde** ("Stammbehörde", § 23 Abs. 1 S. 1 BtOG): diejenige Behörde, in deren Bezirk der Sitz beziehungsweise hilfsweise der Wohnsitz des Betreuers liegt.
-
-Einzelheiten: **Betreuerregistrierungsverordnung (BtRegV)** vom 26.10.2022 (BGBl. I S. 1934).
-
-Erst die Registrierung eroeffnet die Bestellung durch das Betreuungsgericht und begründet einen Vergütungsanspruch.
-
-### 2. Materielle Voraussetzungen (§ 23 Abs. 1 BtOG)
-
-Kumulativ:
-
-a) **Persönliche Eignung und Zuverlaessigkeit** (Nr. 1), nachgewiesen durch:
-
-- erweitertes Führungszeugnis (§ 30a BZRG),
-- Auskunft aus dem Schuldnerverzeichnis (§ 882b ZPO),
-- gegebenenfalls Bescheinigung in Steuersachen.
-
-b) **Ausreichende Sachkunde** (Nr. 2 i.V.m. Abs. 3) in den Bereichen:
-
-- Betreuungs- und Unterbringungsrecht,
-- dazugehoeriges Verfahrensrecht,
-- Personen- und Vermögenssorge,
-- sozialrechtliches Unterstützungssystem,
-- Kommunikation mit erkrankten oder behinderten Personen.
-
-c) **Berufshaftpflichtversicherung** für Vermögensschäden:
-
-- Mindestversicherungssumme **250.000 EUR pro Versicherungsfall**,
-- **1.000.000 EUR jaehrlich** insgesamt.
-
-### 3. Sachkundenachweis (§ 23 Abs. 3 BtOG i.V.m. §§ 7 ff. BtRegV)
-
-Der **Sachkundelehrgang** umfasst nach BtRegV in der Regel **270 Zeitstunden** modular aufgebauten Unterrichts.
-
-Anerkennung ganz oder teilweise möglich bei:
-
-- **Volljuristen** (Rechtswissenschaft mit Erstem und Zweitem Staatsexamen) — weitreichende Anerkennung; regelmäßig nur ergänzende Module zu Kommunikation und sozialrechtlichem Unterstützungssystem nachzuweisen.
-- **Sozialarbeiter und Sozialpaedagogen** (Bachelor oder Diplom) — weitgehende Anerkennung.
-- **Sonstige einschlägige Abschlüsse** (Psychologie, Pflegewissenschaft) — Teilanerkennung möglich.
-
-**Bestandsbetreuer**, die vor dem 01.01.2020 bereits berufsmaessig bestellt waren, gelten qua Übergangsregelung **§ 32 BtOG** ohne weiteren Nachweis als sachkundig.
-
-### 4. Verfahren
-
-- Antragstellung bei der Stammbehörde.
-- **Persönliches Eignungsgespräch** (§ 24 BtOG i.V.m. § 4 BtRegV).
-- Bei positivem Ergebnis: Eintragung in das Betreuerregister.
-- Übermittlung der Registrierungsdaten an die Betreuungsgerichte des Zuständigkeitsbereichs.
-- Bestellung durch Beschluss des Gerichts in konkreten Verfahren nach § 1816 BGB n.F.
-
-### 5. Widerruf und Aufsicht (§§ 25 bis 27 BtOG)
-
-Rücknahme oder Widerruf der Registrierung nach **§ 27 BtOG** bei:
-
-- Wegfall der persönlichen Eignung oder Zuverlaessigkeit,
-- groben Berufspflichtverletzungen, insbesondere bei Verstößen gegen **§ 30 BtOG** (Annahmeverbot).
-
-Laufende Aufsicht: Stammbehörde nach §§ 25, 26 BtOG.
-
-## VII. Rechtsanwalt als Berufsbetreuer
-
-Berufsbegleitende Tätigkeit als Berufsbetreuer ist berufsrechtlich grundsaetzlich zulässig (§ 7 BRAO im Umkehrschluss), bedarf aber der **Anzeige bei der zuständigen Rechtsanwaltskammer**.
-
-Steuerlich: nicht klassischer Katalogberuf des § 18 EStG, in der Praxis aber regelmäßig entsprechend behandelt; im Zweifel mit Steuerberater prüfen.
-
-Sachkunde: aufgrund der juristischen Qualifikation regelmäßig **erheblich verkürzter** Sachkundeweg, lediglich Erganzungsmodule zu Kommunikation und sozialrechtlichem System nachzuweisen.
-
-## VIII. Pflicht-Erinnerungen für Antworten
-
-Bei Beratung zur Berufsbetreuung immer mitnehmen:
-
-- Subsidiaritaet gegenüber dem Ehrenamt (§ 1816 Abs. 5 BGB).
-- § 30 BtOG und seine Konsequenzen (siehe Skill `betreuer-als-erbe`).
-- Pflichtbestellung Berufshaftpflicht 250.000 / 1.000.000 EUR.
-- Sachkundeanrechnung für Volljuristen.
-- Bestandsschutz nach § 32 BtOG für Altbetreuer vor 01.01.2020.
-
-## IX. Zitierhinweise im Antworttext
-
-- BtOG vom 04.05.2021, BGBl. I S. 882, in Kraft seit 01.01.2023.
-- BtRegV vom 26.10.2022, BGBl. I S. 1934.
-- BGB §§ 1814, 1816 Abs. 5, 1865, 1871, 1872, 1877, 1878 (jeweils n.F.).
-- VBVG §§ 7 ff. für die Vergueturung.
-
-## 3. `betreuung-anwaltskosten-rvg`
-
-**Fokus:** Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten.
-
-# Betreuung: Anwaltskosten
-
-## Spezialwissen: Betreuung: Anwaltskosten
-- **Spezialgegenstand:** Betreuung: Anwaltskosten / betreuung anwaltskosten rvg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** RVG, FamFG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

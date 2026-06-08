@@ -1,51 +1,49 @@
 ---
 name: vorsorgevollmacht-wunschermittlung
-description: "Vorsorgevollmacht Wunschermittlung im Plugin Betreuungsrecht: prüft konkret Vorsorgevollmacht pruefen, Wunschermittlung und unterstützte Entscheidung nach § 1821, Zwangsbehandlung § 1832 BGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster für den Vergleich Vollmacht/Betreuungsbedarf im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Vorsorgevollmacht Wunschermittlung
+# Vorsorgevollmacht pruefen
 
 ## Arbeitsbereich
 
-**Vorsorgevollmacht Wunschermittlung** ordnet den Fall über die tragenden Prüffelder: Vorsorgevollmacht pruefen, Wunschermittlung und unterstützte Entscheidung nach § 1821, Zwangsbehandlung § 1832 BGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster für den Vergleich Vollmacht/Betreuungsbedarf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `vorsorgevollmacht-pruefen` | Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform fuer Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster fuer den Vergleich Vollmacht/Betreuungsbedarf. |
-| `wunschermittlung-unterstuetzte-entscheidung` | Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen. |
-| `zwangsbehandlung-1832-bgb` | Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht. |
+## Normenanker
+
+Arbeitsfokus: **Vorsorgevollmacht pruefen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1358 BGB` — Ehegattenvertretung in Gesundheitsangelegenheiten.
+- `§ 1814 Abs. 3 BGB` — Nachrang der Betreuung bei ausreichender anderer Hilfe.
+- `§ 1820 BGB` — Vorsorgevollmacht und Kontrollbetreuung live prüfen.
+- `§ 1821 Abs. 1 BGB` — Wunsch und Präferenzen.
+- `§ 1827 BGB` — Patientenverfügung.
+- `§ 1828 BGB` — mutmaßlicher Wille.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 5 BtOG` — Unterstützung zur Betreuungsvermeidung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Betreuungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `vorsorgevollmacht-pruefen`
-
-**Fokus:** Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform fuer Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster fuer den Vergleich Vollmacht/Betreuungsbedarf.
-
-# Vorsorgevollmacht pruefen
 
 ## Spezialwissen: Vorsorgevollmacht pruefen
-- **Spezialgegenstand:** Vorsorgevollmacht pruefen / vorsorgevollmacht pruefen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -69,119 +67,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 2. `wunschermittlung-unterstuetzte-entscheidung`
-
-**Fokus:** Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen.
-
-# Wunschermittlung und unterstützte Entscheidung
-
-## Zweck
-
-Betreuung beginnt nicht mit “Was ist vernünftig?”, sondern mit “Was will die betreute Person?”. Dieser Skill hilft, Wünsche und Präferenzen praktisch zu erfassen und gerichtstauglich zu dokumentieren.
-
-## Prüfpfad
-
-1. **Aktueller Wunsch:** Was sagt oder zeigt die betreute Person jetzt?
-2. **Verstehen ermöglichen:** Brille, Hörgerät, Dolmetscher, leichte Sprache, vertraute Umgebung, Pausen, Bilder, Angehörige als Kommunikationshilfe.
-3. **Frühere Wünsche:** Patientenverfügung, Vorsorgevollmacht, Betreuungsverfügung, Briefe, Gewohnheiten, Lebensstil.
-4. **Konkrete Entscheidung:** Geht es um Wohnen, Gesundheit, Geld, Kontakt, Vertrag, Gericht, Behörde?
-5. **Risiko:** Droht erhebliche Selbstschädigung oder Fremdgefährdung?
-6. **Milderes Mittel:** Kann der Wunsch sicherer umgesetzt werden?
-7. **Dokumentation:** Wer war dabei, was wurde gefragt, was wurde verstanden, welche Alternative wurde erklärt?
-
-## Wunschvermerk
-
-```text
-Wunsch-/Entscheidungsvermerk
-
-Datum/Uhrzeit:
-Ort:
-Anwesende:
-Thema:
-
-Wunsch der betreuten Person:
-
-Wie wurde der Wunsch ermittelt?
-
-Welche Informationen/Alternativen wurden erklärt?
-
-Risiken:
-
-Entscheidung des Betreuers:
-
-Warum entspricht die Entscheidung dem Wunsch oder warum ausnahmsweise nicht?
-```
-
-## Red Flags
-
-- Entscheidung wird nur mit “das ist besser für sie” begründet.
-- Angehörige sprechen über die betreute Person hinweg.
-- Heim/Bank/Behörde drängt auf schnelle Unterschrift.
-- Frühere klare Wünsche werden ignoriert.
-- Kommunikationshindernisse werden als fehlender Wille missverstanden.
-
-## Normanker
-
-- § 1821 BGB: Unterstützung, Wunschbefolgung, mutmaßlicher Wille.
-- § 1814 BGB: Betreuung nur erforderlich, wenn andere Hilfen nicht ausreichen.
-- UN-BRK Art. 12 als Leitbild unterstützter Rechts- und Handlungsfähigkeit; konkrete Umsetzung erfolgt über deutsches Betreuungsrecht.
-
-## 3. `zwangsbehandlung-1832-bgb`
-
-**Fokus:** Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht.
-
-# Zwangsbehandlung § 1832 BGB
-
-## Spezialwissen: Zwangsbehandlung § 1832 BGB
-- **Spezialgegenstand:** Zwangsbehandlung § 1832 BGB / zwangsbehandlung 1832 bgb. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BGB, FamFG, BVerfG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

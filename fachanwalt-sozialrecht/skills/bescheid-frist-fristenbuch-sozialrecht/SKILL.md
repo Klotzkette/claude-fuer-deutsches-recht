@@ -7,24 +7,24 @@ description: "Bescheid Frist Fristenbuch Sozialrecht im Plugin Fachanwalt Sozial
 
 ## Arbeitsbereich
 
-**Bescheid Frist Fristenbuch Sozialrecht** ordnet den Fall über die tragenden Prüffelder: 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen, Anwalt oder Sekretariat muss Fristen in, Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bescheid Frist Fristenbuch Sozialrecht** ordnet den Fall über die tragenden Prüfungslinien: 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen, Anwalt oder Sekretariat muss Fristen in, Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bescheid-frist-quick-check` | 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill für alles weitere. Prüfung Wiedereinsetzung § 67 SGG bei roter Ampel. Prüfung § 44 SGB X Überprüfungsantrag wenn Wiedereinsetzung ausgeschlossen. |
 | `fristenbuch-sozialrecht` | Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung). |
-| `laienhilfe-fristenkalender` | Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-fristenkalender` | Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 | `widerspruchsfrist-und-zustellung-sgb` | Anwalt muss bei eingehendem oder ausgehendem Bescheid klaeren ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Prüfraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untätigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Prüfprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bescheid-frist-quick-check`
 
@@ -40,12 +40,10 @@ description: "Bescheid Frist Fristenbuch Sozialrecht im Plugin Fachanwalt Sozial
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Frist-Quick-Check
 
 - **Spezialfrage (Frist-Quick-Check):** 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill für alles weitere. Prüfung Wiedereinsetzung § 67 SGG bei roter Ampel. Prüfung § 44 SGB X Überprüfungsantrag wenn Wiedereinsetzung ausgeschlossen.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
-
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -149,7 +147,6 @@ Wenn nicht alle erfüllt → kein Wiedereinsetzungsantrag, stattdessen `§ 44 SG
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zentralablage
 
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/fristenbuch.yaml`
@@ -166,7 +163,7 @@ Pro Eintrag:
  hauptfrist: 2026-04-16
  vorfrist-tage: 5
  vorfrist: 2026-04-11
- zustaendig: RA Mueller
+ zuständig: RA Mueller
  status: offen
  bemerkung: Widerspruchsbegründung benoetigt Akteneinsicht
 ```
@@ -244,7 +241,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `laienhilfe-fristenkalender`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Fristenkalender
 
@@ -255,7 +252,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -315,7 +311,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -337,7 +332,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -520,3 +514,27 @@ Im Sozialrecht ist die Wahrung der Widerspruchsfrist absolut entscheidend. Diese
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 84 SGG
+- § 86b SGG
+- § 87 SGG
+- § 109 SGG
+- § 88 SGG
+- § 66 SGG
+- § 67 SGG
+- § 101 SGG
+- § 183 SGG
+- § 120 SGG
+- § 86a SGG
+- § 73a SGG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

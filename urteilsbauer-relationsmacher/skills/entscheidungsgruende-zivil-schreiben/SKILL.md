@@ -83,7 +83,7 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
  - Tatbestandsmerkmale subsumieren
  - Rechtsfolge
  - Einwendungen / Einreden
- - Verjaehrung
+ - Verjährung
  - Bei mehreren Anspruchsgrundlagen: nur die durchgreifende ausführen oder Anspruchskonkurrenzen knapp behandeln
 4. **Beweiswürdigung** (separater Abschnitt vor der konkreten Subsumtion oder integriert)
 5. **Nebenentscheidungen**:

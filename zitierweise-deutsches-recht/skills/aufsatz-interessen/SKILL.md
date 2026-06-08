@@ -5,12 +5,24 @@ description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Zitierweise 
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix
 
-## Spezialwissen: Aufsatz: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Aufsatz: Mehrparteienkonflikt und Interessenmatrix / aufsatz mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Regelungs- und Quellenanker
 
+Arbeitsfokus: **Aufsatz: Mehrparteienkonflikt und Interessenmatrix**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 51 UrhG` — Zitatrecht.
+- `§ 63 UrhG` — Quellenangabe.
+- `§ 2 Abs. 1 Nr. 1 UrhG` — Sprachwerke.
+- `§ 97 UrhG` — Unterlassung/Schadensersatz bei Rechtsverletzung.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht im Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Substantiierung im Schriftsatz.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Kontext, nicht als Zitierfreibrief.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Aufsatz: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -46,3 +58,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
 - **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
 - **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 51 UrhG
+- § 117 VwG
+- § 1 GVG
+- § 63 UrhG
+- § 97 UrhG
+- § 31 BVerfGG
+- § 72 ArbGG
+- § 90 ArbGG
+- § 160 SGG
+- § 163 SGG
+- § 32 KWG
+- § 132 GVG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

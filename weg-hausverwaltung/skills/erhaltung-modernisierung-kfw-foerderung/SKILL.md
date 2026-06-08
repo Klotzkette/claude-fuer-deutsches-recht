@@ -1,29 +1,29 @@
 ---
 name: erhaltung-modernisierung-kfw-foerderung
-description: "Erhaltung Modernisierung KFW Foerderung im Plugin Weg Hausverwaltung: prüft konkret Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltung: prüft konkret Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Erhaltung Modernisierung KFW Foerderung
+# Erhaltung Modernisierung KFW Förderung
 
 ## Arbeitsbereich
 
-**Erhaltung Modernisierung KFW Foerderung** ordnet den Fall über die tragenden Prüffelder: Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Erhaltung Modernisierung KFW Förderung** ordnet den Fall über die tragenden Prüfungslinien: Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `erhaltung-modernisierung-baumaengel` | Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen. |
-| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln. |
+| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln. |
 | `abrechnung-ist-plan-mieterschnittstelle` | Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Weg Hausverwaltung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `erhaltung-modernisierung-baumaengel`
 
@@ -39,13 +39,9 @@ description: "Erhaltung Modernisierung KFW Foerderung im Plugin Weg Hausverwaltu
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Erhaltung, Modernisierung und Baumängel
-- **Spezialgegenstand:** Erhaltung, Modernisierung und Baumängel wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Stand: 05/2026.
 
@@ -112,7 +108,6 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -123,7 +118,7 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 ## 2. `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
 
-**Fokus:** Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
+**Fokus:** Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
 
 # KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren
 
@@ -134,7 +129,6 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Stand: 06/2026.
 
@@ -215,15 +209,11 @@ Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (P
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Abrechnung, Ist/Plan und Mieterschnittstelle
-- **Spezialgegenstand:** Abrechnung, Ist/Plan und Mieterschnittstelle wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
-
-Dieses Fachmodul greift, wenn Jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
+Anwendungsfall: jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
 
 ## Kerntrennung
 
@@ -282,7 +272,6 @@ Erzeuge auf Wunsch ein exportfähiges Paket:
 - Vermögensbericht fehlt oder ist mit Abrechnung vermischt.
 - "Genehmigung der Jahresabrechnung" als Beschlusstext ohne Klarstellung auf Nachschüsse/Vorschussanpassung.
 - vermietender Eigentümer erhält WEG-Abrechnung so spät, dass § 556 Abs. 3 BGB im Mietverhältnis brennt.
-
 
 ## Qualitäts-Hardening
 

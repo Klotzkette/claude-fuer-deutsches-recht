@@ -1,18 +1,18 @@
 ---
 name: agb-im-arbeitsvertrag-310-abs-4-vertieft
-description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff. BGB auf vorformulierte Arbeitsvertragsklauseln Sonderregeln fuer Tarifvertraege und Betriebsvereinbarungen. Behandelt typische problematische Klauseln Versetzungsvorbehalt Verfallklausel Rueckzahlungsklausel fuer Aus- und Fortbildung. Liefert Pruefraster und Klauselentwurf."
+description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff. BGB auf vorformulierte Arbeitsvertragsklauseln Sonderregeln für Tarifvertraege und Betriebsvereinbarungen. Behandelt typische problematische Klauseln Versetzungsvorbehalt Verfallklausel Rueckzahlungsklausel für Aus- und Fortbildung. Liefert Pruefraster und Klauselentwurf."
 ---
 
 # Agb Im Arbeitsvertrag 310 Abs 4 Vertieft
 
 ## Aufgabe
 
-Skill fuer arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
+Skill für arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
 
 ## Norm
 
 - § 310 Abs. 4 Satz 1 BGB: Tarifvertraege, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle.
-- § 310 Abs. 4 Satz 2 BGB: bei Arbeitsvertraegen ist auf die Besonderheiten des Arbeitsrechts angemessen Ruecksicht zu nehmen.
+- § 310 Abs. 4 Satz 2 BGB: bei Arbeitsvertraegen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen.
 
 ## Typische problematische Klauseln
 
@@ -27,7 +27,7 @@ Skill fuer arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
  - Frist nicht unter 3 Monaten.
 - BAG 5 AZR 545/13 (Az verifizieren): Ausschlussfristen unter 3 Monaten unwirksam.
 
-### Rueckzahlungsklausel fuer Aus- und Fortbildung
+### Rueckzahlungsklausel für Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:
  - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
  - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).

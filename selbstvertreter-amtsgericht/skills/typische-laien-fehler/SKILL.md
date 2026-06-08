@@ -23,7 +23,7 @@ Vorhandene Begriffe siehe entsprechende Skills.
 
 Verweise auf einzelne Skill-spezifische Normen.
 
-## Schritt-fuer-Schritt: Die 12 typischen Fehler
+## Schritt-für-Schritt: Die 12 typischen Fehler
 
 ### Fehler 1 — Frist verpasst
 
@@ -67,11 +67,11 @@ Symptom: Tatsachen-Behauptung der Gegenseite gilt als zugestanden (§ 138 III ZP
 
 Gegenmassnahme: Pro Punkt eine Antwort. Skill `klageerwiderung-checkliste-alle-punkte`.
 
-### Fehler 8 — Verjaehrungs-Einrede vergessen
+### Fehler 8 — Verjährungs-Einrede vergessen
 
 Symptom: Verjaehrte Forderung wird zugesprochen.
 
-Gegenmassnahme: Bei Klageerwiderung immer Verjaehrung pruefen. Skill `einreden-aktiv-geltend-machen`, `verjaehrungsfrist-pruefen-195-bgb`.
+Gegenmassnahme: Bei Klageerwiderung immer Verjährung pruefen. Skill `einreden-aktiv-geltend-machen`, `verjaehrungsfrist-pruefen-195-bgb`.
 
 ### Fehler 9 — Streitwert zu niedrig angegeben
 
@@ -118,7 +118,6 @@ Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-
 
 ## Qualitäts-Hardening
 

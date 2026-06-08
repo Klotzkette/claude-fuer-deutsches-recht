@@ -19,7 +19,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 |---|---|---|
 | "trug zur Verbesserung des Betriebsklimas bei" | Alkohol- oder Drogenproblem | Rot |
 | "war stets gesellig" | Trinkgewohnheit | Rot |
-| "war fuer Aufgaben im Aussendienst geeignet" (ohne Kontext) | Wurde aus dem Innendienst entfernt | Rot |
+| "war für Aufgaben im Aussendienst geeignet" (ohne Kontext) | Wurde aus dem Innendienst entfernt | Rot |
 | "pflegte einen kollegialen Umgang am Feierabend" | Trinkkultur | Rot |
 
 ### Krankheit und Fehlzeiten
@@ -46,7 +46,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 |---|---|---|
 | "pflegte einen direkten und offenen Kommunikationsstil" | Grob, schwierig im Umgang | Rot |
 | "setzte seine Meinung mit Nachdruck durch" | Sturkoepfig, nicht kompromissfaehig | Rot |
-| "war fuer seine Ansichten bekannt" | Querulant | Rot |
+| "war für seine Ansichten bekannt" | Querulant | Rot |
 | "brachte sich engagiert in Diskussionen ein" | Konfliktfreudig | Orange bis Rot |
 | "hatte eine eigene Art" | Persoenlichkeitsstoerung-Signal | Rot |
 | "war bei seinen Kollegen wegen seiner umgaenglichen Art beliebt" | Mitlaeufer, ohne eigene Leistung | Orange |
@@ -64,7 +64,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 | Formulierung | Bedeutung | Ampel |
 |---|---|---|
-| "setzte sich auch fuer die Belange der Belegschaft ein" | Betriebsratsmitglied (verschluesselt) | Orange |
+| "setzte sich auch für die Belange der Belegschaft ein" | Betriebsratsmitglied (verschluesselt) | Orange |
 | "brachte sich in Mitarbeiterfragen aktiv ein" | Gewerkschaftliche Taetigkeit | Orange |
 | "nahm seine Mitwirkungsrechte umfassend wahr" | Aktiver Betriebsrat | Orange |
 
@@ -96,7 +96,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 ## Beispiele
 
-**Beispiel 1 – Alkohol-Code:** Buchhalter erhaelt ein Zeugnis mit dem Satz "trug stets zur Verbesserung des Betriebsklimas bei". Position erfordert diesen Hinweis nicht, der Satz steht isoliert. → Codewort fuer Trinkproblem, Rot, berichtigungsfaehig.
+**Beispiel 1 – Alkohol-Code:** Buchhalter erhaelt ein Zeugnis mit dem Satz "trug stets zur Verbesserung des Betriebsklimas bei". Position erfordert diesen Hinweis nicht, der Satz steht isoliert. → Codewort für Trinkproblem, Rot, berichtigungsfaehig.
 
 **Beispiel 2 – Diebstahls-Code bei Kassiererin:** "Sie war ehrlich und korrekt und achtete auf eine sorgfaeltige Abrechnung." → Bei Kassenposition ist die Ehrlichkeit eine Selbstverstaendlichkeit, ihre explizite Hervorhebung signalisiert Probleme im Hintergrund. Rot, berichtigungsfaehig.
 
@@ -104,7 +104,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 **Beispiel 4 – Loyalitaets-Auslassung:** Zeugnis einer Geschaeftsfuehrerin enthaelt zu allen anderen Sozialaspekten Aussagen, aber kein Wort zur Loyalitaet gegenueber dem Unternehmen. → Auslassungs-Code, signalisiert Loyalitaetsproblem. Rot, berichtigungsfaehig.
 
-**Beispiel 5 – Mitlaeufer-Code:** "Frau Bauer fuegte sich gut in die Hierarchie ein und akzeptierte Entscheidungen ihrer Vorgesetzten." → Doppelcode fuer Passivitaet ohne Eigeninitiative. Orange.
+**Beispiel 5 – Mitlaeufer-Code:** "Frau Bauer fuegte sich gut in die Hierarchie ein und akzeptierte Entscheidungen ihrer Vorgesetzten." → Doppelcode für Passivitaet ohne Eigeninitiative. Orange.
 
 **Beispiel 6 – Betriebsrats-Code:** "Herr Wagner nahm seine Mitwirkungsrechte umfassend wahr." → Verschluesselter Hinweis auf aktive Betriebsratstaetigkeit. Orange, berichtigungsfaehig wegen Diskriminierungsverbot.
 

@@ -1,36 +1,21 @@
 ---
 name: software-verschluesselung-swiss-sanctions
-description: "Software Verschluesselung Swiss Sanctions im Außenwirtschaftsrecht, Zoll und Sanktionen: prüft konkret Exportkontrolle fuer Verschluesselungssoftware und, Schweizer Sanktionsrecht als Touchpoint im, Sanktions- und Exportkontrollpruefung bei, Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Exportkontrolle für Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Software Verschluesselung Swiss Sanctions
+# Exportkontrolle für Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5
 
 ## Arbeitsbereich
 
-**Software Verschluesselung Swiss Sanctions** ordnet den Fall über die tragenden Prüffelder: Exportkontrolle fuer Verschluesselungssoftware und, Schweizer Sanktionsrecht als Touchpoint im, Sanktions- und Exportkontrollpruefung bei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `aussenwirtschaft-software-verschluesselung-kryptografie` | Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad. |
-| `aussenwirtschaft-swiss-sanctions-touchpoint` | Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg. |
-| `aussenwirtschaft-trade-finance-lc-guarantees` | Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung. |
-| `aussenwirtschaft-transferpricing-zollwert-abgleich` | Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen. Output: Zollwert-Verrechnungspreis-Konsistenzanalyse. |
+Exportkontrolle für Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Aussenwirtschaft Zoll Sanktionen klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion, IranEmbargoVO, RusslandSanktionenVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `aussenwirtschaft-software-verschluesselung-kryptografie`
-
-**Fokus:** Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad.
-
-# Exportkontrolle fuer Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5
 
 ## Mandantenfall
 
@@ -49,9 +34,9 @@ description: "Software Verschluesselung Swiss Sanctions im Außenwirtschaftsrech
 
 ## Rechtsrahmen
 
-- **VO (EU) 2021/821 Anhang I Kategorie 5 Teil 2**: EU-Dual-Use-Liste fuer Kryptografieprodukte.
-- **Art. 9 VO (EU) 2021/821**: Allgemeine Genehmigungen (EU001) fuer bestimmte Kryptografieexporte.
-- **AWG § 8**: Genehmigungsvorbehalt fuer kontrollierte Waren.
+- **VO (EU) 2021/821 Anhang I Kategorie 5 Teil 2**: EU-Dual-Use-Liste für Kryptografieprodukte.
+- **Art. 9 VO (EU) 2021/821**: Allgemeine Genehmigungen (EU001) für bestimmte Kryptografieexporte.
+- **AWG § 8**: Genehmigungsvorbehalt für kontrollierte Waren.
 - **EAR Part 742.15 (US)**: US-spezifische Kryptografie-Exportkontrolle (als Risikoanker).
 - **Art. 4 VO (EU) 2021/821**: Catch-All bei militaerischer Endverwendung von Kryptografietechnologie.
 
@@ -67,7 +52,7 @@ description: "Software Verschluesselung Swiss Sanctions im Außenwirtschaftsrech
 ## Typische Fallstricke
 
 - Standardmaessig eingebettete TLS-Bibliotheken fallen trotzdem unter Dual-Use-Kontrolle.
-- Open-Source-Ausnahme gilt nicht fuer modifizierte oder proprietaer eingebettete Varianten.
+- Open-Source-Ausnahme gilt nicht für modifizierte oder proprietaer eingebettete Varianten.
 - Cloud-Dienste: Technologie-Transfer durch Download von verschluesselter Software ueber Landesgrenze.
 - US-Re-Export-Kontrollen (EAR) ueberlagern EU-Genehmigung bei US-Ursprungstechnologie.
 
@@ -75,7 +60,7 @@ description: "Software Verschluesselung Swiss Sanctions im Außenwirtschaftsrech
 
 Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
 Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
+(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
 behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
 dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
 Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
@@ -99,276 +84,15 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Output
 
-Klassifizierungsvermerk mit Normgrundlage, Genehmigungspfad-Dokumentation und Exportkontroll-Checkliste fuer Produkt-Releases.
+Klassifizierungsvermerk mit Normgrundlage, Genehmigungspfad-Dokumentation und Exportkontroll-Checkliste für Produkt-Releases.
 
 ## Quellen
 
 - [VO (EU) 2021/821 Anhang I auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
 - [BAFA Dual-Use Allgemeine Genehmigungen](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Ausfuhrgenehmigungen/Allgemeine_Genehmigungen/allgemeine_genehmigungen_node.html)
-- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-
-## 2. `aussenwirtschaft-swiss-sanctions-touchpoint`
-
-**Fokus:** Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg.
-
-# Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat
-
-## Mandantenfall
-
-- Deutsches Unternehmen wickelt Zahlungen ueber Schweizer Tochtergesellschaft ab; SECO-Listencheck erforderlich.
-- Schweizer Konzernzentrale stellt Frage ob EU-Russland-Sanktionen fuer CH-Entitaet gelten.
-- Transaktion soll ueber Schweizer Bank abgewickelt werden; Sanktionskonvergenz pruefen.
-
-## Erste Schritte
-
-1. Relevanz der Schweizer Sanktionen pruefen: Schweizer Entitaet beteiligt oder Schweizer Bankverbindung?
-2. SECO-Sanktionsliste abrufen und mit EU-Konsolidierter-Liste abgleichen.
-3. Divergenzen identifizieren: Welche Personen/Entitaeten sind nur in EU oder nur in CH-Liste?
-4. EmbG-Verbote fuer konkrete Transaktion anwenden.
-5. Koordination zwischen EU-Compliance und CH-Compliance der Gruppe sicherstellen.
-6. Ergebnis als Touchpoint-Vermerk im EU-Mandat festhalten.
-
-## Rechtsrahmen
-
-- **EmbG SR 946.231 (CH)**: Schweizer Embargogesetz als nationale Umsetzungsgrundlage.
-- **SECO-Verordnungen (CH)**: Spezifische Embargomasnahmen gegen Russland Iran etc.
-- **VO (EU) 833/2014**: EU-Russland-Sanktionen als Referenzrahmen fuer Divergenzanalyse.
-- **AWG § 1**: Territorialer Anwendungsbereich des deutschen Aussenwirtschaftsrechts.
-- **Art. 11 VO (EU) 833/2014**: Gerichtsbarkeitsregeln fuer konzerninterne Transaktionen.
-
-## Pruef-Raster
-
-- [ ] Schweizer Entitaet oder Bank in Transaktion beteiligt?
-- [ ] SECO-Liste aktuell abgerufen und abgeglichen?
-- [ ] Divergenzen zwischen EU- und CH-Sanktionsliste identifiziert?
-- [ ] EmbG-Verbote fuer konkrete Sachverhalt geprueft?
-- [ ] Konzernweite Koordination sichergestellt?
-
-## Typische Fallstricke
-
-- Schweiz folgt EU-Sanktionen meist aber mit Zeitverzug; aktuelle Fassung von SECO abrufen.
-- Schweizer Banken unterliegen SECO-Recht; EU-Sanktionen gelten fuer sie nur indirekt.
-- Konzernmutter in EU kann nicht die Schweizer Tochter zur Verletzung von EmbG anweisen.
-- Eigentums-/Kontrollkette muss auch nach Schweizer Gesellschaftsrecht analysiert werden.
-
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
-## Schnittstellen zu anderen Skills
-
-Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
-- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
-- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
-- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
-- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
-
-## Qualitaetsanforderungen
-
-- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
-- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
-- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
-- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
-- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
-- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
-
-## Output
-
-Kurzvergleich EU-CH-Sanktionslage mit Divergenz-Tabelle, Handlungsempfehlung fuer Schweizer Transaktionsweg und Koordinationsprotokoll fuer Konzern-Compliance.
-
-## Quellen
-
-- [SECO Sanktionen Schweiz](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html)
-- [EmbG SR 946.231 auf admin.ch](https://www.fedlex.admin.ch/eli/cc/2003/304/de)
-- [VO (EU) 833/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
-- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-
-## 3. `aussenwirtschaft-trade-finance-lc-guarantees`
-
-**Fokus:** Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung.
-
-# Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote
-
-## Mandantenfall
-
-- Bank erhalt Anfrage zur Eroeffffnung eines Akkreditivs fuer Lieferung nach Russland; Sanktionspruefung.
-- Exporteur beantragt Ausfuhrgarantie fuer Lieferung an iranischen Staatskonzern; EUC und Sanktionscheck.
-- Dokumenteninkasso fuer Textillieferung nach Belarus; Korrespondenzbank-Kette pruefen.
-
-## Erste Schritte
-
-1. Transaktionsstruktur aufnehmen: Akkreditivbeteiligter Importeur Exporteur eroeffnende und bestaetigende Bank.
-2. Alle Beteiligten gegen EU-Konsolidierte-Liste OFAC-SDN und BAFA-Embargo pruefen.
-3. Verbote fuer Finanzhilfe (Art. 5a VO 833/2014 fuer Russland) und Bereitstellungsverbote pruefen.
-4. Bestimmungsland und Waren-HS-Codes auf Gueter-Embargo pruefen.
-5. Korrespondenzbank-Kette auf sanktionierte Institute pruefen.
-6. Freigabeentscheidung mit Quellennachweis dokumentieren.
-
-## Rechtsrahmen
-
-- **Art. 5a VO (EU) 833/2014**: Verbot von Transaktionen mit bestimmten russischen Staatsbanken.
-- **Art. 2 Abs. 1 VO (EU) 269/2014**: Bereitstellungsverbot fuer Gelder an gelistete Personen.
-- **Art. 26 VO (EU) 267/2012 (Iran)**: Finanzhilfeverbot gegenueber iranischen Banken.
-- **§ 18 AWG**: Strafbarkeit bei verbotener Finanzhilfe an sanktionierte Entitaeten.
-- **UZK Art. 87**: Zollwertbescheinigung und Dokumentationspflicht bei Trade-Finance.
-
-## Pruef-Raster
-
-- [ ] Alle Trade-Finance-Beteiligten gegen Sanktionslisten geprueft?
-- [ ] Finanzhilfe-Verbote fuer Bestimmungsland relevant?
-- [ ] Warenklassifizierung und Embargo-Relevanz der Lieferung geprueft?
-- [ ] Korrespondenzbank-Kette auf sanktionierte Banken durchsucht?
-- [ ] Quellenstand der Sanktionsliste dokumentiert?
-- [ ] Freigabe- oder Ablehungsentscheidung archiviert?
-
-## Typische Fallstricke
-
-- Zweitbeguenstigte hinter Akkreditiv kann gelistete Person/Entitaet sein.
-- Finanzhilfe-Verbote greifen auch bei mittelbarer Unterstuetzung durch nicht-sanktionierte Partei.
-- Korrespondenzbanken in Drittlaendern haben eigene Listenpflichten; Konflikte moeglich.
-- Alte Akkreditive bleiben gueltig bis Ablauf; Sanktionsaenderungen erfordern Re-Pruefung.
-
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
-## Schnittstellen zu anderen Skills
-
-Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
-- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
-- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
-- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
-- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
-
-## Qualitaetsanforderungen
-
-- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
-- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
-- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
-- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
-- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
-- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
-
-## Output
-
-Trade-Finance-Pruefprotokoll mit Sanktionslistenabgleich, Waren-Embargo-Check, Entscheidungsmatrix und archivierter Freigabe- oder Ablehungsbegruendung.
-
-## Quellen
-
-- [VO (EU) 833/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
-- [VO (EU) 269/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0269)
-- [EU-Konsolidierte Finanzsanktionsliste EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0044)
-- [BAFA Embargos](https://www.bafa.de/DE/Aussenwirtschaft/Embargos/embargos_node.html)
-- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-
-## 4. `aussenwirtschaft-transferpricing-zollwert-abgleich`
-
-**Fokus:** Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen. Output: Zollwert-Verrechnungspreis-Konsistenzanalyse.
-
-# Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko
-
-## Mandantenfall
-
-- Konzern vereinbart Preisanpassung nach Jahresabschluss (true-up); Zollwert der unterjaerigen Einfuhren muss korrigiert werden.
-- APA-Vereinbarung mit Finanzamt setzt Verrechnungspreisbandbreite fest; Hauptzollamt akzeptiert Transaktionswert nicht.
-- Intrakonzernlieferung zu Niedrigpreis; Zollpruefung zweifelt an Transaktionswert nach UZK Art. 70.
-
-## Erste Schritte
-
-1. Verrechnungspreisdokumentation (Masterfile Localfile) auf Relevanz fuer Zollwert pruefen.
-2. Transaktionswert nach UZK Art. 70 Pruefung: Gibt es Preisbeeinflussung durch Verhaeltnis (Art. 70 Abs. 3)?
-3. Preisanpassungen und True-Ups: retroaktive Zollwertkorrektur und Nachanmeldungspflicht pruefen.
-4. APA-Vereinbarung auf Zollwert-Kompatibilitaet pruefen; WTO Valuation Agreement Art. 1.
-5. Alternativmethoden nach UZK Art. 74 wenn Transaktionswert abgelehnt wird.
-6. Risikobewertung: Zollnacherhebung und moegliche Zinsen/Bussgelder dokumentieren.
-
-## Rechtsrahmen
-
-- **UZK Art. 70**: Transaktionswert als primaere Zollwertmethode.
-- **UZK Art. 71-74**: Alternativmethoden bei Versagen des Transaktionswerts.
-- **UZK-DA Art. 127-146**: Detailregelung Zollwertermittlung.
-- **OECD-Verrechnungspreisleitlinien (2022)**: Armlaengenprinzip und Dokumentationsstandards.
-- **§ 22 ZollVG**: Auskunftspflichten und Nacherhebungsfristen.
-
-## Pruef-Raster
-
-- [ ] Verrechnungspreisdokumentation vorhanden und konsistent mit Zollwert?
-- [ ] Transaktionswert-Voraussetzungen (Art. 70 UZK) erfuellt?
-- [ ] True-Up-Klauseln und retroaktive Preisanpassungen auf Zollwert-Auswirkung geprueft?
-- [ ] APA-Vereinbarung mit WTO-Bewertungsabkommen kompatibel?
-- [ ] Risiko rueckwirkender Zollnacherhebung quantifiziert?
-- [ ] Alternativmethoden als Fallback dokumentiert?
-
-## Typische Fallstricke
-
-- Nachtraegliche Preisminderungen erhoehen den Zollwert nicht; Nachtragsanmeldung bei Erhoehungen Pflicht.
-- APAs mit Finanzbehorden binden Zollbehoerden nicht automatisch.
-- Lizenzgebuehren und Royalties koennen den Zollwert erhoehen (UZK Art. 71 Abs. 1 lit. c).
-- Konzernmutter-Verrechnungspreise muessen Armlaengenprinzip erfuellen um Transaktionswert zu stuetzen.
-
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Laender und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
-## Schnittstellen zu anderen Skills
-
-Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
-- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
-- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
-- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
-- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
-
-## Qualitaetsanforderungen
-
-- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
-- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
-- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
-- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
-- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung fuer Compliance und Business?
-- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
-
-## Output
-
-Konsistenzanalyse Zollwert/Verrechnungspreise, Nacherhebungsrisiko-Memo, Empfehlungen fuer True-Up-Klauseln und Ruecksprache-Strategie mit Haupt- und Finanzzollamt.
-
-## Quellen
-
-- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
-- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
-- [Zoll.de Zollwert](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollwert/zollwert_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)

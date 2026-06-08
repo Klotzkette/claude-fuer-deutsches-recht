@@ -44,7 +44,7 @@ Die Krankenkasse sagt Nein. Sie wollen die Hilfe trotzdem. Wir zeigen Ihnen, wie
 - **§ 48 SGB V** — Hoechstdauer Krankengeld.
 - **§ 13 Abs. 3a SGB V** — Genehmigungsfiktion.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid pruefen
 
@@ -155,7 +155,6 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmittel-Verzeichnis online aktuell. MD seit 2022.
-
 
 ## Qualitäts-Hardening
 

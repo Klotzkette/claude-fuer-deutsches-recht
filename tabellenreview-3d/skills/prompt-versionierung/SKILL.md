@@ -5,7 +5,6 @@ description: "Prompt-Versionen für den 3D-Review verwalten: Versionierung der S
 
 # /tabellenreview-3d:prompt-versionierung
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Prompt-Versionen für den 3D-Review verwalten: Versionierung der S
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

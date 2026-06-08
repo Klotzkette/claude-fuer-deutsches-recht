@@ -28,16 +28,16 @@ Es gibt viele Sozialleistungen. Jede gehoert in ein anderes Buch. Wir geben Ihne
 ## Fachbegriffe (kurz erklaert)
 
 - **Sozialgesetzbuch (SGB)**: Sammlung der Sozialgesetze.
-- **Sozialleistungstraeger**: Die Behoerde, die Leistung zahlt (z.B. Krankenkasse, Rentenversicherung).
+- **Sozialleistungstraeger**: Die Behörde, die Leistung zahlt (z.B. Krankenkasse, Rentenversicherung).
 - **Antragsprinzip**: Viele Leistungen muessen Sie beantragen — sie kommen nicht von alleine.
 
 ## Rechtsgrundlagen
 
 - **§ 16 SGB I** — Antrag bei jeder Stelle, auch der falschen, gilt als gestellt.
-- **§ 17 SGB I** — Beratungspflicht der Behoerde.
+- **§ 17 SGB I** — Beratungspflicht der Behörde.
 - **§ 14 SGB IX** — Reha-Antrag-Weiterleitung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle der Sozialgesetzbuecher
 
@@ -73,30 +73,30 @@ Hinweis: SGB XIII existiert nicht (Nummer ausgelassen).
 
 ### Schritt 3 — Bei mehreren Themen
 
-Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung (SGB IX) UND nicht arbeitsfaehig (SGB VI). Dann brauchen Sie mehrere Antraege. § 16 SGB I hilft: ein Antrag bei einer Stelle gilt fuer alle.
+Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung (SGB IX) UND nicht arbeitsfaehig (SGB VI). Dann brauchen Sie mehrere Antraege. § 16 SGB I hilft: ein Antrag bei einer Stelle gilt für alle.
 
 ### Schritt 4 — Wer hilft bei Antrag
 
 - **Sozialverbaende** beraten kostenlos zu jedem SGB.
-- **Buergerberater** bei den Behoerden selbst.
-- **Sozialamt** und **Jugendamt** klaeren Zustaendigkeit.
+- **Buergerberater** bei den Behörden selbst.
+- **Sozialamt** und **Jugendamt** klaeren Zuständigkeit.
 
 ## Worauf Sie besonders achten muessen
 
 - **Antrag stellen!** Viele Leistungen kommen nicht von alleine. Stellen Sie schriftlich Antrag (auch formloser Brief reicht).
-- **§ 16 SGB I**: Antrag bei falscher Stelle gilt trotzdem. Wichtig fuer Fristen.
+- **§ 16 SGB I**: Antrag bei falscher Stelle gilt trotzdem. Wichtig für Fristen.
 - **§ 14 SGB IX**: Reha-Antrag wird automatisch an den richtigen Traeger weitergeleitet (2-Wochen-Pflicht).
 
 ## Typische Fehler
 
 - "Ich glaube ich brauche keinen Antrag" → meistens doch
 - Falscher Trotz: "Die anderen wissen das schon" → Antrag aktiv stellen
-- Verwechslung SGB II und SGB XII → SGB II nur fuer arbeitsfaehige Personen
+- Verwechslung SGB II und SGB XII → SGB II nur für arbeitsfaehige Personen
 
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zustaendigkeit-51-sgg` — welche Streitigkeiten ans SG
+- `sozialgericht-zuständigkeit-51-sgg` — welche Streitigkeiten ans SG
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld-Spezial
 - `grundsicherung-sgb-xii` — Sozialhilfe-Spezial
 - `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflege
@@ -105,7 +105,6 @@ Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Buergergeld-Reform 2023. Bei Unsicherheit fragen Sie beim oertlichen Sozialamt oder VdK.
-
 
 ## Qualitäts-Hardening
 

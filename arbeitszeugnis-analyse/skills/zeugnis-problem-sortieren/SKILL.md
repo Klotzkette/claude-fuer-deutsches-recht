@@ -1,6 +1,6 @@
 ---
 name: zeugnis-problem-sortieren
-description: "Allgemeiner Startskill fuer Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und naechsten Arbeitsweg."
+description: "Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und naechsten Arbeitsweg."
 ---
 
 # Zeugnisproblem Sortieren
@@ -56,7 +56,6 @@ Bei Note 3 versus Note 2 trägt der Arbeitnehmer die Beweislast. Wer auf "stets 
 ## Qualitaetsgate
 
 Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
-
 
 ## Qualitäts-Hardening
 

@@ -1,16 +1,14 @@
 ---
 name: red-team-obliegenheiten
-description: "Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanker: InsO §§ 295 und 296 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung."
+description: "Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanker: InsO §§ 295 und 296 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung."
 ---
 
 # Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.
 
 ## Fachkern: Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.
-- **Spezialgegenstand:** Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 

@@ -1,28 +1,28 @@
 ---
 name: zwangsvollstreckung-querverweis
-description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht im Selbstvertreter Amtsgericht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zwangsvollstreckung Querverweis
 
 ## Arbeitsbereich
 
-**Zwangsvollstreckung Querverweis** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Zwangsvollstreckung Querverweis** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zwangsvollstreckung-querverweis-substitutionsagent` | Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil. Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes anstehen und welche Tools dabei helfen koennen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zwangsvollstreckung-querverweis-substitutionsagent`
 
@@ -43,9 +43,9 @@ Wenn Sie das Urteil gewonnen haben und der Schuldner nicht freiwillig zahlt, beg
 ## Fachbegriffe (kurz erklaert)
 
 - **Zwangsvollstreckung**: Staatliche Durchsetzung eines Titels gegen einen Schuldner.
-- **Gerichtsvollzieher**: Behoerden-Vertreter, der Pfaendungen vornimmt.
-- **Vollstreckungs-Gericht**: AG am Wohnort des Schuldners fuer Lohn- und Kontopfaendungen.
-- **Substitutionsagent**: Spezialisiertes Tool / Skill-Set fuer Vollstreckungs-Themen.
+- **Gerichtsvollzieher**: Behörden-Vertreter, der Pfaendungen vornimmt.
+- **Vollstreckungs-Gericht**: AG am Wohnort des Schuldners für Lohn- und Kontopfaendungen.
+- **Substitutionsagent**: Spezialisiertes Tool / Skill-Set für Vollstreckungs-Themen.
 
 ## Rechtsgrundlagen
 
@@ -54,7 +54,7 @@ Wenn Sie das Urteil gewonnen haben und der Schuldner nicht freiwillig zahlt, beg
 - **§§ 828–863 ZPO** — Pfaendung von Forderungen (Lohn-, Konto-Pfaendung).
 - **§§ 864 ff. ZPO** — Immobiliarvollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vorbereitung
 
@@ -99,7 +99,7 @@ Falls Sie sofort starten muessen:
 - Vollstreckungs-Akt einreichen.
 - Auftrag erteilen.
 
-Aber: Strategische Planung ist wichtig — und dafuer der Substitutionsagent.
+Aber: Strategische Planung ist wichtig — und dafür der Substitutionsagent.
 
 ### Schritt 6 — Kosten der Vollstreckung
 
@@ -127,7 +127,7 @@ Wenn Vollstreckung erfolglos:
 
 ## Worauf Sie besonders achten muessen
 
-- **Hier nur Querverweis** — Substitutionsagent fuer Vollstreckung nutzen.
+- **Hier nur Querverweis** — Substitutionsagent für Vollstreckung nutzen.
 - **Klausel und Zustellung** vor Vollstreckung Pflicht.
 - **Bonitaet** pruefen.
 
@@ -147,7 +147,6 @@ Wenn Vollstreckung erfolglos:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
-
 
 ## Qualitäts-Hardening
 

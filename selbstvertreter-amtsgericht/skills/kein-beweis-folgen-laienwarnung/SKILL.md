@@ -29,7 +29,7 @@ Im Zivilprozess gilt: Wer beweispflichtig ist und nicht beweist, verliert in die
 - **§ 138 III ZPO** — Nicht ausdruecklich bestrittene Tatsachen gelten als zugestanden (kein Beweis erforderlich).
 - **§ 288 ZPO** — Gestaendnis bindet das Gericht (nicht zu verwechseln mit der Non-liquet-Regel).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bedeutet "Non liquet"?
 
@@ -107,7 +107,7 @@ Bei unklarer Beweis-Lage ist Vergleich oft die beste Loesung — Sie bekommen vi
 
 Folge: Sie zahlen alle Kosten (Skill `kostenrisiko-streitwert-berechnen-gkg`).
 
-### Schritt 8 — Konsequenz fuer Selbstvertreter
+### Schritt 8 — Konsequenz für Selbstvertreter
 
 Pruefen Sie vor Klage:
 
@@ -139,7 +139,6 @@ Pruefen Sie vor Klage:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

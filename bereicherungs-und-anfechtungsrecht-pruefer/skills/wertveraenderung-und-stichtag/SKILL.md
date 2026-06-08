@@ -7,7 +7,7 @@ description: "Bei wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig s
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -83,7 +83,6 @@ Bei Wertfragen keine Scheingenauigkeit: Bewertungsbandbreite, Methode und Belege
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

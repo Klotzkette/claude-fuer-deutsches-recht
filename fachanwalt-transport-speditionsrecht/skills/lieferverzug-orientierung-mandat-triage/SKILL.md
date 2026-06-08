@@ -7,10 +7,10 @@ description: "Lieferverzug Orientierung Mandat Triage im Plugin Fachanwalt Trans
 
 ## Arbeitsbereich
 
-**Lieferverzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Lieferverzug im Gueterverkehr prüfen, Orientierungs-Skill Transport- und Speditionsrecht, Ersteinordnung neuer Mandate im Transport- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Lieferverzug Orientierung Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Lieferverzug im Gueterverkehr prüfen, Orientierungs-Skill Transport- und Speditionsrecht, Ersteinordnung neuer Mandate im Transport- und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-transport-speditionsrecht-lieferverzug` | Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Prüfraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden. |
 | `fachanwalt-transport-speditionsrecht-orientierung` | Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillauswahl-Empfehlung Transport-Speditionsrecht. Abgrenzung: kein inhaltlicher Prüf-Skill. |
@@ -18,12 +18,12 @@ description: "Lieferverzug Orientierung Mandat Triage im Plugin Fachanwalt Trans
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Transport- und Speditionsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: §§ 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-transport-speditionsrecht-lieferverzug`
 
@@ -111,7 +111,7 @@ Hoechstbetrag bei reinem Verzugsschaden:
 Bei Qualifiziertem Verschulden Vollersatz.
 
 Wir fordern Sie auf binnen 14 Tagen EUR [Betrag] zu erstatten. Die
-Verjaehrungsfrist § 439 HGB / Art. 32 CMR endet am [Datum].
+Verjährungsfrist § 439 HGB / Art. 32 CMR endet am [Datum].
 
 Mit freundlichen Gruessen
 ```

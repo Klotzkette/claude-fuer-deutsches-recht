@@ -1,17 +1,17 @@
 ---
 name: tia-eu-us-data-privacy-framework-aktueller
-description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien fuer DPF-Tragfaehigkeit und Restrisiko."
+description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigkeit und Restrisiko."
 ---
 
-# EU-US Data Privacy Framework – Aktueller Stand fuer das TIA
+# EU-US Data Privacy Framework – Aktueller Stand für das TIA
 
 ## Zweck
 
-Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien fuer die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
+Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien für die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
 
 ## Wann dieses Modul hilft
 
-- Pruefung, ob fuer einen US-Importeur ein TIA noch erforderlich ist.
+- Pruefung, ob für einen US-Importeur ein TIA noch erforderlich ist.
 - Dokumentation des DPF-Listings im RoPA / TIA.
 - Strategische Entscheidung DPF vs. SCC.
 - HR-Daten an US-Mutter; Pruefung der HR-Abdeckung im DPF.
@@ -36,7 +36,7 @@ Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DP
 
 ### Reichweite und Grenzen
 
-- Greift **nur fuer aktiv gelistete** US-Rechtstraeger.
+- Greift **nur für aktiv gelistete** US-Rechtstraeger.
 - Konzernverbundene Stellen sind nicht automatisch erfasst – jede juristische Person separat pruefen.
 - Subprozessoren / Onward Transfer: DPF-Prinzipien verlangen vertragliche Weitergabe und Schutzpflichten.
 - Daten ausserhalb des Listings (z. B. Produkt nicht in der Erklaerung erwaehnt) – DPF traegt **nicht**.
@@ -49,7 +49,7 @@ Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DP
 
 ### EU-Review-Verfahren
 
-- Die EU-Kommission ueberprueft die Wirksamkeit des DPF in regelmaessigen Abstaenden; **erster Review** im Sommer 2024 mit Bestaetigung des Beschlusses; weitere Reviews planmaessig alle vier Jahre, ggf. anlassbezogen frueher.
+- Die EU-Kommission ueberprueft die Wirksamkeit des DPF in regelmäßigen Abstaenden; **erster Review** im Sommer 2024 mit Bestaetigung des Beschlusses; weitere Reviews planmaessig alle vier Jahre, ggf. anlassbezogen frueher.
 
 ## Ablauf / Checkliste
 
@@ -94,7 +94,7 @@ Hinweisbaustein im TIA-Schritt 2:
 ## Typische Fehler
 
 - "Unsere Konzernmutter ist gelistet" – Tochter ist separater Rechtstraeger und muss eigenstaendig gelistet sein.
-- HR-Daten transferiert, aber Listing nur fuer Non-HR.
+- HR-Daten transferiert, aber Listing nur für Non-HR.
 - DPF-Eintrag in der Liste, aber Privacy Policy weist auf Datenart, die nicht erfasst ist.
 - Re-Zertifizierungsdatum verstrichen – Listing inaktiv, Transfer dennoch fortgesetzt.
 - Onward Transfer in weiteres Drittland uebersehen.
@@ -103,12 +103,12 @@ Hinweisbaustein im TIA-Schritt 2:
 
 ## Querverweise
 
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` fuer Schrems II.
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer US-Behoerden.
-- `tia-en-data-privacy-framework-status` fuer englische Fassung.
-- `tia-template-deutsch-vollvorlage` fuer Vollvorlage.
-- `us-transfer-tia-dokumentation` fuer das Output-Paket.
-- `avv-eu-us-data-privacy-framework-bezug` fuer vertragliche Seite.
+- `tia-schrems-ii-eugh-c-311-18-grundlagen` für Schrems II.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Behörden.
+- `tia-en-data-privacy-framework-status` für englische Fassung.
+- `tia-template-deutsch-vollvorlage` für Vollvorlage.
+- `us-transfer-tia-dokumentation` für das Output-Paket.
+- `avv-eu-us-data-privacy-framework-bezug` für vertragliche Seite.
 
 ## Quellen Stand 06/2026
 
@@ -119,7 +119,6 @@ Hinweisbaustein im TIA-Schritt 2:
 - EU-Kommission, Erster Review des EU-US DPF (Sommer 2024) – Verifikation am amtlichen Bericht.
 - Anhaengiges Verfahren Schrems III (NOYB) – Verfahrensstand am Gericht der EU pruefen.
 - DPF-Liste: dataprivacyframework.gov.
-
 
 ## Qualitäts-Hardening
 

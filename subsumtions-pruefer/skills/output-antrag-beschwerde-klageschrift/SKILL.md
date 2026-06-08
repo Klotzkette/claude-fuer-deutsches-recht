@@ -68,13 +68,12 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Formale Dokumentbausteine generieren fuer Antrag Beschwerde oder Klageschrift | Ausgabe nach Schema; Bausteine unten |
+| Standard — Formale Dokumentbausteine generieren für Antrag Beschwerde oder Klageschrift | Ausgabe nach Schema; Bausteine unten |
 | Variante A — Nur Tenor-Baustein noetig kein vollstaendiges Dokument | Nur Tenor generieren; Sachverhalt und Begruendung separat |
 | Variante B — Verwaltungsrecht statt Zivilrecht andere Anforderungen | VwGO-Variante des Templates verwenden |
 | Variante C — Dokument soll durch KI-Kennzeichnungspflicht versehen werden | Kennzeichnungs-Skill parallel; Baustein erganzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Ausgabe
 
@@ -95,12 +94,10 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-
 
 ## Qualitäts-Hardening
 

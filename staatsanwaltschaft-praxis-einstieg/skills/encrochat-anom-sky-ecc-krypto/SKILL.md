@@ -6,15 +6,12 @@ description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue
 # EncroChat, ANOM, Sky ECC und Kryptodienste
 
 ## Fachkern: EncroChat, ANOM, Sky ECC und Kryptodienste
-- **Spezialgegenstand:** EncroChat, ANOM, Sky ECC und Kryptodienste wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: EncroChat, ANOM, Sky ECC und Kryptodienste** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen
 
@@ -34,13 +31,27 @@ Dieser Abschnitt bearbeitet **Fachkern: EncroChat, ANOM, Sky ECC und Kryptodiens
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-
 ## Spezielle Leitplanken
 
 - Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 100b, § 100e Abs. 6 StPO
+- EuGH C-670/22 (M.N., Encrochat)
+- BGHSt 67, 29 (Encrochat-Verwertbarkeit)
+- BVerfG 2 BvR 1832/22 v. 1.11.2023
+- § 100a StPO (TKÜ)
+- § 100b StPO (Online-Durchsuchung)
+- § 100g StPO (Verkehrsdaten)
+- § 110 Abs. 3 StPO (Netzwerkdurchsicht)
+- §§ 202a, 202c StGB
+- BVerfGE 125, 260; BVerfGE 154, 152
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

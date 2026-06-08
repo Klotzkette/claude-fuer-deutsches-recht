@@ -13,11 +13,11 @@ description: "Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichu
 
 ## Worum geht es?
 
-Seit 2024 koennen Buerger ueber "Mein Justizpostfach" (MJP) digital mit Gerichten und Behoerden kommunizieren. Sicher, schnell, kostenfrei. Diese Skill zeigt, wie Sie damit Ihre Klage oder Schriftsaetze beim SG einreichen.
+Seit 2024 koennen Buerger ueber "Mein Justizpostfach" (MJP) digital mit Gerichten und Behörden kommunizieren. Sicher, schnell, kostenfrei. Diese Skill zeigt, wie Sie damit Ihre Klage oder Schriftsaetze beim SG einreichen.
 
 ## In einfacher Sprache
 
-Es gibt ein sicheres Online-Postfach fuer Buerger. Es heisst Mein Justizpostfach. Damit koennen Sie Klagen direkt ans Gericht schicken. Schnell, sicher, gratis.
+Es gibt ein sicheres Online-Postfach für Buerger. Es heisst Mein Justizpostfach. Damit koennen Sie Klagen direkt ans Gericht schicken. Schnell, sicher, gratis.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Es gibt ein sicheres Online-Postfach fuer Buerger. Es heisst Mein Justizpostfach
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Mein Justizpostfach (MJP)**: Sicheres digitales Postfach fuer Buerger.
+- **Mein Justizpostfach (MJP)**: Sicheres digitales Postfach für Buerger.
 - **eID-Funktion**: Online-Funktion des Personalausweises.
 - **ELSTER-Zertifikat**: Steuer-Identifikation, alternativ nutzbar.
 - **OZG**: Onlinezugangsgesetz, schreibt digitale Verwaltung vor.
@@ -35,10 +35,10 @@ Es gibt ein sicheres Online-Postfach fuer Buerger. Es heisst Mein Justizpostfach
 ## Rechtsgrundlagen
 
 - **§ 65a SGG** — Elektronische Einreichung beim Gericht.
-- **§ 36a SGB I** — Elektronische Kommunikation mit Behoerden.
-- **Onlinezugangsgesetz (OZG)** — rechtlicher Rahmen fuer digitale Verwaltung.
+- **§ 36a SGB I** — Elektronische Kommunikation mit Behörden.
+- **Onlinezugangsgesetz (OZG)** — rechtlicher Rahmen für digitale Verwaltung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -99,7 +99,7 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 
 ## Typische Fehler
 
-- Falscher Empfaenger (Sozialgericht der Behoerde statt Wohnort) → Wohnort-SG waehlen
+- Falscher Empfaenger (Sozialgericht der Behörde statt Wohnort) → Wohnort-SG waehlen
 - Datei ohne PDF gesendet → in PDF konvertieren
 - Quittung nicht gespeichert → immer speichern als Beweis
 - Identifikation klappt nicht → Hotline oder ELSTER-Alternative
@@ -115,8 +115,7 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. MJP seit 2024 fuer alle Buerger oeffentlich. § 65a SGG fuer elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
-
+Stand: 05/2026. MJP seit 2024 für alle Buerger oeffentlich. § 65a SGG für elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
 
 ## Qualitäts-Hardening
 

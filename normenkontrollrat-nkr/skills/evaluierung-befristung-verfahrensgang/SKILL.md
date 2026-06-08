@@ -1,34 +1,21 @@
 ---
 name: evaluierung-befristung-verfahrensgang
-description: "Evaluierung Befristung Verfahrensgang im Plugin Normenkontrollrat Nkr: prüft konkret Praxis-Skill zur Empfehlung von Evaluierungsklauseln, Skizziert den Verfahrensgang eines Vorhabens von der. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Evaluierung Befristung Verfahrensgang
+# NKR-Evaluierung, Befristung, Sunset-Klausel
 
 ## Arbeitsbereich
 
-**Evaluierung Befristung Verfahrensgang** ordnet den Fall über die tragenden Prüffelder: Praxis-Skill zur Empfehlung von Evaluierungsklauseln, Skizziert den Verfahrensgang eines Vorhabens von der. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-evaluierung-befristung-sunset-klausel` | Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten. |
-| `nkr-verfahrensgang-referentenentwurf-bis-bundestag` | Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung. |
+Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-evaluierung-befristung-sunset-klausel`
-
-**Fokus:** Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten.
-
-# NKR-Evaluierung, Befristung, Sunset-Klausel
 
 ## Worum geht es konkret
 
@@ -50,7 +37,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - **NKRG** § 4, § 7 — methodische und berichtende Funktion
 - **Konzept zur Evaluierung neuer Regelungsvorhaben** der Bundesregierung
 - **Leitfaden BMI / NKR** — Evaluierungsmodul
-- **HdR** Teil C — Klauseltechnik fuer Inkrafttreten / Befristung
+- **HdR** Teil C — Klauseltechnik für Inkrafttreten / Befristung
 
 ## Drei Instrumente im Vergleich
 
@@ -60,7 +47,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 | Befristung | Gesetz laeuft aus, soweit nicht verlaengert | 5-10 Jahre |
 | Sunset | Gesetz tritt automatisch ausser Kraft, ohne Verlaengerung neu | 5 Jahre |
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Wann Evaluierungsklausel
 
@@ -117,7 +104,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 >
 > *(1) Das Bundesministerium [Federfuehrer] berichtet dem Bundestag bis zum [TT.MM.JJJJ] ueber die Anwendung und Wirksamkeit dieses Gesetzes. Der Bericht enthaelt insbesondere Aussagen zu*
 > *1. der tatsaechlichen Fallzahl der nach diesem Gesetz Verpflichteten,*
-> *2. dem tatsaechlichen Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung,*
+> *2. dem tatsaechlichen Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung,*
 > *3. der Zielereichung im Sinne von [Konkretisierung],*
 > *4. unbeabsichtigten Folgen sowie Vorschlaegen zur Anpassung.*
 
@@ -151,128 +138,3 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - Handbuch der Rechtsfoermlichkeit Teil C
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-
-**Fokus:** Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung.
-
-# NKR-Verfahrensgang Referentenentwurf bis Bundestag
-
-## Worum geht es konkret
-
-Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere fuer jeden neuen NKR-Referenten und Pruefer.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Vorgang ist zeitlich unklar verortet ("Wann hat der NKR welche Frist?")
-- Frist fuer NKR-Befassung steht im Streit mit Ressort
-- Vorhaben kommt erst spaet aus dem parlamentarischen Verfahren zurueck (Aenderungsantrag)
-
-Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **§ 4 NKRG** — Pruefungspflicht
-- **§ 62 GGO** — NKR-Beteiligung vor Kabinettsbefassung
-- **§ 45 GGO** — Erfuellungsaufwand-Darstellung in der Begruendung
-- **§ 47 GGO** — Beteiligung der Laender, Verbaende, Fachkreise
-- **§ 70 GO BT, § 70a GO BT** — Bundestagsverfahren
-- **§ 26 GG, Art. 76, 77 GG** — Gesetzgebungsverfahren
-
-## Pruefraster / Schritt fuer Schritt
-
-### Phase 1 — Ressort-interne Vorbereitung
-
-- Ressort entwirft Eckpunkte
-- Erste Folgenabschaetzung (intern)
-- **NKR formal nicht beteiligt**, kann aber informell konsultiert werden
-
-### Phase 2 — Referentenentwurf
-
-- Ressort versendet Referentenentwurf
-- **NKR-Befassung beginnt** (Vorlage durch Federfuehrer)
-- Frist: meist 4 Wochen, in Eilfaellen kuerzer
-- Parallele Laender- und Verbaendeanhoerung (§ 47 GGO)
-- NKR-Vorpruefung: Methodik, Vollstaendigkeit, Plausibilitaet
-
-### Phase 3 — Ressortabstimmung
-
-- BMJ-Rechtsfoermlichkeitspruefung
-- BMI-Pruefung Verwaltungstauglichkeit
-- BMF-Pruefung Haushaltsfolgen
-- NKR ueberprueft ggf. nachgereichte Daten
-
-### Phase 4 — Kabinettsbefassung
-
-- Vorlage an Kabinett mit **NKR-Stellungnahme als Anlage**
-- Kabinettsbeschluss
-- Versendung an Bundesrat (1. Durchgang) und Bundestag
-
-### Phase 5 — Bundesrat 1. Durchgang
-
-- Stellungnahme Bundesrat
-- Gegenaeusserung Bundesregierung
-
-### Phase 6 — Bundestag
-
-- Erste Lesung
-- Federfuehrender Ausschuss; Anhoerung
-- **NKR kann zur Anhoerung geladen werden** (Skill `nkr-stellungnahme-zum-bundestag-anhoerung`)
-- Aenderungsantraege: bei wesentlichen Aenderungen erneute NKR-Befassung?
-- Zweite und dritte Lesung; Abstimmung
-
-### Phase 7 — Bundesrat 2. Durchgang
-
-- Zustimmungs- oder Einspruchsgesetz
-- ggf. Vermittlungsausschuss
-
-### Phase 8 — Ausfertigung und Verkuendung
-
-- Art. 82 GG
-- Inkrafttreten
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Frist verkuerzt, ohne Notbegruendung
-- NKR-Stellungnahme nicht der Kabinettsvorlage beigefuegt
-- Wesentliche Aenderungen im parlamentarischen Verfahren ohne erneute Befassung
-- Formulierungshilfe statt Referentenentwurf, um NKR zu umgehen
-
-## Trade-off-Matrix
-
-| Phase | NKR-Andockpunkt | Standard-Frist |
-|---|---|---|
-| Referentenentwurf | Vorpruefung, Erstberatung | 4 Wochen |
-| Ressortabstimmung | Nachfrage Daten | 1 Woche |
-| Vor Kabinett | Foermliche Stellungnahme | spaetestens 1 Woche vor Kabinett |
-| Bundestag | ggf. Anhoerung | Ad hoc |
-| Wesentliche Aenderung | Nachpruefung | je nach Umfang |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der NKR ist am [Datum] mit dem Vorhaben befasst worden. Die Frist zur Stellungnahme betrug [X] Wochen."
-- "Aufgrund der erheblichen inhaltlichen Aenderungen im parlamentarischen Verfahren hat der NKR mit Schreiben vom [Datum] eine ergaenzende Stellungnahme abgegeben."
-- "Der NKR weist darauf hin, dass die Beteiligungsfrist von [X] Werktagen die methodische Vorpruefung nur eingeschraenkt erlaubt."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- NKR-Befassung als blosse Pflichtuebung mit zu kurzer Frist
-- Datenlieferung erst nach Stellungnahme-Anforderung
-- "Formulierungshilfe" als Umgehung der NKR-Befassung
-- Aenderungen vor Kabinett, die der NKR nicht mehr sieht
-
-## Querverweise
-
-- `nkr-orientierung-und-mandatsaufnahme`
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
-- `nkr-stellungnahme-zum-bundestag-anhoerung`
-- `legistik-werkstatt/legw-gesetzgebungsverfahren-bauleiter`
-
-## Quellen Stand 06/2026
-
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 4, 6
-- §§ 44, 45, 47, 62 GGO
-- §§ 70, 70a GO BT
-- Art. 76, 77, 82 GG
-- Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

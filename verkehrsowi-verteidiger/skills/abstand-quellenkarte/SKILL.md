@@ -37,3 +37,27 @@ Diese Quellenkarte sichert im Bereich **Verkehrsowi Verteidiger** tragende Norme
 - Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
 - Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
 - Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 67 OWiG
+- § 79 OWiG
+- § 26 StVG
+- § 31 OWiG
+- § 25 StVG
+- § 24a StVG
+- § 55 OWiG
+- § 33 OWiG
+- § 77 OWiG
+- § 316 StGB
+- § 71 OWiG
+- § 49 OWiG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

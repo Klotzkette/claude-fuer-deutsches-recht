@@ -7,23 +7,23 @@ description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urhebe
 
 ## Arbeitsbereich
 
-**Verlagsredaktion International Urheber** ordnet den Fall über die tragenden Prüffelder: Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verlagsredaktion International Urheber** ordnet den Fall über die tragenden Prüfungslinien: Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-verlagsredaktion-international-schnittstellen` | Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `urheber-abmahnung-pruefen` | Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung). |
-| `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster fuer Betroffene und Plattform. |
+| `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster für Betroffene und Plattform. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheber- und Medienrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-verlagsredaktion-international-schnittstellen`
 
@@ -32,11 +32,7 @@ description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urhebe
 # Verlagsredaktion: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Verlagsredaktion: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Verlagsredaktion: Internationaler Bezug und Schnittstellen / verlagsredaktion international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -88,7 +84,7 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 8. Liegt eine "massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -157,7 +153,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -380,25 +375,21 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 3. `urhmr-deepfake-persoenlichkeitsrecht-spezial`
 
-**Fokus:** Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster fuer Betroffene und Plattform.
+**Fokus:** Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster für Betroffene und Plattform.
 
 # UrhMR: Deepfake Persoenlichkeitsrecht
 
 ## Spezialwissen: UrhMR: Deepfake Persoenlichkeitsrecht
-- **Spezialgegenstand:** UrhMR: Deepfake Persoenlichkeitsrecht / urhmr deepfake persoenlichkeitsrecht spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KUG, AI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -426,7 +417,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

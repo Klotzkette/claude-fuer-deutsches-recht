@@ -22,7 +22,7 @@ Die folgende Matrix ordnet jedem Verfahrensbeteiligten den zulässigen KI-Einsat
 ## KI-VO-Fragen
 
 - Ist das Tool ein KI-System nach Art. 3 Nr. 1 KI-VO?
-- Wird es fuer Justizverwaltung, Rechtsanwendung oder Entscheidungsunterstützung verwendet?
+- Wird es für Justizverwaltung, Rechtsanwendung oder Entscheidungsunterstützung verwendet?
 - Betrifft der Einsatz Anhang III: rechtliche Tatsachen- oder Rechtsbewertung im konkreten Fall?
 - Gibt es Transparenz, Logging, menschliche Kontrolle und Dokumentation?
 
@@ -41,4 +41,4 @@ Erzeuge eine Rollenmatrix mit:
 - rechtlichem Risiko;
 - erforderlichem Hinweis oder Vermerk;
 - Beweis- und Akteneinsichtsfrage;
-- Vorschlag fuer sichere Nutzung.
+- Vorschlag für sichere Nutzung.

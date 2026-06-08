@@ -1,34 +1,21 @@
 ---
 name: corporate-beirat-gmbh
-description: "Beirat Gmbh im Corporate-Kanzlei-Praxis: prüft konkret Corporate, Prüft und entwirft GmbH-Beiratsregeln für mittelständische. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Corporate Kanzlei: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Beirat Gmbh
+# Corporate: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Arbeitsbereich
 
-**Beirat Gmbh** ordnet den Fall über die tragenden Prüffelder: Corporate, Prüft und entwirft GmbH-Beiratsregeln für mittelständische. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `spezial-corporate-erstpruefung-und-mandatsziel` | Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` | Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. |
+Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Corporate Kanzlei klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `spezial-corporate-erstpruefung-und-mandatsziel`
-
-**Fokus:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-# Corporate: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -38,13 +25,8 @@ description: "Beirat Gmbh im Corporate-Kanzlei-Praxis: prüft konkret Corporate,
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Spezialwissen: Corporate: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel / corporate erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** SPA, APA, StaRUG, PMI.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -89,22 +71,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 2. `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
-
-**Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
-
-# GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
-
-## Kernproblem
-Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren.
-
-## Prüfpunkte
-1. Kompetenzquelle: Satzung, Geschäftsordnung, Shareholders' Agreement, Stimmbindung.
-2. Zustimmungskatalog: Budget, Capex, Debt, M&A, IP, Litigation, Related Party, Geschäftsführerbestellung, Insolvenzantrag.
-3. Mehrheit: einfache Mehrheit, qualifizierte Mehrheit, Investor Consent, Vetorecht, Deadlock-Mechanismus.
-4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
-5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
-
-## Output
-Satzungsbaustein, Geschäftsordnungsbaustein und Tabelle `Maßnahme / Schwelle / Gremium / Mehrheit / Konflikt / Eskalation / Dokumentation`.

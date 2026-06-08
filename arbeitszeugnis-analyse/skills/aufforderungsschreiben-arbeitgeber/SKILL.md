@@ -33,7 +33,7 @@ Kurzer Block: Anspruch aus Paragraf 109 Absatz 1 Satz 3 GewO auf wohlwollende Be
 
 ### Baustein 4 Beanstandungen pro Streitstelle
 
-Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts in Anfuehrungszeichen. Erlaeuterung, was der Wortlaut in der Zeugnissprache bedeutet (Geheimcode-Hinweis, Drift, Auslassung, Steigerungsadverb). Verweis auf einschlaegige BAG-Entscheidungen oder den Stand der Literatur. Vorschlag fuer die neue Formulierung in Anfuehrungszeichen. Begruendung, warum die neue Formulierung der Wahrheit entspricht und dem Wohlwollensgebot genuegt.
+Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts in Anfuehrungszeichen. Erlaeuterung, was der Wortlaut in der Zeugnissprache bedeutet (Geheimcode-Hinweis, Drift, Auslassung, Steigerungsadverb). Verweis auf einschlaegige BAG-Entscheidungen oder den Stand der Literatur. Vorschlag für die neue Formulierung in Anfuehrungszeichen. Begruendung, warum die neue Formulierung der Wahrheit entspricht und dem Wohlwollensgebot genuegt.
 
 ### Baustein 5 Schlussformel und Gesamtbild
 
@@ -41,7 +41,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Baustein 6 Fristsetzung
 
-Konkrete kalendermaessige Frist mit Datum (kein "binnen zwei Wochen"). Empfohlen sind zwei bis drei Wochen ab Zugang. Bei Eilbeduerftigkeit (anstehendes Vorstellungsgespraech) kuerzere Frist mit Begruendung. Hinweis auf Verzug bei fruchtlosem Fristablauf.
+Konkrete kalendermäßige Frist mit Datum (kein "binnen zwei Wochen"). Empfohlen sind zwei bis drei Wochen ab Zugang. Bei Eilbeduerftigkeit (anstehendes Vorstellungsgespraech) kuerzere Frist mit Begruendung. Hinweis auf Verzug bei fruchtlosem Fristablauf.
 
 ### Baustein 7 Klageandrohung
 
@@ -69,7 +69,7 @@ Wir beanstanden im Einzelnen:
 
 [Weitere Punkte analog.]
 
-Wir bitten Sie, das berichtigte Zeugnis bis zum [Datum] in einfacher Form und auf Geschaeftspapier ohne Anlassbezug auf das Berichtigungsverlangen zu erteilen. Sollte das Zeugnis nicht fristgerecht in der vorgeschlagenen Form neu erteilt werden, werden wir Klage zum zustaendigen Arbeitsgericht erheben.
+Wir bitten Sie, das berichtigte Zeugnis bis zum [Datum] in einfacher Form und auf Geschaeftspapier ohne Anlassbezug auf das Berichtigungsverlangen zu erteilen. Sollte das Zeugnis nicht fristgerecht in der vorgeschlagenen Form neu erteilt werden, werden wir Klage zum zuständigen Arbeitsgericht erheben.
 
 Die durch unsere Einschaltung entstandenen Anwaltskosten machen wir bereits jetzt als Verzugsschaden geltend; eine Bezifferung erfolgt mit gesondertem Schreiben.
 
@@ -85,7 +85,7 @@ Anlagen: Vollmacht, Zeugnis vom [Datum], Vorzeugnis vom [Datum]
 | --- | --- |
 | Hoeflich, bestimmt, sachlich | Keine Drohgebaerden, kein Empoerungston |
 | Konkrete Wortlaute, nicht "bitte verbessern" | Pro Streitstelle alter und neuer Wortlaut in Anfuehrungszeichen |
-| Belege fuer Geheimcodes | BAG-Rechtsprechung, Quellenprüfung, kein Verweis auf interne Notenmatrix |
+| Belege für Geheimcodes | BAG-Rechtsprechung, Quellenprüfung, kein Verweis auf interne Notenmatrix |
 | Frist kalendermaessig | Konkretes Datum, keine Zeitspanne ohne Anker |
 | Klageandrohung nur am Ende | Einmal, knapp, ohne Wiederholung |
 | Schlussformel mit Anlagenverzeichnis | Vollmacht, Zeugnis, Vorzeugnis, Korrespondenz |

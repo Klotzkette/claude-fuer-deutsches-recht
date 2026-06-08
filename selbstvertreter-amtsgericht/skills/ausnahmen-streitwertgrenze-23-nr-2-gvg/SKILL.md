@@ -3,7 +3,7 @@ name: ausnahmen-streitwertgrenze-23-nr-2-gvg
 description: "Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG."
 ---
 
-# Wann ist das Amtsgericht **immer** zustaendig (egal wie hoch der Streitwert)?
+# Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?
 
 ## Worum geht es?
 
@@ -14,7 +14,7 @@ Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EU
 - Sie haben eine Mietsache (egal welcher Betrag).
 - Es geht um eine Reisemangel-Erstattung.
 - Sie streiten um Unterhalt.
-- Sie sind unsicher, ob Ihr Streit unter eine Sonderzustaendigkeit faellt.
+- Sie sind unsicher, ob Ihr Streit unter eine Sonderzuständigkeit faellt.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -33,7 +33,7 @@ Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EU
 - **§ 23b GVG** — Betreuungssachen.
 - **§ 23c GVG** — Nachlass- und Teilungssachen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen Sie, ob Wohnraummietsache vorliegt
 
@@ -65,7 +65,7 @@ Ehesachen, Folgesachen (Versorgungsausgleich, Hausrat), Sorgerecht, Umgang, Kind
 
 ### Schritt 4 — Unterhalt zwischen Verwandten?
 
-Heute Hauptregelung ueber Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt fuer Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
+Heute Hauptregelung ueber Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt für Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
 
 ### Schritt 5 — Nachlass- oder Betreuungssache?
 
@@ -74,7 +74,7 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 ## Worauf Sie besonders achten muessen
 
 - **"Wohnraum" eng auslegen**: Eine reine Garagen-Vermietung ohne Wohnraum-Verbund ist **kein** § 23 Nr. 2 a GVG. Wenn die Garage Annex der Wohnung ist, hingegen schon.
-- **Reiseveranstalter-Insolvenz** ist eine andere Materie (Reisesicherungsschein-Anspruechre gegen Sicherungsfonds). Hier kann die Zustaendigkeit anders liegen.
+- **Reiseveranstalter-Insolvenz** ist eine andere Materie (Reisesicherungsschein-Anspruechre gegen Sicherungsfonds). Hier kann die Zuständigkeit anders liegen.
 - **Mischformen** (Mieter wohnt und arbeitet von zuhause): Im Zweifel Schwerpunkt-Lehre — wo ist der Schwerpunkt? Aufgaben-, Flaechen- oder Mietzweck.
 
 ## Typische Fehler
@@ -85,14 +85,13 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 
 ## Querverweise
 
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
-- `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
+- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
 - `anwaltszwang-pruefen-78-zpo` — Familiensache und Anwaltszwang.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzustaendigkeiten nicht.
-
+Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzuständigkeiten nicht.
 
 ## Qualitäts-Hardening
 

@@ -21,7 +21,7 @@ Diese Quellenkarte sichert im Bereich **Jurastudium** tragende Normen, Rechtspre
 - `karteikarten-lernplan-lernsitzung`
 - `lernstrategien-livecheck-sonderfall-loesungsschemata-interessen`
 - `lernstrategien-loesungsschemata-methodenlehre-grundlagen`
-- `methodenlehre-oeffentliches-methodenlehre-strafrecht`
+- `methodenlehre-öffentliches-methodenlehre-strafrecht`
 - `methodenlehre-rechtsgeschichte-referendariat`
 
 ## Prüfroute

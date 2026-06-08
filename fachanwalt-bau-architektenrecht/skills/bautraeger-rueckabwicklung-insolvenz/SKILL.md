@@ -7,24 +7,24 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 
 ## Arbeitsbereich
 
-**Bautraeger Rueckabwicklung Insolvenz** ordnet den Fall über die tragenden Prüffelder: Bautraeger-Rueckabwicklung bei Insolvenz, Selbstvornahme und Vorschussklage gegen den Bautraeger, Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Rueckabwicklung Insolvenz** ordnet den Fall über die tragenden Prüfungslinien: Bautraeger-Rueckabwicklung bei Insolvenz, Selbstvornahme und Vorschussklage gegen den Bautraeger, Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bautraeger-rueckabwicklung-bei-insolvenz` | Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster. |
 | `bautraeger-selbstvornahme-und-vorschussklage` | Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster. |
 | `bautraeger-sonderwuensche-zusaetzliche-vereinbarungen` | Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf. |
-| `bautraeger-typische-nichtigkeitsfallen-checkliste` | Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien fuer den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit. |
+| `bautraeger-typische-nichtigkeitsfallen-checkliste` | Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien für den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-rueckabwicklung-bei-insolvenz`
 
@@ -147,7 +147,7 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 
 ## 4. `bautraeger-typische-nichtigkeitsfallen-checkliste`
 
-**Fokus:** Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien fuer den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit.
+**Fokus:** Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien für den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit.
 
 # Bautraeger Typische Nichtigkeitsfallen Checkliste
 

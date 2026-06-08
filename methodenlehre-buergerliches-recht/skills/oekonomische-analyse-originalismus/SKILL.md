@@ -7,10 +7,10 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 
 ## Arbeitsbereich
 
-**Oekonomische Analyse Originalismus** ordnet den Fall über die tragenden Prüffelder: Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Oekonomische Analyse Originalismus** ordnet den Fall über die tragenden Prüfungslinien: Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern. |
 | `originalismus-und-gesetzgebungsmaterialien-deutschland` | Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem. |
@@ -20,12 +20,12 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `oekonomische-analyse-des-rechts-coase-posner`
 
@@ -40,7 +40,6 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -62,7 +61,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Hauptvertreter und Klassische Werke:**
 
-- **Ronald H. Coase** (1910-2013), "The Problem of Social Cost", Journal of Law and Economics 1960. Nobelpreis 1991. Das Coase-Theorem: Bei null Transaktionskosten ist die Verteilung der Eigentumsrechte irrelevant fuer die effiziente Ressourcennutzung; die Parteien handeln das effiziente Ergebnis aus. Praktisch wichtig: Transaktionskosten sind selten null; daher bestimmt das Recht, wer die Lasten traegt.
+- **Ronald H. Coase** (1910-2013), "The Problem of Social Cost", Journal of Law and Economics 1960. Nobelpreis 1991. Das Coase-Theorem: Bei null Transaktionskosten ist die Verteilung der Eigentumsrechte irrelevant für die effiziente Ressourcennutzung; die Parteien handeln das effiziente Ergebnis aus. Praktisch wichtig: Transaktionskosten sind selten null; daher bestimmt das Recht, wer die Lasten traegt.
 - **Richard A. Posner** (geb. 1939), "Economic Analysis of Law", erstmals 1973 (mehrere Auflagen). Versuch, das gesamte Privat- und Strafrecht effizienzoekonomisch zu rekonstruieren.
 - **Guido Calabresi** (geb. 1932), "The Costs of Accidents: A Legal and Economic Analysis", 1970. Schadensrechtliche Anwendung.
 - **Frank Easterbrook** und **Daniel Fischel**, "The Economic Structure of Corporate Law", 1991.
@@ -84,19 +83,19 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Beispiel § 254 BGB (Mitverschulden):** Oekonomische Analyse — Mitverschuldensregel verteilt Anreize zur Schadensvermeidung. Beide Seiten sollen optimale Vorsorge betreiben. Die Beweislastregel beeinflusst die Anreize. Das deutsche Recht (Abwaegung im Einzelfall) und das US-Recht (vergleichende Fahrlaessigkeit) loesen unterschiedlich.
 
-**Beispiel § 906 BGB (Nachbarrecht):** Coase-Theorem-Anwendung. Wer haftet fuer Immissionen, der Verursacher oder der Geschaedigte? In der Praxis verteilt § 906 BGB die Lasten und ermoeglicht Ausgleich. Bei niedrigen Transaktionskosten haetten die Nachbarn auch ohne Recht eine effiziente Loesung gefunden; bei hohen Transaktionskosten ist die gesetzliche Verteilung wichtig.
+**Beispiel § 906 BGB (Nachbarrecht):** Coase-Theorem-Anwendung. Wer haftet für Immissionen, der Verursacher oder der Geschaedigte? In der Praxis verteilt § 906 BGB die Lasten und ermoeglicht Ausgleich. Bei niedrigen Transaktionskosten haetten die Nachbarn auch ohne Recht eine effiziente Loesung gefunden; bei hohen Transaktionskosten ist die gesetzliche Verteilung wichtig.
 
-**Beispiel ProdHaftG:** Strict liability schafft Anreize fuer Hersteller, in Produktsicherheit zu investieren. Calabresi: cheapest cost avoider — der Hersteller kann am billigsten Schadensvermeidung organisieren.
+**Beispiel ProdHaftG:** Strict liability schafft Anreize für Hersteller, in Produktsicherheit zu investieren. Calabresi: cheapest cost avoider — der Hersteller kann am billigsten Schadensvermeidung organisieren.
 
-**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** AGB sparen Transaktionskosten (keine individuelle Verhandlung). Aber sie koennen Informationsasymmetrien ausnutzen. Effizienz-Argument: AGB-Kontrolle soll Informationsdefizite kompensieren; uebermaessige Kontrolle erhoeht Transaktionskosten und verteuert Vertraege.
+**Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** AGB sparen Transaktionskosten (keine individuelle Verhandlung). Aber sie koennen Informationsasymmetrien ausnutzen. Effizienz-Argument: AGB-Kontrolle soll Informationsdefizite kompensieren; uebermäßige Kontrolle erhoeht Transaktionskosten und verteuert Vertraege.
 
 **Beispiel Vertragsschluss und Bindung:** Pacta sunt servanda als Effizienzregel — Vertragsbindung ermoeglicht Vertrauen, ermoeglicht Vorleistungen und investitionen, senkt Transaktionskosten.
 
 **Beispiel Vorvertragliches Schutzverhaeltnis (§ 311 Abs. 2 BGB, c.i.c.):** Aufklaerungspflichten sind effizient, wenn die aufzuklaerende Partei billiger informiert werden kann als sie selbst sich informieren kann.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
-1. **Anreizstruktur identifizieren.** Welche Norm setzt welche Anreize fuer welche Akteure?
+1. **Anreizstruktur identifizieren.** Welche Norm setzt welche Anreize für welche Akteure?
 2. **Transaktionskosten betrachten.** Wie hoch sind die Kosten der Verhandlung, Information, Durchsetzung?
 3. **Cheapest cost avoider identifizieren.** Wer kann den Schaden am billigsten vermeiden?
 4. **Effizienz-Vergleich.** Welche Auslegung minimiert die gesamtgesellschaftlichen Kosten?
@@ -106,7 +105,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 ## Typische Fehler / Kritik
 
 - **Effizienz mit Gerechtigkeit verwechseln.** Effizienz ist eine Steuerungskategorie, nicht eine Wertungskategorie. Eine effiziente Regel kann ungerecht sein (und umgekehrt).
-- **Coase-Theorem als Beweis fuer "Mehr Markt".** Coase selbst hat betont: Transaktionskosten sind real und positiv. Sein Theorem zeigt **gerade**, warum Rechtsregeln wichtig sind, nicht warum sie ueberfluessig waeren.
+- **Coase-Theorem als Beweis für "Mehr Markt".** Coase selbst hat betont: Transaktionskosten sind real und positiv. Sein Theorem zeigt **gerade**, warum Rechtsregeln wichtig sind, nicht warum sie ueberfluessig waeren.
 - **Posner als universale Methode behandeln.** Posner und die Chicago School haben einen normativen Anspruch, der mit deutscher Verfassung und Wertungsjurisprudenz nicht vollstaendig kompatibel ist.
 - **Verteilungswirkungen ausblenden.** Effizienz misst Gesamtkosten, nicht die Verteilung. Eine "effiziente" Regel kann den Schwaecheren ueberproportional belasten.
 
@@ -114,7 +113,7 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Kritik aus Critical Legal Studies:** Die Behauptung, eine bestimmte Auslegung sei "effizient", ist nie wertneutral. Die Auswahl der Effizienzkriterien (Pareto vs. Kaldor-Hicks, Gewichtung von Wohlfahrt) ist politisch.
 
-**Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer fuer Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
+**Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer für Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
 
 ## Querverweise
 
@@ -134,7 +133,6 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 - §§ 254, 305 ff., 311 Abs. 2, 573, 906 BGB; ProdHaftG (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 
@@ -157,7 +155,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Der Originalismus fragt nach dem ursprünglichen Sinn und Willen des Gesetzgebers bei Normschaffung. Im deutschen Recht hat er eine starke Tradition im Rückgriff auf BGB-Motive und Bundestags-Protokolle. Dieses Skill untersucht die methodischen Grundlagen, Grenzen und den Vergleich zum US-amerikanischen Originalismus.
 
@@ -247,7 +244,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die Pandektenwissenschaft (auch Pandektistik) ist die wissenschaftliche Bewegung des 19. Jahrhunderts, die das gemeine roemische Recht (Corpus Iuris Civilis, insbesondere die Pandekten oder Digesten) systematisch aufgearbeitet hat. Aus ihr ist die Begriffsjurisprudenz hervorgegangen — die methodische Position, dass Recht aus Begriffen logisch ableitbar sei.
@@ -304,7 +300,7 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 **Beispiel Anspruch:** Windscheids Anspruchsbegriff (Anspruch = Recht, von einem anderen ein Tun oder Unterlassen zu verlangen) ist Grundlage von § 194 Abs. 1 BGB. Anspruchsgrundlagen-Pruefung ist begriffsjuristische Erbschaft.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Begriffsstruktur identifizieren.** Welche dogmatischen Begriffe sind im Spiel?
 2. **Begriffspyramide nachvollziehen.** Welcher Oberbegriff erfasst den Fall?
@@ -343,7 +339,6 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -365,7 +360,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Der juristische Positivismus fordert die strikte Rückbindung aller Rechtsanwendung an den Normtext und schließt außerrechtliche Wertungen von der Rechtsfindung aus. Dieses Skill analysiert den Positivismus als Methodenkonzept, seine praktischen Konsequenzen und seine Grenzen im deutschen Zivilrecht.
 
@@ -454,7 +448,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Postfaktische Argumente arbeiten mit falschen oder unverifizierten Tatsachenbehauptungen, die als Grundlage für rechtliche Schlussfolgerungen ausgegeben werden. Sie sind in juristischen Texten häufiger als angenommen. Dieses Skill erkennt diese Argumente, dekonstruiert sie methodisch und liefert belastbare Gegenargumente.
 

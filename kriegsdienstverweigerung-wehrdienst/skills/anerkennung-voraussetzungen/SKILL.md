@@ -1,44 +1,26 @@
 ---
 name: anerkennung-voraussetzungen
-description: "Anerkennung Voraussetzungen im Kriegsdienstverweigerung und Wehrdienst: prüft konkret Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel, Erklärt Fortgeltung alter Anerkennungsbescheide und, Unterscheidet Gewissensgründe von Angst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel im Kriegsdienstverweigerung Wehrdienst: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anerkennung Voraussetzungen
+# Anerkennung § 5 KDVG
 
 ## Arbeitsbereich
 
-**Anerkennung Voraussetzungen** ordnet den Fall über die tragenden Prüffelder: Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel, Erklärt Fortgeltung alter Anerkennungsbescheide und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `anerkennung-voraussetzungen-kdvg-5` | Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. |
-| `anerkennungsbescheid-gueltigkeit` | Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien. |
-| `angst-karriere-gesundheit-abgrenzen` | Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen. |
-| `anhoerungsprotokoll-und-korrektur` | Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf. |
-| `anlagenverzeichnis-kdv` | Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag. |
+Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `anerkennung-voraussetzungen-kdvg-5`
-
-**Fokus:** Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel.
-
-# Anerkennung § 5 KDVG
 
 ## Fachkern: Anerkennung § 5 KDVG
-- **Spezialgegenstand:** Anerkennung § 5 KDVG; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Einsatz
 Ordnet Behördenrollen, Musterung, Registrierung, Zuleitung, Anhörung, Anerkennung und Ablehnung.
@@ -82,222 +64,31 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 
-## 2. `anerkennungsbescheid-gueltigkeit`
+## Normen und Rechtsprechung
 
-**Fokus:** Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien.
+### Kuratierte Normen-Bibliothek
 
-# Gültigkeit alter Bescheide
+- Art. 4 Abs. 3 GG (Kriegsdienstverweigerung)
+- Art. 12a GG (Wehr- und Ersatzdienst)
+- §§ 1, 2 KDVG (Anerkennungsverfahren)
+- § 3 KDVG (Antragspflicht, Form)
+- §§ 6-9 KDVG (Entscheidung Bundesamt, Anerkennungsausschuss)
+- §§ 14, 15 KDVG (Rechtsbehelfe)
+- §§ 1, 3 WPflG (Wehrpflicht)
+- § 12 WPflG (Ausnahmen)
+- VwGO §§ 42, 75 (Anfechtungs-/Verpflichtungsklage)
+- VwVfG §§ 28, 35 (Anhörung, Verwaltungsakt)
 
-## Fachkern: Gültigkeit alter Bescheide
-- **Spezialgegenstand:** Gültigkeit alter Bescheide; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
-- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+### Leitentscheidungen
 
+- BVerwG 6 C 4.83 (Gewissensentscheidung)
+- BVerfG 2 BvR 2056/03 (Anerkennung KDV)
+- BVerwG 6 C 26.07 (Reservisten-KDV)
+- BVerfG 2 BvR 1289/97 (Gewissensprüfung Reichweite)
+- BVerwG 6 C 2.21 (Maßstab Anerkennungsausschuss)
 
-## Einsatz
-Erklärt Status-, Ersatzdienst-, Nachweis-, Archivierungs- und Kostenfolgen nach Antrag oder Anerkennung.
+### Anwendung im Skill
 
-## Fachlicher Kern
-Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-BAFzA-Hinweise; KDVG § 12
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
-## Rote Linien
-Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
-
-## Anschluss-Skills
-- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
-## 3. `angst-karriere-gesundheit-abgrenzen`
-
-**Fokus:** Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen.
-
-# Angst Karriere Gesundheit
-
-## Fachkern: Angst Karriere Gesundheit
-- **Spezialgegenstand:** Angst Karriere Gesundheit; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
-- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Einsatz
-Trennt KDV von Totalverweigerung, politischer Situationskritik, Angst, Gesundheit, Karriere oder bloßer Zweckmäßigkeit.
-
-## Fachlicher Kern
-Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-KDVG §§ 1, 5; WPflG §§ 8a, 9, 12
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
-## Rote Linien
-Keine Totalverweigerung, Dienstflucht oder bloße politische Situationsverweigerung als KDV-Begründung ausgeben.
-
-## Anschluss-Skills
-- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
-## 4. `anhoerungsprotokoll-und-korrektur`
-
-**Fokus:** Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf.
-
-# Anhörungsprotokoll prüfen
-
-## Fachkern: Anhörungsprotokoll prüfen
-- **Spezialgegenstand:** Anhörungsprotokoll prüfen; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
-- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Einsatz
-Ordnet Behördenrollen, Musterung, Registrierung, Zuleitung, Anhörung, Anerkennung und Ablehnung.
-
-## Fachlicher Kern
-Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-KDVG § 6 Abs. 2; VwVfG/VwGO live prüfen
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
-## Rote Linien
-Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
-
-## Anschluss-Skills
-- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
-## 5. `anlagenverzeichnis-kdv`
-
-**Fokus:** Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag.
-
-# Anlagenverzeichnis KDV
-
-## Fachkern: Anlagenverzeichnis KDV
-- **Spezialgegenstand:** Anlagenverzeichnis KDV; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
-- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Einsatz
-Macht aus einem inneren Anliegen ein vollständiges, nachweisbares Antragspaket nach § 2 KDVG.
-
-## Fachlicher Kern
-Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-KDVG § 2
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
-## Rote Linien
-Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
-
-## Anschluss-Skills
-- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Massstab.
+- Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
+- Rechtsschutz nach §§ 14, 15 KDVG ueber VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.

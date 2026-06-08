@@ -30,7 +30,7 @@ Im Gegensatz zum Strafrecht ist die eigene Aussage im Zivilprozess **kein** voll
 - **§ 448 ZPO** — Vernehmung von Amts wegen.
 - **§ 452 ZPO** — Glaubwuerdigkeit, Eid.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Subsidiaritaet pruefen
 
@@ -43,7 +43,7 @@ Beispiel: Sie wollen beweisen, dass am Telefon ein Vertrag geschlossen wurde. Ke
 ```
 Beweis: Vernehmung des Klaegers als Partei
  gemaess § 448 ZPO,
- zum Beweis dafuer, dass am 5.3.2025
+ zum Beweis dafür, dass am 5.3.2025
  in einem Telefongespraech um 10:30 Uhr
  zwischen dem Klaeger und dem Beklagten
  ein Kaufvertrag ueber [Sache] zum
@@ -71,7 +71,7 @@ Aber: Eine konsistente, detaillierte Aussage kann ueberzeugen.
 ### Schritt 6 — Im Termin
 
 - Belehrung durch Gericht.
-- Anhoerung zur Person.
+- Anhörung zur Person.
 - Vernehmung zur Sache.
 - Fragen der Gegenseite und des Gerichts.
 
@@ -92,7 +92,7 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 
 ## Typische Fehler
 
-- "Meine Aussage ist Beweis fuer alles." → Im Zivilprozess nur subsidiaer.
+- "Meine Aussage ist Beweis für alles." → Im Zivilprozess nur subsidiaer.
 - "Ich werde im Termin erzaehlen, was ich erinnere." → Lieber vorab sortieren.
 - "Bei Falschaussage passiert nichts." → Strafrechtlich relevant.
 
@@ -106,7 +106,6 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 445 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

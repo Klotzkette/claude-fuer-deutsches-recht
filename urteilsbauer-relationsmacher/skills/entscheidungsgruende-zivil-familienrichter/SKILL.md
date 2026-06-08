@@ -1,35 +1,23 @@
 ---
 name: entscheidungsgruende-zivil-familienrichter
-description: "Entscheidungsgruende Zivil Familienrichter im Plugin Urteilsbauer Relationsmacher: prüft konkret Entscheidungsgründe eines Zivilurteils im Urteilsstil, FamFG-Spezifika für Familienrichter anwenden, Incoterms-Klausel und Gefahruebergang in internationalem. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Entscheidungsgruende Zivil Familienrichter
+# Entscheidungsgründe schreiben
 
 ## Arbeitsbereich
 
-**Entscheidungsgruende Zivil Familienrichter** ordnet den Fall über die tragenden Prüffelder: Entscheidungsgründe eines Zivilurteils im Urteilsstil, FamFG-Spezifika für Familienrichter anwenden, Incoterms-Klausel und Gefahruebergang in internationalem. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `entscheidungsgruende-zivil-schreiben` | Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil. |
-| `familienrichter-spezifika` | FamFG-Spezifika für Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlprüfung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Prüfraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo. |
-| `incoterms-und-gefahruebergang` | Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag prüfen: Streit über Transportschaden oder Lieferpflicht. Normen: Incoterms 2020 (FOB, CIF, EXW, DAP, DDP), CISG Art. 31 und 67 ff. (Gefahruebergang). Prüfraster: Einschlaegige Incoterms-Klausel, Lieferort, Gefahruebergang-Zeitpunkt, Versicherungspflicht, Zoll, Verhaltnis zu CISG. Output Rechtsgutachten-Entwurf zu Gefahruebergang, Anspruchsschema. Abgrenzung: CISG Anwendbarkeit siehe cisg-prüfen; IPR siehe internationales-privatrecht. |
+Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `entscheidungsgruende-zivil-schreiben`
-
-**Fokus:** Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil.
-
-# Entscheidungsgründe schreiben
+## Spezialwissen
 
 Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 
@@ -109,7 +97,7 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
  - Tatbestandsmerkmale subsumieren
  - Rechtsfolge
  - Einwendungen / Einreden
- - Verjaehrung
+ - Verjährung
  - Bei mehreren Anspruchsgrundlagen: nur die durchgreifende ausführen oder Anspruchskonkurrenzen knapp behandeln
 4. **Beweiswürdigung** (separater Abschnitt vor der konkreten Subsumtion oder integriert)
 5. **Nebenentscheidungen**:
@@ -127,173 +115,3 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 ## Stil
 
 Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
-
-## 2. `familienrichter-spezifika`
-
-**Fokus:** FamFG-Spezifika für Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlprüfung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Prüfraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo.
-
-# Familienrichter Spezifika
-
-Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
-
-## Triage zu Beginn
-
-1. Handelt es sich um eine Familiensache (§ 111 FamFG) — welche Kategorie (Ehe, Unterhalt, Sorge, Umgang)?
-2. Ist die Scheidungssache mit Folgesachen zu verbinden (§ 137 FamFG — Verbundpflicht)?
-3. Sind Kinder betroffen — Verfahrensbeistand (§ 158 FamFG) bestellt?
-4. Ist Versorgungsausgleich zu prüfen (§§ 1 ff. VersAusglG)?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 38 FamFG — Beschluss als Entscheidungsform (kein Urteil)
-- § 111 FamFG — Familiensachen (Katalog)
-- § 137 FamFG — Verbund; Folgesachen zwingend mit Scheidung
-- § 158, 159 FamFG — Verfahrensbeistand, Kindesanhörung
-- § 1697a BGB — Kindeswohlprinzip
-- §§ 1 ff. VersAusglG — Versorgungsausgleich
-- §§ 58 ff. FamFG — Rechtsmittel (Beschwerde, Frist 1 Monat)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-für-Schritt-Workflow
-
-1. **Verfahrenskategorie bestimmen:** Welche Familiensache (§ 111 FamFG)?
-2. **Verbund prüfen:** Liegt Scheidung vor? Welche Folgesachen sind zwingend verbunden?
-3. **Anhörungen durchführen/prüfen:** Kinder ab 3 Jahren (§ 159 FamFG), Eltern, Jugendamt, Verfahrensbeistand.
-4. **Kindeswohl-Maßstab (§ 1697a BGB):** Bei Sorge und Umgang ausdrücklich abwägen.
-5. **Beschluss formulieren (§ 38 FamFG):** Kein "Im Namen des Volkes", kein Urteil.
-6. **Rechtsmittelbelehrung FamFG:** Beschwerde §§ 58 ff. FamFG, Frist 1 Monat (Eilfälle 14 Tage).
-
-## Output-Template
-
-**Adressat:** Familiengericht → Beschluss — Tonfall: sachlich-formal
-
-```
-## Beschluss
-
-In der Familiensache [AKTENZEICHEN]
-betreffend [Sorge/Umgang/Unterhalt] für das Kind [NAME], geb. [DATUM],
-
-hat das Amtsgericht [ORT] — Familiengericht — am [DATUM] beschlossen:
-
-1. [REGELUNG SORGE / UMGANG / UNTERHALT]
-2. Die Kosten des Verfahrens trägt [PARTEI].
-3. Der Verfahrenswert wird auf [BETRAG] EUR festgesetzt.
-
-Gründe:
-[KINDESWOHLPRÜFUNG, ABWÄGUNG, ANHÖRUNGSERGEBNIS]
-
-Rechtsmittelbelehrung:
-Gegen diesen Beschluss ist die Beschwerde nach § 58 FamFG statthaft. Die Beschwerde ist
-binnen einer Frist von einem Monat nach Bekanntgabe beim [GERICHT] einzulegen.
-```
-
-## Wichtigste Unterschiede
-
-- **Beschluss** statt Urteil (Paragraf 38 FamFG)
-- **Anhörung** zwingend in vielen Verfahren (Kinder ab 14 Jahren, Eltern, Pflegepersonen)
-- **Verbundverfahren** Paragraf 137 FamFG bei Scheidung: Folgesachen werden zwingend mitverhandelt
-- **Versorgungsausgleich** ist Folgesache, wird im Verbund entschieden
-- **Verfahrensbeistand** Paragraf 158 FamFG (insbesondere in Kindersachen)
-- **Verfahrenskostenhilfe** Paragraf 76 ff FamFG (entspricht PKH der ZPO)
-
-## Massstab Kindeswohl
-
-Paragraf 1697a BGB - Kindeswohl ist Leitlinie aller familiengerichtlichen Entscheidungen.
-
-## Rechtsmittelbelehrung FamFG
-
-Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfällen 14 Tage), beim erlassenden Gericht oder beim Beschwerdegericht (OLG).
-
-## Form
-
-- "Im Namen des Volkes" entfaellt
-- Stattdessen: "Beschluss"
-- Tenor wie beim Urteil, aber mit den familiengerichtlichen Spezifika (z. B. Sorgerechtsregelung, Umgangsregelung)
-
-## 3. `incoterms-und-gefahruebergang`
-
-**Fokus:** Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag prüfen: Streit über Transportschaden oder Lieferpflicht. Normen: Incoterms 2020 (FOB, CIF, EXW, DAP, DDP), CISG Art. 31 und 67 ff. (Gefahruebergang). Prüfraster: Einschlaegige Incoterms-Klausel, Lieferort, Gefahruebergang-Zeitpunkt, Versicherungspflicht, Zoll, Verhaltnis zu CISG. Output Rechtsgutachten-Entwurf zu Gefahruebergang, Anspruchsschema. Abgrenzung: CISG Anwendbarkeit siehe cisg-prüfen; IPR siehe internationales-privatrecht.
-
-# Incoterms und Gefahrübergang
-
-Die Incoterms (International Commercial Terms) der Internationalen Handelskammer (ICC) regeln Lieferort, Gefahrübergang, Kostenverteilung und Versicherungspflichten.
-
-
-## Triage zu Beginn
-
-1. Welche Incoterms-Klausel wurde vereinbart — Fassung 2020, 2010 oder älter?
-2. Welcher Lieferort ist im Vertrag benannt (Ort muss bei DAP, DDP, FCA genau angegeben sein)?
-3. Wurde die Klausel wirksam einbezogen (AGB-Recht, Einbeziehungsvereinbarung)?
-4. Hat ein Gefahrübergang stattgefunden — wann und wo?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- Art. 31 CISG — Lieferpflicht (Lieferort ohne Vereinbarung)
-- Art. 67 CISG — Gefahrübergang bei Versendungskauf
-- Art. 68 CISG — Gefahrübergang bei auf dem Transport verkaufter Ware
-- § 269 BGB — Leistungsort
-- § 346 HGB — Handelsgebräuche
-- § 305 ff. BGB — AGB-Einbeziehung (bei B2C-Geschäften)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-für-Schritt-Workflow
-
-1. **Klausel identifizieren:** Welche Klausel, welche Fassung? Im Vertrag oder AGB?
-2. **Wirksame Einbeziehung prüfen:** B2B: Handelsbrauch (§ 346 HGB) oder vertragliche Vereinbarung; B2C: strenge Einbeziehungsvoraussetzungen (§ 305 Abs. 2 BGB).
-3. **Gefahrübergang bestimmen:** Wann und wo ist Gefahr übergegangen? (Klauselspezifisch.)
-4. **Schadensort nach Gefahrübergang:** Wer trägt den Verlust/die Beschädigung?
-5. **Verhältnis zu CISG:** Incoterms konkretisieren Art. 31, 67 CISG — keine eigenständige Rechtsquelle, sondern Vertragsklausel.
-
-## Output-Template
-
-**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
-
-```
-## Incoterms / Gefahrübergang
-
-Die Parteien haben die Klausel [KLAUSEL, z.B. FOB Hamburg, Incoterms 2020] vereinbart.
-
-**Einbeziehung:** Die Klausel wurde wirksam einbezogen durch [Vertragstext / Handelsbrauch § 346 HGB].
-
-**Gefahrübergang:** Die Gefahr ist auf den Käufer übergegangen am [DATUM] mit [Verladung im Hafen
-Hamburg / Bereitstellung im Werk / Übergabe an Frachtführer in ...].
-
-**Folge:** Der [Schaden / Verlust] am [DATUM] nach Gefahrübergang liegt im Risikobereich des Käufers.
-```
-
-## Aktuelle Fassung
-
-Incoterms 2020 (gilt ab 1. Januar 2020). Aeltere Fassungen sind weiterhin in Verträgen anzutreffen, deshalb immer die Fassung in der Klausel beachten.
-
-## Wichtige Klauseln
-
-- **EXW** (Ex Works) - Gefahr und Kosten gehen mit der Bereitstellung im Lager des Verkaeufers über.
-- **FCA** (Free Carrier) - Verkaeufer übergibt an Frachtführer am benannten Ort.
-- **FOB** (Free on Board) - Seetransport. Gefahr- und Kostenübergang mit Verladung auf das Schiff im Verschiffungshafen. Verkaeufer traegt bis zur Verladung, Kaeufer ab Verladung. Versicherung Pflicht des Kaeufers.
-- **CIF** (Cost Insurance Freight) - Verkaeufer schließt Versicherung ab, traegt Fracht bis Bestimmungshafen, Gefahr geht aber bereits mit Verladung über.
-- **DAP** (Delivered at Place) - Verkaeufer traegt bis zum Ankunftsort.
-- **DDP** (Delivered Duty Paid) - Verkaeufer traegt alles bis zum Bestimmungsort einschließlich Zoll.
-
-## Verhältnis zu CISG
-
-Incoterms sind keine gesetzliche Regelung, sondern Vertragsklausel. Sie konkretisieren Artikel 31 CISG (Lieferort) und Artikel 67 ff CISG (Gefahrübergang). Im Streitfall:
-
-1. Erst prüfen, ob Incoterms wirksam einbezogen sind (AGB-Prüfung).
-2. Dann Auslegung der Klausel nach der jeweiligen Incoterms-Fassung.
-3. Lückenfueller: CISG / nationales Recht.
-
-## Tatbestand
-
-Im Tatbestand die Klausel wörtlich oder als Bezugnahme angeben, im Entscheidungsgrund subsumieren.

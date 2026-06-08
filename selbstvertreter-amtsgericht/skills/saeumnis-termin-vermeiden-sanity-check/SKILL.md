@@ -7,10 +7,10 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 
 ## Arbeitsbereich
 
-**Saeumnis Termin Vermeiden Sanity Check** ordnet den Fall über die tragenden Prüffelder: Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Saeumnis Termin Vermeiden Sanity Check** ordnet den Fall über die tragenden Prüfungslinien: Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `saeumnis-im-termin-330-zpo` | Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis. |
 | `saeumnis-vermeiden-330-ff-zpo` | Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO. |
@@ -18,12 +18,12 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `saeumnis-im-termin-330-zpo`
 
@@ -55,7 +55,7 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 - **§ 338 ZPO** — Einspruch.
 - **§ 339 ZPO** — Einspruchsfrist 2 Wochen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was ist Saeumnis?
 
@@ -63,7 +63,7 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 - Erscheinen, aber nicht verhandeln (§ 333 ZPO).
 - Vorzeitiges Verlassen des Termins.
 
-### Schritt 2 — Konsequenz fuer Saeumigen
+### Schritt 2 — Konsequenz für Saeumigen
 
 #### Saeumis des Beklagten (§ 331 ZPO):
 
@@ -145,7 +145,7 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 ## Worauf Sie besonders achten muessen
 
 - **VU sofort vollstreckbar**: Klaeger kann pfaenden.
-- **2-Wochen-Frist** fuer Einspruch.
+- **2-Wochen-Frist** für Einspruch.
 - **Zweites VU nach Einspruch**: Definitive Niederlage.
 - **Krankheit attestieren**: Bei Termin-Verlegungs-Antrag.
 
@@ -165,7 +165,6 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 
@@ -206,7 +205,7 @@ Wenn Sie als Beklagter nicht reagieren oder im Termin nicht erscheinen, kann das
 - **§ 339 ZPO** — Einspruchsfrist: 2 Wochen ab Zustellung VU.
 - **§ 345 ZPO** — Zweites Versaeumnisurteil (Einspruch verworfen).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann droht VU gegen Sie?
 
@@ -319,7 +318,6 @@ Skill `terminvorbereitung-checkliste`.
 
 Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -349,7 +347,7 @@ Dieser Skill ist die letzte Kontrolle, bevor ein Bürger ohne Anwalt etwas beim 
 
 ## Prüfmatrix
 
-| Prüffeld | Kernfrage | Ampel |
+| Prüfungslinie | Kernfrage | Ampel |
 |---|---|---|
 | Frist | Gibt es eine Notfrist, gerichtliche Frist, Verjährung oder Zustellungsfrage? | Rot/Gelb/Grün |
 | Gericht | Ist das Amtsgericht sachlich und örtlich zuständig? | Rot/Gelb/Grün |
@@ -432,7 +430,6 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - Keine Schriftsatzfreigabe behaupten. Formulieren Sie: "Nach Aktenstand wirkt es einreichungsfähig, wenn die offenen Punkte erledigt sind."
 - Fristen immer mit Datum, Ausgangspunkt und Unsicherheit nennen.
 - Bei Gerichts- oder Rechtsmittelpost nie nur "sieht gut aus" sagen.
-
 
 ## Qualitäts-Hardening
 

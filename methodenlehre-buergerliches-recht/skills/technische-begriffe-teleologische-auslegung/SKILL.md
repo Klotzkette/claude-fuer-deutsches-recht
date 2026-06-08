@@ -7,25 +7,25 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 
 ## Arbeitsbereich
 
-**Technische Begriffe Teleologische Auslegung** ordnet den Fall über die tragenden Prüffelder: Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Technische Begriffe Teleologische Auslegung** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `technische-begriffe-neutralitaetscheck` | Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache. |
 | `teleologische-auslegung` | Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung. |
-| `topik-viehweg-vs-systemdenken` | Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen fuer den Anwaltsschriftsatz. |
+| `topik-viehweg-vs-systemdenken` | Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen für den Anwaltsschriftsatz. |
 | `ueberpositives-recht-als-leerformel-check` | Dieses Skill prüft den argumentativen Einsatz von überpositivem Recht, Naturrecht und ungeschriebenen Verfassungsprinzipien auf ihre methodische Substanz und warnt vor deren Verwendung als inhaltsleere Leerformel. Es zeigt, wann Argumente aus überpositivem Recht methodisch zulässig sind, wann sie als Leerformeln ohne normative Substanz aufgedeckt werden müssen und wie man in der Praxis zwischen legitimer überpositiver Argumentation und Gerechtigkeitsrhetorik unterscheidet. Das Skill stärkt methodische Redlichkeit bei Fundamentalargumenten. |
 | `verfassungs-und-unionsrechtskonforme-auslegung` | Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen Auslegung (Wortlaut, contra legem). Konkrete Anwendung im BGB (§§ 138 242 305 ff. 312 ff. 651a ff.). Praezises Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `technische-begriffe-neutralitaetscheck`
 
@@ -40,7 +40,6 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Technische, wirtschaftliche und wissenschaftliche Fachbegriffe finden immer häufiger Eingang in rechtliche Auseinandersetzungen. Wenn ein Anwalt "Marktmacht", "algorithmische Diskriminierung" oder "Produktfehler" verwendet, importiert er möglicherweise Wertungen, die das rechtliche Ergebnis unbewusst präjudizieren. Der Neutralitätscheck sichert methodische Redlichkeit bei der Begriffsübernahme.
 
@@ -133,7 +132,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die teleologische Auslegung fragt nach Sinn und Zweck der Norm (griech. telos = Ziel). Sie ist das vierte Element des modernen Kanons und in der anwaltlichen Praxis das mit Abstand staerkste Argument. Gerichte argumentieren in stRspr. teleologisch, weil sich damit gerechte Einzelfallergebnisse begruenden lassen.
@@ -169,17 +167,17 @@ BGH-Linie: vermittelnd, gestuetzt auf den "objektivierten Willen des Gesetzgeber
 
 **Beispiel § 433 Abs. 1 S. 1 BGB:** Verschaffung von Eigentum und Besitz. Telos: Synallagma Ware gegen Geld; Erfuellungs- und Gewaehrleistungsfunktion. Schutzzweck primaer der Kaeufer (Erhalt der Kaufsache), sekundaer der Verkaeufer (Erhalt des Kaufpreises).
 
-**Beispiel § 437 BGB (Maengelrechte):** Telos: Schutz des Kaeufers vor mangelhaften Sachen, Erhaltung des aequivalenz-Verhaeltnisses bei Vertragsschluss. Die Rechte sind gestuft (Nacherfuellung als Vorrang, danach Ruecktritt, Minderung, Schadensersatz) — das ist eine teleologische Entscheidung des Gesetzgebers fuer Vertragsfortsetzung.
+**Beispiel § 437 BGB (Maengelrechte):** Telos: Schutz des Kaeufers vor mangelhaften Sachen, Erhaltung des aequivalenz-Verhaeltnisses bei Vertragsschluss. Die Rechte sind gestuft (Nacherfuellung als Vorrang, danach Ruecktritt, Minderung, Schadensersatz) — das ist eine teleologische Entscheidung des Gesetzgebers für Vertragsfortsetzung.
 
 **Beispiel § 823 Abs. 1 BGB (Schutzzweck):** Die Norm schuetzt absolute Rechtsgueter, nicht reine Vermoegensinteressen. Die Begrenzung auf absolute Rechte (Leben, Koerper, Gesundheit, Freiheit, Eigentum) ist eine teleologische Entscheidung: Reines Vermoegen waere ueberbordend zu schuetzen.
 
-**Beispiel § 823 Abs. 2 BGB (Schutzgesetz):** Schutzgesetz ist nicht jede oeffentlich-rechtliche Norm, sondern nur solche, deren Schutzzweck individualschuetzend ist. Beispiel: § 263 StGB (Betrug) ist Schutzgesetz fuer das Vermoegen des Geschaedigten; § 21 StVG (Fahren ohne Fahrerlaubnis) ist nicht Schutzgesetz im klassischen Sinne fuer Dritte, weil der Schutzzweck primaer die oeffentliche Ordnung erfasst.
+**Beispiel § 823 Abs. 2 BGB (Schutzgesetz):** Schutzgesetz ist nicht jede oeffentlich-rechtliche Norm, sondern nur solche, deren Schutzzweck individualschuetzend ist. Beispiel: § 263 StGB (Betrug) ist Schutzgesetz für das Vermoegen des Geschaedigten; § 21 StVG (Fahren ohne Fahrerlaubnis) ist nicht Schutzgesetz im klassischen Sinne für Dritte, weil der Schutzzweck primaer die öffentliche Ordnung erfasst.
 
 **Beispiel § 1004 BGB:** Beseitigungs- und Unterlassungsanspruch. Telos: praeventiver und kurativer Schutz des Eigentums. Aus dem Telos folgt die analoge Anwendung auf andere absolute Rechtsgueter (allgemeines Persoenlichkeitsrecht, Gewerbebetrieb).
 
 **Beispiel § 1626 BGB (elterliche Sorge):** Telos heute: Kindeswohl im Vordergrund (Art. 6 Abs. 2 GG, UN-KRK). Geltungstheorie greift: Die historische Vorstellung von 1900 ist vom Wandel des Familienbilds und der Grundrechtsdogmatik ueberholt.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Norm und Tatbestandsmerkmal benennen.** Welches Merkmal genau ist teleologisch streitig?
 2. **Schutzzweck der Norm formulieren.** Wen oder was schuetzt die Norm? In welcher Weise?
@@ -223,7 +221,6 @@ Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -234,7 +231,7 @@ Stand: Mai 2026.
 
 ## 3. `topik-viehweg-vs-systemdenken`
 
-**Fokus:** Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen fuer den Anwaltsschriftsatz.
+**Fokus:** Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen für den Anwaltsschriftsatz.
 
 # Topik nach Theodor Viehweg vs. Systemdenken
 
@@ -245,7 +242,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -300,12 +296,12 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 **Beispiel BGH-Rechtsprechung:** Eine Analyse einer beliebigen BGH-Begruendung zeigt: Der BGH fuehrt Wortlaut, System, Historie und Telos an, mischt aber laufend Topoi hinein. Aequivalenz, Verkehrserwartung, Schutz des Schwaecheren erscheinen als Argumente, ohne dass sie streng abgeleitet werden.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Problem identifizieren.** Was ist die konkrete Streitfrage?
 2. **Topoi sammeln.** Welche etablierten Argumentationsmuster passen?
 3. **Topoi gewichten.** Welche Topoi sind im konkreten Diskurs anerkannt? Welche werden von der Rechtsprechung verwendet?
-4. **Topoi gegenrechnen.** Welche Topoi sprechen fuer das gegnerische Ergebnis?
+4. **Topoi gegenrechnen.** Welche Topoi sprechen für das gegnerische Ergebnis?
 5. **Argumentationsstrategie waehlen.** Mit welchen Topoi kann mein Mandat starkes Argument bauen?
 6. **Topoi mit Wertungsjurisprudenz verbinden.** Topoi sind nicht alleinstehend; sie sollten in den Wertungs- und Norm-Rahmen eingefuegt werden.
 
@@ -344,7 +340,6 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -366,7 +361,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Argumente aus "Gerechtigkeit", "Naturrecht" oder ungeschriebenen überverfassungsrechtlichen Grundsätzen haben in der deutschen Rechtsdogmatik seit dem BVerfG-Rechtsprechung zu den Mauerschützenurteilen eine besondere Geschichte. Doch in der täglichen Anwaltspraxis werden überpositives Recht und Gerechtigkeitsrhetorik häufig als inhaltlose Leerformeln eingesetzt, um fehlendes positives Recht zu überbrücken. Dieses Skill trainiert den kritischen Umgang mit solchen Argumenten.
 
@@ -459,7 +453,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Die verfassungs- und unionsrechtskonforme Auslegung sind keine eigenstaendigen Auslegungsmethoden neben Wortlaut, System, Historie und Telos, sondern **Querschnittskanones**: Sie wirken in jede der vier klassischen Methoden hinein. Massstab ist nicht der reine Norm-Sinn, sondern die Vereinbarkeit mit hoeherrangigem Recht.
@@ -496,7 +489,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 - § 138 BGB (sittenwidrige Rechtsgeschaefte) wird durch Grundrechte ausgefuellt (Buergschaftsentscheidung BVerfGE 89, 214 zu nahen Familienangehoerigen).
 - § 242 BGB (Treu und Glauben) wirkt grundrechtsgepraegt — Beispiele in Mietrecht, Arbeitsrecht, AGB-Recht.
 - § 826 BGB (vorsaetzliche sittenwidrige Schaedigung) wird durch Grundrechtsabwaegung konkretisiert.
-- Vertragsfreiheit (Art. 2 Abs. 1 GG iVm Art. 12 Abs. 1 GG) ist Massstab fuer Kontrolle ueber AGB (§§ 305 ff. BGB) und ueber § 138 BGB.
+- Vertragsfreiheit (Art. 2 Abs. 1 GG iVm Art. 12 Abs. 1 GG) ist Massstab für Kontrolle ueber AGB (§§ 305 ff. BGB) und ueber § 138 BGB.
 
 **Unionsrechtskonforme Auslegung:**
 
@@ -512,7 +505,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 - Bei Richtlinien (nicht Verordnungen): keine horizontale Direktwirkung (Marshall). Im Privatrechtsstreit nur ueber Auslegung des nationalen Umsetzungsrechts.
 - Bei Verfassung: keine "freie Verfassung" — die Auslegung muss am vorgegebenen Norm-Text ansetzen.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Konfliktebene identifizieren.** Welche Ebene betrifft den Streit: Grundgesetz, Unionsrecht (Verordnung/Richtlinie), Voelkerrecht (EMRK)?
 2. **Mehrebenenordnung pruefen.** Steht eine Norm aussichtlich im Konflikt mit hoeherrangigem Recht?

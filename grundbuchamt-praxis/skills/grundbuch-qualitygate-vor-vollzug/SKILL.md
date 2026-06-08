@@ -5,6 +5,24 @@ description: "Prüft Antrag, Bewilligung, Rang, Nachweise, Anlagen, Genehmigunge
 
 # Quality Gate vor Einreichung
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 873 Abs. 1 BGB` — dingliche Einigung und Eintragung.
+- `§ 925 Abs. 1 BGB` — Auflassung.
+- `§ 1113 Abs. 1 BGB` — Hypothek.
+- `§ 1191 Abs. 1 BGB` — Grundschuld.
+- `§ 13 Abs. 1 GBO` — Antragserfordernis.
+- `§ 19 GBO` — Bewilligungsprinzip.
+- `§ 20 GBO` — Auflassungsnachweis.
+- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
+- `§ 35 GBO` — Erbnachweis.
+- `§ 71 GBO` — Grundbuchbeschwerde.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachlicher Zuschnitt
 
 Prüft Antrag, Bewilligung, Rang, Nachweise, Anlagen, Genehmigungen, Urkundenform und Zahlungslogik.

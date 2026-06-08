@@ -1,32 +1,32 @@
 ---
 name: zustellung-postfach
-description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ): fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zustellung Postfach
 
 ## Arbeitsbereich
 
-**Zustellung Postfach** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Zustellung Postfach** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `zustellung-brief-postfach` | Hilft bei Zustellung Brief Postfach fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
+| `zustellung-brief-postfach` | Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Juristische Sprache — Deutsch als Zweitsprache klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: StPO § 187 Abs. 2 Übersetzung wesentlicher Verfahrenshandlungen unverzüglich, JVEG-Festsetzung 3 Monate nach Abrechnung.
 - Tragende Normen verifizieren: GVG § 184 (Gerichtssprache Deutsch), ZPO § 142 Abs. 3 (Dolmetscher), StPO §§ 185, 187 (Dolmetscher und Übersetzung), JVEG §§ 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zustellung-brief-postfach`
 
-**Fokus:** Hilft bei Zustellung Brief Postfach fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
+**Fokus:** Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
 
 # Zustellung Brief Postfach
 
@@ -37,15 +37,15 @@ Dieser Skill unterstuetzt bei **Zustellung Brief Postfach**, wenn deutsche Allta
 ## Start
 
 - Welches Dokument oder welche Situation liegt vor?
-- Wer schreibt oder spricht: Gericht, Behoerde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
-- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhoerung?
+- Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
+- Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
 - Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Arbeitsweise
 
 1. Schwierige Woerter markieren und kurz erklaeren.
 2. Den Satz in normale Reihenfolge bringen: Wer tut was, warum, bis wann, mit welcher Folge?
-3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Ruecknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
+3. Warnwoerter hervorheben: Anerkenntnis, Verzicht, Rücknahme, Zustimmung, Frist, sofort, bestandskraeftig, unanfechtbar.
 4. Eigene Worte des Nutzers sammeln und ohne Bedeutungsverlust in gutes Deutsch uebertragen.
 5. Bei Unsicherheit genau eine Rueckfrage stellen.
 
@@ -69,7 +69,6 @@ Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterw
 ## Qualitaetsgate
 
 Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
 
 ## Qualitäts-Hardening
 

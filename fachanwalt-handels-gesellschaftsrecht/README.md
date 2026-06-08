@@ -52,33 +52,43 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 34 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `ag-vorstandsvertrag-hgr` | AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Vorstandsvertrag AG vorbereiten, Spezialfall Aktionsbindungsvertrag bei AG, Gesellschaftervertrags-Tour. Liefert priorisierten Output mit Norm-Pinpoin... |
+| `aktionaersklage-anfechtung-paragraf-243-aktg` | Aktionaersklage Anfechtung § 243 AktG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20` | Anfechtungsklage GmbH-Beschluss mit BGH II ZR 66/20. |
+| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `fa-handels-gesellschaft-start-chronologie-fristen` | FA Handels Gesellschaft Start Chronologie Fristen im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Handels, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoamp... |
 | `fachanwalt-fao-gesellschafterstreit` | FAO Gesellschafterstreit im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Fachanwalt, FAO, Gesellschafterstreit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `fachanwalt-handels-gesellschaftsrecht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-handels-gesellschaftsrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `fachanwalt-handels-gesellschaftsrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-handels-gesellschaftsrecht-output-waehlen` | Output wählen im Plugin Fachanwalt Handels Gesellschaftsrecht: Diese Output-Weiche für Fachanwalt Handels Gesellschaftsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nä... |
-| `fachanwalt-handels-gesellschaftsrecht-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `fachanwalt-handels-gesellschaftsrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 | `geschaeftsfuehrerhaftung-holding` | Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Geschaeftsfuehrerhaftung, Holding-Strukturplanung, Gesellschafterdarlehen und Cash-Flow GmbH. Liefert priorisierten Output mit Norm-Pinpoints... |
-| `gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz` | Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Prüffeld für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Nor... |
-| `gesellschaftsrecht-gesellschaftervertrag-klauseln` | Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüffeld für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Liefert priorisierten Output m... |
+| `gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz` | Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkrete Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output m... |
+| `gesellschaftsrecht-gesellschaftervertrag-klauseln` | Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüfungslinie für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Liefert priorisierten Out... |
 | `gmbh-beirat-vergleichsverhandlung-strategie` | Gmbh Beirat Vergleichsverhandlung Strategie im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Entwirft und prüft mächtige GmbH-Beiräte mit, Informationsr, Vergleichsverhandlungs-Strategie für Handels- und. Liefert priorisier... |
+| `gmbh-gf-haftung-paragraf-43-gmbhg` | Gmbh gf Haftung § 43 GmbHG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `gmbhg-handels-handelsvertreterausgleich` | Gmbhg Handels Handelsvertreterausgleich im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gmbhg, Handels, Handelsvertreterausgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
 | `handels-gesellschaftsrecht-mandantenkommunikation-redteam` | Mandantenkommunikation Redteam im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Mehrheitsaktionaer will Minderheitsaktionaere aus AG. Liefert priorisierten O... |
+| `hgb-einsichtsrecht-kommanditist-paragraf-166-hgb-bgh-ii-zr-31-21` | Kommanditistenrecht Einsicht Paragraf 166 HGB mit BGH II ZR 31/21. |
 | `hgb-kanzlei-beweislast-mopeg` | HGB Kanzlei Beweislast Mopeg im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret HGB, Kanzlei, Mopeg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `hgesr-einfuehrung-hgr-due-erstgespraech` | Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einfuehrung deutsche Rechtsformen fuer Handels- und, Due-Diligence-Checker light fuer kleinere Mandate, Strukturierter Erstgespraechsl... |
+| `hgesr-einfuehrung-hgr-due-erstgespraech` | Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einfuehrung deutsche Rechtsformen für Handels- und, Due-Diligence-Checker light für kleinere Mandate, Strukturierter Erstgespraechslei... |
 | `hgesr-handelsvertreterausgleich-mbg` | Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Handelsvertreterausgleich § 89b HGB detailliert, MoPeG (Modernisierungsgesetz Personengesellschaftsrecht), Handelsregister-Praxis. Liefert... |
 | `hgr-dis-gesellschaftsrecht-token-fristennotiz` | HGR DIS Gesellschaftsrecht Token Fristennotiz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschafter streiten und wollen Schiedsverfahren statt, Gesellschaftsrecht, Token. Liefert priorisierten Output mit Norm-Pinp... |
+| `inhabilitaet-geschaeftsfuehrer-paragraf-6-gmbhg` | Inhabilitaet Geschaeftsfuehrer § 6 GmbHG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `kapitalerhaltung-paragraf-30-gmbhg-bgh-ii-zr-66-19` | Kapitalerhaltung Paragraf 30 GmbHG mit BGH II ZR 66/19. |
+| `nachfolgeklausel-gesellschaftsvertrag` | Nachfolgeklausel Gesellschaftsvertrag: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `orientierung-hgr-dlt-hgesr` | Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Handels- und, EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich, Grenzueberschreitende... |
+| `output-waehlen` | Output wählen im Plugin Fachanwalt Handels Gesellschaftsrecht: Diese Output-Weiche für Fachanwalt Handels Gesellschaftsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nä... |
+| `partg-haftung-paragraf-8-partgg` | Partg Haftung § 8 PartGG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `partgg-pilotregime-sonderfall` | Partgg Pilotregime Sonderfall im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Partgg, Pilotregime, Schnittstellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `schriftsatzkern-substantiierung-aktg` | Schriftsatzkern Substantiierung Aktg im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Substantiierter Schriftsatzkern für, AktG, Beschlussanfechtung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem... |
 | `seit-fehlerkatalog` | Seit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
+| `squeeze-out-aktionaersbarabfindung` | Squeeze out Aktionaersbarabfindung: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `umwandlung-paragraf-202-umwg` | Umwandlung § 202 UmwG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `umwg-quellenkarte` | Umwg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

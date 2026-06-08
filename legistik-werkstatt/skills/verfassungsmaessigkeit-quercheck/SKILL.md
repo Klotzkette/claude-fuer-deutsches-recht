@@ -31,7 +31,7 @@ Prüfen pro Adressat:
 1. Schutzbereich (persönlich und sachlich)
 2. Eingriff
 3. Rechtfertigung
- - verfassungsmaessige Schranke
+ - verfassungsmäßige Schranke
  - Schranken-Schranken (insbesondere Verhältnismaessigkeit)
  - legitimer Zweck
  - geeignet

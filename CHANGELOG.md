@@ -1,3 +1,284 @@
+# v239.0.0 — Verhaeltnismaessigkeitspruefer-Politur: 14 neue Stufen- und Schranken-Skills, Padlet-Skill arbeitet wieder, Clip-Club ersetzt
+
+## Schwerpunkt
+
+Das Plugin `verhaeltnismaessigkeitspruefer` ist von 30 auf **44 Skills** angewachsen. Die vierstufige Schranken-Schranke ist jetzt durchgehend mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwuerde, Wesensgehalt, Existenzminimum), Bestimmtheit, Wesentlichkeitstheorie, Untermassverbot, Einschaetzungspraerogative und Zitiergebot abgedeckt. Der Padlet-Skill funktioniert wieder, der unjuristische Arbeitstitel "Clip-Club" ist durch eine kuratierte audiovisuelle Leitentscheidungs-Sammlung ersetzt.
+
+### Neue Stufen- und Schranken-Skills (14)
+
+- `vorpruefung-schutzbereich-eroeffnet`
+- `vorpruefung-eingriff-klassisch-modern`
+- `vorpruefung-schranke-finden`
+- `schranke-vorbehaltlos-verfassungsimmanent`
+- `absolute-grenze-menschenwuerde-art-1-i-gg`
+- `absolute-grenze-wesensgehalt-art-19-ii-gg`
+- `absolute-grenze-existenzminimum`
+- `untermassverbot-schutzpflicht-dimension`
+- `einschaetzungspraerogative-kontrolldichte`
+- `bestimmtheit-normklarheit-eingriffsgesetze`
+- `wesentlichkeitstheorie-parlamentsvorbehalt`
+- `zitiergebot-art-19-i-2-gg`
+- `stufenbaum-ascii-art`
+- `audiovisuelle-leitentscheidungen-sammlung` (ersetzt `clip-club-leitentscheidungen`)
+
+### Padlet-Skill arbeitet wieder
+
+`padlet-vier-stufen-tafel` legt jetzt **echte** Padlet-Tafeln an. Drei Pfade:
+
+1. **API**: Padlet Public API v1 mit `api_credentials=["custom-cred:padlet.com"]` (User braucht bezahltes Abo + API-Key aus Padlet-Settings → Developer).
+2. **Browser**: `browser_task` mit `use_local_browser.local=true` auf https://padlet.com via Tom's MacBook Air M4.
+3. **Manuell**: Karten-Markdown fertig zum Einkopieren. Skill gibt nie selbst-gerendertes Shelf-Board als Padlet-Ersatz aus.
+
+Spaltenstruktur mit Ampelfarben gruen/gelb/rot, ASCII-Vorschau als Begleitung.
+
+### Clip-Club geht in Pension
+
+Der Arbeitstitel "Clip-Club" war eine unjuristische Anlehnung an Klipp-Klapp. Der Skill heisst jetzt `audiovisuelle-leitentscheidungen-sammlung` und arbeitet als kuratiertes Lehrmaterial-Verzeichnis mit Aktenzeichen, BVerfGE-Fundstelle inkl. Schlagwort, Datum, Medium, Quelle/Permalink, Zeitstempel, Stufenverortung und Folgewirkung. Quellen ausschliesslich BVerfG-Mediathek, ARD/ZDF/Phoenix und Open-Access-Hochschulvorlesungen. Urheberrechts-Hinweise zu § 51 UrhG.
+
+### BVerfG-Schlagwort-Konvention
+
+Im Skill-Body steht hinter jeder Leitentscheidung jetzt ein Schlagwort in Klammern, z.B. `BVerfGE 7, 198 (Lueth-Urteil)`, `BVerfGE 65, 1 (Volkszaehlung)`, `BVerfGE 115, 118 (Luftsicherheitsgesetz)`. YAML-descriptions nutzen weiter den Workaround "Band X Seite Y" (Komma-Regel).
+
+## Cross-References aktualisiert
+
+- `verhaeltnismaessigkeit-einstieg/SKILL.md`: neue Visualisierungs-Verweise auf `audiovisuelle-leitentscheidungen-sammlung` und `stufenbaum-ascii-art`.
+- `verhaeltnismaessigkeitspruefer/README.md`: Praxis-und-Workflow-Block und Skill-Tabelle aktualisiert.
+- `verhaeltnismaessigkeitspruefer/.claude-plugin/plugin.json`: description, keywords (`clip-club` → `audiovisuelle-leitentscheidungen`, plus `wesensgehalt`, `menschenwuerde`, `bestimmtheit`, `wesentlichkeitstheorie`).
+
+## Counts (v239)
+
+212 Plugins, 18.549 Skills, 203 Testakten.
+
+---
+
+# v238.0.0 — LausitzStorage-Testakte um zehn Finanzierungs- und Gesellschafterstreit-Originale erweitert
+
+## Schwerpunkt
+
+Die Testakte `status-navigator-batteriespeicher-jaenschwalde-peitz` ist um zehn weitere Originaldokumente von 33 auf **43 Aktenstuecke** angewachsen. Schwerpunkt: vollstaendige Finanzierungs- und Sicherheitenarchitektur (NordCap 96 Mio Senior + 18 Mio Wandel, ILB Avalrahmen 10 Mio, Linklaters als Security Agent) und ein realer Gesellschafterstreit auf Basis der bereits angelegten Drawstop-Krise.
+
+### Finanzierungs- und Sicherheitendokumente
+
+- `34_sicherheitenpoolvertrag_nordcap_ilb.md` — Pool-Vertrag NordCap ∕ ILB ∕ LausitzStorage mit Linklaters LLP als Security Agent, sechs Sicherheitsarten, Rangfolge der Befriedigung, Pari-passu-Klausel.
+- `35_kontoverpfaendungsvertrag_commerzbank.md` — Kontoverpfaendung der drei Commerzbank-Konten (Betriebs-, Projekt-, Liquiditaetsreserve), Anzeige nach § 1280 BGB an Commerzbank am 09.09.2025 nachweisbar zugegangen, Verfuegungsfreiheit bis Sicherungsfall.
+- `36_globalzession_pachtforderungen_leag.md` — Stiller Globalzessionsvertrag aller LEAG-Pachtforderungen, Bestimmtheitsgrundsatz § 398 BGB, Anzeige nach § 407 BGB bewusst unterlassen.
+- `37_anteilsverpfaendungsurkunde_ur_388_2025.md` — Notarielle Anteilsverpfaendung aller 100 % der Gesellschaftsanteile (Bauernfeind 51, Lindenthal 9, NordCap 30, Stadtwerke 10), Form § 15 Abs. 3 GmbHG, Stimmrechte beim Verpfaender bis Sicherungsfall, Gesellschafterliste § 40 GmbHG am 16.09.2025 beim HR Cottbus eingereicht.
+
+### Gesellschafterstreit (drei Aktenstuecke)
+
+- `38_gesellschafterstreit_antrag_nordcap_abberufung_bauernfeind.md` — Einberufungsverlangen NordCap nach § 50 Abs. 1 GmbHG mit Abberufungsantrag gegen Geschaeftsfuehrer Bauernfeind aus wichtigem Grund (§ 38 Abs. 2 GmbHG); fuenf Vorwuerfe (Documentation Gap, Cap-Table-V2, Verschleppung Wandeldarlehens-Reparatur, Genehmigungsregime-Konflikt LEAG, Berichtspflichten LEAG); Stimmverbot § 47 Abs. 4 Satz 2 GmbHG.
+- `39_anwaltsschreiben_lindenthal_notarprotest_cap_table.md` — RAin Schweikart-Boeßer namens Mitgesellschafterin Lindenthal protestiert formell gegen Cap Table V2, fordert Klarstellung bis 20.06.2026, kuendigt Enthaltung beim Abberufungsantrag und Sonderpruefungs-Antrag nach § 46 Nr. 6 GmbHG an.
+- `40_einberufung_und_stellungnahme_bauernfeind.md` — Einberufung außerordentliche Versammlung 24.06.2026 (Notarbuero Albers Berlin, UR 423/2026); Gegen-Stellungnahme Bauernfeind zu allen NordCap-Vorwuerfen; eigener CRO-Vorschlag Dr. Schoeneberger als Vergleichsweg.
+
+### Operative Originale
+
+- `41_epc_anzahlungsrechnung_sungrow.md` — EPC-Anzahlungsrechnung Sungrow Deutschland 18 Mio EUR aus Tranche 2 (Bezugsrechnung SDE-2025-09-LSS200-A1) mit Advance Payment Bond Bank of China BOC-FRA-2025-09-187.
+- `42_zugangsbestaetigung_anlage_4_stadtwerke_cottbus.md` — Stadtwerke Cottbus uebergeben die fehlende Anlage 4 zum Konsortialvertrag (24-seitiger Investorenrechte-Katalog) mit Haftungsfreistellung 25.000 EUR fuer die Fehlheftung; Drawstop-Punkt (iii) damit geheilt.
+- `43_forensik_protokoll_cap_table_v2.md` — IT-Forensik Inkubator-IT Cottbus belegt, dass Cap-Table V2 in 18.247 Mailpostfacher- und 8.412 Dateianhangs-Pruefungen niemals in der Außenkommunikation verwendet wurde — Entlastung Bauernfeind fuer die Abberufungs-Versammlung.
+
+## Inhaltliche Verzahnung
+
+Alle zehn neuen Aktenstuecke sind durch durchgaengige Aktenzeichen, Notar-UR-Nummern (387/2025, 388/2025, 423/2026), Einschreiben-Belegnummern (RM 4274 8842 1 DE, RM 5117 9026 4 DE, RM 4517 8829 3 DE) und Posteingangsdaten mit der bestehenden Akte verzahnt. Die Drawstop-Krise NordCap vom 22.05.2026 wird durch die neue Welle vollstaendig: Drawstop-Punkt (iii) ist mit Akte 42 geheilt, Punkt (ii) durch die Reparaturvereinbarung (Akte 22), Punkte (iv) und (v) sind im Step-Plan (Akte 33) gelb.
+
+## Gesamt-PDF
+
+- LausitzStorage Gesamt-PDF: **188 KB / 43 Quelldateien** (vorher 121 KB / 33).
+
+## Counts (unveraendert ggue. v237)
+
+- **212 Plugins**, **18.536 Skills**, **203 Testakten**. Nur eine Testakte gewachsen (33 → 43 Aktenstuecke).
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: gruen.
+- `python3 scripts/validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen.
+- `python3 scripts/validate-testakten-gesamt-pdf.py`: gruen (203 Testakten).
+
+---
+
+# v237.0.0 — Testakten LausitzStorage und Polizeiverfuegung-Forst erweitert, Repo-Sweep clean
+
+## Schwerpunkt
+
+- **Testakte `status-navigator-batteriespeicher-jaenschwalde-peitz` erweitert** von 27 auf **33 Aktenstuecke**. Sechs zusaetzliche Anwaltsdokumente aus dem Mandatsverlauf:
+  - `27_handelsregisterauszug_lausitzstorage_und_leag_immobilien.md` — HRB 11842 Cottbus (LEAG Immobilien GmbH) und HRB 12217 Cottbus (LausitzStorage GmbH) mit § 177 BGB-Belegen zur schwebenden Unwirksamkeit der Reparaturvereinbarung NordCap-Niederee.
+  - `28_mandatsvollmacht_lausitzstorage_pohlmann.md` — Vollmacht der LausitzStorage GmbH auf RAin Dr. Friederike Hesselmann-Sauerbruch, Sozietaet Pohlmann und Pohlmann.
+  - `29_aktennotiz_telefonat_nordcap_reparaturverhandlung.md` — Aktennotiz Verhandlung mit NordCap-Geschaeftsfuehrer Niederee zur Reparaturkostenuebernahme der Pufferspeicher-Steuerung.
+  - `30_zugangsbeweis_einschreiben_drawstop_post.md` — Einwurf-Einschreiben RM 4118 7325 8 DE als Zugangsnachweis gemaess § 130 BGB.
+  - `31_rvg_zwischenrechnung_pohlmann.md` — RVG-Zwischenrechnung bei Streitwert 11,9 Mio EUR, 1,3-Gebuehr plus Auslagen plus USt, Endbetrag 41.488,28 EUR.
+  - `32_klarstellungsschreiben_leag_pacht_genehmigungsregime.md` — Klarstellung gegenueber LEAG zum Pacht-Genehmigungsregime mit Frist 23.06.2026.
+  - `33_step_plan_v2_aenderungslog_und_ampelfortschritt.md` — Step-Plan v2 Aenderungslog mit rot 10 auf 3 reduziert.
+- **Testakte `polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz` erweitert** von 20 auf **26 Aktenstuecke**. Sechs zusaetzliche Verfahrensdokumente nach Eilbeschluss-Stattgabe:
+  - `21_anwaltsvollmacht_initiative_pohlmann.md` — Vollmacht Initiative Lausitzer Lebensraum e.V. an die Sozietaet.
+  - `22_widerspruch_polizeipraesidium_cottbus.md` — Widerspruch nach § 68 VwGO gegen die sechs verbliebenen Auflagen 1/2/4/5/6/8.
+  - `23_kostenfestsetzungsantrag_vg_cottbus.md` — Kostenfestsetzungsantrag mit Quote 5/6 zugunsten des Antragstellers, 3.687,12 EUR.
+  - `24_fortsetzungsfeststellungsklage_vorbereitung.md` — Vorbereitung der Fortsetzungsfeststellungsklage nach § 113 Abs. 1 Satz 4 VwGO (Wiederholungsgefahr und Rehabilitation).
+  - `25_pressespiegel_lausitzer_rundschau.md` — Pressespiegel Lausitzer Rundschau, MAZ, Tagesspiegel, RBB.
+  - `26_verhaeltnismaessigkeitspruefung_klausurspur.md` — Klausurspur der Verhaeltnismaessigkeitspruefung pro Auflage entlang BVerfGE 69, 315 Brokdorf.
+- **Gesamt-PDFs neu gebaut**: LausitzStorage 121 KB / 33 Quelldateien; Polizei 106 KB / 26 Quelldateien.
+- **READMEs der beiden Testakten** um die Punkte 27-33 bzw. 21-26 erweitert, KB-Werte in den Header-Sektionen synchronisiert.
+
+## Repo-Sweep clean
+
+- Skill-Slugs in beiden neuen Plugins (`status-navigator-step-plan`, `verhaeltnismaessigkeitspruefer`) durchgesehen — alle sprechend, normbezogen, keine generischen Kurzformen.
+- Boilerplate-Scan repo-weit: "robuste" 191x, "nahtlos" 32x, "klar und verstaendlich" 12x — alle in juristischem Fachkontext (§ 307 BGB, Nahtlosigkeit GKV/RV, etc.), keine generischen KI-Tells.
+- Keine leeren SKILL.md, kein TODO/FIXME ausserhalb legitimer Mustertexte (XXX = ISBN-Platzhalter, Az.-Format-Beispiel, TODO-Workflow-Marker).
+- description-Laengen aller 18.536 Skills compliant (<= 1024 Zeichen).
+
+## Counts (unveraendert ggue. v236)
+
+- **212 Plugins**, **18.536 Skills**, **203 Testakten**. Nur Inhalt der zwei erweiterten Testakten gewachsen (27 -> 33 und 20 -> 26 Aktenstuecke).
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: gruen.
+- `python3 scripts/validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen.
+- `python3 scripts/validate-testakten-gesamt-pdf.py`: gruen (203 Testakten).
+
+---
+
+# v236.0.0 — Uebersichten, Asset-Index und Downloadpakete synchronisiert
+
+## Schwerpunkt
+
+- **Root-README alphabetisch nachgezogen:** `status-navigator-step-plan` und `verhaeltnismaessigkeitspruefer` stehen wieder in der zentralen Plugin-Tabelle; die thematischen Cluster nennen beide ebenfalls.
+- **PROMPTLISTE aktualisiert:** 208 kuratierte Praxis-Plugins von 212; die vier bewusst ausgenommenen historischen/exotischen Spezialplugins bleiben nicht in der kuratierten Praxisliste.
+- **ASSET_INDEX neu aufgebaut:** 212 Plugin-Assets, 203 Testakten-Assets und alle vier Sammel-Assets (`marketplace.json`, `alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`) mit den tatsächlich vom Release-Workflow erzeugten Download-URLs.
+- **Sofort-Download-Sektionen nachgezogen:** Die beiden neuen Plugins haben nun eigene Direkt-Download-Blöcke mit zugeordneter Demonstrationsakte; bestehende Plugin- und Testakten-README-Blöcke wurden idempotent geprüft.
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: grün.
+- `python3 scripts/validate-testakten-gesamt-pdf.py`: grün.
+- `python3 scripts/validate-yaml-frontmatter.py`: grün.
+- Lokale Release-ZIP-Simulation: alle 212 Plugin-ZIPs, alle 203 Testakten, `alle-plugins-megazip.zip`, `alle-testakten.zip` und `alles-komplettpaket.zip` vollständig.
+
+---
+
+# v235.0.0 — Status-Navigator, Verhaeltnismaessigkeitspruefer, Fachanwalt-Norm-Skills, Polizeirechtliche Testakte, Veredelungs-Runde 3
+
+## Schwerpunkt
+
+- **Zwei neue Plugins** mit zusammen 66 Skills:
+  - `status-navigator-step-plan` (35 Skills): Status-Navigator und Step-Plan-Macher als reine Dokumentenverarbeitung. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung, keine Normenanker.
+  - `verhaeltnismaessigkeitspruefer` (31 Skills): Vierstufige Schranken-Schranke (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) mit BVerfG-Leitentscheidungen, PrOVG-Kreuzberg-Linie, rechtsvergleichenden Skills zu Suedafrika Section 36 und Workflow-Werkzeugen Clip-Club/Padlet.
+- **230 neue Norm-Skills in 23 Fachanwalt-Plugins** (je 10 Skills mit sprechenden Slugs): zitiert konkret aus dem jeweiligen Plugin-Bestand und loest jeweils ein konkretes Problem. Plugins: agrarrecht, arbeitsrecht, bank-kapitalmarktrecht, bau-architektenrecht, erbrecht, familienrecht, gewerblicher-rechtsschutz, handels-gesellschaftsrecht, insolvenz-sanierungsrecht, internationales-wirtschaftsrecht, it-recht, medizinrecht, miet-wohnungseigentumsrecht, migrationsrecht, sozialrecht, sportrecht, strafrecht, transport-speditionsrecht, urheber-medienrecht, vergaberecht, verkehrsrecht, versicherungsrecht, verwaltungsrecht (steuerrecht ausgenommen wegen Redirect).
+- **Neue Testakte**: `polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz` (20 Aktenstuecke) — Initiative Lausitzer Lebensraum e.V. (1. Vorsitzender Dr. Werner-Karl Pohlmann-Brandenburg) gegen Polizeiverfuegung wegen Anti-Kohle-Versammlung mit Performance-Erdaushebung "Vier Stufen der Trauer um den Lausitzer Wald". Eilantrag § 80 Abs. 5 VwGO an VG Cottbus 3 L 188/26, Vors. RiVG Dr. Susanne Marquardt-Heuser. Beschluss-Stattgabe wegen Versammlungsfreiheit Art. 8 GG. Bearbeitung durch RAin Dr. Friederike Hesselmann-Sauerbruch, Pohlmann und Pohlmann, AZ PoPo-2026-VR-0617.
+- **Veredelungs-Runde 3**: 1.124 Skills in 197 Plugins mit kuratierten Normen-und-Rechtsprechung-Sektionen versehen. Plugin-Top-30 mit handkuratierten Norm-Bibliotheken (8-15 Normen + 3-6 Leitentscheidungen), uebrige Plugins mit aus den Plugin-Skills extrahierten Top-Normen.
+
+## Counts
+
+- 210 Plugins -> **212 Plugins** (+2: status-navigator-step-plan, verhaeltnismaessigkeitspruefer).
+- 18.240 Skills -> **18.536 Skills** (+296 netto: +35 Status-Navigator + 31 Verhaeltnismaessigkeit + 230 Fachanwalt-Norm-Skills, zuzueglich Politur/Korrekturzaehler aus der Zwischenpflege).
+- 201 Testakten -> **203 Testakten** (+2: status-navigator-batteriespeicher-jaenschwalde-peitz aus v230-Vorbereitung + neue Polizei-Akte).
+
+## Validation
+
+- `node scripts/validate-plugin-structure.mjs`: gruen.
+- `python3 scripts/validate-yaml-frontmatter.py`: gruen.
+
+
+# v230.0.0 — Bug-Hunt, Praefix-Sweep, Skill-Veredelung, Grammatik-Fix
+
+## Schwerpunkt
+
+- **Grammatik-Fix nach Codex-Polish v216:** 13.346 SKILL.md-Dateien mit grammatischen Folgefehlern der `Prueffeld -> Pruefungslinie`-Substitution korrigiert. Insgesamt rund 13.300 Sprachstellen geheilt: `dieses Pruefungslinie -> diese Pruefungslinie` (~12.993), `Dieser Pruefungslinie -> Diese Pruefungslinie`, `beim sachtragenden -> bei der sachtragenden`, `konkret Pruefungslinie -> konkrete Pruefungslinie`, `in das tragende -> in die tragende`, `zum richtigen -> zur richtigen`, `Passenden -> Passende`.
+- **Truncation-Fix V4:** 80 Skill-Slugs mit abgeschnittenen Endungen rekonstruiert.
+  - `-un` (Tail-Drop nach `-und`) entfernt fuer 30+ Skills.
+  - `-red` -> `-red-team-korrektur` fuer 14 Skills.
+  - `-sta` -> `-staatsanwaeltinnen` (StA-Plugin) bzw. `-staatshaftung` (Weltraumrecht).
+  - `-fak` -> `-faktenmatrix`, `-ve` -> `-verhaeltnismaessigkeit`.
+  - Hardcoded Fixes fuer Spezialfaelle (gesellschafterstreit, rechnungskorrektur etc.).
+- **Aspekt-Suffix-Sweep:** 7 Skills mit doppeldeutigen Aspekt-Suffixen `-re/-or/-ka/-2/-3/-4` auf sprechende Vollform gebracht (z. B. `-rechtsprechungscheck`, `-organisationspflicht`, `-kaltstart`, `-kammerantwort`). Slug-Laengen-Limit 64 Zeichen beachtet, wo noetig Kurzform (z. B. `-orgapflicht`, `-rspr-check`).
+- **marktmac/energie-Renames:** 5 Slugs aus bundesnetzagentur-verfahren rekonstruiert (`-marktmacht-...`, `-unbundling-...`, `-messstellenbetrieb-...`).
+- **Doppel-Skill-Renames:** `interessenkollision-ehegatten-gesellschafter-*` und `honorarabhaengigkeit-non-audit-services-*` auf sprechende Suffixe gebracht.
+
+## Skill-Veredelung mit konkreten Norm-Zitaten
+
+- **535 Skills** in drei Plugins mit dedizierter `## Normen & Rechtsprechung`-Sektion versehen, die konkrete §§, Verordnungs-Artikel und Leitentscheidungen enthaelt.
+  - `staatsanwaltschaft-praxis-einstieg` (142 Skills): StPO/StGB/GVG/RiStBV/JGG/BtMG/KCanG mit BVerfG- und BGH-Leitentscheidungen.
+  - `berufsrecht-anwaelte` (197 Skills): BRAO/BORA/RVG/GwG mit § 160a StPO und BVerfGE 113, 29.
+  - `berufsrecht-notare` (196 Skills): BNotO/BeurkG/GNotKG/DONot mit DNotZ-Rechtsprechung.
+
+## Bug-Hunt-Ergebnisse
+
+- Slug-Laengen alle <=64 Zeichen (Validator-Regel).
+- Keine ungueltigen Zeichen in Slugs (nur `[a-z0-9-]`).
+- Frontmatter `name` = Verzeichnis-Slug fuer alle 18240 Skills.
+- Keine Stub-Skills mehr (Min ~1300 Bytes).
+
+## Konsistenz
+
+- README.md, TESTBERICHT.md, testakten/README.md auf `v230.0.0` gebumpt.
+- PROMPTLISTE.md ergaenzt: `fahrgastrechte` in Transport-/Speditionsrecht (5 statt 4 Plugins) nachgetragen.
+- SKILLS.md und alle 210 skills-index-Detailseiten regeneriert.
+- ASSET_INDEX.md auf 210 Plugins / 201 Testakten / `v230.0.0` regeneriert.
+- Plugin-Versionen aller 210 plugin.json und marketplace.json auf `230.0.0`.
+
+## Validator
+
+- `node scripts/validate-plugin-structure.mjs` -> `validate-plugin-structure OK`.
+
+---
+
+# v220.0.0 — Repo-weiter Qualitaets-Sweep: Praefix-Cleanup, Wortsalat-Slugs entwortsalatet, Truncations gefixt, Codex-Polish uebernommen
+
+## Schwerpunkt
+
+- Repo-weiter Qualitaets-Sweep ueber alle 210 Plugins in zwei Phasen.
+  - Phase 1: ~1100 Slug-Renames durch Entfernung generischer Plugin-Praefixe (spezial-, neu-, anwaelte-, notare-, insol-, handelsrecht-int-, notariat-, anw-, fa-, fa-stu-, fa-arb-, fa-fam- u. a.) repo-weit, mit Konflikt-Behandlung (8 Boilerplate-Duplikate geloescht).
+  - Phase 2: berufsrecht-wirtschaftspruefer (145), berufsrecht-steuerberater (142), berufsrecht-patentanwaelte (136) entpraefixt; 3 Konflikt-Duplikate geloescht.
+  - Insgesamt ~2400 Skills umbenannt, 32 Boilerplate-Skills entfernt.
+- Nummern-Dubletten in preussisches-recht und roemisches-recht dedupiert: Boilerplate-Varianten geloescht, ausgearbeitete Fachversionen behalten.
+- Mischmasch-Slugs entwortsalatet: 102 Wortsalat-Slugs mit 7+ Tokens auf sprechende H1-Slugs verkuerzt (z. B. venture-capital-recht, festlandchina-recht, beamtenrecht, oeffentliches-baurecht-bauplanung).
+- Truncations gefixt: 71 abgeschnittene Slug-Endungen rekonstruiert (-rec -> -rechtsprechungscheck, -kammerantw -> -kammerantwort, -organisationspfli -> -organisationspflicht, -verfa/-verfah -> -verfahren, -praeve -> -praevention, -schreib -> -schreiben, -unterlagenanfor -> -unterlagenanforderung).
+- bundesnetzagentur: 5x energie-regulierungsakte-...-rechtsmit -> ...-rechtsmittel.
+- startup-hr-personalabteilung-berlin/offboarding-account-checkliste-onboarding aufgeteilt und inhaltlich erweitert: dedizierter Skill offboarding-account-sperre-datenuebergabe mit 13 KB konkretem Inhalt zu Account-Sperre, Datenuebergabe, Rueckgabe-Checkliste, Backup-Aufbewahrungspflichten.
+- Codex-Polish v216 uebernommen: Begriff Prueffeld -> Pruefungslinie in 13975 SKILL.md vereinheitlicht; Prueffelder -> Pruefungslinien.
+
+## Erhalten gebliebene semantische Praefixe
+
+- lph- (HOAI-Leistungsphasen), bess-/fusion-/h2- (energierecht-Subdomaenen), plan- (insolvenzverwaltung), dba-/bwa-/susa-/lohn- (Steuerrecht), energie-/telekommunikation-/eisenbahn- (BNetzA), jurisdiktion- (Kartellrecht 130 Laender), beirat- (Gesellschaftsrecht), laienhilfe- (Sozialrecht), bautraeger- (Bau), schoeffe- (Schoeffen), china- (Festlandchina), besold- (beamtenrecht), bwbes- (bundeswehrrecht).
+
+## Qualitaetsbild
+
+- Validator gruen.
+- 210 Plugins / 18240 Skills / 204 Testakten.
+- SKILLS.md, skills-index/, ASSET_INDEX.md, README.md auf v220.0.0.
+
+# v215.0.0 — Generische Kurz-Praefixe aus Skill-Slugs entfernt; README-Plugin-Liste vervollstaendigt
+
+## Schwerpunkt
+
+- In 52 Plugins wurden generische Kurz-Praefixe aus Skill-Slugs entfernt: hoai-, bho-, rom-, stb-, pralr-, solo-, legw-, kom-, drg-, luft-, see-, dsv-, pe-, space-, vc-, btm-, ifg-, oew-, owi-, str-, stv-, tier-, umv-, vdg-, vbr-, ihl-, chn-, ein-, fran-, infl-, db-, kv-, lease-, tk-, ins-, verl-, inv-, iv-, nkr-, inso-, ips-, vaf-, spez-, elsj-, ifap-, jveg-, liqui-, zvg-, zv-, er-, energie-. Insgesamt rund 3500 Skills umbenannt, zwei Boilerplate-Duplikate in normenkontrollrat-nkr geloescht.
+- Plugin energierecht zusaetzlich von er- und energie-Praefixen befreit (46 Renames); die semantischen Sub-Domaenen bess-, fusion- und h2- bleiben als sprechende Praefixe erhalten, ebenso lph- in hoai-leistungsphasen-praxis und plan- in insolvenzverwaltung.
+- Haupt-README-Plugin-Tabelle vervollstaendigt: Das Plugin fahrgastrechte (Eisenbahn-Fahrgastrechte VO (EU) 2021/782) war in der alphabetischen Liste vergessen und wurde zwischen factoring-recht und fashion-law-moderecht ergaenzt. Damit listet die Tabelle wieder alle 210 Plugins vollstaendig.
+- Skill-Gesamtzahl von 9115 (veraltet aus fruehem Stand) auf den tatsaechlichen Stand 18272 angepasst.
+
+## Qualitaetsbild
+
+- Validator gruen.
+- Repo-weiter Praefix-Scan: 0 verbleibende generische Kurz-Praefixe ueber 30 Prozent Plugin-Anteil; nur drei semantische Sub-Domaenen-Praefixe (lph-, bess-, plan-) bestehen bewusst weiter.
+- 210 Plugins / 18272 Skills / 201 Testakten.
+- SKILLS.md, skills-index/, ASSET_INDEX.md, TESTBERICHT.md, README.md, testakten/README.md auf v215.0.0.
+
+# v213.0.0 — Plugin-Praefix-Wiederholungen aus Skill-Slugs entfernt; forderungsmanagement-klagewerkstatt manuell veredelt
+
+## Schwerpunkt
+
+- Repo-weit alle Skills entpraefixt: 1577 Skills umbenannt + 14 als Duplikat zur Kurzform geloescht, in 192 von 210 Plugins. Pluginname als Slug-Praefix komplett eliminiert (z. B. agb-recht-pruefer-kaltstart-triage -> kaltstart-triage, gesellschaftsrecht-tabellenpruefung-cap-table -> tabellenpruefung-cap-table, bgb-at-anfechtung-vor-auslegung -> anfechtung-vor-auslegung).
+- Auch Sub-Praefixe spezial-, freigegeben-, fmkw-, workflow-und- aus den entpraefixten Slugs entfernt. Frontmatter name: synchron aktualisiert. Drei externe Link-Verweise in READMEs und einer YAML auf neue Kurzform-Slugs umgebogen.
+- Plugin forderungsmanagement-klagewerkstatt manuell konsolidiert: 84 -> 46 Skills. 38 Boilerplate-Klone und drei Meta-Workflow-Skills entfernt (klage-aus-eigenem-skill, klagevorlage-aus-eigenen-mustern, inkasso-zahlungsklage-ersteller). Alle 46 verbleibenden Skills manuell mit echtem ZPO/BGB-Wissen befuellt: Klageschrift-Pflichtbestandteile § 253 Abs. 2 ZPO, Verzug § 286 BGB, Verzugszinsen § 288 BGB inklusive B2C-5pp / B2B-9pp und 40-Euro-Pauschale § 288 Abs. 5 BGB, Verjaehrung §§ 195 199 203 204 212 BGB, Streitwertgrenzen § 23 Nr. 1 GVG 10.000 EUR ab 01.01.2026, Mahnverfahren §§ 688 ff. ZPO, Mahngerichts-Tabelle nach Bundeslaendern, Vollstreckung §§ 704 ff. ZPO inklusive Pfaendungsgrenzen § 850c ZPO, EU-Verfahren Bruessel Ia VO 1215/2012, EuMVVO VO 1896/2006, EuVTVO VO 805/2004 und EuGFVO VO 861/2007.
+
+## Qualitätsbild
+
+- Validator gruen.
+- 0 FULL_PREFIX-Treffer und 0 P2-Praefix-Treffer im repo-weiten Re-Scan.
+- 210 Plugins / 18274 Skills / 201 Testakten.
+- SKILLS.md, skills-index/, ASSET_INDEX.md, TESTBERICHT.md, README.md, testakten/README.md auf v213.0.0.
+
+---
+
 # v212.0.0 — Rest-Boilerplate aus Skillanfängen entfernt
 
 ## Schwerpunkt

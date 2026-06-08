@@ -41,15 +41,15 @@ EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter 
 - Bei Erfolg Erstattung selten.
 
 ### Pflegegrad-Bescheid
-- Indizwirkung fuer EM-Rente — nicht zwingend.
+- Indizwirkung für EM-Rente — nicht zwingend.
 
 ### MD-Stellungnahme
-- Bei Anhoerungen Akteneinsicht beantragen.
+- Bei Anhörungen Akteneinsicht beantragen.
 
 ## Strategie
 
 1. **Chronologische Sortierung**: Alle Belege nach Datum.
-2. **Diagnose-Cluster**: Welche Diagnose ist fuer EM relevant?
+2. **Diagnose-Cluster**: Welche Diagnose ist für EM relevant?
 3. **Tagesablauf-Tagebuch**: 14 Tage konkret dokumentieren.
 4. **Schweigepflichtentbindung** an behandelnde Aerzte.
 5. **Selbstauskunft** strukturiert.

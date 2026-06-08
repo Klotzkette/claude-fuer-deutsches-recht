@@ -1,43 +1,29 @@
 ---
 name: geldwaesche-krypto-zahlungsdienstleister-kyc
-description: "Geldwaesche Krypto Zahlungsdienstleister KYC im Plugin Geldwaeschepraevention Aml Kyc: prüft konkret Kommandocenter für alle Geldwäsche- KYC- Sanktions- und, AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und, KYC-Onboarding neuer Kunden mit Identifizierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Geldwaesche Krypto Zahlungsdienstleister KYC
+# AML/KYC-Kommandocenter
 
 ## Arbeitsbereich
 
-**Geldwaesche Krypto Zahlungsdienstleister KYC** ordnet den Fall über die tragenden Prüffelder: Kommandocenter für alle Geldwäsche- KYC- Sanktions- und, AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und, KYC-Onboarding neuer Kunden mit Identifizierung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `geldwaesche-kommandocenter` | Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf. |
-| `geldwaesche-krypto-zahlungsdienstleister` | AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleister. Anwendungsfall Krypto-Transaktion soll bewertet oder Krypto-Dienstleister muss KYC-Prozess aufsetzen. Normen § 2 Abs. 1 Nr. 10b GwG Kryptowertehandel Verordnung 2023/1113 Travel Rule MiCAR Art. 59. Prüfraster Wallets Travel Rule Mittelherkunft Krypto-Red-Flags Zahlungsdienstleister E-Geld technische Kontrollpunkte. Output KYC-Prüfprotokoll mit Wallet-Analyse Red-Flag-Liste Travel-Rule-Nachweis und Verdachtsprüfung. Abgrenzung zu geldwäsche-transaktionsmonitoring und geldwäsche-sanktionsscreening. |
-| `geldwaesche-kyc-onboarding` | KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschäftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgeführt werden. Normen §§ 10 11 GwG allgemeine Sorgfaltspflichten § 15 GwG verstaerkte Sorgfaltspflicht § 14 GwG vereinfachte Sorgfaltspflicht. Prüfraster Identifizierung Zweck Geschäftsbeziehung Mittelherkunft Eigentumsstruktur Risikoeinstufung Freigabe. Output KYC-Akte mit Identifizierungsprotokoll Risikoeinstufung Freigabevermerk und periodischer Aktualisierungsplan. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-ubo-wirtschaftlich-berechtigte. |
+Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Geldwäscheprävention (AML/KYC) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
 - Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `geldwaesche-kommandocenter`
-
-**Fokus:** Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf.
-
-# AML/KYC-Kommandocenter
 
 ## Triage zu Beginn
 1. Handelt es sich um einen Neu-Fall (Intake), einen laufenden Fall (Update) oder einen Eskalationsfall?
-2. Welcher Skill soll zuerst geladen werden: KYC-Onboarding, Verdachtsmeldung, Behoerdenverfahren oder Risikoanalyse?
+2. Welcher Skill soll zuerst geladen werden: KYC-Onboarding, Verdachtsmeldung, Behördenverfahren oder Risikoanalyse?
 3. Welche Fristen sind unmittelbar relevant (Meldepflicht § 43 GwG: unverzueglich)?
 4. Sind echte oder simulierte Daten zu verarbeiten?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 
 Stand 05/2026. Rechtsprechung im Mandat live verifizieren — Aktenzeichen nicht aus Modellwissen.
 
@@ -55,7 +41,7 @@ Stand 05/2026. Rechtsprechung im Mandat live verifizieren — Aktenzeichen nicht
 - § 4 GwG — Interne Sicherungsmaßnahmen: Case-Management als Pflichtbestandteil
 - § 7 GwG — Geldwäschebeauftragter als Fallverantwortlicher
 - § 43 GwG — Verdachtsmeldung: Unverzueglichkeit als Fristmerkmal
-- § 8 GwG — Aufzeichnungspflichten fuer alle Fallvorgaenge
+- § 8 GwG — Aufzeichnungspflichten für alle Fallvorgaenge
 
 ## Quellenregel
 
@@ -63,144 +49,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Zweck
 
 Dieser Einstieg führt in jedes AML/KYC-Mandat: Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, Sanktionsscreening, Verdachtsmeldung, Behördenverfahren oder Remediation.
-
-## Wann verwenden
-
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
-
-## Arbeitsweise
-
-1. **Rolle und Pflichtenkreis klären.** Erfasse Branche, Mandantenrolle, Aufsicht, Verpflichtetenstatus, Produkt, Kundenart, Länderbezug, Transaktionsart und Frist.
-2. **Daten sauber ziehen.** Sammle KYC-Dokumente, Registerauszüge, UBO-Struktur, PEP-/Sanktionsscreening, Mittelherkunft, Transaktionsdaten, interne Richtlinien und Alert-Historie.
-3. **Quellenstand protokollieren.** Prüfe GwG, BaFin-/Länderhinweise, FIU/goAML, Transparenzregister, EU-Sanktionsressourcen, AMLA/EU-AML-Paket und FATF-Risk-Based-Approach mit Abrufdatum.
-4. **Risikobasiert entscheiden.** Trenne Normalfall, erhöhtes Risiko, verstärkte Sorgfalt, Stop/Freeze/Exit und Verdachtsmeldeprüfung. Keine automatische Freigabe bei Datenlücken.
-5. **Verzeihend nachziehen.** Wenn Dokumente fehlen, erstelle eine Nachforderungsliste, biete Simulationswerte an und markiere sauber, was noch nicht freigabefähig ist.
-6. **Arbeitsprodukt liefern.** Erzeuge KYC-Vermerk, Risikoanalyse, Trefferlog, Verdachtsmeldungsentwurf, Richtlinie, Schulung, Audit-Finding, Behördenantwort oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Freigaben, Vier-Augen-Prinzip, Quellen, Fristen, Datenschutz, Mandatsgeheimnis, Aufbewahrung, Löschung und Auditierbarkeit.
-
-## Rückfragen, wenn unklar
-
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-
-## Ausgabeformat
-
-- Kurzlage mit Risikoampel und Sofortmaßnahmen
-- KYC-/UBO-/Sanktions- oder Monitoring-Matrix mit Quellenstand
-- Entscheidungsvorschlag mit Freigabe-, Eskalations- oder Stop-Workflow
-- prüfbarer Entwurf für Richtlinie, Verdachtsmeldung, Behördenantwort, Schulung oder Remediation
-- offene Annahmen, fehlende Nachweise und Review-Hinweise
-
-## Typische Fehler vermeiden
-
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
-
-## 2. `geldwaesche-krypto-zahlungsdienstleister`
-
-**Fokus:** AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleister. Anwendungsfall Krypto-Transaktion soll bewertet oder Krypto-Dienstleister muss KYC-Prozess aufsetzen. Normen § 2 Abs. 1 Nr. 10b GwG Kryptowertehandel Verordnung 2023/1113 Travel Rule MiCAR Art. 59. Prüfraster Wallets Travel Rule Mittelherkunft Krypto-Red-Flags Zahlungsdienstleister E-Geld technische Kontrollpunkte. Output KYC-Prüfprotokoll mit Wallet-Analyse Red-Flag-Liste Travel-Rule-Nachweis und Verdachtsprüfung. Abgrenzung zu geldwäsche-transaktionsmonitoring und geldwäsche-sanktionsscreening.
-
-# Krypto, Zahlungsdienste und FinTech
-
-## Triage zu Beginn
-1. Handelt es sich um einen Kryptowertedienstleister, E-Geld-Institut oder regulaeren Zahlungsdienstleister?
-2. Welche Wallets oder Transaktionen sind betroffen; greift die Travel Rule (ueber 1.000 EUR)?
-3. Gibt es Hinweise auf Mixer, Anonymisierungstools oder High-Risk-Wallets laut Blockchain-Analyse?
-4. Ist der VASP (Virtual Asset Service Provider) in der EU registriert oder aus einem Drittland?
-
-## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 2 Abs. 1 Nr. 2a GwG — Kryptowertedienstleister als Verpflichtete
-- Art. 14-16 TFR (Transfer of Funds Regulation) — Travel Rule ab 1.000 EUR
-- § 64y KWG — Registrierungs- und Zulassungspflicht fuer Krypto-Custodians
-- § 15 GwG — Verstaerkte Sorgfalt bei hohem Geldwaescherisiko (Privacy Coins, Mixer)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill bildet risikoreiche digitale Geschäftsmodelle in KYC- und Monitoring-Workflows ab.
-
-## Wann verwenden
-
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
-
-## Arbeitsweise
-
-1. **Rolle und Pflichtenkreis klären.** Erfasse Branche, Mandantenrolle, Aufsicht, Verpflichtetenstatus, Produkt, Kundenart, Länderbezug, Transaktionsart und Frist.
-2. **Daten sauber ziehen.** Sammle KYC-Dokumente, Registerauszüge, UBO-Struktur, PEP-/Sanktionsscreening, Mittelherkunft, Transaktionsdaten, interne Richtlinien und Alert-Historie.
-3. **Quellenstand protokollieren.** Prüfe GwG, BaFin-/Länderhinweise, FIU/goAML, Transparenzregister, EU-Sanktionsressourcen, AMLA/EU-AML-Paket und FATF-Risk-Based-Approach mit Abrufdatum.
-4. **Risikobasiert entscheiden.** Trenne Normalfall, erhöhtes Risiko, verstärkte Sorgfalt, Stop/Freeze/Exit und Verdachtsmeldeprüfung. Keine automatische Freigabe bei Datenlücken.
-5. **Verzeihend nachziehen.** Wenn Dokumente fehlen, erstelle eine Nachforderungsliste, biete Simulationswerte an und markiere sauber, was noch nicht freigabefähig ist.
-6. **Arbeitsprodukt liefern.** Erzeuge KYC-Vermerk, Risikoanalyse, Trefferlog, Verdachtsmeldungsentwurf, Richtlinie, Schulung, Audit-Finding, Behördenantwort oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Freigaben, Vier-Augen-Prinzip, Quellen, Fristen, Datenschutz, Mandatsgeheimnis, Aufbewahrung, Löschung und Auditierbarkeit.
-
-## Rückfragen, wenn unklar
-
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-
-## Ausgabeformat
-
-- Kurzlage mit Risikoampel und Sofortmaßnahmen
-- KYC-/UBO-/Sanktions- oder Monitoring-Matrix mit Quellenstand
-- Entscheidungsvorschlag mit Freigabe-, Eskalations- oder Stop-Workflow
-- prüfbarer Entwurf für Richtlinie, Verdachtsmeldung, Behördenantwort, Schulung oder Remediation
-- offene Annahmen, fehlende Nachweise und Review-Hinweise
-
-## Typische Fehler vermeiden
-
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
-
-## 3. `geldwaesche-kyc-onboarding`
-
-**Fokus:** KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschäftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgeführt werden. Normen §§ 10 11 GwG allgemeine Sorgfaltspflichten § 15 GwG verstaerkte Sorgfaltspflicht § 14 GwG vereinfachte Sorgfaltspflicht. Prüfraster Identifizierung Zweck Geschäftsbeziehung Mittelherkunft Eigentumsstruktur Risikoeinstufung Freigabe. Output KYC-Akte mit Identifizierungsprotokoll Risikoeinstufung Freigabevermerk und periodischer Aktualisierungsplan. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-ubo-wirtschaftlich-berechtigte.
-
-# KYC-Onboarding und Kundenprüfung
-
-## Triage zu Beginn
-1. Handelt es sich um eine natuerliche Person, juristische Person oder einen Trust/Stiftung?
-2. Gibt es PEP-Indikatoren, Hochrisikobezug oder komplexe Eigentumsstrukturen (mehr als zwei Ebenen)?
-3. Welche Unterlagen liegen bereits vor und welche fehlen fuer die vollstaendige Identifizierung nach § 10 GwG?
-4. Welche Risikoklasse (niedrig/normal/erhoehte Sorgfalt/verstaerkte Sorgfalt) wird erwartet?
-
-## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- §§ 10-17 GwG — Allgemeine und vereinfachte Sorgfaltspflichten
-- § 13 GwG — Identifizierung des wirtschaftlich Berechtigten
-- § 15 GwG — Verstaerkte Sorgfaltspflichten (PEP, Hochrisikoland)
-- § 11 Abs. 6 GwG — Risikobasierte Aktualisierungspflicht der KYC-Daten
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill macht aus unvollständigen Kundenunterlagen einen geführten, verzeihenden KYC-Prozess.
 
 ## Wann verwenden
 

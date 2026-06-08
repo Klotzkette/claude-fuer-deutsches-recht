@@ -7,10 +7,10 @@ description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Gro�
 
 ## Arbeitsbereich
 
-**Datenraum Deal Intake Disclosure Distressed** ordnet den Fall über die tragenden Prüffelder: KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und bestücken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenraum Deal Intake Disclosure Distressed** ordnet den Fall über die tragenden Prüfungslinien: KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und bestücken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` | KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau. |
 | `grosskanzlei-corporate-ma-datenraum-aufbau` | Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial. |
@@ -22,12 +22,12 @@ description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Gro�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Grosskanzlei Corporate Ma klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`
 
@@ -43,13 +43,10 @@ description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Gro�
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Datenqualität und XAI-Qualitätskontrolle
-- **Spezialgegenstand:** Datenqualität und XAI-Qualitätskontrolle; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und Information-Request-Steuerung**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -176,7 +173,7 @@ Sichert KI-gestützte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme u
 
 ## Triage
 
-1. Welche Datenquellen wurden fuer die M&A-Analyse genutzt — Datenraum, Handelsregister, Pressemitteilungen, Expert Calls?
+1. Welche Datenquellen wurden für die M&A-Analyse genutzt — Datenraum, Handelsregister, Pressemitteilungen, Expert Calls?
 2. Welche Ergebnisse basieren auf automatisierter Verarbeitung — DD-Analyse, Vertragsmarkup, Risikobewertung?
 3. Gibt es Bereiche, die nicht geprueft wurden — fehlende Daten, eingeschraenkter Datenraum, nicht zugaengliche Unterlagen?
 4. Welche Ergebnisse haben hohes Risiko und erfordern Senior Review?
@@ -195,7 +192,7 @@ Sichert KI-gestützte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme u
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Datenquellen dokumentieren:** alle verwendeten Quellen mit Datum, Version, Zugaenglichkeit; Luecken explizit benennen
 2. **Stichprobe und Plausibilisierung:** 10-20 % der Ergebnisse manuell querprufen
@@ -205,10 +202,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Rote Schwellen
 
-- Keine Belegkette fuer wesentliche Ergebnisse: Haftungsrisiko
+- Keine Belegkette für wesentliche Ergebnisse: Haftungsrisiko
 - Nicht erklaerbares Ergebnis bei hohem Risiko: sofortige Senior Review; kein Versand
 - Bias oder Datenlücke nicht benannt: moeglicherweise fehlerhafte Mandatsberatung
-
 
 ## V61 Deal-OS Boost
 
@@ -216,10 +212,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -237,13 +233,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Datenraum-Aufbau
-- **Spezialgegenstand:** Datenraum-Aufbau; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und Information-Request-Steuerung**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -377,10 +370,10 @@ Strukturiert und bestückt virtuelle Datenräume für Private M&A, Public M&A, C
 
 ## Zentrale Rechtsgrundlagen
 
-- Art. 7 FKVO; § 41 GWB — Vollzugsverbot und Clean-Room-Pflicht fuer kartellrechtlich sensibler Informationsaustausch vor Freigabe
+- Art. 7 FKVO; § 41 GWB — Vollzugsverbot und Clean-Room-Pflicht für kartellrechtlich sensibler Informationsaustausch vor Freigabe
 - Art. 7, 17, 18 MAR — Vertraulichkeit von Insiderinformationen im Datenraum bei boersennotierten Zielunternehmen; Insiderliste bei Datenraumzugang
 - § 47 GwG — Verschwiegenheitspflicht; keine Offenlegung geldwaescherelevanter Informationen
-- §§ 17, 18 GeschGehG — Schutz von Geschaeftsgeheimnissen; Geheimhaltungsvereinbarung muss vor Datenraumzugang vorliegen
+- §§ 17, 18 GeschGehG — Schutz von Geschäftsgeheimnissen; Geheimhaltungsvereinbarung muss vor Datenraumzugang vorliegen
 
 ## Aktuelle Rechtsprechung
 
@@ -389,7 +382,7 @@ Strukturiert und bestückt virtuelle Datenräume für Private M&A, Public M&A, C
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Deal-Typ und Zugriffsstruktur festlegen:** Bieter-Gruppen, Clean-Room-Bereich, Management-Zugang
 2. **Index-Struktur erstellen:** Hauptkategorien Corporate, Legal, Finance/Tax, Commercial, HR, IP/IT, Litigation, Real Estate, ESG
@@ -404,17 +397,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Datenraumzugang ohne NDA: Geschaeftsgeheimnisschutz verletzt (GeschGehG)
 - Insiderinformationen ohne MAR-Insiderliste: Aufsichtsrisiko (MAR Art. 18)
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -432,13 +424,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Datenraum-Gap-Analyse und Clean Room
-- **Spezialgegenstand:** Datenraum-Gap-Analyse und Clean Room; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und Information-Request-Steuerung**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -573,7 +562,7 @@ Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Lücken, Widersprü
 ## Zentrale Rechtsgrundlagen
 
 - Art. 7 FKVO; § 41 GWB — Clean-Room-Pflicht bei kartellrechtlich sensiblen Informationen vor Fusionskontrollfreigabe
-- §§ 17-18 GeschGehG — Schutz von Geschaeftsgeheimnissen: Datenraum-Inhalte unterliegen Geheimhaltung; Clean Room schutzt Wettbewerber-Informationen
+- §§ 17-18 GeschGehG — Schutz von Geschäftsgeheimnissen: Datenraum-Inhalte unterliegen Geheimhaltung; Clean Room schutzt Wettbewerber-Informationen
 - §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken muessen offengelegt werden; Fair Disclosure nach BGH
 - Art. 7, 17 MAR — bei boersennotiertem Zielobjekt: Insiderinformationen im Datenraum erfordern MAR-konforme Zugangsprotokollierung
 
@@ -584,7 +573,7 @@ Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Lücken, Widersprü
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Datenraum-Index auswerten:** Kategorien, Vollstaendigkeit, Duplikate, Versionierung
 2. **IRL-Luecken identifizieren:** fehlende Dokumente je Workstream aufführen; Prioritaet High/Medium
@@ -598,17 +587,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - IM-Widersprueche: Misrepresentation-Risiko des Verkaeuf ers
 - Fehlende wesentliche Dokumente ohne IRL: DD unvollstaendig; Garantierisiko
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -626,13 +614,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Deal-Intake
-- **Spezialgegenstand:** Deal-Intake; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Corporate Housekeeping, Register, Organpflichten und Transaktionsstruktur**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -780,7 +765,7 @@ Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Parteien extrahieren:** Verkaeufer, Kaeufer, Zielgesellschaft, Intermediar, Finanzier — volle Bezeichnung, Sitz, HR-Nummer
 2. **Conflicts-Check ausfuehren:** § 43a BRAO; GwG-Screening (Sanktionen, PEP)
@@ -796,17 +781,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - GwG-Sorgfaltspflichten verletzt: Bussgeld
 - Insiderinformation ohne MAR-Protokoll: aufsichtsrechtliche Konsequenzen
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -824,13 +808,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Deal-Team und Staffing
-- **Spezialgegenstand:** Deal-Team und Staffing; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -960,13 +941,13 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 1. Was ist die Deal-Komplexitaet — Gross-Transaktion (Cross-border, Multi-Jurisdiktion) oder Standard-M&A?
 2. Welche Workstreams sind zu besetzen — Corporate, Steuer, Arbeitsrecht, IP, Real Estate, Regulatory, Finance?
 3. Welche Kapazitaeten sind intern verfuegbar — Senior Associate, Associate, Partner?
-4. Sind externe Co-Counsel oder lokale Kanzleien fuer andere Jurisdiktionen erforderlich?
+4. Sind externe Co-Counsel oder lokale Kanzleien für andere Jurisdiktionen erforderlich?
 5. Was ist das Honorarbudget und die Abrechnungsstruktur — Time-Based, Capped Fee, Success Fee?
 
 ## Zentrale Rechtsgrundlagen
 
 - § 43a BRAO — Interessenkonflikt innerhalb des Deal-Teams: jeder Teamanwalt muss conflicts-geprueft sein
-- §§ 10, 11 GwG — GwG-Pflichten gelten fuer alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
+- §§ 10, 11 GwG — GwG-Pflichten gelten für alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
 - § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten vertragliche Vereinbarung ueber Abrechnungsmodalitaeten; schriftliche Basis empfohlen
 
 ## Aktuelle Rechtsprechung
@@ -976,19 +957,18 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline
 2. **Kapazitaetspruefung:** interne Verfuegbarkeit pruefen; bei Engpass: Co-Counsel-Einbindung
-3. **Conflicts-Check fuer gesamtes Team:** § 43a BRAO; alle Teamanwaltseintragungen im Conflicts-System
+3. **Conflicts-Check für gesamtes Team:** § 43a BRAO; alle Teamanwaltseintragungen im Conflicts-System
 4. **Eskalationswege definieren:** wer entscheidet bei Red Flag, Deal-Breaker, Media-Anfragen?
 5. **Honorarstruktur abstimmen:** Budget-Tracking, weekly Status, Kunden-Reporting
 
 ## Rote Schwellen
 
 - Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
-- Kein Conflicts-Check fuer Team-Mitglieder: § 43a BRAO-Verstoß
-
+- Kein Conflicts-Check für Team-Mitglieder: § 43a BRAO-Verstoß
 
 ## V61 Deal-OS Boost
 
@@ -996,10 +976,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -1017,13 +997,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Disclosure Schedules
-- **Spezialgegenstand:** Disclosure Schedules; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und Information-Request-Steuerung**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -1115,15 +1092,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Garantien ab. Sichert Verkaeuferhaftungsbegrenzung durch vollstaendige und korrekte Offenlegung; verhindert Haftung fuer Garantieverletzung bei bekannten Umstaenden.
+Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Garantien ab. Sichert Verkaeuferhaftungsbegrenzung durch vollstaendige und korrekte Offenlegung; verhindert Haftung für Garantieverletzung bei bekannten Umstaenden.
 
 ## Triage — klaere vor Erstellung
 
 1. Welches Disclosure-Konzept gilt — General Disclosure (ganzer Datenraum qualifiziert als Disclosure) oder Specific Disclosure (nur namentlich aufgefuehrte Dokumente)?
-2. Gibt es einen Materiality Scrape — entfaellt die Materiality-Schwelle fuer SPA-Garantien, wenn ein Umstand discloset ist?
+2. Gibt es einen Materiality Scrape — entfaellt die Materiality-Schwelle für SPA-Garantien, wenn ein Umstand discloset ist?
 3. Welche SPA-Garantien sind disclosure-relevant — alle Business Warranties, oder nur Tax und Employment?
 4. Liegen alle wesentlichen DD-Findings vor, die der Verkaeufer offenlegen muss? Gibt es "known unknowns"?
-5. Vendor Due Diligence vorhanden — kann VDD-Report als Quelle fuer Disclosures verwendet werden?
+5. Vendor Due Diligence vorhanden — kann VDD-Report als Quelle für Disclosures verwendet werden?
 6. Welche Kategorien-Beschraenkungen gelten — welche Dokumente sind nicht im Datenraum (z.B. Kundenvertraege ohne Einwilligung)?
 
 ## Zentrale Rechtsgrundlagen
@@ -1141,14 +1118,14 @@ Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Ga
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **SPA-Garantienliste erstellen:** alle Business Warranties mit Disclosure-Vorbehalt identifizieren; je Garantie: Scope, Carve-out, Disclosure-Methode
 2. **Datenraum-Mapping:** Dokumente nach Garantie-Kategorien zuordnen; Index erstellen (Ordner, Dokument, Datenraum-ID, Relevanz)
 3. **DD-Findings einarbeiten:** Red-Flag-Findings als Specific Disclosure formulieren; jedes wesentliche Finding muss disclosure-faehig sein oder als Freistellung behandelt werden
 4. **Vendor DD einbinden:** VDD-Bericht als Anlage zum Disclosure Letter; Kaeufer muss VDD-Report als General Disclosure anerkennen
 5. **Materiality-Scrape pruefen:** Wenn Materiality Scrape vereinbart: sichererstellen, dass alle Disclosures vollstaendig sind, da Scrape alle Materiality-Schwellen entfernt
-6. **Earn-Out-relevante Umstaende:** gesonderte Disclosure-Kategorie fuer Earn-Out-beeinflussende Umstaende erstellen
+6. **Earn-Out-relevante Umstaende:** gesonderte Disclosure-Kategorie für Earn-Out-beeinflussende Umstaende erstellen
 7. **Disclosure Letter finalisieren:** formale Struktur (Intro, General Disclosures, Specific Disclosures je Garantie), Datum, Unterzeichnung; als SPA-Anlage beifuegen
 8. **Fair-Disclosure-Check:** Pruefung, ob alle wesentlichen Risiken klar und verstaendlich dargestellt sind (nicht nur durch Indexverweis)
 
@@ -1157,7 +1134,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - General Disclosure gewuenscht → alle Datenraum-Dokumente qualifizieren → Kaeufer muss DD komplett durchfuehren
 - Specific Disclosure → je Garantie explizite Aufzaehlung → vollstaendiger als General Disclosure
 - Materiality Scrape vereinbart → alle Disclosures muessen 100 % vollstaendig sein → lueckenhafter Disclosure Letter gefaehrlicher
-- Arglistiges Verschweigen → kein Haftungsausschluss durch Disclosure-Klausel → persoenliche Haftung Geschaeftsfuehrer
+- Arglistiges Verschweigen → kein Haftungsausschluss durch Disclosure-Klausel → persönliche Haftung Geschaeftsfuehrer
 
 ## Output-Template: Disclosure Letter Gliederung
 
@@ -1210,17 +1187,16 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 - assets/templates/disclosure-letter-gliederung.md
 - assets/templates/disclosure-schedule-index.md
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
@@ -1238,13 +1214,10 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Distressed M&A
-- **Spezialgegenstand:** Distressed M&A; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -1341,7 +1314,7 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 ## Triage — klaere vor Strukturentscheidung
 
 1. Welcher Krisenstatus besteht — drohende Zahlungsunfaehigkeit (§ 18 InsO), Zahlungsunfaehigkeit (§ 17 InsO) oder Ueberschuldung (§ 19 InsO)?
-2. Wurde bereits ein Insolvenzantrag gestellt? Gibt es einen vorlaeufigen Insolvenzverwalter?
+2. Wurde bereits ein Insolvenzantrag gestellt? Gibt es einen vorläufigen Insolvenzverwalter?
 3. Laeuft ein StaRUG-Verfahren — Restrukturierungsplan, Restrukturierungsbeauftragter, Moratorium?
 4. Welche Erwerbsstruktur ist geplant — Asset Deal aus der Insolvenz, uebertragende Sanierung, Share Deal mit Sanierungsplan, Insolvenzplan mit Debt-Equity-Swap?
 5. Gibt es wesentliche Sicherheiten (Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte), die in den Erwerb einbezogen werden muessen?
@@ -1351,11 +1324,11 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 
 - §§ 17-19 InsO — Insolvenztatbestaende: Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung
 - § 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit; 6 Wochen bei Ueberschuldung
-- § 15b InsO — Haftung fuer masseschmaeIernde Zahlungen nach Insolvenzreife
+- § 15b InsO — Haftung für masseschmaeIernde Zahlungen nach Insolvenzreife
 - §§ 129-147 InsO — Insolvenzanfechtung: Nachteilsbewusstsein, Vorsatzanfechtung (§ 133 InsO), Sicherungsanfechtung (§ 135 InsO); Frist bis zu 10 Jahre
 - §§ 163, 233 InsO — Uebertragender Sanierung: Veraeusserung des Unternehmens durch Insolvenzverwalter
 - §§ 217-269 InsO — Insolvenzplan: Sanierungsplan mit Debt-Equity-Swap; Glaeubigerzustimmung
-- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein oeffentliches Verfahren noetig
+- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein öffentliches Verfahren noetig
 - § 613a BGB — Betriebsuebergang bei Asset Deal: Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes; Widerspruchsrecht
 
 ## Aktuelle Rechtsprechung
@@ -1365,14 +1338,14 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow
+## Schritt-für-Schritt-Workflow
 
 1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen pruefen; Liquiditaetsvorschau anfordern
 2. **Strukturwahl:** Asset Deal / uebertragende Sanierung vs. Share Deal aus der Insolvenz vs. StaRUG-Plan vs. Insolvenzplan
 3. **Anfechtungsrisiko-Analyse:** § 133 InsO (Vorsatz), § 135 InsO (Sicherheiten, Gesellschafterdarlehen), § 131 InsO (kongruente/inkongruente Deckung) — kritischer Zeitraum 4 Jahre rueckwirkend
 4. **Sicherheitenlage kartieren:** Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte, Eigentumsvorbehalt — welche Sicherheiten werden mit erworben?
 5. **§ 613a BGB-Pruefung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
-6. **Insolvenzverwalter-Interface:** oeffentliche Bekanntmachung, Angebot, Glaeubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
+6. **Insolvenzverwalter-Interface:** öffentliche Bekanntmachung, Angebot, Glaeubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
 7. **W&I und Closing-Risiko:** W&I bei Distressed meist ausgeschlossen; stattdessen: Disclosure-basierter Haftungsausschluss, MAC-Trigger im SPA
 8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs pruefen (Insolvenzgericht-Genehmigung, Glaeubigerzustimmung)
 
@@ -1380,7 +1353,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Antrag noch nicht gestellt → Zahlungsunfaehigkeit vorhanden → Antragspflicht § 15a InsO → sofort Insolvenzverwaltung informieren
 - Vorlaeufige Insolvenz → Zustimmungsvorbehalt des vorl. IV → Asset Deal nur mit dessen Zustimmung wirksam
-- StaRUG laufend → kein oeffentliches Verfahren → Restrukturierungsplan muss Wertpruefung bestehen
+- StaRUG laufend → kein öffentliches Verfahren → Restrukturierungsplan muss Wertpruefung bestehen
 - Asset Deal → § 613a BGB → Informationspflicht → Arbeitnehmer Widerspruchsrecht 1 Monat
 
 ## Output-Template: Distressed-M&A-Timeline
@@ -1441,16 +1414,15 @@ OFFENE PUNKTE: [TODO Owner Datum]
 - assets/templates/insolvenzplan-ma-checklist.md
 - assets/templates/cash-bridge-13-wochen.md
 
-
 ## V61 Deal-OS Boost
 
 Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
 
 - **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
 - **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
+- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
 - **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
 - **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
+- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
 - **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
 - **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

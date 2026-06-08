@@ -27,7 +27,7 @@ Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre ge
 - **§ 33 ZPO** — Voraussetzungen Widerklage: Konnexitaet oder Aufrechnungs-Verhaeltnis.
 - **§ 45 GKG** — Streitwert bei Widerklage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -38,10 +38,10 @@ Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre ge
 
 In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vertragsbeziehung.
 
-### Schritt 2 — Zustaendigkeit
+### Schritt 2 — Zuständigkeit
 
 - **Sachliche Zuständigkeit**: Die allgemeine AG-Grenze liegt seit 01.01.2026 bei 10.000 EUR. Wenn Klage und Widerklage zusammen darüber liegen, kann das Amtsgericht für die Widerklage dennoch zuständig bleiben, wenn § 33 Abs. 2 ZPO greift; prüfen Sie das aber sauber mit `zulassungsgrenzen-check-amtsgericht`.
-- **Oertliche Zustaendigkeit**: Gericht der Hauptklage gilt auch fuer Widerklage.
+- **Oertliche Zuständigkeit**: Gericht der Hauptklage gilt auch für Widerklage.
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?
 
@@ -120,7 +120,7 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 ## Worauf Sie besonders achten muessen
 
-- **Zustaendigkeitspruefung**: AG bleibt zustaendig bei konnexer Widerklage.
+- **Zuständigkeitspruefung**: AG bleibt zuständig bei konnexer Widerklage.
 - **Streitwert addiert** sich (§ 45 GKG) — Kosten beachten.
 - **Praeklusion**: Frueh erheben, nicht erst im Termin.
 - **Konnexitaet darlegen**: ohne Konnexitaet keine Widerklage.
@@ -141,7 +141,6 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 33 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -1,33 +1,33 @@
 ---
 name: anlageberatungsfehler-bankrecht-akkreditiv
-description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prüffeld für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Bankgarantie auf erste Anforderung im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Bankgarantie auf erste Anforderung im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Anlageberatungsfehler Bankrecht Akkreditiv
 
 ## Arbeitsbereich
 
-**Anlageberatungsfehler Bankrecht Akkreditiv** ordnet den Fall über die tragenden Prüffelder: Prüffeld für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anlageberatungsfehler Bankrecht Akkreditiv** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `anlageberatungsfehler-pruefen` | Prüffeld für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anlageberatungsfehler-pruefen` | Prüfungslinie für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `bankrecht-akkreditiv-standby-lc-dokumentenstreit` | Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung. |
 | `bankrecht-buergschaft-auf-erste-anforderung` | Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bank- und Kapitalmarktrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `anlageberatungsfehler-pruefen`
 
-**Fokus:** Prüffeld für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anlageberatungsfehler prüfen
 
@@ -218,7 +218,7 @@ Gesamtschaden: EUR [Summe]
 Ich fordere Sie auf, den Schaden bis zum [Datum + 4 Wochen]
 zu erstatten. Anderenfalls erhebe ich Klage.
 
-[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Bank- und
+[Rechtsanwalt/-anwaeltin, Fachanwalt für Bank- und
 Kapitalmarktrecht]
 ```
 
@@ -331,3 +331,29 @@ Liefere:
 - Entwurf an Bank/Begünstigten/Kunden.
 - Eilantrags-Skizze.
 - Beweismatrix.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 82 DSGVO
+- § 64 WpHG
+- § 263 StGB
+- § 4b FinDAG
+- § 31 BDSG
+- § 44 KWG
+- § 10 ZAG
+- § 1 KWG
+- § 32 KWG
+- § 25a KWG
+- § 1 ZAG
+- Art. 22 DSGVO
+
+### Leitentscheidungen
+
+- BGH XI ZR 22/24
+- BGH XI ZR 133/24
+- EuGH C-26/22
+- EuGH C-634/21
+- BGH VI ZR 183/22
+

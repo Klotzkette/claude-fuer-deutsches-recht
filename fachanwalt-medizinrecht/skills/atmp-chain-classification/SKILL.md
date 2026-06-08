@@ -7,40 +7,36 @@ description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Cha
 
 ## Arbeitsbereich
 
-**Atmp Chain Classification** ordnet den Fall über die tragenden Prüffelder: ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Atmp Chain Classification** ordnet den Fall über die tragenden Prüfungslinien: ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `atmp-chain-of-identity` | ATMP Chain of Identity: moderner Medizinrechts-Skill für Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `atmp-classification-cat` | ATMP-Klassifizierung und CAT-Route: moderner Medizinrechts-Skill für Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `atmp-chain-of-identity`
 
 **Fokus:** ATMP Chain of Identity: moderner Medizinrechts-Skill für Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # ATMP Chain of Identity
 
 ## Fachkern: ATMP Chain of Identity
-- **Spezialgegenstand:** ATMP Chain of Identity wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: ATMP Chain of Identity** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur.
 
@@ -90,19 +86,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** ATMP-Klassifizierung und CAT-Route: moderner Medizinrechts-Skill für Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # ATMP-Klassifizierung und CAT-Route
 
 ## Fachkern: ATMP-Klassifizierung und CAT-Route
-- **Spezialgegenstand:** ATMP-Klassifizierung und CAT-Route wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: ATMP-Klassifizierung und CAT-Route** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP.
 

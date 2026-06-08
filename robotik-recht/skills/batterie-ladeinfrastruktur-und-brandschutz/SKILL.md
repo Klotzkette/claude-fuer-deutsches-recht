@@ -6,11 +6,8 @@ description: "Prüft Batterie, Ladeinfrastruktur, Brandschutz, Transport, Lageru
 # Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern
 
 ## Fachkern: Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern
-- **Spezialgegenstand:** Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
 - **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum geht es konkret
 
@@ -102,3 +99,12 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 - Landesbauordnungen; IndBauR; VdS 3103, VdS 3856.
 - VO (EU) 2024/2853 (neue ProdHaftRL); § 823 BGB.
 - Live-Verifikation auf eur-lex.europa.eu, baua.de, vds.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EU) 2023/1230 (Maschinenverordnung)
+- Art. 6 AI-Act (Hochrisiko-KI)
+- §§ 1-19 ProdHaftG
+- RL (EU) 2024/2853 (neue Produkthaftungs-RL)

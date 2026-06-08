@@ -87,7 +87,6 @@ Wichtig: Die Vier-Jahres-Frist des § 133 Abs. 2 InsO gilt für Deckungshandlung
 
 Hinweis: Keine Rechtsberatung. § 133 InsO ist keine reine Mustererkennung; jede KI-Ausgabe muss die Indizien und Gegenindizien sichtbar machen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

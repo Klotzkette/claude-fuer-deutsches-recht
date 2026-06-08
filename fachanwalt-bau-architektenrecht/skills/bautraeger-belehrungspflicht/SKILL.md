@@ -7,28 +7,28 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 ## Arbeitsbereich
 
-**Bautraeger Belehrungspflicht** ordnet den Fall über die tragenden Prüffelder: Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Bautraeger Belehrungspflicht** ordnet den Fall über die tragenden Prüfungslinien: Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss. |
+| `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss. |
 | `bautraeger-bonitaetspruefung-warnsignale` | Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit. |
 | `bautraeger-elektronische-notarverkuendung-2023` | Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster. |
 | `bautraeger-finanzierungsgrundschuld-belastungsfolge` | Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bautraeger-belehrungspflicht-17-beurkg`
 
-**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss.
+**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss.
 
 # Bautraeger Belehrungspflicht 17 Beurkg
 
@@ -47,7 +47,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 - Wirtschaftliche Bedeutung der Vorausleistung.
 - MaBV-Schutz und seine Grenzen.
 - Auflassungsvormerkung.
-- Verjaehrung Maengelhaftung.
+- Verjährung Maengelhaftung.
 - Steuerliche Konsequenzen (Grunderwerbsteuer Spekulationsfrist).
 
 ## Folge bei Verstoss
@@ -122,14 +122,14 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 - Im Stand 2024/2025: GmbH-Gruendung online moeglich; Grundstuecksgeschaefte typischerweise weiterhin in Praesenz erforderlich.
 - Aktuellen Stand des elektronischen Notariats vor Anwendung verifizieren — Reformlage in Bewegung.
 
-## Vorteile fuer Erwerber
+## Vorteile für Erwerber
 
 - Erleichterung der Beurkundung bei langen Anreisen.
 - Aufzeichnung der Beurkundung im Notarregister.
 
 ## Nachteile
 
-- Manche Belehrungen verlieren an Gewicht ohne persoenlichen Kontakt.
+- Manche Belehrungen verlieren an Gewicht ohne persönlichen Kontakt.
 - Identifikation kann erschwert sein.
 
 ## Pruefraster
@@ -152,7 +152,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 ## Pfandentnahmen (Pfandfreigaben)
 
 - Mit jedem Erwerber-Ratenzahlung gibt der Bautraeger einen Teil seiner Schuld bei der Bank an die Bank ab.
-- Bank gibt schrittweise Pfandfreigaben fuer einzelne Wohnungen.
+- Bank gibt schrittweise Pfandfreigaben für einzelne Wohnungen.
 
 ## Pflicht der Bank
 

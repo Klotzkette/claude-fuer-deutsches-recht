@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 154 KB) | PDF | [`gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf`](gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 162 KB) | PDF | [`gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf`](gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -32,5 +32,6 @@ Gesamt-PDF: [`gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesam
 | `06-green-claims-und-retouren.xlsx` | Nachhaltigkeitsclaims, Belege, Retouren- und Dark-Pattern-Risiken |
 | `07-kampagnenbild-und-plattformcopy.jpg` | Bildanlage Kampagne/Copycat |
 | `08-marketplace-takedown-entwurf.md` | Entwurf Notice-and-Action gegen Plattformlisting |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `fashion-law-moderecht`, `markenrecht-fashion-luxus`, `datenschutzrecht`, `ecommerce-recht`

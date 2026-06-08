@@ -1,16 +1,16 @@
 ---
 name: dsfa-drittlandtransfer-behoerdenpaket-dsb
-description: "Dsfa Drittlandtransfer Behoerdenpaket DSB im Datenschutzrecht: prüft konkret Behördenfähiges Dokumentations- und Antwortpaket für, Bestellungspflicht für Datenschutzbeauftragten prüfen, Pruefung wann eine DSFA nach Art, Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dsfa Drittlandtransfer Behördenpaket DSB im Datenschutzrecht: prüft konkret Behördenfähiges Dokumentations- und Antwortpaket für, Bestellungspflicht für Datenschutzbeauftragten prüfen, Pruefung wann eine DSFA nach Art, Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Dsfa Drittlandtransfer Behoerdenpaket DSB
+# Dsfa Drittlandtransfer Behördenpaket DSB
 
 ## Arbeitsbereich
 
-**Dsfa Drittlandtransfer Behoerdenpaket DSB** ordnet den Fall über die tragenden Prüffelder: Behördenfähiges Dokumentations- und Antwortpaket für, Bestellungspflicht für Datenschutzbeauftragten prüfen, Pruefung wann eine DSFA nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Dsfa Drittlandtransfer Behördenpaket DSB** ordnet den Fall über die tragenden Prüfungslinien: Behördenfähiges Dokumentations- und Antwortpaket für, Bestellungspflicht für Datenschutzbeauftragten prüfen, Pruefung wann eine DSFA nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `drittlandtransfer-behoerdenpaket-output` | Behördenfähiges Dokumentations- und Antwortpaket für Drittlandtransfers erstellen: Deckvermerk, Transferregister, DPF/SCC/TIA-Nachweise, TOMs, Subprozessoren, Maßnahmenplan und Antwort an deutsche Datenschutzaufsicht. |
 | `dsb-bestellungspflicht-pruefung` | Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Prüfraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungsprüfmemo Empfehlung. Abgrenzung: nicht für Aufgaben des DSB (Art. 39 DSGVO). |
@@ -20,12 +20,12 @@ description: "Dsfa Drittlandtransfer Behoerdenpaket DSB im Datenschutzrecht: pr�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `drittlandtransfer-behoerdenpaket-output`
 
@@ -165,7 +165,6 @@ Wenn der Nutzer "ausdrucken", "vorlegen", "Behörde" oder "Aktenvermerk" sagt, l
 - EU-US Data Privacy Framework-Angemessenheitsbeschluss vom 10.07.2023.
 - Standardvertragsklauseln nach Durchführungsbeschluss (EU) 2021/914.
 - EDSA Recommendations 01/2020.
-
 
 ## Qualitäts-Hardening
 
@@ -532,7 +531,7 @@ Empfehlung: DSB bestellen (bis [FRIST]) / DSB wechseln / kein Handlungsbedarf
 
 ## Zweck
 
-Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
+Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob für eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
 
 ## Wann dieses Modul hilft
 
@@ -544,12 +543,12 @@ Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine kon
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 1 DSGVO Generalklausel: DSFA verpflichtend wenn eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund Art, Umfang, Umstaenden und Zwecken voraussichtlich ein hohes Risiko fuer die Rechte und Freiheiten natuerlicher Personen zur Folge hat.
+- Art. 35 Abs. 1 DSGVO Generalklausel: DSFA verpflichtend wenn eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund Art, Umfang, Umstaenden und Zwecken voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natuerlicher Personen zur Folge hat.
 - Art. 35 Abs. 3 DSGVO Regelbeispiele:
- - lit. a systematische und umfassende Bewertung persoenlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
+ - lit. a systematische und umfassende Bewertung persönlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
  - lit. b umfangreiche Verarbeitung besonderer Kategorien nach Art. 9 Abs. 1 oder von Daten ueber strafrechtliche Verurteilungen nach Art. 10
  - lit. c systematische umfangreiche Ueberwachung oeffentlich zugaenglicher Bereiche
-- Art. 35 Abs. 4 DSGVO Pflichtliste der Aufsichtsbehoerde (BfDI bzw. zustaendige Landesbehoerde) — sogenannte Blacklist.
+- Art. 35 Abs. 4 DSGVO Pflichtliste der Aufsichtsbehoerde (BfDI bzw. zuständige Landesbehoerde) — sogenannte Blacklist.
 - Art. 35 Abs. 5 DSGVO optionale Whitelist der Aufsichtsbehoerde.
 - Art. 35 Abs. 10 DSGVO Ausnahme bei gesetzlicher Grundlage mit bereits durchgefuehrter allgemeiner DSFA durch den Gesetzgeber.
 - EDSA-Leitlinien WP 248 rev.01 (uebernommen durch EDSA), insbesondere die 9 Kriterien zur Bestimmung von voraussichtlich hohem Risiko.
@@ -567,7 +566,7 @@ Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine kon
  - Zusammenfuehrung oder Abgleich von Datensaetzen
  - schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte)
  - neue Technologien (KI, Biometrie, IoT)
- - Verhinderung der Ausuebung von Betroffenenrechten
+ - Verhinderung der Ausübung von Betroffenenrechten
 4. **Massnahmen.** Pruefen ob bereits getroffene risikomindernde Massnahmen den Schwellwert unter hohes Risiko druecken (Pseudonymisierung, Anonymisierung, technische Beschraenkung). Ergebnis dokumentieren.
 5. **Restrisiko / Schwellwertergebnis.** Drei moegliche Ergebnisse:
  - DSFA-PFLICHTIG (Art. 35 Abs. 3, Abs. 4 oder mindestens 2 EDSA-Kriterien)
@@ -582,7 +581,7 @@ DSFA-TRIAGE-VERMERK [DATUM]
 
 Verarbeitung: [BEZEICHNUNG]
 Verantwortlicher: [NAME, ROLLE]
-Vorpruefer: [NAME] | DSB-Anhoerung: [DATUM]
+Vorpruefer: [NAME] | DSB-Anhörung: [DATUM]
 
 1. Kurzbeschreibung
 [Zweck, Datenarten, Betroffene, Technologie, Drittlandbezug, Aufbewahrung]
@@ -590,7 +589,7 @@ Vorpruefer: [NAME] | DSB-Anhoerung: [DATUM]
 2. Pruefung Art. 35 Abs. 3 DSGVO (Regelbeispiele)
 - lit. a Profiling mit Rechtswirkung: ja / nein — [Begruendung]
 - lit. b besondere Kategorien umfangreich: ja / nein — [Begruendung]
-- lit. c oeffentlicher Bereich Ueberwachung: ja / nein — [Begruendung]
+- lit. c öffentlicher Bereich Ueberwachung: ja / nein — [Begruendung]
 
 3. Pruefung Art. 35 Abs. 4 DSGVO BfDI-/Landes-Blacklist
 - Einschlaegig: ja / nein — [Listen-Position]
@@ -617,7 +616,7 @@ Unterschrift DSB: ____________________
 - Nur Art. 35 Abs. 3 geprueft, Generalklausel Abs. 1 uebersehen — auch ausserhalb der Regelbeispiele kann DSFA-Pflicht bestehen.
 - Blacklist der eigenen Landesbehoerde uebersehen (siehe Skill dsfa-bfdi-und-laender-blacklist).
 - Negative Triage nicht dokumentiert — bei spaeterem Aufsichtsverfahren kein Nachweis.
-- DSB nicht beteiligt obwohl Art. 35 Abs. 2 ausdruecklich Anhoerung verlangt.
+- DSB nicht beteiligt obwohl Art. 35 Abs. 2 ausdruecklich Anhörung verlangt.
 - Wesentliche Aenderung uebersehen — Re-Triage nach Art. 35 Abs. 11 notwendig.
 
 ## Querverweise
@@ -644,33 +643,33 @@ Unterschrift DSB: ____________________
 
 **Fokus:** Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach Art. 35 Abs. 4 DSGVO und mit den Listen der Landesdatenschutzbehoerden. Output: dokumentierter Listenabgleich mit Trefferanalyse und ggf. Verweis auf zwingende DSFA.
 
-# BfDI- und Laender-Blacklist Abgleich
+# BfDI- und Länder-Blacklist Abgleich
 
 ## Zweck
 
-Dieser Skill fuehrt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der Pflichtliste der zustaendigen Aufsichtsbehoerde nach Art. 35 Abs. 4 DSGVO (Blacklist) und mit der Whitelist nach Art. 35 Abs. 5 DSGVO durch. Ergebnis ist ein dokumentierter Listenabgleich, der die Erforderlichkeit oder Entbehrlichkeit einer DSFA stuetzt.
+Dieser Skill fuehrt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der Pflichtliste der zuständigen Aufsichtsbehoerde nach Art. 35 Abs. 4 DSGVO (Blacklist) und mit der Whitelist nach Art. 35 Abs. 5 DSGVO durch. Ergebnis ist ein dokumentierter Listenabgleich, der die Erforderlichkeit oder Entbehrlichkeit einer DSFA stuetzt.
 
 ## Wann dieses Modul hilft
 
 - In der DSFA-Trigger-Pruefung (Schwellwertanalyse)
 - Bei einer Aufsichtsanfrage zur Begruendung einer durchgefuehrten oder unterlassenen DSFA
 - Bei wesentlichen Aenderungen der Verarbeitung
-- Wenn unklar ist, welche Landesdatenschutzbehoerde zustaendig ist (Sitzland-Pruefung)
+- Wenn unklar ist, welche Landesdatenschutzbehoerde zuständig ist (Sitzland-Pruefung)
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 4 DSGVO: Aufsichtsbehoerden erstellen und veroeffentlichen Listen der Verarbeitungstaetigkeiten, fuer die eine DSFA durchzufuehren ist.
-- Art. 35 Abs. 5 DSGVO: Aufsichtsbehoerden koennen Listen veroeffentlichen, fuer die keine DSFA erforderlich ist (Whitelist).
+- Art. 35 Abs. 4 DSGVO: Aufsichtsbehoerden erstellen und veröffentlichen Listen der Verarbeitungstaetigkeiten, für die eine DSFA durchzufuehren ist.
+- Art. 35 Abs. 5 DSGVO: Aufsichtsbehoerden koennen Listen veröffentlichen, für die keine DSFA erforderlich ist (Whitelist).
 - Art. 35 Abs. 6 DSGVO: Listen werden dem Ausschuss EDSA uebermittelt, Koehaerenzverfahren bei grenzueberschreitenden Verarbeitungen.
-- § 40 BDSG: Zustaendigkeit der Landesdatenschutzbehoerden fuer den nicht-oeffentlichen Bereich.
-- § 67 BDSG verweist auf die Pflichtliste im oeffentlichen Bereich des Bundes.
+- § 40 BDSG: Zuständigkeit der Landesdatenschutzbehoerden für den nicht-öffentlichen Bereich.
+- § 67 BDSG verweist auf die Pflichtliste im öffentlichen Bereich des Bundes.
 - EDSA-Leitlinien WP 248 rev.01 als Auslegungshilfe.
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Verarbeitung soll abgeglichen werden? Konkrete Bezeichnung, Branche, eingesetzte Technologie, Datenkategorien.
-2. **Verhaeltnismaessigkeitspruefung.** Zustaendige Aufsichtsbehoerde ermitteln: Bund (BfDI) fuer oeffentliche Stellen des Bundes, Telekommunikation und Postwesen; Laender fuer den nicht-oeffentlichen Bereich, sortiert nach Sitzland des Verantwortlichen.
-3. **Risikoanalyse Listenabgleich.** Aktuelle Blacklist der zustaendigen Behoerde live abrufen (bfdi.bund.de bzw. Landesbehoerde). Treffer dokumentieren mit konkretem Listenpunkt und Datum des Abrufs.
+2. **Verhaeltnismaessigkeitspruefung.** Zustaendige Aufsichtsbehoerde ermitteln: Bund (BfDI) für öffentliche Stellen des Bundes, Telekommunikation und Postwesen; Länder für den nicht-öffentlichen Bereich, sortiert nach Sitzland des Verantwortlichen.
+3. **Risikoanalyse Listenabgleich.** Aktuelle Blacklist der zuständigen Behörde live abrufen (bfdi.bund.de bzw. Landesbehoerde). Treffer dokumentieren mit konkretem Listenpunkt und Datum des Abrufs.
 4. **Massnahmen.** Pruefen ob die Verarbeitung exakt unter einen Listenpunkt faellt oder nur partiell. Bei partieller Deckung: Begruendung warum trotzdem oder warum nicht DSFA-pflichtig.
 5. **Restrisiko.** Falls Blacklist-Treffer: DSFA zwingend. Falls Whitelist-Treffer: DSFA entbehrlich, Dokumentation der Whitelist-Position. Falls weder noch: Pruefung nach Art. 35 Abs. 1 und Abs. 3 DSGVO erforderlich.
 6. **Konsultation / Genehmigung.** Listenabgleich dem DSB vorlegen, gegenzeichnen lassen, in das Verarbeitungsverzeichnis nach Art. 30 verlinken.
@@ -705,9 +704,9 @@ Naechster Schritt: [Vollstaendige DSFA / Dokumentation / Weiterleitung an Skill]
 Unterschrift: ____________________
 ```
 
-## Praxishinweise zur Zustaendigkeit
+## Praxishinweise zur Zuständigkeit
 
-- Nicht-oeffentlicher Bereich: Landesdatenschutzbehoerde am Sitz des Verantwortlichen.
+- Nicht-öffentlicher Bereich: Landesdatenschutzbehoerde am Sitz des Verantwortlichen.
 - Oeffentlicher Bereich Bund (Bundesbehoerden, Telekommunikation, Post): BfDI.
 - Oeffentlicher Bereich Land: jeweilige Landesdatenschutzbehoerde.
 - Grenzueberschreitende Verarbeitung Art. 56 DSGVO: Federfuehrungsbehoerde am Sitz der Hauptniederlassung.
@@ -715,7 +714,7 @@ Unterschrift: ____________________
 
 ## Typische Fehler
 
-- Nur BfDI geprueft, Landesbehoerde uebersehen — im nicht-oeffentlichen Bereich ist regelmaessig die Landesbehoerde des Sitzlandes zustaendig.
+- Nur BfDI geprueft, Landesbehoerde uebersehen — im nicht-öffentlichen Bereich ist regelmaessig die Landesbehoerde des Sitzlandes zuständig.
 - Listenstand veraltet — Listen werden fortgeschrieben, immer aktuelles Datum dokumentieren.
 - Partielle Deckung als Volltreffer behandelt — Listenpunkte sind typenoffen, aber konkret zu pruefen.
 - Whitelist als Freibrief verstanden — Whitelist entlastet nur, wenn die Verarbeitung exakt zur Listenposition passt.
@@ -728,7 +727,7 @@ Unterschrift: ____________________
 
 - Kreditscoring-Plattform: regelmaessig auf mehreren Landeslisten (Scoring + automatisierte Entscheidung).
 - Patientenakte mit Cloud-Speicherung: meist auf BfDI- bzw. Landesliste (besondere Kategorien Art. 9 + neue Technologie).
-- Videoueberwachung Bahnhofsvorplatz: Art. 35 Abs. 3 lit. c DSGVO unmittelbar und zusaetzlich Listentreffer wegen oeffentlichem Bereich.
+- Videoueberwachung Bahnhofsvorplatz: Art. 35 Abs. 3 lit. c DSGVO unmittelbar und zusaetzlich Listentreffer wegen öffentlichem Bereich.
 - KI-Personalauswahl: regelmaessig Listentreffer wegen Profiling und neuen Technologien.
 
 ## Querverweise
@@ -770,11 +769,11 @@ Strukturierte Dokumentation einer DSFA als Beleg der Rechenschaftspflicht nach A
 ## Rechtlicher Rahmen
 
 - Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — der Verantwortliche muss die Einhaltung der Grundsaetze nachweisen koennen.
-- Art. 24 DSGVO: Verantwortung des fuer die Verarbeitung Verantwortlichen.
+- Art. 24 DSGVO: Verantwortung des für die Verarbeitung Verantwortlichen.
 - Art. 30 DSGVO: Verzeichnis von Verarbeitungstaetigkeiten — DSFA-Verweis.
 - Art. 35 Abs. 11 DSGVO: Re-Pruefungspflicht.
 - Art. 58 Abs. 1 lit. a DSGVO: Auskunftsbefugnis der Aufsicht.
-- § 257 HGB, § 147 AO fuer Aufbewahrungsfristen kaufmaennischer und steuerlicher Unterlagen — DSFA ist nicht kaufmaennisches Dokument, aber an die Verarbeitungstaetigkeit gekoppelt.
+- § 257 HGB, § 147 AO für Aufbewahrungsfristen kaufmaennischer und steuerlicher Unterlagen — DSFA ist nicht kaufmaennisches Dokument, aber an die Verarbeitungstaetigkeit gekoppelt.
 
 ## Ablauf 6-Schritte-Methodik
 
@@ -800,8 +799,8 @@ DSB: [NAME]
 05 Methodenwahl-Memo (Skill dsfa-methodik-cnil-pia-vs-bsfd-bsi)
 06 Vollstaendige DSFA (Skill dsfa-template-deutsch-vollvorlage)
 07 Risikomatrix (Skill dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden)
-08 TIA falls Drittlandtransfer (Skill dsfa-fuer-internationale-datentransfers)
-09 KI-FRIA falls Hochrisiko-KI (Skill dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo)
+08 TIA falls Drittlandtransfer (Skill dsfa-für-internationale-datentransfers)
+09 KI-FRIA falls Hochrisiko-KI (Skill dsfa-für-ki-systeme-schnittstelle-art-26-kivo)
 10 Stakeholder-Konsultation (Skill dsfa-stakeholder-konsultation-art-35-9)
 11 DSB-Stellungnahme
 12 Vorabkonsultation Art. 36 (falls erfolgt)
@@ -823,7 +822,7 @@ Zugriffskonzept
 ## Aufbewahrungsregeln
 
 - DSFA muss waehrend der gesamten Dauer der Verarbeitungstaetigkeit aufbewahrt werden.
-- Nach Ende der Verarbeitung mindestens fuer den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei oeffentlichen Stellen oft 10 Jahre.
+- Nach Ende der Verarbeitung mindestens für den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei öffentlichen Stellen oft 10 Jahre.
 - Alte Versionen nicht loeschen, sondern archivieren.
 - Bei Anbieterwechsel: Uebergabe der Akte einschliesslich aller Versionen.
 - Bei steuerlich relevanten Verarbeitungen ggf. § 147 AO 10 Jahre.
@@ -833,7 +832,7 @@ Zugriffskonzept
 - Datierung und Unterschrift jedes Dokuments
 - Versionierung und Aenderungshistorie
 - Klare Autorenschaft (Wer hat dokumentiert, wer hat beschlossen?)
-- DSB-Anhoerung dokumentiert mit Datum
+- DSB-Anhörung dokumentiert mit Datum
 - Quellenverzeichnis (Aufsichtshinweise, Leitlinien, Rechtsprechung)
 - Verweis auf Verarbeitungsverzeichnis und AVV
 

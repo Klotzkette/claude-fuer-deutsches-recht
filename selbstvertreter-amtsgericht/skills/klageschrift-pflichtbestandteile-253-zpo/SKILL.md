@@ -28,7 +28,7 @@ Eine Klage muss bestimmte Pflichtangaben enthalten, sonst ist sie unzulaessig. �
 - **§ 253 II Nr. 2 ZPO** — Bestimmter Antrag.
 - **§ 253 III ZPO** — Streitwert, Beweismittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Kopfdaten
 
@@ -86,7 +86,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt der
  Beklagte.
 
-3. Das Urteil wird fuer vorlaeufig vollstreckbar
+3. Das Urteil wird für vorlaeufig vollstreckbar
  erklaert.
 ```
 
@@ -167,7 +167,7 @@ Skill `klageschrift-anlagen-bezeichnen`.
 
 ### Schritt 9 — Abschriften
 
-Pro Beklagter eine Abschrift fuer die Zustellung; zusaetzlich Original fuer das Gericht und Kopie fuer Sie.
+Pro Beklagter eine Abschrift für die Zustellung; zusaetzlich Original für das Gericht und Kopie für Sie.
 
 Skill `einreichung-papierform-mit-abschriften`.
 
@@ -201,7 +201,6 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 253 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

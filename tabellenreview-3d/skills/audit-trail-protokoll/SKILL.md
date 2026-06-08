@@ -90,3 +90,27 @@ Wer mit KI Verträge prüft muss später erklären können wie das Ergebnis zust
 - Pflicht vor jeder Mandatsübergabe — der Prüfer signiert den letzten Audit-Stand.
 - Bei Beschwerden Aufsicht oder Haftungsfrage rückverfolgbar nachweisen welcher Reviewlauf welchen Output produziert hat.
 - Verhindert dass Prompts schleichend geändert werden und alte Zellen `nicht mehr nachvollziehbar` sind.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 2 JVEG
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+- § 16 HRG
+- § 70 VwG
+- § 123 VwG
+- § 29 VwVfG
+- § 1 KSchG
+- § 7 KSchG
+- § 102 BetrVG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

@@ -1,46 +1,82 @@
 ---
 name: klagefreigabe-belegte-forderung
-description: "Klagefreigabe nur für fällige, belegte und prozessreife Forderungen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Pruefraster ob eine Forderung klagefaehig ist. Verlangt Belegnachweis Faelligkeit Verzug Verjährung Zustellfaehigkeit und positive Aussicht. Pinpoints ZPO 253 ZPO 138 BGB 286 BGB 195 BGB 199 ZPO 167. Liefert binaere Klagefreigabe-Entscheidung mit Begruendung und Aktenvermerk."
 ---
 
-# Klagefreigabe nur für fällige, belegte und prozessreife Forderungen
+# Klagefreigabe belegte Forderung
 
-## Fachkern: Klagefreigabe nur für fällige, belegte und prozessreife Forderungen
-- **Spezialgegenstand:** Klagefreigabe nur für fällige, belegte und prozessreife Forderungen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. Dieser Skill liefert das Raster und das Freigabe-Vermerksmuster.
 
+## Pflicht-Raster
 
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `forderungsmanagement-klagewerkstatt`. Kontext des Plugins: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
+| Punkt | Pruefung | Pass-Kriterium |
+|---|---|---|
+| 1 Bestehen | Anspruchsgrundlage benennbar Vertrag oder Gesetz | Ja Norm benannt |
+| 2 Faelligkeit | Datum Faelligkeit ermittelt | Ja Datum |
+| 3 Verzug | Mahnung oder kalendarisches Datum | Ja Beleg |
+| 4 Verjährung | Lauf gepruefte Hemmung dokumentiert | nicht eingetreten |
+| 5 Beleg | Urkunde Rechnung Vertrag Lieferschein vorhanden | mindestens zwei voneinander unabhaengige Belege |
+| 6 Schuldner-Identitaet | richtige Partei zustellfaehige Anschrift | bestaetigt |
+| 7 Solvenz-Indiz | kein Insolvenzantrag bekannt | bestaetigt |
+| 8 Aussicht | rechtlich begruendet | hoch oder mittel |
+| 9 Mandantenfreigabe | Mandant kennt Kostenrisiko zugestimmt | ja schriftlich |
 
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
+## Pruefung Aktenvermerk
 
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+```
+Klagefreigabe Forderungssache [Schuldner] - Akte [...]
 
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+1. Anspruchsgrund
+[Norm und Sachverhalt]
 
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Klagefreigabe nur für fällige, belegte und prozessreife Forderungen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+2. Faelligkeit
+Faellig seit [Datum] aus Paragraph [...] BGB Vertrag.
 
-## Output-Standard
-- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
-- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
-- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
-- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
+3. Verzug
+Mahnung vom [Datum] mit Fristsetzung bis [Datum].
+Verzug seit [Datum] Paragraph 286 Absatz 1 BGB.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+4. Verjährung
+Anspruch entstanden [Jahr] Kenntnis seit [Jahr].
+Verjährung tritt [Jahr] ein.
+Restzeit [Monate].
+
+5. Belege
+Anlage K1 Rechnung
+Anlage K2 Lieferschein
+Anlage K3 Mahnschreiben
+
+6. Schuldner
+[Name Anschrift Rechtsform Handelsregister wenn vorhanden].
+
+7. Aussicht
+[hoch mittel mit Begruendung].
+
+8. Kostenprognose
+Streitwert [Euro] Gerichtsgebuehr ca [Euro]
+Anwaltsgebuehr ca [Euro].
+
+9. Mandantenfreigabe
+Mandant am [Datum] zugestimmt schriftlich.
+
+Klagefreigabe erteilt am [Datum].
+```
+
+## Stop-Bedingungen
+
+- Aussicht gering und Streitwert hoch
+- Verjährung bereits eingetreten ohne Hemmung
+- Schuldner nicht greifbar verzogen ins Ausland ohne Bezug
+- Belege nicht vorhanden nur Aussage von Mandant
+
+## Norm-Pinpoints
+
+- ZPO 138 253
+- ZPO 167
+- BGB 286 288
+- BGB 195 199 204
+
+## Quellen
+
+- [ZPO 253](https://www.gesetze-im-internet.de/zpo/__253.html)
+- [BGB 199](https://www.gesetze-im-internet.de/bgb/__199.html)

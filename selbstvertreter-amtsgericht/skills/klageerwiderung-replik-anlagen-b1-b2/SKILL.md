@@ -31,7 +31,7 @@ Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klage
 - **K-Anlagen**: Anlagen des Klaegers (K = Klaeger).
 - **B-Anlagen**: Anlagen des Beklagten (B = Beklagter).
 
-## Schritt-fuer-Schritt — als Beklagter
+## Schritt-für-Schritt — als Beklagter
 
 ### Schritt 1 — Klage durchlesen und K-Anlagen identifizieren
 
@@ -65,7 +65,7 @@ Anlage B2 — Foto der gelieferten Ware mit Mangel (2 Seiten)
 Anlage B3 — Gutachten Sachverstaendiger ABC vom 15.05.2025 (8 Seiten)
 ```
 
-## Schritt-fuer-Schritt — als Klaeger in der Replik
+## Schritt-für-Schritt — als Klaeger in der Replik
 
 ### Schritt 1 — Letzte K-Nummer der Klage merken
 
@@ -100,7 +100,7 @@ Anlage K10 — Zeugen-Aussage Zeuge Mueller schriftlich (2 Seiten)
 
 So sieht man auf einen Blick: K1-K8 schon bekannt, K9-K10 neu.
 
-## Schritt-fuer-Schritt — als Beklagter in der Duplik
+## Schritt-für-Schritt — als Beklagter in der Duplik
 
 ### Schritt 1 — Letzte B-Nummer merken
 
@@ -118,7 +118,7 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 - **Keine Kollision** — niemals zweimal "Anlage K3" oder "Anlage B2".
 - **Konsequenz**: Wenn Klaeger K9, dann nicht "Anlage K1 zur Replik" schreiben.
 - **Querverweis** auf gegnerische Anlagen: "Anlage B1 der Klageerwiderung" — so ist klar, welche gemeint ist.
-- **Anlagenverzeichnis aktualisieren** — fuer jede neue Anlage ein Eintrag.
+- **Anlagenverzeichnis aktualisieren** — für jede neue Anlage ein Eintrag.
 
 ## Typische Fehler
 
@@ -138,8 +138,7 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 fuer Klaeger und KE1, KE2 fuer Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
-
+Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Klaeger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
 
 ## Qualitäts-Hardening
 

@@ -154,7 +154,6 @@ Am Ende immer:
 - Verordnung (EU) 2024/1689, insbesondere Art. 3, 6, 9-17, 25, 43-49, 71-73 und Anhang IV/V.
 - Europäische Kommission/JRC: harmonisierte Standards geben erst nach Veröffentlichung im Amtsblatt eine Vermutungswirkung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

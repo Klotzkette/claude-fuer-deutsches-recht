@@ -1,6 +1,6 @@
 ---
 name: avv-eu-us-data-privacy-framework-bezug
-description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine fuer DPF und Fallback."
+description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und Fallback."
 ---
 
 # EU-US Data Privacy Framework (DPF) im AVV
@@ -13,7 +13,7 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 
 - US-Anbieter wird als Auftragsverarbeiter beauftragt oder eingebunden.
 - Pruefung, ob Anbieter unter dem EU-US Data Privacy Framework selbstzertifiziert ist.
-- Vertragsklausel fuer DPF-Nutzung und SCC-Fallback ist erforderlich.
+- Vertragsklausel für DPF-Nutzung und SCC-Fallback ist erforderlich.
 - Aufsichtsbehoerde fragt nach Drittlandtransfer-Absicherung.
 
 ## Rechtlicher Rahmen
@@ -21,9 +21,9 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 ueber die Angemessenheit des Schutzniveaus personenbezogener Daten nach dem EU-US Data Privacy Framework – verifiziert.
 - Art. 45 DSGVO – Angemessenheitsbeschluss.
 - Art. 46 DSGVO – Geeignete Garantien (SCC, BCR) als Fallback.
-- Art. 49 DSGVO – Ausnahmen fuer bestimmte Faelle.
+- Art. 49 DSGVO – Ausnahmen für bestimmte Faelle.
 - Executive Order 14086 vom 07.10.2022 – US-Schutzgarantien (signal intelligence safeguards, DPRC).
-- EuGH C-311/18 (Schrems II) – verifiziert: Vorgaengerregelung Privacy Shield fuer unwirksam erklaert.
+- EuGH C-311/18 (Schrems II) – verifiziert: Vorgaengerregelung Privacy Shield für unwirksam erklaert.
 
 ## Ablauf / Checkliste
 
@@ -31,11 +31,11 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
  - Liste pruefen ueber dataprivacyframework.gov.
  - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
  - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
- - Im Listing fuer den konkreten Datentypus zertifiziert?
+ - Im Listing für den konkreten Datentypus zertifiziert?
 
 2. **Vertragsabsicherung.**
  - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
- - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
+ - SCC nach Beschluss (EU) 2021/914 als Fallback für den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
  - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
 
 3. **Sub-AV-Kette pruefen.**
@@ -94,7 +94,6 @@ DPF-und-Fallback-Klausel:
 - DPF-Listing ueber dataprivacyframework.gov pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -102,3 +101,32 @@ DPF-und-Fallback-Klausel:
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 DSGVO (Grundsätze der Verarbeitung)
+- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
+- Art. 13, 14 DSGVO (Informationspflichten)
+- Art. 15 DSGVO (Auskunftsrecht)
+- Art. 28 DSGVO (Auftragsverarbeitung)
+- Art. 32 DSGVO (Sicherheit der Verarbeitung)
+- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
+- Art. 82 DSGVO (Schadensersatz)
+- Art. 83 DSGVO (Bußgelder)
+- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
+
+### Leitentscheidungen
+
+- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
+- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
+- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
+- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
+
+### Anwendung im Skill
+
+- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
+- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
+- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.

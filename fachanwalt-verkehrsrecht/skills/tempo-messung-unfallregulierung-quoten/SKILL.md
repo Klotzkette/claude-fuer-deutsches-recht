@@ -7,10 +7,10 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 
 ## Arbeitsbereich
 
-**Tempo Messung Unfallregulierung Quoten** ordnet den Fall über die tragenden Prüffelder: Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Tempo Messung Unfallregulierung Quoten** ordnet den Fall über die tragenden Prüfungslinien: Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-verkehrsrecht-tempo-messung-beweis` | Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen. |
 | `fachanwalt-verkehrsrecht-unfallregulierung-quoten` | Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich. |
@@ -18,12 +18,12 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verkehrsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verkehrsrecht-tempo-messung-beweis`
 
@@ -289,7 +289,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 - Hacks Becker Schmerzensgeld-Tabelle
 - Vergleichs-Fälle
 
-## 7) Verjaehrung
+## 7) Verjährung
 
 - 3 Jahre § 195 BGB
 - Ab Kenntnis von Schaden und Schaedger
@@ -446,7 +446,6 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufru
 Keine Modellwissen-Zitate. Vor Versand offene Quelle prüfen (juris.bundesgerichtshof.de, dejure.org, openjur.de).
 
 <!-- audit: 27.05.2026 — VI ZR 73/22 (NOT_FOUND auf dejure.org) geloescht; VI ZR 233/19 (NOT_FOUND auf dejure.org) geloescht; VI ZR 286/19 WRONG_TOPIC korrigiert: Thema Anhaenger-Gefaehrdungshaftung § 7 StVG, NJW-Zitat 2020 2116 (nicht 1876), Quelle dejure.org/2020,9266. -->
-
 
 ## Qualitäts-Hardening
 

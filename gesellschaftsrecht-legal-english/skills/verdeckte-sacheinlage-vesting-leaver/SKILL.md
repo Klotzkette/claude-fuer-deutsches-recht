@@ -1,34 +1,21 @@
 ---
 name: verdeckte-sacheinlage-vesting-leaver
-description: "Verdeckte Sacheinlage Vesting Leaver im Plugin Gesellschaftsrecht Legal English: prüft konkret Erkennt und prueft verdeckte Sacheinlage und, Erklaert Vesting, Cliff, Good Leaver. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen im Gesellschaftsrecht Legal English: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Verdeckte Sacheinlage Vesting Leaver
+# Verdeckte Sacheinlage und Hin-und-Her-Zahlung
 
 ## Arbeitsbereich
 
-**Verdeckte Sacheinlage Vesting Leaver** ordnet den Fall über die tragenden Prüffelder: Erkennt und prueft verdeckte Sacheinlage und, Erklaert Vesting, Cliff. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `verdeckte-sacheinlage` | Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen. |
-| `vesting-leaver-cliff` | Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rueckuebertragung im deutschen Gesellschaftsrecht. |
+Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English fuer Big-Law-Anfaenger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `verdeckte-sacheinlage`
-
-**Fokus:** Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen.
-
-# Verdeckte Sacheinlage und Hin-und-Her-Zahlung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verdeckte Sacheinlage und Hin-und-Her-Zahlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -38,10 +25,9 @@ description: "Verdeckte Sacheinlage Vesting Leaver im Plugin Gesellschaftsrecht 
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum es geht
 
-Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- und Finanzierungs-Alltag. M&A-Anwaelte denken in Vertragsrecht, doch § 19 Abs. 4 GmbHG ist zwingendes Kapitalaufbringungsrecht und bricht jede schuldrechtliche Konstruktion. Wer das uebersieht, erzeugt Differenzhaftung (§ 9 Abs. 1 GmbHG analog ueber § 19 Abs. 4 Satz 3 GmbHG) und im Insolvenzfall ein erhebliches Haftungsrisiko fuer die Geschaeftsfuehrung.
+Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- und Finanzierungs-Alltag. M&A-Anwaelte denken in Vertragsrecht, doch § 19 Abs. 4 GmbHG ist zwingendes Kapitalaufbringungsrecht und bricht jede schuldrechtliche Konstruktion. Wer das uebersieht, erzeugt Differenzhaftung (§ 9 Abs. 1 GmbHG analog ueber § 19 Abs. 4 Satz 3 GmbHG) und im Insolvenzfall ein erhebliches Haftungsrisiko für die Geschaeftsfuehrung.
 
 ## Kernregeln
 
@@ -82,75 +68,6 @@ Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- u
 - BGH, Urt. v. 20.07.2009 - II ZR 273/07 (Cash-Pool) zur Hin-und-Her-Zahlung.
 - Begruendung MoMiG, BT-Drucksache 16/6140, zu § 19 Abs. 4 und Abs. 5 GmbHG.
 - § 19 GmbHG, § 9 GmbHG, § 9c GmbHG, § 82 GmbHG.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `vesting-leaver-cliff`
-
-**Fokus:** Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rueckuebertragung im deutschen Gesellschaftsrecht.
-
-# Vesting, Leaver und Cliff
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vesting, Leaver und Cliff` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Ziel
-
-Vesting ist in deutschen Startups häufig keine echte Entstehung von Anteilen, sondern eine vertragliche Rückerwerbs- oder Sanktionsmechanik für Gründeranteile.
-
-## Prüffragen
-
-1. Echte Anteile oder virtuelle Beteiligung?
-2. Monatliches Vesting, Jahresvesting oder Meilensteine?
-3. Cliff: Wann beginnt die Unverfallbarkeit?
-4. Good Leaver, Bad Leaver, Grey Leaver definiert?
-5. Rückkaufpreis: Nominalwert, Fair Market Value, Discount?
-6. Umsetzung: Call Option, Abtretungspflicht, Einziehung, Vollmacht?
-
-## Risiko
-
-- Überharte Bad-Leaver-Regeln.
-- Unklare Kündigungsgründe.
-- Fehlende notarielle Struktur bei Geschäftsanteilen.
-- Steuer- und Arbeitsrechtsfragen ausgeblendet.
-- Satzung und SHA widersprechen sich.
-
-## Output
-
-- Leaver-Matrix.
-- Timeline.
-- Formulierungs- und Rückfragenliste.
-- Senior-Review-Gate.
-
-## Didaktischer Arbeitsmodus
-
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung fuer die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
-
-## Ausgabeformat
-
-1. Kurzantwort.
-2. Begriff entschluesselt.
-3. Deutsche Rechtsfunktion.
-4. Wirtschaftlicher Effekt.
-5. Typische Fallen.
-6. Naechster Drafting- oder Review-Schritt.
-
 
 ## Qualitäts-Hardening
 

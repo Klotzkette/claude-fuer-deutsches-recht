@@ -31,6 +31,22 @@ Diese Quellenkarte sichert im Bereich **Forschungszulage Antragstellung** tragen
 3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
 4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
 
+## Normenanker
+
+Arbeitsfokus: **Finanzamt Quellenkarte**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 5 FZulG` — Antrag auf Forschungszulage.
+- `§ 10 FZulG` — Festsetzung und Auszahlung der Zulage.
+- `§ 155 Abs. 1 AO` — Steuerbescheid/Festsetzung.
+- `§ 164 AO` — Vorbehalt der Nachprüfung.
+- `§ 347 Abs. 1 AO` — Einspruchsstatthaftigkeit.
+- `§ 355 Abs. 1 AO` — Einspruchsfrist.
+- `§ 361 Abs. 2 AO` — Aussetzung der Vollziehung.
+- `§ 69 Abs. 3 FGO` — gerichtliche Aussetzung der Vollziehung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Fehlerbremse
 
 - Keine BeckRS- oder juris-Blindzitate aus Modellwissen.

@@ -6,19 +6,15 @@ description: "Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktiv
 # Konfliktdeeskalation: Formulierungsbausteine
 
 ## Fachkern: Konfliktdeeskalation: Formulierungsbausteine
-- **Spezialgegenstand:** Konfliktdeeskalation: Formulierungsbausteine wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill stellt eine kuratierte Sammlung deeskalierender Formulierungsbausteine bereit. Ziel ist es, in angespannten Korrespondenzsituationen den Ton zu senken, ohne die eigene Position aufzugeben oder dem Adressaten nachzugeben. Deeskalation bedeutet nicht Kapitulation, sondern Steuerung des Kommunikationsklimas.
-
 
 ## Triage zu Beginn
 1. Auf welcher Konfliktebene befindet sich die Situation: sachlich, emotional oder eskaliert?
 2. Will die eigene Seite deeskalieren oder hat sie berechtigte Interessen, die klar formuliert werden muessen?
-3. Steht ein Gerichtsverfahren kurz bevor oder gibt es noch Raum fuer aussergerichtliche Einigung?
+3. Steht ein Gerichtsverfahren kurz bevor oder gibt es noch Raum für aussergerichtliche Einigung?
 4. Wer ist der Adressat der deeskalierenden Formulierung: Kollege, Mandant, Gegner oder Gericht?
 
 ## Aktuelle Rechtsprechung

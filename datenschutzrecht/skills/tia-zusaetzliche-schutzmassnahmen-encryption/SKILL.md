@@ -3,7 +3,7 @@ name: tia-zusaetzliche-schutzmassnahmen-encryption
 description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung."
 ---
 
-# Zusaetzliche Schutzmassnahmen fuer das TIA (Schritt 4 EDPB-Roadmap)
+# Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
 
 ## Zweck
 
@@ -32,7 +32,7 @@ Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl un
 |---|---|---|
 | 1 | Datenspeicherung mit Verschluesselung; Schluessel ausschliesslich beim Exporteur in der EU | Ja (effektiv) |
 | 2 | Uebermittlung pseudonymisierter Daten ohne Moeglichkeit der Re-Identifizierung durch Importeur | Ja (effektiv) |
-| 3 | Verschluesselter Transit fuer Empfaenger im Drittland mit gesetzlich geschuetztem Berufsgeheimnis | Bedingt |
+| 3 | Verschluesselter Transit für Empfaenger im Drittland mit gesetzlich geschuetztem Berufsgeheimnis | Bedingt |
 | 4 | Geteilte Verarbeitung (Split Processing) mehrerer unabhaengiger Importeure | Bedingt |
 | 5 | Importeur und Exporteur teilen Zugriff im EU-Gebiet; Drittlandimporteur erhaelt nur statistische Aggregate | Ja |
 | 6 | Daten zur Klartextverarbeitung an Importeur im Drittland mit Zugriffsbefugnissen ohne adaequaten Schutz | Nein – keine wirksamen Massnahmen |
@@ -51,17 +51,17 @@ Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl un
 
 ### Vertragliche Massnahmen
 
-- Berichtspflicht zu Behoerdenanfragen (Art und Anzahl, soweit zulaessig); **Warrant Canary**.
+- Berichtspflicht zu Behördenanfragen (Art und Anzahl, soweit zulaessig); **Warrant Canary**.
 - Anfechtungspflicht des Importeurs ("challenge any legally available avenue").
-- Erweiterte Audit-Rechte fuer Exporteur und Aufsichtsbehoerde.
+- Erweiterte Audit-Rechte für Exporteur und Aufsichtsbehoerde.
 - Sofortige Aussetzungspflicht bei Anweisung, die nicht abgewehrt werden kann.
 - Klausel zur Mitteilung bei Aenderung der Rechtslage.
 - Haftungs- und Schadensersatzregelungen verstaerken.
 
 ### Organisatorische Massnahmen
 
-- Mitarbeiterschulung mit Schwerpunkt Behoerdenanfragen-Reaktion.
-- Standardisierte interne Pruefprozesse fuer eingehende Government Requests.
+- Mitarbeiterschulung mit Schwerpunkt Behördenanfragen-Reaktion.
+- Standardisierte interne Pruefprozesse für eingehende Government Requests.
 - Veroeffentlichte Privacy Policy / Transparenzberichte des Importeurs.
 - Datenminimierung an der Quelle.
 - Klare Rollendefinition: wer entscheidet Aussetzung?
@@ -74,9 +74,9 @@ Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl un
 
 ## Mustertext / Template
 
-Vertragsbaustein – Behoerdenanfragen:
+Vertragsbaustein – Behördenanfragen:
 
-> Der Datenimporteur verpflichtet sich, jede Anfrage einer staatlichen Stelle oder einer Sicherheitsbehoerde, die auf Herausgabe der uebermittelten personenbezogenen Daten oder auf direkten Zugriff hierauf gerichtet ist, unverzueglich dem Datenexporteur mitzuteilen, soweit dies rechtlich zulaessig ist. Ist die Mitteilung gesetzlich untersagt, verpflichtet sich der Datenimporteur, sich auf rechtmaessigem Wege fuer eine Aufhebung oder Lockerung des Verbots einzusetzen und mindestens halbjaehrlich aggregierte Statistiken zu solchen Anfragen zu veroeffentlichen. Der Datenimporteur stellt sicher, dass jede Anfrage auf ihre Rechtmaessigkeit, Notwendigkeit und Verhaeltnismaessigkeit geprueft wird und dass alle rechtlichen Mittel zur Begrenzung der Datenherausgabe ausgeschoepft werden.
+> Der Datenimporteur verpflichtet sich, jede Anfrage einer staatlichen Stelle oder einer Sicherheitsbehoerde, die auf Herausgabe der uebermittelten personenbezogenen Daten oder auf direkten Zugriff hierauf gerichtet ist, unverzueglich dem Datenexporteur mitzuteilen, soweit dies rechtlich zulaessig ist. Ist die Mitteilung gesetzlich untersagt, verpflichtet sich der Datenimporteur, sich auf rechtmäßigem Wege für eine Aufhebung oder Lockerung des Verbots einzusetzen und mindestens halbjaehrlich aggregierte Statistiken zu solchen Anfragen zu veröffentlichen. Der Datenimporteur stellt sicher, dass jede Anfrage auf ihre Rechtmaessigkeit, Notwendigkeit und Verhaeltnismaessigkeit geprueft wird und dass alle rechtlichen Mittel zur Begrenzung der Datenherausgabe ausgeschoepft werden.
 
 Technischer Baustein:
 
@@ -94,10 +94,10 @@ Technischer Baustein:
 
 ## Querverweise
 
-- `tia-edpb-roadmap-6-schritte-deutsch` fuer Roadmap.
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer US-Use Case.
-- `avv-tom-art-32-dsgvo-anlage` fuer TOMs.
-- `tia-template-deutsch-vollvorlage` fuer Vollvorlage.
+- `tia-edpb-roadmap-6-schritte-deutsch` für Roadmap.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Use Case.
+- `avv-tom-art-32-dsgvo-anlage` für TOMs.
+- `tia-template-deutsch-vollvorlage` für Vollvorlage.
 
 ## Quellen Stand 06/2026
 
@@ -107,7 +107,6 @@ Technischer Baustein:
 - DSGVO, Art. 25, 32.
 - BSI Technische Richtlinie TR-02102 (kryptografische Verfahren), aktueller Stand auf bsi.bund.de pruefen.
 - ENISA Guidelines for SMEs on the security of personal data processing (Dezember 2016) und Folgepapiere.
-
 
 ## Qualitäts-Hardening
 

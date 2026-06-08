@@ -7,10 +7,10 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 
 ## Arbeitsbereich
 
-**Gewrechts Geschgehg KI Faevvollzug EV** ordnet den Fall über die tragenden Prüffelder: Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht, KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen, EV-Vollziehungscheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gewrechts Geschgehg KI Faevvollzug EV** ordnet den Fall über die tragenden Prüfungslinien: Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht, KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen, EV-Vollziehungscheck. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen. |
 | `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen für KI-Nutzung. Abgrenzung: nicht für allgemeine KI-Governance. |
@@ -18,12 +18,12 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`
 
@@ -39,7 +39,7 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 6. Welches Ziel verfolgt die Mandantschaft — einstweilige Verfügung, Schadensersatz, Strafanzeige oder Verteidigung gegen Vorwürfe?
 7. Ist die Information möglicherweise auch urheberrechtlich oder patentrechtlich geschützt (Softwarecode, technische Erfindung)?
 8. Handelt es sich um einen Sachverhalt mit Auslandsbezug (Wirtschaftsspionage, ausländischer Wettbewerber, grenzüberschreitende M&A)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -82,7 +82,6 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 ## Prüfschema Geheimhaltungsmaßnahmen (Drei-Ebenen-Modell)
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Ebene | Mindestanforderungen | Dokumentationspflicht |
 |-------|--------------------|-----------------------|
@@ -229,7 +228,6 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -335,7 +333,7 @@ Bevor die Schutzstrategie entwickelt wird, klaere:
 6. Ab wann soll die KI-Nutzung starten — Art. 50 KI-VO gilt ab 2.8.2026?
 7. Liegt bereits ein Abmahnschreiben vor, oder soll präventive Compliance aufgebaut werden?
 8. Werden KI-generierte Inhalte als urheberrechtlich geschützt vermarktet oder beansprucht?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -381,7 +379,6 @@ Bevor die Schutzstrategie entwickelt wird, klaere:
 ## Prüfschema Compliance Art. 50 KI-VO
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Maßnahme |
 |---------|-----------|------|---------|
@@ -447,7 +444,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — KI-VO Art. 50 Compliance fuer GenAI sicherstellen | Drei-Phasen-Workflow; Schriftsatzbausteine unten |
+| Standard — KI-VO Art. 50 Compliance für GenAI sicherstellen | Drei-Phasen-Workflow; Schriftsatzbausteine unten |
 | Variante A — Mandant ist nur Nutzer kein Anbieter | Reduzierte Pflichten; Art. 50 Abs. 4 GenAI-Kennzeichnung pruefen |
 | Variante B — Hochrisiko-KI zusaetzlich betroffen | Art. 9-16 KI-VO zusaetzlich pruefen; Konformitaetsbewertung noetig |
 | Variante C — DeepFake-Generierung des Mandanten | Besonderes Risiko Art. 50 Abs. 2 und 3; Kennzeichnungspflicht strikt |
@@ -481,7 +478,6 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ### Risikomatrix
 

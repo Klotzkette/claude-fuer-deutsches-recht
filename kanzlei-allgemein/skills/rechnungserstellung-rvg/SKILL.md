@@ -5,11 +5,10 @@ description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG 
 
 # Rechnungserstellung Honorar (RVG oder Vereinbarung)
 
-
 ## Triage zu Beginn
-1. Welche Gebuehrentatbestaende sind angefallen: Geschaeftsgebuehr (Nr. 2300 VV RVG), Verfahrensgebuehr (Nr. 3100 VV RVG), Terminsgebuehr (Nr. 3104 VV RVG)?
+1. Welche Gebührentatbestaende sind angefallen: Geschaeftsgebuehr (Nr. 2300 VV RVG), Verfahrensgebuehr (Nr. 3100 VV RVG), Terminsgebuehr (Nr. 3104 VV RVG)?
 2. Wie hoch ist der Gegenstandswert und nach welchem Gesetz bestimmt er sich (ZPO, GKG, FamGKG, RVG Anlage 2)?
-3. Gibt es eine schriftliche Honorarvereinbarung (§ 3a RVG) die die RVG-Gebuehren ersetzt?
+3. Gibt es eine schriftliche Honorarvereinbarung (§ 3a RVG) die die RVG-Gebühren ersetzt?
 4. Sind alle Auslagen (Porto, Kopien, Fahrtkosten, Nr. 7001, 7002 VV RVG) vollstaendig erfasst?
 
 ## Aktuelle Rechtsprechung
@@ -20,7 +19,7 @@ description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG 
 - § 10 RVG — Pflichtangaben auf der Honorarrechnung
 - § 3a RVG — Honorarvereinbarung: Schriftform, Mindestbetrag, Bedurftigkeit
 - Nr. 2300, 3100, 3104 VV RVG — Geschaefts-, Verfahrens- und Terminsgebuehr
-- Nr. 7001, 7002 VV RVG — Auslagenpauschale Kopien und Entgelte fuer Post-/Telefonkommunikation
+- Nr. 7001, 7002 VV RVG — Auslagenpauschale Kopien und Entgelte für Post-/Telefonkommunikation
 
 ## Quellenregel
 

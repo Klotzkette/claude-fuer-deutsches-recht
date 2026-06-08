@@ -6,14 +6,10 @@ description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Part
 # Sachverhalt neutral darstellen
 
 ## Fachkern: Sachverhalt neutral darstellen
-- **Spezialgegenstand:** Sachverhalt neutral darstellen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sachverhaltsschilderungen in sachliche, objektive Darstellungen. Ziel ist nicht die Verschleierung des Problems, sondern seine nüchterne und präzise Beschreibung — so wie es ein guter Schriftsatz erfordert.
-
 
 ## Triage zu Beginn
 1. Welcher Abschnitt des Textes enthaelt subjektive Wertungen, die in neutrale Darstellung umgewandelt werden muessen?

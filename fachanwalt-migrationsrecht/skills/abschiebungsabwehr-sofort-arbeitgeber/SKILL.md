@@ -7,25 +7,25 @@ description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft k
 
 ## Arbeitsbereich
 
-**Abschiebungsabwehr Sofort Arbeitgeber** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Abschiebungsabwehr Sofort Arbeitgeber** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills. |
-| `workflow-abschiebungsabwehr-sofort` | Abschiebungsabwehr sofort: Prüffeld für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-arbeitgeber-memo` | Arbeitgeber-Memo: Prüffeld für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-arbeitsrecht-schnittstelle` | Arbeitsrecht-Schnittstelle: Prüffeld für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-asyl-start` | Asyl-Start: Prüffeld für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-abschiebungsabwehr-sofort` | Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-arbeitgeber-memo` | Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-arbeitsrecht-schnittstelle` | Arbeitsrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-asyl-start` | Asyl-Start: Prüfungslinie für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Migrationsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
@@ -74,12 +74,12 @@ Gib zuerst aus: `Ziel`, `aktueller Status`, `Frist`, `größtes Risiko`, `fehlen
 
 ## 2. `workflow-abschiebungsabwehr-sofort`
 
-**Fokus:** Abschiebungsabwehr sofort: Prüffeld für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Abschiebungsabwehr sofort
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -121,12 +121,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-arbeitgeber-memo`
 
-**Fokus:** Arbeitgeber-Memo: Prüffeld für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Arbeitgeber-Memo
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -155,12 +155,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-arbeitsrecht-schnittstelle`
 
-**Fokus:** Arbeitsrecht-Schnittstelle: Prüffeld für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Arbeitsrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Arbeitsrecht-Schnittstelle
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -189,12 +189,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-asyl-start`
 
-**Fokus:** Asyl-Start: Prüffeld für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Asyl-Start: Prüfungslinie für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Asyl-Start
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -229,3 +229,26 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 3 EMRK
+- § 80 VwG
+- § 36 AsylG
+- § 71 AsylG
+- § 74 AsylG
+- Art. 6 GG
+- Art. 8 EMRK
+- § 81 AufenthG
+- § 60a AufenthG
+- § 123 VwG
+- § 5 AufenthG
+- § 10 StAG
+
+### Leitentscheidungen
+
+- EuGH C-490/16
+- EuGH C-247/20
+

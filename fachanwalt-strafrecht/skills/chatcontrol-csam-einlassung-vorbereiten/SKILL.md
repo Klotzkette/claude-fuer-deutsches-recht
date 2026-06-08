@@ -7,10 +7,10 @@ description: "Chatcontrol Csam Einlassung Vorbereiten im Strafrecht: prüft konk
 
 ## Arbeitsbereich
 
-**Chatcontrol Csam Einlassung Vorbereiten** ordnet den Fall über die tragenden Prüffelder: Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO, Schriftliche Einlassung des Beschuldigten vorbereiten oder, Hauptverhandlung im Strafverfahren vorbereiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Chatcontrol Csam Einlassung Vorbereiten** ordnet den Fall über die tragenden Prüfungslinien: Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO, Schriftliche Einlassung des Beschuldigten vorbereiten oder, Hauptverhandlung im Strafverfahren vorbereiten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo` | Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten. § 53 StPO Zeugnisverweigerungsrecht, § 97 StPO Beschlagnahmeverbot, BRAO Anwaltsgeheimnis, EU-Chat-Control-VO-Entwurf. Prüfraster Anwaltsgeheimnis-Schutz, Beschlagnahmeschutz, EU-Regulierungsrisiken, Mandatskommunikation-Sicherheit. Output Rechtsgutachten zu Chat-Control-Risiken für Anwaltsgeheimnis. Abgrenzung zu KI-Governance-Berufsrecht und zu Akteneinsicht. |
 | `fachanwalt-strafrecht-einlassung-vorbereiten` | Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO. Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teilschweigen kann gewürdigt werden. Strategie nach Aktenlage Beweiswert Belastungszeugen Bewertung Indizien. Schriftliche oder muendliche Einlassung Schutz vor Falschangaben Glaubwürdigkeitsanalyse. Einlassung wirkt nach BGH zugunsten Beweisbewertung. |
@@ -20,12 +20,12 @@ description: "Chatcontrol Csam Einlassung Vorbereiten im Strafrecht: prüft konk
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo`
 
@@ -148,7 +148,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - CSA-VO-Vorschlag COM(2022)209 — Stand des EU-Gesetzgebungsverfahrens unter: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022PC0209
-- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy fuer freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu pruefen.
+- Interimsverordnung (EU) 2021/1232 (befristete Ausnahme von ePrivacy für freiwilliges CSAM-Scanning): vor Verwendung Geltungsdauer unter https://eur-lex.europa.eu pruefen.
 - §§ 43a BRAO, 53, 53a, 97, 100a, 160a StPO sowie § 203 StGB als Maßstabskette.
 - Weitere Rechtsprechung vor Ausgabe in dejure.org / bverfg.de / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -165,7 +165,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 3. Bestehen Widersprüche zwischen Aktenlage und Mandantenversion? Welche Lücken sind aufklärungsbedürftig?
 4. Gibt es entlastende Beweismittel — Zeugen, Alibis, Standortdaten, Quittungen — die noch nicht bei der Behörde liegen?
 5. Soll die Einlassung schriftlich (klassischer Verteidigerweg) oder mündlich in der Vernehmung erfolgen? Bei welcher Stelle Polizei, StA, Ermittlungsrichter, Hauptverhandlung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Grundlagen
 
@@ -204,7 +204,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Kronzeuge / Verstaendigungsweg | § 46b StGB; Strafmilderung durch Aufklaerungshilfe |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schreibvorlage schriftliche Einlassung
 
@@ -391,7 +390,7 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 8. Haben Sie anwaltliche Vertretung im Insolvenzverfahren getrennt von der strafrechtlichen Vertretung?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -671,7 +670,7 @@ Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverf
 8. Wünscht die Mandantschaft Anonymität oder befürchtet sie Repressalien durch Anschluss als Nebenklägerin?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -730,11 +729,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Nebenklage Opfervertretung | Nebenklage-Anschlussschrift; Template unten |
 | Variante A — Opfer will nur Schmerzensgeld | Adhaesionsantrag statt Nebenklage |
-| Variante B — Taeterseitiges Gestaendnis vorhanden | Nebenklage trotzdem sinnvoll fuer Strafhoehe und Entschaedigung |
-| Variante C — Verjaehrungsrisiko | Nebenklagebefugnis fristen-unabhaengig; Verjaahrung des Hauptvorwurfs beachten |
+| Variante B — Taeterseitiges Gestaendnis vorhanden | Nebenklage trotzdem sinnvoll für Strafhoehe und Entschaedigung |
+| Variante C — Verjährungsrisiko | Nebenklagebefugnis fristen-unabhaengig; Verjaahrung des Hauptvorwurfs beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 

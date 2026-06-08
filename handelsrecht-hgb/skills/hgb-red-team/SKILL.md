@@ -35,7 +35,6 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 - Risikoampel
 - Anschluss-Skills
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

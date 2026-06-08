@@ -5,6 +5,22 @@ description: "Prüft gescannte Anlagen auf Lesbarkeit, OCR-Durchsuchbarkeit, Sei
 
 # OCR, Scanqualität und Lesbarkeit
 
+## Normenanker
+
+Arbeitsfokus: **OCR, Scanqualität und Lesbarkeit**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 138 Abs. 1 ZPO` — vollständiger und wahrer Tatsachenvortrag.
+- `§ 138 Abs. 2 ZPO` — Erklärungslast.
+- `§ 253 Abs. 2 Nr. 2 ZPO` — bestimmter Klagegrund.
+- `§ 284 ZPO` — Beweisaufnahme.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+- `§ 416 ZPO` — Beweiskraft privater Urkunden.
+- `§ 420 ZPO` — Vorlegung durch Beweisführer.
+- `§ 142 Abs. 1 ZPO` — Urkundenvorlegung durch Partei/Dritte.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill schaut wie eine strenge Geschäftsstelle auf das Paket: Kann man es lesen? Kann man es durchsuchen? Fehlt Seite 2? Ist die Unterschrift abgeschnitten? Sind Fotos zu dunkel?
@@ -45,7 +61,6 @@ Dieser Skill schaut wie eine strenge Geschäftsstelle auf das Paket: Kann man es
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
 
 ## Vertiefter Anlagen-Workflow
 

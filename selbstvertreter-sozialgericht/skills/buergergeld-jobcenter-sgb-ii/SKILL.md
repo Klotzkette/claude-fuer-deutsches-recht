@@ -31,7 +31,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 - **Regelbedarf**: Pauschal-Betrag (2024: 563 EUR Alleinstehende, jaehrlich angepasst).
 - **KdU**: Kosten der Unterkunft (Miete und Heizung).
 - **Bedarfsgemeinschaft**: Personen, die zusammen leben und Buergergeld bekommen.
-- **Karenzzeit**: 12 Monate nach Antragstellung mit erweitertem Schonvermoegen (40.000 EUR fuer erste Person, 15.000 EUR fuer weitere).
+- **Karenzzeit**: 12 Monate nach Antragstellung mit erweitertem Schonvermoegen (40.000 EUR für erste Person, 15.000 EUR für weitere).
 - **Sanktion**: Kuerzung wegen Pflichtverletzung — seit Reform abgemildert.
 - **Mitwirkungspflicht** (§ 60 SGB I): Sie muessen mitmachen (Termine, Unterlagen).
 
@@ -45,7 +45,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 - **§ 41a SGB II** — Vorlaeufige Bewilligung.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid lesen
 
@@ -115,13 +115,13 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
 
 - Maximalbetrag 30 % des Regelbedarfs (§ 43 SGB II)
 - Tilgungsplan
-- Verjaehrung (4 Jahre § 50 SGB X)
+- Verjährung (4 Jahre § 50 SGB X)
 
 ## Worauf Sie besonders achten muessen
 
 - **Karenzzeit-Schonvermoegen**: In den ersten 12 Monaten erweitert.
 - **Sanktionen seit BVerfG-Urteil begrenzt**: max. 30 % bei Erstverstoss.
-- **Wichtiger Grund**: Krankheit, Familienpflichten, kein Auto fuer weite Termine.
+- **Wichtiger Grund**: Krankheit, Familienpflichten, kein Auto für weite Termine.
 - **Mitwirkung**: Termine wahrnehmen, Unterlagen einreichen.
 
 ## Typische Fehler

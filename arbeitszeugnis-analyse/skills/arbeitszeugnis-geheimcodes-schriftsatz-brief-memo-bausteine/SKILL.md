@@ -5,6 +5,23 @@ description: "Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine im Arbeitszeu
 
 # Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
+- `§ 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
+- `§ 626 Abs. 1 BGB` — fristlose Kuendigung.
+- `§ 1 Abs. 2 KSchG` — soziale Rechtfertigung.
+- `§ 4 Satz 1 KSchG` — Klagefrist.
+- `§ 7 KSchG` — Fiktionswirkung.
+- `§ 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
+- `§ 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
+- `§ 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachlicher Anker
 
 - **Normen:** §§ 611a, §§ 1, §§ 14.
@@ -12,11 +29,7 @@ description: "Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine im Arbeitszeu
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Spezialwissen: Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine / geheimcodes schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -1,6 +1,6 @@
 ---
 name: beschluss-bauen-zpo
-description: "Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begründung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgründe-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit."
+description: "Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begründung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgründe-zivil-schreiben; Vollstreckbarkeit siehe vorläufige-vollstreckbarkeit."
 ---
 
 # Beschluss bauen — Zivilprozess
@@ -61,14 +61,14 @@ Bei Einzelrichter eine Unterschrift, bei Kammer drei. Bei Beschluss nach Paragra
 ### PKH-Beschluss
 
 ```
-Dem Klaeger wird fuer den ersten Rechtszug Prozesskostenhilfe ohne
+Dem Klaeger wird für den ersten Rechtszug Prozesskostenhilfe ohne
 Ratenzahlung bewilligt. Rechtsanwalt [Name] wird beigeordnet.
 ```
 
 oder bei Teilbewilligung:
 
 ```
-Dem Klaeger wird fuer den ersten Rechtszug Prozesskostenhilfe insoweit
+Dem Klaeger wird für den ersten Rechtszug Prozesskostenhilfe insoweit
 bewilligt, als er Anspruch auf Zahlung von 5.000,- EUR nebst Zinsen
 geltend macht. Im uebrigen wird der Antrag zurueckgewiesen, da
 hinreichende Erfolgsaussicht (Paragraf 114 ZPO) fehlt.
@@ -84,8 +84,8 @@ Bei mehreren Streitgegenständen:
 
 ```
 Der Streitwert wird festgesetzt
-- fuer den Hauptantrag (Zahlung) auf 10.000,- EUR,
-- fuer den Hilfsantrag (Feststellung) auf 2.500,- EUR.
+- für den Hauptantrag (Zahlung) auf 10.000,- EUR,
+- für den Hilfsantrag (Feststellung) auf 2.500,- EUR.
 ```
 
 ### Beweisbeschluss
@@ -145,7 +145,7 @@ Die Kosten des Rechtsstreits traegt der Beklagte (Paragraf 91a I 1 ZPO).
 
 ```
 Der Antrag hat Erfolg. Die Klage hat hinreichende Erfolgsaussicht
-(Paragraf 114 ZPO), da der Klaeger fuer den von ihm geltend gemachten
+(Paragraf 114 ZPO), da der Klaeger für den von ihm geltend gemachten
 Anspruch aus Paragraf 280 I, III, 281 BGB schluessig dargelegt
 hat, dass [...]. Der Klaeger ist beduerftig im Sinne des Paragraf 115 ZPO;
 seine Einkommensverhaeltnisse sind durch die eingereichte
@@ -211,4 +211,4 @@ gegeben.
 
 - `relation-zivil` — bei nachfolgender Hauptsachenentscheidung
 - `tenor-bauen-zivil` — Tenor-Werkstatt
-- `vorlaeufige-vollstreckbarkeit` — bei verbundenem Urteil
+- `vorläufige-vollstreckbarkeit` — bei verbundenem Urteil

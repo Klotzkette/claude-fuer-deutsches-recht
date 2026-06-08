@@ -178,6 +178,22 @@ Kaltstartfragen:
 - Personalkosten ohne AG-Anteil gerechnet (das geht systematisch schief um 20 bis 25 Prozent).
 - Programmpauschale für die Universität vergessen zu erwähnen.
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Finanzplan und Module**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit, Sparsamkeit und plausibler Mitteleinsatz.
+- `§ 23 BHO` — Zuwendungszweck und erhebliches Bundesinteresse als Förderlogik.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung von Zuwendungen.
+- `§ 55 Abs. 1 BHO` — Vergabebezug bei Beschaffung aus Fördermitteln.
+- `§ 58 BHO` — Änderung von Verträgen und haushaltsrechtliche Bindungen.
+- `Art. 91b Abs. 1 GG` — Bund-Länder-Kooperation in der Forschungsförderung.
+- `DFG-Vordruck Sachbeihilfe Finanzierungsplan` — Personal, Geräte, Verbrauchsmittel und Reisen getrennt begründen.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung auch bei Mittelverwendung und Dokumentation.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - **Budgettabelle** mit AP-Funktion pro Position.

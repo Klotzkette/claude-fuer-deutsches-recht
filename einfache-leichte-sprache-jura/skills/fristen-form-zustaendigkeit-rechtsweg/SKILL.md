@@ -5,12 +5,26 @@ description: "Einfache: Fristen, Form, Zuständigkeit und Rechtsweg im Einfache 
 
 # Einfache: Fristen, Form, Zuständigkeit und Rechtsweg
 
-## Spezialwissen: Einfache: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Einfache: Fristen, Form, Zuständigkeit und Rechtsweg / einfache fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
+- `§ 536 Abs. 1 BGB` — Minderung.
+- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
+- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
+- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
+- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
+- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
+- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
+- `§ 259 BGB` — Rechnungslegung.
+- `§ 2 BetrKV` — Betriebskostenarten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
+## Spezialwissen: Einfache: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

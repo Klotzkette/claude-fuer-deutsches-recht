@@ -13,7 +13,7 @@ description: "Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklär
 
 ## Worum geht es?
 
-Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behoerde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
+Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie duerfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behörde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
 
 ## In einfacher Sprache
 
@@ -29,7 +29,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 
 - **Anwaltszwang**: Pflicht, sich von einem Anwalt vertreten zu lassen. Gibt es in vielen Gerichts-Arten, aber nicht beim SG/LSG.
 - **Postulationsfaehigkeit**: Wer vor Gericht auftreten darf. Beim SG sind Sie selbst postulationsfaehig.
-- **Bevollmaechtigter**: Eine Person, die fuer Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
+- **Bevollmaechtigter**: Eine Person, die für Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
 
 ## Rechtsgrundlagen
 
@@ -37,7 +37,7 @@ Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. 
 - **§ 73 Abs. 2 SGG** — Sie duerfen einen Bevollmaechtigten waehlen. Erlaubt sind: Anwalt, Rechtsbeistand, Mitglieder von Gewerkschaft / Sozialverband, andere Personen mit Befaehigung zum Richteramt.
 - **§ 73 Abs. 4 SGG** — Vor dem BSG ist ein Anwalt oder Hochschullehrer zwingend.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, in welcher Instanz Sie sind
 
@@ -60,7 +60,7 @@ Anwalt nehmen, wenn:
 
 - der Fall medizinisch komplex ist
 - mehrere Bescheide zusammenhaengen
-- die Behoerde ein juristisch schwieriges Argument bringt
+- die Behörde ein juristisch schwieriges Argument bringt
 - der Streitwert hoch ist
 - es um Existenz geht (laufende Leistung gestoppt)
 
@@ -68,7 +68,7 @@ Selbst vertreten ist gut, wenn:
 
 - der Fall einfach ist (Rechenfehler, klarer Sachverhalt)
 - Sie Zeit haben, sich einzulesen
-- Sie schon Erfahrung mit Behoerden haben
+- Sie schon Erfahrung mit Behörden haben
 
 ### Schritt 4 — Bei Berufung zum LSG nachdenken
 
@@ -106,7 +106,6 @@ Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage ei
 
 Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen Anwaelte auf www.bsg.bund.de.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -114,3 +113,32 @@ Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen A
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
+- §§ 51-55 SGG (Klagearten)
+- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
+- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
+- § 105 SGG (Gerichtsbescheid)
+- § 109 SGG (Sachverständiger nach Wahl)
+- § 131 SGG (Urteilsformen)
+- §§ 183-197a SGG (Kosten)
+- §§ 12, 14 SGB I (Auskunft, Beratung)
+- § 44 SGB X (Zugunstenverfahren)
+
+### Leitentscheidungen
+
+- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
+- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
+- BVerfG 1 BvL 1/09 (Regelbedarf)
+- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
+- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+
+### Anwendung im Skill
+
+- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
+- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
+- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

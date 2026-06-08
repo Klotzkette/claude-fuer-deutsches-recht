@@ -7,10 +7,10 @@ description: "Stvo Unfallregulierung Beweislast im Plugin Fachanwalt Verkehrsrec
 
 ## Arbeitsbereich
 
-**Stvo Unfallregulierung Beweislast** ordnet den Fall über die tragenden Prüffelder: Stvo, Unfallregulierung, Verkehrsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Stvo Unfallregulierung Beweislast** ordnet den Fall über die tragenden Prüfungslinien: Stvo, Unfallregulierung, Verkehrsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-stvo-dokumentenmatrix-und-lueckenliste` | Stvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-unfallregulierung-beweislast-und-darlegungslast` | Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -18,12 +18,12 @@ description: "Stvo Unfallregulierung Beweislast im Plugin Fachanwalt Verkehrsrec
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verkehrsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-stvo-dokumentenmatrix-und-lueckenliste`
 
@@ -32,11 +32,7 @@ description: "Stvo Unfallregulierung Beweislast im Plugin Fachanwalt Verkehrsrec
 # Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung / stvo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -109,11 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung / unfallregulierung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -150,11 +142,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / verkehrsrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -203,6 +191,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Verkehrsstrafrecht:**
  - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor Feststellung + Vorsatz; Verzeihung BVerfG durch hoehere Strafe nicht moeglich.
  - **§ 316 StGB Trunkenheit:** absolute Fahruntuechtigkeit ab 1,1 Promille BAK (PKW); relative ab 0,3 mit Ausfallerscheinungen.
- - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Wertes.
+ - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr für Leib / Leben / fremde Sachen erheblichen Wertes.
  - **§ 315d StGB Verbotene Kraftfahrzeugrennen:** seit 2017 Vergehen mit Freiheitsstrafe bis 2 Jahre, qualifiziert bis 10 Jahre.
 - **Beweiserhebung Verkehrsstrafrecht:** Blutalkoholgutachten (Blutprobe § 81a StPO Voraussetzungen, Richtervorbehalt grundsaetzlich); Drogengutachten (Anlage zu § 24a StVG Wirkstoffliste); Ringversuch Massbericht.

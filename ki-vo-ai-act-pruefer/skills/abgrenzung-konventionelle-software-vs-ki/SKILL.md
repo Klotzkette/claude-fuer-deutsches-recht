@@ -119,7 +119,6 @@ System / Komponente: [NAME]
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -127,3 +126,32 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die 
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 KI-VO (verbotene Praktiken)
+- Art. 6, 7 KI-VO (Hochrisiko-KI-Systeme)
+- Art. 9, 10, 11 KI-VO (Risikomanagement, Daten, Technische Dokumentation)
+- Art. 13, 14 KI-VO (Transparenz, menschliche Aufsicht)
+- Art. 16 KI-VO (Pflichten Anbieter)
+- Art. 26, 27 KI-VO (Pflichten Betreiber)
+- Art. 50 KI-VO (Transparenz GPAI/Deepfakes)
+- Art. 53-55 KI-VO (Pflichten GPAI-Anbieter)
+- Art. 99-101 KI-VO (Sanktionen)
+- VO 2024/1689 (KI-VO, Inkrafttreten)
+
+### Leitentscheidungen
+
+- EuGH C-634/21 (automatisierte Entscheidung Art. 22 DSGVO)
+- EuGH C-203/22 (Profiling, Auskunftsrechte)
+- BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
+- OLG Köln 6 U 32/24 (Deepfake-Werbung)
+- OLG Stuttgart 2 U 63/22 (Mängel KI-System B2B)
+
+### Anwendung im Skill
+
+- KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
+- Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
+- GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.

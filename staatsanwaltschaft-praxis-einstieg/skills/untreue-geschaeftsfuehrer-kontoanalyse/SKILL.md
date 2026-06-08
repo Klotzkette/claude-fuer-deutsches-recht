@@ -6,15 +6,12 @@ description: "Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit
 # Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit
 
 ## Fachkern: Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit
-- **Spezialgegenstand:** Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Vermögensbetreuungspflicht, Nachteil, Business-Judgment-Nähe und Belegauswertung
 
@@ -40,6 +37,14 @@ Dieser Abschnitt bearbeitet **Fachkern: Untreue des Geschäftsführers: Kontoana
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 266 StGB (Untreue)
+- BVerfGE 126, 170 (Bestimmtheit)
+- BGHSt 50, 331 (gravierender Verstoß)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

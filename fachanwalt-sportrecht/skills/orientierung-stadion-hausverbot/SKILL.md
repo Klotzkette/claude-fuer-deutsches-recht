@@ -1,29 +1,29 @@
 ---
 name: orientierung-stadion-hausverbot
-description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüffeld für fachanwalt sportrecht vereinsstrafrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Orientierung Stadion Hausverbot
 
 ## Arbeitsbereich
 
-**Orientierung Stadion Hausverbot** ordnet den Fall über die tragenden Prüffelder: Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüffeld für fachanwalt sportrecht vereinsstrafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Orientierung Stadion Hausverbot** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-sportrecht-orientierung` | Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Prüfraster Normen-Überblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
 | `fachanwalt-sportrecht-stadion-hausverbot` | Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion). |
-| `fachanwalt-sportrecht-vereinsstrafrecht` | Prüffeld für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sportrecht-vereinsstrafrecht` | Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Sportrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: WADC Art. 17 Verfolgungsverjährung 10 Jahre, CAS-Anrufung 21 Tage, DFB-RVO 7-Tage-Berufung, FAO § 5 36 Monate Praxiszeit.
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-sportrecht-orientierung`
 
@@ -196,7 +196,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## 3. `fachanwalt-sportrecht-vereinsstrafrecht`
 
-**Fokus:** Prüffeld für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Vereinsstrafrecht
 
@@ -212,7 +212,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 8. Hat der Mandant ein Sponsoring- oder Lizenzvertrag, der eine Suspendierungs- oder Kündigungsklausel enthält?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -275,7 +275,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Satzungswidriges Strafverfahren | Formelle Ruege; Nichtigkeitsklage vor ordentlichem Gericht |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 

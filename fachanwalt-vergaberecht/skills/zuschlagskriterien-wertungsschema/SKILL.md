@@ -7,10 +7,10 @@ description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberech
 
 ## Arbeitsbereich
 
-**Zuschlagskriterien Wertungsschema** ordnet den Fall über die tragenden Prüffelder: Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zuschlagskriterien Wertungsschema** ordnet den Fall über die tragenden Prüfungslinien: Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` | Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
 | `foerdermittelvergabe-rueckforderung` | Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern. |
@@ -19,12 +19,12 @@ description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberech
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema`
 
@@ -33,7 +33,7 @@ description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberech
 # Zuschlagskriterien und Wertungsschema
 
 ## Aufgabe
-Erstelle oder pruefe ein vergaberechtsfestes Wertungsschema oder bereite eine Wertungsruege vor. Output je nach Rolle: Wertungsmatrix mit Begruendungstext fuer Auftraggeber, Pruefvermerk und Ruegeschriftsatz-Modul fuer Bieter.
+Erstelle oder pruefe ein vergaberechtsfestes Wertungsschema oder bereite eine Wertungsruege vor. Output je nach Rolle: Wertungsmatrix mit Begruendungstext für Auftraggeber, Pruefvermerk und Ruegeschriftsatz-Modul für Bieter.
 
 ## Einstieg
 1. Auftraggeber oder Bieter?
@@ -90,7 +90,6 @@ Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmassstab | Maximal
 ## Quellenregel
 Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle ausgeben (dejure.org, openjur.de). EuGH-Entscheidungen ueber curia.europa.eu verifizieren.
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -109,7 +108,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle a
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Vergabefehler bei gefoerderten Projekten vermeiden oder sanieren. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Vergabefehler bei gefoerderten Projekten vermeiden oder sanieren. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -130,7 +129,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -148,12 +147,11 @@ Foerdermittel-Risikomatrix, Heilungsplan, Aktenvermerk, Zuwendungsgeberbrief.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -173,7 +171,7 @@ Foerdermittel-Risikomatrix, Heilungsplan, Aktenvermerk, Zuwendungsgeberbrief.
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll digitale Beschaffungen mit Regulierungs- und Technikrisiken praxistauglich vergeben. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll digitale Beschaffungen mit Regulierungs- und Technikrisiken praxistauglich vergeben. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -194,7 +192,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -212,12 +210,11 @@ Anforderungskatalog, Bewertungsmatrix, Risikoampel, Vertrags-/Vergabehinweise.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -237,7 +234,7 @@ Anforderungskatalog, Bewertungsmatrix, Risikoampel, Vertrags-/Vergabehinweise.
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll technische und funktionale Anforderungen vergabefest formulieren oder ruegen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll technische und funktionale Anforderungen vergabefest formulieren oder ruegen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -258,7 +255,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -276,12 +273,11 @@ Anforderungstabelle, Neutralitaetscheck, Rugepunkte, Ueberarbeitungsvorschlag.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 

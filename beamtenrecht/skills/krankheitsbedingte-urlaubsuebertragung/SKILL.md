@@ -1,41 +1,25 @@
 ---
 name: krankheitsbedingte-urlaubsuebertragung
-description: "Krankheitsbedingte Urlaubsuebertragung im Beamtenrecht: prüft konkret Skill zur Uebertragung und Abgeltung des Erholungsurlaubs, Krankheitskosten im Beamtenrecht, Routenplan für Landesbeamtenrecht aller 16 Länder, Laufbahnrecht Bund. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Krankheitsbedingte Urlaubsuebertragung
 
 ## Arbeitsbereich
 
-**Krankheitsbedingte Urlaubsuebertragung** ordnet den Fall über die tragenden Prüffelder: Skill zur Uebertragung und Abgeltung des Erholungsurlaubs, Krankheitskosten im Beamtenrecht, Routenplan für Landesbeamtenrecht aller 16 Länder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `krankheitsbedingte-urlaubsuebertragung` | Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster. |
-| `krankheitskosten-beihilfe-pkv-widerspruch` | Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch. |
-| `landesrecht-16-laender-routenplan` | Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren. |
-| `laufbahnrecht-bund` | Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation. |
+Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `krankheitsbedingte-urlaubsuebertragung`
-
-**Fokus:** Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster.
-
-
-# Krankheitsbedingte Urlaubsuebertragung
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte mit langjaehriger Erkrankung und entstehenden Resturlaubsanspruechen. Klaert, wie viel Urlaub noch besteht und wann er endgueltig verfaellt.
+Skill für Beamte mit langjaehriger Erkrankung und entstehenden Resturlaubsanspruechen. Klaert, wie viel Urlaub noch besteht und wann er endgueltig verfaellt.
 
 ## 2. Eingaben
 
@@ -77,141 +61,11 @@ Skill fuer Beamte mit langjaehriger Erkrankung und entstehenden Resturlaubsanspr
 ## 6. Verifizierte Quellenanker
 
 - Richtlinie 2003/88/EG Art. 7; EuGH C-350/06 (Schultz-Hoff), C-214/10 (KHS), C-684/16 (Max-Planck), C-518/20 (Fraport / Stadt Wuppertal).
-- 15-Monats-Frist als zulaessige Uebertragungsobergrenze fuer den unionsrechtlichen Mindesturlaub.
+- 15-Monats-Frist als zulaessige Uebertragungsobergrenze für den unionsrechtlichen Mindesturlaub.
 - § 89 BBG; § 208 SGB IX; Erholungsurlaubsverordnung und landesrechtliche Aequivalente.
-- Abgeltungspflicht bei Beendigung des Beamtenverhaeltnisses fuer den unionsrechtlich nicht verfallenen Mindesturlaub.
+- Abgeltungspflicht bei Beendigung des Beamtenverhaeltnisses für den unionsrechtlich nicht verfallenen Mindesturlaub.
 - BVerwG zur Uebertragung der Schultz-Hoff-Linie ins Beamtenverhaeltnis — Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin 28 Monate Krankheit, in 2022 zehn Tage Urlaub genommen. Skill liefert Berechnung des unionsrechtlichen Mindesturlaubs fuer 2022, 2023 und 2024 unter Beruecksichtigung des Verfalls 15 Monate nach Urlaubsjahr.
-
-## 2. `krankheitskosten-beihilfe-pkv-widerspruch`
-
-**Fokus:** Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch.
-
-
-# krankheitskosten-beihilfe-pkv-widerspruch
-
-## Aufgabe
-
-Führt Beamte und Versorgungsempfänger durch den Streit um konkrete Krankheitskosten.
-
-## Pflichtfragen
-
-- Bund oder welches Bundesland, welcher Dienstherr und welcher Status: Beamter, Richter, Versorgungsempfänger, Bewerber oder Ruhestandsfall?
-- Welcher Bescheid, welche Verfügung, welche Auswahlmitteilung, welche Versorgungsauskunft oder welcher Beihilfebescheid liegt vor?
-- Datum, Zugang, Frist, Rechtsbehelf und gewünschtes Ziel?
-- Welche Aktenbestandteile fehlen: Personalakte, Auswahlvermerk, Beurteilungen, Berechnungsblatt, amtsärztliches Gutachten, Beihilfeakte, PKV-Schreiben?
-
-## Prüfprogramm
-
-1. **Rechtsquelle trennen:** Bundesrecht, Landesrecht, Richterrecht und Satzungs-/Versorgungsrecht sauber auseinanderhalten.
-2. **Eilbedürftigkeit prüfen:** Konkurrentenschutz, Widerspruchsfrist, Klagefrist, Beihilfefrist, Dienstunfallmeldung oder Ruhestandsdatum sichern.
-3. **Materiellen Kern prüfen:** Art. 33 Abs. 2 oder Abs. 5 GG, BeamtVG, BBhV/landesrechtliche Beihilfe, BBesG/Landesbesoldung, BeamtStG/BBG und VwGO.
-4. **Akte auswerten:** Nicht nur Normen, sondern Dokumentation, Ermessen, Beteiligung, Begründung, Plausibilität und Beweiswert bewerten.
-5. **Output bauen:** Sofortmaßnahme, Antrag, Widerspruch, Eilantrag, Akteneinsicht, Mandantenbrief oder Berechnungsmatrix.
-
-## Ausgabe
-
-- Kurzbild mit Frist und Ziel.
-- Prüfmatrix mit Normgruppe, Tatsachen, Unterlagen und Risiken.
-- Konkreter nächster Schritt mit Entwurf oder Anlagenliste.
-
-## Quellen-Hardening
-
-Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
-
-## 3. `landesrecht-16-laender-routenplan`
-
-**Fokus:** Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren.
-
-
-# Landesrecht - 16-Länder-Routenplan
-
-## Ziel
-
-Dieser Skill macht keine Scheinpräzision. Er führt durch die 16 Länder, fragt den Dienstherrn sauber ab und zwingt zur aktuellen Landesrechtsprüfung, bevor eine Norm oder Frist ausgegeben wird.
-
-## Intake
-
-- Bundesland.
-- Dienstherr: Land, Kommune, Universität, Schule, Polizei, Justiz, Feuerwehr, Körperschaft.
-- Status: Beamter, Richter, Professor, Anwärter, Wahlbeamter, Ruhestand.
-- Thema: Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht, Personalvertretung.
-- Existiert ein Bescheid mit Rechtsbehelfsbelehrung?
-
-## Routenlogik
-
-1. Landesbeamtengesetz für Statusdetails.
-2. Landeslaufbahnverordnung / Laufbahngesetz für Qualifikation und Aufstieg.
-3. Landesbesoldungsgesetz für Grundgehalt, Stufen, Zuschläge.
-4. Landesversorgungsgesetz für Ruhegehalt und Hinterbliebene.
-5. Landesdisziplinargesetz für Maßnahmen und Verfahren.
-6. Landesrichtergesetz für Richterdienst, Präsidium, Dienstgericht und Beteiligungen.
-7. Spezialrecht für Polizei, Schule, Hochschule, Kommunalwahlbeamte.
-
-## Outputformen
-
-- Landesrecht-Fundstellenliste mit Prüflinks.
-- Fristenzettel nach Bescheiddatum.
-- Mandantenbrief „Warum wir zuerst das Bundesland klären müssen".
-- Behördenanschreiben zur Akteneinsicht oder Fristverlängerung.
-
-## Gute Praxis
-
-Bei jedem Land wird ausdrücklich offengelegt:
-
-- „gesichert aus Bundesrecht";
-- „landesrechtlich zu prüfen";
-- „nur Verwaltungspraxis, keine Norm";
-- „aktuelle Rechtsprechung nötig".
-
-## Fehlervermeidung
-
-Der Skill stoppt Ausgaben, wenn:
-
-- Bundesland fehlt;
-- nur „öffentlicher Dienst" genannt wird;
-- Beamter und Tarifbeschäftigter vermischt werden;
-- die Akte aus einem Stadtstaat stammt und Kommunal-/Landesebene unklar ist;
-- altes BRRG/BBesG ohne Übergangsgrundlage benutzt werden soll.
-
-## 4. `laufbahnrecht-bund`
-
-**Fokus:** Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation.
-
-
-# Laufbahnrecht Bund
-
-## Aufgabe
-
-Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation.
-
-## Arbeitsweise
-
-Arbeite mit Laufbahnverordnung und Ressortvorgaben. Prüfe Eingangsvoraussetzungen, Laufbahnbefähigung, Erprobung, Fortbildung und Auswahlentscheidung.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
+Mandantin 28 Monate Krankheit, in 2022 zehn Tage Urlaub genommen. Skill liefert Berechnung des unionsrechtlichen Mindesturlaubs für 2022, 2023 und 2024 unter Beruecksichtigung des Verfalls 15 Monate nach Urlaubsjahr.

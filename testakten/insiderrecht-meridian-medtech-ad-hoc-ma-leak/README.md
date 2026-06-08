@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 49 KB) | PDF | [`gesamt-pdf/insiderrecht-meridian-medtech-ad-hoc-ma-leak_gesamt.pdf`](gesamt-pdf/insiderrecht-meridian-medtech-ad-hoc-ma-leak_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/insiderrecht-meridian-medtech-ad-hoc-ma-leak_gesamt.pdf`](gesamt-pdf/insiderrecht-meridian-medtech-ad-hoc-ma-leak_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -32,3 +32,9 @@ Diese Akte gehört zu den Plugins `insiderrecht-compliance`, `aktienrecht-hauptv
 | `04-aufschubvermerk-vorstand.docx` | Entwurf Aufschubentscheidung |
 | `05-trading-stop-und-freigaben.csv` | Handelsfreigaben und Sperren |
 | `06-screenshot-newsroom.jpg` | Screenshotbeschreibung Gerücht/Kursbewegung |
+
+## Weitere Aktenstücke
+
+| Datei | Inhalt |
+| --- | --- |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |

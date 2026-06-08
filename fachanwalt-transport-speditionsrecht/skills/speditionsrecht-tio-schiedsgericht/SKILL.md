@@ -7,36 +7,32 @@ description: "TIO Schiedsgericht im Plugin Fachanwalt Transport Speditionsrecht:
 
 ## Arbeitsbereich
 
-**TIO Schiedsgericht** ordnet den Fall über die tragenden Prüffelder: Speditionsrecht, TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im, Frachtvertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**TIO Schiedsgericht** ordnet den Fall über die tragenden Prüfungslinien: Speditionsrecht, TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im, Frachtvertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-speditionsrecht-fristen-form-und-zustaendigkeit` | Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-speditionsrecht-fristen-form-und-zuständigkeit` | Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-transport-tio-schiedsgericht-adsp-klauseln` | TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren. |
 | `spezial-frachtvertrag-risikoampel-und-gegenargumente` | Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Transport- und Speditionsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: §§ 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `spezial-speditionsrecht-fristen-form-und-zustaendigkeit`
+## 1. `spezial-speditionsrecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / speditionsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, CMR, COTIF, HG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -187,11 +183,7 @@ Stand: 05/2026. ADSp 2017 weiterhin als Branchenstandard. CMR 1956. Montrealer �
 # Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien / frachtvertrag risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

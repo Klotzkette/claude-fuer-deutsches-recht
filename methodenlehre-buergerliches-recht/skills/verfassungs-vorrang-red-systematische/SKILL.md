@@ -7,25 +7,25 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 
 ## Arbeitsbereich
 
-**Verfassungs Vorrang RED Systematische** ordnet den Fall über die tragenden Prüffelder: Dieses Skill strukturiert die Kommunikation von, Dieses Skill führt eine methodische Red-Team-Analyse und, Systematische Auslegung im deutschen Zivilrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verfassungs Vorrang RED Systematische** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill strukturiert die Kommunikation von, Dieses Skill führt eine methodische Red-Team-Analyse und, Systematische Auslegung im deutschen Zivilrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage` | Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill bearbeitet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung. |
 | `spezial-vorrang-red-team-und-qualitaetskontrolle` | Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern? |
-| `systematische-auslegung` | Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster fuer das System-Element. |
+| `systematische-auslegung` | Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster für das System-Element. |
 | `systemkritik-begriffsfallen` | Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik eingesetzt wird, um diese Fallen aufzudecken. Besonderes Gewicht liegt auf der systematischen Kontrolle scheinbar selbstverständlicher Rechtsbegriffe durch Wortlautanalyse, historische Genese und Systemkohärenz. |
-| `systemtheorie-luhmann-rechtssystem-autopoiese` | Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen fuer die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung). |
+| `systemtheorie-luhmann-rechtssystem-autopoiese` | Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung). |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage`
 
@@ -40,7 +40,6 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Verfassungsrechtliche Fragen sind selten auf den ersten Blick als solche erkennbar — und noch seltener von Mandanten als entscheidungsrelevant wahrgenommen. Dieses Skill trainiert die Fähigkeit, verfassungsrechtliche Dimensionen eines Mandats für Laien verständlich aufzubereiten und in eine Entscheidungsvorlage zu übersetzen, die dem Mandanten eine informierte Wahl ermöglicht.
 
@@ -133,7 +132,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Wer nur die eigene Argumentation kennt, ist im Prozess überrumpelbar. Das Red-Team-Prinzip aus der Sicherheitsanalyse überträgt sich methodisch auf die juristische Qualitätskontrolle: Die eigene Position wird so hart wie möglich angegriffen, bevor der Gegner es tut. Dieses Skill gibt eine strukturierte Anleitung für diese kritische Selbstreflexion.
 
 ## Mandantenfall
@@ -215,7 +213,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `systematische-auslegung`
 
-**Fokus:** Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster fuer das System-Element.
+**Fokus:** Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster für das System-Element.
 
 # Systematische Auslegung
 
@@ -226,7 +224,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -253,11 +250,11 @@ Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. We
 1. **Aeussere Systematik:** Buch, Abschnitt, Titel, Untertitel, Norm-Reihenfolge.
 2. **Innere Systematik:** dogmatische Strukturen (Allgemeiner Teil, Besonderer Teil; Anspruchsgrundlagen, Gegennormen, Einreden).
 3. **Verweisungstechniken:** "entsprechend gelten" (§ 281 BGB iVm § 280 BGB), "unbeschadet" (§ 305 BGB), "soweit" (§ 138 BGB).
-4. **Verhaeltnis zu Nachbargesetzen:** HGB als lex specialis fuer Kaufleute, BGB als Auffanggesetz; ZPO als Verfahrensrecht; spezialgesetzliche Sondernormen (ProdHaftG, StVG, AGG).
+4. **Verhaeltnis zu Nachbargesetzen:** HGB als lex specialis für Kaufleute, BGB als Auffanggesetz; ZPO als Verfahrensrecht; spezialgesetzliche Sondernormen (ProdHaftG, StVG, AGG).
 
 ## Anwendung im deutschen Zivilrecht
 
-**Beispiel § 280 BGB:** Die Norm steht im Buch 2 (Schuldrecht), Abschnitt 1 (Inhalt der Schuldverhaeltnisse), Titel 1 (Verpflichtung zur Leistung). Sie ist Grundnorm fuer Schadensersatzanspruch wegen Pflichtverletzung. Systematische Auslegung verlangt: § 280 BGB ist nicht im allgemeinen Schuldrecht zu lesen, sondern im Allgemeinen Teil des Schuldrechts und im Verbund mit §§ 281 ff. BGB (Schadensersatz statt der Leistung), § 282 BGB (Schadensersatz wegen Verletzung einer Pflicht nach § 241 Abs. 2 BGB), § 283 BGB (Unmoeglichkeit) und § 286 BGB (Verzug).
+**Beispiel § 280 BGB:** Die Norm steht im Buch 2 (Schuldrecht), Abschnitt 1 (Inhalt der Schuldverhaeltnisse), Titel 1 (Verpflichtung zur Leistung). Sie ist Grundnorm für Schadensersatzanspruch wegen Pflichtverletzung. Systematische Auslegung verlangt: § 280 BGB ist nicht im allgemeinen Schuldrecht zu lesen, sondern im Allgemeinen Teil des Schuldrechts und im Verbund mit §§ 281 ff. BGB (Schadensersatz statt der Leistung), § 282 BGB (Schadensersatz wegen Verletzung einer Pflicht nach § 241 Abs. 2 BGB), § 283 BGB (Unmoeglichkeit) und § 286 BGB (Verzug).
 
 **Beispiel § 311 Abs. 2 BGB (c.i.c.):** Die Norm wurde 2002 im Zuge der Schuldrechtsmodernisierung kodifiziert. Sie steht im Allgemeinen Teil des Schuldrechts neben §§ 241, 280 BGB und ist daher als allgemeines vorvertragliches Schuldverhaeltnis zu lesen. Die systematische Stellung neben § 241 Abs. 2 BGB macht klar: c.i.c. ist Schutzpflichtverletzung, nicht Erfuellungspflichtverletzung.
 
@@ -267,7 +264,7 @@ Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. We
 
 **Beispiel Generalklausel vs. Spezialnorm:** § 242 BGB ist nicht aufrufbar, wenn § 320 BGB (Einrede des nicht erfuellten Vertrags) oder § 273 BGB (Zurueckbehaltungsrecht) speziell sind. Systematisches Argument: Spezialnorm verdraengt Generalklausel.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Norm verorten.** Welches Buch, welcher Abschnitt, welcher Titel, welcher Untertitel des BGB? Bei Sondergesetzen analog.
 2. **Nachbarnormen identifizieren.** Direkt vor- und nachstehende Paragraphen lesen.
@@ -308,7 +305,6 @@ Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das Syste
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -330,7 +326,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Juristische Begriffe tragen scheinbar klare Bedeutungen, die bei näherer Betrachtung häufig mehrschichtig, mehrdeutig oder kontextabhängig sind. "Eigentum", "Besitz", "Schaden", "Kausalität" — jeder dieser Begriffe enthält methodische Fallstricke, die bei unvorsichtiger Verwendung zu falschen Subsumtionsergebnissen führen. Dieses Skill trainiert die kritische Begriffsanalyse als methodisches Schutzinstrument.
 
@@ -411,7 +406,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `systemtheorie-luhmann-rechtssystem-autopoiese`
 
-**Fokus:** Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen fuer die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung).
+**Fokus:** Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung).
 
 # Systemtheorie Luhmanns und das Recht
 
@@ -422,7 +417,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -455,7 +449,7 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 
 1. **Recht ist autopoietisch.** Es produziert seine eigenen Operationen aus sich selbst. Eine neue Norm entsteht durch eine alte Norm (z. B. Gesetzgebungsverfahren nach Art. 70 ff. GG). Ein Urteil entsteht durch Anwendung bestehender Normen.
 2. **Operativ geschlossen.** Das Rechtssystem prozessiert nur Recht-Operationen. Wirtschaftliche Argumente werden nicht "direkt" verarbeitet; sie muessen ins Recht uebersetzt werden (z. B. Effizienz wird zum Wertungsargument unter § 242 BGB).
-3. **Binaerer Code: Recht / Unrecht.** Jede Rechtsoperation entscheidet, was Recht und was Unrecht ist. Andere Codes (Wahr/Unwahr fuer Wissenschaft, Zahlen/Nichtzahlen fuer Wirtschaft) sind ausserhalb des Systems.
+3. **Binaerer Code: Recht / Unrecht.** Jede Rechtsoperation entscheidet, was Recht und was Unrecht ist. Andere Codes (Wahr/Unwahr für Wissenschaft, Zahlen/Nichtzahlen für Wirtschaft) sind ausserhalb des Systems.
 4. **Programme.** Innerhalb des Rechts entscheiden Programme (Konditional- und Zweckprogramme), wie der Code zugeordnet wird. Konditionalprogramm: wenn Tatbestand, dann Rechtsfolge. Zweckprogramm: Norm als Mittel zum Zweck.
 5. **Strukturelle Kopplung.** Recht ist mit anderen Systemen (Wirtschaft, Politik) ueber strukturelle Kopplungen verbunden (Vertrag, Eigentum, Gesetz). Aber: keine direkte Kausalsteuerung zwischen den Systemen.
 
@@ -465,20 +459,20 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 
 **Beispiel Generalklauseln als Schnittstelle:** §§ 138, 242, 826 BGB sind strukturell-koppelnde Schnittstellen zur Moral, zu Werten, zur Verkehrserwartung. Aber: Die "Sittenwidrigkeit" entscheidet sich nach dem Code Recht/Unrecht — nicht direkt nach Moral. Auch wenn das Gericht moralisch argumentiert, ist das Ergebnis eine juristische Operation.
 
-**Beispiel Vertragsfreiheit als strukturelle Kopplung Recht/Wirtschaft:** Der Vertrag (§§ 145 ff. BGB) ist die zentrale Brueke zwischen Rechtssystem und Wirtschaftssystem. Recht stellt Vertrag bereit; Wirtschaft nutzt ihn fuer Tauschoperationen.
+**Beispiel Vertragsfreiheit als strukturelle Kopplung Recht/Wirtschaft:** Der Vertrag (§§ 145 ff. BGB) ist die zentrale Brueke zwischen Rechtssystem und Wirtschaftssystem. Recht stellt Vertrag bereit; Wirtschaft nutzt ihn für Tauschoperationen.
 
 **Beispiel BGH als Beobachter zweiter Ordnung:** Der BGH beobachtet, wie die Untergerichte mit Normen umgehen. Er beobachtet Beobachtungen. Die Revision ist Beobachtung zweiter Ordnung — nicht primaere Wahrheitsentdeckung.
 
 **Beispiel Klimaklagen, KI-Recht, Plattformregulierung:** Hier zeigen sich Systemkonflikte. Wirtschaftssystem will Innovation; Wissenschaftssystem warnt vor Risiken; Politik soll regulieren; Recht muss zwischen all dem entscheiden — ueber den Code Recht/Unrecht, nicht direkt nach Wirtschaftlichkeit oder Wissenschaftlichkeit.
 
-## Schritt-fuer-Schritt (Anwendung als Reflexionsraster)
+## Schritt-für-Schritt (Anwendung als Reflexionsraster)
 
 1. **Rechtsoperation identifizieren.** Was genau wird im konkreten Fall Recht/Unrecht-codiert?
 2. **Externe Logiken erkennen.** Welche wirtschaftlichen, politischen, moralischen Argumente werden vorgetragen?
 3. **Uebersetzungsproblem benennen.** Wie werden diese externen Logiken ins Recht uebersetzt? Ueber welche Norm (Generalklausel, Schutzgesetz)?
 4. **Systeminterne Programme pruefen.** Konditional- oder Zweckprogramm? Welche dogmatische Struktur greift?
 5. **Strukturelle Kopplung pruefen.** Wo beruehren sich Rechts- und Wirtschafts-, Politik- oder Wissenschaftssystem im konkreten Fall?
-6. **Reflexion fuer den Schriftsatz oder das Memo.** Die Systemtheorie liefert nicht direkt Argumente; sie hilft, die Eigenlogik und die Grenzen des Rechts klar zu sehen.
+6. **Reflexion für den Schriftsatz oder das Memo.** Die Systemtheorie liefert nicht direkt Argumente; sie hilft, die Eigenlogik und die Grenzen des Rechts klar zu sehen.
 
 ## Typische Fehler / Kritik
 
@@ -487,7 +481,7 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 - **Code Recht/Unrecht als "alles oder nichts".** In der Praxis gibt es Graustufen (Abwaegung, Verhaeltnismaessigkeit), aber sie sind immer am Code orientiert.
 - **Luhmann mit Habermas verwechseln.** Habermas (Diskurstheorie, siehe Skill `diskurstheorie-habermas-alexy`) vertritt eine ganz andere Position — er sieht Recht in den diskursiven Begruendungsprozess der Gesellschaft eingebettet. Luhmann sieht Recht als geschlossenes System; Habermas sieht es als Diskursprodukt.
 
-**Kritik von Habermas:** Luhmanns Systemtheorie laesst keinen Raum fuer kommunikative Rationalitaet und Begruendung. Das ist fuer das Recht aber konstitutiv.
+**Kritik von Habermas:** Luhmanns Systemtheorie laesst keinen Raum für kommunikative Rationalitaet und Begruendung. Das ist für das Recht aber konstitutiv.
 
 **Kritik aus der Wertungsjurisprudenz:** Systemtheorie macht das Recht "uebermenschlich"; sie sagt nichts zu Gerechtigkeit, Wert, Grundrechtsschutz. Fuer die Methodenlehre brauchen wir mehr als Beschreibung.
 
@@ -512,7 +506,6 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 - §§ 138, 145 ff., 242, 280, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

@@ -13,7 +13,7 @@ description: "Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG 
 
 ## Worum geht es?
 
-Das Versorgungsamt setzt einen Grad der Behinderung (GdB) fest. Diesen brauchen Sie fuer Kuendigungsschutz, Steuerermaessigung und mehr. Sie sind nicht einverstanden? Diese Skill zeigt den Weg.
+Das Versorgungsamt setzt einen Grad der Behinderung (GdB) fest. Diesen brauchen Sie für Kuendigungsschutz, Steuerermaessigung und mehr. Sie sind nicht einverstanden? Diese Skill zeigt den Weg.
 
 ## In einfacher Sprache
 
@@ -29,24 +29,24 @@ Sie sind krank oder behindert. Der GdB ist eine Zahl, die das ausdrueckt. Ab GdB
 
 - **GdB**: Grad der Behinderung, Wert zwischen 0 und 100 in 10er-Schritten.
 - **Schwerbehindert**: ab GdB 50.
-- **Gleichgestellt**: ab GdB 30 mit Antrag bei Agentur fuer Arbeit.
+- **Gleichgestellt**: ab GdB 30 mit Antrag bei Agentur für Arbeit.
 - **Merkzeichen G**: erhebliche Gehbehinderung.
 - **Merkzeichen aG**: aussergewoehnliche Gehbehinderung.
 - **Merkzeichen B**: Begleitperson notwendig.
 - **Merkzeichen H**: hilflos.
 - **Merkzeichen Bl**: blind.
 - **Merkzeichen Gl**: gehoerlos.
-- **VMG**: Versorgungsmedizinische Grundsaetze (Tabellen-Werk fuer GdB-Bestimmung).
+- **VMG**: Versorgungsmedizinische Grundsaetze (Tabellen-Werk für GdB-Bestimmung).
 
 ## Rechtsgrundlagen
 
 - **§ 152 SGB IX** — Feststellung des GdB.
 - **§ 2 SGB IX** — Definition Behinderung.
 - **Versorgungsmedizin-Verordnung (VersMedV)** — Tabellen.
-- **§ 33b EStG** — Steuerermaessigung fuer Behinderte.
+- **§ 33b EStG** — Steuerermaessigung für Behinderte.
 - **§ 154 SGB IX** — Schwerbehinderten-Ausweis.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Bescheid pruefen
 
@@ -59,7 +59,7 @@ Im Bescheid steht:
 
 ### Schritt 2 — VMG-Tabellen pruefen
 
-Die VMG hat Tabellen fuer jede Erkrankung. Pruefen Sie:
+Die VMG hat Tabellen für jede Erkrankung. Pruefen Sie:
 
 - Welche Diagnose hat welchen Wert?
 - Sind alle Diagnosen beruecksichtigt?
@@ -133,7 +133,7 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 - **VMG ist Standard-Werkzeug**: Pruefen Sie die Tabellen genau (online verfuegbar).
 - **Gesamt-GdB ist nicht Addition**: Verstaerkungs- und Abschwaechungsregeln beachten.
 - **Merkzeichen separat begruenden**: Jedes Merkzeichen hat eigene Voraussetzungen.
-- **Aktuelle Atteste wichtig**: nicht aelter als 6 bis 12 Monate fuer SG-Verfahren.
+- **Aktuelle Atteste wichtig**: nicht aelter als 6 bis 12 Monate für SG-Verfahren.
 
 ## Typische Fehler
 
@@ -152,8 +152,7 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zustaendigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
-
+Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zuständigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
 
 ## Qualitäts-Hardening
 

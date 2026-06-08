@@ -1,43 +1,26 @@
 ---
 name: duftmarke-geschmacksmarke-einstweilige
-description: "Duftmarke Geschmacksmarke Einstweilige im Plugin Markenrecht Fashion Luxus: prüft konkret Duftmarken und Geschmacksmarken realistisch prüfen, Einstweilige Verfügung im Markenrecht vorbereiten oder, Erschöpfung, Parallelimport und Graumarkt prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen im Markenrecht Fashion Luxus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Duftmarke Geschmacksmarke Einstweilige
+# Duftmarken und Geschmacksmarken
 
 ## Arbeitsbereich
 
-**Duftmarke Geschmacksmarke Einstweilige** ordnet den Fall über die tragenden Prüffelder: Duftmarken und Geschmacksmarken realistisch prüfen, Einstweilige Verfügung im Markenrecht vorbereiten oder, Erschöpfung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `duftmarke-und-geschmacksmarke` | Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. |
-| `einstweilige-verfuegung-markenrecht-dringleichkeit` | Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung. |
-| `erschoepfung-parallelimport-graumarkt` | Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie. |
-| `geografische-angaben-kollektiv-gewaehrleistungsmarke` | Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke. |
+Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Markenrecht für Fashion und Luxus klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
 - Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `duftmarke-und-geschmacksmarke`
-
-**Fokus:** Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen.
-
-# Duftmarken und Geschmacksmarken
 
 ## Fachkern: Duftmarken und Geschmacksmarken
-- **Spezialgegenstand:** Duftmarken und Geschmacksmarken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 Die Paradedisziplin des Aussichtslosigkeits-Bergs im Markenrecht. Für klôtzzkètté SA, deren Signature-Duft "Abîme Dorée" (Parfum Nr. 7 der Maison) ein entscheidendes Markenzeichen ist, ist die Lage ernüchternd: Riechmarken sind nach dem aktuellen Stand sowohl beim DPMA als auch beim EUIPO praktisch nicht eintragbar. Ich arbeite daher mit alternativen Schutzstrategien.
 
@@ -164,151 +147,3 @@ Bevor die Duftmarke eingereicht wird, klaere:
 Ersatz: BGH I ZR 149/14 (Pippi-Langstrumpf-Kostuem II, 19.11.2015) — verifiziert auf dejure.org (GRUR 2016, 725).
 Thema: wettbewerbliche Eigenart und UWG-Nachahmungsschutz; passt inhaltlich zum Kontext.
 -->
-
-## 2. `einstweilige-verfuegung-markenrecht-dringleichkeit`
-
-**Fokus:** Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung.
-
-# Einstweilige Verfügung im Markenrecht
-
-## Fachkern: Einstweilige Verfügung im Markenrecht
-- **Spezialgegenstand:** Einstweilige Verfügung im Markenrecht; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Aufgabe
-
-Bereite einen Eilantrag wegen Markenverletzung vor oder verteidige gegen eine drohende Verfügung.
-
-## Normanker
-
-- MarkenG §§ 14, 15 für Unterlassungsansprüche aus Marke/geschäftlicher Bezeichnung; MarkenG § 19 für Auskunft nur vorsichtig im Eilverfahren.
-- ZPO §§ 935, 940, 936, 920 ff. für Arrest/Verfügung, Antrag, Glaubhaftmachung und Verfahren.
-- ZPO § 929 Abs. 2 zur Vollziehungsfrist, über ZPO § 936 entsprechend; Zustellung/Vollziehung sofort gesondert planen.
-- ZPO § 945 für Schadensersatz bei ungerechtfertigter Verfügung; ZPO § 945a für Schutzschriftregister.
-- UWG-/Design-/Urheberrechtsansprüche nur als Zusatzspur, wenn der Sachverhalt sie wirklich trägt.
-
-## Pflichtfragen
-
-- Wann wurde die Verletzung sicher erkannt und durch wen?
-- Welches Gericht, Gegner, Zeichen, Ware, Plattform, Messe oder Import?
-- Welche Belege sind glaubhaftmachungsfähig?
-- Gab es Abmahnung, Verhandlungen, Zuwarten, Testkauf, Schutzschrift?
-
-## Prüfprogramm
-
-1. **Anspruch:** Schutzrecht, Inhaberschaft, Zeichenbenutzung, Verwechslungsgefahr oder Identität, keine Erschöpfung.
-2. **Dringlichkeit:** Kenntniszeitpunkt, interne Eskalation, Abmahnung, Vergleichsgespräch, Verzögerungen.
-3. **Glaubhaftmachung:** Eidesstattliche Versicherungen, Registerauszüge, Screenshots, Testkauf, Fotos.
-4. **Anträge:** Unterlassung präzise, kerngleiche Verletzung, Auskunft/Vernichtung im Eilverfahren nur vorsichtig.
-5. **Vollziehung:** Zustellung, Ordnungsmittel, Abschlussschreiben, Widerspruch, Berufung.
-6. **Abwehr:** Schutzschrift, fehlende Dringlichkeit, Nichtbenutzung, Erschöpfung, keine markenmäßige Benutzung, unbestimmter Antrag.
-7. **Plattform-/Messefall:** Takedown, Zoll, Messeleitung, Marketplace-Sperre und physische Beschlagnahme nicht mit gerichtlicher Vollziehung verwechseln.
-8. **Auslandsbezug:** Deutsche Verfügung nur für deutschen Schutzrechts- und Verletzungsbezug bauen; EU-Marke/UMV und internationale Zuständigkeit getrennt prüfen.
-
-## Output
-
-- Eilantragsgerüst oder Schutzschriftgerüst.
-- Dringlichkeitschronologie.
-- Glaubhaftmachungsmatrix.
-
-## Quellen
-
-Lokale Gerichtspraxis und Rechtsprechung nur verifiziert verwenden. Dringlichkeitsfristen unterscheiden sich praktisch je nach OLG-Bezirk; niemals pauschal eine starre Monatsfrist behaupten, ohne den Gerichtsstand zu prüfen.
-
-## 3. `erschoepfung-parallelimport-graumarkt`
-
-**Fokus:** Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie.
-
-# Erschöpfung, Parallelimport und Graumarkt
-
-## Fachkern: Erschöpfung, Parallelimport und Graumarkt
-- **Spezialgegenstand:** Erschöpfung, Parallelimport und Graumarkt; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Aufgabe
-
-Prüfe, ob der Markeninhaber gegen Weitervertrieb vorgehen kann oder ob Erschöpfung eingreift.
-
-## Normanker
-
-- MarkenG § 24 zur Erschöpfung; UMV Art. 15 bei Unionsmarken.
-- MarkenG §§ 14, 18, 19 für Verletzungs-, Vernichtungs-/Rückruf- und Auskunftsansprüche, wenn Erschöpfung nicht greift.
-- Kartellrecht/selektiver Vertrieb getrennt prüfen: Art. 101 AEUV, GWB, Vertikal-GVO (EU) 2022/720.
-- EuGH/BGH-Linien zu Parallelimport, Umpacken und berechtigten Gründen nur mit Datum, Aktenzeichen und freier Quelle zitieren.
-
-## Pflichtfragen
-
-- Ware, Seriennummern, Vertriebsweg, Lieferkette, EWR-Bezug.
-- Inverkehrbringen durch Markeninhaber oder mit Zustimmung?
-- Umpacken, Entfernen von Codes, Qualitätsveränderung, Luxusimage-Schaden?
-- Selektives Vertriebssystem, Händlervertrag, Plattformverkauf?
-
-## Prüfprogramm
-
-1. **Territorialität:** EWR-Inverkehrbringen von Drittstaatenimport unterscheiden.
-2. **Zustimmung:** Ausdrücklich, konkludent, konzernintern, Lizenznehmer, Distributor.
-3. **Ware identifizieren:** Seriennummer, Charge, Testkauf, Fotos, Rechnung, Lieferweg.
-4. **Ausnahmen von Erschöpfung:** Berechtigte Gründe, Zustand der Ware, Umpacken, Entfernung von Kontrollcodes, Rufschädigung.
-5. **Vertriebsrecht:** Vertragsverletzung allein ist nicht automatisch Markenverletzung; selektiven Vertrieb und Kartellrecht getrennt prüfen.
-6. **Beweislast praktisch:** Markeninhaber braucht Lieferkettenindizien; Händler braucht EWR-Herkunft/Zustimmung. Keine Seite mit bloßen Behauptungen arbeiten lassen.
-7. **Luxus-/Pharmafall:** Reputationsschaden, Sicherheitsmerkmale, Beipackzettel, Serialisierung, Garantie und After-Sales-Service besonders prüfen.
-
-## Output
-
-- Lieferkettenmatrix.
-- Erschöpfungsampel.
-- Beweisplan für Testkauf und Auskunft.
-- Abmahn- oder Verteidigungslinie.
-
-## Qualitätsgate
-
-EuGH/BGH-Rechtsprechung nur verifiziert zitieren; Produkt- und Lieferdaten nicht raten.
-
-## 4. `geografische-angaben-kollektiv-gewaehrleistungsmarke`
-
-**Fokus:** Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke.
-
-# Geografische Angaben, Kollektiv- und Gewährleistungsmarken
-
-## Fachkern: Geografische Angaben, Kollektiv- und Gewährleistungsmarken
-- **Spezialgegenstand:** Geografische Angaben, Kollektiv- und Gewährleistungsmarken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Aufgabe
-
-Prüfe, ob ein Zeichen als Individualmarke, Kollektivmarke, Gewährleistungsmarke oder geografischer Herkunftsschutz gedacht werden muss.
-
-## Pflichtfragen
-
-- Zeichen enthält Ort, Region, Land, Qualitätsversprechen oder Zertifizierungsclaim?
-- Wer soll Inhaber sein: Unternehmen, Verband, Zertifizierer, öffentliche Stelle?
-- Welche Produkte, Standards, Kontrollsysteme und Nutzer?
-- Bestehen geschützte geografische Angaben oder Branchenregeln?
-
-## Prüfprogramm
-
-1. **Schutzregime wählen:** Individualmarke schützt Herkunft aus Unternehmen; Kollektiv/Gewährleistung schützt anders.
-2. **Irreführung und Freihaltebedürfnis:** Geografische Begriffe sind sensibel.
-3. **Satzung/Benutzungsbedingungen:** Nutzerkreis, Kontrollmechanismus, Sanktionen, Neutralität.
-4. **EU-Schutzsysteme:** Agrar/Lebensmittel/Spirituosen/Wein getrennt prüfen.
-5. **Marketing:** Qualitätszeichen nicht als leere Werbefloskel anmelden.
-
-## Output
-
-- Regime-Entscheidung.
-- Satzungs-/Regelungscheck.
-- Risikoampel Irreführung/Freihaltebedürfnis.
-- Anmeldefahrplan.
-
-## Quellen
-
-MarkenG, UMV und einschlägige EU-Herkunftsschutzquellen live prüfen.

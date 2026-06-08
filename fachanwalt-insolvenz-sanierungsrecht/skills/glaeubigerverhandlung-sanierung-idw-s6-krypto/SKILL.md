@@ -1,31 +1,31 @@
 ---
 name: glaeubigerverhandlung-sanierung-idw-s6-krypto
-description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sanierungsrecht: prüft konkret Sanierungs-Verhandlung mit Gläubigern vor und in der, Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau, Prüffeld für fachanwalt insolvenz krypto verwertung, StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sanierungsrecht: prüft konkret Sanierungs-Verhandlung mit Gläubigern vor und in der, Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau, Prüfungslinie für fachanwalt insolvenz krypto verwertung, StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Glaeubigerverhandlung Sanierung IDW S6 Krypto
 
 ## Arbeitsbereich
 
-**Glaeubigerverhandlung Sanierung IDW S6 Krypto** ordnet den Fall über die tragenden Prüffelder: Sanierungs-Verhandlung mit Gläubigern vor und in der, Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau, Prüffeld für fachanwalt insolvenz krypto verwertung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Glaeubigerverhandlung Sanierung IDW S6 Krypto** ordnet den Fall über die tragenden Prüfungslinien: Sanierungs-Verhandlung mit Gläubigern vor und in der, Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau, Prüfungslinie für fachanwalt insolvenz krypto verwertung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung` | Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Restrukturierungsplan §§ 112 113 BetrVG Sozialplan § 125 InsO. Prüfraster Gläubigerausschuss-Zusammensetzung Verhandlungsposition Masseverbindlichkeiten Plan-Annahme 75-Prozent-Mehrheit Cross-class Cramdown. Output Verhandlungsstrategie-Memo mit Gläubigerkorrespondenz Vergleichsangebot Plan-Grobentwurf und Zeitplan. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan. |
 | `fachanwalt-insolvenz-idw-s6-sanierungskonzept` | Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau aus anwaltlicher Sicht. Führt durch Fortbestehensprognose, Sanierungsfähigkeit, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpakete, integrierte Planung, kleinere Unternehmen, Dokumentation, Haftungs- und Verhandlungsrisiken. Output: Mandantenmemo, Bank-/Gläubigerunterlage, Datenanforderung, Red-Team-Liste und Entscheidungsampel. |
-| `fachanwalt-insolvenz-krypto-verwertung` | Prüffeld für fachanwalt insolvenz krypto verwertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-insolvenz-krypto-verwertung` | Prüfungslinie für fachanwalt insolvenz krypto verwertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-insolvenz-sanierung-starug-plan` | StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Anzeige Plan-Aufstellung Abstimmung Bestätigung. |
 | `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` | Anfechtungsklage des Insolvenzverwalters nach §§ 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, § 130/131/133/134/135, Bargeschäft § 142, Rückgewähr § 143, Gegenleistung § 144, Verjährung § 146, Beweislast, KI-Kandidatenmatrix und Gegnerverteidigung. Output: Klagegerüst mit Beleg- und Risikoplan. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung`
 
@@ -40,7 +40,6 @@ description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sa
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -227,7 +226,6 @@ Frist: [DATUM]
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
 
 Dieser Skill macht aus einer unsortierten Krisenakte ein anwaltlich belastbares Sanierungskonzept oder prüft ein vorgelegtes Konzept auf Schwachstellen. Er arbeitet pragmatisch: erst Insolvenzreife und Fristen sichern, dann Sanierungsfähigkeit prüfen, dann den richtigen Output für Mandant, Bank, Gläubiger, Gericht oder Investor erstellen.
@@ -390,16 +388,15 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 
 ## 3. `fachanwalt-insolvenz-krypto-verwertung`
 
-**Fokus:** Prüffeld für fachanwalt insolvenz krypto verwertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt insolvenz krypto verwertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -411,7 +408,7 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 6. Gibt es steuerliche Hintergründe: Spekulationsgewinne/verluste, Jahresfrist § 23 EStG, BMF-Schreiben 22.11.2024?
 7. Wurden Krypto-Transfers in der Krise vorgenommen, die der Anfechtung (§§ 130 ff. InsO) unterliegen könnten?
 8. Soll eine forensische Blockchain-Analyse (Chainalysis, Elliptic) für die Wallet-Rekonstruktion eingesetzt werden?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -629,7 +626,7 @@ Bevor losgelegt wird, klaere:
 2. **Volumina bekannt?** Forensische Blockchain-Analyse (Chainalysis/Elliptic) benoetigt?
 3. **Anfechtungsrisiko?** Krypto-Transfers in den letzten 4 Jahren vor Antrag → § 133 InsO.
 4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit pruefen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
-5. **Verjährung § 146 InsO?** Anfechtungsfristen fuer Krypto-Transfers laufen ab → sofort Inventur.
+5. **Verjährung § 146 InsO?** Anfechtungsfristen für Krypto-Transfers laufen ab → sofort Inventur.
 
 ## Quellenregel
 
@@ -648,7 +645,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -902,7 +898,6 @@ V. Begleitende Massnahmen
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Einstieg
 

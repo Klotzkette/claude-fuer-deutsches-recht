@@ -7,10 +7,10 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-**Anspruchsgrundlage Finden Anwaltszwang ZPO** ordnet den Fall über die tragenden Prüffelder: Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anspruchsgrundlage Finden Anwaltszwang ZPO** ordnet den Fall über die tragenden Prüfungslinien: Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `anspruchsgrundlage-finden-laienhilfe` | Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag. |
 | `anwaltszwang-pruefen-78-zpo` | Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen. |
@@ -18,12 +18,12 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `anspruchsgrundlage-finden-laienhilfe`
 
@@ -62,7 +62,7 @@ Jede Klage braucht eine **Anspruchsgrundlage** — eine Norm im BGB oder Spezial
 - **§ 823 BGB** — Delikt (unerlaubte Handlung).
 - **§ 812 BGB** — Bereicherungsanspruch.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefungsreihenfolge merken
 
@@ -115,7 +115,7 @@ Wenn jemand etwas auf Ihre Kosten erlangt hat, ohne Rechtsgrund: § 812 BGB.
 
 ### Schritt 7 — Beispiele
 
-Beispiel 1: "Ich habe ein Sofa fuer 800 EUR gekauft, Verkaeufer liefert nicht."
+Beispiel 1: "Ich habe ein Sofa für 800 EUR gekauft, Verkaeufer liefert nicht."
 
 - Vertragsanspruch § 433 I BGB (Lieferung).
 - Bei Verspaetung: Verzug, Schadensersatz § 280 II BGB.
@@ -143,8 +143,8 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 ## Worauf Sie besonders achten muessen
 
 - **Mehrere Anspruchsgrundlagen sind Regel, nicht Ausnahme**. Bei Verkehrsunfall greifen § 823 BGB **und** § 7 StVG **und** § 18 StVG nebeneinander.
-- **Vertrag schlaegt Delikt** — wenn ein Vertrag besteht, sind die vertraglichen Regelungen meist guenstiger fuer Sie.
-- **Verjaehrung pruefen**: Manche Sondergesetze haben kuerzere Fristen.
+- **Vertrag schlaegt Delikt** — wenn ein Vertrag besteht, sind die vertraglichen Regelungen meist guenstiger für Sie.
+- **Verjährung pruefen**: Manche Sondergesetze haben kuerzere Fristen.
 
 ## Typische Fehler
 
@@ -156,7 +156,7 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Pruefung.
 - `tatbestand-zerlegen-anspruchspruefung-laien` — Voraussetzungen identifizieren.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 - `klageschrift-tatsachenvortrag-strukturieren` — Sachverhalt aufbauen.
 
@@ -172,7 +172,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Worum geht es?
 
-Vor dem Amtsgericht koennen Sie sich grundsaetzlich **selbst** vertreten. Das nennt sich "Postulationsfaehigkeit" — Sie duerfen vor Gericht Antraege stellen und Schriftsaetze einreichen. Vor dem Landgericht (LG), Oberlandesgericht (OLG) und dem Bundesgerichtshof (BGH) ist das anders: Dort herrscht **Anwaltszwang**. Diese Skill klaert, ob fuer Ihren Fall wirklich kein Anwalt zwingend ist und nennt die wenigen Ausnahmen.
+Vor dem Amtsgericht koennen Sie sich grundsaetzlich **selbst** vertreten. Das nennt sich "Postulationsfaehigkeit" — Sie duerfen vor Gericht Antraege stellen und Schriftsaetze einreichen. Vor dem Landgericht (LG), Oberlandesgericht (OLG) und dem Bundesgerichtshof (BGH) ist das anders: Dort herrscht **Anwaltszwang**. Diese Skill klaert, ob für Ihren Fall wirklich kein Anwalt zwingend ist und nennt die wenigen Ausnahmen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -190,10 +190,10 @@ Vor dem Amtsgericht koennen Sie sich grundsaetzlich **selbst** vertreten. Das ne
 
 - **§ 78 Abs. 1 ZPO** — "Vor den Landgerichten und Oberlandesgerichten muessen sich die Parteien durch einen Rechtsanwalt vertreten lassen." → Im Umkehrschluss: AG-Verfahren **ohne** Anwaltszwang.
 - **§ 78 Abs. 3 ZPO** — Bestimmte Antraege auch vor LG/OLG ohne Anwalt (z. B. Antrag auf Prozesskostenhilfe).
-- **§ 114 FamFG** — In Familiensachen vor dem AG (= Familiengericht) gilt fuer Ehesachen und Folgesachen Anwaltszwang. **Hier brauchen Sie einen Anwalt.**
+- **§ 114 FamFG** — In Familiensachen vor dem AG (= Familiengericht) gilt für Ehesachen und Folgesachen Anwaltszwang. **Hier brauchen Sie einen Anwalt.**
 - **§ 11 ArbGG** — Vor Arbeitsgerichten erster Instanz kein Anwaltszwang.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welches Gericht?
 
@@ -222,30 +222,30 @@ Nur weil kein Anwaltszwang besteht, ist Selbstvertretung nicht immer klug. Bei k
 
 ### Schritt 5 — Bevollmaechtigter ohne Anwaltszulassung?
 
-Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschaeftsmaessige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
+Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschaeftsmäßige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
 
 - Volljaehrige Familienangehoerige.
 - Mitarbeiter Ihres Unternehmens.
 - Verbraucherzentrale.
 
-**Nicht** zulaessig: Bekannte, die regelmaessig fuer andere auftreten (= Rechtsdienstleistungsgesetz, RDG).
+**Nicht** zulaessig: Bekannte, die regelmaessig für andere auftreten (= Rechtsdienstleistungsgesetz, RDG).
 
 ## Worauf Sie besonders achten muessen
 
 - **§ 114 FamFG bei Ehesachen**: Sie koennen keine Ehescheidung selbst betreiben. Hier ist Anwalt **zwingend**. Auch wenn die Scheidung einvernehmlich ist, brauchen mindestens Sie selbst (oder im Verbund mit Folgesachen) einen Anwalt.
-- **Rechtsmittel**: Berufung vor LG ist Anwaltszwang. Wenn Sie im AG-Prozess unsicher sind, ob Sie verlieren werden, planen Sie das Anwalts-Risiko fuer die Berufung ein.
+- **Rechtsmittel**: Berufung vor LG ist Anwaltszwang. Wenn Sie im AG-Prozess unsicher sind, ob Sie verlieren werden, planen Sie das Anwalts-Risiko für die Berufung ein.
 - **Schriftsaetze**: Auch ohne Anwaltszwang muessen Schriftsaetze formale Mindestanforderungen erfuellen — Antrag, Vortrag, Beweis. Skill `klageschrift-pflichtbestandteile-253-zpo`.
 
 ## Typische Fehler
 
 - "Im Familienverfahren brauche ich keinen Anwalt, weil das ein AG ist." → Falsch. Familiengericht ist zwar formal Teil des AG, aber Anwaltszwang nach § 114 FamFG bleibt.
-- "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschaeftsmaessige Vertretung ist verboten.
-- "Ich kann mich auch in der Berufung vor LG selbst vertreten." → Nur fuer einzelne Antraege. Berufungsbegruendung braucht Anwalt.
+- "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschaeftsmäßige Vertretung ist verboten.
+- "Ich kann mich auch in der Berufung vor LG selbst vertreten." → Nur für einzelne Antraege. Berufungsbegruendung braucht Anwalt.
 
 ## Querverweise
 
 - `orientierung-selbstvertreter-amtsgericht` — Einstieg.
-- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Wann ist das AG ueberhaupt zustaendig?
+- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Wann ist das AG ueberhaupt zuständig?
 - `berufung-amtsgericht-511-zpo` — Berufung zum LG (dort Anwaltszwang).
 - `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
 - `prozesskostenhilfe-pkh-114-zpo` — PKH bei finanzieller Notlage.
@@ -257,7 +257,6 @@ Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.
-
 
 ## Qualitäts-Hardening
 
@@ -294,7 +293,7 @@ Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht. Ei
 - **§ 371 ZPO** — Augenscheinsbeweis.
 - **§ 371a ZPO** — Elektronische Dokumente.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Eignung pruefen
 
@@ -310,7 +309,7 @@ Augenscheinsbeweis sinnvoll, wenn:
 Beweis: Inaugenscheinnahme der defekten
 Waschmaschine (Marke X, Modell Y) am
 Wohnort des Klaegers, [Adresse], zum Beweis
-dafuer, dass das Geraet einen Wasserschaden
+dafür, dass das Geraet einen Wasserschaden
 und nicht-betriebsfaehige Trommel-Lagerung
 aufweist.
 ```
@@ -391,7 +390,6 @@ Vor-Ort-Termin: Reisekosten Gericht, ggf. Sachverstaendiger anwesend. Kosten mei
 
 Stand: 05/2026. § 371 ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -399,3 +397,25 @@ Stand: 05/2026. § 371 ZPO unveraendert.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+

@@ -7,25 +7,25 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 
 ## Arbeitsbereich
 
-**Pflegekasse Verhinderungs PKH** ordnet den Fall über die tragenden Prüffelder: Pflegekasse Verhinderungspflege und Kurzzeitpflege, Erfolgsaussicht in der PKH-Prüfung, Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Pflegekasse Verhinderungs PKH** ordnet den Fall über die tragenden Prüfungslinien: Pflegekasse Verhinderungspflege und Kurzzeitpflege, Erfolgsaussicht in der PKH-Prüfung, Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `pflegekasse-verhinderungs-und-kurzzeitpflege` | Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage. |
 | `pkh-anwaltsbeiordnung-erfolgsaussicht` | Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt. |
 | `pkh-vor-sozialgericht-73a-sgg` | Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung. |
-| `rentenauskunft-und-versicherungsverlauf-pruefen` | Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig fuer EM-Rente Altersrente Witwenrente. Liefert Pruefraster. |
+| `rentenauskunft-und-versicherungsverlauf-pruefen` | Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster. |
 | `rentenkontenklaerung-149-sgb-vi` | Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Verfahren der Kontoklaerung Antrag Belege Schwerpunkte Schulzeit Wehrdienst Mutterschutz Erziehung Pflege Arbeitslosigkeit Auslandsarbeit. Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `pflegekasse-verhinderungs-und-kurzzeitpflege`
 
@@ -41,7 +41,6 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Verhinderungspflege § 39 SGB XI
 
 - Bei Verhinderung der Pflegeperson (Urlaub Krankheit) uebernimmt die Pflegekasse Vertretung.
@@ -51,7 +50,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 
 ## Kurzzeitpflege § 42 SGB XI
 
-- Stationaere Pflege fuer Uebergangszeit (z. B. nach Krankenhausentlassung Reha).
+- Stationaere Pflege für Uebergangszeit (z. B. nach Krankenhausentlassung Reha).
 - Dauer max. 8 Wochen pro Kalenderjahr.
 - Hoechstbetrag 1774 Euro/Jahr (2024 — verifizieren).
 
@@ -87,7 +86,6 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 PKH bekommt nicht jeder. Sie muessen "hinreichende Erfolgsaussicht" haben. Diese Skill zeigt, was das bedeutet und wie Sie Ihre Chancen verbessern.
@@ -114,7 +112,7 @@ Damit Sie Prozesskostenhilfe bekommen, muss Ihre Klage Aussicht haben. Wenn das 
 - **§ 114 ZPO** — Hinreichende Erfolgsaussicht, keine Mutwilligkeit.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bedeutet "hinreichende Erfolgsaussicht"?
 
@@ -128,14 +126,14 @@ Eine gute Klagebegruendung ueberzeugt das Gericht von der Erfolgsaussicht. Achte
 
 - **Tatsachen klar dargestellt**: Was wann passiert ist.
 - **Beweise benannt**: Atteste, Zeugen, Gutachten.
-- **Rechtsfehler der Behoerde aufgezeigt**: Punktgenau, nicht allgemein.
+- **Rechtsfehler der Behörde aufgezeigt**: Punktgenau, nicht allgemein.
 
 ### Schritt 3 — Typische Konstellationen
 
 **Klar gute Erfolgsaussicht**:
 
-- Mehrere Aerzte attestieren EM, Behoerde stuetzt sich auf altes Gutachten.
-- Sanktionsbescheid ohne Anhoerung (§ 24 SGB X).
+- Mehrere Aerzte attestieren EM, Behörde stuetzt sich auf altes Gutachten.
+- Sanktionsbescheid ohne Anhörung (§ 24 SGB X).
 - Pflegegrad mit klarem Pflegeprotokoll, MD-Gutachten 2 Jahre alt.
 
 **Mittlere Erfolgsaussicht**:
@@ -209,19 +207,18 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH fuer die Anwaltskosten wichtig.
+Wenn Sie sich keinen Anwalt leisten koennen, gibt es Prozesskostenhilfe (PKH). Der Staat zahlt Ihren Anwalt. Auch vor dem SG, wo das Verfahren ohnehin kostenfrei ist, ist PKH für die Anwaltskosten wichtig.
 
 ## In einfacher Sprache
 
-Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn fuer Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
+Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn für Sie. Das nennt man Prozesskostenhilfe. Sie muessen das beantragen und Belege zeigen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben wenig Einkommen und Vermoegen.
-- Sie wollen einen Anwalt fuer Ihr SG-Verfahren.
+- Sie wollen einen Anwalt für Ihr SG-Verfahren.
 - Sie haben Sorge, dass Anwaltskosten zu hoch werden.
 
 ## Fachbegriffe (kurz erklaert)
@@ -233,11 +230,11 @@ Sie haben wenig Geld. Sie brauchen einen Anwalt. Der Staat zahlt ihn fuer Sie. D
 
 ## Rechtsgrundlagen
 
-- **§ 73a SGG** — Prozesskostenhilfe-Bestimmungen fuer SG/LSG.
+- **§ 73a SGG** — Prozesskostenhilfe-Bestimmungen für SG/LSG.
 - **§§ 114 ff. ZPO** — Allgemeine PKH-Vorschriften.
 - **§ 117 ZPO** — PKH-Erklaerung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie wirtschaftlich PKH-berechtigt sind
 
@@ -250,9 +247,9 @@ Sicherheitsformel: Wer Buergergeld bekommt oder kurz drueber liegt, hat in der R
 ### Schritt 2 — Anwalt suchen
 
 - VdK oder SoVD als Mitglied: oft inklusive
-- Anwalt fuer Sozialrecht (Suche unter www.rechtsanwaltsregister.org)
+- Anwalt für Sozialrecht (Suche unter www.rechtsanwaltsregister.org)
 - "Beratungshilfe-Anwalt" beim Amtsgericht erfragen
-- Anwalt bekommen Sie schwerer fuer reine PKH-Mandate; lange Verhandlungen evtl. Anwaltskammer-Empfehlung
+- Anwalt bekommen Sie schwerer für reine PKH-Mandate; lange Verhandlungen evtl. Anwaltskammer-Empfehlung
 
 ### Schritt 3 — PKH-Antrag stellen
 
@@ -270,7 +267,7 @@ Antrag auf Prozesskostenhilfe gem. § 73a SGG i.V.m. §§ 114 ff. ZPO
 
 Ich beantrage:
 
-1. Mir wird Prozesskostenhilfe gewaehrt fuer das Verfahren wegen [Stichwort].
+1. Mir wird Prozesskostenhilfe gewaehrt für das Verfahren wegen [Stichwort].
 
 2. Mir wird Rechtsanwalt/Rechtsanwaeltin [Name, Adresse] als Prozessbevollmaechtigter beigeordnet.
 
@@ -352,7 +349,6 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 
 Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -363,7 +359,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 ## 4. `rentenauskunft-und-versicherungsverlauf-pruefen`
 
-**Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig fuer EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
+**Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
 
 # Rentenauskunft Und Versicherungsverlauf Pruefen
 
@@ -374,7 +370,6 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Rentenauskunft
 
@@ -423,7 +418,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 1. Aktuelle Rentenauskunft?
 2. Vollstaendigkeitscheck?
-3. Belege fuer Lueckhe?
+3. Belege für Lueckhe?
 4. Kontoklaerungsantrag?
 
 ## 5. `rentenkontenklaerung-149-sgb-vi`
@@ -439,7 +434,6 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Verfahren
 

@@ -7,24 +7,24 @@ description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**Klage Sozialgericht Laienhilfe Akteneinsicht** ordnet den Fall über die tragenden Prüffelder: Nach negativem Widerspruchsbescheid muss Klage zum, Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht, Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Klage Sozialgericht Laienhilfe Akteneinsicht** ordnet den Fall über die tragenden Prüfungslinien: Nach negativem Widerspruchsbescheid muss Klage zum, Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht, Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `klage-sozialgericht` | Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zuständigkeit § 8 SGG örtliche Zuständigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe). |
-| `laienhilfe-akteneinsicht-laie` | Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-arbeitslosengeld-sperrzeit` | Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-asylblg` | Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-akteneinsicht-laie` | Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-arbeitslosengeld-sperrzeit` | Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-asylblg` | Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `klage-sozialgericht`
 
@@ -39,7 +39,6 @@ description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Voraussetzungen
 
@@ -142,7 +141,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `laienhilfe-akteneinsicht-laie`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Akteneinsicht Laie
 
@@ -153,7 +152,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -166,7 +164,7 @@ Dieser Skill erklaert **Akteneinsicht Laie** so, dass auch Menschen ohne juristi
 - Akteneinsicht im Gerichtsverfahren: § 120 SGG – durch das Gericht; bei Bevollmaechtigtem auch Aktenversendung in dessen Buero.
 - Schwerbehindertenakten / medizinische Gutachten: § 25 Abs. 3 SGB X – ggf. eingeschraenkt; bei psychiatrischen Gutachten Recht auf Vermittlung durch Arzt, wenn Schaden droht.
 - Datenschutz Dritter: § 25 Abs. 3 SGB X – Daten Dritter koennen geschwaerzt werden.
-- Praxis-Tipp: Antrag schriftlich, mit Aktenzeichen und Angabe "zur Wahrnehmung rechtlicher Interessen". Bei Behoerde i.d.R. innerhalb 4 Wochen Reaktion. Bei Verzoegerung Untaetigkeitsmitteilung mit Frist. Akte vollstaendig kopieren lassen, weil im Widerspruchs-/Klageverfahren Akteneinsicht Grundlage jeder Stellungnahme ist.
+- Praxis-Tipp: Antrag schriftlich, mit Aktenzeichen und Angabe "zur Wahrnehmung rechtlicher Interessen". Bei Behörde i.d.R. innerhalb 4 Wochen Reaktion. Bei Verzoegerung Untaetigkeitsmitteilung mit Frist. Akte vollstaendig kopieren lassen, weil im Widerspruchs-/Klageverfahren Akteneinsicht Grundlage jeder Stellungnahme ist.
 
 ## Erst sortieren
 
@@ -211,7 +209,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -222,7 +219,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-arbeitslosengeld-sperrzeit`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Arbeitslosengeld Sperrzeit
 
@@ -233,7 +230,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -292,7 +288,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -303,7 +298,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-asylblg`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Asylblg
 
@@ -314,7 +309,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -364,7 +358,7 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
 ## AsylbLG - Themenspezifika
-- **Rechtsgrundlage:** Asylbewerberleistungsgesetz (AsylbLG); zustaendig: regelmaessig Sozialamt der Kommune; bei Aufnahmeeinrichtung Land. Klage zum Sozialgericht (§ 51 I Nr. 6a SGG).
+- **Rechtsgrundlage:** Asylbewerberleistungsgesetz (AsylbLG); zuständig: regelmaessig Sozialamt der Kommune; bei Aufnahmeeinrichtung Land. Klage zum Sozialgericht (§ 51 I Nr. 6a SGG).
 - **Personenkreis § 1 AsylbLG:** Asylbewerber, Geduldete (§ 60a AufenthG), Personen mit Aufenthaltsgestattung, vollziehbar Ausreisepflichtige.
 - **Leistungsstufen:**
  - **Grundleistungen § 3 AsylbLG** in den ersten 36 Monaten (regelmaessig Sachleistungen oder Geldleistungen, ergaenzende Leistungen Bildung-und-Teilhabe wie SGB II).
@@ -374,7 +368,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Sonderleistungen § 6 AsylbLG:** "im Einzelfall geboten" - z. B. Hilfsmittel, Kinderwagen, Winterkleidung; Ermessensentscheidung.
 - **Eilrechtsschutz § 86b II SGG** zwingend bei Kuerzung Grundleistung oder Verweigerung medizinisch dringender Behandlung.
 - **Praxis-Tipp:** Dolmetscher zwingend einplanen; bei Sprachbarriere § 19 SGB X (Recht auf Verstaendnis); Beratungsstellen Diakonie/Caritas/Wohlfahrtsverbaende einbinden.
-
 
 ## Qualitäts-Hardening
 

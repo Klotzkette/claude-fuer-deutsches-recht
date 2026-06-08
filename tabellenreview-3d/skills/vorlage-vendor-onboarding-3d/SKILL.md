@@ -5,7 +5,6 @@ description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Ve
 
 # /tabellenreview-3d:vorlage-vendor-onboarding-3d
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Ve
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

@@ -1,35 +1,21 @@
 ---
 name: inventar-kontrollen-konformitaetsbewertung
-description: "Inventar Kontrollen Konformitaetsbewertung im KI-Governance: prüft konkret KI-Inventar, Governance und Kontrollen, Konformitaetsbewertung, Marketing. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "KI-Inventar, Governance und Kontrollen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Ki Governance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Inventar Kontrollen Konformitaetsbewertung
+# KI-Inventar, Governance und Kontrollen
 
 ## Arbeitsbereich
 
-**Inventar Kontrollen Konformitaetsbewertung** ordnet den Fall über die tragenden Prüffelder: KI-Inventar, Governance und Kontrollen, Konformitaetsbewertung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `spezial-ki-inventar-governance-und-kontrollen` | KI-Inventar, Governance und Kontrollen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-konformitaetsbewertung-red-team-und-qualitaetskontrolle` | Konformitaetsbewertung: Red-Team und Qualitätskontrolle im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-marketing-mandantenkommunikation-entscheidungsvorlage` | Marketing: Mandantenkommunikation und Entscheidungsvorlage im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+KI-Inventar, Governance und Kontrollen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im KI-Governance klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `spezial-ki-inventar-governance-und-kontrollen`
-
-**Fokus:** KI-Inventar, Governance und Kontrollen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
-
-# KI-Inventar, Governance und Kontrollen
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `ki-governance`. Kontext des Plugins: EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
@@ -86,124 +72,3 @@ Schlankes Inventar (Tabelle) ist schnell aufgesetzt, aber ohne Lebenszyklus- und
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 2. `spezial-konformitaetsbewertung-red-team-und-qualitaetskontrolle`
-
-**Fokus:** Konformitaetsbewertung: Red-Team und Qualitätskontrolle im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Konformitaetsbewertung: Red-Team und Qualitätskontrolle
-
-## Spezialwissen: Konformitaetsbewertung: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Konformitaetsbewertung: Red-Team und Qualitätskontrolle / konformitaetsbewertung red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Konformitätsbewertung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Konformitätsbewertungsverfahren KI-VO (Art. 43)
-- **Anhang VI — Interne Kontrolle**: Standardverfahren für die meisten Hochrisiko-KI-Systeme nach Anhang III, sofern harmonisierte Normen vollständig angewendet werden.
-- **Anhang VII — Bewertung mit benannter Stelle**: für biometrische Identifikationssysteme nach Anhang III Nr. 1 lit. a, wenn keine harmonisierten Normen vollständig angewendet werden — oder freiwillig.
-- **Konformitätsbewertung im Zuge anderer Unionsrechtsakte**: Wenn das KI-System Sicherheitsbauteil eines Produkts nach Anhang I ist (Medizinprodukt MDR, Maschine MaschinenVO etc.), wird die KI-VO-Bewertung in die bestehende Konformitätsbewertung integriert (Art. 43 Abs. 3).
-
-## Pflichtdokumentation
-- **Technische Dokumentation** Art. 11 i. V. m. Anhang IV: Systembeschreibung, Designspezifikationen, Trainingsdatenbeschreibung, Risikomanagement, Monitoring, Cybersicherheit.
-- **Logging-Architektur** Art. 12: Aufzeichnungen über Lebenszyklus, Zweck-Erreichung, Identifikation problematischer Verhaltensweisen.
-- **EU-Konformitätserklärung** Art. 47 i. V. m. Anhang V: 10 Jahre Aufbewahrung, Inhalt vorgeschrieben.
-- **CE-Kennzeichnung** Art. 48 und **EU-Datenbankregistrierung** Art. 49 / 71 (Anhang VIII).
-
-## Red-Team-Prüfungen
-- **Robustheit**: adversariale Beispiele, Eingabestörungen, Edge Cases.
-- **Bias / Fairness**: Tests über Untergruppen (Geschlecht, Alter, ethnische Herkunft, Region), Disparate-Impact-Analyse.
-- **Cybersicherheit**: Prompt-Injection (bei LLM-basierten Systemen), Model Inversion, Membership Inference.
-- **Datenleckage**: Aus Antworten rekonstruierbare Trainingsdaten (insb. bei Foundation Models).
-
-## Qualitätskontrolle
-- **Pre-Deployment**: vollständiger Konformitätsbewertungsbericht, abgenommen durch Compliance.
-- **Pilotphase**: vorgesehene Stichprobe mit verstärktem Logging und Human Override.
-- **Produktion**: Monitoring nach Art. 72 KI-VO (Marktbeobachtung durch Anbieter), Vorfallsmeldung nach Art. 73.
-- **Substantielle Änderung**: bei Modellaktualisierung mit Performance-Verschiebung neue Bewertung nach Art. 43 Abs. 4.
-
-## Trade-off
-Interne Kontrolle (Anhang VI) ist günstiger und schneller, scheitert aber bei nicht-harmonisierten Aspekten. Beauftragung benannter Stelle (Anhang VII) gibt Rechtssicherheit, kostet Zeit (Wartezeit, Auditdurchläufe) und Geld; ist für Markteintritt sensibler Systeme aber empfehlenswert. Hybride Strategie: Anhang VI mit zusätzlichem freiwilligem externem Audit zur Vertrauensbildung.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 3. `spezial-marketing-mandantenkommunikation-entscheidungsvorlage`
-
-**Fokus:** Marketing: Mandantenkommunikation und Entscheidungsvorlage im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Marketing: Mandantenkommunikation und Entscheidungsvorlage
-
-## Spezialwissen: Marketing: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Marketing: Mandantenkommunikation und Entscheidungsvorlage / marketing mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Marketing-KI** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Mandantenkommunikation Marketing-KI
-- **Sachstand:** Welches Marketing-Tool nutzt KI? Welche Funktion (Personalisierung, Predictive Targeting, Lookalike, dynamische Anzeigen, Chatbot)?
-- **Rechtsrahmen:**
- - **DSGVO**: Art. 6 Rechtsgrundlage (oft Einwilligung Art. 6 Abs. 1 lit. a oder berechtigtes Interesse Art. 6 Abs. 1 lit. f); Art. 22 bei automatisierten Entscheidungen.
- - **TDDDG § 25**: Einwilligung bei Endgerätezugriff (Cookies, Tracking-Pixel) — zwingend vor der Verarbeitung.
- - **KI-VO Art. 50**: Transparenzpflicht bei KI-generierten Inhalten (z. B. Deepfakes), bei Chatbots klare Information.
- - **UWG §§ 5, 5a**: Irreführungsverbot — KI-Empfehlungen müssen als solche erkennbar sein.
-- **Risiken:** Bußgelder DSGVO (4 %), KI-VO (3-7 %), UWG-Abmahnungen.
-- **Empfehlung:** Transparenz-First-Strategie; klare Kennzeichnung, dokumentierte LIA, Opt-Out-Mechanismus.
-
-## Praxis-Tipp
-KI-generierte Werbung muss nach Art. 50 KI-VO als solche gekennzeichnet sein — sonst riskieren Marketingteams sowohl KI-VO-Sanktion als auch UWG-Abmahnung wegen Irreführung. Empfehlung: standardisierter Kennzeichnungs-im DAM/CMS einrichten, nicht ad hoc.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

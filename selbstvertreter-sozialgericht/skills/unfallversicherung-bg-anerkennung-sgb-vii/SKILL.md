@@ -13,7 +13,7 @@ description: "Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunf
 
 ## Worum geht es?
 
-Wenn Sie bei der Arbeit oder auf dem Weg dahin verletzt werden, ist die Berufsgenossenschaft (BG) zustaendig. Auch bei Berufskrankheiten. Wenn die BG die Anerkennung verweigert, gehen Sie zum SG.
+Wenn Sie bei der Arbeit oder auf dem Weg dahin verletzt werden, ist die Berufsgenossenschaft (BG) zuständig. Auch bei Berufskrankheiten. Wenn die BG die Anerkennung verweigert, gehen Sie zum SG.
 
 ## In einfacher Sprache
 
@@ -43,7 +43,7 @@ Sie hatten einen Arbeitsunfall. Oder eine Berufskrankheit. Die Berufsgenossensch
 - **§ 27 SGB VII** — Heilbehandlung.
 - **Berufskrankheiten-Verordnung (BKV)** — Liste der anerkannten BKs.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Arbeitsunfall pruefen
 
@@ -61,7 +61,7 @@ Wichtig: Auch Wegeunfaelle sind erfasst (§ 8 Abs. 2 Nr. 1 SGB VII).
 Es muss:
 
 - Eine in der BKV gelistete Krankheit sein (oder "Wie-BK" nach § 9 Abs. 2 SGB VII), und
-- Berufliche Belastung dafuer ursaechlich gewesen sein.
+- Berufliche Belastung dafür ursaechlich gewesen sein.
 
 Bekannte BKs:
 
@@ -112,7 +112,7 @@ Mit freundlichen Gruessen
 
 ### Schritt 5 — Klage am SG
 
-Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispiel: BG Holz und Metall hat Sitz Mainz — Klage geht ans SG Mainz.
+Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispiel: BG Holz und Metall hat Sitz Mainz — Klage geht ans SG Mainz.
 
 ### Schritt 6 — Im Verfahren
 
@@ -138,7 +138,7 @@ Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispi
 ## Typische Fehler
 
 - D-Arzt nicht aufgesucht → Beweisnot
-- Verspaetete BK-Anzeige → Verjaehrung beachten (4 Jahre nach Kenntnis)
+- Verspaetete BK-Anzeige → Verjährung beachten (4 Jahre nach Kenntnis)
 - Privater Arzt-Behandlung statt BG-Wege → Erstattung gefaehrdet
 - Wegeunfall-Definition (Umweg, Unterbrechung) zu locker
 
@@ -153,7 +153,6 @@ Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispi
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris pruefen.
-
 
 ## Qualitäts-Hardening
 

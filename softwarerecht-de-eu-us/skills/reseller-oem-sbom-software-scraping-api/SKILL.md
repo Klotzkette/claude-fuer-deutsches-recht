@@ -1,43 +1,25 @@
 ---
 name: reseller-oem-sbom-software-scraping-api
-description: "Reseller OEM Sbom Software Scraping API im Softwarerecht (DE/EU/US): prüft konkret Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Erstellt SBOM- und Software-Composition-Workflows für OSS. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Reseller OEM Sbom Software Scraping API
+# Reseller OEM VAR
 
 ## Arbeitsbereich
 
-**Reseller OEM Sbom Software Scraping API** ordnet den Fall über die tragenden Prüffelder: Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `reseller-oem-var` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette. |
-| `sbom-software-composition` | Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A. |
-| `scraping-api-terms` | Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use. |
-| `secure-development-contract` | Entwirft Security-by-Design-Pflichten in Entwicklungsverträgen: SSDLC, threat modeling, secure coding, tests und remediation. |
+Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Softwarerecht De Eu Us klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: UrhG §§ 69a-g, BGB §§ 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `reseller-oem-var`
-
-**Fokus:** Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette.
-
-# Reseller OEM VAR
 
 ## Fachkern: Reseller OEM VAR
-- **Spezialgegenstand:** Reseller OEM VAR wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -75,178 +57,6 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 - Wie werden Endkundenbedingungen wirksam einbezogen?
 
 **Mindest-Output:** Channel-Vertragsmatrix mit Rollen, Rechten, Endkundenbedingungen und Haftung.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 2. `sbom-software-composition`
-
-**Fokus:** Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A.
-
-# SBOM Software Composition
-
-## Fachkern: SBOM Software Composition
-- **Spezialgegenstand:** SBOM Software Composition wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **SBOM Software Composition** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SPDX/CycloneDX
-- CRA
-- NIS-2
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Build-Systeme und Package Manager liefern verlässliche Komponentenlisten?
-- Sind transitive dependencies, containers, firmware und dev dependencies getrennt?
-- Welche Lizenz-, CVE- und provenance-Daten sind exportfähig?
-- Wie wird SBOM als Vertragsanlage oder Compliance-Artefakt versioniert?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Build-Systeme und Package Manager liefern verlässliche Komponentenlisten?
-- Sind transitive dependencies, containers, firmware und dev dependencies getrennt?
-- Welche Lizenz-, CVE- und provenance-Daten sind exportfähig?
-- Wie wird SBOM als Vertragsanlage oder Compliance-Artefakt versioniert?
-
-**Mindest-Output:** SBOM-Arbeitsplan mit Formaten, Tools, Verantwortlichen und Release-Gate.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 3. `scraping-api-terms`
-
-**Fokus:** Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use.
-
-# Scraping und API Terms
-
-## Fachkern: Scraping und API Terms
-- **Spezialgegenstand:** Scraping und API Terms wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Scraping und API Terms** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- BGB/AGB
-- UrhG Datenbankrecht
-- CFAA/DMCA bei US-Bezug
-- DSA/Data Act je Fall
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Quelle, Terms, robots, rate limits und technische Schutzmaßnahmen gibt es?
-- Welche Daten sind personenbezogen, geschützt, öffentlich oder vertragsgebunden?
-- Ist Nutzung training, monitoring, interoperability, search oder Konkurrenzprodukt?
-- Welche technische Schonung und Legal Review minimieren Risiko?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Quelle, Terms, robots, rate limits und technische Schutzmaßnahmen gibt es?
-- Welche Daten sind personenbezogen, geschützt, öffentlich oder vertragsgebunden?
-- Ist Nutzung training, monitoring, interoperability, search oder Konkurrenzprodukt?
-- Welche technische Schonung und Legal Review minimieren Risiko?
-
-**Mindest-Output:** Scraping-Risikomatrix mit Quelle, Terms, Daten, Zweck und No-Go-Liste.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 4. `secure-development-contract`
-
-**Fokus:** Entwirft Security-by-Design-Pflichten in Entwicklungsverträgen: SSDLC, threat modeling, secure coding, tests und remediation.
-
-# Secure Development Contract
-
-## Fachkern: Secure Development Contract
-- **Spezialgegenstand:** Secure Development Contract wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Secure Development Contract** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- CRA
-- NIS-2
-- ISO/SOC nur wenn vereinbart
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Security-Anforderungen sind deliverable und prüfbar?
-- Wer macht threat modeling, code scanning, dependency updates und penetration tests?
-- Welche vulnerabilities blockieren Abnahme oder Release?
-- Wie werden disclosure, patch windows und support geregelt?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Security-Anforderungen sind deliverable und prüfbar?
-- Wer macht threat modeling, code scanning, dependency updates und penetration tests?
-- Welche vulnerabilities blockieren Abnahme oder Release?
-- Wie werden disclosure, patch windows und support geregelt?
-
-**Mindest-Output:** Secure-Development-Klauselpaket mit SSDLC, Tests, Akzeptanz und Patchpflichten.
 
 ## Qualitäts- und Risikofilter
 

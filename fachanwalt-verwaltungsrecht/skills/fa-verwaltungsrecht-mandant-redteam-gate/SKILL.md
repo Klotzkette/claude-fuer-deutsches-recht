@@ -7,10 +7,10 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 
 ## Arbeitsbereich
 
-**FA Verwaltungsrecht Mandant Redteam Gate** ordnet den Fall über die tragenden Prüffelder: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen (Wind. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**FA Verwaltungsrecht Mandant Redteam Gate** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen (Wind. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -18,12 +18,12 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verwaltungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -125,7 +125,7 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geotherm
 6. Welche Gutachten existieren bereits — Schallgutachten, saP, Schattenwurf, UVP-Bericht?
 7. Wurde Sofortvollzug angeordnet — Eilantrag nach § 80 Abs. 5 VwGO erforderlich?
 8. Sind Verbandseinwendungen oder eine UmwRG-Klage bereits eingeleitet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -214,9 +214,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — BImSchG-Genehmigungsverfahren begleiten | Verfahrensbegleitung nach Pruefschema; Schriftsatz unten |
-| Variante A — Genehmigung fuer Drittbetroffene anfechten | Anfechtungsklage VwGO statt Verfahrensbegleitung |
+| Variante A — Genehmigung für Drittbetroffene anfechten | Anfechtungsklage VwGO statt Verfahrensbegleitung |
 | Variante B — Foermliches Genehmigungsverfahren nicht noetig | Anzeigeverfahren § 15 BImSchG als Alternative pruefen |
-| Variante C — Behoerde zoegert Untaetigkeit moegliche Alternative | Untaetigkeitsklage § 75 VwGO vorbereiten bei Verzoegerung |
+| Variante C — Behörde zoegert Untaetigkeit moegliche Alternative | Untaetigkeitsklage § 75 VwGO vorbereiten bei Verzoegerung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -364,7 +364,7 @@ Wir bitten um Mitteilung des frühesten Termins für die Einsicht.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

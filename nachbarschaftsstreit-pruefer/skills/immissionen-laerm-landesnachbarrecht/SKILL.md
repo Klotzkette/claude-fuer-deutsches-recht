@@ -1,35 +1,21 @@
 ---
 name: immissionen-laerm-landesnachbarrecht
-description: "Immissionen Laerm Landesnachbarrecht im Nachbarschaftsstreit: prüft konkret Nachbarliche Immissionen prüfen, Bundesland-Router für Landesnachbarrecht, Spezialfall Grenzbebauung und Ueberhang § 910 BGB /. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Nachbarliche Immissionen prüfen: Lärm, Geruch, Rauch, Grill, Kamin, Licht, Erschütterung, § 906 BGB, Wesentlichkeit, Ortsüblichkeit, Richtwerte, Duldung, Unterlassung, Ausgleich und Beweissicherung im Nachbarschaftsstreit Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Immissionen Laerm Landesnachbarrecht
+# Immissionen: Lärm, Geruch, Rauch, Licht
 
 ## Arbeitsbereich
 
-**Immissionen Laerm Landesnachbarrecht** ordnet den Fall über die tragenden Prüffelder: Nachbarliche Immissionen prüfen, Bundesland-Router für Landesnachbarrecht, Spezialfall Grenzbebauung und Ueberhang § 910 BGB /. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `immissionen-laerm-geruch-rauch-licht` | Nachbarliche Immissionen prüfen: Lärm, Geruch, Rauch, Grill, Kamin, Licht, Erschütterung, § 906 BGB, Wesentlichkeit, Ortsüblichkeit, Richtwerte, Duldung, Unterlassung, Ausgleich und Beweissicherung. |
-| `landesnachbarrecht-router` | Bundesland-Router für Landesnachbarrecht: Einfriedung, Pflanzenabstände, Hammerschlagsrecht, Nachbarwand, Fenster/Licht, Ausschlussfristen, kommunale Satzungen und Recherchebedarf je Land identifizieren. |
-| `nach-grenzbebauung-ueberhang-spezial` | Spezialfall Grenzbebauung und Ueberhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Pruefraster fuer Eigentuemer und Mieter. |
+Nachbarliche Immissionen prüfen: Lärm, Geruch, Rauch, Grill, Kamin, Licht, Erschütterung, § 906 BGB, Wesentlichkeit, Ortsüblichkeit, Richtwerte, Duldung, Unterlassung, Ausgleich und Beweissicherung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Nachbarschaftsstreit klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BGB § 906 Abs. 2 S. 2 nachbarrechtlicher Ausgleichsanspruch § 195 BGB 3 Jahre, NachbG-Anzeigefristen variieren (z. B. NRW § 7 Grenzwand 6 Wochen), § 15a EGZPO Schlichtung obligatorisch.
 - Tragende Normen verifizieren: BGB §§ 903, 906, 1004, 910, 912, 917, 921, 922, NachbG (Landesnachbarrechtsgesetze), BImSchG, BauO Land, BNatSchG (Bäume), Schlichtungsgesetze der Länder (z. B. § 15a EGZPO BW) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schlichtungsantrag, Klage AG, Lichtbilder, Lärm-/Geruchsprotokoll, Sachverständigengutachten, Anwaltsschreiben, Vermessungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `immissionen-laerm-geruch-rauch-licht`
-
-**Fokus:** Nachbarliche Immissionen prüfen: Lärm, Geruch, Rauch, Grill, Kamin, Licht, Erschütterung, § 906 BGB, Wesentlichkeit, Ortsüblichkeit, Richtwerte, Duldung, Unterlassung, Ausgleich und Beweissicherung.
-
-# Immissionen: Lärm, Geruch, Rauch, Licht
 
 ## Zweck
 
@@ -72,10 +58,9 @@ Prüfe:
 
 - Streitstrang mit Anspruchsrichtung.
 - Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
+- Risiko für Mandant und Gegenseite.
 - Deeskalierender naechster Schritt.
 - Gerichtlicher naechster Schritt, falls Vergleich scheitert.
-
 
 ## Qualitäts-Hardening
 
@@ -84,119 +69,3 @@ Prüfe:
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `landesnachbarrecht-router`
-
-**Fokus:** Bundesland-Router für Landesnachbarrecht: Einfriedung, Pflanzenabstände, Hammerschlagsrecht, Nachbarwand, Fenster/Licht, Ausschlussfristen, kommunale Satzungen und Recherchebedarf je Land identifizieren.
-
-# Landesnachbarrecht-Router
-
-## Zweck
-
-Nachbarrecht ist föderal. Dieser Skill verhindert, dass ein NRW-Zaunfall mit Berliner, bayerischen oder hessischen Regeln gelöst wird.
-
-## Vorgehen
-
-1. Bundesland feststellen.
-2. Gemeinde und Lage klären.
-3. Streitgegenstand landesrechtlich einordnen:
- - Einfriedung,
- - Grenzabstände für Pflanzen,
- - Nachbarwand/Grenzwand,
- - Hammerschlags- und Leiterrecht,
- - Fenster-/Lichtrechte,
- - Aufschichtungen,
- - Ausschlussfristen.
-4. Kommunale Satzungen prüfen:
- - Baumschutzsatzung,
- - Bebauungsplan,
- - Gestaltungssatzung,
- - Vorgartensatzung,
- - Baumschutz-/Naturschutzregelungen.
-
-## Output
-
-- Landesrecht-Checkliste.
-- Rechercheauftrag mit konkreten Fundstellen.
-- Normenmatrix: Bundesrecht / Landesrecht / Kommunalrecht / öffentliches Baurecht.
-
-## Beispiel NRW
-
-Für Nordrhein-Westfalen sind insbesondere das Nachbarrechtsgesetz NRW, Einfriedungsvorschriften und Pflanzenabstände zu prüfen. Konkrete Normen immer am aktuellen amtlichen Landesrecht abgleichen.
-
-## Schneller Arbeitsmodus
-
-- Frage zuerst nach Bundesland, Grundstuecksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation.
-- Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich.
-- Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverstaendig geklaert werden muss.
-- Priorisiere befriedende Loesungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
-
-## Ausgabeformat
-
-- Streitstrang mit Anspruchsrichtung.
-- Benötigte Beweise.
-- Risiko fuer Mandant und Gegenseite.
-- Deeskalierender naechster Schritt.
-- Gerichtlicher naechster Schritt, falls Vergleich scheitert.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `nach-grenzbebauung-ueberhang-spezial`
-
-**Fokus:** Spezialfall Grenzbebauung und Ueberhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Pruefraster fuer Eigentuemer und Mieter.
-
-# Nach: Grenzbebauung Ueberhang
-
-## Spezialwissen: Nach: Grenzbebauung Ueberhang
-- **Spezialgegenstand:** Nach: Grenzbebauung Ueberhang / nach grenzbebauung ueberhang spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BGB.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

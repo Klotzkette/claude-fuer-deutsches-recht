@@ -7,25 +7,25 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 
 ## Arbeitsbereich
 
-**Richterstaat Risikomatrix Richtlinienkonforme** ordnet den Fall über die tragenden Prüffelder: Dieses Skill erstellt eine strukturierte Risikomatrix für, in denen, Dieses Skill behandelt die Pflicht zur richtlinienkonformen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Richterstaat Risikomatrix Richtlinienkonforme** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill erstellt eine strukturierte Risikomatrix für, in denen, Dieses Skill behandelt die Pflicht zur richtlinienkonformen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `richterstaat-risikomatrix` | Dieses Skill erstellt eine strukturierte Risikomatrix für Sachverhalte, in denen richterliche Rechtsfortbildung oder Ermessen erhebliche Rechtsunsicherheit erzeugt. Es bewertet das Risiko einer richtungsändernden Rechtsprechung, identifiziert Einflussfaktoren auf Gerichte und hilft Mandanten, strategische Entscheidungen unter Berücksichtigung richterlicher Gestaltungsmacht zu treffen. Dabei werden verfassungsrechtliche Grenzen des Richterstaats methodisch einbezogen. |
 | `richtlinienkonforme-auslegung-grenzen` | Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen Staatshaftungsansprüche oder eine Vorabentscheidung nach Art. 267 AEUV in Betracht kommen. Besonderes Gewicht liegt auf der Abgrenzung richtlinienkonformer Auslegung von verdeckter Rechtsfortbildung. |
 | `rueckwirkung-und-ueberraschende-rechtsfortbildung` | Prueft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer Auslegung oder Rechtsfortbildung im Zivilrecht mit Art. 20 Abs. 3 GG, Dispositionsschutz und Prozessstrategie. |
 | `sachverhalt-als-wertungsprodukt` | Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kein neutraler Beschreibungsakt ist, sondern ein wertungsgeleiteter Auswahlprozess. Es trainiert die Fähigkeit, implizite Wertungen bei der Sachverhaltserhebung zu erkennen, rechtlich relevante Tatsachen von irrelevanten zu trennen und den Sachverhalt so zu strukturieren, dass er die methodisch korrekte Subsumtion ermöglicht. Dabei werden Perspektiven von Mandant und Gericht methodisch gegenübergestellt und Selektionsfehler systematisch vermieden. |
-| `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest fuer jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills fuer Wortlaut, System, Historie und Telos. |
+| `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest für jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills für Wortlaut, System, Historie und Telos. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `richterstaat-risikomatrix`
 
@@ -40,7 +40,6 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Der Begriff "Richterstaat" bezeichnet Situationen, in denen Gerichte faktisch rechtsgestaltend tätig werden und Rechtssicherheit durch Einzelfallentscheidungen ersetzt wird. Für die anwaltliche Praxis ist es entscheidend, dieses Risiko systematisch zu erfassen und Mandanten handlungsfähig zu halten. Dieses Skill liefert eine methodische Risikomatrix, die judizielle Gestaltungsmacht einpreist.
 
@@ -135,7 +134,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Die richtlinienkonforme Auslegung ist das zentrale Instrument zur Integration des EU-Sekundärrechts in das nationale Privatrecht. Sie verpflichtet Gerichte, nationales Recht so auszulegen, dass es dem Ziel einer EU-Richtlinie entspricht — doch dies darf nicht zu einer Auslegung contra legem führen. Dieses Skill systematisiert Anwendungsbereich, Reichweite und Grenzen dieser Methodik für die tägliche Praxis.
 
 ## Mandantenfall
@@ -227,10 +225,9 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Einsatz
 
-Dieses Fachmodul greift, wenn eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
+Anwendungsfall: eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
 
 ## Prüfroutine
 
@@ -270,7 +267,6 @@ Erstelle eine Chronologie mit Vertrauensschutzampel und einem Schriftsatzbaustei
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Jede Sachverhaltsdarstellung enthält implizite Wertungen: Welche Tatsachen werden aufgenommen? Welche Formulierungen wählt man? Welche Kausalverläufe werden als relevant eingestuft? Dieses Skill macht diese Wertungsebene sichtbar und lehrt, Sachverhalte methodisch sauber zu erfassen, ohne die rechtliche Analyse durch unbewusste Vorentscheidungen zu präjudizieren.
 
@@ -351,7 +347,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `savigny-vier-auslegungsmethoden`
 
-**Fokus:** Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest fuer jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills fuer Wortlaut, System, Historie und Telos.
+**Fokus:** Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest für jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills für Wortlaut, System, Historie und Telos.
 
 # Savigny und der Vierer-Kanon der Auslegung
 
@@ -363,10 +359,9 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Friedrich Carl von Savigny (1779-1861) hat im ersten Band des "System des heutigen Roemischen Rechts" (Berlin 1840) die vier klassischen Auslegungselemente formuliert, die bis heute das Geruest jeder juristischen Auslegung in Deutschland bilden. Diese Skill ist die Eingangstuer fuer alle Auslegungsfragen: Sie ordnet die vier Elemente, klaert ihr Verhaeltnis und verweist auf die spezialisierten Skills fuer jede einzelne Methode.
+Friedrich Carl von Savigny (1779-1861) hat im ersten Band des "System des heutigen Roemischen Rechts" (Berlin 1840) die vier klassischen Auslegungselemente formuliert, die bis heute das Geruest jeder juristischen Auslegung in Deutschland bilden. Diese Skill ist die Eingangstuer für alle Auslegungsfragen: Sie ordnet die vier Elemente, klaert ihr Verhaeltnis und verweist auf die spezialisierten Skills für jede einzelne Methode.
 
 Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, sondern von "Elementen" einer einheitlichen Auslegung, die zusammen wirken. Erst die Spaetrezeption hat daraus den modernen Kanon der vier Auslegungsmethoden gemacht.
 
@@ -389,7 +384,7 @@ Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, 
 3. Historisches Element (Zustand des Rechts zur Zeit des Gesetzes, Wirkung des Gesetzes auf den Zustand).
 4. Systematisches Element (Verbindung zu allen Rechtsinstituten und Rechtsregeln in einem grossen Ganzen).
 
-Das spaeter ergaenzte teleologische Element gehoert nicht zu Savignys urspruenglicher Vierer-Liste, sondern wurde insbesondere durch Rudolf von Jhering (1818-1892, "Der Zweck im Recht", 1877-1883) und spaeter die Interessen- und Wertungsjurisprudenz nachgeschoben. Heute werden Savignys "logisches" und "systematisches" Element zur systematischen Auslegung zusammengefasst, dafuer steht die teleologische Auslegung neben den anderen drei.
+Das spaeter ergaenzte teleologische Element gehoert nicht zu Savignys urspruenglicher Vierer-Liste, sondern wurde insbesondere durch Rudolf von Jhering (1818-1892, "Der Zweck im Recht", 1877-1883) und spaeter die Interessen- und Wertungsjurisprudenz nachgeschoben. Heute werden Savignys "logisches" und "systematisches" Element zur systematischen Auslegung zusammengefasst, dafür steht die teleologische Auslegung neben den anderen drei.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -402,9 +397,9 @@ Beispiel § 433 BGB (Kaufvertrag):
 - **Historie:** Gesetzesmaterialien des BGB von 1900, Schuldrechtsmodernisierung 2002 (BT-Drs. 14/6040).
 - **Telos:** Synallagmatische Verknuepfung von Sach- und Geldleistung, Erfuellungs- und Gewaehrleistungsfunktion.
 
-Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck ergibt; vgl. fuer den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
+Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird der Auslegung der Norm derjenige Sinn entnommen, der dem objektivierten Willen des Gesetzgebers entspricht, wie er sich aus dem Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck ergibt; vgl. für den verfassungsrechtlichen Parallelfall BVerfGE 11, 126 (130 ff.) "Nachkonstitutioneller Bestaetigungswille" (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2011%2C%20126).
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Norm und Streitfrage benennen.** Welche Tatbestandsmerkmale sind streitig?
 2. **Wortlaut pruefen** (siehe Skill `wortlaut-grammatikalische-auslegung`). Allgemein- oder Fachsprache? Wortlaut-Grenze beachten.

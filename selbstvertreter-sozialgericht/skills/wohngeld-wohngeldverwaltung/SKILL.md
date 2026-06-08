@@ -15,8 +15,8 @@ description: "Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzu
 
 § 3 WoGG:
 
-- Mietzuschuss fuer Mieter.
-- Lastenzuschuss fuer Eigentuemer.
+- Mietzuschuss für Mieter.
+- Lastenzuschuss für Eigentuemer.
 
 ## Voraussetzungen
 

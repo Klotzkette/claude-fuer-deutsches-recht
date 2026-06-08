@@ -1,39 +1,40 @@
 ---
 name: interessenkollision-mehrfachvertretung
-description: "Interessenkollision Mehrfachvertretung im Berufsrecht der Anwälte: prüft konkret Anwälte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Interessenkollision Mehrfachvertretung
+# Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
 ## Arbeitsbereich
 
-**Interessenkollision Mehrfachvertretung** ordnet den Fall über die tragenden Prüffelder: Anwälte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `anwaelte-interessenkollision-bei-mehrfachvertretung-kammerantwo` | Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `anwaelte-interessenkollision-bei-mehrfachvertretung-organisatio` | Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `anwaelte-interessenkollision-bei-mehrfachvertretung-rechtsprech` | Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `anwaelte-internationales-mandat-und-geheimnisschutz-kammerantwo` | Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Berufsrecht Anwaelte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `anwaelte-interessenkollision-bei-mehrfachvertretung-kammerantwo`
-
-**Fokus:** Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
 ## Konkreter Berufsrechtskern: Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Anwälte: interessenkollision bei mehrfachvertretung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
 - **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
 - **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
 - **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
@@ -61,135 +62,15 @@ description: "Interessenkollision Mehrfachvertretung im Berufsrecht der Anwälte
 - Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
 - Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
 
-## Output
 
-Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
+## Normen & Rechtsprechung
 
-## Quellenhygiene
+Konkret zu prüfen:
 
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 2. `anwaelte-interessenkollision-bei-mehrfachvertretung-organisatio`
-
-**Fokus:** Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-
-## Konkreter Berufsrechtskern: Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-- **Spezialgegenstand:** Anwälte: interessenkollision bei mehrfachvertretung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
-- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
-- **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 3. `anwaelte-interessenkollision-bei-mehrfachvertretung-rechtsprech`
-
-**Fokus:** Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
-- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
-- **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 4. `anwaelte-internationales-mandat-und-geheimnisschutz-kammerantwo`
-
-**Fokus:** Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
-- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, ZPO/StPO-Schnittstellen, Kammerhinweise und Anwaltsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
+- § 43a Abs. 4 BRAO
+- § 3 BORA
+- § 356 StGB (Parteiverrat)
+- BGH NJW 2008, 1591
 ## Output
 
 Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.

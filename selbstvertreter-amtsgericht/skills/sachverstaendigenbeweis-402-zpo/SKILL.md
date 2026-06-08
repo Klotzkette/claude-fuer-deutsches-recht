@@ -20,7 +20,7 @@ Wenn es um eine technische, medizinische oder andere Fachfrage geht (Reparaturko
 - **Sachverstaendiger**: Vom Gericht beauftragte Person mit besonderer Fachkunde.
 - **Privatgutachten**: Vom Klaeger/Beklagten in eigener Initiative eingeholtes Gutachten.
 - **Gerichtsgutachten**: Vom Gericht beauftragtes Gutachten.
-- **Vorschuss**: Vorab zu zahlende Kosten fuer die Beauftragung.
+- **Vorschuss**: Vorab zu zahlende Kosten für die Beauftragung.
 
 ## Rechtsgrundlagen
 
@@ -29,9 +29,9 @@ Wenn es um eine technische, medizinische oder andere Fachfrage geht (Reparaturko
 - **§ 404 ZPO** — Auswahl des Sachverstaendigen.
 - **§ 17 GKG** — Vorschuss.
 - **§ 411 ZPO** — Schriftliches Gutachten.
-- **§ 412 ZPO** — Anhoerung im Termin.
+- **§ 412 ZPO** — Anhörung im Termin.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sachverstaendiger noetig
 
@@ -54,7 +54,7 @@ Beispiele:
 Beweisantrag (§ 402 ZPO):
 
 Es wird beantragt, ein schriftliches Sachverstaendigen-
-Gutachten einzuholen zum Beweis dafuer, dass die
+Gutachten einzuholen zum Beweis dafür, dass die
 Reparaturkosten des Fahrzeugs Mercedes Benz, Modell X,
 amtl. Kennzeichen Y, infolge des Unfalls vom [Datum]
 einen Betrag von 4.250 EUR netto erreichen.
@@ -99,7 +99,7 @@ Nachteil:
 
 Sachverstaendiger erstellt schriftliches Gutachten. Parteien koennen Stellungnahme abgeben.
 
-Im Termin: ggf. Anhoerung Sachverstaendiger (§ 412 ZPO).
+Im Termin: ggf. Anhörung Sachverstaendiger (§ 412 ZPO).
 
 ### Schritt 7 — Gegen-Gutachten
 
@@ -134,7 +134,6 @@ Wenn Gerichtsgutachten ueberzeugt nicht: Sie koennen Privat-Gegen-Gutachten einr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 402 ff. ZPO, § 17 GKG unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: avv-eu-kommission-musterklauseln-2021-915
-description: "EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz fuer den internen EU-Raum."
+description: "EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz für den internen EU-Raum."
 ---
 
 # EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)
@@ -56,7 +56,7 @@ Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verant
 
 Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptvertrag:
 
-> "Soweit der Auftragnehmer fuer den Auftraggeber personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO verarbeitet, gelten erganzend zum Hauptvertrag die Standardvertragsklauseln der EU-Kommission gemaess Durchfuehrungsbeschluss (EU) 2021/915 vom 04.06.2021 in der jeweils geltenden Fassung. Die Klauseln 1 bis 11 des Beschluss (EU) 2021/915 werden ohne Aenderung uebernommen; die Anhaenge I bis IV sind als Anlagen 1 bis 4 zu dieser Vereinbarung beigefuegt und integraler Bestandteil der Vereinbarung. Im Fall eines Widerspruchs zwischen einer Bestimmung des Hauptvertrags und einer Klausel des Beschluss (EU) 2021/915 gehen die Klauseln des Beschluss (EU) 2021/915 vor."
+> "Soweit der Auftragnehmer für den Auftraggeber personenbezogene Daten im Sinne des Art. 4 Nr. 1 DSGVO als Auftragsverarbeiter im Sinne des Art. 4 Nr. 8 DSGVO verarbeitet, gelten erganzend zum Hauptvertrag die Standardvertragsklauseln der EU-Kommission gemaess Durchfuehrungsbeschluss (EU) 2021/915 vom 04.06.2021 in der jeweils geltenden Fassung. Die Klauseln 1 bis 11 des Beschluss (EU) 2021/915 werden ohne Aenderung uebernommen; die Anhaenge I bis IV sind als Anlagen 1 bis 4 zu dieser Vereinbarung beigefuegt und integraler Bestandteil der Vereinbarung. Im Fall eines Widerspruchs zwischen einer Bestimmung des Hauptvertrags und einer Klausel des Beschluss (EU) 2021/915 gehen die Klauseln des Beschluss (EU) 2021/915 vor."
 
 ## Typische Drafting-Fehler
 
@@ -64,7 +64,7 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 - Klauseln werden im Text geaendert (Klausel 2 verbietet das ausdruecklich).
 - Anhaenge bleiben leer oder enthalten Verweise statt konkreter Inhalte.
 - Inkorporation nur "soweit anwendbar" – das schwaecht die Bindungswirkung.
-- Es wird vergessen, dass die SCC nach Beschluss (EU) 2021/915 nicht im Verhaeltnis Verantwortlicher / Verantwortlicher gelten (dafuer waeren die C2C-Module aus Beschluss 2021/914 zu verwenden, allerdings nur bei Drittlandbezug).
+- Es wird vergessen, dass die SCC nach Beschluss (EU) 2021/915 nicht im Verhaeltnis Verantwortlicher / Verantwortlicher gelten (dafür waeren die C2C-Module aus Beschluss 2021/914 zu verwenden, allerdings nur bei Drittlandbezug).
 
 ## Querverweise
 
@@ -80,7 +80,6 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 - Art. 28 Abs. 6 bis 8 DSGVO.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -88,3 +87,32 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 DSGVO (Grundsätze der Verarbeitung)
+- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
+- Art. 13, 14 DSGVO (Informationspflichten)
+- Art. 15 DSGVO (Auskunftsrecht)
+- Art. 28 DSGVO (Auftragsverarbeitung)
+- Art. 32 DSGVO (Sicherheit der Verarbeitung)
+- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
+- Art. 82 DSGVO (Schadensersatz)
+- Art. 83 DSGVO (Bußgelder)
+- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
+
+### Leitentscheidungen
+
+- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
+- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
+- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
+- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
+
+### Anwendung im Skill
+
+- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
+- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
+- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.

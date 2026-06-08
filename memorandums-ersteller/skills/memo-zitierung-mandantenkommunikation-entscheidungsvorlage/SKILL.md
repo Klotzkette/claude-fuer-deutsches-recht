@@ -1,28 +1,28 @@
 ---
 name: memo-zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung im Memorandums Ersteller: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Memo Zitierung Mandantenkommunikation Entscheidungsvorlage
 
 ## Arbeitsbereich
 
-**Memo Zitierung Mandantenkommunikation Entscheidungsvorlage** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Memo Zitierung Mandantenkommunikation Entscheidungsvorlage** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-zitierung-mandantenkommunikation-entscheidungsvorlage` | Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Anwaltliches Memorandum (Legal Memo) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verjährung Anwaltshaftung § 195 BGB 3 Jahre, ggf. § 199 (Kenntnis), Mandatsannahme/Ablehnung unverzüglich, BRAO § 44 Annahme/Ablehnung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA §§ 2, 5, 11, BGB §§ 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO § 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage, Kurzergebnis, Begründung, Risiko, Empfehlung), Akteneinsichtsantrag, Vollmacht, Honorarvereinbarung, Tatsachenpaket — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-zitierung-mandantenkommunikation-entscheidungsvorlage`
 
@@ -31,11 +31,7 @@ description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memo
 # Zitierung: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Zitierung: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Zitierung: Mandantenkommunikation und Entscheidungsvorlage / zitierung mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

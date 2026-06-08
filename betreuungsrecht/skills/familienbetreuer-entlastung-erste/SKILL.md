@@ -1,43 +1,43 @@
 ---
 name: familienbetreuer-entlastung-erste
-description: "Familienbetreuer Entlastung Erste im Plugin Betreuungsrecht: prüft konkret Entlastung ehrenamtlicher Betreuer, Erste 48 Stunden nach Betreuerbestellung, Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz im Betreuungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Familienbetreuer Entlastung Erste
+# Familienbetreuer: Entlastung, Verhinderung, Wechsel
 
 ## Arbeitsbereich
 
-**Familienbetreuer Entlastung Erste** ordnet den Fall über die tragenden Prüffelder: Entlastung ehrenamtlicher Betreuer, Erste 48 Stunden nach Betreuerbestellung, Jahresbericht für das Betreuungsgericht aus Alltagsnotizen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `familienbetreuer-entlastung-verhinderung-wechsel` | Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. |
-| `familienbetreuer-erste-48-stunden-notfallmappe` | Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe. |
-| `familienbetreuer-jahresbericht-aus-notizen` | Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht, Wunschermittlung und wichtigen Entscheidungen erstellen. |
+Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Betreuungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `familienbetreuer-entlastung-verhinderung-wechsel`
-
-**Fokus:** Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz.
-
-# Familienbetreuer: Entlastung, Verhinderung, Wechsel
 
 ## Einsatz
 
 Für Angehörige, die gut betreuen wollen, aber nicht untergehen dürfen.
 
-## Norm- und Quellenanker
+## Normenanker
 
-BtOG §§ 15 ff., 22, 23; BGB Betreuerauswahl/Änderung; FamFG.
+Arbeitsfokus: **Familienbetreuer: Entlastung, Verhinderung, Wechsel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 
@@ -54,74 +54,6 @@ Entlastungsplan, Antrag an Gericht/Behörde und Übergabemappe.
 - Scham verhindert Hilfe
 - Aufgaben werden faktisch überschritten
 - keine Vertretung im Urlaub
-
-## Arbeitsstil
-
-Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-
-## 2. `familienbetreuer-erste-48-stunden-notfallmappe`
-
-**Fokus:** Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe.
-
-# Familienbetreuer: erste 48 Stunden und Notfallmappe
-
-## Einsatz
-
-Für Angehörige, die plötzlich rechtlicher Betreuer sind und schnell Ordnung brauchen.
-
-## Norm- und Quellenanker
-
-BGB §§ 1814, 1815, 1821; FamFG Betreuungssachen; BtOG §§ 15 ff., 22, 23; DSGVO/Schweigepflicht.
-
-## Arbeitsfragen
-
-1. Welche Aufgabenkreise sind angeordnet?
-2. Welche Gefahren laufen heute: Geld, Wohnung, Gesundheit, Betrug, Fristen?
-3. Wen muss man informieren, wen gerade nicht?
-
-## Output
-
-48-Stunden-Plan, Telefonliste, Dokumentenmappe und Schon-kommunizieren-Check.
-
-## Red Flags
-
-- Aufgabenkreis überschritten
-- zu viele Gesundheitsdaten verteilt
-- Bankvollmacht mit Betreuung verwechselt
-
-## Arbeitsstil
-
-Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
-
-## 3. `familienbetreuer-jahresbericht-aus-notizen`
-
-**Fokus:** Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht, Wunschermittlung und wichtigen Entscheidungen erstellen.
-
-# Familienbetreuer: Jahresbericht aus Notizen
-
-## Einsatz
-
-Für ehrenamtliche Betreuer, die dem Gericht gut, knapp und vollständig berichten wollen.
-
-## Norm- und Quellenanker
-
-BGB Berichtspflichten; FamFG; lokale Gerichtsformulare live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Entwicklung gab es seit letztem Bericht?
-2. Welche Entscheidungen waren genehmigungsbedürftig?
-3. Welche Wünsche/Einwände der betreuten Person?
-
-## Output
-
-Jahresberichtsentwurf, Anlagenliste und Lückencheck.
-
-## Red Flags
-
-- nur Kontoauszüge ohne Lagebild
-- Konflikte verschwiegen
-- Wunsch der betreuten Person fehlt
 
 ## Arbeitsstil
 

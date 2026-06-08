@@ -7,25 +7,25 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 
 ## Arbeitsbereich
 
-**Praezedenz Distinguishing Rechtspluralismus** ordnet den Fall über die tragenden Prüffelder: Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Praezedenz Distinguishing Rechtspluralismus** ordnet den Fall über die tragenden Prüfungslinien: Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `praezedenz-distinguishing-overruling-deutsch` | Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen. |
-| `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts. |
+| `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts. |
 | `rechtsvergleichung-methodisch-sauber` | Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen. |
 | `richterliche-zurueckhaltung-und-rechtsfortbildung` | Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung und zeigt auf, wann Rechtsfortbildung nicht nur erlaubt, sondern geboten ist und wann sie unzulässig ist. |
 | `richterrecht-offenlegen-statt-tarnen` | Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen erkennen, einordnen und für Mandanten nutzbar machen. Besonderes Augenmerk liegt auf der Abgrenzung von Auslegung und Rechtsfortbildung sowie der demokratietheoretischen Legitimation richterlicher Rechtsschöpfung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `praezedenz-distinguishing-overruling-deutsch`
 
@@ -40,7 +40,6 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Das deutsche Recht kennt keine formelle Stare-decisis-Doktrin, aber eine starke faktische Bindungswirkung von BGH-Entscheidungen. Dieses Skill systematisiert, wie mit Präzedenzfällen methodisch korrekt umgegangen wird, wann distinguishing zulässig ist und unter welchen Voraussetzungen overruling methodisch legitimiert werden kann.
 
@@ -118,7 +117,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `rechtspluralismus-und-mehrebenen-system`
 
-**Fokus:** Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts.
+**Fokus:** Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts.
 
 # Rechtspluralismus und Mehrebenen-System
 
@@ -129,7 +128,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -174,7 +172,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel Verbraucher-IPR:** Bei B2C-Vertraegen mit Auslandsbezug greift Rom-I-VO (VO (EG) Nr. 593/2008). Art. 6 Rom-I-VO sichert dem Verbraucher die guenstigeren Schutzvorschriften seines gewoehnlichen Aufenthaltsstaates — auch wenn die Parteien anderes Recht waehlen.
 
-**Beispiel Bauvertrag mit FIDIC:** Internationaler Bauvertrag nach FIDIC-Bedingungen — private Regelwerke greifen vor dem BGB-Werkvertragsrecht (§§ 631 ff. BGB), soweit kein Verstoss gegen zwingendes Recht oder oeffentliche Ordnung.
+**Beispiel Bauvertrag mit FIDIC:** Internationaler Bauvertrag nach FIDIC-Bedingungen — private Regelwerke greifen vor dem BGB-Werkvertragsrecht (§§ 631 ff. BGB), soweit kein Verstoss gegen zwingendes Recht oder öffentliche Ordnung.
 
 **Beispiel Sport-Schiedsgerichtsbarkeit (CAS):** Sportler unterwerfen sich durch Mitgliedschaft im Verband privaten Regelwerken (z. B. FIFA-Statuten, IOC-Charter). Streitigkeiten werden vom CAS (Court of Arbitration for Sport) entschieden. Das deutsche Recht (insbesondere § 1059 ZPO) kontrolliert nur Verfahrensfragen, nicht die Anwendbarkeit der Verbandsregeln.
 
@@ -182,7 +180,7 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Beispiel kommunale Bauordnung:** Im Streit ueber Nachbarrecht koennen kommunale Satzungen (Bebauungsplan) ueber Landesbauordnung neben § 906 BGB stehen.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Sachverhalt vorlegen.** Welche Akteure, welche Orte, welche Rechtsbereiche?
 2. **Anwendbares Recht pruefen.** IPR-Analyse: Rom-I-VO, Rom-II-VO, HUEbk, autonome Anknuepfungen.
@@ -223,7 +221,6 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -245,7 +242,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Rechtsvergleichung ist eine anerkannte Erkenntnisquelle in der deutschen Methodenlehre. Dieses Skill zeigt, wann und wie ausländisches Recht methodisch korrekt als Auslegungshilfe oder Rechtsfortbildungsargument eingesetzt werden kann und wo die Grenzen liegen, die eine unkritische Übernahme fremder Rechtslösungen unzulässig machen.
 
@@ -335,7 +331,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Richterliche Zurückhaltung ist keine Feigheit, sondern institutionelle Klugheit: In bestimmten Situationen gebietet das Demokratieprinzip, dass Gerichte normative Entscheidungen dem Gesetzgeber überlassen. Dieses Skill systematisiert die Bedingungen richterlicher Zurückhaltung und hilft, die Grenze zwischen gebotener Zurückhaltung und unzulässiger Entscheidungsverweigerung zu ziehen.
 
 ## Mandantenfall
@@ -423,7 +418,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Gerichte entwickeln das Recht fort — doch häufig geschieht dies verdeckt unter dem Deckmantel der "Auslegung". Methodisch redliches Arbeiten erfordert, diese Rechtsschöpfung offen zu benennen, ihren Geltungsgrund zu prüfen und ihre Grenzen zu benennen. Dieses Skill schärft den Blick für richterliche Rechtsfortbildung und stärkt die Fähigkeit, solche Entscheidungen argumentativ einzuordnen.
 

@@ -18,7 +18,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 - **Argumentum e contrario** (Umkehrschluss): Wenn eine Norm einen Fall regelt, sind andere Faelle umgekehrt geregelt — sofern die Norm abschliessend gemeint ist.
 - **Argumentum a maiore ad minus** (vom Groesseren auf das Kleinere): Wer das Groessere darf, darf erst recht das Kleinere.
 - **Argumentum a minore ad maius** (vom Kleineren auf das Groessere): Wer schon das Kleinere nicht darf, darf erst recht nicht das Groessere.
-- **Argumentum a fortiori** (erst recht): Sammelbezeichnung fuer beide Erst-recht-Schluesse.
+- **Argumentum a fortiori** (erst recht): Sammelbezeichnung für beide Erst-recht-Schluesse.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -37,7 +37,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960 — systematisiert die Argumentum-Figuren als Hilfsformen der teleologischen Auslegung und Rechtsfortbildung.
 - Robert Alexy, "Theorie der juristischen Argumentation" 1978 — ordnet sie in eine umfassende Argumentationstheorie ein (siehe Skill `diskurstheorie-habermas-alexy`).
 
-**Logischer Hintergrund:** Die Figuren sind nicht zwingende Schluesse im streng-logischen Sinne (anders als der modus ponens). Sie tragen nur unter Bedingungen, naemlich dann, wenn eine Wertentscheidung dahintersteht. Der Umkehrschluss setzt voraus, dass die Norm abschliessend ist; der Erst-recht-Schluss setzt voraus, dass die Wertung des geregelten Falles auch fuer den nicht geregelten gilt.
+**Logischer Hintergrund:** Die Figuren sind nicht zwingende Schluesse im streng-logischen Sinne (anders als der modus ponens). Sie tragen nur unter Bedingungen, naemlich dann, wenn eine Wertentscheidung dahintersteht. Der Umkehrschluss setzt voraus, dass die Norm abschliessend ist; der Erst-recht-Schluss setzt voraus, dass die Wertung des geregelten Falles auch für den nicht geregelten gilt.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -61,7 +61,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 - Beide Erst-recht-Schluesse zusammengefasst. In der BGH-Praxis haeufig verwendet: "Wenn schon X, dann erst recht Y."
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 **Fuer den Umkehrschluss:**
 
@@ -75,7 +75,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 1. **Norm und Wertung identifizieren.** Welcher Fall ist geregelt? Welche Wertung steht dahinter?
 2. **Vergleichsfall identifizieren.** Welcher nicht geregelte Fall ist "groesser" oder "kleiner"?
-3. **Wertungsidentitaet pruefen.** Greift die Wertung des geregelten Falles auch fuer den Vergleichsfall?
+3. **Wertungsidentitaet pruefen.** Greift die Wertung des geregelten Falles auch für den Vergleichsfall?
 4. **Schluss formulieren.** "Wer X darf, darf erst recht Y" oder "Wer X schon nicht darf, darf erst recht nicht Y."
 5. **Argumentstaerke pruefen.** Stuetzt sich der Schluss auf eindeutige Wertungen, oder ist er beliebig?
 
@@ -104,7 +104,6 @@ Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren s
 - §§ 119, 123, 134, 138, 139, 142, 181, 311 Abs. 1, 437, 657, 661a BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

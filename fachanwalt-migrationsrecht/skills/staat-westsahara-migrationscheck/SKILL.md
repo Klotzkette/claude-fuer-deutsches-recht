@@ -7,10 +7,10 @@ description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Staat Westsahara Migrationscheck** ordnet den Fall über die tragenden Prüffelder: Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Staat Westsahara Migrationscheck** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `staat-westsahara-migrationscheck` | Staaten- und Gebietscheck Westsahara: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 | `staat-zentralafrikanische-republik-migrationscheck` | Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
@@ -19,17 +19,16 @@ description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkre
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Migrationsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `staat-westsahara-migrationscheck`
 
 **Fokus:** Staaten- und Gebietscheck Westsahara: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
 
 # Staaten-/Gebietscheck: Westsahara
 
@@ -69,7 +68,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Westsahara**. Er 
 
 **Fokus:** Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-
 # Staaten-/Gebietscheck: Zentralafrikanische Republik
 
 ## Aufgabe
@@ -106,7 +104,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zentralafrikanisc
 ## 3. `staat-zypern-migrationscheck`
 
 **Fokus:** Staaten- und Gebietscheck Zypern: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
 
 # Staaten-/Gebietscheck: Zypern
 
@@ -145,7 +142,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist 
 
 **Fokus:** GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Eilantrag Identitätsprüfung Verfahrensgarantien.
 
-
 # GEAS-Reform: EU-Grenzverfahren 2024
 
 ## Kaltstart-Rückfragen
@@ -160,7 +156,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist 
 8. Besteht Haftgefahr oder Unterbringung im Grenz-Aufnahmezentrum aktuell?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -231,7 +227,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Unbegleiteter Minderjaehriger | Besondere Garantien Art. 24 VerfahrensVO; Vormundschaft |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -444,7 +439,7 @@ Weitere Rechtsprechung im Schriftsatz live verifizieren; keine Aktenzeichen aus 
 
 ## Output-Template: Eilantrag GEAS-Grenzverfahren (§ 36 AsylG / Art. GVO 2024/1349)
 
-**Adressat:** Verwaltungsgericht [ORT] (zustaendig fuer Grenzverfahren)
+**Adressat:** Verwaltungsgericht [ORT] (zuständig für Grenzverfahren)
 **Tonfall:** Hochdringend; 7-Tage-Frist betonend
 
 ```

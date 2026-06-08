@@ -1,45 +1,32 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Klausel Bibliothek Kuendigungsklauseln im Word-Legal-AI für Anwälte: prüft konkret Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer, Drafting und Prüfung von Kündigungsklauseln. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante im Word Legal Ai Plugin And Skill For German Lawyers: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Klausel Bibliothek Kuendigungsklauseln
+# Klauselbibliothek-Katalog
 
 ## Arbeitsbereich
 
-**Klausel Bibliothek Kuendigungsklauseln** ordnet den Fall über die tragenden Prüffelder: Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer, Drafting und Prüfung von Kündigungsklauseln. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `klausel-bibliothek-katalog` | Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. |
-| `kuendigungsklauseln-und-vertragsbeendigung` | Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung. |
+Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Word Legal AI für deutsche Anwälte klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `klausel-bibliothek-katalog`
-
-**Fokus:** Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante.
-
-# Klauselbibliothek-Katalog
 
 ## Zweck
 
-Dieser Skill ist ein abrufbarer Katalog fertiger Klauselbausteine fuer deutsche Wirtschaftsvertraege. Er ersetzt nicht das Drafting, sondern beschleunigt es: Stelle nicht jeden Vertrag bei null auf, sondern starte mit getesteten Bausteinen und passe sie an die konkrete Mandatsfrage an.
+Dieser Skill ist ein abrufbarer Katalog fertiger Klauselbausteine für deutsche Wirtschaftsvertraege. Er ersetzt nicht das Drafting, sondern beschleunigt es: Stelle nicht jeden Vertrag bei null auf, sondern starte mit getesteten Bausteinen und passe sie an die konkrete Mandatsfrage an.
 
 Jeder Baustein hat:
 - **Verwendungshinweis** (B2B / B2C / beides)
 - **AGB-Risiko** (gruen / gelb / rot)
 - **Alternative mild** (verhandlungsoffen)
 - **Alternative scharf** (Verhandlungsmaximum)
-- **Englische Fassung** fuer bilinguale Vertraege
+- **Englische Fassung** für bilinguale Vertraege
 
 ## Eingaben
 
@@ -59,7 +46,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 2. Schlagen Sie in `references/klausel-bibliothek.md` nach.
 3. Pruefen Sie das Verwendungsfeld (B2B / B2C / beides).
 4. Pruefen Sie die AGB-Ampel. Bei rot: AGB-Skill `agb-konforme-klauseln-305-310-bgb` konsultieren.
-5. Waehlen Sie mild oder scharf je nach Verhandlungsstrategie.
+5. Wählen Sie mild oder scharf je nach Verhandlungsstrategie.
 6. Passen Sie die Variablen an (Fristen, Betraege, Parteien).
 7. Pruefen Sie die Konsistenz mit anderen Klauseln (Definitionen, Querverweise).
 
@@ -93,15 +80,15 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 > ### § X Haftung
 >
-> (1) Die Parteien haften einander fuer Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
+> (1) Die Parteien haften einander für Schaeden, die auf Vorsatz oder grober Fahrlaessigkeit beruhen, unbegrenzt.
 >
 > (2) Fuer Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit haftet jede Partei unbegrenzt.
 >
-> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die fuer die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Hoehe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
+> (3) Im Uebrigen haftet jede Partei nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten), die für die Erreichung des Vertragszwecks unverzichtbar sind und auf deren Einhaltung die andere Partei regelmaessig vertrauen darf; in diesem Fall ist die Haftung der Hoehe nach auf den vertragstypischen und vorhersehbaren Schaden begrenzt.
 >
 > (4) Die Haftung nach Abs. 3 ist je Schadensereignis auf einen Betrag von EUR [...] begrenzt; die Haftung im Vertragsjahr ist insgesamt auf einen Betrag von EUR [...] begrenzt.
 >
-> (5) Eine Haftung fuer entgangenen Gewinn und mittelbare Schaeden ist im Rahmen der Begrenzung nach Abs. 3 und 4 ausgeschlossen.
+> (5) Eine Haftung für entgangenen Gewinn und mittelbare Schaeden ist im Rahmen der Begrenzung nach Abs. 3 und 4 ausgeschlossen.
 >
 > (6) Die Haftung nach dem Produkthaftungsgesetz bleibt unberuehrt.
 
@@ -131,7 +118,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > (1) Bei schuldhafter Verletzung der Geheimhaltungspflicht gemaess § Y schuldet die verletzende Partei der anderen Partei eine Vertragsstrafe in Hoehe von EUR 25.000 pro Einzelverstoss.
 >
-> (2) Bei einem Dauerverstoss ist die Vertragsstrafe fuer jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
+> (2) Bei einem Dauerverstoss ist die Vertragsstrafe für jeden angefangenen Monat des Verstosses gesondert zu zahlen, hoechstens jedoch sechsmal je Pflichtverletzung.
 >
 > (3) Die Geltendmachung eines weitergehenden Schadensersatzes bleibt vorbehalten. Die Vertragsstrafe ist auf den Schadensersatzanspruch anzurechnen.
 
@@ -147,13 +134,13 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > ### § 2 Geheimhaltungspflicht
 >
-> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschliesslich fuer die in diesem Vertrag genannten Zwecke zu verwenden.
+> (1) Die Empfangende Partei verpflichtet sich, Vertrauliche Informationen vertraulich zu behandeln, nicht ohne vorherige schriftliche Zustimmung der Offenlegenden Partei an Dritte weiterzugeben und ausschliesslich für die in diesem Vertrag genannten Zwecke zu verwenden.
 >
-> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die fuer die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben muessen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
+> (2) Die Empfangende Partei darf Vertrauliche Informationen nur solchen Mitarbeitern, Beratern und Vertragspartnern zugaenglich machen, die für die Vertragsdurchfuehrung notwendigerweise davon Kenntnis haben muessen ("need to know") und die in vergleichbarer Weise zur Geheimhaltung verpflichtet sind.
 >
 > ### § 3 Ausnahmen
 >
-> Die Geheimhaltungspflicht gilt nicht fuer Informationen, die:
+> Die Geheimhaltungspflicht gilt nicht für Informationen, die:
 >
 > a) der Empfangenden Partei zum Zeitpunkt der Offenlegung bereits rechtmaessig bekannt waren;
 > b) ohne Verschulden der Empfangenden Partei der Oeffentlichkeit zugaenglich werden;
@@ -162,7 +149,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > ### § 4 Dauer
 >
-> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht fuer eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Fuer Geschaeftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
+> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Fuer Geschäftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
 
 ### Force Majeure
 
@@ -170,7 +157,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 > ### § X Hoehere Gewalt
 >
-> (1) Keine Partei haftet fuer die Nichterfuellung oder verspaetete Erfuellung ihrer Verpflichtungen aus diesem Vertrag, soweit die Nichterfuellung oder Verspaetung auf einem Ereignis hoeherer Gewalt beruht.
+> (1) Keine Partei haftet für die Nichterfuellung oder verspaetete Erfuellung ihrer Verpflichtungen aus diesem Vertrag, soweit die Nichterfuellung oder Verspaetung auf einem Ereignis hoeherer Gewalt beruht.
 >
 > (2) Ereignisse hoeherer Gewalt sind solche, die ausserhalb des zumutbaren Einflussbereichs der betroffenen Partei liegen und trotz Anwendung der im Verkehr erforderlichen Sorgfalt nicht abgewendet werden konnten, insbesondere: Naturkatastrophen, Epidemien und Pandemien, kriegerische Auseinandersetzungen, Terrorakte, behoerdliche Anordnungen mit Auswirkung auf die Vertragserfuellung, allgemeine Energie- und Rohstoffknappheit, Streiks und Aussperrungen, sofern nicht von der betroffenen Partei verschuldet, sowie Cyber-Angriffe auf wesentliche Infrastruktur.
 >
@@ -186,7 +173,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 >
 > (1) Dieser Vertrag unterliegt ausschliesslich dem Recht der Bundesrepublik Deutschland. Die Anwendung des UN-Kaufrechts (CISG) wird ausgeschlossen.
 >
-> (2) Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
+> (2) Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Sitz der Auftraggeberin. Die Auftraggeberin ist berechtigt, die Auftragnehmerin auch an deren allgemeinem Gerichtsstand zu verklagen.
 
 ### Schriftformklausel mit Ausnahme der Schriftformklausel
 
@@ -194,7 +181,7 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 > ### § X Aenderungen, Schriftform
 >
-> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch fuer die Aufhebung oder Aenderung dieser Schriftformklausel.
+> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Aenderung dieser Schriftformklausel.
 >
 > (2) Die Schriftform ist gewahrt durch eine eigenhaendig oder mittels qualifizierter elektronischer Signatur unterzeichnete Vertragsurkunde, die in einem einheitlichen Dokument oder in mehreren gleichlautenden Ausfertigungen vorliegt.
 >
@@ -206,19 +193,18 @@ Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (
 
 ## Querverweise
 
-- `agb-konforme-klauseln-305-310-bgb` fuer AGB-Pruefung
-- `boilerplate-klauseln-katalog` fuer Standardklauseln-Drafting
-- `bilingual-drafting-deutsch-englisch` fuer Uebersetzungen
-- `defensive-drafting-fallen-erkennen` fuer Verteidigungsformulierungen
-- `vertragsstrafe-339-bgb` fuer Pruefung der Vertragsstrafe
-- `haftungsausschluss-und-haftungsbegrenzung` fuer Haftungsklauseln
+- `agb-konforme-klauseln-305-310-bgb` für AGB-Pruefung
+- `boilerplate-klauseln-katalog` für Standardklauseln-Drafting
+- `bilingual-drafting-deutsch-englisch` für Uebersetzungen
+- `defensive-drafting-fallen-erkennen` für Verteidigungsformulierungen
+- `vertragsstrafe-339-bgb` für Pruefung der Vertragsstrafe
+- `haftungsausschluss-und-haftungsbegrenzung` für Haftungsklauseln
 
 ## Quellen (Stand 05/2026)
 
 - §§ 247, 257, 288, 305-310, 339 BGB; §§ 2 GeschGehG; CISG.
 - Klauseln basieren auf gaengiger Vertragspraxis in deutschen Kanzleien und sind vom Nutzer fallbezogen zu pruefen.
 - Zitierweise: `references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -227,89 +213,3 @@ Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `kuendigungsklauseln-und-vertragsbeendigung`
-
-**Fokus:** Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung.
-
-# Kündigungsklauseln und Vertragsbeendigung
-
-## Zweck
-
-Dieser Skill unterstützt Sie beim Aufbau und der Prüfung von Beendigungsregelungen in Dauerschuldverhältnissen. Eine saubere Beendigungsklausel definiert Voraussetzungen, Erklärungsweg, Zugang und Folgen für den Vertrag und seine Boilerplate. Schlechtes Drafting führt regelmäßig zu unklarer Beendigung, Streit über den Zeitpunkt der Beendigung und Verlust durchsetzbarer Folgepflichten.
-
-## Eingaben
-
-- Vertragstyp (Dauerschuldverhältnis, Werkvertrag, Dienstvertrag, Lizenz, Lieferrahmenvertrag).
-- Laufzeit (befristet, unbefristet, mit Verlängerungsmechanismus).
-- Parteien (B2B, B2C, Arbeitsverhältnis).
-- Gewünschte Beendigungsgründe (ordentlich, außerordentlich, Sonderkündigung bei Change of Control, Insolvenz).
-- Erwartete Folgepflichten (Rückgabe, Geheimhaltung, Wettbewerbsverbot, Lizenzlauf).
-
-## Rechtlicher und methodischer Rahmen
-
-- **Ordentliche Kündigung:** Beim unbefristeten Dauerschuldverhältnis grundsätzlich zulässig, Frist nach Vertrag oder Gesetz (z. B. §§ 580a, 621, 622 BGB).
-- **Außerordentliche Kündigung:** § 314 BGB als allgemeine Norm für Dauerschuldverhältnisse. Voraussetzungen: wichtiger Grund, Unzumutbarkeit der Fortsetzung, regelmäßig Abmahnung (§ 314 II BGB) und Kündigung in angemessener Frist nach Kenntnis (§ 314 III BGB).
-- **Form:** § 125 BGB Folge des Formmangels (Nichtigkeit). § 126 BGB Schriftform mit eigenhändiger Unterschrift; § 126a BGB qualifizierte elektronische Signatur; § 126b BGB Textform (lesbare Erklärung, dauerhafter Datenträger, Person erkennbar). Bei doppelter Schriftformklausel zusätzlich beachten: Aufhebung der Schriftform durch konkludente Praxis ist trotz Klausel möglich, soweit die Klausel selbst formfrei abdingbar ist.
-- **Zugang:** § 130 I BGB Wirksamwerden mit Zugang. Bei Streit Beweislast beim Kündigenden. Übermittlungswege regeln (Einschreiben, Kurier, Bote, beA).
-- **Folgen:** Beendigung wirkt für die Zukunft (ex nunc bei § 314 BGB). Rücktritt nach §§ 323, 324, 326 BGB unterscheiden (ex tunc). Boilerplate-Klauseln wie Geheimhaltung, Schiedsabrede und Gerichtsstand bleiben in Kraft, sofern dies klargestellt ist.
-- **Sonderregeln:** Verbraucherkredit (§ 500 BGB), Wohnraummiete (§§ 568 ff. BGB), Arbeitsverhältnisse (KSchG), Versicherungsverträge (VVG).
-
-## Ablauf / Checkliste
-
-1. Vertragstyp und Laufzeit klären; befristete Verträge nur außerordentlich kündbar, soweit nicht ausnahmsweise zugelassen.
-2. Ordentliche Kündigungsfristen festlegen; Symmetrie der Parteien prüfen (in AGB einseitige Verkürzungen kritisch).
-3. Außerordentliche Kündigungstatbestände beispielhaft auflisten, dabei "insbesondere"-Katalog wählen, damit § 314 BGB nicht abgeschnitten wird.
-4. Abmahnungspflicht regeln; bei besonderem Vertrauensbruch Verzicht klarstellen (vgl. § 314 II 3 BGB).
-5. Frist nach Kenntnis (§ 314 III BGB) im Mandat dokumentieren; vertraglich ggf. Zeitfenster setzen.
-6. Form festlegen: § 126 BGB Schriftform, § 126b BGB Textform oder § 126a BGB qualifizierte elektronische Signatur. Kein Mischmasch.
-7. Zugangsweg definieren (Adresse, beA, definierte Mailadresse). Mitteilungs- und Wohnsitzwechselpflicht regeln.
-8. Folgen der Beendigung adressieren: Rückgabe, Datenlöschung, Geheimhaltung, Lizenzauslauf, Restzahlungen.
-9. Survival-Klausel formulieren: welche Bestimmungen überleben die Beendigung (Geheimhaltung, Schiedsklausel, Rechtswahl, Gerichtsstand, Haftungsregeln, IP-Bestimmungen).
-10. Sonderkündigungsrechte prüfen (Change of Control, Insolvenz; § 119 InsO beachten: Insolvenzklauseln teils unwirksam).
-
-## Typische Drafting-Fehler
-
-- Schriftform- und Textformklausel kombiniert ohne Hierarchie: unklar, welches Formerfordernis gilt.
-- Ausschluss der außerordentlichen Kündigung in AGB: unwirksam, weil § 314 BGB nicht abdingbar ist (h. M.).
-- Fehlende Survival-Klausel: Geheimhaltung läuft mit der Vertragsbeendigung aus.
-- Fristbeginn nicht definiert: Streit über Zugang und Fristberechnung.
-- "Mit sofortiger Wirkung" ohne wichtigen Grund: Risiko der Umdeutung in ordentliche Kündigung mit längerer Frist.
-- Doppelte Schriftformklausel ohne Rücksicht auf § 305b BGB: Individualabrede geht vor.
-- Insolvenzklauseln ohne Berücksichtigung von § 119 InsO und der BGH-Rechtsprechung zu Lösungsklauseln.
-
-## Ausgabeformat
-
-- Klauselentwurf für ordentliche und außerordentliche Kündigung in Urteilsstil.
-- Survival-Klausel als eigener Absatz.
-- Mustertext für Kündigungserklärung mit Datum, Bezug, Begründung (außerordentlich), Frist, Unterschrift.
-- Risikohinweise zu Form, Zugang und Beweislast.
-
-## Beispiele
-
-Mustertext (Vertragsklausel, B2B-Dauerschuldverhältnis):
-
-> § X Laufzeit und Beendigung
-> (1) Der Vertrag wird auf unbestimmte Zeit geschlossen. Er kann von jeder Partei mit einer Frist von drei Monaten zum Ende eines Kalenderquartals ordentlich gekündigt werden.
-> (2) Das Recht zur außerordentlichen Kündigung aus wichtigem Grund (§ 314 BGB) bleibt unberührt. Ein wichtiger Grund liegt insbesondere vor, wenn eine Partei eine wesentliche Vertragspflicht trotz schriftlicher Abmahnung mit angemessener Frist nicht erfüllt oder über das Vermögen einer Partei das Insolvenzverfahren eröffnet wird, soweit dies gesetzlich zulässig ist.
-> (3) Jede Kündigung bedarf der Schriftform (§ 126 BGB). Die elektronische Form (§ 126a BGB) ist ausgeschlossen.
-> (4) Folgende Regelungen gelten über das Vertragsende hinaus fort: § Y (Geheimhaltung), § Z (Rechtswahl und Gerichtsstand), § A (Haftung), § B (IP).
-
-Mustertext (außerordentliche Kündigungserklärung):
-
-> Sehr geehrte Damen und Herren,
-> in Sachen Rahmenliefervertrag vom ... kündige ich namens und in Vollmacht der ... GmbH den Vertrag außerordentlich aus wichtigem Grund mit sofortiger Wirkung. Der wichtige Grund liegt in der mit Schreiben vom ... abgemahnten und seither nicht behobenen Nichtlieferung gemäß Abruf ... Hilfsweise erkläre ich die ordentliche Kündigung zum nächstmöglichen Termin.
-
-## Querverweise
-
-- `boilerplate-klauseln-katalog` – Survival-, Schriftform- und Gerichtsstandsklausel.
-- `geheimhaltung-nda-vertraulichkeit` – Fortwirkung der Geheimhaltung nach Vertragsende.
-- `schriftform-und-textform-bgb` (Plugin gleichen Namens) – Vertiefung zu §§ 126, 126a, 126b BGB.
-- `vertragsstrafe-339-bgb` – Strafversprechen mit Bezug auf Kündigung.
-
-## Quellen (Stand 05/2026)
-
-- §§ 125, 126, 126a, 126b, 130, 314, 580a, 621, 622, 305b BGB.
-- § 119 InsO (Beschränkung von Lösungsklauseln).
-- BGH-Rechtsprechung zu doppelten Schriftformklauseln und zu Lösungsklauseln in der Insolvenz ist vom Nutzer fundstellengenau zu verifizieren.
-- Zitierweise: `references/zitierweise.md`.

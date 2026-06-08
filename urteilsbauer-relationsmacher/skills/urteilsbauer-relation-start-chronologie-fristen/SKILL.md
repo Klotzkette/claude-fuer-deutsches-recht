@@ -1,33 +1,21 @@
 ---
 name: urteilsbauer-relation-start-chronologie-fristen
-description: "Relation Start Chronologie Fristen im Plugin Urteilsbauer Relationsmacher: prüft konkret Einstieg, Schnelltriage und Fallrouting im Urteilsbauer, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Relation Start Chronologie Fristen
+# Urteilsbauer und Relationsmacher — Allgemein
 
 ## Arbeitsbereich
 
-**Relation Start Chronologie Fristen** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Urteilsbauer, Chronologie und Belegmatrix im Plugin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `urteilsbauer-relationsmacher-allgemein` | Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin urteilsbauer-relationsmacher: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin urteilsbauer-relationsmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `urteilsbauer-relationsmacher-allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -37,10 +25,6 @@ description: "Relation Start Chronologie Fristen im Plugin Urteilsbauer Relation
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
-
-# Urteilsbauer und Relationsmacher — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -158,22 +142,22 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `revisionsfest-pruefen` | Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung.… |
 | `schulung-urteilsbauer` | Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele,… |
 | `tatbestand-zivil-schreiben` | Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands).… |
-| `tenor-bauen-zivil` | Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO… |
+| `tenor-bauen-zivil` | Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorläufige Vollstreckbarkeit), § 511 ZPO… |
 | `vollrelation-langfassung` | Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung… |
-| `vorlaeufige-vollstreckbarkeit` | Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO… |
+| `vorläufige-vollstreckbarkeit` | Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO… |
 | `zulaessigkeit-pruefen` | Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche… |
 
 ## Worum geht es?
 
-Das Plugin ist eine Urteils- und Beschluss-Werkstatt fuer Richter, Referendare und Rechtspfleger. Es begleitet den vollstaendigen vom Aktenintake ueber die Relation (Entscheidungsunterlage) bis zum fertigen Urteil als DOCX-Dokument im offiziellen Gerichtslayout. Das Plugin stuetzt die Pruefung von Zulaessigkeit, Anspruchsgrundlagen, Beweiswuerdigung und Kostenentscheidung sowie Rechtsmittelbelehrung.
+Das Plugin ist eine Urteils- und Beschluss-Werkstatt für Richter, Referendare und Rechtspfleger. Es begleitet den vollstaendigen vom Aktenintake ueber die Relation (Entscheidungsunterlage) bis zum fertigen Urteil als DOCX-Dokument im offiziellen Gerichtslayout. Das Plugin stuetzt die Pruefung von Zulaessigkeit, Anspruchsgrundlagen, Beweiswuerdigung und Kostenentscheidung sowie Rechtsmittelbelehrung.
 
-Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), internationales Privatrecht (IPR), CISG-Sachverhalte, kollidierende AGB und die vorlaeufige Vollstreckbarkeit ab. Ausbildungsmodule unterstuetzen Referendare bei der Vollrelation nach Schulstandard.
+Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), internationales Privatrecht (IPR), CISG-Sachverhalte, kollidierende AGB und die vorläufige Vollstreckbarkeit ab. Ausbildungsmodule unterstuetzen Referendare bei der Vollrelation nach Schulstandard.
 
 ## Wann brauchen Sie diese Skill?
 
 - Richter hat neue Zivilakte und will Ueberblick gewinnen, Verfahrensstand klaeren und Anspruchsgrundlagen identifizieren.
-- Referendar oder Assessorkandidat erstellt Relation oder Vollrelation fuer Examensvorbereitung.
-- Richter muss Beweiswuerdigung nach § 286 ZPO verschriftlichen und dafuer gegliederten Abschnitt in den Entscheidungsgruenden erzeugen.
+- Referendar oder Assessorkandidat erstellt Relation oder Vollrelation für Examensvorbereitung.
+- Richter muss Beweiswuerdigung nach § 286 ZPO verschriftlichen und dafür gegliederten Abschnitt in den Entscheidungsgruenden erzeugen.
 - Gericht erstellt Beschluss (PKH, Streitwert, Hinweis nach § 139 ZPO) oder Versaumnisurteil.
 - Internationaler Kaufvertrag mit CISG- oder IPR-Bezug muss rechtlich eingeordnet werden.
 
@@ -182,11 +166,11 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - **Relation** — Richterliche Entscheidungsunterlage; strukturierte Zusammenfassung von Sach- und Streitstand, Beweisaufnahme und rechtlicher Wuerdigung.
 - **Tatbestand (§ 313 Abs. 2 ZPO)** — Pflichtbestandteil des Urteils; sachliche Darstellung des Parteivorbringens ohne Wertung.
 - **Entscheidungsgruende (§ 313 Abs. 3 ZPO)** — Rechtliche und tatsaechliche Begruendung des Tenors.
-- **Tenor** — Urteilsausspruch; entscheidet ueber Hauptsache, Kosten und vorlaeufige Vollstreckbarkeit.
+- **Tenor** — Urteilsausspruch; entscheidet ueber Hauptsache, Kosten und vorläufige Vollstreckbarkeit.
 - **Beweiswuerdigung (§ 286 ZPO)** — Freie Wuerdigung des Ergebnisses der Beweisaufnahme; Kernaufgabe des Gerichts.
-- **Vollrelation** — Ausfuehrliche Relation nach Schulstandard fuer Referendars- und Assessor-Pruefung.
+- **Vollrelation** — Ausfuehrliche Relation nach Schulstandard für Referendars- und Assessor-Pruefung.
 - **FamFG** — Gesetz ueber das Verfahren in Familiensachen; regelt Beschlussverfahren in Familiengericht-Sachen.
-- **CISG** — UN-Kaufrecht (Convention on Contracts for the International Sale of Goods); gilt fuer grenzueberschreitende Kaufvertraege zwischen Unternehmern aus Vertragsstaaten.
+- **CISG** — UN-Kaufrecht (Convention on Contracts for the International Sale of Goods); gilt für grenzueberschreitende Kaufvertraege zwischen Unternehmern aus Vertragsstaaten.
 
 ## Rechtsgrundlagen
 
@@ -201,10 +185,10 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - CISG — UN-Kaufrecht
 - Rom I-VO, Rom II-VO — Anwendbares Recht bei grenzueberschreitenden Sachverhalten
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Aktenintake: Akte einlesen, Verfahrensstand und Sachverhalt strukturieren.
-2. Zulaessigkeit pruefen: Gerichtliche Zustaendigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
+2. Zulaessigkeit pruefen: Gerichtliche Zuständigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
 3. Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Tenor, Tatbestand, Entscheidungsgruende, Kostenentscheidung und Rechtsmittelbelehrung nacheinander oder geblockt erstellen.
@@ -212,29 +196,29 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 ## Skill-Tour (was gibt es hier?)
 
 - `aktenintake-zivil` — Eingehende Zivilakte strukturieren und Ueberblick gewinnen.
-- `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch pruefen: Zustaendigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
+- `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch pruefen: Zuständigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
 - `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bei Anspruchskonkurrenz bestimmen.
 - `relation-zivil` — Zivilrechtliche Relation nach klassischer Relationstechnik erstellen (Kurz- oder Langfassung).
-- `vollrelation-langfassung` — Vollstaendige Relation im Schulstandard fuer Referendar- und Assessorpruefung.
+- `vollrelation-langfassung` — Vollstaendige Relation im Schulstandard für Referendar- und Assessorpruefung.
 - `beweiswuerdigung-mit-richter-input` — Strukturierte Beweiswuerdigung nach § 286 ZPO mit Richter-Input ausformulieren.
 - `beweisbeschluss-vorbereiten` — Beweisbeschluss nach § 359 ZPO vorbereiten.
 - `tatbestand-zivil-schreiben` — Tatbestand nach § 313 Abs. 2 ZPO sachlich und knapp ausformulieren.
 - `entscheidungsgruende-zivil-schreiben` — Entscheidungsgruende im Urteilsstil schreiben.
-- `tenor-bauen-zivil` — Tenor konstruieren: Hauptsache, Kosten, vorlaeufige Vollstreckbarkeit.
+- `tenor-bauen-zivil` — Tenor konstruieren: Hauptsache, Kosten, vorläufige Vollstreckbarkeit.
 - `kostenentscheidung-bauen` — Kostenentscheidung nach §§ 91 ff. ZPO erstellen und Kostenquote bestimmen.
-- `vorlaeufige-vollstreckbarkeit` — Richtige Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708 ff. ZPO bestimmen.
+- `vorläufige-vollstreckbarkeit` — Richtige Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708 ff. ZPO bestimmen.
 - `rechtsmittelbelehrung-zivil` — Rechtsmittelbelehrung nach §§ 232 ff. 511 ff. 567 ff. ZPO korrekt formulieren.
 - `beschluss-bauen-zpo` — Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, § 139 ZPO-Hinweis, Kostenfestsetzung.
 - `berufungsfest-pruefen` — Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen.
 - `revisionsfest-pruefen` — Revision-Zulassung und absolute Revisionsgruende nach § 547 ZPO pruefen.
-- `familienrichter-spezifika` — FamFG-Besonderheiten fuer Beschluss statt Urteil; Familiengericht-spezifische Normen.
+- `familienrichter-spezifika` — FamFG-Besonderheiten für Beschluss statt Urteil; Familiengericht-spezifische Normen.
 - `cisg-pruefen` — UN-Kaufrecht auf Anwendbarkeit und Eingreifen pruefen.
 - `internationales-privatrecht` — Anwendbares Recht bei grenzueberschreitenden Sachverhalten bestimmen (Rom I, Rom II).
 - `incoterms-und-gefahruebergang` — Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag pruefen.
 - `kollidierende-agb-pruefen` — Battle of the Forms bei beiderseitigen AGB im B2B-Verkehr loesen.
 - `dsgvo-rechtswidriges-produkt` — Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit pruefen.
 - `dokumente-rendern-urteil-docx` — Fertiges Urteil als DOCX im offiziellen Gerichtslayout rendern.
-- `schulung-urteilsbauer` — Schulungs-Trainerleitfaden fuer Ausbilder von Proberichtern und Referendaren.
+- `schulung-urteilsbauer` — Schulungs-Trainerleitfaden für Ausbilder von Proberichtern und Referendaren.
 
 ## Worauf besonders achten
 
@@ -264,7 +248,6 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - ZPO, FamFG, CISG, Rom I-VO, Rom II-VO in aktuell geltender Fassung
 - § 511 Abs. 2 Nr. 1 ZPO: Berufungsbeschwer 1.000 EUR (Anhebung durch Justizstandort-Staerkungsgesetz, ab 01.01.2026)
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -272,89 +255,3 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `workflow-chronologie-und-belegmatrix`
-
-**Fokus:** Chronologie und Belegmatrix im Plugin urteilsbauer-relationsmacher: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-# Chronologie und Belegmatrix
-
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin urteilsbauer-relationsmacher: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 3. `workflow-fristen-und-risikoampel`
-
-**Fokus:** Fristen- und Risikoampel im Plugin urteilsbauer-relationsmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
-
-# Fristen- und Risikoampel
-
-## Aufgabe
-Dieser Prüffeld markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
-
-## Fristen Urteilsabsetzung (Zivilprozess)
-- **Urteilsfrist § 315 ZPO:** Urteil ist binnen 3 Wochen nach Verkündung zur Geschäftsstelle zu übergeben (Aktenlauf); ohne vollständige Niederschrift kann Berufung erfolgreich rügen.
-- **Tatbestandsberichtigung § 320 ZPO:** Antrag innerhalb von 2 Wochen ab Zustellung des Urteils.
-- **Urteilsergänzung § 321 ZPO:** Antrag binnen 2 Wochen.
-- **Berufung:** Berufungsschrift 1 Monat (§ 517 ZPO), Begründung 2 Monate (§ 520 ZPO).
-- **Vorab-Tenor mit Gründen nach Lage der Akten möglich**, wenn Sache reif ist und keine Partei mündliche Verhandlung verlangt.
-
-## Risiken / Anti-Muster
-- **Rot:** Urteil ohne Rechtsbehelfsbelehrung -- Berufungsfrist beginnt nicht.
-- **Rot:** Tenor unbestimmt ("an die Klägerin zu zahlen, was sie erforderlich hat") -- nicht vollstreckbar; Aufhebung in der Berufung.
-- **Rot:** Wertung im Tatbestand statt in den Entscheidungsgründen.
-- **Rot:** Beweismaß-Verwechslung (§ 286 statt § 287 ZPO bei Schadenshöhe) -- Begründungsmangel.
-- **Gelb:** Tatbestand verweist auf "Anlage K1" ohne Wiedergabe des wesentlichen Inhalts -- Berufungsgericht nicht informiert.
-- **Gelb:** Kostenentscheidung ohne § 92 Abs. 2 ZPO bei nur geringer Zuvielforderung.
-- **Gelb:** Vorläufige Vollstreckbarkeit nach § 709 vs. § 711 ZPO falsch gewählt.
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

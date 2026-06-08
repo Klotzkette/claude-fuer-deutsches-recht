@@ -1,35 +1,21 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Freiheitsstrafe Strafmass Geldstrafe im Plugin Strafzumessung: prüft konkret Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB, Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs, Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung im Strafzumessung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Freiheitsstrafe Strafmass Geldstrafe
+# Freiheitsstrafe — Strafmass pruefen
 
 ## Arbeitsbereich
 
-**Freiheitsstrafe Strafmass Geldstrafe** ordnet den Fall über die tragenden Prüffelder: Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB, Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs, Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `freiheitsstrafe-strafmass-pruefen` | Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. |
-| `geldstrafe-tagessatzanzahl-bestimmen` | Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe. |
-| `geldstrafe-vs-freiheitsstrafe-47-stgb` | Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive. |
+Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `freiheitsstrafe-strafmass-pruefen`
-
-**Fokus:** Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung.
-
-# Freiheitsstrafe — Strafmass pruefen
 
 ## Worum geht es?
 
@@ -61,7 +47,7 @@ Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkret
  - Ueber 2 Jahre: keine Bewaehrung mehr.
 - Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 1. **Konkreten Strafrahmen** feststellen (vgl. `strafrahmen-und-strafzumessungsstufen`).
 2. **Schuldrahmen-Spielraum** bilden: untere und obere Grenze schuldangemessener Strafe.
@@ -94,7 +80,7 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 - Strafmilderungsgruende konsequent aufzeigen: §§ 46a, 17, 21 StGB.
 - Lange Verfahrensdauer ruegen und Kompensation einfordern.
 - Bewaehrungsperspektive sichern: Argumente zur Sozialprognose vorbereiten.
-- Wirtschaftliche und persoenliche Verhaeltnisse substantiiert vortragen.
+- Wirtschaftliche und persönliche Verhaeltnisse substantiiert vortragen.
 
 ## Antrags-Strategie Staatsanwaltschaft
 
@@ -123,166 +109,4 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 
 - §§ 38, 39, 46, 47, 49, 51, 56-57a StGB in der geltenden Fassung.
 - Art. 6 Abs. 1 EMRK Verfahrensdauer.
-- Quellenregel: vgl. `references/zitierweise.md`.
-
-## 2. `geldstrafe-tagessatzanzahl-bestimmen`
-
-**Fokus:** Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe.
-
-# Tagessatzanzahl der Geldstrafe — § 40 Abs. 1 StGB
-
-## Worum geht es?
-
-Bei der Geldstrafe wird die **Schuld** ueber die **Anzahl der Tagessaetze** ausgedrueckt; die **Hoehe** des einzelnen Tagessatzes spiegelt die wirtschaftlichen Verhaeltnisse wider (§ 40 Abs. 2 StGB; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`). Dieser Skill konzentriert sich auf die Zahl.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie pruefen einen Strafbefehl mit Tagessatzfestsetzung und wollen die Schuldkomponente ueberpruefen.
-- Sie bereiten den Strafantrag der Staatsanwaltschaft fuer ein Vergehen vor.
-- Sie schreiben die Strafzumessung im Urteil oder pruefen sie im Revisionsverfahren.
-- Sie bilden eine Gesamtgeldstrafe nach §§ 53, 54 StGB.
-
-## Rechtliche Grundlagen
-
-- **§ 40 Abs. 1 Satz 2 StGB** — "Die Geldstrafe betraegt mindestens fuenf und, soweit das Gesetz nichts anderes bestimmt, hoechstens dreihundertsechzig volle Tagessaetze."
-- **§ 54 Abs. 2 Satz 2 StGB** — Gesamtgeldstrafe bis 720 Tagessaetze.
-- **§ 47 StGB** — Vorrang Geldstrafe vor kurzer Freiheitsstrafe unter 6 Monaten; vgl. `geldstrafe-vs-freiheitsstrafe-47-stgb`.
-- **§ 41 StGB** — Geldstrafe neben Freiheitsstrafe moeglich, wenn der Taeter durch die Tat sich bereichert hat oder zu bereichern versucht hat.
-- **§ 53 Abs. 2 StGB** — Bei Realkonkurrenz mehrerer Geldstrafen Gesamtgeldstrafe.
-
-## Strafzumessungs-Grundsatz
-
-- Die Tagessatzanzahl folgt allein **§ 46 StGB**; Strafzumessungstatsachen wie Vorleben, Tatfolgen, Nachtatverhalten sind hier abzubilden.
-- Die Hoehe darf **nicht** in die Anzahl einfliessen — das waere eine unzulaessige Vermengung.
-- Schuldrahmen-Theorie auch hier: Innerhalb des "Spielraums schuldangemessener Strafe" wird konkret bestimmt.
-
-## Schritt-fuer-Schritt-Anleitung
-
-1. **Strafrahmen pruefen**: Ist Geldstrafe ueberhaupt vorgesehen? Wird die Strafrahmen-Obergrenze des Tatbestands beruehrt (z.B. § 242 StGB: bis 5 Jahre oder Geldstrafe; § 263 Abs. 1 StGB: bis 5 Jahre oder Geldstrafe).
-2. **Umrechnungsschluessel** beachten: 30 Tagessaetze = 1 Monat Freiheitsstrafe (faustregelhafte Aequivalenz; nicht starr, aber Orientierung).
-3. **Strafzumessungstatsachen** nach § 46 StGB sammeln und gewichten (vgl. `strafzumessungs-tatsachen-46-ii-stgb`).
-4. **Anzahl bestimmen** im Schuldrahmen.
-5. **Kein Lappenanteil** — § 40 Abs. 1 StGB verlangt "volle" Tagessaetze.
-6. **Bei Gesamtgeldstrafe** (§§ 53, 54 StGB): hoechste Einzelstrafe als Einsatzstrafe, dann Erhoehung um angemessenen Bruchteil bis maximal 720 Tagessaetze; vgl. `gesamtstrafenbildung-53-54-stgb-erste-instanz`.
-
-## Faustwerte (orientierend, nicht starr)
-
-| Bereich | Tagessatzanzahl |
-|---|---|
-| Bagatelle, ggf. § 153a StPO statt Strafbefehl | 5-30 |
-| Mittlere Vergehen ohne Vorbelastung | 30-90 |
-| Mittlere Vergehen mit Vorbelastung | 90-180 |
-| Schwere Vergehen, Mehrtaeterstrukturen | 180-360 |
-| Gesamtgeldstrafe Schwer-Komplex | 360-720 |
-
-Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld.
-
-## Sonderfaelle
-
-- **Mehrere Einzelstrafen** (Realkonkurrenz, § 53 StGB): Gesamtgeldstrafe nach § 54 Abs. 2 StGB; Erhoehung der hoechsten Einzelstrafe; max. 720 Tagessaetze.
-- **Geldstrafe neben Freiheitsstrafe** (§ 41 StGB): nur wenn Bereicherungsabsicht und Bereicherung erkennbar; sonst Aufhebungsgrund.
-- **Strafbefehl** (§ 407 Abs. 2 StPO): bis 360 Tagessaetze ohne Hauptverhandlung; vgl. `strafbefehl-strafzumessung-407-stpo`.
-- **Verstaendigung** (§ 257c StPO): Strafrahmen-Ober- und Untergrenze fuer Tagessatzanzahl koennen Verhandlungsgegenstand sein; vgl. `verstaendigung-257c-stpo-strafzumessung`.
-
-## Typische Fehler
-
-- **Tagessatzanzahl und -hoehe vermengt**: Schwierige wirtschaftliche Verhaeltnisse mindern die Hoehe, nicht die Anzahl.
-- **Doppelverwertung**: Tatbestandsmerkmal wird in die Anzahl eingerechnet.
-- **Strafrahmen ignoriert**: Bei Tatbestand mit Mindeststrafe Freiheitsstrafe ist Geldstrafe ausgeschlossen.
-- **§ 47 StGB uebersehen**: Wenn das Gericht statt Geldstrafe eine kurze Freiheitsstrafe verhaengt, muss es besondere Umstaende benennen.
-- **Gesamtgeldstrafe** falsch gebildet: Es duerfen nicht einfach die Einzelstrafen addiert werden; § 54 Abs. 1 Satz 2 StGB verlangt Erhoehung um eine "angemessene" Quote.
-
-## Querverweise
-
-- `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` — Hoehenkomponente.
-- `geldstrafe-vs-freiheitsstrafe-47-stgb` — Vorrang Geldstrafe.
-- `strafbefehl-strafzumessung-407-stpo` — Strafbefehl.
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Gesamtgeldstrafe.
-
-## Quellen und Stand 05/2026
-
-- §§ 40, 41, 47, 53, 54 StGB in der geltenden Fassung.
-- § 407 Abs. 2 StPO Strafbefehl.
-- Quellenregel: vgl. `references/zitierweise.md`.
-
-## 3. `geldstrafe-vs-freiheitsstrafe-47-stgb`
-
-**Fokus:** Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive.
-
-# Geldstrafe vs. Freiheitsstrafe — § 47 StGB
-
-## Worum geht es?
-
-§ 47 Abs. 1 StGB enthaelt eine gesetzgeberische Wertentscheidung **gegen** kurze Freiheitsstrafen. Eine Freiheitsstrafe unter sechs Monaten darf das Gericht nur verhaengen, wenn besondere Umstaende, die in der Tat oder der Persoenlichkeit des Taeters liegen, die Verhaengung der Freiheitsstrafe zur Einwirkung auf den Taeter oder zur Verteidigung der Rechtsordnung unerlaesslich machen. § 47 Abs. 2 StGB regelt das Verhaeltnis bei Tatbestaenden, die nur Freiheitsstrafe vorsehen.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie verteidigen gegen einen Strafantrag oder ein Urteil mit kurzer Freiheitsstrafe und wollen auf Geldstrafe umstellen lassen.
-- Sie pruefen die Strafzumessungsruege bei kurzer Freiheitsstrafe ohne ausreichende Begruendung.
-- Sie verhandeln in einer Verstaendigung den Strafrahmen und wollen die Geldstrafe-Schiene sichern.
-- Sie sondieren bei einem Tatbestand ohne Geldstrafe-Option, ob § 47 Abs. 2 StGB den Strafrahmen oeffnet.
-
-## Rechtliche Grundlagen
-
-- **§ 47 Abs. 1 StGB** — Eine Freiheitsstrafe unter sechs Monaten verhaengt das Gericht nur, wenn besondere Umstaende, die in der Tat oder in der Persoenlichkeit des Taeters liegen, die Verhaengung einer Freiheitsstrafe zur Einwirkung auf den Taeter oder zur Verteidigung der Rechtsordnung unerlaesslich machen.
-- **§ 47 Abs. 2 StGB** — Wenn das Gesetz keine Geldstrafe androht und eine Freiheitsstrafe unter sechs Monaten nicht in Betracht kommt, ist auf Geldstrafe zu erkennen. Der Strafrahmen der Geldstrafe ergibt sich aus § 40 Abs. 1 StGB (5 bis 360 Tagessaetze).
-- **§ 41 StGB** — Geldstrafe **neben** Freiheitsstrafe bei Bereicherungsabsicht.
-
-## Strafzumessungs-Grundsatz
-
-§ 47 StGB ist Ausdruck der **Subsidiaritaet** der kurzen Freiheitsstrafe. Praevention und Schuld stehen in einer Stufung:
-
-1. Erste Wahl: Geldstrafe.
-2. Nur in Ausnahmefaellen: kurze Freiheitsstrafe; das Gericht muss "besondere Umstaende" konkret benennen.
-3. Auch dann moeglichst mit Bewaehrung (§ 56 StGB).
-
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
-
-1. **Strafrahmen pruefen**: Sieht der Tatbestand Geldstrafe vor? Wenn nein, Klappentest fuer § 47 Abs. 2 StGB.
-2. **Argumente gegen besondere Umstaende sammeln**:
- - Erstmaliger Verstoss.
- - Niedrige kriminelle Energie.
- - Soziale Integration: Beruf, Familie, intakte Bindungen.
- - Akute persoenliche Belastung (Sucht, Krise) bereits in Behandlung.
- - Kein einschlaegiges Vorleben.
-3. **Tagessatz-Berechnung beilegen**, damit das Gericht Geldstrafe konkret verhaengen kann; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
-4. **In der Hauptverhandlung** ausdruecklich beantragen: "Wir beantragen Verhaengung einer Geldstrafe; eine Freiheitsstrafe ist nach § 47 Abs. 1 StGB nicht unerlaesslich, da [...]."
-5. **Wenn doch kurze Freiheitsstrafe**: hilfsweise Bewaehrung (§ 56 StGB) sichern; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
-6. **In der Revision**: § 47 Abs. 1 StGB ist eine Vorschrift, deren Verletzung mit der Sachruege geltend gemacht werden kann; Begruendungsmangel im Urteil ist regelmaessiger Aufhebungsgrund.
-
-## Schritt-fuer-Schritt-Anleitung (Anklage)
-
-- Wenn kurze Freiheitsstrafe angestrebt wird, **konkret** vortragen, welche besonderen Umstaende vorliegen:
- - Einschlaegige Vorbelastung, mehrfache Bewaehrungsversager.
- - Tat-Spezifika (z.B. Gewerbsmaessigkeit, Bandenstruktur, Wiederholungstat in Bewaehrung).
- - Schwergewichtige Tatfolgen ueber Tatbestandsmerkmal hinaus.
-- Verteidigung der Rechtsordnung nur bei massiven oder oeffentlichkeitswirksamen Faellen tragfaehig.
-
-## Strafmildernde Wirkung gegenueber Geldstrafe
-
-- Geldstrafe statt Freiheitsstrafe ist **kein** automatischer Strafzumessungsabschlag. Anzahl der Tagessaetze kann hoch sein, ohne dass das Strafmass unverhaeltnismaessig wird.
-- Faustregel der Praxis: 30 Tagessaetze entsprechen ungefaehr 1 Monat Freiheitsstrafe (orientierend).
-
-## Verhaeltnis zu § 56 StGB (Bewaehrung)
-
-Wird trotzdem eine kurze Freiheitsstrafe (3 bis 6 Monate) verhaengt, ist Bewaehrung nach § 56 Abs. 1 StGB (Strafe bis 1 Jahr) Standard, sofern Sozialprognose positiv ist; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
-
-## Typische Fehler
-
-- **Pauschale Begruendung** im Urteil: "Die Schwere der Tat erfordert eine Freiheitsstrafe." Das ist keine besondere Umstaende-Begruendung iSv § 47 Abs. 1 StGB; Revisionsruege.
-- **Verteidigung der Rechtsordnung** ohne Tatsachen: Floskel, die in der Revision regelmaessig faellt.
-- **Vorstrafen** allein begruenden in der Regel nicht ohne weiteres die Unerlaesslichkeit; nur einschlaegige und intensive Vorbelastung.
-- **§ 41 StGB falsch** angewendet: Geldstrafe neben Freiheitsstrafe **nur** bei Bereicherungsabsicht.
-
-## Querverweise
-
-- `geldstrafe-tagessatzanzahl-bestimmen` — Anzahl bestimmen.
-- `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` — Hoehe bestimmen.
-- `freiheitsstrafe-strafmass-pruefen` — bei laengerer Freiheitsstrafe.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Aussetzung zur Bewaehrung.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungsmangel als Ruege.
-
-## Quellen und Stand 05/2026
-
-- §§ 40, 41, 47, 56 StGB in der geltenden Fassung.
 - Quellenregel: vgl. `references/zitierweise.md`.

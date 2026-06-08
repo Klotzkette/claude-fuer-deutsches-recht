@@ -27,11 +27,11 @@ description: "Klausel-Fachmodul für Kündigung Ordentlich: prüft, redlined und
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Ordentliche Kuendigung:**
- - **Form:** § 309 Nr. 13 BGB: Form der Kuendigungserklaerung des Verbrauchers darf nicht ueber Textform (§ 126b BGB) hinausgehen. AGB-Klausel "Schriftform" fuer Verbraucher-Kuendigung unwirksam (BGH-Linie).
+ - **Form:** § 309 Nr. 13 BGB: Form der Kuendigungserklaerung des Verbrauchers darf nicht ueber Textform (§ 126b BGB) hinausgehen. AGB-Klausel "Schriftform" für Verbraucher-Kuendigung unwirksam (BGH-Linie).
  - **Reziprozitaet:** Eigene Kuendigungsfrist des Verwenders darf nicht laenger sein als die des Kunden (asymmetrische Klauseln regelmaessig unwirksam, § 307 BGB).
  - **Frist B2C:** Bei Verbrauchervertraegen ueber wiederkehrende Lieferungen Kuendigungsfrist max. 1 Monat (§ 309 Nr. 9 lit. c BGB).
  - **Kuendigungsbutton § 312k BGB:** Bei Verbrauchervertraegen im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen (Streaming, Abos, Mitgliedschaften) gilt: Kuendigungsbutton "Vertraege hier kuendigen" muss gut lesbar, dauerhaft verfuegbar und ohne Anmeldung erreichbar sein; Bestaetigungsseite mit Bestaetigungsbutton; Bestaetigung in Textform an Kunde.
- - **B2B:** Direkte Anwendung von § 309 Nr. 13 BGB ausgeschlossen (§ 310 Abs. 1 BGB); Wertungsausstrahlung ueber § 307 BGB. Schriftform fuer B2B-Kuendigung haeufig zulaessig, jedoch Begrenzung auf qualifizierte elektronische Signatur unwirksam, da Textform mit elektronischer Form (Mail, Fax) ausreichen muss.
+ - **B2B:** Direkte Anwendung von § 309 Nr. 13 BGB ausgeschlossen (§ 310 Abs. 1 BGB); Wertungsausstrahlung ueber § 307 BGB. Schriftform für B2B-Kuendigung haeufig zulaessig, jedoch Begrenzung auf qualifizierte elektronische Signatur unwirksam, da Textform mit elektronischer Form (Mail, Fax) ausreichen muss.
  - **Mietrecht-Spezifika:** § 568 Abs. 1 BGB - Kuendigung des Wohnraummietverhaeltnisses bedarf der Schriftform (gesetzliche Schriftform, nicht durch AGB modifizierbar). § 573c BGB Kuendigungsfristen Mieter gesetzlich zwingend.
  - **Arbeitsrecht-Spezifika:** § 623 BGB - Schriftform zwingend; § 126a BGB qES ausdruecklich ausgeschlossen.
 6. **Rechtsfolge:** Unwirksamkeit; Kunde kann auch in Textform kuendigen; gesetzliche Fristen greifen.

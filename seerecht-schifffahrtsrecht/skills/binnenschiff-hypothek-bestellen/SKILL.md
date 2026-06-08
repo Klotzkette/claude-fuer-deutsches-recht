@@ -1,0 +1,105 @@
+---
+name: binnenschiff-hypothek-bestellen
+description: "Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Binnenschiff – Schiffshypothek bestellen
+
+## Arbeitsbereich
+
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+Eine Bank bestellt eine Hypothek auf ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
+
+## Erste Schritte
+1. Eintragungsfaehigkeit des Binnenmotorgueterschiff; Tanker oder Fahrgastschiffs pruefen; Eintragung im Binnenschiffsregister (AG Duisburg-Ruhrort) bestaetigen.
+2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
+3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
+4. Vertretungsbefugnis des Eigentuemers pruefen; ggf. Handelsregisterauszug.
+5. Eintragungsantrag beim {reg_type}-Gericht stellen; Rangstelle fruehzeitig reservieren.
+6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
+
+## Rechtsrahmen
+- BinSchG §§ 1-133; SchRG §§ 1-75 für eingetragene Binnenschiffe; BinSchRegO; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards.
+
+## Prüfraster
+- Ist das Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Binnenschiffsregister (AG Duisburg-Ruhrort) eingetragen und eintragungsfaehig?
+- Ist die Sicherungsabrede vollstaendig und rechtswirksam?
+- Ist Zubehoer-Mithaftung (SchRG § 31) vertraglich gesichert?
+- Ist die notarielle Form eingehalten (SchRG § 17)?
+- Ist der Rangstellen-Antrag fruehzeitig gestellt?
+
+## Typische Fallstricke
+- Fehlende notarielle Form fuehrt zur Nichtigkeit der Hypothek (SchRG § 17).
+- Rang entsteht mit Antragstellung; fruehzeitig beim Binnenschiffsregister (AG Duisburg-Ruhrort)-Gericht stellen.
+- Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
+
+## Output
+Checkliste Hypothekenbestellung und Unterlagen-Übersicht für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
+
+## Vertiefung: Hypothekenarten im deutschen Schiffsrecht
+Das SchRG kennt die Verkehrshypothek (§§ 8-30) und die Höchstbetragshypothek (§ 75). Die Verkehrshypothek ist an eine bestimmte Forderung gebunden; die Höchstbetragshypothek sichert variable Forderungen bis zu einem eingetragenen Maximalbetrag und eignet sich für revolvierende Kreditlinien. In der Praxis der Schiffsfinanzierung dominiert die Hypothekenbestellung als erstrangige Höchstbetragshypothek zugunsten der Konsortialführerbank.
+
+## Verfahrensablauf Hypothekenbestellung
+1. **Vor der Bestellung**: Eintragungsfähigkeit prüfen; Rangstelle reservieren (SchRegO § 13); Sicherungsabrede verhandeln.
+2. **Bestellung**: Notarielle Bestellungsurkunde; Unterschriften des Eigentümers; Vollmachten (ggf. notariell beglaubigt).
+3. **Eintragung**: Antrag beim Registergericht; Vorlage der Bestellungsurkunde; Eintragungsgebühr.
+4. **Nach der Eintragung**: Registerauszug beschaffen; Sicherungsvertrag und Registerauszug archivieren; Mortgagee's Interest Insurance prüfen.
+
+## Praktische Hinweise
+In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) die Hypothek für alle Konsortialmitglieder. Die Hypothek kann jederzeit abgetreten werden (SchRG §§ 35-58); für die Abtretung ist Briefübergabe oder Eintragung erforderlich je nach Hypothekenart.
+
+## Checkliste Hypothekenbestellung
+- [ ] Eintragungsfähigkeit des Schiffes bestätigt (SchRG § 1)
+- [ ] Eigentümer mit Vollmacht zur Hypothekenbestellung legitimiert
+- [ ] Sicherungsabrede (Security Agreement / Credit Agreement) unterzeichnet
+- [ ] Notarielle Hypothekenbestellungsurkunde erstellt und unterzeichnet
+- [ ] Eintragungsantrag beim Registergericht gestellt; Rangstelle reserviert
+- [ ] Mithaftung des Zubehörs (SchRG § 31) vertraglich vereinbart
+- [ ] Eintragungsbestätigung und ggf. Hypothekenbrief gesichert
+- [ ] Mortgagee's Interest Insurance (MII) beantragt
+
+## Relevante Rechtsprechung
+- BGH zur Wirksamkeit der notariellen Hypothekenbestellungsurkunde; Formerfordernisse SchRG § 17.
+- BGH zur Mithaftung des Zubehörs nach SchRG § 31; Abgrenzung Schiffszubehör von persönlichem Eigentum des Kapitäns.
+- OLG Hamburg zur Rangfolge bei gleichzeitig beantragten Hypotheken; Zeitpunkt der Antragstellung maßgeblich.
+
+## Normen im Überblick
+- SchRG § 8: Begründung der Schiffshypothek durch Einigung und Eintragung.
+- SchRG §§ 9-14: Inhalt der Eintragungsurkunde; Form; Unterschriften.
+- SchRG §§ 15-18: Eintragungsvoraussetzungen; notarielle Form.
+- SchRG §§ 35-58: Übertragung der Hypothek; Abtretung; Pfändung.
+- SchRG § 59: Rangfolge; ältere Hypothek geht jüngerer vor.
+- SchRG § 75: Höchstbetragshypothek für revolvierende Kredite.
+- InsO § 49: Absonderungsrecht des Hypothekengläubigers in der Insolvenz des Reeders.
+
+## Quellen
+- SchRG §§ 8-18: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
+- SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
+- BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
+- dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 4 WSG
+- § 267 StGB
+- § 49 EStG
+- § 8b KStG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

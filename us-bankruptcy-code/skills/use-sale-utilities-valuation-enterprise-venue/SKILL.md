@@ -1,47 +1,29 @@
 ---
 name: use-sale-utilities-valuation-enterprise-venue
-description: "USE Sale Utilities Valuation Enterprise Venue im Plugin Us Bankruptcy Code: prüft konkret Prueft ordinary/nonordinary use, sale or lease of estate property, notice, busin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# USE Sale Utilities Valuation Enterprise Venue
+# Use, Sale or Lease § 363
 
 ## Arbeitsbereich
 
-**USE Sale Utilities Valuation Enterprise Venue** ordnet den Fall über die tragenden Prüffelder: Prueft ordinary/nonordinary use, sale or lease of estate property, notice. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `use-sale-lease-363` | Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections. |
-| `utilities-366` | Prueft utility service, adequate assurance, deposits, objections and first-day relief. |
-| `valuation-enterprise` | Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer. |
-| `venue-jurisdiction-core` | Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions. |
+Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `use-sale-lease-363`
-
-**Fokus:** Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections.
-
-# Use, Sale or Lease § 363
 
 ## Fachkern: Use, Sale or Lease § 363
-- **Spezialgegenstand:** Use, Sale or Lease § 363 wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
+Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
 
 Dieser Skill macht aus dem Thema **Use, Sale or Lease § 363** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -51,7 +33,6 @@ Dieser Skill macht aus dem Thema **Use, Sale or Lease § 363** eine belastbare A
 - Bankruptcy Rules sale procedures
 - Local Rules
 
-
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
 ## Intake-Fragen
@@ -60,20 +41,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - What property and value?
 - Notice parties and objections?
 
-
 ## Workflow
 
 1. Transaction classify.
 2. Business justification and evidence.
 3. Approval order scope prüfen.
 
-
 ## Output
 
 - 363 transaction memo
 - Notice checklist
 - Objection response
-
 
 ## Tiefencheck für die Akte
 
@@ -85,210 +63,6 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 - Welche deutschen Beteiligten brauchen Übersetzung: Käufer, Verkäufer, Kreditgeber, Betriebsrat, Datenschutz, Kartellrecht?
 
 **Mindest-Output:** Sale-Chart mit assets, liens, bidder protections, objections, approvals und closing deliverables.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 2. `utilities-366`
-
-**Fokus:** Prueft utility service, adequate assurance, deposits, objections and first-day relief.
-
-# Utilities § 366
-
-## Fachkern: Utilities § 366
-- **Spezialgegenstand:** Utilities § 366 wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Utilities § 366** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. § 366
-- First-day motion practice
-- Utility contracts
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Which utilities critical?
-- Prepetition arrears?
-- Adequate assurance proposal?
-
-
-## Workflow
-
-1. Utility matrix bauen.
-2. Deposit/assurance package.
-3. Objection and cutoff risk prüfen.
-
-
-## Output
-
-- Utilities motion checklist
-- Adequate assurance table
-- Service risk memo
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Ist der Vertrag executory, lease, IP license, supply agreement, franchise, real-property lease oder utility arrangement?
-- Welche cure amounts, defaults, anti-assignment clauses, consent rights und performance burdens bestehen?
-- Geht es um assumption, rejection, assignment, adequate assurance oder nur um operative Fortführung?
-- Welche Rechte des deutschen Vertragspartners sind durch stay, claims process und US court order begrenzt?
-
-**Mindest-Output:** Contract-Dashboard mit Vertragstyp, § 365-Route, cure, assignment risk und claim consequence.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 3. `valuation-enterprise`
-
-**Fokus:** Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer.
-
-# Enterprise Valuation
-
-## Fachkern: Enterprise Valuation
-- **Spezialgegenstand:** Enterprise Valuation wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Enterprise Valuation** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. §§ 506, 548, 1129
-- Valuation reports
-- Financial projections
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Purpose of valuation?
-- Method: DCF, comps, liquidation?
-- Projection reliability?
-
-
-## Workflow
-
-1. Valuation purpose define.
-2. Inputs and methods stress-test.
-3. Sensitivity and expert questions.
-
-
-## Output
-
-- Valuation critique memo
-- Assumption checklist
-- Expert questions
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 4. `venue-jurisdiction-core`
-
-**Fokus:** Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions.
-
-# Venue, Jurisdiction and Core Proceedings
-
-## Fachkern: Venue, Jurisdiction and Core Proceedings
-- **Spezialgegenstand:** Venue, Jurisdiction and Core Proceedings wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Venue, Jurisdiction and Core Proceedings** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 28 U.S.C. §§ 1334, 1408, 157 as source anchors
-- Bankruptcy Rules live prüfen
-- Local Rules
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Wo sitzt debtor/assets/principal place?
-- Core proceeding or related litigation?
-- Removal from state court?
-
-
-## Workflow
-
-1. Venue facts sammeln.
-2. Core/non-core issue markieren.
-3. Forum strategy vorbereiten.
-
-
-## Output
-
-- Venue memo
-- Jurisdiction issue list
-- Removal/abstention questions
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
 
 ## Qualitäts- und Risikofilter
 

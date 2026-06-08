@@ -40,7 +40,7 @@ Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen
 3. **Risikoanalyse.** Erneute Risikoanalyse nach Methodik des urspruenglichen DSFA-Skills; Risikomatrix vor und nach erneuten Massnahmen.
 4. **Massnahmen.** Pruefung, ob bestehende Massnahmen ausreichen oder ergaenzt werden muessen.
 5. **Restrisiko.** Vergleich Restrisiko alt versus neu; ggf. neue Art. 36 Konsultation.
-6. **Konsultation / Genehmigung.** DSB-Anhoerung, Freigabe und Versionierung; alte Versionen archivieren, nicht loeschen.
+6. **Konsultation / Genehmigung.** DSB-Anhörung, Freigabe und Versionierung; alte Versionen archivieren, nicht loeschen.
 
 ## Mustertext / Template Revisionsplan
 
@@ -81,7 +81,7 @@ Verantwortlicher: [NAME]
 [Liste der zusaetzlichen oder geaenderten Massnahmen]
 
 6. Freigabe
-- DSB-Anhoerung: [Datum, Stellungnahme]
+- DSB-Anhörung: [Datum, Stellungnahme]
 - Genehmigung Verantwortlicher: [Name, Datum]
 - Aufsicht informiert (falls Art. 36): [Datum]
 - Eintrag Verarbeitungsverzeichnis aktualisiert: [Datum]

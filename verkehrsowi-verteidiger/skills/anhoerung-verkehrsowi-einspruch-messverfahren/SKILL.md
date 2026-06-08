@@ -1,42 +1,24 @@
 ---
 name: anhoerung-verkehrsowi-einspruch-messverfahren
-description: "Anhoerung Verkehrsowi Einspruch Messverfahren im Plugin Verkehrsowi Verteidiger: prüft konkret Anhoerung, Einspruchsfrist im OWi-Verfahren berechnen und wahren, Prüffeld für verkehrsowi messverfahren geschwindigkeit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anhoerung Verkehrsowi Einspruch Messverfahren
+# Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Arbeitsbereich
 
-**Anhoerung Verkehrsowi Einspruch Messverfahren** ordnet den Fall über die tragenden Prüffelder: Anhoerung, Einspruchsfrist im OWi-Verfahren berechnen und wahren, Prüffeld für verkehrsowi messverfahren geschwindigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `spezial-anhoerung-fristen-form-und-zustaendigkeit` | Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `verkehrsowi-fristen-einspruch` | Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Prüfraster: Zustellungsdatum und -art, Fristberechnung, Beschraenkter Einspruch § 67 Abs. 2 OWiG (nur Fahrverbot). Output Fristenblatt, Einspruchs-Template, ggf. Wiedereinsetzungsantrag. Abgrenzung: Inhalt des Einspruchs siehe verkehrsowi-beweisverwertung-standardisiert; Rechtsbeschwerde siehe verkehrsowi-rechtsbeschwerde. |
-| `verkehrsowi-messverfahren-geschwindigkeit` | Prüffeld für verkehrsowi messverfahren geschwindigkeit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verkehrs-OWi-Verteidigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `spezial-anhoerung-fristen-form-und-zustaendigkeit`
-
-**Fokus:** Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Spezialwissen: Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg / anhoerung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+## Spezialwissen: Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** OWiG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -49,7 +31,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Anhoerung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Anhörung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -72,207 +54,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Praktische Übersetzung:** Niemals nur pauschal „Messung bestreiten“. Immer präzise anfordern: Falldatei/Rohmessdaten, Messreihe soweit vorhanden und relevant, Token/Passwort, Eichschein, Gebrauchsanweisung, Schulungsnachweise, Wartungs-/Reparaturhinweise, Standort-/Beschilderungsunterlagen, Statistik und Auswerteprotokoll.
 - **Angriffslinie:** Standardisiertes Messverfahren ist eine Beweiserleichterung, kein Denkverbot. Der Skill muss aus Unterlagen konkrete Einwendungen machen: falsches Gerät, fehlende Eichung, fehlerhafte Bedienung, unklare Fahreridentität, unplausible Messreihe, fehlende Einsicht, Frist-/Gehörsproblem.
 - **Output-Pflicht:** Immer ein kurzes Anforderungsschreiben oder einen gerichtsfesten Begründungsbaustein anbieten, wenn Akteneinsicht, Messunterlagen oder Fristwahrung Thema sind.
-
-## 2. `verkehrsowi-fristen-einspruch`
-
-**Fokus:** Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Prüfraster: Zustellungsdatum und -art, Fristberechnung, Beschraenkter Einspruch § 67 Abs. 2 OWiG (nur Fahrverbot). Output Fristenblatt, Einspruchs-Template, ggf. Wiedereinsetzungsantrag. Abgrenzung: Inhalt des Einspruchs siehe verkehrsowi-beweisverwertung-standardisiert; Rechtsbeschwerde siehe verkehrsowi-rechtsbeschwerde.
-
-# Einspruchsfrist und Einspruch — § 67 OWiG
-
-## Triage zu Beginn
-
-1. **Wann wurde der Bussgeldbescheid zugestellt?** — Ausgangspunkt der 2-Wochen-Frist § 67 Abs. 1 OWiG.
-2. **Zustellungsform?** — Persoenliche Uebergabe, Einwurf-Einschreiben (§§ 33 OWiG, 180 ZPO), PZU.
-3. **Mandant kennt Zugangsdatum?** — Falls unsicher: Zustellungsfiktion pruefen; fuer Mandanten spaetestes bekanntes Datum nehmen.
-4. **Frist bereits abgelaufen?** — Wiedereinsetzungsantrag nach § 52 OWiG pruefen.
-5. **Beschraenkt oder unbeschraenkt einlegen?** — § 67 Abs. 2 OWiG: Beschraenkung auf Rechtsfolgen moeglich.
-
-## Zentrale Normen
-
-- **§ 67 Abs. 1 OWiG** — Einspruch: 2 Wochen ab Zustellung des Bussgeldbescheids
-- **§ 67 Abs. 2 OWiG** — Beschraenkter Einspruch auf Rechtsfolgen (Geldbusse, Fahrverbot)
-- **§ 33 OWiG** — Zustellungsvorschriften: entsprechende Anwendung ZPO
-- **§ 52 OWiG** — Wiedereinsetzung in den vorigen Stand nach § 44 StPO entsprechend
-- **§ 74 OWiG** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
-- **§ 28 OWiG** — Bekanntmachung des Bussgeldbescheids; Fristbeginn
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Fristen-Berechnungsschema
-
-```
-Zustellungsdatum: [DATUM]
-+ 14 Tage: [DATUM + 14 Tage]
-= Fristende: [DATUM]
-
-Besonderheiten:
-- Fristende Samstag/Sonntag/Feiertag → naechster Werktag (§ 43 StPO)
-- Zustellungsfiktion § 180 ZPO: Einwurf-Einschreiben = 3 Tage nach Aufgabe
-- Mandant im Urlaub/Krankenhaus → Wiedereinsetzungsgruende pruefen
-```
-
-## Entscheidungsbaum
-
-```
-Frist noch offen?
-├─ Ja → Einspruch sofort formulieren und einlegen
-│ ├─ Beschraenkt (nur Rechtsfolgen)? → § 67 Abs. 2 OWiG
-│ └─ Unbeschraenkt → Standardvorgehen
-└─ Nein (Frist abgelaufen)
- ├─ Kein Verschulden? → Wiedereinsetzung § 52 OWiG
- │ ├─ Krankheit, Urlaub, Fehler der Behoerde
- │ └─ Eidesstattliche Versicherung + gleichzeitiger Einspruch
- └─ Verschulden → Bussgeldbescheid rechtskraeftig; Vollstreckung abwenden
-```
-
-## Output-Template Einspruchsschreiben
-
-```
-An die [Bussgeldstelle] / Amtsgericht [ORT]
-Az.: [AKTENZEICHEN]
-
-Einspruch nach § 67 OWiG
-
-Namens des Betroffenen [NAME] lege ich gegen den Bussgeldbescheid
-vom [DATUM DES BESCHEIDS], zugegangen am [ZUSTELLUNGSDATUM],
-form- und fristgerecht
-
-Einspruch
-
-ein.
-
-[Falls beschraenkt: Der Einspruch wird auf die festgesetzten
-Rechtsfolgen beschraenkt. § 67 Abs. 2 OWiG.]
-
-Ich bitte um Uebersendung der vollstaendigen Verfahrensakte
-einschliesslich Messakte.
-
-Anlage: Vollmacht [NAME]
-
-Mit freundlichen Gruessen [KANZLEI]
-```
-
-## Harte Leitplanken
-
-- Frist unmittelbar nach Mandatsuebernahme berechnen und im Kalender eintragen.
-- 3-Tage-Vorlauffrist-Erinnerung setzen.
-- Beschraenkter Einspruch nur nach Mandantenruecksprache.
-- Anwaltliche Endkontrolle vor dem Versand.
-
-## 3. `verkehrsowi-messverfahren-geschwindigkeit`
-
-**Fokus:** Prüffeld für verkehrsowi messverfahren geschwindigkeit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
-# Geschwindigkeitsmessung OWi-Verfahren
-
-## Triage zu Beginn — Sofortklaerung
-
-1. **Messgeraet identifizieren:** Welches Geraet wurde eingesetzt? (ESO ES 3.0 / ProViDa / TraffiStar S350 / Riegl FG21-P / PoliScan Speed / Traffipax Traffistar S330) — beeinflusst Angriffsstrategie entscheidend.
-2. **Toleranzabzug korrekt?** — PTB-Tabelle: Geschw. bis 100 km/h: 3 km/h Abzug; ab 100 km/h: 3% Abzug. Im Bescheid korrekt angewendet?
-3. **Eichschein vorhanden und gueltig?** — Eichschein aus der Messakte anfordern; Eichgueltigkeit pruefen (Ablaufdatum); § 6 MessEG.
-4. **Messprotokoll und Schulungsnachweis?** — Bedienungsanleitung beachtet? Beamter fuer dieses Geraet geschult?
-5. **Rohmessdaten vorhanden und herausgegeben?** — Nach BVerfG hat Betroffener Recht auf Zugang zu Rohmessdaten; Verweigerung verletzt rechtliches Gehoer.
-
-## Zentrale Normen
-
-- **§ 24 StVG** — Ordnungswidrigkeitentatbestand Geschwindigkeitsueberschreitung
-- **§ 49 StVO i.V.m. § 3 StVO** — Geschwindigkeitsvorschriften
-- **§ 6 MessEG** — Eichpflicht fuer Messgeraete im Verkehr
-- **§ 244 Abs. 2 StPO i.V.m. § 77 OWiG** — Amtsaufklaerungspflicht
-- **§ 46 OWiG i.V.m. § 244 StPO** — Beweisantragsrecht im OWi-Verfahren
-- **Art. 103 Abs. 1 GG** — Rechtliches Gehoer (Rohmessdaten-Recht)
-
-## Aktuelle Rechtsprechung (Stand Mai 2026)
-
-Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
-
-- **BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18** — Recht des Betroffenen auf Zugang zu den nicht-zum-Aktenbestand gehörenden Messunterlagen (Rohmessdaten, Lebensakte etc.) als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
-- **BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20** — Keine Pflicht zur Speicherung von Rohmessdaten bei standardisiertem Messverfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle: bundesverfassungsgericht.de
-- BGH-Linie zum standardisierten Messverfahren: konkrete Aktenzeichen (Beschluesse BGH 4. Strafsenat) vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
-
-Hinweis: Standardisiertes Messverfahren bringt Beweis-Erleichterung; konkrete Angriffspunkte (Eichung, Aufstellung, Mehrfachreflexion, Bedienfehler) müssen substantiiert vorgetragen werden.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Messverfahren-Angriffspunkte — Checkliste
-
-```
-EICHUNG:
-□ Eichschein vorhanden (aus Messakte)?
-□ Eichgueltigkeit zum Messzeitpunkt?
-□ Geraet in Deutschland geeicht (PTB-Zulassung)?
-
-AUFSTELLUNG / BEDIENUNG:
-□ Standort wie in Bedienungsanleitung vorgeschrieben?
-□ Mindestabstand zu Schildern / Kurven eingehalten?
-□ Keine gegenueberliegenden Reflexionsflaechen?
-□ Mehrfachbelegerung (zwei Fahrzeuge gleichzeitig im Messfeld)?
-
-MESSFOTO / ZUORDNUNG:
-□ Fahrzeug eindeutig identifizierbar?
-□ Kennzeichen lesbar?
-□ Nur ein Fahrzeug im relevanten Messbereich?
-□ Fahrtrichtung korrekt?
-
-SCHULUNG:
-□ Messbeamter fuer dieses Geraet geschult?
-□ Schulungsnachweis in der Akte?
-
-ROHMESSDATEN:
-□ Rohmessdaten angefordert?
-□ Herausgegeben oder Weigerung begruendet?
-□ Bei Weigerung: BVerfG 2020 zitieren, Verwertungsverbot ruegen
-```
-
-## Toleranzabzuege nach PTB-Richtlinie
-
-| Gemessene Geschwindigkeit | Toleranzabzug |
-|--------------------------|---------------|
-| Bis 100 km/h | 3 km/h |
-| Ueber 100 km/h | 3% der Messung |
-
-**Beispiel:** Gemessen 84 km/h → abzuziehen 3 km/h → vorwerfbar 81 km/h.
-**Beispiel:** Gemessen 130 km/h → abzuziehen 3% = 3,9 km/h ≈ 4 km/h → vorwerfbar 126 km/h.
-
-## Schritt-fuer-Schritt-Workflow
-
-1. **Messakte vollstaendig anfordern** (§ 147 StPO i.V.m. § 49 OWiG): Eichschein, Messprotokoll, Schulungsnachweis, Rohmessdaten, Messfoto hochauflöesend.
-2. **Toleranzabzug nachrechnen** — ist der Abzug im Bescheid korrekt?
-3. **Eichgueltigkeit pruefen** — Eichablaufdatum vor Messzeitpunkt?
-4. **Messfoto analysieren** — eindeutige Fahrzeugzuordnung?
-5. **Sachverstaendigen-Antrag stellen** (§ 244 Abs. 4 StPO i.V.m. § 77 OWiG) wenn konkrete Angriffspunkte bestehen.
-6. **Verwertungsverbot ruegen** bei fehlenden Rohmessdaten (BVerfG 2020 zitieren).
-
-## Output-Template Messakte-Anforderung
-
-```
-An das Amtsgericht [ORT] / die Zentrale Bussgeldbehörde [ORT]
-Az.: [AKTENZEICHEN]
-
-Antrag auf vollstaendige Akteneinsicht und Herausgabe der Messunterlagen
-
-Ich fordere die vollstaendige Messakte einschliesslich:
-- Messprotokoll (Aufstellungsort, Zeit, Geraet)
-- Eichschein (original oder beglaubigte Kopie)
-- Bedienungsanleitung fuer [GERAET]
-- Schulungsnachweis des Messbeamten
-- Rohmessdaten des Falldatensatzes und gesamter Messreihe (BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — Volltext und Randnummern aus bundesverfassungsgericht.de)
-- Messfoto hochaufloesend
-
-Ohne vollstaendige Herausgabe wird Verwertungsverbot gerueget.
-
-Mit freundlichen Gruessen [KANZLEI]
-```
-
-## Harte Leitplanken
-
-- Rohmessdaten-Anforderung ist Standard — niemals darauf verzichten.
-- Sachverstaendigen-Antrag nur bei konkreten Angriffspunkten stellen (pauschal genuegt nicht).
-- Toleranzabzug immer selbst nachrechnen.
-- Anwaltliche Endkontrolle bei Sachverstaendigen-Auswahl und Beweisantraegen.

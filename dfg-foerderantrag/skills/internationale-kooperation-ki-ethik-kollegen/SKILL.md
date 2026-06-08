@@ -1,58 +1,58 @@
 ---
 name: internationale-kooperation-ki-ethik-kollegen
-description: "Internationale Kooperation KI Ethik Kollegen im DFG-Förderantragstellung: prüft konkret Internationale Kooperation in DFG-Antrag aufbauen, DFG-Antrag auf KI-Nutzung, Ethik, Datenschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller, Gemeinsame Arbeitspakete, Datenaustausch. Pruefraster für Vertragslage und Letter of Intent im DFG-Förderantrag: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Internationale Kooperation KI Ethik Kollegen
+# DFG: Internationale Kooperation
 
 ## Arbeitsbereich
 
-**Internationale Kooperation KI Ethik Kollegen** ordnet den Fall über die tragenden Prüffelder: Internationale Kooperation in DFG-Antrag aufbauen, DFG-Antrag auf KI-Nutzung, Ethik. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller, Gemeinsame Arbeitspakete, Datenaustausch. Pruefraster für Vertragslage und Letter of Intent. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `dfg-internationale-kooperation-aufbau` | Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller, Gemeinsame Arbeitspakete, Datenaustausch. Pruefraster fuer Vertragslage und Letter of Intent. |
-| `dfg-ki-ethik-forschungsdaten` | DFG-Antrag auf KI-Nutzung, Ethik, Datenschutz, Forschungsdatenmanagement und gute wissenschaftliche Praxis prüfen. Behandelt Vertraulichkeit in Begutachtung, Datenmanagementplan, sensible Daten, Open Access und Nachnutzung. |
-| `dfg-kollegen-review-organisieren` | Kollegen-Review eines DFG-Antrags strukturiert organisieren: 2 erfahrene Profs aus dem Fach plus 1 Methodik-Kollege, Briefing-Mail, Review-Raster (Originalitaet, Arbeitsprogramm, Finanzplan, Vorarbeiten), 1-Wochen-Frist. Output Vorlage Briefing und Review-Raster. |
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **DFG: Internationale Kooperation**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Ausgangspunkt.
+- `Art. 89 Abs. 1 DSGVO` — Garantien für wissenschaftliche Forschungszwecke.
+- `Art. 9 Abs. 2 lit. j DSGVO` — besondere Kategorien personenbezogener Daten in Forschungskontexten.
+- `§ 27 Abs. 1 BDSG` — Datenverarbeitung zu wissenschaftlichen Forschungszwecken.
+- `§ 7 Abs. 1 TierSchG` — Tierversuche nur bei gesetzlich anerkanntem Zweck und Erforderlichkeit.
+- `§ 8 Abs. 1 TierSchG` — Genehmigungspflichtiger Tierversuch.
+- `§ 69a UrhG` — Computerprogramme als Schutzgegenstand bei Forschungssoftware.
+- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen.
+- `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
+- `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DFG-Förderantragstellung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DFG-Antragsfristen programmspezifisch (Sachbeihilfe rollierend, Schwerpunktprogramme stichtagsgebunden), Verwendungsnachweis 6 Monate nach Projektende, Zwischenbericht jährlich.
 - Tragende Normen verifizieren: DFG-Verwendungsrichtlinien, BGB §§ 611 ff. (Drittmittelvertrag), HRG/Landeshochschulgesetze, WissZeitVG, EU-Beihilferecht (Forschung), BMBF/BMWK-Förderrichtlinien, DFG-Kodex Leitlinien zur Sicherung guter wissenschaftlicher Praxis — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Principal Investigator), DFG-Fachkollegien, DFG-Geschäftsstelle, Hochschulverwaltung/Forschungsreferat, BMBF/BMWK, Gutachter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Antragsformular elan, Projektbeschreibung, Lebenslauf mit Publikationsliste, Finanzplan, Letter of Intent, Verwendungsnachweis, Zwischenbericht, Abschlussbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `dfg-internationale-kooperation-aufbau`
-
-**Fokus:** Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller, Gemeinsame Arbeitspakete, Datenaustausch. Pruefraster fuer Vertragslage und Letter of Intent.
-
-# DFG: Internationale Kooperation
 
 ## Spezialwissen: DFG: Internationale Kooperation
-- **Spezialgegenstand:** DFG: Internationale Kooperation / dfg internationale kooperation aufbau. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, CH, DACH, SNF, FWF, NSF, JSPS, ISF, NSFC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -69,247 +69,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 2. `dfg-ki-ethik-forschungsdaten`
-
-**Fokus:** DFG-Antrag auf KI-Nutzung, Ethik, Datenschutz, Forschungsdatenmanagement und gute wissenschaftliche Praxis prüfen. Behandelt Vertraulichkeit in Begutachtung, Datenmanagementplan, sensible Daten, Open Access und Nachnutzung.
-
-# KI, Ethik und Forschungsdaten
-
-## Worum geht es
-
-Seit etwa 2022 ist der **Datenmanagementplan (DMP)** Pflichtbestandteil jedes DFG-Antrags, in dem Forschungsdaten erhoben oder verarbeitet werden. KI-Nutzung wird in der DFG-Position klar geregelt — keine Verbote, aber Transparenz. Ethik, Datenschutz und gute wissenschaftliche Praxis bilden den Rahmen, in dem der Antrag formal genehmigungsfähig wird. Dieser Skill baut den Querschnittsabschnitt zu KI, Ethik und Daten so, dass er den Antrag nicht ausbremst — sondern als seriös und gut vorbereitet erscheinen lässt.
-
-**Alte-Hasen-Faustregel:** Ein zu knapper DMP ist kein Beinbruch, ein **fehlender DMP** dagegen schon. KI-Nutzung darf — wer aber nicht transparent macht, was er mit KI tut, riskiert Rückfragen, die den Antrag in die nächste Sitzungsrunde schicken. Lieber zwei Sätze zur KI-Nutzung im Methodenteil als gar nichts.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-Sie brauchen diesen Skill, wenn:
-
-- Forschungsdaten erhoben, verarbeitet oder publiziert werden (das ist fast immer).
-- KI-Werkzeuge im Projekt eingesetzt werden (Datenanalyse, NLP, Code-Generierung, Literaturrecherche).
-- Humanforschung, Tierversuche, sensible Datenkategorien (Gesundheit, Genetik) im Spiel sind.
-- Dual-Use-Aspekte denkbar sind.
-- NFDI-Andocken sinnvoll ist.
-
-Kaltstartfragen:
-
-1. **Welche Daten entstehen?** Quantitativ, qualitativ, Bild, Audio, Genom, Text, Code, Simulationsoutput?
-2. **Daten-Schutzgrad:** personenbezogen, urheberrechtlich geschützt, geheimhaltungsbedürftig, sicherheitsrelevant?
-3. **KI im Projekt:** Wo wird KI eingesetzt? Eigene Modelle? Foundation Models? Cloud-Dienste?
-4. **Ethikvotum nötig?** Menschen, Tiere, Gesundheitsdaten, vulnerable Gruppen?
-5. **NFDI-Konsortium:** existiert eines im Fach? Wenn ja, welches?
-6. **Archivierung:** wo werden Daten 10 Jahre vorgehalten?
-
-## Programm- bzw. Sachrahmen
-
-**DFG-Position zu KI in der Forschung.** Die DFG hat sich klar positioniert (DFG-Leitlinien zum Umgang mit generativen KI-Modellen): Nutzung ist nicht verboten, aber transparent zu machen. In Antragstexten dürfen KI-Tools unterstützend genutzt werden — der Antragsteller bleibt für jede Aussage und Quelle verantwortlich. **Erfundene Quellen, halluzinierte Zitate oder fremde vertrauliche Antragsunterlagen in Cloud-KI-Systemen sind ausgeschlossen.**
-
-**Datenmanagementplan (DMP).** Pflichtbestandteil. Vordruck oder Anlage je nach Programm — die DFG verlangt typisch Auskunft zu:
-
-1. Welche Daten entstehen (Art, Format, Größe)?
-2. Wer hat Zugriff während der Projektlaufzeit?
-3. Speicherung und Sicherung während der Laufzeit?
-4. Metadaten und Standards (welche Schemata, welche kontrollierten Vokabulare)?
-5. Archivierung nach Projektende (wo, wie lange, in welcher Form)?
-6. Nachnutzung und Open Access (welche Daten werden publiziert, unter welcher Lizenz)?
-7. Personenbezogene Daten, ethische und rechtliche Aspekte?
-
-**FAIR-Prinzipien.** Findable, Accessible, Interoperable, Reusable. Im DMP sollten diese vier Aspekte explizit adressiert werden — auch wenn nicht alle Daten 100 Prozent FAIR werden können.
-
-**NFDI-Konsortien.** Die Nationale Forschungsdateninfrastruktur (NFDI) bietet fachspezifische Konsortien (z. B. NFDI4Chem, NFDI4Health, Text+ für Geisteswissenschaften). Wer ein passendes NFDI-Konsortium andocken kann, gewinnt im DMP — die Infrastruktur ist bereits vorhanden.
-
-**Ethikvotum.** Erforderlich bei:
-
-- Forschung an und mit Menschen (auch Online-Befragungen mit personenbezogenen Daten).
-- Tierversuchen (zusätzlich: Anzeige bzw. Genehmigung nach TierSchG).
-- Sekundärnutzung von Gesundheitsdaten.
-- Sensiblen Datenkategorien (Genetik, Religion, ethnische Herkunft).
-
-**DSGVO bei Forschungsdaten.** Personenbezogene Daten brauchen Rechtsgrundlage (Einwilligung, gesetzliche Forschungsklausel nach Landesrecht oder § 27 BDSG). Pseudonymisierung und Anonymisierung als Standardpraxis. Verzeichnis von Verarbeitungstätigkeiten (VVT) und ggf. DSFA (Datenschutz-Folgenabschätzung).
-
-**Archivierungsdauer.** Faustregel **10 Jahre** nach Projektende (DFG-Empfehlung in den Leitlinien zur guten wissenschaftlichen Praxis). Bei einigen Daten länger (z. B. klinische Studien). Storage-Kosten in Finanzplan einplanen.
-
-## Praxisleitfaden
-
-**Was schnelle Genehmigung produziert.**
-
-- **DMP konkret, nicht generisch.** "Wir archivieren Daten an einem geeigneten Repository" ist generisch. "Wir archivieren Daten am [konkretes Repository, z. B. Zenodo, RADAR, fachspezifisches NFDI-Repository] unter [Lizenz, z. B. CC BY 4.0] für 10 Jahre" ist konkret.
-- **KI-Nutzung kurz und transparent.** Ein Absatz im Methodenteil: "Im Projekt werden [konkrete KI-Tools] eingesetzt für [konkrete Aufgaben, z. B. Codierung qualitativer Daten, Generierung von Code-Snippets]. Die Ergebnisse werden manuell validiert. Trainingsdaten sind [Quelle]."
-- **NFDI-Andocken** wenn passend — bringt sofort Glaubwürdigkeit.
-- **Ethikvotum bei Bedarf rechtzeitig eingeholt** — die Ethikkommission braucht 4 bis 12 Wochen. Wer das Votum noch nicht hat, schreibt "in Beantragung bei [Kommission], Vorlage zur Bewilligung erfolgt nachträglich" — das ist üblich.
-
-**Was Reviewer triggert.**
-
-- **"DMP fehlt"** — fataler Formfehler, Antrag geht zurück.
-- **"DMP generisch"** — kein konkretes Repository, keine Lizenz, keine Archivierungsdauer.
-- **"Ethikvotum nicht erwähnt"** bei offensichtlich votumspflichtiger Forschung — Reviewer notiert grobe Nachlässigkeit.
-- **"KI-Tools genutzt aber nicht erwähnt"** — wenn methodisch klar KI im Spiel ist (z. B. NLP-Pipeline) und nicht transparent gemacht.
-- **"Personenbezogene Daten ohne Rechtsgrundlage"** — DSGVO-Frage offen.
-- **"Open Access nicht adressiert"** — DFG-Empfehlung wird übergangen.
-
-**Was schnell schief geht.**
-
-- Antragsteller nimmt einen DMP aus einem alten Projekt copy-paste — Reviewer sieht die alten Datenarten.
-- Ethikvotum wird in der Antragstextphase begonnen — kommt erst nach Bewilligung, das verzögert den Projektstart um Monate.
-- KI-Nutzung wird unterschätzt ("Wir nutzen nur ChatGPT für Brainstorming, das ist nicht relevant") — wenn Daten der Probanden involviert sind, ist es relevant.
-
-**Trade-off Open Access vs. Schutzinteresse.**
-
-| Aspekt | Pfad A: Open Access | Pfad B: Geschützt | Empfehlung |
-| --- | --- | --- | --- |
-| Publikationen | Gold OA, Diamond OA | Hybrid OA, später nachgereicht | Gold OA wenn Mittel beantragt |
-| Forschungsdaten | offen mit Lizenz | restringiert (z. B. Sensitive Data) | offen wo möglich, restringiert wo nötig |
-| Code | offen auf GitHub/GitLab | proprietär | offen, fördert Nachnutzung |
-| Material | offen | nicht teilbar (Urheber, Probanden-Schutz) | je nach Material |
-
-## Trade-off-Matrix
-
-| Trade-off | Pfad A | Pfad B | Empfehlung |
-| --- | --- | --- | --- |
-| DMP knapp vs. ausführlich | 1 Seite | 3-4 Seiten | Mittellang (1-2 Seiten), konkret |
-| Eigenes Repository vs. NFDI | institutionell | NFDI-Konsortium | NFDI wenn passend — bessere Sichtbarkeit |
-| KI im Antrag erwähnen vs. nicht | erwähnen | verschweigen | Immer erwähnen, transparent |
-| Ethikvotum vor Antrag vs. parallel | bereits vorliegend (Anlage) | in Beantragung | Bereits vorliegend ist besser |
-| Forschungsdaten OA vs. restringiert | offen | restringiert | Je nach Datenart — gut begründen |
-| Storage-Kosten in Finanzplan vs. institutionell | beantragen | von Universität getragen | Institutionell wenn möglich, beantragen nur bei klarem Bedarf |
-
-## Schritt für Schritt
-
-1. **Datentypologie erfassen.** Welche Daten in welchem Format entstehen?
-2. **Schutzbedarf bewerten.** Personenbezogen? Sensibel? Urheberrechtlich?
-3. **NFDI-Match prüfen.** Existiert ein passendes Konsortium?
-4. **Repository wählen.** Konkretes Repository, Lizenz, Archivierungsdauer.
-5. **DMP schreiben** (1-2 Seiten, sieben Standardpunkte).
-6. **KI-Nutzung dokumentieren** in Methodenteil (ein Absatz).
-7. **Ethikvotum-Status klären.** Beantragen wenn nötig.
-8. **DSGVO-Aspekte prüfen.** Rechtsgrundlage, Einwilligung, Pseudonymisierung.
-9. **Open-Access-Strategie** für Publikationen.
-10. **Anlagen ergänzen:** DMP, Ethikvotum (oder Bestätigung der Beantragung), Datenschutzkonzept.
-
-## Mustertexte / Vorlagen
-
-**DMP-Kerntext** (Vorlage, 1 Seite):
-
-> **Datenmanagementplan**
->
-> *Datenarten.* Im Projekt entstehen [a) qualitative Interviewdaten (Audio, Transkripte), b) quantitative Befragungsdaten (CSV), c) Code (Python-Skripte zur Auswertung)]. Geschätzter Umfang: [X] GB.
->
-> *Datenerhebung und Speicherung während der Laufzeit.* Daten werden auf dem institutionellen Forschungsdaten-Server [Name] gespeichert, mit täglicher Sicherung. Zugriff: Antragsteller, WMA, designierte Hilfskräfte mit Vertraulichkeitserklärung.
->
-> *Metadaten.* Beschreibung nach [Standard, z. B. DataCite, DDI, MARC]. Kontrolliertes Vokabular: [z. B. GND, MeSH].
->
-> *Personenbezogene Daten und Ethik.* Schriftliche Einwilligung der Probanden mit informierter Zustimmung. Pseudonymisierung bereits bei Erhebung. Ethikvotum [vorliegend (Anlage X) / in Beantragung bei [Kommission]]. Verarbeitung nach DSGVO Art. 6 Abs. 1 lit. a (Einwilligung) und § 27 BDSG (Forschungszweck).
->
-> *Archivierung und Nachnutzung.* Nach Projektende werden anonymisierte Daten am Repository [konkretes Repository, z. B. NFDI4Health, Zenodo, RADAR] unter [Lizenz CC BY 4.0] für 10 Jahre archiviert. Audiodaten und nicht anonymisierbare Transkripte bleiben restringiert und sind nur über kontrollierten Zugang verfügbar.
->
-> *Open Access für Publikationen.* Die im Projekt entstehenden Publikationen werden Open Access publiziert (Gold OA, soweit Mittel verfügbar; sonst Green OA im institutionellen Repositorium).
->
-> *Code und Software.* Auswertungs-Skripte werden auf [GitHub / GitLab] unter MIT-Lizenz veröffentlicht.
-
-**KI-Nutzungs-Statement** (Vorlage, Methodenteil-Absatz):
-
-> "Im Projekt werden generative KI-Modelle [konkrete Tools, z. B. GPT-4 über lokale API, eigenes BERT-Modell] eingesetzt für [konkrete Aufgaben, z. B. erste Codierungsschritte qualitativer Daten, Vorklassifikation von Texten]. Alle KI-generierten Ergebnisse werden durch das Forschungsteam manuell validiert. Trainingsdaten der eingesetzten Modelle: [Quelle / Begrenzung]. Cloud-KI-Dienste werden nur eingesetzt für nicht-personenbezogene Daten; für sensible Daten kommen ausschließlich lokal gehostete Modelle zum Einsatz."
-
-**Open-Access-Statement** (Vorlage):
-
-> "Sämtliche Publikationen aus dem Projekt werden Open Access verfügbar gemacht, vorzugsweise in Gold-OA-Journalen aus den DEAL-Vereinbarungen. Für Publikationsmittel sind [Zahl] Euro pro Jahr im Finanzplan vorgesehen. Manuskripte werden zusätzlich im institutionellen Repository [Name] hinterlegt."
-
-## Typische Fehler
-
-- DMP aus Vorprojekt copy-paste — Reviewer sieht alte Datentypen.
-- "Daten werden archiviert" — ohne Repository, ohne Dauer, ohne Lizenz.
-- KI-Tools genutzt, aber nicht erwähnt — Reviewer fragt nach.
-- Ethikvotum vergessen bei offensichtlich votumspflichtiger Forschung.
-- DSGVO-Rechtsgrundlage nicht genannt — bei personenbezogenen Daten Pflicht.
-- "Wir nutzen ChatGPT für Antragsschreiben und laden dort Antragsunterlagen hoch" — Vertraulichkeitsverstoß.
-- NFDI nicht geprüft, obwohl ein passendes Konsortium existiert — verschenkter Glaubwürdigkeitsgewinn.
-- Open-Access-Strategie als ein Satz "wir publizieren Open Access" ohne Details.
-- 10 Jahre Archivierungsdauer in 3-Jahres-Projekt-Finanzplan vergessen.
-
-## Output
-
-- **DMP-Volltext** (1-2 Seiten, sieben Standardpunkte).
-- **KI-Nutzungs-Statement** für Methodenteil.
-- **Ethik-Risikoampel** mit Bedarf an Voten, Anzeigen, Beratungen.
-- **Anlagenliste:** DMP, Ethikvotum, Datenschutzkonzept, ggf. NFDI-Andocken-Bestätigung.
-- **Offene Prüfmarker** für Aspekte, die der Antragsteller live verifizieren muss.
-
-## Querverweise
-
-- Projektbeschreibung (Methodenteil): `dfg-projektbeschreibung-arbeitsprogramm`
-- Finanzplan (Archivierungs- und Publikationskosten): `dfg-finanzplan-module-personal-geraete`
-- Formalia (DMP als Anlage einreichen): `dfg-sachbeihilfe-elan-formalia`
-- Reviewer-Brille (Lücken im DMP/Ethik): `dfg-reviewer-red-team`
-
-## Quellen Stand 05/2026
-
-- DFG-Leitlinien zum Umgang mit generativen KI-Modellen: dfg.de
-- DFG-Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis": dfg.de
-- DFG-Empfehlungen zum Forschungsdatenmanagement: dfg.de
-- DFG-Open-Access-Position: dfg.de
-- NFDI-Konsortien: nfdi.de
-- FAIR-Prinzipien: go-fair.org
-- DSGVO und BDSG: gesetze-im-internet.de
-
-KI-Leitlinien und DMP-Anforderungen ändern sich — vor Einreichung aktuelle DFG-Position prüfen.
-
-## 3. `dfg-kollegen-review-organisieren`
-
-**Fokus:** Kollegen-Review eines DFG-Antrags strukturiert organisieren: 2 erfahrene Profs aus dem Fach plus 1 Methodik-Kollege, Briefing-Mail, Review-Raster (Originalitaet, Arbeitsprogramm, Finanzplan, Vorarbeiten), 1-Wochen-Frist. Output Vorlage Briefing und Review-Raster.
-
-# DFG: Kollegen-Review organisieren
-
-## Spezialwissen: DFG: Kollegen-Review organisieren
-- **Spezialgegenstand:** DFG: Kollegen-Review organisieren / dfg kollegen review organisieren. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** DFG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

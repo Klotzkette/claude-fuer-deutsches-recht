@@ -12,11 +12,8 @@ description: "Erkennt, wann ein WEG-/Hausverwaltungsvorgang nicht mehr nur Verwa
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Eskalation: Anwalt und Amtsgericht
-- **Spezialgegenstand:** Eskalation: Anwalt und Amtsgericht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Stand: 05/2026.
 
@@ -83,7 +80,6 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. §§ 43, 44, 45 WEG: https://www.gesetze-im-internet.de/woeigg/__43.html, https://www.gesetze-im-internet.de/woeigg/__44.html, https://www.gesetze-im-internet.de/woeigg/__45.html .
-
 
 ## Qualitäts-Hardening
 

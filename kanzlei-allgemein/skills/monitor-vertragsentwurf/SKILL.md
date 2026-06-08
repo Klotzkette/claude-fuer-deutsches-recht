@@ -1,47 +1,33 @@
 ---
 name: monitor-vertragsentwurf
-description: "Monitor Vertragsentwurf im Plugin Kanzlei Allgemein: prüft konkret Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen, Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187 188 BGB § 517 ZPO Berufungsfrist § 548 ZPO Revisionsfrist BRAO-Haftungsfristen. Prüfraster Fristart Rechtsgrundlage Fristbeginn Hauptfrist Vorfrist Verantwortlicher Wiedervorlage EB-Bedarf. Output Fristen- und Action-Register mit Vorfrist Übertragungsvermerk Eskalationshinweis. Abgrenzung zu fristenbuch-führen (zentrales Buchführen) und kanzlei-allgemein-fristen-monitor im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Monitor Vertragsentwurf
+# Fristen- und Action-Monitor
 
 ## Arbeitsbereich
 
-**Monitor Vertragsentwurf** ordnet den Fall über die tragenden Prüffelder: Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen, Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `kanzlei-allgemein-fristen-monitor` | Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187 188 BGB § 517 ZPO Berufungsfrist § 548 ZPO Revisionsfrist BRAO-Haftungsfristen. Prüfraster Fristart Rechtsgrundlage Fristbeginn Hauptfrist Vorfrist Verantwortlicher Wiedervorlage EB-Bedarf. Output Fristen- und Action-Register mit Vorfrist Übertragungsvermerk Eskalationshinweis. Abgrenzung zu fristenbuch-führen (zentrales Buchführen) und kanzlei-allgemein-fristen-monitor. |
-| `kanzlei-allgemein-vertragsentwurf` | Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor. Normen §§ 305 ff. BGB AGB-Kontrolle § 134 BGB Gesetzesverstoesse § 311 BGB vorvertragliche Pflichten. Prüfraster Parteien Vertretung Handelsregister Leistungsbild Verguetung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte. Output Kommentierter Vertragsentwurf mit Risikomarkierungen offenen Verhandlungspunkten und Qualitaetsgate-Freigabe. Abgrenzung zu vertragsausfueller-Plugin (ausfuellen bestehender Vorlagen) und kanzlei-allgemein-schriftsatz-turbo. |
+Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187 188 BGB § 517 ZPO Berufungsfrist § 548 ZPO Revisionsfrist BRAO-Haftungsfristen. Prüfraster Fristart Rechtsgrundlage Fristbeginn Hauptfrist Vorfrist Verantwortlicher Wiedervorlage EB-Bedarf. Output Fristen- und Action-Register mit Vorfrist Übertragungsvermerk Eskalationshinweis. Abgrenzung zu fristenbuch-führen (zentrales Buchführen) und kanzlei-allgemein-fristen-monitor. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kanzlei Allgemein klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `kanzlei-allgemein-fristen-monitor`
-
-**Fokus:** Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187 188 BGB § 517 ZPO Berufungsfrist § 548 ZPO Revisionsfrist BRAO-Haftungsfristen. Prüfraster Fristart Rechtsgrundlage Fristbeginn Hauptfrist Vorfrist Verantwortlicher Wiedervorlage EB-Bedarf. Output Fristen- und Action-Register mit Vorfrist Übertragungsvermerk Eskalationshinweis. Abgrenzung zu fristenbuch-führen (zentrales Buchführen) und kanzlei-allgemein-fristen-monitor.
-
-# Fristen- und Action-Monitor
-
 
 ## Triage zu Beginn
-1. Geht es um eine akute Frist (heute/morgen) oder um eine Vorschau fuer die naechste Woche?
+1. Geht es um eine akute Frist (heute/morgen) oder um eine Vorschau für die naechste Woche?
 2. Handelt es sich um eine Notfrist (Berufung, Revision, Klage) oder eine einfache Wiedervorfrist?
-3. Welche Verfahrensordnung gilt (ZPO, VwGO, StPO, SGG, FGO, FamFG) — fuer korrekte Fristberechnung?
+3. Welche Verfahrensordnung gilt (ZPO, VwGO, StPO, SGG, FGO, FamFG) — für korrekte Fristberechnung?
 4. Sind alle relevanten Akten-Eingaenge seit dem letzten Fristen-Scan erfasst?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 187-193 BGB — Fristberechnung: Allgemeine Regeln auch fuer prozessuale Fristen
+- §§ 187-193 BGB — Fristberechnung: Allgemeine Regeln auch für prozessuale Fristen
 - § 222 ZPO — Fristberechnung im Zivilprozess; Verweis auf BGB-Regeln
 - § 517 ZPO — Berufungsfrist: ein Monat ab Urteilszustellung (Notfrist, unverlaengerbar)
 - § 233 ZPO — Wiedereinsetzung in den vorigen Stand: Voraussetzungen und Antragsfrist
@@ -95,118 +81,3 @@ Wenn Fristberechnung unsicher ist, nicht stehen bleiben:
 1. konservativ früheste mögliche Frist markieren,
 2. Rückfrage formulieren,
 3. sofortige manuelle Prüfung verlangen.
-
-## 2. `kanzlei-allgemein-vertragsentwurf`
-
-**Fokus:** Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor. Normen §§ 305 ff. BGB AGB-Kontrolle § 134 BGB Gesetzesverstoesse § 311 BGB vorvertragliche Pflichten. Prüfraster Parteien Vertretung Handelsregister Leistungsbild Verguetung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte. Output Kommentierter Vertragsentwurf mit Risikomarkierungen offenen Verhandlungspunkten und Qualitaetsgate-Freigabe. Abgrenzung zu vertragsausfueller-Plugin (ausfuellen bestehender Vorlagen) und kanzlei-allgemein-schriftsatz-turbo.
-
-# Vertragsentwurf und Vertrags-Canvas
-
-
-## Triage zu Beginn
-1. Welcher Vertragstyp ist gefragt: Dienstleistung, Mandat, NDA, SaaS, Werkvertrag, Miet- oder Kooperationsvertrag?
-2. Wer sind die Vertragsparteien und liegen Vertretungsnachweise vor (HR-Auszug, Vollmacht)?
-3. Ist eine Partei Verbraucher (§ 13 BGB) oder durchgaengig B2B — wegen AGB-Kontrolle und Widerrufsrecht?
-4. Gibt es Haftungsobergrenzen, Datenschutzklauseln (Art. 28 DSGVO AVV) oder IP-Regelungen, die benoetigt werden?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- §§ 305-310 BGB — AGB-Recht: Einbeziehung, Inhaltskontrolle, Klauselverbote
-- § 13 BGB — Verbraucher: hoehere Schutzstandards und Widerrufsrecht (§§ 355 ff. BGB)
-- Art. 28 DSGVO — Auftragsverarbeitungsvertrag: Pflichtbestandteil bei Datenweitergabe
-- § 631 ff. BGB — Werkvertrag; § 611 ff. BGB — Dienstvertrag: Grundtypen-Abgrenzung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill erzeugt schnell einen brauchbaren Vertragsentwurf oder eine Vertragsstruktur. Er hilft bei Dienstleistungsvertrag, Mandatsvereinbarung, NDA, SaaS, Kauf, Werkvertrag, Miet- oder Kooperationsvertrag. Er ist bewusst playbook-orientiert: erst die wirtschaftliche Logik, dann die Klauseln.
-
-## Schnellstart
-
-1. Vertragstyp.
-2. Parteien und Vertretung.
-3. wirtschaftliches Ziel.
-4. Leistung oder Gegenstand.
-5. Preis, Honorar, Vergütung.
-6. Laufzeit und Kündigung.
-7. Haftung und Gewährleistung.
-8. Datenschutz, Vertraulichkeit, IP.
-9. Anlagen und Nachweise.
-10. Verhandlungsspielraum.
-
-## Produktionspfade
-
-### Vertragsentwurf aus Stichworten
-
-1. Wirtschaftliches Ziel in einem Absatz festhalten.
-2. Parteien und Vertretung prüfen.
-3. Leistungsbild als Anlage oder Klauselstruktur formulieren.
-4. Zahlungslogik, Fälligkeit und Laufzeit festziehen.
-5. Risiken in Verhandlungspunkte und rote Linien trennen.
-6. Entwurf mit TODOs statt erfundenen Details ausgeben.
-
-### Vertragsentwurf aus Term Sheet
-
-1. Term Sheet in Klauselbereiche zerlegen.
-2. Widersprüche markieren.
-3. Offene Punkte in eine Verhandlungsliste überführen.
-4. Vertragsrangfolge festlegen: Hauptvertrag, Anlagen, AGB, Leistungsbeschreibung.
-
-### Vertragsprüfung
-
-1. Abweichungen vom Mandantenziel markieren.
-2. Einseitige Klauseln benennen.
-3. Fehlende Klauseln ergänzen.
-4. Handlungsvorschläge als `akzeptieren`, `ändern`, `verhandeln`, `ablehnen` ausgeben.
-
-## Handelsregister-Verknüpfung
-
-Bei Unternehmen immer prüfen, ob `kanzlei-allgemein-handelsregisterabruf` nötig ist:
-
-- Firma, Rechtsform, Sitz.
-- Registergericht und Registernummer.
-- Vertretungsberechtigte Personen.
-- Prokura.
-- aktuelle Gesellschafterliste oder Satzung, wenn relevant.
-
-Wenn kein echter Abruf möglich ist, Simulation anbieten und deutlich als Simulation kennzeichnen. Keine Registerdaten erfinden, ohne sie als Platzhalter zu markieren.
-
-## Vertrags-Hardening
-
-Vor Ausgabe prüfen:
-
-- Parteien korrekt.
-- Vertretung plausibel.
-- Leistungsbeschreibung konkret.
-- Zahlungs- und Fälligkeitslogik klar.
-- Leistungsstörung geregelt.
-- Haftungsbegrenzung bewusst.
-- Datenschutz und Vertraulichkeit passend.
-- Anlagen referenziert.
-- Schriftform, Textform und elektronische Signatur bewusst gewählt.
-- Gerichtsstand, Rechtswahl und salvatorische Klausel nicht blind übernommen.
-
-## Anfängerführung
-
-- Keine Vertragsdogmatik ausbreiten, wenn der Nutzer nur schnell einen Entwurf braucht.
-- Stattdessen die nächste Klausel vorschlagen und erklären, warum sie gebraucht wird.
-- Unsichere Punkte als freundliche Rückfrage formulieren.
-- Bei riskanten Klauseln eine einfache Ampel ausgeben: grün, gelb, rot.
-
-## Profi-Härtung
-
-- Rangfolge der Dokumente sauber regeln.
-- Leistungsstörungen, Change Requests, Abnahme und Exit-Szenarien konkretisieren.
-- Haftungsbegrenzung auf Vorsatz, grobe Fahrlässigkeit, Kardinalpflichten, Datenverlust und Berufsgeheimnisse prüfen.
-- Datenschutz, TOM, Unterauftragnehmer und Löschung als Anlagenlogik führen.
-- Verhandlungsspielräume mit konkreten Formulierungsvorschlägen ausgeben.
-
-## Ausgabe
-
-- `assets/templates/vertragsentwurf-playbook.md`.
-- `assets/templates/vertragsrisiken-matrix.md`.
-- Danach `kanzlei-allgemein-qualitaetsgate-hardening`.

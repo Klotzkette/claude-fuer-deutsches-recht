@@ -7,7 +7,6 @@ description: "Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richte
 
 Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
 
-
 ## Triage zu Beginn
 
 1. Unterliegt das Produkt dem räumlichen Anwendungsbereich der DSGVO (Art. 3 Abs. 1 oder Abs. 2 DSGVO)?

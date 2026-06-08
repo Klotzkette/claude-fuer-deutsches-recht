@@ -126,6 +126,23 @@ Frühere DFG-Schwellenwerte (etwa 100.000 Euro) sind nicht mehr aktuell und soll
 - "Wir brauchen nur 150.000 Euro" und dann zwei volle Stellen TV-L 13 — rechnerisch unstimmig, Reviewer rechnet nach.
 - Methodisches Einzelverfahren ohne Plan B — bei Kleinantrag besonders empfindlich.
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **DFG-Antrag bis 200.000 Euro**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — wissenschaftsadäquate Begutachtung.
+- `§ 28 Abs. 1 VwVfG` — Anhörungslogik als Mindeststandard bei belastenden Förderentscheidungen, soweit Verwaltungsverfahrensrecht anwendbar ist.
+- `§ 39 Abs. 1 VwVfG` — Begründungslogik für angreifbare Förderentscheidungen.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `§ 44 Abs. 1 BHO` — Nachweis- und Prüflogik der Förderung.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit als Bewertungsmaßstab.
+- `DFG-Kodex Leitlinie 15` — Publikationsorgan und Qualitätssicherung.
+- `DFG-Verfahrensordnung Begutachtung` — Befangenheit, fachliche Passung und Entscheidungspfad live prüfen.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - **Kompaktantrags-Skelett** mit drei AP, einer These, einem Erkenntnisziel.
@@ -149,7 +166,6 @@ Frühere DFG-Schwellenwerte (etwa 100.000 Euro) sind nicht mehr aktuell und soll
 - DFG-Verfahrensordnung — vom Antragsteller am Einreichtag live zu prüfen.
 
 Die 200.000-Euro-Schwelle ist Ermessen der DFG, nicht Anspruch. Frühere 100.000-Euro-Werte nicht ungeprüft fortschreiben.
-
 
 ## Qualitäts-Hardening
 

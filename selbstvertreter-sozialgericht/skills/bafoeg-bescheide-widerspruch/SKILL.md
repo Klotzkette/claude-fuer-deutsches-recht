@@ -1,6 +1,6 @@
 ---
 name: bafoeg-bescheide-widerspruch
-description: "BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage."
+description: "BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage."
 ---
 
 # Bafoeg Bescheide Widerspruch
@@ -56,7 +56,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 ## Widerspruch
 
 - 1 Monat ab Bekanntgabe.
-- An das zustaendige Amt fuer Ausbildungsfoerderung.
+- An das zuständige Amt für Ausbildungsfoerderung.
 - Wenn die Frist knapp ist: fristwahrend kurz einlegen, Akteneinsicht/Begründungsfrist verlangen, Berechnungstabellen nachreichen.
 - Bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung längere Frist prüfen, nicht aus dem Bauch heraus behaupten.
 

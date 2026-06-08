@@ -1,19 +1,15 @@
 ---
 name: ironie-und-sarkasmus-eliminieren
-description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen)."
+description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persönliche Angriffe (persönlichen-angriff-entschaerfen)."
 ---
 
 # Ironie und Sarkasmus eliminieren
 
 ## Fachkern: Ironie und Sarkasmus eliminieren
-- **Spezialgegenstand:** Ironie und Sarkasmus eliminieren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill identifiziert ironische und sarkastische Formulierungen in beruflichen Texten und ersetzt sie durch sachliche Aussagen. Ironie und Sarkasmus sind in schriftlicher Kommunikation besonders problematisch, weil der para-linguistische Kontext (Tonfall, Mimik) fehlt — und sie daher leicht missverstanden werden oder als Angriff wirken.
-
 
 ## Triage zu Beginn
 1. Ist die ironische/sarkastische Stelle aus eigenem Text oder einem eingehenden Schreiben?

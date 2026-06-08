@@ -1,42 +1,38 @@
 ---
 name: verbandsrecht-sportr-doping-spielervertrag
-description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft konkret Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüffeld für fachanwalt sportrecht spielervertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft konkret Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüfungslinie für fachanwalt sportrecht spielervertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Verbandsrecht Sportr Doping Spielervertrag
 
 ## Arbeitsbereich
 
-**Verbandsrecht Sportr Doping Spielervertrag** ordnet den Fall über die tragenden Prüffelder: Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüffeld für fachanwalt sportrecht spielervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verbandsrecht Sportr Doping Spielervertrag** ordnet den Fall über die tragenden Prüfungslinien: Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüfungslinie für fachanwalt sportrecht spielervertrag. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `spezial-verbandsrecht-fristen-form-und-zustaendigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster fuer Verteidiger. |
-| `fachanwalt-sportrecht-spielervertrag` | Prüffeld für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `spezial-verbandsrecht-fristen-form-und-zuständigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster für Verteidiger. |
+| `fachanwalt-sportrecht-spielervertrag` | Prüfungslinie für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Sportrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: WADC Art. 17 Verfolgungsverjährung 10 Jahre, CAS-Anrufung 21 Tage, DFB-RVO 7-Tage-Berufung, FAO § 5 36 Monate Praxiszeit.
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `spezial-verbandsrecht-fristen-form-und-zustaendigkeit`
+## 1. `spezial-verbandsrecht-fristen-form-und-zuständigkeit`
 
 **Fokus:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / verbandsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -68,25 +64,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `sportr-doping-disziplinarverfahren-spezial`
 
-**Fokus:** Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster fuer Verteidiger.
+**Fokus:** Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster für Verteidiger.
 
 # Sport: Doping-Disziplinarverfahren
 
 ## Spezialwissen: Sport: Doping-Disziplinarverfahren
-- **Spezialgegenstand:** Sport: Doping-Disziplinarverfahren / sportr doping disziplinarverfahren spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CAS, NADA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -114,14 +106,14 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ## 3. `fachanwalt-sportrecht-spielervertrag`
 
-**Fokus:** Prüffeld für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Spielervertrag
 
@@ -137,7 +129,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 8. Gilt die Drei-Wochen-Klagefrist § 17 TzBfG für eine Befristungskontrollklage?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 

@@ -1,30 +1,30 @@
 ---
 name: entfristung-klageschrift-anwalt-laie
-description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüft konkret Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-fuer-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage, Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüft konkret Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-für-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage, Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Entfristung Klageschrift Anwalt Laie
 
 ## Arbeitsbereich
 
-**Entfristung Klageschrift Anwalt Laie** ordnet den Fall über die tragenden Prüffelder: Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-fuer-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Entfristung Klageschrift Anwalt Laie** ordnet den Fall über die tragenden Prüfungslinien: Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-für-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil. |
-| `entfristung-klageschrift-laie-baustein` | Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer. |
+| `entfristung-klageschrift-laie-baustein` | Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer. |
 | `entfristung-laie-oder-anwalt-frage` | Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist. |
 | `entfristung-rechtsfolge-16-tzbfg-unbefristet` | Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche Annahmeverzug; Weiterbeschaeftigungsantrag. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `entfristung-klageschrift-anwalt-baustein`
 
@@ -40,7 +40,6 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage zu Beginn — kläre vor Erstellung der Klageschrift
 
 1. Fristlage: Wann endet der Vertrag? § 17 TzBfG-Frist noch offen?
@@ -48,7 +47,7 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 3. Weiterbeschäftigungsantrag (GS BAG 27.02.1985) gewünscht?
 4. Hilfsweise Auflösungsantrag (§§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG)?
 5. Streitwert vorläufig 3 Bruttomonatsgehälter (§ 42 Abs. 2 GKG)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -168,7 +167,6 @@ Die Klage wird innerhalb der Dreiwochenfrist des § 17 Satz 1 TzBfG erhoben. Das
 
 ---
 
-
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
@@ -178,7 +176,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `entfristung-klageschrift-laie-baustein`
 
-**Fokus:** Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
+**Fokus:** Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
 
 # Klageschrift Entfristungsklage — Laien-Baustein
 
@@ -190,7 +188,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage zu Beginn — kläre vor dem Ausfüllen der Vorlage
 
 1. Wann endet der Vertrag laut Urkunde? (§ 17 TzBfG-Frist läuft ab diesem Datum)
@@ -198,7 +195,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 3. Hast du eine Kopie des Arbeitsvertrags? (als Anlage K 1 beifügen)
 4. Hast du einen Beleg für die Art der Unterzeichnung? (E-Mail, Screenshot Signier-Portal)
 5. Wie hoch ist dein monatliches Bruttogehalt? (Streitwert = 3 × Monatsgehalt)
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -343,7 +340,6 @@ ____________________________
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zentrale Normen
 
 - § 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz vor dem Arbeitsgericht
@@ -414,7 +410,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage zu Beginn — kläre vor der Rechtsfolgenprüfung
 

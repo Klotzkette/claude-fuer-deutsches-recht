@@ -6,11 +6,9 @@ description: "Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Fo
 # Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB
 
 ## Fachkern: Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB
-- **Spezialgegenstand:** Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -73,7 +71,6 @@ Schuldversprechen (§ 780 BGB) und Schuldanerkenntnis (§ 781 BGB) prüfen: Form
 - buergschaft-grundschema-paragraph-765
 - bereicherungsrecht-leistungskondiktion
 - bt-fristen-erklaerungen-zugang
-
 
 ## Quellen
 

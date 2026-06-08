@@ -1,6 +1,6 @@
 ---
 name: systemtheorie-luhmann-rechtssystem-autopoiese
-description: "Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen fuer die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung)."
+description: "Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung)."
 ---
 
 # Systemtheorie Luhmanns und das Recht
@@ -42,7 +42,7 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 
 1. **Recht ist autopoietisch.** Es produziert seine eigenen Operationen aus sich selbst. Eine neue Norm entsteht durch eine alte Norm (z. B. Gesetzgebungsverfahren nach Art. 70 ff. GG). Ein Urteil entsteht durch Anwendung bestehender Normen.
 2. **Operativ geschlossen.** Das Rechtssystem prozessiert nur Recht-Operationen. Wirtschaftliche Argumente werden nicht "direkt" verarbeitet; sie muessen ins Recht uebersetzt werden (z. B. Effizienz wird zum Wertungsargument unter § 242 BGB).
-3. **Binaerer Code: Recht / Unrecht.** Jede Rechtsoperation entscheidet, was Recht und was Unrecht ist. Andere Codes (Wahr/Unwahr fuer Wissenschaft, Zahlen/Nichtzahlen fuer Wirtschaft) sind ausserhalb des Systems.
+3. **Binaerer Code: Recht / Unrecht.** Jede Rechtsoperation entscheidet, was Recht und was Unrecht ist. Andere Codes (Wahr/Unwahr für Wissenschaft, Zahlen/Nichtzahlen für Wirtschaft) sind ausserhalb des Systems.
 4. **Programme.** Innerhalb des Rechts entscheiden Programme (Konditional- und Zweckprogramme), wie der Code zugeordnet wird. Konditionalprogramm: wenn Tatbestand, dann Rechtsfolge. Zweckprogramm: Norm als Mittel zum Zweck.
 5. **Strukturelle Kopplung.** Recht ist mit anderen Systemen (Wirtschaft, Politik) ueber strukturelle Kopplungen verbunden (Vertrag, Eigentum, Gesetz). Aber: keine direkte Kausalsteuerung zwischen den Systemen.
 
@@ -52,20 +52,20 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 
 **Beispiel Generalklauseln als Schnittstelle:** §§ 138, 242, 826 BGB sind strukturell-koppelnde Schnittstellen zur Moral, zu Werten, zur Verkehrserwartung. Aber: Die "Sittenwidrigkeit" entscheidet sich nach dem Code Recht/Unrecht — nicht direkt nach Moral. Auch wenn das Gericht moralisch argumentiert, ist das Ergebnis eine juristische Operation.
 
-**Beispiel Vertragsfreiheit als strukturelle Kopplung Recht/Wirtschaft:** Der Vertrag (§§ 145 ff. BGB) ist die zentrale Brueke zwischen Rechtssystem und Wirtschaftssystem. Recht stellt Vertrag bereit; Wirtschaft nutzt ihn fuer Tauschoperationen.
+**Beispiel Vertragsfreiheit als strukturelle Kopplung Recht/Wirtschaft:** Der Vertrag (§§ 145 ff. BGB) ist die zentrale Brueke zwischen Rechtssystem und Wirtschaftssystem. Recht stellt Vertrag bereit; Wirtschaft nutzt ihn für Tauschoperationen.
 
 **Beispiel BGH als Beobachter zweiter Ordnung:** Der BGH beobachtet, wie die Untergerichte mit Normen umgehen. Er beobachtet Beobachtungen. Die Revision ist Beobachtung zweiter Ordnung — nicht primaere Wahrheitsentdeckung.
 
 **Beispiel Klimaklagen, KI-Recht, Plattformregulierung:** Hier zeigen sich Systemkonflikte. Wirtschaftssystem will Innovation; Wissenschaftssystem warnt vor Risiken; Politik soll regulieren; Recht muss zwischen all dem entscheiden — ueber den Code Recht/Unrecht, nicht direkt nach Wirtschaftlichkeit oder Wissenschaftlichkeit.
 
-## Schritt-fuer-Schritt (Anwendung als Reflexionsraster)
+## Schritt-für-Schritt (Anwendung als Reflexionsraster)
 
 1. **Rechtsoperation identifizieren.** Was genau wird im konkreten Fall Recht/Unrecht-codiert?
 2. **Externe Logiken erkennen.** Welche wirtschaftlichen, politischen, moralischen Argumente werden vorgetragen?
 3. **Uebersetzungsproblem benennen.** Wie werden diese externen Logiken ins Recht uebersetzt? Ueber welche Norm (Generalklausel, Schutzgesetz)?
 4. **Systeminterne Programme pruefen.** Konditional- oder Zweckprogramm? Welche dogmatische Struktur greift?
 5. **Strukturelle Kopplung pruefen.** Wo beruehren sich Rechts- und Wirtschafts-, Politik- oder Wissenschaftssystem im konkreten Fall?
-6. **Reflexion fuer den Schriftsatz oder das Memo.** Die Systemtheorie liefert nicht direkt Argumente; sie hilft, die Eigenlogik und die Grenzen des Rechts klar zu sehen.
+6. **Reflexion für den Schriftsatz oder das Memo.** Die Systemtheorie liefert nicht direkt Argumente; sie hilft, die Eigenlogik und die Grenzen des Rechts klar zu sehen.
 
 ## Typische Fehler / Kritik
 
@@ -74,7 +74,7 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 - **Code Recht/Unrecht als "alles oder nichts".** In der Praxis gibt es Graustufen (Abwaegung, Verhaeltnismaessigkeit), aber sie sind immer am Code orientiert.
 - **Luhmann mit Habermas verwechseln.** Habermas (Diskurstheorie, siehe Skill `diskurstheorie-habermas-alexy`) vertritt eine ganz andere Position — er sieht Recht in den diskursiven Begruendungsprozess der Gesellschaft eingebettet. Luhmann sieht Recht als geschlossenes System; Habermas sieht es als Diskursprodukt.
 
-**Kritik von Habermas:** Luhmanns Systemtheorie laesst keinen Raum fuer kommunikative Rationalitaet und Begruendung. Das ist fuer das Recht aber konstitutiv.
+**Kritik von Habermas:** Luhmanns Systemtheorie laesst keinen Raum für kommunikative Rationalitaet und Begruendung. Das ist für das Recht aber konstitutiv.
 
 **Kritik aus der Wertungsjurisprudenz:** Systemtheorie macht das Recht "uebermenschlich"; sie sagt nichts zu Gerechtigkeit, Wert, Grundrechtsschutz. Fuer die Methodenlehre brauchen wir mehr als Beschreibung.
 
@@ -99,7 +99,6 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 - §§ 138, 145 ff., 242, 280, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

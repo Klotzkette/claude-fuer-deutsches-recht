@@ -26,7 +26,7 @@ Nach Replik des Klaegers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das
 - **§ 296 ZPO** — Praeklusion.
 - **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Replik pruefen
 
@@ -81,7 +81,7 @@ Wenn Klaeger Zeugen benannt hat, die ihn entlasten — Sie koennen Gegenbeweis a
 
 ```
 Gegenbeweis: Zeugnis Frau Y,
-[ladungsfaehige Anschrift], zum Beweis dafuer,
+[ladungsfaehige Anschrift], zum Beweis dafür,
 dass die Behauptung des Klaegers, Herr X habe
 die Lieferung am 12.3.2025 entgegen genommen,
 nicht zutrifft. Frau Y war an diesem Tag im
@@ -90,7 +90,7 @@ Buero und wuerde es bezeugen koennen.
 
 ### Schritt 5 — Einreden vertiefen
 
-Wenn Klaeger gegen Ihre Verjaehrungs-Einrede argumentiert (z. B. Hemmung durch Verhandlungen behauptet), wieder fundiert antworten:
+Wenn Klaeger gegen Ihre Verjährungs-Einrede argumentiert (z. B. Hemmung durch Verhandlungen behauptet), wieder fundiert antworten:
 
 - Hemmung mit Beleg bestreiten.
 - Konkrete Zeitraeume bestimmen.
@@ -106,7 +106,7 @@ Aber: Lieber kurz schreiben, als gar nicht. Auch nur:
 Auf den Vortrag in der Klageerwiderung wird
 verwiesen. Eine weitere Stellungnahme ist
 nicht erforderlich; insbesondere bleibt die
-Verjaehrungs-Einrede aufrecht.
+Verjährungs-Einrede aufrecht.
 ```
 
 ### Schritt 7 — Letzter Schriftsatz vor Termin
@@ -138,7 +138,6 @@ Gericht setzt Duplik-Frist. Verlaengerung moeglich (Skill `fristverlaengerung-an
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

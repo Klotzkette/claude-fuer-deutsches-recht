@@ -7,10 +7,10 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 
 ## Arbeitsbereich
 
-**Arbeitsgericht Abrechnung** ordnet den Fall über die tragenden Prüffelder: Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Arbeitsgericht Abrechnung** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `vergleich-arbeitsgericht-abrechnung` | Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
@@ -18,12 +18,12 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vergleich-arbeitsgericht-abrechnung`
 
@@ -38,7 +38,6 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Auftrag
 
@@ -70,7 +69,6 @@ SGB III Sperrzeit; BGB; KSchG; GewO § 109. Rechtsprechung wird nur mit Gericht,
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Individual- und kollektives Arbeitsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -98,7 +96,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### 3. Druckmittel und Hebel
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
+- Frist (Klage-/Verjährungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
 - Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
 - Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
 - Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
@@ -160,7 +158,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -173,7 +170,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ### Skript 3: Abschluss-Frage
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache für Sie dann erledigt?"
 
 ### Skript 4: Walk-Away-Signal
 
@@ -182,7 +179,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 ## Stoerfeuer und Antwort-Bausteine
 
 - **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
+- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjährung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
 - **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
 
 ## Steuerliche Behandlung des Vergleichs
@@ -200,7 +197,7 @@ Im Bereich Individual- und kollektives Arbeitsrecht oft uebersehen:
 - Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+- Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
 
 ## Vollstreckbarkeit
 
@@ -215,18 +212,18 @@ Klassische Stolperfalle in Individual- und kollektives Arbeitsrecht:
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026) - vergleichsrelevante Querbezuege
 
 - **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Pauschale Erledigungs- und Abgeltungsklauseln im Vergleich erfassen den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam. Empfehlung: in Vergleichsformulierung den gesetzlichen Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
 - **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel): Freistellungsregelungen im Vergleich konkret und mit Anlasstatbestand formulieren, nicht pauschal; sonst Risiko der AGB-rechtlichen Unwirksamkeit (§ 307 BGB). Quelle: dejure.org-Vernetzung.
-- **BSG, 12.07.2006 - B 11a AL 47/05 R** (Sperrzeit-Vermeidung): Aufhebungsvereinbarung/Vergleich zur Abwendung einer drohenden objektiv rechtmaessigen betriebsbedingten Kuendigung begruendet wichtigen Grund i.S.d. § 159 SGB III bei eingehaltener Kuendigungsfrist und marktueblicher Abfindung. Quelle: dejure.org-Vernetzung.
+- **BSG, 12.07.2006 - B 11a AL 47/05 R** (Sperrzeit-Vermeidung): Aufhebungsvereinbarung/Vergleich zur Abwendung einer drohenden objektiv rechtmäßigen betriebsbedingten Kuendigung begruendet wichtigen Grund i.S.d. § 159 SGB III bei eingehaltener Kuendigungsfrist und marktueblicher Abfindung. Quelle: dejure.org-Vernetzung.
 - Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in offenen Quellen pruefen.
 
 ## Paragrafenkette
@@ -254,7 +251,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Auftrag
 

@@ -7,7 +7,7 @@ description: "Bei rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht ste
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn Rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -63,7 +63,6 @@ Dieses Fachmodul greift, wenn Rücktritts- oder Widerrufsfolgen neben Bereicheru
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

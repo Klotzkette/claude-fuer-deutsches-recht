@@ -1,402 +1,216 @@
 ---
 name: stb-sanierungsgewinn-stehengelassene
-description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung."
+description: "Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten im Steuerrecht Anwalt Und Berater: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation
+# Sanierungsgewinn — frühzeitige Mandantenwarnung
 
-## Fachlicher Anker
+## Arbeitsbereich
 
-- **Normen:** § 6a, § 397 BGB, § 272 Abs. 2 Nr. 4 HGB.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-## 1. Zweck und Anwendungsfall
+## Arbeitsweg
 
-Dieser Skill behandelt die in der Beratungspraxis hochkonfliktraechtige Frage:
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-> **Wie sind Verbindlichkeiten — insbesondere nachrangige Gesellschafterdarlehen — in der Liquidationsbilanz einer GmbH steuerlich zu behandeln, wenn die Glaeubigerin sie weder einklagt noch erlaesst, sondern „stehen laesst"?**
+## Fachlicher Kern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn — frühzeitige Mandantenwarnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-Die Frage entscheidet darueber, ob in der Liquidationsphase (und vor allem zum Loeschungszeitpunkt) ein steuerpflichtiger Sanierungsertrag entsteht — und damit ueber den Erfolg einer Liquidation, in der die GmbH wenig Verlustvortrag, aber hohe Gesellschafterdarlehen hat.
+## Worum geht es
 
-Adressat: Steuerberater und Sanierungsanwaelte, die eine solvente GmbH-Liquidation mit hohem Gesellschafter- oder Drittglaeubiger-Darlehen begleiten.
+Der Mandantenbrief in der Frühphase ist das wichtigste Steuerungsinstrument. Erfahrungsgemäß glauben Mandantinnen und Mandanten, ein Forderungsverzicht der Gläubiger sei wirtschaftlich entlastend. Steuerlich kann er aber zum Bumerang werden, wenn die Voraussetzungen des § 3a EStG nicht erfüllt sind oder kein Verlustvortrag zum Verbrauch bereitsteht. Dieser Skill liefert den Mustertext, der Mandantschaft rechtzeitig sensibilisiert.
 
-## 2. Eingaben (Kaltstart-Fragen)
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
-1. **Verbindlichkeit:** Wer ist Glaeubiger (Drittglaeubiger, Gesellschafterin, verbundenes Unternehmen)? Nominalbetrag, Faelligkeit, Zinslast?
-2. **Vertragliche Lage:** Liegt ein einfacher oder qualifizierter Rangruecktritt vor? Wie ist der Tilgungsvorbehalt formuliert (a) nur aus kuenftigen Gewinnen / Liquidationsueberschuss, b) auch aus sonstigem freien Vermoegen)?
-3. **Liquidationsstand:** Wann wurde die Aufloesung beschlossen? Wann beginnt das Sperrjahr? Wann ist Loeschung im Handelsregister geplant?
-4. **Erfuellungswahrscheinlichkeit:** Wird die Forderung mit an Sicherheit grenzender Wahrscheinlichkeit nicht erfuellt — oder ist eine teilweise Erfuellung aus Liquidationsueberschuss noch denkbar?
-5. **Mandantenwunsch:** Will der Gesellschafter ausdruecklich verzichten (§ 397 BGB), oder soll die Forderung bis zum Erloeschen der GmbH passiviert bleiben?
-6. **Verlustvortraege:** Bestehen KSt- und GewSt-Verlustvortraege? Wie hoch?
-7. **Gestaltungsalternativen:** Liquidation, Insolvenz (auch Eigenverwaltung), Verschmelzung, Hin- und Herzahlen ueber Einlage § 272 Abs. 2 Nr. 4 HGB?
+1. Steht eine Sanierung am Horizont (außergerichtlich, StaRUG, Insolvenzplan)?
+2. Gibt es bereits Gespräche mit Gläubigern über Verzicht?
+3. Wer entscheidet bei der Mandantin (GF, Vorstand, Gesellschafter)?
+4. Ist die Mandantin Personengesellschaft, GmbH, Einzelunternehmen?
+5. Ist ein Steuerberater eingebunden, oder ist der Mandant ohne StB?
 
-## 3. Ablauf — Drei-Phasen-Analyse
+## Rechtlicher Rahmen
 
-Die Pruefung erfolgt in drei strikt zu trennenden Phasen.
+- **§ 3a EStG** — Steuerbefreiung des Sanierungsertrags bei unternehmensbezogener Sanierung.
+- **§ 3a Abs. 4 EStG** — Antrag erforderlich; Bindungswirkung.
+- **§ 3c Abs. 4 EStG** — Verlustvortrag wird durch Sanierungsertrag verbraucht.
+- **§ 7b GewStG** — Gewerbesteuer-Befreiung.
+- **§ 89 AO** — verbindliche Auskunft.
+- **§ 43a Abs. 2 BRAO** / **§ 203 StGB** — Verschwiegenheitspflicht; Mandantenbrief vertraulich.
 
-### Phase 1: Passivierung **dem Grunde nach**
+## / Schritt für Schritt
 
-#### 3.1 Maszgeblichkeit und Passivierungsvoraussetzungen
+| Schritt | Inhalt |
+|---|---|
+| 1 | Mandantengespräch — Sachstand und Sanierungsplanung erfassen |
+| 2 | Steuerberater einbinden (E-Mail-Kopie / Telefonat) |
+| 3 | Brief auf Mandantenkonstellation anpassen (Rechtsform, Verlustvortrag) |
+| 4 | Versand per Einschreiben mit Rückschein oder über verschlüsselte Cloud |
+| 5 | Empfangsbestätigung in Akte ablegen |
+| 6 | Folgemandat: Vorbereitungs-Checkliste durcharbeiten (verknüpfter Skill) |
 
-- Steuerliche Gewinnermittlung gem. **§ 8 Abs. 1 KStG i.V.m. § 5 Abs. 1 EStG i.V.m. §§ 246 ff. HGB** (Maszgeblichkeitsprinzip).
-- Passivierungspflicht setzt drei Merkmale voraus (staend. Rspr.):
- 1. **bestimmter Verpflichtungsinhalt** (rechtlich oder wirtschaftlich entstanden),
- 2. **durchsetzbar** (kein faktischer Verzicht),
- 3. **wirtschaftliche Belastung** der Schuldnerin.
+## Trade-off-Matrix
 
-Maszgebliche Leitentscheidung: **BFH, Urteil v. 30.11.2011 — I R 100/10, DStR 2012, 450.** Dort hat der BFH klargestellt, dass eine Verbindlichkeit nur zu passivieren ist, wenn sie die Schuldnerin auch wirtschaftlich belastet. Allein die rechtliche Existenz reicht nicht; fehlt die wirtschaftliche Belastung, ist die Verbindlichkeit gewinnwirksam aufzuloesen.
+| Variante Brief | Wann | Bemerkung |
+|---|---|---|
+| Kurzwarnung 1 Seite | Erstkontakt, vor Beratung | Sensibilisierung; Folgegespräch geboten |
+| Ausführlicher Brief 2-3 Seiten | Mandat schon angenommen | Erklärt Pflicht zur Dokumentation |
+| Brief mit Honorarvereinbarung | Mandat wird begründet | Klarstellt, was geleistet wird |
+| Brief mit StB im CC | StB schon im Team | Koordination dokumentiert |
 
-#### 3.2 Spezialfall qualifizierter Rangruecktritt
+## Praxistipps der alten Hasen
 
-- Bei qualifiziertem Rangruecktritt mit Tilgungsvorbehalt **ausschliesslich aus zukuenftigen Gewinnen oder Liquidationsueberschuss**: **§ 5 Abs. 2a EStG** greift, Passivierungsverbot (BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279).
-- Bei qualifiziertem Rangruecktritt **mit zusaetzlichem Tilgungsvorbehalt aus sonstigem freien Vermoegen**: § 5 Abs. 2a EStG **greift nicht**, Passivierungspflicht bleibt bestehen. Die Tilgung ist denklogisch nicht ausschliesslich an die Erzielung zukuenftiger Gewinne gebunden.
+- **Schreiben Sie verständlich, ohne juristischen Jargon.** Der Mandant muss die Konsequenz greifen: "Wenn Sie heute auf Forderungen verzichten lassen, ohne dass die Sanierung nach § 3a EStG vorbereitet wurde, kann es eine Steuerlast geben, die die Liquidität wieder belastet."
+- **Nennen Sie Zahlen.** Ein Verzichtsbetrag von 500.000 EUR kann bei voller Steuerpflicht 150.000 EUR KSt + GewSt auslösen. Das verstehen Unternehmerinnen sofort.
+- **Bauen Sie die Empfehlung "Sanierungsgewinn-Frühprüfung" ein.** Lassen Sie sich diese Frühprüfung honoraren — sonst macht der Mandant es nicht.
+- **Bezug zu § 102 StaRUG nicht vergessen.** Wenn der Steuerberater die Krise erkennt, hat er Hinweispflichten. Das wirkt vom Mandanten in dieselbe Richtung.
 
-Die Gestaltungsleitlinie der Beratungspraxis lautet daher: **„Tilgungsvorbehalt aus freiem Vermoegen"** in die Rangruecktrittsvereinbarung aufnehmen, um § 5 Abs. 2a EStG zu vermeiden.
+## Mustertexte / Berechnungsbeispiele
 
-#### 3.3 Liquidationsbeschluss allein kein Verzicht
-
-- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und Vorgaengerverfuegung **OFD Frankfurt a. M. vom 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**: Der blosse Liquidationsbeschluss ist **kein konkludenter Forderungsverzicht** der Gesellschafter-Glaeubigerin.
-- Eine vorzeitige gewinnwirksame Ausbuchung der Verbindlichkeit allein aufgrund des Aufloesungsbeschlusses ist daher unzulaessig.
-
-#### 3.4 Zwischenergebnis Phase 1
-
-Solange (i) ein wirksamer schuldrechtlicher Verpflichtungsinhalt besteht, (ii) die Verbindlichkeit nicht ausdruecklich erlassen wurde und (iii) eine wirtschaftliche Belastung nicht endgueltig entfaellt, ist die Verbindlichkeit **passivierungspflichtig**.
-
-### Phase 2: Passivierung **der Hoehe nach**
-
-#### 3.5 Bewertungsmaszstab
-
-- Hoehe: **Nennwert** fuer Darlehensschulden (**§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG**).
-- Bei nachrangigen Darlehen erfolgt **keine** Abzinsung wegen Nachrang oder Rangruecktritt — die nachrangige Verbindlichkeit wird grundsaetzlich mit dem Nennwert ausgewiesen.
-- Eine Abwertung („Teilwert" der Verbindlichkeit unter Nennwert) kommt steuerlich nicht in Betracht — der Steuerpflichtige soll die Verbindlichkeit nicht durch die Hintertuer ausbuchen.
-
-#### 3.6 Streitstand „wirtschaftliche Belastung" in der Liquidation
-
-Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **Entfaellt die wirtschaftliche Belastung bereits mit Liquidationsbeschluss, wenn die Aussichten auf Erfuellung gegen Null gehen?**
-
-##### „Herrschende Linie" (gegen gewinnerhoehende Ausbuchung)
-
-- **Bergmann**, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.: Verbindlichkeit bleibt bis zum tatsaechlichen Untergang der Schuldnerin passiviert.
-- **Dietrich/Weber**, DStR 2019, 966, 970: Maszgebend ist der rechtliche Bestand der Verbindlichkeit, nicht die Erfuellungswahrscheinlichkeit.
-- **Hageboeke**, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, § 11 Rn. 78.
-- **Maschlanka**, in: Heyd/Kautenburger-Behr/Wind, Bilanzierung und Besteuerung in Krise und Insolvenz, 2019, Rn. 1023.
-- **Mayer/Betzinger**, DStR 2014, 1573.
-- **Micker**, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
-- **Stalbold**, in: Gosch, KStG, § 11 Rn. 72.
-
-##### „Gegenposition" (fuer gewinnerhoehende Ausbuchung)
-
-- **S. Neumann**, in: Blumenberg/Neumann, Ubg 2016, 256, 257 f.: bei aussichtsloser Erfuellung Ausbuchung schon im Liquidationszeitraum geboten.
-- **Brinkmann**, StBp 2021, 246, 250: insbesondere abweichend zur OFD-NRW-Auffassung bei Insolvenz, fuer fruehzeitige Ausbuchung.
-
-##### Verwaltungsauffassung
-
-- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2 bis 1.4: Verbindlichkeit grundsaetzlich passiviert bis Erloeschen; Einzelfallpruefung, ob ausnahmsweise gewinnwirksame Ausbuchung vor Loeschung geboten ist. Vorgaengerverfuegung in **DStR 2019, 560**.
-- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580**: differenzierende Sichtweise insbesondere fuer Insolvenz.
-
-##### Rechtsprechung
-
-- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (Os. 7): „Die Verbindlichkeit ist bis zum Abschluss der Liquidation, d.h. bis zur Loeschung im Handelsregister als Verbindlichkeit auszuweisen."
-- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** (nachgehend zu FG Koeln 13 K 3006/11), Ls. 3: „Die Rechtsauffassung, in der Liquidationsschlussbilanz sei eine verbliebene Verbindlichkeit gegenueber einem Gesellschafter mangels wirtschaftlicher Belastung nicht zu passivieren, ist nicht evident rechtsfehlerhaft." — Streitstand bewusst offen gelassen.
-- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** (umgekehrter Fall): Forderung der Gesellschaft gegen Gesellschafter bleibt waehrend der Liquidation grundsaetzlich bestehen.
-- **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** (rechtskraeftig): Streitfrage „diskussionswuerdig", im Einzelfall nicht entscheidungserheblich.
-
-#### 3.7 Zwischenergebnis Phase 2
-
-- Solange wirtschaftliche Belastung mehr als nur theoretisch besteht, bleibt die Verbindlichkeit **mit dem Nennwert** passiviert.
-- Eine vorzeitige Ausbuchung ist nur in **eng begrenzten Ausnahmefaellen** geboten (Erfuellung mit an Sicherheit grenzender Wahrscheinlichkeit ausgeschlossen).
-- Die OFD-Frankfurt-Linie und die FG-Koeln-Linie tragen die Passivierung bis Loeschung; das BFH-Beschluss-Az. I R 34/12 sichert sie immerhin als „nicht evident rechtsfehlerhaft" ab.
-- **Praxisempfehlung:** Verbindliche Auskunft nach § 89 Abs. 2 AO einholen, um die Auffassung des zustaendigen Finanzamts schriftlich abzusichern. Die Gebuehr lohnt sich angesichts des moeglichen Steuerrisikos.
-
-### Phase 3: Wegfall **beim Erloeschen der GmbH**
-
-#### 3.8 Vollbeendigung der GmbH
-
-- Mit Ablauf des Sperrjahres (§ 73 Abs. 1 GmbHG), Glaeubigerbefriedigung und Anmeldung der Liquidation beim Registergericht erfolgt die **Loeschung im Handelsregister** (§ 74 GmbHG).
-- Mit Loeschung **erlischt** die GmbH als juristische Person; sie endet als Steuersubjekt nach § 1 KStG (Lehre vom Doppeltatbestand — Vermoegenslosigkeit und Loeschung).
-
-#### 3.9 Erloeschen der Verbindlichkeit und der Verlustvortraege
-
-- Mit dem Untergang der GmbH erlischt zivilrechtlich auch die Verbindlichkeit (Schuld ohne Schuldner; bei Gesamtrechtsnachfolge: keine; bei reiner Liquidation: schuldnerseitige Vollbeendigung).
-- Zugleich erlischt der koerperschaftsteuerliche **Verlustvortrag** der GmbH.
-
-#### 3.10 Der „rechtstheoretische Gewinn" — und seine steuerliche Folgenlosigkeit
-
-Die Kernaussage der FG-Koeln-Linie:
-
-> Mit dem Erloeschen der GmbH erloeschen neben den Verbindlichkeiten auch eventuelle Verlustvortraege. Der dadurch **rechtstheoretisch entstehende Gewinn** ist **mangels Koerperschaftsteuersubjekt** nicht mehr steuerpflichtig.
-
-**FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977**, Os. 7 (woertlich).
-
-Dies ist die **Schluesselargumentationsfigur** fuer die Liquidationspraxis: Wenn die Verbindlichkeit bis zur Loeschung passiviert bleibt und erst mit Loeschung entfaellt, gibt es zum Zeitpunkt des Wegfalls kein Steuersubjekt mehr, dem der Ertrag zugerechnet werden koennte.
-
-#### 3.11 Zivilrechtliche Untermauerung
-
-- **H.-F. Mueller**, in: Muenchener Kommentar GmbHG, 3. Aufl. 2018, § 74 Rz. 34: Verbindlichkeit erlischt mit Vollbeendigung.
-- **Haas**, in: Noack/Servatius/Haas, GmbHG, 23. Aufl. 2022, § 71 Rz. 28: Liquidations-Schlussbilanz, Behandlung von Verbindlichkeiten.
-
-#### 3.12 Subjektive Steuerpflicht endet erst mit Vollbeendigung
-
-- Die subjektive Koerperschaftsteuerpflicht endet **erst** mit tatsaechlicher und rechtsgueltiger Beendigung der Liquidation.
-- Voraussetzungen: kein verwertbares Vermoegen mehr, keine steuerlichen Pflichten mehr zu erfuellen, kein offenes Verwaltungs- oder Gerichtsverfahren.
-- Solange auch nur eine offene Steuerklaerung oder ein offener Streit besteht, bleibt die GmbH Steuersubjekt — und ein etwa entstehender Sanierungsertrag waere zu versteuern.
-
-## 4. Wechselwirkung Loeschungsverfahren
-
-### 4.1 Loeschung im Handelsregister — Voraussetzungen
-
-- **§ 74 GmbHG**: Anmeldung Abschluss der Liquidation, Loeschung der GmbH.
-- **Lehre vom Doppeltatbestand**: Eintragung im HR und tatsaechliche Vermoegenslosigkeit.
-- Literaturlinie: **Baumbach/Hueck-Haas**, GmbHG, 22. Aufl. 2019, § 74 Rz. 2; **MK-H.-F. Mueller**, GmbHG, 3. Aufl. 2018, § 74 Rz. 3; **Henssler/Strohn-Bueteroewe**, Gesellschaftsrecht, 4. Aufl. 2019, § 74 GmbHG Rz. 3; **BeckOK GmbHG — Lorscheider** (Stand 01.05.2020), § 74 Rz. 3; **Wicke**, GmbHG, 4. Aufl. 2020, § 74 Rz. 2; **von Rintelen**, RNotZ 2017, 185 f.; **Freier**, NZG 2020, 812.
-
-### 4.2 Steuererklaerung als Vollzugshindernis
-
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783: Loeschung erst nach Anmeldung Abschluss Liquidation; offene Steuererklaerung als Hinderungsgrund.
-- **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**: Aussicht auf Steuerrueckerstattung als Hinderungsgrund.
-- **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**: wie OLG Jena 6 W 506/14.
-- **OLG Celle, Beschl. v. 17.10.2018 — 9 W 80/18, ZIP 2018, 2222**.
-- **KG, Beschl. v. 22.07.2019 — 22 W 29/18, NZG 2019, 1294**.
-
-### 4.3 Wann ist die Loeschung trotzdem moeglich?
-
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
-- **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**: Vermoegenslosigkeit nicht durch theoretische Festsetzungsfrist-Aenderung gehindert.
-
-**Praxisleitlinie:** Vor Anmeldung Loeschung mit FA klaeren, ob offene Steuererklaerungen oder Erstattungsaussichten bestehen. Bei reinen Nachforderungen ohne Erstattungsaussicht in der Regel Eintragung moeglich.
-
-## 5. Wechselwirkung Mindestbesteuerung / Definitiveffekt
-
-### 5.1 Problem
-
-Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa aufgrund § 5 Abs. 2a EStG oder Streitfrage Phase 2), entsteht ein Sanierungsertrag. Dieser ist nach § 3a Abs. 3 EStG zwingend mit Verlustvortraegen zu verrechnen — die durch die Mindestbesteuerung (§ 10d EStG, § 8 Abs. 1 KStG) gedeckelt sind.
-
-### 5.2 Definitiveffekt im Liquidationsfall
-
-- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019**: Mindestbesteuerung in der Liquidation kann zu **Definitiveffekt** fuehren, weil im Liquidationsfall keine kuenftigen Gewinne mehr zur Verrechnung anfallen. Revision anhaengig BFH I R 36/18 (ausgesetzt wegen BVerfG 2 BvL 19/14, Vorlage durch BFH I R 59/12).
-- **OFD Frankfurt, Verfuegung vom 27.12.2018, BeckVerw 447487**: Einsprueche zur Mindestbesteuerung sind ruhend zu stellen.
-
-### 5.3 Verfassungsrechtliches Argument (Art. 3 Abs. 1 GG)
-
-- Verluste aus der Vergangenheit sollten in voller Hoehe abzugsfaehig sein — anders entstehen unzulaessige Definitiveffekte.
-- Konsequenz: Bei Liquidations-Konstellation Einspruch gegen KSt-Festsetzung und Ruhen-Antrag stellen, bis BVerfG 2 BvL 19/14 entschieden ist.
-
-## 6. Gestaltungsalternativen
-
-### 6.1 Liquidation belassen, Verbindlichkeit stehen lassen
-
-- **Vorzug:** Bei sauberem Tilgungsvorbehalt aus freiem Vermoegen kein § 5 Abs. 2a EStG; bei Erloeschen kein Steuersubjekt mehr (FG Koeln 13 K 3006/11).
-- **Risiko:** FA kann die Auffassung vertreten, die Verbindlichkeit sei schon vor Loeschung auszubuchen. Sicherung: **Verbindliche Auskunft § 89 AO**.
-
-### 6.2 Insolvenz (auch Eigenverwaltung § 270 InsO)
-
-- In der Insolvenz ist der Forderungsverzicht durch Insolvenzplan regelmaessig der ausloesende Tatbestand fuer den Sanierungsertrag — dann greift § 3a EStG voll (sofern Sanierungseignung gegeben).
-- Eigenverwaltung erlaubt strukturierten Forderungsverzicht ohne Insolvenzverwalterhaftung.
-
-### 6.3 Verschmelzung mit Konfusion
-
-- **Up-stream, down-stream, side-stream**: Bei Verschmelzung mit der Gesellschafter-Glaeubigerin entstehen Forderung und Schuld bei einer Person — Konfusion.
-- **Verlustvortrag des uebertragenden Rechtstraegers geht NICHT ueber** (§ 12 Abs. 3 Hs. 2 i.V.m. § 4 Abs. 2 Satz 2 UmwStG).
-- **§ 8c KStG-Risiko**, ggf. § 8c Abs. 4 / § 8d KStG-Klauseln pruefen.
-- **§ 42 AO**: kein Gestaltungsmissbrauch bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (alte Rechtslage Streitjahr 2008): **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580.** Fuer Umwandlungen ab 06.06.2013 gilt aber **§ 2 Abs. 4 Saetze 3 ff. UmwStG**.
-
-### 6.4 Hin- und Herzahlen / Einlage in freie Kapitalruecklage
-
-- **§ 272 Abs. 2 Nr. 4 HGB** Einlage in freie Kapitalruecklage durch Gesellschafterin, anschliessend Tilgung des Darlehens aus den Mitteln.
-- Hochrisiko: **§ 42 AO Gestaltungsmissbrauch**.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318**: § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Revision anhaengig **BFH I R 11/22.**
-
-## 7. Quellenpflicht
-
-Verweis auf [`references/zitierweise.md`](../../../references/zitierweise.md). Jede juristische Aussage ist mit Az., Datum, Fundstelle und Rn. zu belegen. Reihenfolge: Rspr. vor Lit., neueste zuerst.
-
-## 8. Ausgabeformat
-
-### 8.1 Memo „Stehen gelassene Verbindlichkeit — Phase 1-3"
+### Muster Mandantenbrief — Frühwarnung Sanierungsgewinn
 
 ```
-MEMO — Stehen gelassene Verbindlichkeit in der Liquidation
-Mandantin: [Schuldnerin GmbH i.L.]
-Glaeubigerin: [Name]
-Betrag: EUR [Nominale]
-Stichtag: [Datum]
+[Kanzlei-Briefkopf]
+[Datum]
 
-I. Phase 1 — Passivierung dem Grunde nach
- 1. Verpflichtungsinhalt: [ja/nein]
- 2. Durchsetzbarkeit: [ja/nein]
- 3. Wirtschaftliche Belastung: [BFH I R 100/10]
- 4. § 5 Abs. 2a EStG: [greift/greift nicht — Begruendung]
- Zwischenergebnis: [passivierungspflichtig/nicht]
+An die Geschäftsleitung der [Firma]
+- persönlich / vertraulich -
 
-II. Phase 2 — Hoehe
- 1. Nennwert nach § 6 Abs. 1 Nr. 3 EStG / § 12 Abs. 1 BewG
- 2. Streitstand wirtschaftliche Belastung in Liquidation
- 3. Heranziehung FG Koeln 13 K 3006/11 / BFH I R 34/12
- Zwischenergebnis: [Hoehe der Passivierung]
+Betreff: Sanierungsgewinn nach § 3a EStG — frühzeitige Warnung
+ im Zusammenhang mit Ihrer geplanten Sanierung
 
-III. Phase 3 — Wegfall mit Erloeschen
- 1. Loeschungsfahigkeit (§ 74 GmbHG)
- 2. Rechtstheoretischer Gewinn
- 3. Steuersubjektivitaet im Loeschungszeitpunkt
- Ergebnis: [steuerpflichtig ja/nein]
+Sehr geehrte Frau / sehr geehrter Herr [Name],
 
-IV. Empfehlung
- - Verbindliche Auskunft § 89 AO
- - Wortlautpruefung Rangruecktritt
- - Loeschungsverfahren mit FA abstimmen
- - Mindestbesteuerung / Definitiveffekt — Einspruch ruhend
+in unserem Gespräch vom [Datum] haben Sie uns mitgeteilt, dass
+Sie eine Sanierung Ihres Unternehmens vorbereiten. In Aussicht
+stehen Forderungsverzichte durch Banken und/oder Lieferanten in
+einer Größenordnung von rund EUR [Betrag].
+
+Wir möchten Sie auf einen steuerrechtlichen Punkt hinweisen, der
+in der Praxis häufig erst sehr spät erkannt wird — dann aber für
+Ihre Liquidität zur Katastrophe werden kann:
+
+1. Ein Forderungsverzicht der Gläubiger ist bei Ihnen
+ handels- und steuerrechtlich ein Buchgewinn. Wenn ein
+ Gläubiger auf eine Forderung von EUR 500.000 verzichtet,
+ entsteht in Ihrer GuV ein außerordentlicher Ertrag in
+ gleicher Höhe.
+
+2. Dieser Ertrag ist GRUNDSÄTZLICH einkommensteuer- und
+ körperschaftsteuerpflichtig sowie gewerbesteuerpflichtig.
+ Bei einem Verzicht von EUR 500.000 droht eine Steuerlast
+ in der Größenordnung von EUR 130.000 bis EUR 165.000.
+ Die Steuer ist liquide zu zahlen — der Verzicht hat Ihnen
+ aber keine liquiden Mittel zugeführt.
+
+3. Eine Steuerbefreiung ist nach § 3a EStG möglich, aber
+ an strenge Voraussetzungen gebunden. Es müssen kumulativ
+ nachgewiesen werden:
+ - Sanierungsbedürftigkeit Ihres Unternehmens
+ - Sanierungsfähigkeit
+ - Sanierungseignung der Maßnahme
+ - Sanierungsabsicht der Gläubiger
+ Diese Voraussetzungen werden bei einer späteren Prüfung
+ durch das Finanzamt Punkt für Punkt zerlegt. Wer erst
+ nach Abschluss der Sanierung anfängt zu dokumentieren,
+ verliert in aller Regel.
+
+4. Ein vorhandener steuerlicher Verlustvortrag kann den
+ Sanierungsertrag aufzehren. Wir empfehlen daher als
+ ERSTES, die Höhe Ihres Verlustvortrags zur Körperschaft-
+ bzw. Einkommensteuer und Gewerbesteuer zu prüfen.
+ Wenn er den Verzichtsbetrag deckt, wird der Antrag nach
+ § 3a Abs. 4 EStG entbehrlich, und Sie ersparen sich den
+ späteren Streit mit dem Finanzamt.
+
+UNSERE EMPFEHLUNG
+
+Wir empfehlen Ihnen dringend, vor jedem Verzichtsangebot
+folgende Schritte einzuleiten:
+
+a) Verlustvortrag-Sanity-Check durch uns oder Ihren
+ Steuerberater. Aufwand: rund [X] Stunden.
+
+b) Diagnose unternehmensbezogene oder personenbezogene
+ Sanierung. Aufwand: rund [X] Stunden.
+
+c) Frühzeitige Dokumentation der vier Voraussetzungen
+ nach § 3a EStG durch ein Sanierungskonzept (IDW S 6).
+
+d) Schriftliche Sanierungsabsicht der Gläubiger einholen.
+
+Wir bitten Sie, bis zum [Datum + 14 Tage] mit uns einen
+Folgetermin zu vereinbaren. Bis dahin sollten KEINE
+verbindlichen Verzichtszusagen an Gläubiger gemacht werden.
+
+KOSTENHINWEIS
+
+Die Frühprüfung erfolgt nach RVG / Stundensatz [Betrag]
+zuzüglich Auslagen und Umsatzsteuer. Eine Honorarverein-
+barung legen wir gern bei.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt / Rechtsanwältin]
+- Fachanwalt/Fachanwältin für Steuerrecht -
+
+Anlagen
+1. Honorarvereinbarung Frühprüfung Sanierungsgewinn
+2. Anlage Verlustvortrags-Abfrage
 ```
 
-### 8.2 Verbindliche Auskunft § 89 AO — Antragsskizze
+### Muster Kurzwarnung (1 Seite)
 
 ```
-ANTRAG AUF VERBINDLICHE AUSKUNFT GEMAESS § 89 ABS. 2 AO
+[Kanzlei-Briefkopf]
+[Datum]
 
-Antragstellerin: [Schuldnerin GmbH i.L.]
-Steuer-Nr.: [...]
-An: Finanzamt [...]
+Sehr geehrte Frau / sehr geehrter Herr [Name],
 
-Sachverhalt:
-[Schilderung Aufloesung, Verbindlichkeit, Rangruecktritt]
+Sie planen einen Forderungsverzicht durch Ihre Gläubiger in
+einer Größenordnung von EUR [Betrag]. Wir müssen Sie warnen:
 
-Steuerliche Fragen:
-1. Ist das Gesellschafterdarlehen i.H.v. EUR [...] in der
- Liquidationsbilanz zum [Stichtag] weiterhin zu passivieren?
-2. Falls ja: Bleibt die Passivierung bis zum Loeschungs-
- zeitpunkt im Handelsregister bestehen?
-3. Falls die Verbindlichkeit mit Loeschung untergeht: Ist
- der dadurch rechtstheoretisch entstehende Gewinn mangels
- Koerperschaftsteuersubjekt nicht festsetzbar?
-4. Falls Hilfsweise vor Loeschung Sanierungsertrag entsteht:
- Greift § 3a EStG (Sanierungseignung) — oder ist die
- Liquidation kein Sanierungsfall?
+ Ein Forderungsverzicht ist steuerlich ein Gewinn.
+ Bei EUR [Betrag] Verzicht droht ohne Vorbereitung
+ rund EUR [Steuer] Steuerlast (KSt + GewSt).
 
-Rechtsauffassung der Antragstellerin:
- - § 5 Abs. 2a EStG nicht einschlaegig (Tilgungsvorbehalt
- aus freiem Vermoegen) — BFH XI R 32/18.
- - Passivierungspflicht bis Loeschung — FG Koeln 13 K 3006/11
- (vorgehend zu BFH I R 34/12).
- - OFD Frankfurt 26.07.2021 — S 2743 A-12-St 523.
- - Bei Loeschung: Steuerausfall mangels Subjekt.
+Befreiung nach § 3a EStG ist möglich, aber nur mit korrekter
+Vorbereitung. Wir empfehlen ein Gespräch vor jeder Verzichts-
+zusage. Bitte rufen Sie uns bis [Datum + 7 Tage] zurück.
 
-Anlagen:
- - Aufloesungsbeschluss
- - Liquidations-Eroeffnungsbilanz
- - Rangruecktrittsvereinbarung
- - Glaeubigerliste
- - Steuerbescheide letzte drei Jahre
+Mit freundlichen Grüßen
+[Anwalt]
 ```
 
-## 9. Beispiele aus der Praxis
+## Typische Fehler
 
-### Beispiel 1: Strassburger Handelshof GmbH i.L. (solvente Liquidation)
+- Brief erst nach Verzichtszusagen versandt — zu spät.
+- Brief zu juristisch; Mandant versteht die Botschaft nicht.
+- Keine Empfangsbestätigung; Beweisproblem späterer Haftung.
+- Steuerberater nicht informiert; Doppelarbeit.
+- Honorarvereinbarung fehlt; Folgemandat schwer durchsetzbar.
 
-- Gesellschafterdarlehen 2,4 Mio EUR, qualifizierter Rangruecktritt mit Tilgungsvorbehalt auch aus freiem Vermoegen.
-- Liquidationsbeschluss 15.04.2026; Bekanntmachung 28.04.2026; Sperrjahr bis fruehestens 28.04.2027.
-- **Phase 1:** Verbindlichkeit passivierungspflichtig (§ 5 Abs. 2a EStG nicht einschlaegig).
-- **Phase 2:** Nennwert 2,4 Mio EUR; FG-Koeln-Linie traegt Passivierung bis Loeschung.
-- **Phase 3:** Mit Loeschung Wegfall; Gewinn mangels Subjekt nicht festsetzbar.
-- **Empfehlung:** Verbindliche Auskunft FA Berlin-Charlottenburg, Wortlautpruefung Rangruecktritt, Loeschungsverfahren mit FA abstimmen.
+## Querverweise
 
-### Beispiel 2: Insolvenzplan-Fall (Grossbach Druckguss)
-
-- Hier ist der Forderungsverzicht im Plan der ausloesende Tatbestand; der Sanierungsertrag entsteht **vor** Loeschung und ist § 3a EStG-faehig.
-- Stehen gelassene Verbindlichkeit als „Plan B" (falls Plan scheitert und Liquidation in Aussicht).
-
-### Beispiel 3: Verschmelzung statt Liquidation
-
-- Gesellschafterin verschmilzt mit Tochter — Konfusion.
-- Verlustvortrag geht **nicht** ueber; § 8c KStG-Risiko zu pruefen.
-- § 42 AO grundsaetzlich nicht einschlaegig (BFH I R 2/18) — aber § 2 Abs. 4 UmwStG fuer Umwandlungen ab 06.06.2013 beachten.
-
-## 10. Typische Fehler
-
-1. **§ 5 Abs. 2a EStG uebersehen** — Rangruecktritt nur „Tilgung aus zukuenftigen Gewinnen" formuliert: zwingt zur Ausbuchung vor Loeschung, Sanierungsertrag steuerpflichtig (sofern § 3a EStG nicht greift).
-2. **Liquidationsbeschluss als Verzicht behandelt** — OFD-Frankfurt-Linie ignoriert; FA bucht Verbindlichkeit aus, Ertrag entsteht; Berater haftet.
-3. **Verbindliche Auskunft nicht eingeholt** — bei sechsstelliger Steuerlast lohnt sich die § 89-AO-Gebuehr immer.
-4. **Loeschung beantragt mit offener Steuererklaerung** — Registergericht haelt zurueck (OLG Jena, OLG Hamm); Mandant verliert Zeit.
-5. **Mindestbesteuerungs-Einspruch unterlassen** — Definitiveffekt unerklaert; Verlustvortraege verfallen ungenutzt.
-6. **Verschmelzungsweg ohne § 8c-Pruefung** — Verlustvortrag faellt weg, Konfusionsgewinn entsteht voll steuerpflichtig.
-7. **„Hin- und Herzahlen" ohne Prufung § 42 AO** — FG Duesseldorf 7 K 101/18 F sieht Gestaltungsmissbrauch; Revision BFH I R 11/22.
-
-## 11. Querverweise
-
-Im Plugin `steuerrecht-anwalt-und-berater`:
-
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
+- `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
+- `stb-sanierungsgewinn-vorbereitungs-checkliste`
 - `stb-sanierungsgewinn-verlustvortrag-sanity-check`
+- `anw-haftungswarn-15a-inso-mandant`
 
-Andere Plugins:
+## Quellen Stand 06/2026
 
-- `insolvenzrecht/skills/insol-sanierungsgewinn-forderungsverzicht-im-plan-bilanzielle-folgen`
-- `insolvenzrecht/skills/insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan`
-- `grosskanzlei-corporate-ma/skills/gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-
-## 12. Quellenverzeichnis (Stand 06/2026)
-
-### Rechtsprechung
-
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt.
-- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
-- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln 13 K 3006/11, Streitstand nicht evident rechtsfehlerhaft.
-- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung Gesellschaft gegen Gesellschafter.
-- **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum.
-- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7.
-- **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — rechtskraeftig.
-- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung und Definitiveffekt; Rev. anh. BFH I R 36/18.
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318** — § 42 AO bei Hin- und Herbuchen; Rev. anh. BFH I R 11/22.
-- **OLG Hamm, Beschl. v. 21.05.2021 — 27 W 25/21, FGPrax 2021, 166** = BeckRS 2021, 14783.
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20, BeckRS 2020, 22839**.
-- **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**.
-- **OLG Jena, Beschl. v. 20.05.2015 — 6 W 506/14, ZIP 2016, 25**.
-- **OLG Jena, Beschl. v. 15.05.2019 — 2 W 159/19, NotBZ 2019, 391**.
-- **OLG Celle, Beschl. v. 17.10.2018 — 9 W 80/18, ZIP 2018, 2222**.
-- **KG, Beschl. v. 22.07.2019 — 22 W 29/18, NZG 2019, 1294**.
-
-### Verwaltungsauffassung
-
-- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** (Tz. 1.2-1.4).
-- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
-- **OFD Nordrhein-Westfalen, Kurzinformation Einkommensteuer Nr. 46/2014, aktualisiert 22.09.2017, DB 2017, 2580**.
-- **OFD Frankfurt v. 27.12.2018, BeckVerw 447487** — Mindestbesteuerung, Einsprueche ruhend stellen.
-
-### Literatur (gegen gewinnerhoehende Ausbuchung)
-
-- Bergmann, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.
-- Dietrich/Weber, DStR 2019, 966, 970.
-- Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, § 11 Rn. 78.
-- Maschlanka, in: Heyd/Kautenburger-Behr/Wind, Bilanzierung und Besteuerung in Krise und Insolvenz, 2019, Rn. 1023.
-- Mayer/Betzinger, DStR 2014, 1573.
-- Micker, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
-- Stalbold, in: Gosch, KStG, § 11 Rn. 72.
-- H.-F. Mueller, in: Muenchener Kommentar GmbHG, 3. Aufl. 2018, § 74 Rz. 34.
-- Haas, in: Noack/Servatius/Haas, GmbHG, 23. Aufl. 2022, § 71 Rz. 28.
-
-### Literatur (Gegenposition)
-
-- S. Neumann, in: Blumenberg/Neumann, Ubg 2016, 256, 257 f.
-- Brinkmann, StBp 2021, 246, 250.
-
-### Literatur Loeschung
-
-- Baumbach/Hueck-Haas, GmbHG, 22. Aufl. 2019, § 74 Rz. 2.
-- MK-H.-F. Mueller, GmbHG, 3. Aufl. 2018, § 74 Rz. 3.
-- Henssler/Strohn-Bueteroewe, Gesellschaftsrecht, 4. Aufl. 2019, § 74 GmbHG Rz. 3.
-- BeckOK GmbHG — Lorscheider (Stand 01.05.2020), § 74 Rz. 3.
-- Wicke, GmbHG, 4. Aufl. 2020, § 74 Rz. 2.
-- von Rintelen, RNotZ 2017, 185 f.
-- Freier, NZG 2020, 812.
-
-### Normen
-
-- § 5 Abs. 1, Abs. 2a EStG.
-- § 6 Abs. 1 Nr. 3 EStG; § 12 Abs. 1 BewG.
-- § 3a EStG; § 3c Abs. 4 EStG.
-- § 8 Abs. 1 KStG; § 11 KStG; § 1 KStG.
-- §§ 60, 65, 66, 71, 73, 74 GmbHG.
-- § 397 BGB; § 19, § 39 InsO.
-- § 89 AO; § 42 AO.
-- § 12 Abs. 3, § 4 Abs. 2 Satz 2 UmwStG; § 2 Abs. 4 UmwStG.
-- § 272 Abs. 2 Nr. 4 HGB.
+- § 3a EStG (Steuerbefreiung Sanierungsertrag).
+- § 3a Abs. 4 EStG (Antrag, Bindungswirkung).
+- § 3c Abs. 4 EStG (Verlustreihenfolge).
+- § 7b GewStG.
+- § 102 StaRUG (Hinweispflichten Steuerberater).
+- § 43a Abs. 2 BRAO, § 203 StGB.
+- BMF-Schreiben vom 27.04.2017 — Stand prüfen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Quelle protokollieren.

@@ -7,10 +7,10 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 
 ## Arbeitsbereich
 
-**DPA Template TOM Dpia Summary** ordnet den Fall über die tragenden Prüffelder: English language Data Processing Agreement (DPA) template, English language technical and organisational measures, Concise English DPIA management summary aligned with Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**DPA Template TOM Dpia Summary** ordnet den Fall über die tragenden Prüfungslinien: English language Data Processing Agreement (DPA) template, English language technical and organisational measures, Concise English DPIA management summary aligned with Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `dpa-en-template-controller-processor` | English language Data Processing Agreement (DPA) template under Article 28 GDPR between a controller and a processor. Use when the contract language is English (cross-border deals UK Ireland US providers) and the parties require a stand-alone DPA. Output is a complete English DPA template covering all eight mandatory items of Article 28 (3) GDPR. |
 | `dpa-en-tom-annex-template` | English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001 SOC 2 and BSI C5 alignment. |
@@ -20,12 +20,12 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `dpa-en-template-controller-processor`
 
@@ -35,7 +35,7 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 
 ## Zweck / Purpose
 
-English-language DPA template under Article 28 GDPR for cross-border deals where the working language is English (UK/IE counterparties, US providers, EU multinationals). Purpose (DE): Englischsprachige Mustervorlage fuer einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO.
+English-language DPA template under Article 28 GDPR for cross-border deals where the working language is English (UK/IE counterparties, US providers, EU multinationals). Purpose (DE): Englischsprachige Mustervorlage für einen Auftragsverarbeitungsvertrag nach Art. 28 DSGVO.
 
 ## Wann dieses Modul hilft
 
@@ -188,7 +188,6 @@ Date: Date:
 - Commission Implementing Decision (EU) 2021/915 of 04 June 2021, OJ L 199/18 of 07 June 2021.
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, adopted 07 July 2021.
 - Citation rules: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 
@@ -343,7 +342,6 @@ ________________________________ ____________________________
 - Citation rules: `../../../references/zitierweise.md`.
 ```
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -462,8 +460,8 @@ DPO: ____________________ Date: ____________________
 - `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Full English DPIA template
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — German full template
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Art. 36 procedure
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — Transfers
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — AI interface
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Transfers
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — AI interface
 - `references/zitierweise.md` — Citation rules
 
 ## Sources as of 06/2026
@@ -474,7 +472,6 @@ DPO: ____________________ Date: ____________________
 - EDPB Opinion 28/2024 on AI models
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-
 
 ## Qualitäts-Hardening
 
@@ -671,7 +668,7 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — German full template
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risk methodology
 - `datenschutzrecht/skills/dpia-en-summary-for-management/SKILL.md` — English management summary
-- `datenschutzrecht/skills/dsfa-fuer-internationale-datentransfers/SKILL.md` — International transfers
+- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — International transfers
 - `references/zitierweise.md` — Citation rules
 
 ## Sources as of 06/2026
@@ -682,7 +679,6 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - SDM V3.0 (German Standard Data Protection Model) — protection goals
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-
 
 ## Qualitäts-Hardening
 
@@ -700,7 +696,7 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 
 ## Zweck
 
-Dieser Skill greift bei jeder Auslagerung personenbezogener Daten an Empfänger außerhalb der EU/des EWR: US-Cloud-Dienste, Konzernverbund-Transfer, KI-Provider, Sub-Auftragsverarbeiter in Drittstaaten. Er führt strukturiert durch die mehrstufige Prüfung gemäß Kapitel V DSGVO, berücksichtigt den Angemessenheitsbeschluss vom 10. Juli 2023 für die USA (EU-US Data Privacy Framework) sowie die Schrems-II-Anforderungen an Standardvertragsklauseln und ergänzende Maßnahmen.
+Anwendungsfall: jeder Auslagerung personenbezogener Daten an Empfänger außerhalb der EU/des EWR: US-Cloud-Dienste, Konzernverbund-Transfer, KI-Provider, Sub-Auftragsverarbeiter in Drittstaaten. Er führt strukturiert durch die mehrstufige Prüfung gemäß Kapitel V DSGVO, berücksichtigt den Angemessenheitsbeschluss vom 10. Juli 2023 für die USA (EU-US Data Privacy Framework) sowie die Schrems-II-Anforderungen an Standardvertragsklauseln und ergänzende Maßnahmen.
 
 Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-Dienst einsetzen; Konzernmutter in der Schweiz soll Zugriff auf EU-Kundendaten erhalten; Auftragsverarbeiter setzt Sub-Auftragsverarbeiter in Indien ein; Drittlandbezug bei AVV-Prüfung erkannt.
 
@@ -875,8 +871,8 @@ Datenkategorien: [Auflistung]
  [Zweck, Umfang, Haeufigkeit]
 
 2. Rechtslage im Empfaengerland
- [Relevante Gesetze, Massengesetze, Behoerdenzugriffsrechte]
- Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
+ [Relevante Gesetze, Massengesetze, Behördenzugriffsrechte]
+ Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Länderanalysen]
 
 3. Schutzlueckenanalyse
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -915,7 +911,7 @@ Wer ist Exporteur?
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` – Drittlandtransfer-Prüfung im AVV-Kontext (Schritt 5)
 - `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` – US-Transfers mit DPF-Listing, SCC/BCR-Ausweichpfad, Schrems-Historie und TIA vertiefen
 - `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` – SCC-Modulwahl und Annex I-III konkret erstellen
-- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket fuer Aufsichtsbehoerden ausgeben
+- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket für Aufsichtsbehoerden ausgeben
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` – DSFA bei Hochrisiko-Drittlandtransfers
 - `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` – Drittlandtransfer bei KI-Diensten für Berufsgeheimnisträger
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` – Datenpannen bei Drittlandempfaengern
@@ -945,7 +941,7 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
 ## Faktische Updates (Stand 05/2026)
 
-- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war fuer 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
+- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war für 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
 - **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung ueber dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
 - **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Ueberpruefung live pruefen.
 - **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live ueber edpb.europa.eu pruefen.

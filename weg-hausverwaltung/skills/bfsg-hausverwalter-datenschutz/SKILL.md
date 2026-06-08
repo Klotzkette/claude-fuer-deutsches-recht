@@ -1,33 +1,33 @@
 ---
 name: bfsg-hausverwalter-datenschutz
-description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüft konkret Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüft konkret Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # BFSG Hausverwalter Datenschutz
 
 ## Arbeitsbereich
 
-**BFSG Hausverwalter Datenschutz** ordnet den Fall über die tragenden Prüffelder: Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**BFSG Hausverwalter Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `bfsg-hausverwalter-website-portal-2025` | Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung. |
+| `bfsg-hausverwalter-website-portal-2025` | Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung. |
 | `datenschutz-betroffenenrechte-auskunft-loeschung-weg` | Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22. |
 | `datenschutz-datenpanne-meldung-72h` | Datenschutzverletzungen nach Art. 33/34 DSGVO melden (Stand 06/2026): 72-Stunden-Frist, Risikobewertung, Meldung an Aufsichtsbehoerde, Betroffenenbenachrichtigung. Typische Pannen in der Hausverwaltung mit Sofortmassnahmen. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Weg Hausverwaltung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bfsg-hausverwalter-website-portal-2025`
 
-**Fokus:** Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung.
+**Fokus:** Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung.
 
 # BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale
 
@@ -38,7 +38,6 @@ description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüf
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Stand: 06/2026.
 
@@ -99,7 +98,6 @@ Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-S
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Stand: 06/2026.
 
@@ -167,7 +165,6 @@ Frist: 1 Monat ab Eingang (Art. 12 Abs. 3 DSGVO). Verlängerung um bis zu 2 Mona
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Stand: 06/2026.
 

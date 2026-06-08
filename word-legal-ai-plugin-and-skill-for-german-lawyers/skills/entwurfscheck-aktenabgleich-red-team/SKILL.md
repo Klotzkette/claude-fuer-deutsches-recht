@@ -7,7 +7,7 @@ description: "Prueft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand
 
 ## Zweck
 
-Dieser Skill ist fuer Schriftsaetze, Vertraege, Memos, Mandantenbriefe und interne Vermerke gedacht, die schon fertig aussehen, aber noch gegen Akte, Ziel und Risiko geprueft werden muessen.
+Dieser Skill ist für Schriftsaetze, Vertraege, Memos, Mandantenbriefe und interne Vermerke gedacht, die schon fertig aussehen, aber noch gegen Akte, Ziel und Risiko geprueft werden muessen.
 
 ## Vier Pflichtbausteine
 
@@ -48,7 +48,6 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **Berufsrecht § 43a BRAO:** keine Mandantengeheimnisverletzung, keine unsachliche Aeusserung?
 - **KI-Halluzinationen suchen:** jede zitierte Rspr. live verifiziert?
 - Falle: Vorgaben des Mandanten ignoriert (z. B. Vergleichsangebot nicht erwaehnt) — Mandantenwillen explizit zu Aktennotiz nehmen.
-
 
 ## Qualitäts-Hardening
 

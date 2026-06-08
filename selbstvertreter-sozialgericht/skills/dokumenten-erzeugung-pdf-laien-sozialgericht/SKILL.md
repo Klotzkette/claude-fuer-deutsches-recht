@@ -3,7 +3,7 @@ name: dokumenten-erzeugung-pdf-laien-sozialgericht
 description: "PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse."
 ---
 
-# PDFs erzeugen — Schritt fuer Schritt
+# PDFs erzeugen — Schritt für Schritt
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scan
 
 ## Worum geht es?
 
-Fuer MJP (Mein Justizpostfach) brauchen Sie PDFs. Auch Mails und viele Behoerden wollen PDFs. Diese Skill zeigt, wie Sie PDFs erstellen — auch ohne teure Software.
+Fuer MJP (Mein Justizpostfach) brauchen Sie PDFs. Auch Mails und viele Behörden wollen PDFs. Diese Skill zeigt, wie Sie PDFs erstellen — auch ohne teure Software.
 
 ## In einfacher Sprache
 
@@ -29,14 +29,14 @@ PDF ist ein Datei-Format. Damit koennen Sie Dokumente sicher versenden. Auch ohn
 
 - **PDF**: "Portable Document Format" — eine sichere Datei, die ueberall gleich aussieht.
 - **Scannen**: Papier in eine Datei verwandeln.
-- **OCR**: Texterkennung (selten noetig fuer SG).
+- **OCR**: Texterkennung (selten noetig für SG).
 
 ## Rechtsgrundlagen
 
 - **§ 65a SGG** — Elektronische Einreichung.
 - Verwaltungsvorschriften des MJP.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Word zu PDF
 
@@ -137,7 +137,6 @@ Speichern Sie alle Klage-PDFs in einem Ordner. Sortieren Sie alphabetisch:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Apps und Tools veraendern sich. Bei Fragen: lokale Computer-Beratung, VHS-Kurs, Familie / Bekannte fragen.
-
 
 ## Qualitäts-Hardening
 

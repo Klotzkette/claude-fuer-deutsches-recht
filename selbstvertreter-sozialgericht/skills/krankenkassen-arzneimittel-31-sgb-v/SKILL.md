@@ -23,7 +23,7 @@ description: "Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzn
 
 ## Festbetraege
 
-- § 35 SGB V: G-BA setzt Festbetrag fuer Gruppen vergleichbarer Wirkstoffe.
+- § 35 SGB V: G-BA setzt Festbetrag für Gruppen vergleichbarer Wirkstoffe.
 - Krankenkasse zahlt Festbetrag, Versicherter zahlt evtl. Aufpreis.
 
 ## Rezeptgebuehr

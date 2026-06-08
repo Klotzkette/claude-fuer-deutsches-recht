@@ -44,7 +44,7 @@ description: "Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307
 
 ### Faustregel
 
-> Wenn die Klausel das wirtschaftliche Risiko stark zugunsten des Verwenders verschiebt, ohne dass der Vertragspartner einen erkennbaren Vorteil erhaelt, liegt Indiz fuer § 307 Abs. 2 Nr. 1 BGB-Verstoss vor. Im Streitfall traegt der Verwender die Darlegungs- und Beweislast fuer die Angemessenheit (BGH, ständige Rechtsprechung).
+> Wenn die Klausel das wirtschaftliche Risiko stark zugunsten des Verwenders verschiebt, ohne dass der Vertragspartner einen erkennbaren Vorteil erhaelt, liegt Indiz für § 307 Abs. 2 Nr. 1 BGB-Verstoss vor. Im Streitfall traegt der Verwender die Darlegungs- und Beweislast für die Angemessenheit (BGH, ständige Rechtsprechung).
 
 ## Output
 

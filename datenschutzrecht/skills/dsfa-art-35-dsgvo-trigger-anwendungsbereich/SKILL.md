@@ -7,7 +7,7 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 
 ## Zweck
 
-Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
+Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob für eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
 
 ## Wann dieses Modul hilft
 
@@ -19,12 +19,12 @@ Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine kon
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 1 DSGVO Generalklausel: DSFA verpflichtend wenn eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund Art, Umfang, Umstaenden und Zwecken voraussichtlich ein hohes Risiko fuer die Rechte und Freiheiten natuerlicher Personen zur Folge hat.
+- Art. 35 Abs. 1 DSGVO Generalklausel: DSFA verpflichtend wenn eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund Art, Umfang, Umstaenden und Zwecken voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natuerlicher Personen zur Folge hat.
 - Art. 35 Abs. 3 DSGVO Regelbeispiele:
- - lit. a systematische und umfassende Bewertung persoenlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
+ - lit. a systematische und umfassende Bewertung persönlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
  - lit. b umfangreiche Verarbeitung besonderer Kategorien nach Art. 9 Abs. 1 oder von Daten ueber strafrechtliche Verurteilungen nach Art. 10
  - lit. c systematische umfangreiche Ueberwachung oeffentlich zugaenglicher Bereiche
-- Art. 35 Abs. 4 DSGVO Pflichtliste der Aufsichtsbehoerde (BfDI bzw. zustaendige Landesbehoerde) — sogenannte Blacklist.
+- Art. 35 Abs. 4 DSGVO Pflichtliste der Aufsichtsbehoerde (BfDI bzw. zuständige Landesbehoerde) — sogenannte Blacklist.
 - Art. 35 Abs. 5 DSGVO optionale Whitelist der Aufsichtsbehoerde.
 - Art. 35 Abs. 10 DSGVO Ausnahme bei gesetzlicher Grundlage mit bereits durchgefuehrter allgemeiner DSFA durch den Gesetzgeber.
 - EDSA-Leitlinien WP 248 rev.01 (uebernommen durch EDSA), insbesondere die 9 Kriterien zur Bestimmung von voraussichtlich hohem Risiko.
@@ -42,7 +42,7 @@ Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine kon
  - Zusammenfuehrung oder Abgleich von Datensaetzen
  - schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte)
  - neue Technologien (KI, Biometrie, IoT)
- - Verhinderung der Ausuebung von Betroffenenrechten
+ - Verhinderung der Ausübung von Betroffenenrechten
 4. **Massnahmen.** Pruefen ob bereits getroffene risikomindernde Massnahmen den Schwellwert unter hohes Risiko druecken (Pseudonymisierung, Anonymisierung, technische Beschraenkung). Ergebnis dokumentieren.
 5. **Restrisiko / Schwellwertergebnis.** Drei moegliche Ergebnisse:
  - DSFA-PFLICHTIG (Art. 35 Abs. 3, Abs. 4 oder mindestens 2 EDSA-Kriterien)
@@ -57,7 +57,7 @@ DSFA-TRIAGE-VERMERK [DATUM]
 
 Verarbeitung: [BEZEICHNUNG]
 Verantwortlicher: [NAME, ROLLE]
-Vorpruefer: [NAME] | DSB-Anhoerung: [DATUM]
+Vorpruefer: [NAME] | DSB-Anhörung: [DATUM]
 
 1. Kurzbeschreibung
 [Zweck, Datenarten, Betroffene, Technologie, Drittlandbezug, Aufbewahrung]
@@ -65,7 +65,7 @@ Vorpruefer: [NAME] | DSB-Anhoerung: [DATUM]
 2. Pruefung Art. 35 Abs. 3 DSGVO (Regelbeispiele)
 - lit. a Profiling mit Rechtswirkung: ja / nein — [Begruendung]
 - lit. b besondere Kategorien umfangreich: ja / nein — [Begruendung]
-- lit. c oeffentlicher Bereich Ueberwachung: ja / nein — [Begruendung]
+- lit. c öffentlicher Bereich Ueberwachung: ja / nein — [Begruendung]
 
 3. Pruefung Art. 35 Abs. 4 DSGVO BfDI-/Landes-Blacklist
 - Einschlaegig: ja / nein — [Listen-Position]
@@ -92,7 +92,7 @@ Unterschrift DSB: ____________________
 - Nur Art. 35 Abs. 3 geprueft, Generalklausel Abs. 1 uebersehen — auch ausserhalb der Regelbeispiele kann DSFA-Pflicht bestehen.
 - Blacklist der eigenen Landesbehoerde uebersehen (siehe Skill dsfa-bfdi-und-laender-blacklist).
 - Negative Triage nicht dokumentiert — bei spaeterem Aufsichtsverfahren kein Nachweis.
-- DSB nicht beteiligt obwohl Art. 35 Abs. 2 ausdruecklich Anhoerung verlangt.
+- DSB nicht beteiligt obwohl Art. 35 Abs. 2 ausdruecklich Anhörung verlangt.
 - Wesentliche Aenderung uebersehen — Re-Triage nach Art. 35 Abs. 11 notwendig.
 
 ## Querverweise

@@ -1,34 +1,21 @@
 ---
 name: eu-ebene-eu-richtlinien
-description: "EU Ebene EU Richtlinien im Plugin Normenkontrollrat Nkr: prüft konkret Verortet den NKR im europaeischen Better-Regulation-Kontext, Detailskill EU-Richtlinienumsetzung und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# EU Ebene EU Richtlinien
+# NKR-EU-Ebene und Better Regulation
 
 ## Arbeitsbereich
 
-**EU Ebene EU Richtlinien** ordnet den Fall über die tragenden Prüffelder: Verortet den NKR im europaeischen Better-Regulation-Kontext, Detailskill EU-Richtlinienumsetzung und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-eu-ebene-und-better-regulation` | Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine fuer EU-spezifische Stellungnahmen. |
-| `nkr-eu-richtlinien-umsetzung-und-goldplating` | Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung. |
+Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-eu-ebene-und-better-regulation`
-
-**Fokus:** Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine fuer EU-spezifische Stellungnahmen.
-
-# NKR-EU-Ebene und Better Regulation
 
 ## Worum geht es konkret
 
@@ -54,7 +41,7 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - **NKRG** § 4 — Pruefungsgegenstand auch bei EU-Umsetzung
 - **HdR Teil B** — Umsetzung von EU-Recht
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Rechtsaktstyp identifizieren**:
  - Richtlinie (Umsetzung) -> nationaler Gestaltungsspielraum, Goldplating-Gefahr
@@ -122,151 +109,5 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - Inter-Institutional Agreement on Better Law-Making 2016 (ABl. EU L 123/1)
 - Better Regulation Guidelines der EU-Kommission (SWD-Reihe, jeweils aktuelle Ausgabe)
 - NKRG vom 14.08.2006 § 4
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-eu-richtlinien-umsetzung-und-goldplating`
-
-**Fokus:** Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung.
-
-# NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung
-
-## Worum geht es konkret
-
-Bei EU-Richtlinienumsetzung gilt das Prinzip der **1:1-Umsetzung** als Leitlinie der Bundesregierung. **Goldplating** (nationale Verschaerfung ueber EU-Vorgabe hinaus) erzeugt zusaetzlichen Erfuellungsaufwand und ist nur mit qualifizierter Begruendung zulaessig. Der NKR prueft das systematisch.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Vorhaben setzt eine EU-Richtlinie um
-- Vorhaben geht ueber die EU-Vorgabe hinaus
-- Mehrere Umsetzungsoptionen der Richtlinie vorhanden
-- Politische Diskussion um nationale Schutzinteressen
-
-Rueckfrage nur wenn unklar: *"Welche Richtlinie wird umgesetzt? Welche Vorgabe ist zwingend, welche optional?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **Art. 288 AEUV** — Richtlinien und ihre Umsetzung
-- **Art. 5 EUV** — Subsidiaritaet und Verhaeltnismaessigkeit
-- **Inter-Institutional Agreement on Better Law-Making 2016**
-- **Better Regulation Guidelines / Toolbox** der EU-Kommission
-- **NKRG** § 4
-- **Leitfaden BMI / NKR** — Goldplating-Pruefung
-- **One-in-one-out** — Ausnahme nur fuer 1:1-Umsetzung
-
-## Definition Goldplating
-
-Goldplating liegt vor, wenn:
-
-1. Eine Richtlinie umgesetzt wird,
-2. die nationale Regelung ueber die zwingenden EU-Vorgaben hinausgeht,
-3. ohne dass die EU-Richtlinie die zusaetzliche nationale Verschaerfung ausdruecklich vorgibt,
-4. und ohne dass ein zwingender nationaler Sachgrund die Verschaerfung rechtfertigt.
-
-Typische Erscheinungsformen:
-
-- niedrigere Schwellenwerte als EU-Vorgabe
-- kuerzere Fristen
-- haeufigere Berichtspflichten
-- weitere Adressatenkreise
-- strengere Sanktionen
-- zusaetzliche Inhalte der Berichts- / Mitteilungspflicht
-
-## Pruefraster / Schritt fuer Schritt
-
-### 1. EU-Vorgabe kartieren
-
-- Welche Artikel sind zwingend?
-- Welche enthalten Mindestharmonisierung?
-- Welche optionalen Bestimmungen?
-- Welche Spielraeume fuer Mitgliedstaaten?
-
-### 2. Nationale Umsetzung kartieren
-
-- Wo entspricht sie 1:1?
-- Wo geht sie hinaus?
-- Wo bleibt sie zurueck (Risiko Vertragsverletzungsverfahren)?
-
-### 3. Delta-Berechnung
-
-- Welcher zusaetzliche Erfuellungsaufwand entsteht durch das Goldplating?
-- In EUR p.a. — separat ausweisen
-
-### 4. Begruendungspflicht
-
-- Warum nationale Verschaerfung?
-- Welche Schutzinteressen?
-- Welche Alternativen?
-- Welche Konsultation mit EU?
-
-### 5. One-in-one-out
-
-- 1:1-Anteil: ausgenommen
-- Goldplating-Anteil: bilanzpflichtig
-
-### 6. EU-Folgenabschaetzung pruefen
-
-- Impact Assessment der EU-Kommission lesen
-- RSB-Opinion lesen
-- Daten als Ausgangspunkt nutzen
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Goldplating ohne Begruendung
-- Goldplating ohne Delta-Berechnung
-- "Eine 1:1-Umsetzung war nicht moeglich" pauschal
-- Verschaerfung mit "deutschem Schutzniveau" ohne Konkretisierung
-- EU-Folgenabschaetzung nicht beruecksichtigt
-- Optionen der Richtlinie nicht geprueft
-
-## Trade-off-Matrix
-
-| Umsetzungstyp | NKR-Bewertung |
-|---|---|
-| 1:1-Umsetzung | unproblematisch, OIOO-Ausnahme |
-| Goldplating mit zwingendem nationalen Sachgrund | begruendet zulaessig, Delta ausweisen |
-| Goldplating mit politischem Wunsch | NKR-Mahnung, OIOO-pflichtig |
-| Goldplating ohne Begruendung | NKR-Mahnung, OIOO-pflichtig |
-| Untererfuellung | Vertragsverletzungsverfahren-Risiko |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Das Vorhaben setzt die Richtlinie (EU) [Nummer] um. Der NKR begruesst die ressortseitige Pruefung der zwingenden und optionalen Vorgaben."
-- "Das Vorhaben geht in folgenden Punkten ueber die zwingenden EU-Vorgaben hinaus: [konkret 1, 2, 3]. Der NKR weist darauf hin, dass diese Verschaerfungen einen zusaetzlichen Erfuellungsaufwand von [Delta] verursachen, der nicht durch EU-Vorgaben gerechtfertigt ist."
-- "Der NKR bittet das Ressort, das Goldplating zu begruenden oder auf die 1:1-Umsetzung zurueckzukehren."
-- "Soweit die nationale Verschaerfung durch zwingende Sachgruende gerechtfertigt ist (Verbraucherschutz, Sicherheitsanforderungen), nimmt der NKR die ressortseitige Begruendung zur Kenntnis."
-
-### Tabelle Goldplating-Bilanz
-
-| Element | EU-Vorgabe | nationale Regelung | Delta | Aufwand p.a. |
-|---|---|---|---|---|
-| Schwellenwert | 250 Beschaeftigte | 50 Beschaeftigte | -200 | + [X] Mio EUR |
-| Frequenz | jaehrlich | quartalsweise | × 4 | + [Y] Mio EUR |
-| Inhalt | Pflichtfelder A-D | A-D + E-G | + 3 Felder | + [Z] Mio EUR |
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- "Vorhaben dient der Umsetzung; nationale Verschaerfung nur formal"
-- "Bestehende deutsche Regelung wird beibehalten" ohne Goldplating-Pruefung
-- "Vorbeugende Regelung" als Begruendung
-- Delta nicht beziffert
-- One-in-one-out pauschal als Ausnahme behauptet
-
-## Querverweise
-
-- `nkr-eu-ebene-und-better-regulation`
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-digitalcheck-und-onlinezugangsgesetz-ozg`
-- `legistik-werkstatt/legw-eu-richtlinienumsetzung-spezial`
-
-## Quellen Stand 06/2026
-
-- Art. 288 AEUV
-- Art. 5 EUV
-- Inter-Institutional Agreement on Better Law-Making 2016 (ABl. EU L 123/1)
-- Better Regulation Guidelines der EU-Kommission (jeweils aktuelle Ausgabe)
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

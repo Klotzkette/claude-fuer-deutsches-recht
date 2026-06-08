@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-aussergewoehnliche-umstaende-02
-description: "Prüffeld für ausnahmen aussergewoehnliche umstaende pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
+description: "Prüfungslinie für ausnahmen aussergewoehnliche umstaende pruefen im Fluggastrechte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
@@ -96,3 +96,11 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- Art. 5 Abs. 3 VO 261/2004
+- EuGH C-549/07 (Wallentin-Hermann)
+- EuGH C-12/11 (McDonagh)

@@ -7,10 +7,10 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 
 ## Arbeitsbereich
 
-**OLG Vergabesenat Resilienz Sicherheit** ordnet den Fall über die tragenden Prüffelder: OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**OLG Vergabesenat Resilienz Sicherheit** ordnet den Fall über die tragenden Prüfungslinien: OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `olg-vergabesenat-beschwerdebriefing` | OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten. |
 | `resilienz-sicherheit-kritische-infrastruktur` | Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe. |
@@ -19,12 +19,12 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `olg-vergabesenat-beschwerdebriefing`
 
@@ -34,7 +34,7 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll VK-Beschluss in eine belastbare Beschwerde- oder Verteidigungsstrategie uebersetzen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll VK-Beschluss in eine belastbare Beschwerde- oder Verteidigungsstrategie uebersetzen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -55,7 +55,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -73,12 +73,11 @@ Beschwerdebriefing, Fristenplan, Argumentmatrix, Entwurfsgliederung.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -98,7 +97,7 @@ Beschwerdebriefing, Fristenplan, Argumentmatrix, Entwurfsgliederung.
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll sicherheitsrelevante Vergaben ohne pauschale Diskriminierung absichern. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll sicherheitsrelevante Vergaben ohne pauschale Diskriminierung absichern. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -119,7 +118,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -137,12 +136,11 @@ Risikomatrix, Sicherheitsanforderungen, Beleglogik, Ruge-/Verteidigungslinien.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -176,7 +174,7 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 8. Liegen Beweismittel vor (Vergabeunterlagen, Korrespondenz, Angebots-Vergleichszahlen, Marktpreiserhebungen, Sachverständigengutachten)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -442,7 +440,7 @@ Mit freundlichen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -539,7 +537,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben (curia.europa.eu)
 - EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit Ausschluss (curia.europa.eu)
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss (curia.europa.eu)
-- OLG Vergabesenate (oeffentliche Datenbanken: olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de)
+- OLG Vergabesenate (öffentliche Datenbanken: olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de)
 - VK Bund: bundeskartellamt.de/Vergabe
 
 ## Vertiefung: Output-Template Ruegeschriftsatz
@@ -582,7 +580,6 @@ R U E G E nach § 160 Abs. 3 GWB
 Halluzinations-Reparatur Bundle 026:
 -->
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -611,7 +608,7 @@ Halluzinations-Reparatur Bundle 026:
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Gericht/Behörde (Zuständigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
 - Streitwert/Gegenstandswert.
 
@@ -673,7 +670,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
+4. Zuständigkeit positiv festgestellt?
 5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
 7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
@@ -681,7 +678,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Vergaberecht (Oberschwellen- und Unterschwellenvergabe).
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Vergaberecht (Oberschwellen- und Unterschwellenvergabe).
 - GWB Teil 4, VgV, UVgO, VOB/A, SektVO, KonzVgV sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -692,7 +689,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
 
 ## Beispiel-Anspruchsgrundlagen im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
@@ -718,7 +714,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 Typische Antraege in Vergaberecht (Oberschwellen- und Unterschwellenvergabe) (Nachpruefungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
 - Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
 - Streitwert-Antrag (falls Streitwert streitig).
 
@@ -750,7 +746,7 @@ Typische Antraege in Vergaberecht (Oberschwellen- und Unterschwellenvergabe) (Na
 
 Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
+- Verjährung -> Hemmungstatbestand vortragen.
 - Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
 - Formmangel -> Heilung/Schutz-Argument bereit halten.
 - Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
@@ -785,8 +781,8 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 ## Vertiefung: Leitsaetze Schriftsatzanforderungen Vergaberecht
 
@@ -808,7 +804,6 @@ Vor Versand:
 - § 181 GWB — Schadensersatzklage
 - § 169 GWB — Vorabentscheidung / einstweilige Massnahmen
 - § 135 GWB — Unwirksamkeit Zuschlag
-
 
 ## Vergabe-Workbench-Boost v61.2
 

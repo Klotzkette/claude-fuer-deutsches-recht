@@ -1,38 +1,25 @@
 ---
 name: folgekorrespondenz-vorbereiten-konfliktcheck
-description: "Folgekorrespondenz Vorbereiten Konfliktcheck im Mandantenanfragen-Triage: prüft konkret Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und, Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen, Aufnahmegespraechsleitfaden Mandant. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht im Mandantenanfragen Assistent: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Folgekorrespondenz Vorbereiten Konfliktcheck
+# Folgekorrespondenz-Vorbereiten
 
 ## Arbeitsbereich
 
-**Folgekorrespondenz Vorbereiten Konfliktcheck** ordnet den Fall über die tragenden Prüffelder: Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und, Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen, Aufnahmegespraechsleitfaden Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `folgekorrespondenz-vorbereiten` | Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht. |
-| `konfliktcheck-vorab` | Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Prüfraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und Abfragemuster. Abgrenzung zu mandatsverhältnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung. |
-| `ma-aufnahmegespraech-leitfaden` | Aufnahmegespraechsleitfaden Mandant: Sachverhalt, Eilbedarf, Ziel, Bereits eingeleitete Schritte, Andere beauftragte Anwaelte, Konflikte, Vergueng. Strukturierte Fragen und typische Stolpersteine. Mustertext zur Mandatsbestaetigung. |
+Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Mandantenanfragen-Triage klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BRAO § 44 unverzügliche Annahme/Ablehnung, RVG § 34 Erstberatung max. 190 EUR (Verbraucher), DSGVO Art. 13 Information bei Erhebung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 44, 49b, BORA §§ 2, 11, BGB §§ 145 ff., 280, 627, 675, GwG §§ 10, 11, RVG §§ 1, 4, 34 (Erstberatung), DSGVO Art. 6, 13 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht, Honorarvereinbarung, Mandantendossier, Datenschutzhinweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `folgekorrespondenz-vorbereiten`
-
-**Fokus:** Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht.
-
-# Folgekorrespondenz-Vorbereiten
+## Spezialwissen
 
 Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Skeleton-Eintrag für das CRM-System oder die manuelle Aktenanlage. Ziel: Die Sekretariatsmitarbeitende kann den Vorgang sofort weiterführen, ohne Informationen erneut aus der Originalmail suchen zu müssen.
-
 
 ## Triage zu Beginn
 1. Sind alle Pflichtfelder (Name, E-Mail, Anliegen, Dringlichkeit, Datum) aus dem Parsing verfuegbar?
@@ -44,8 +31,8 @@ Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Ske
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- Art. 6 Abs. 1 lit. b DSGVO — Vertragsanbahnung als Rechtsgrundlage fuer CRM-Speicherung
-- Art. 5 Abs. 1 lit. e DSGVO — Speicherbegrenzung: CRM-Eintrag nur so lange, wie fuer das Ziel notwendig
+- Art. 6 Abs. 1 lit. b DSGVO — Vertragsanbahnung als Rechtsgrundlage für CRM-Speicherung
+- Art. 5 Abs. 1 lit. e DSGVO — Speicherbegrenzung: CRM-Eintrag nur so lange, wie für das Ziel notwendig
 - § 43 BRAO — Sorgfaltspflicht: vollstaendige und sofortige Akten-/CRM-Dokumentation
 - § 51 BRAO — Haftung: mangelnde Dokumentation als Organisationspflichtverletzung
 
@@ -157,183 +144,3 @@ Konfliktcheck: AUSSTEHEND — vor Terminvergabe durchführen!
 - `dringlichkeitsmarker` — Dringlichkeitsstufe und Begründung
 - `spam-und-massen-anfrage-filter` — Spam-Check-Status
 - `konfliktcheck-vorab` — Hinweis auf ausstehenden Konfliktcheck
-
-## 2. `konfliktcheck-vorab`
-
-**Fokus:** Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Prüfraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und Abfragemuster. Abgrenzung zu mandatsverhältnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung.
-
-# Konfliktcheck-Vorab
-
-Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Check vor Mandatsannahme und instruiert das Sekretariat, die dafür erforderlichen Informationen bereits bei der Terminvergabe zu erfragen.
-
-
-## Triage zu Beginn
-1. Sind alle konfliktsrelevanten Informationen vorhanden: Gegenseite, Beteiligte, Rechtsgebiet, Aktenzeichen?
-2. Ist die anfragende Person oder die Gegenseite ein bekannter oder ehemaliger Mandant (auch Sozietaetsmitglieder pruefen)?
-3. Gibt es Anzeichen fuer einen Gesamtkonflikt (Sozietaet als Ganzes betroffen, § 3 Abs. 2 BORA)?
-4. Bei Interessenkonflikt: welche Konsequenz (Mandatsablehnug, Hinweis an Suchenden auf andere Kanzlei)?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
-- § 3 BORA — Konkretisierung des Interessenkonflikt-Verbots: gilt auch fuer ehemalige Mandanten und Sozietaetsmitglieder
-- § 356 StGB — Parteiverrat: strafrechtliche Konsequenz bei gleichzeitiger Vertretung gegenlaeufiger Interessen
-- § 14 BRAO — Widerruf der Zulassung bei schwerwiegenden Berufsrechtsverletzungen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Rechtsgrundlage
-
-### § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
-
-> "Der Rechtsanwalt darf nicht tätig werden, wenn er eine andere Partei in derselben Rechtssache im widerstreitenden Interesse bereits beraten oder vertreten hat oder mit ihr in Sozietät verbunden ist."
-
-### § 3 BORA — Verbot der Vertretung widerstreitender Interessen (Konkretisierung)
-
-§ 3 BORA konkretisiert das Verbot: Ein Rechtsanwalt darf für mehrere Auftraggeber in derselben Rechtssache dann nicht tätig werden, wenn zwischen ihnen widerstreitende Interessen bestehen. Gilt auch für ehemalige Mandantinnen und Mandanten sowie für Sozietätsmitglieder (§ 3 Abs. 2 BORA).
-
-### Folgen einer Pflichtverletzung
-
-- Möglicher Widerruf der Zulassung (§ 14 BRAO)
-- Schadensersatzpflicht gegenüber dem betroffenen Mandanten
-- Berufsrechtliche Ahndung durch die Rechtsanwaltskammer
-- Strafrechtliche Relevanz in besonders schweren Fällen (Parteiverrat § 356 StGB)
-
-## Pflicht-Informationen für den Konfliktcheck
-
-Das Sekretariat muss vor Terminvergabe — oder spätestens beim Erstgespräch — folgende Informationen erfragen und im CRM vermerken:
-
-### Block A: Anfragende Person
-
-- Vollständiger Name
-- Wohnort oder Unternehmenssitz
-- Bevollmächtigte oder Vertreter (z. B. bei GmbH: Geschäftsführer)
-
-### Block B: Gegenseite / Beteiligte
-
-- Vollständiger Name oder Firma der Gegenseite
-- Soweit bekannt: Wohnort, Unternehmenssitz, Rechtsform
-- Weitere Beteiligte: Miterben, Mitgesellschafter, Bürgschaftsgeber
-- Behörde oder Institution (bei Verwaltungs- oder Steuersachen)
-
-### Block C: Sachverhalts-Grundriss
-
-- Rechtsnatur des Streits (Vertragsstreit, Scheidung, Erbauseinandersetzung, Strafrecht etc.)
-- Vertragsbeziehungen oder gemeinsame Vorgeschichte mit der Kanzlei
-
-## Ablauf des Konfliktchecks in der Kanzlei
-
-1. **Erfassung der Daten:** Sekretariat erfasst Angaben zu Anfragender und Gegenseite beim Erstgespräch oder vor Terminvergabe.
-2. **Abgleich mit Mandantendatenbank:** Alle Namen und Unternehmen werden gegen die bestehende Mandantenakte abgeglichen.
-3. **Sozietätsmitglieder:** Prüfung erstreckt sich auf alle Partner und angestellten Anwälte der Kanzlei.
-4. **Ergebnis:**
- - `KLAR` — Mandat kann angenommen werden
- - `KONFLIKT` — Mandat nicht möglich; anfragende Person erhöflich ablehnen und ggf. auf andere Kanzlei hinweisen
- - `UNKLAR` — Rücksprache mit Rechtsanwalt erforderlich vor Terminvergabe
-
-## Skript für das Sekretariat: Was beim Erstanruf zu fragen ist
-
-```
-"Um sicherzustellen, dass wir Ihnen helfen dürfen, benötige ich noch
-kurz einige Angaben. Wen haben Sie als Gegenseite — also: gegen wen
-oder gegen welches Unternehmen geht es in Ihrem Fall?"
-
-Falls die anfragende Person zögert:
-"Das ist für uns nur intern wichtig, um zu prüfen, ob wir Sie in
-diesem Fall vertreten dürfen. Ich leite nichts an die Gegenseite weiter."
-```
-
-## CRM-Eintrag nach Konfliktcheck
-
-```
-KONFLIKTCHECK
-=============
-Durchgeführt am: [DATUM]
-Durchgeführt von: [MITARBEITENDE]
-Anfragende Person: [NAME]
-Gegenseite: [NAME / FIRMA]
-Ergebnis: [KLAR / KONFLIKT — TYP / UNKLAR — Rücksprache]
-Notiz: [Ggf. Begründung]
-```
-
-## Hinweis bei KONFLIKT: Ablehnungsformulierung
-
-Falls ein Interessenkonflikt besteht, wird kein Mandat angenommen. Formular-Text für die ablehnende Rückmeldung:
-
-```
-Sehr geehrte[r] [NAME],
-
-vielen Dank für Ihre Anfrage. Wir haben geprüft, ob wir Ihnen in Ihrem
-Anliegen behilflich sein können. Leider müssen wir Ihnen mitteilen, dass
-wir aus internen berufsrechtlichen Gründen in diesem Fall nicht für Sie
-tätig werden können.
-
-Wir empfehlen Ihnen, sich an eine andere Kanzlei zu wenden. Die
-Rechtsanwaltskammer [ZUSTÄNDIGE KAMMER] kann Ihnen Empfehlungen geben
-(Tel. [KAMMER-TELEFON]).
-
-Mit freundlichen Grüßen
-[KANZLEI-NAME]
-```
-
-## Verweise auf andere Skills
-
-- `anfrage-eingang-parser` — liefert Beteiligte und Gegnerinfos
-- `folgekorrespondenz-vorbereiten` — enthält Konfliktcheck-Statusfeld
-- `mandatsverhaeltnis-hinweis` — parallel relevanter Disclaimer
-- `vertraulichkeit-erinnerung` — nach erfolgreichem Check und Mandatsbegründung
-
-## 3. `ma-aufnahmegespraech-leitfaden`
-
-**Fokus:** Aufnahmegespraechsleitfaden Mandant: Sachverhalt, Eilbedarf, Ziel, Bereits eingeleitete Schritte, Andere beauftragte Anwaelte, Konflikte, Vergueng. Strukturierte Fragen und typische Stolpersteine. Mustertext zur Mandatsbestaetigung.
-
-# Aufnahmegespraechs-Leitfaden
-
-## Spezialwissen: Aufnahmegespraechs-Leitfaden
-- **Spezialgegenstand:** Aufnahmegespraechs-Leitfaden / ma aufnahmegespraech leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

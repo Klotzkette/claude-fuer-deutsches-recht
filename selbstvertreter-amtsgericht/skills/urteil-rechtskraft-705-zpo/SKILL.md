@@ -28,7 +28,7 @@ Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor i
 - **§ 708 ZPO** — Vorlaeufige Vollstreckbarkeit.
 - **§ 717 ZPO** — Schaden bei Aufhebung im Rechtsmittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wann tritt formelle Rechtskraft ein?
 
@@ -41,11 +41,11 @@ Ein Urteil ist erst dann **endgueltig**, wenn es **rechtskraeftig** ist. Davor i
 Auch vor Rechtskraft kann das Urteil schon Wirkungen entfalten:
 
 - **Vorlaeufige Vollstreckbarkeit** (§ 708 ZPO): Bei AG-Urteilen i. d. R. von Amts wegen erklaert. Sie koennen sofort pfaenden, ohne Sicherheitsleistung.
-- Wenn Berufung erfolgreich: Schadensersatz fuer ungerechtfertigte Vollstreckung moeglich (§ 717 II ZPO).
+- Wenn Berufung erfolgreich: Schadensersatz für ungerechtfertigte Vollstreckung moeglich (§ 717 II ZPO).
 
 ### Schritt 3 — Rechtskraft-Vermerk
 
-Nach Eintritt der Rechtskraft koennen Sie beim Gericht den **Rechtskraft-Vermerk** beantragen — eine Bescheinigung, dass das Urteil rechtskraeftig ist. Das brauchen Sie fuer manche Vollstreckungs-Akte oder zur Vorlage bei Behoerden.
+Nach Eintritt der Rechtskraft koennen Sie beim Gericht den **Rechtskraft-Vermerk** beantragen — eine Bescheinigung, dass das Urteil rechtskraeftig ist. Das brauchen Sie für manche Vollstreckungs-Akte oder zur Vorlage bei Behörden.
 
 ### Schritt 4 — Materielle Rechtskraft
 
@@ -81,14 +81,14 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 
 - **Vorlaeufige Vollstreckbarkeit** vor Rechtskraft.
 - **Rechtskraft erst nach Ablauf Berufungsfrist**.
-- **Rechtskraft-Vermerk** fuer formelle Nachweise.
+- **Rechtskraft-Vermerk** für formelle Nachweise.
 - **§ 717 II ZPO** Schadensersatz-Risiko bei Aufhebung.
 
 ## Typische Fehler
 
 - "Urteil ist endgueltig sofort nach Verkuendung." → Nein, erst nach Rechtskraft.
 - "Ich kann nochmal klagen mit anderen Beweisen." → Bei Rechtskraft i. d. R. ausgeschlossen.
-- "Vor Rechtskraft keine Vollstreckung." → Doch, vorlaeufige Vollstreckbarkeit.
+- "Vor Rechtskraft keine Vollstreckung." → Doch, vorläufige Vollstreckbarkeit.
 
 ## Querverweise
 
@@ -100,7 +100,6 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

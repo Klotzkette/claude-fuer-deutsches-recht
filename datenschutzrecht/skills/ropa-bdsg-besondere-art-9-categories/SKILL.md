@@ -35,7 +35,7 @@ Verarbeitung ist verboten, soweit sie ergibt:
 
 ### Art. 9 Abs. 2 DSGVO – Ausnahmen
 
-Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeitsrecht und Sozialrecht (lit. b), lebenswichtigem Interesse (lit. c), Vereinen und Religionsgemeinschaften (lit. d), oeffentlich gemachten Daten (lit. e), Rechtsanspruechen (lit. f), erhebliches oeffentliches Interesse (lit. g), Gesundheits- und Sozialfuersorge (lit. h), oeffentliche Gesundheit (lit. i), Archiv-/Forschungs-/Statistikzwecke (lit. j).
+Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeitsrecht und Sozialrecht (lit. b), lebenswichtigem Interesse (lit. c), Vereinen und Religionsgemeinschaften (lit. d), oeffentlich gemachten Daten (lit. e), Rechtsanspruechen (lit. f), erhebliches öffentliches Interesse (lit. g), Gesundheits- und Sozialfürsorge (lit. h), öffentliche Gesundheit (lit. i), Archiv-/Forschungs-/Statistikzwecke (lit. j).
 
 ### § 26 BDSG – Beschaeftigtendaten
 
@@ -43,7 +43,7 @@ Verarbeitung zulaessig u. a. bei: ausdruecklicher Einwilligung (lit. a), Arbeits
 
 ### § 22 BDSG
 
-§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im oeffentlichen Interesse liegenden Zwecken, fuer Beschaeftigungszwecke, fuer praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden muessen.
+§ 22 BDSG regelt die Verarbeitung besonderer Datenkategorien zu im öffentlichen Interesse liegenden Zwecken, für Beschaeftigungszwecke, für praeventive Medizin u. a.; § 22 Abs. 2 BDSG verlangt **spezifische TOMs**, die im RoPA dokumentiert werden muessen.
 
 ### Art. 10 DSGVO
 
@@ -61,7 +61,7 @@ Daten ueber strafrechtliche Verurteilungen und Straftaten duerfen nur unter beho
 
 ## Mustertext / Template
 
-### Zusatzspalten fuer besondere Datenkategorien
+### Zusatzspalten für besondere Datenkategorien
 
 | Verarbeitung | Datenkategorie (Art. 9) | Doppelte Rechtsgrundlage | DSFA-Verweis | Spezifische TOMs (§ 22 Abs. 2 BDSG) |
 |---|---|---|---|---|
@@ -86,11 +86,11 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Basis.
-- `ropa-art-30-controller-deutsch-vorlage` fuer Basisvorlage.
-- `dsfa-erstellung` fuer Art. 35 DSGVO.
-- `mitarbeiter-datenschutz-26-bdsg` (falls vorhanden) fuer Beschaeftigtenkontext.
-- `avv-tom-art-32-dsgvo-anlage` fuer TOM-Anhang.
+- `ropa-art-30-dsgvo-grundlagen` für Basis.
+- `ropa-art-30-controller-deutsch-vorlage` für Basisvorlage.
+- `dsfa-erstellung` für Art. 35 DSGVO.
+- `mitarbeiter-datenschutz-26-bdsg` (falls vorhanden) für Beschaeftigtenkontext.
+- `avv-tom-art-32-dsgvo-anlage` für TOM-Anhang.
 
 ## Quellen Stand 06/2026
 
@@ -100,7 +100,6 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 - EStG § 39 (Lohnsteuermerkmale).
 - EDSA: Leitlinien 03/2019 zur Verarbeitung personenbezogener Daten durch Videoeinrichtungen (Version 2.0 vom 29.01.2020).
 - BVerfG, Beschluss vom 11.11.2020 – 1 BvR 3214/15 (Antiterrordatei-Folgeentscheidung) – bei Anpassung des § 22 BDSG sinngemaess beachten; vor Zitierung amtliche Fundstelle pruefen.
-
 
 ## Qualitäts-Hardening
 

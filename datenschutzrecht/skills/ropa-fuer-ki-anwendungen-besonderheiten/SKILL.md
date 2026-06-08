@@ -1,9 +1,9 @@
 ---
 name: ropa-fuer-ki-anwendungen-besonderheiten
-description: "Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen fuer LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl."
+description: "Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl."
 ---
 
-# RoPA fuer KI-Anwendungen – Besonderheiten
+# RoPA für KI-Anwendungen – Besonderheiten
 
 ## Zweck
 
@@ -11,7 +11,7 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 ## Wann dieses Modul hilft
 
-- Mandant fuehrt LLM-API (z. B. fuer interne Assistenten, Chatbots, Code-Generierung) ein.
+- Mandant fuehrt LLM-API (z. B. für interne Assistenten, Chatbots, Code-Generierung) ein.
 - HR setzt KI-Tools zur Vorauswahl ein.
 - Fachabteilung nutzt RAG-Architektur mit unternehmenseigenen Daten.
 - KI-Modelle werden auf personenbezogenen Daten **trainiert oder feinabgestimmt**.
@@ -43,18 +43,18 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 1. **KI-Inventur:** Welche KI-Funktionen sind im Einsatz? Anbieter, Modell, Hostingort.
 2. **Datentyp-Mapping:** Sind personenbezogene Daten in Eingaben, Trainingsdaten, Embeddings, Logs oder Outputs?
-3. **Rolle pruefen:** Verantwortlicher fuer welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
+3. **Rolle pruefen:** Verantwortlicher für welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
 4. **Rechtsgrundlage:** Art. 6 DSGVO; bei besonderen Datenkategorien Art. 9; bei Beschaeftigten § 26 BDSG; bei Web-Scraping kritisch zu pruefen.
 5. **Drittlandtransfer:** Hosting in USA/UK? DPF-Listing, SCC, TIA.
 6. **Art. 22 DSGVO:** Trifft das System Entscheidungen mit rechtlicher Wirkung?
 7. **DSFA:** typischerweise Pflicht; in RoPA verlinken.
 8. **TOM-Erweiterung:** Prompt-Filterung, Output-Filter, Logging-Limits, Model-Isolation, kein Training auf Mandantendaten.
 9. **KI-VO-Bezug:** Falls Hochrisiko, KI-VO-Dokumentation referenzieren.
-10. **Loeschfristen:** insbesondere fuer Prompt-Logs und Vector-Embeddings.
+10. **Loeschfristen:** insbesondere für Prompt-Logs und Vector-Embeddings.
 
 ## Mustertext / Template
 
-### Erweiterte RoPA-Zeilen fuer KI-Anwendungen
+### Erweiterte RoPA-Zeilen für KI-Anwendungen
 
 | Nr. | KI-Anwendung | Zweck | Rechtsgrundlage | Datenkategorien (Input/Training/Output) | Anbieter / Hosting | Drittland / Garantie | Art. 22 DSGVO einschlaegig? | DSFA-Verweis | KI-VO-Status | Spezifische TOMs | Loeschfristen Logs |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -70,7 +70,7 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 - Verbot Training-Opt-out durchsetzen (Auswahl entsprechender Tarife).
 - Modell-Isolation (kein Cross-Tenant-Training).
 - Logging-Limit; rollenbasierter Zugriff auf Logs.
-- Vector-Store-Verschluesselung at-rest; Loeschmechanismus fuer Embeddings.
+- Vector-Store-Verschluesselung at-rest; Loeschmechanismus für Embeddings.
 - Schulung Mitarbeiter zu Prompt-Hygiene.
 
 ## Typische Fehler
@@ -86,12 +86,12 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 ## Querverweise
 
-- `ropa-art-30-dsgvo-grundlagen` fuer Basis.
-- `ropa-art-30-controller-deutsch-vorlage` fuer Grundvorlage.
-- `dsfa-erstellung` fuer Art. 35 DSGVO.
-- `mandantendaten-ki` (in `kanzleifuehrung-und-mandat` Plugin) fuer berufsrechtliche Seite.
-- `ki-vo-ai-act-pruefer` (in `ki-vo` Plugin) fuer KI-Verordnung.
-- `tia-template-deutsch-vollvorlage` fuer Transferpruefung.
+- `ropa-art-30-dsgvo-grundlagen` für Basis.
+- `ropa-art-30-controller-deutsch-vorlage` für Grundvorlage.
+- `dsfa-erstellung` für Art. 35 DSGVO.
+- `mandantendaten-ki` (in `kanzleifuehrung-und-mandat` Plugin) für berufsrechtliche Seite.
+- `ki-vo-ai-act-pruefer` (in `ki-vo` Plugin) für KI-Verordnung.
+- `tia-template-deutsch-vollvorlage` für Transferpruefung.
 
 ## Quellen Stand 06/2026
 

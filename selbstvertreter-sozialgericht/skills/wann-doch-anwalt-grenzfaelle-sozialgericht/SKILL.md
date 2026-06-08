@@ -28,8 +28,8 @@ Manchmal ist es klueger, einen Anwalt zu nehmen. Wir sagen Ihnen, wann.
 ## Fachbegriffe (kurz erklaert)
 
 - **PKH**: Prozesskostenhilfe — Staatliche Uebernahme der Anwaltskosten.
-- **Beratungshilfe**: 15 EUR Eigenanteil fuer Anwalts-Beratung vor dem Verfahren.
-- **Fachanwalt fuer Sozialrecht**: Spezialisierter Anwalt mit Erfahrung im SGG.
+- **Beratungshilfe**: 15 EUR Eigenanteil für Anwalts-Beratung vor dem Verfahren.
+- **Fachanwalt für Sozialrecht**: Spezialisierter Anwalt mit Erfahrung im SGG.
 
 ## Rechtsgrundlagen
 
@@ -37,7 +37,7 @@ Manchmal ist es klueger, einen Anwalt zu nehmen. Wir sagen Ihnen, wann.
 - **§ 73a SGG** — PKH.
 - **Beratungshilfegesetz (BerHG)** — Beratungshilfe.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Konstellation 1 — Komplexer medizinischer Streit
 
@@ -55,7 +55,7 @@ Warum Anwalt: Uebersicht ueber Wechselwirkungen, mehrere Verfahren parallel fueh
 
 Wann: Sie haben am SG verloren und wollen ins LSG.
 
-Warum Anwalt: Verfahren wird formeller; Behoerde hat dann oft Anwalt.
+Warum Anwalt: Verfahren wird formeller; Behörde hat dann oft Anwalt.
 
 ### Konstellation 4 — Existenzielle Bedeutung
 
@@ -85,7 +85,7 @@ Warum Anwalt: Sie schonen sich.
 
 Anwaltszwang. Sie MUESSEN Anwalt nehmen.
 
-## Schritt-fuer-Schritt: Anwalt finden
+## Schritt-für-Schritt: Anwalt finden
 
 ### Schritt 1 — Beratungshilfe-Schein holen
 
@@ -94,7 +94,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 ### Schritt 2 — Anwalt suchen
 
 - VdK / SoVD (oft schon im Mitgliedsbeitrag)
-- Fachanwalt fuer Sozialrecht (Anwaltsregister)
+- Fachanwalt für Sozialrecht (Anwaltsregister)
 - DAV-Suchportal www.anwaltverein.de
 
 ### Schritt 3 — Erstgespraech
@@ -117,7 +117,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 
 ## Worauf Sie besonders achten muessen
 
-- **Sozialverbaende sind oft die guenstigste Loesung**: 5 bis 10 EUR Monatsbeitrag fuer komplette Vertretung.
+- **Sozialverbaende sind oft die guenstigste Loesung**: 5 bis 10 EUR Monatsbeitrag für komplette Vertretung.
 - **PKH beantragen** wenn Sie wenig Geld haben.
 - **Anwaltskosten bei Erfolg**: Beklagte erstattet (§ 193 SGG).
 

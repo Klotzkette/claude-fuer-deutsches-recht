@@ -7,10 +7,10 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 
 ## Arbeitsbereich
 
-**Orientierung Guete Abfindung Fazugang** ordnet den Fall über die tragenden Prüffelder: Orientierung im Individualarbeitsrecht und kollektiven, Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54, Zugang der Kündigung durch Boten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Orientierung Guete Abfindung Fazugang** ordnet den Fall über die tragenden Prüfungslinien: Orientierung im Individualarbeitsrecht und kollektiven, Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54, Zugang der Kündigung durch Boten. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-orientierung` | Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill. |
 | `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` | Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie. |
@@ -18,12 +18,12 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-orientierung`
 
@@ -38,7 +38,6 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## FAO-Voraussetzungen (§ 10 FAO)
 
@@ -106,7 +105,7 @@ Folgende Leitentscheidungen sind im aktuellen Plugin-Stand mit offener Quelle (d
 
 - **BAG, 23.10.2025 - 8 AZR 300/24** (Paarvergleich Equal Pay): Ein einzelner Vergleichskollege des anderen Geschlechts genuegt zur Vermutung nach § 22 AGG. Siehe Skill `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`.
 - **BAG, 03.06.2025 - 9 AZR 104/24** (kein Urlaubsverzicht durch Prozessvergleich): Mindesturlaub waehrend laufenden Arbeitsverhaeltnisses nicht disponibel. Siehe Skill `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`.
-- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel unwirksam): Pauschale formularmaessige Freistellungsklausel verstoesst gegen § 307 BGB. Siehe Skill `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`.
+- **BAG, 25.03.2026 - 5 AZR 108/25** (Freistellungsklausel unwirksam): Pauschale formularmäßige Freistellungsklausel verstoesst gegen § 307 BGB. Siehe Skill `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`.
 - **BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22** (Massenentlassung): Fehlerhafte oder verfruehte Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller Kuendigungen. Siehe Skill `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`.
 - **EuGH, 30.10.2025 - C-134/24 und C-402/24** (Massenentlassung): Keine Heilung fehlender oder verfruehter Anzeige nach Kuendigungsausspruch.
 - **BAG, 20.02.2025 - 8 AZR 61/24** (DSGVO-Schadensersatz): "Stoergefuehl" allein begruendet keinen Anspruch nach Art. 82 DSGVO.
@@ -142,7 +141,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -280,7 +278,7 @@ Vergleichs- und abfindungsrelevante Leitentscheidungen:
 
 - **BAG, 03.06.2025 - 9 AZR 104/24**: Pauschale Erledigungsklausel im Vergleich erfasst den gesetzlichen Mindesturlaub nicht; Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung.
 - **BAG, 25.03.2026 - 5 AZR 108/25**: Pauschale Freistellungsklausel unwirksam (§ 307 BGB); im Vergleich konkret formulieren. Quelle: dejure.org-Vernetzung.
-- **BSG, 12.07.2006 - B 11a AL 47/05 R**: Sperrzeit-Vermeidung bei drohender, objektiv rechtmaessiger betriebsbedingter Kuendigung und eingehaltener Frist; Faustformel-Abfindung (0,25 - 0,5 BMG/Beschaeftigungsjahr) marktueblich. Quelle: dejure.org-Vernetzung.
+- **BSG, 12.07.2006 - B 11a AL 47/05 R**: Sperrzeit-Vermeidung bei drohender, objektiv rechtmäßiger betriebsbedingter Kuendigung und eingehaltener Frist; Faustformel-Abfindung (0,25 - 0,5 BMG/Beschaeftigungsjahr) marktueblich. Quelle: dejure.org-Vernetzung.
 - Faustformel zur Abfindung: 0,5 BMG x Beschaeftigungsjahre (KSchG-Verhandlungsmaszstab); Verhandlungsspielraum 0,25 - 1,5 BMG je nach Prozesschance, Bestandsrisiko und Alter / Schwerbehinderung.
 - Vor Vergleichsabschluss aktuelle Rechtsprechung in offenen Quellen pruefen.
 
@@ -310,7 +308,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Vollständige Begleitung bei Zugangsfragen zur Kündigung durch Boten — von der Dokumentation bei Ausspruch bis zur Prozessstrategie bei bestrienem Zugang im Kündigungsschutzprozess. Beweislastverteilung, taktische Optionen und Fallstricke.

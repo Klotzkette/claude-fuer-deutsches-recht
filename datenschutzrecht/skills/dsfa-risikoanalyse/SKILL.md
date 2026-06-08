@@ -1,13 +1,13 @@
 ---
 name: dsfa-risikoanalyse
-description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere fuer Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung."
+description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung."
 ---
 
 # Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere
 
 ## Zweck
 
-Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere fuer die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
+Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere für die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
 
 ## Wann dieses Modul hilft
 
@@ -18,15 +18,15 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 7 lit. c DSGVO: Bewertung der Risiken fuer die Rechte und Freiheiten der Betroffenen.
+- Art. 35 Abs. 7 lit. c DSGVO: Bewertung der Risiken für die Rechte und Freiheiten der Betroffenen.
 - EDSA-Leitlinien WP 248 rev.01 mit Risiko-Skalen.
-- ENISA-Leitfaden zur DSFA — Methodik fuer Eintrittswahrscheinlichkeit und Schadenschwere.
-- Erwaegungsgrund 75 DSGVO: Beispiele fuer materielle und immaterielle Schaeden (Diskriminierung, Identitaetsdiebstahl, finanzieller Verlust, Rufschaedigung, Verlust der Vertraulichkeit besonders geschuetzter Daten).
+- ENISA-Leitfaden zur DSFA — Methodik für Eintrittswahrscheinlichkeit und Schadenschwere.
+- Erwaegungsgrund 75 DSGVO: Beispiele für materielle und immaterielle Schaeden (Diskriminierung, Identitaetsdiebstahl, finanzieller Verlust, Rufschaedigung, Verlust der Vertraulichkeit besonders geschuetzter Daten).
 - Erwaegungsgrund 76 DSGVO: Risiko ist anhand einer objektiven Bewertung zu beurteilen.
 
 ## Ablauf 6-Schritte-Methodik
 
-1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage fuer die Bedrohungsanalyse.
+1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage für die Bedrohungsanalyse.
 2. **Verhaeltnismaessigkeitspruefung.** Welche Schutzziele sind beruehrt (Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung)?
 3. **Risikoanalyse.** Pro Schutzziel Bedrohungsszenarien definieren:
  - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
@@ -36,7 +36,7 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
  - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
  - Nicht-Verkettung: ungewollte Zusammenfuehrung
  - Datenminimierung: ueber Zweck hinausreichende Speicherung
- Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere fuer Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
+ Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere für Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
 4. **Massnahmen.** Wirkung der geplanten Massnahmen auf Wahrscheinlichkeit und Schwere; Pruefung ob die Risikostufe sinkt.
 5. **Restrisiko.** Risikostufe nach Massnahmen, dokumentiert pro Szenario. Wenn hoch verbleibend, Vorab-Konsultation nach Art. 36.
 6. **Konsultation / Genehmigung.** DSB-Stellungnahme; Risikomatrix in die DSFA als zentrales Steuerungsdokument einbetten.
@@ -100,7 +100,7 @@ Unterschrift DSB: ____________________
 ## Querverweise
 
 - `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Aufnahme in Vollvorlage
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien fuer Schwellwert
+- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien für Schwellwert
 - `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Restrisiko und Art. 36
 - `datenschutzrecht/skills/dsfa-methodik-cnil-pia-vs-bsfd-bsi/SKILL.md` — Methodenwahl
 - `references/zitierweise.md` — Zitierweise

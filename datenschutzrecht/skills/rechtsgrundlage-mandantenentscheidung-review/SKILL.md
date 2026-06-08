@@ -7,25 +7,25 @@ description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: 
 
 ## Arbeitsbereich
 
-**Rechtsgrundlage Mandantenentscheidung Review** ordnet den Fall über die tragenden Prüffelder: Rechtsgrundlage, Review, Verarbeitungsverzeichnis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Rechtsgrundlage Mandantenentscheidung Review** ordnet den Fall über die tragenden Prüfungslinien: Rechtsgrundlage, Review, Verarbeitungsverzeichnis. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-rechtsgrundlage-mandantenentscheidung` | Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-review-risikoampel-und-gegenargumente` | Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verarbeitungsverzeichnis-formular-portal-und-einreichung` | Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `tia-edpb-roadmap-6-schritte-deutsch` | EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen. |
+| `tia-edpb-roadmap-6-schritte-deutsch` | EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen. |
 | `tia-en-data-privacy-framework-status` | English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DPF reliance and residual risk. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-rechtsgrundlage-mandantenentscheidung`
 
@@ -34,11 +34,7 @@ description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: 
 # Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage / rechtsgrundlage mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -88,11 +84,7 @@ Einwilligung wirkt geräumig, ist aber widerruflich und schafft Dokumentationsla
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Review: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Review: Risikoampel, Gegenargumente und Verteidigungslinien / review risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -129,11 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik / verarbeitungsverzeichnis formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -165,18 +153,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `tia-edpb-roadmap-6-schritte-deutsch`
 
-**Fokus:** EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen.
+**Fokus:** EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen.
 
-# Sechs-Schritte-Roadmap fuer das Transfer Impact Assessment (EDPB 01/2020)
+# Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020)
 
 ## Zweck
 
-Dieser Skill arbeitet die Sechs-Schritte-Roadmap aus der EDPB-Empfehlung 01/2020 (Final Version 18.06.2021) als operative Pruefkette ab. Sie ist die Standard-Architektur fuer das deutsche TIA-Dokument.
+Dieser Skill arbeitet die Sechs-Schritte-Roadmap aus der EDPB-Empfehlung 01/2020 (Final Version 18.06.2021) als operative Pruefkette ab. Sie ist die Standard-Architektur für das deutsche TIA-Dokument.
 
 ## Wann dieses Modul hilft
 
-- Erstes TIA-Dokument fuer einen konkreten Transfer.
-- Aktualisierung eines bestehenden TIA nach Provider-Wechsel oder neuer Behoerdenpraxis.
+- Erstes TIA-Dokument für einen konkreten Transfer.
+- Aktualisierung eines bestehenden TIA nach Provider-Wechsel oder neuer Behördenpraxis.
 - Vorlage gegenueber Aufsichtsbehoerde.
 - Vorbereitung einer Vertragsverhandlung mit US-Anbieter.
 - Schulung interner Reviewer.
@@ -203,7 +191,7 @@ Pruefen:
 - Welche Subprozessoren / Sub-Sub-Prozessoren?
 - Verarbeitungszwecke und Datenfluesse (auch innerhalb des Importeurs).
 
-Output: Transfer-Inventar als Tabelle (siehe Skill `ropa-art-30-controller-deutsch-vorlage` fuer Querverweis).
+Output: Transfer-Inventar als Tabelle (siehe Skill `ropa-art-30-controller-deutsch-vorlage` für Querverweis).
 
 ### Schritt 2 – Identify transfer tool
 
@@ -211,7 +199,7 @@ Ziel: Rechtsgrundlage des Transfers bestimmen.
 
 Optionen:
 
-- **Art. 45 DSGVO – Angemessenheitsbeschluss** (z. B. UK, Schweiz, Japan, Suedkorea, EU-US DPF fuer gelistete Importeure).
+- **Art. 45 DSGVO – Angemessenheitsbeschluss** (z. B. UK, Schweiz, Japan, Suedkorea, EU-US DPF für gelistete Importeure).
 - **Art. 46 DSGVO – Geeignete Garantien**:
  - SCC (Beschluss (EU) 2021/914, Module 1-4),
  - BCR (Art. 47),
@@ -227,7 +215,7 @@ Ziel: Drittlandsrecht und tatsaechliche Praxis bewerten.
 
 Pruefen:
 
-- Welche Behoerden haben Zugriffsbefugnisse?
+- Welche Behörden haben Zugriffsbefugnisse?
 - Welche Eingriffstiefe? Welche Garantien (gerichtliche Kontrolle, Anlassbezug)?
 - Empfehlung 02/2020 – Europaeische Wesentliche Garantien (EEG):
  - Garantie A: klare, praezise und vorhersehbare Regelungen.
@@ -236,7 +224,7 @@ Pruefen:
  - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
 - Sind die Garantien im Recht **und** in der Praxis erfuellt?
 
-Quellen fuer Bewertung: offizielle Berichte, Transparenzberichte des Importeurs, EDPB-Empfehlungen, frei zugaengliche Auswertungen.
+Quellen für Bewertung: offizielle Berichte, Transparenzberichte des Importeurs, EDPB-Empfehlungen, frei zugaengliche Auswertungen.
 
 ### Schritt 4 – Adopt supplementary measures
 
@@ -245,7 +233,7 @@ Falls Schritt 3 negativ: ergaenzende Schutzmassnahmen.
 Drei Kategorien:
 
 - **Technische Massnahmen** (oft entscheidend): starke Verschluesselung mit Key Management ausserhalb des Drittlands; Pseudonymisierung mit unkorrelierten Schluesseln; Split Processing; ueberhaupt kein Klartext-Zugriff durch Importeur.
-- **Vertragliche Massnahmen**: erweiterte Audit- und Transparenzrechte, Behoerdenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
+- **Vertragliche Massnahmen**: erweiterte Audit- und Transparenzrechte, Behördenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
 - **Organisatorische Massnahmen**: Mitarbeiterschulung, klare Eskalationsprozesse, Lieferantenbewertung, dokumentierte Anfechtungspolitik.
 
 EDPB-Anhang 2 zu Empfehlung 01/2020 listet Use Cases 1-7 (Use Case 6 und 7 ohne wirksame Schutzmassnahmen denkbar).
@@ -257,7 +245,7 @@ Wenn ergaenzende Massnahmen erforderlich:
 - AVV/DPA anpassen.
 - SCC ergaenzende Anhaenge ausfuellen (Annex I, II, III).
 - Falls SCC angepasst werden (Klauselzusatz, nicht Streichung) – Konsultation Aufsichtsbehoerde pruefen.
-- Bei BCR – Updates an die Lead-Behoerde melden.
+- Bei BCR – Updates an die Lead-Behörde melden.
 - Genehmigung beantragen, wo erforderlich.
 
 ### Schritt 6 – Re-evaluate
@@ -265,14 +253,14 @@ Wenn ergaenzende Massnahmen erforderlich:
 Erneute Pruefung bei Aenderungen:
 
 - Aenderungen im Drittlandsrecht (Gesetze, Urteile).
-- Aenderungen in der Behoerdenpraxis.
+- Aenderungen in der Behördenpraxis.
 - Aenderungen beim Importeur (Konzernstruktur, Subprozessoren, Dienste).
 - Aenderungen beim Exporteur (neue Datenarten, neue Zwecke).
 - Mindestens jaehrlich.
 
 ## Mustertext / Template
 
-Kapitelueberschriften fuer das TIA-Dokument:
+Kapitelueberschriften für das TIA-Dokument:
 
 ```
 1. Know your transfers
@@ -302,7 +290,7 @@ Kapitelueberschriften fuer das TIA-Dokument:
  5.3 Sign-off
 
 6. Re-evaluation
- 6.1 Trigger fuer Neubewertung
+ 6.1 Trigger für Neubewertung
  6.2 Naechstes Review-Datum
  6.3 Notfallaussetzungs-Prozess
 ```
@@ -319,12 +307,12 @@ Kapitelueberschriften fuer das TIA-Dokument:
 
 ## Querverweise
 
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` fuer rechtliche Grundlage.
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer US-Spezifik.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` fuer Schritt 4.
-- `tia-laender-bewertung-china-india-brazil-uk` fuer weitere Laender.
-- `tia-template-deutsch-vollvorlage` fuer das Vollvorlage-Dokument.
-- `tia-en-six-step-roadmap` fuer englische Fassung.
+- `tia-schrems-ii-eugh-c-311-18-grundlagen` für rechtliche Grundlage.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Spezifik.
+- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Schritt 4.
+- `tia-laender-bewertung-china-india-brazil-uk` für weitere Länder.
+- `tia-template-deutsch-vollvorlage` für das Vollvorlage-Dokument.
+- `tia-en-six-step-roadmap` für englische Fassung.
 
 ## Quellen Stand 06/2026
 
@@ -334,7 +322,6 @@ Kapitelueberschriften fuer das TIA-Dokument:
 - Durchfuehrungsbeschluss (EU) 2021/914 vom 04.06.2021 (SCC).
 - Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023 (EU-US DPF).
 - Art. 44–49 DSGVO.
-
 
 ## Qualitäts-Hardening
 
@@ -463,7 +450,6 @@ Fallback clause: [reference]
 - European Commission, First Review of the EU-US DPF (Summer 2024) – verify against the official report.
 - Schrems III proceedings (NOYB) at the General Court of the EU – check current case status.
 - DPF list: dataprivacyframework.gov.
-
 
 ## Qualitäts-Hardening
 

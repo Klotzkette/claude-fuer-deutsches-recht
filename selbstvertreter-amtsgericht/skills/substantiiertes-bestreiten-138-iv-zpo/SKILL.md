@@ -28,7 +28,7 @@ Sie koennen nicht einfach sagen "stimmt nicht" zu allem in der Klage. § 138 II 
 - **§ 138 IV ZPO** — Mit Nichtwissen bestreiten bei nicht-eigener Wahrnehmung.
 - **§ 286 ZPO** — Freie Beweiswuerdigung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klaeger-Tatsachen sortieren
 

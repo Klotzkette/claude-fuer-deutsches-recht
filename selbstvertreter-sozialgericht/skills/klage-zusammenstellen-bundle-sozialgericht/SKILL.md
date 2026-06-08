@@ -17,7 +17,7 @@ Eine Klage besteht aus mehreren Teilen. Schriftsatz, Anlagen, Verzeichnis. Diese
 
 ## In einfacher Sprache
 
-Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Gericht. Wir haken Punkt fuer Punkt ab.
+Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Gericht. Wir haken Punkt für Punkt ab.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -27,7 +27,7 @@ Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Ger
 ## Fachbegriffe (kurz erklaert)
 
 - **Komplettpaket**: Alles, was eine Klage braucht — Schriftsatz, Anlagen, Verzeichnis.
-- **Abschrift**: Kopie fuer den Gegner.
+- **Abschrift**: Kopie für den Gegner.
 - **Konvolut**: Geheftete Sammlung mehrerer Schriftstuecke.
 
 ## Rechtsgrundlagen
@@ -35,18 +35,18 @@ Sie haben alle Teile. Jetzt machen Sie ein Paket. Das Paket schicken Sie ans Ger
 - **§§ 90 ff. SGG** — Klage und Inhalt.
 - **§ 93 SGG** — Abschriften.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vollstaendigkeits-Checkliste
 
 Pruefen Sie:
 
-- [ ] **Klageschrift** mit Unterschrift (Original fuer das Gericht)
+- [ ] **Klageschrift** mit Unterschrift (Original für das Gericht)
 - [ ] **Antraege** klar formuliert
 - [ ] **Anlagenverzeichnis** am Ende der Klageschrift
 - [ ] **Alle Anlagen** vorhanden und nummeriert (K1, K2, ...)
-- [ ] **Abschriften** fuer Beklagte
-- [ ] **Kopie fuer sich**
+- [ ] **Abschriften** für Beklagte
+- [ ] **Kopie für sich**
 - [ ] **Bezeichnung** der Beklagten korrekt
 - [ ] **Versicherungs-Nummer** / Aktenzeichen genannt
 - [ ] **Versandweg** geklaert (Post / Fax / MJP / persoenlich)
@@ -100,7 +100,7 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 
 - **Originalunterschrift**: bei Papierversand auf dem Original — nicht nur Kopie.
 - **Frist sichern**: Versand am letzten Tag riskant; lieber vorher.
-- **Beklagter konkret**: "Jobcenter Stadt X" — nicht "Behoerde XY allgemein".
+- **Beklagter konkret**: "Jobcenter Stadt X" — nicht "Behörde XY allgemein".
 
 ## Typische Fehler
 
@@ -122,7 +122,6 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichte.
-
 
 ## Qualitäts-Hardening
 

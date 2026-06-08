@@ -104,3 +104,13 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Tatsächliches Thema laut dejure.org: Pešková und Peška/Travel Service – Vogelschlag als außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004.
 Aktion: Eintrag mit korrektem Thema und Fundstelle EU:C:2017:342 ersetzt.
 -->
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)

@@ -1,35 +1,21 @@
 ---
 name: erfinderbenennung-arbeitnehmererfindung
-description: "Erfinderbenennung Arbeitnehmererfindung im Patentrecht: prüft konkret Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen, Nimmt rohe Erfindungsideen, Skizzen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Erfinderbenennung Arbeitnehmererfindung
+# Erfinderbenennung und Arbeitnehmererfindung
 
 ## Arbeitsbereich
 
-**Erfinderbenennung Arbeitnehmererfindung** ordnet den Fall über die tragenden Prüffelder: Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen, Nimmt rohe Erfindungsideen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `erfinderbenennung-und-arbeitnehmererfindung` | Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken. |
-| `erfindungsmeldung-aufnahme-und-rueckfragen` | Nimmt rohe Erfindungsideen, Skizzen, Mandantenmails und Prototypnotizen auf; trennt technische Lehre von bloßer Idee, erkennt Offenbarungsrisiken und erstellt Rückfragen für eine patentfähige Anmeldung. |
-| `freedom-to-operate-und-schutzbereich` | Prüft Freedom-to-Operate und Schutzbereich: Zielprodukt, Territory, Registerstand, Anspruchsmerkmale, wortsinngemäße Verwirklichung, Äquivalenz, Design-around und Risikomemo. |
+Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Patentrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `erfinderbenennung-und-arbeitnehmererfindung`
-
-**Fokus:** Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken.
-
-# Erfinderbenennung und Arbeitnehmererfindung
 
 ## Erfinderstatus
 
@@ -69,109 +55,6 @@ Erfinder ist, wer einen schöpferischen Beitrag zur technischen Lehre geleistet 
 - **Spezialfälle:** Hochschulerfindungen § 42 ArbEG (Hochschullehrer); Universitäten haben 30 % Vergütungsanteil; Veröffentlichungsfreiheit zu wahren.
 - **Vergütung Routinearbeit:** § 9 ArbEG-Logik nicht auf "freie" Erfindungen anwendbar — Trennung sauber ziehen.
 - Falle: Bei Konzernlizenzen IP-Inhaberschaft live im DPMA-Register prüfen; "wirtschaftliche" Zuordnung reicht nicht; Diensterfinderbenennung darf nicht zur Familienangelegenheit werden — § 8 PatG Vindikationsanspruch droht.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `erfindungsmeldung-aufnahme-und-rueckfragen`
-
-**Fokus:** Nimmt rohe Erfindungsideen, Skizzen, Mandantenmails und Prototypnotizen auf; trennt technische Lehre von bloßer Idee, erkennt Offenbarungsrisiken und erstellt Rückfragen für eine patentfähige Anmeldung.
-
-# Erfindungsmeldung aufnehmen
-
-## Vorgehen
-
-1. **Erfindung in Alltagssprache erfassen:** Was soll besser funktionieren als bisher?
-2. **Technisches Problem bestimmen:** Welcher technische Nachteil wird überwunden?
-3. **Lösung in Merkmale zerlegen:** Bauteile, Schritte, Steuerlogik, Sensorik, Material, Parameter, Wechselwirkungen.
-4. **Wirkung festhalten:** Warum bewirkt gerade diese Merkmalskombination den Vorteil?
-5. **Varianten sammeln:** minimale Ausführung, bevorzugte Ausführung, Alternativen, optionale Merkmale, Ersatzteile.
-6. **Offenbarung prüfen:** Website, Messe, Pitch, Kundenangebot, Zeitungsbericht, Verkauf, Prototypvorführung, NDA ja/nein.
-7. **Erfinder klären:** wer hat zum erfinderischen Beitrag beigetragen, wer nur umgesetzt?
-
-## Rückfragen an Mandanten
-
-Rückfragen müssen technisch präzise sein. Nicht fragen: "Bitte beschreiben Sie die Erfindung genauer." Besser:
-
-- Welches Bauteil oder welcher Verfahrensschritt unterscheidet Ihre Lösung von bekannten Produkten?
-- Welche Variante funktioniert noch, wenn dieses Merkmal fehlt?
-- Welche Messwerte oder Beobachtungen belegen den technischen Vorteil?
-- Wer hat wann welche Idee eingebracht?
-- Wurde die Lösung bereits ohne Geheimhaltungsbindung gezeigt, verkauft oder beschrieben?
-- Gibt es Fotos, Skizzen, CAD, Stücklisten, Quellcode, Laborbuch, Prototypen oder E-Mails?
-
-## Output
-
-- Erfindungssteckbrief.
-- Merkmalsliste.
-- Offenbarungs- und Fristenwarnung.
-- Rückfragenkatalog.
-- Empfehlung: Anspruchsentwurf, Recherche, Geheimhaltung, Sofortanmeldung oder Nichtanmeldung.
-
-## Rechtlicher Rahmen
-
-- **§ 1 PatG:** Patente werden für Erfindungen auf allen Gebieten der Technik erteilt, sofern sie neu sind, auf erfinderischer Tätigkeit beruhen und gewerblich anwendbar sind.
-- **Neuheit (§ 3 PatG; Art. 54 EPÜ):** alles, was vor dem Anmelde-/Prioritätstag der Öffentlichkeit zugänglich war, ist neuheitsschädlich. **Kein "grace period"** im EPÜ -- Vorveröffentlichung durch den Erfinder ist genauso schädlich wie die durch Dritte (Ausnahme nur § 3 Abs. 5 PatG für offensichtlichen Missbrauch / einschlägige Ausstellung).
-- **Erfinderische Tätigkeit (§ 4 PatG; Art. 56 EPÜ):** Aufgabe-Lösungs-Ansatz (Problem-Solution-Approach) des EPA.
-- **Diensterfindung (ArbnErfG):** Meldepflicht des Arbeitnehmers (§ 5 ArbnErfG); Inanspruchnahme durch Arbeitgeber innerhalb von 4 Monaten ab Meldung (§ 6 ArbnErfG); Vergütung nach § 9 ArbnErfG.
-- **Erfinderbenennung (§ 37 PatG):** binnen 16 Monaten nach Anmeldetag bzw. Prioritätstag; sonst Versagung.
-
-## Sofortmaßnahme bei drohender Offenbarung
-- Bei kurzfristiger Messe/Pitch: prioritätsbegründende DPMA- oder EPA-Erstanmeldung mit knapp möglichem Anspruchssatz; Nachreichung Beschreibung und Zeichnungen binnen Prioritätsjahr (Art. 87 EPÜ).
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `freedom-to-operate-und-schutzbereich`
-
-**Fokus:** Prüft Freedom-to-Operate und Schutzbereich: Zielprodukt, Territory, Registerstand, Anspruchsmerkmale, wortsinngemäße Verwirklichung, Äquivalenz, Design-around und Risikomemo.
-
-# Freedom-to-Operate und Schutzbereich
-
-## Reihenfolge
-
-1. **Zielprodukt fixieren:** Version, technische Spezifikation, Prozess, Lieferkette, Zielmärkte.
-2. **Relevante Schutzrechte finden:** Patente, Gebrauchsmuster, EP-Validierungen, Einheitspatente, nationale Teile.
-3. **Rechtsstand prüfen:** in Kraft, erteilt, abgelaufen, Einspruch, Beschränkung, Jahresgebühr, Inhaber.
-4. **Ansprüche gliedern:** nur geltende Anspruchsfassung verwenden.
-5. **Produkt gegen Merkmale legen:** vorhandene Daten, fehlende Daten, Annahmen.
-6. **Verletzung prüfen:** wortsinngemäß, dann Äquivalenz mit Vorsicht.
-7. **Einwendungen:** Nichtigkeit, Vorbenutzung, Erschöpfung, Lizenz, Verwirkung, experimentelle Nutzung.
-8. **Design-around:** technische Alternativen und Restgefahren.
-
-## Output
-
-- FTO-Ampel je Schutzrecht und Territory.
-- Claim Chart.
-- Registerstand mit Abrufdatum.
-- Offene technische Beweisfragen.
-- Handlungsempfehlung: Launch, Redesign, Lizenz, Rechtsbestandsangriff, Standstill.
-
-## Pflichtsatz
-
-FTO ist nie absolute Freiheit. Das Ergebnis ist eine risikogewichtete Recherche und Prüfung auf Grundlage der konkret geprüften Schutzrechte und Datenbanken.
-
-## Schutzbereich-Auslegung — Pflichtnormen
-
-- **§ 14 PatG / Art. 69 EPÜ und Auslegungsprotokoll:** Schutzbereich primär nach Ansprüchen, Beschreibung und Zeichnungen heranziehen, aber nicht zur Erweiterung über den Anspruch hinaus.
-- **Wortsinn vor Äquivalenz:** Erst exakte Merkmalsverwirklichung prüfen; dann Äquivalenz nach BGH "Schneidmesser I/II" (X ZR 168/00) — gleiche Wirkung, naheliegende Auffindbarkeit, Gleichwertigkeit aus Anspruch.
-- **Mittelbare Verletzung § 10 PatG:** Lieferung von Mitteln, die sich auf wesentliche Erfindungselemente beziehen, kann verletzen, auch wenn Anwender nicht verletzt.
-- **Einwendungen prüfen:** Vorbenutzungsrecht (§ 12 PatG), Erschöpfung (§ 9 S. 2 PatG), Lizenz, Verwirkung (§ 242 BGB), Versuchsprivileg (§ 11 Nr. 2 PatG), Bolar-Klausel Medikamentenzulassung.
-- **UPC-Zuständigkeit:** Bei Einheitspatent zentrale Klage am UPC; Opt-out nur bis Ende Übergangszeit; danach Bindung an UPC-Spruch.
-- Tipp: Claim Chart immer mit Anspruchsversion (Anmeldetag, Erteilungstext, Einspruchstext) und Registerabrufdatum versehen.
-
 
 ## Qualitäts-Hardening
 

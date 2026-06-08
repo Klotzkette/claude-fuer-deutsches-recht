@@ -7,7 +7,6 @@ description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter 
 
 Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laesst sich nicht automatisieren - aber strukturieren.
 
-
 ## Triage zu Beginn
 
 1. Welche Beweismittel wurden erhoben — Zeugen, Sachverständiger, Augenschein, Urkunden?

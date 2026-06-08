@@ -6,11 +6,9 @@ description: "Erzeugt den jeweils passenden Output: Memo, Abmahnung, Antwort, Li
 # Output Builder Urheberrecht
 
 ## Fachkern: Output Builder Urheberrecht
-- **Spezialgegenstand:** Output Builder Urheberrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -27,7 +25,6 @@ Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbe
 
 - je nach Route
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -35,7 +32,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Wer liest den Output?
 - Soll er entscheiden, verhandeln, dokumentieren oder einreichen?
 - Welche Tonalität und Tiefe sind nötig?
-
 
 ## Prüflogik
 
@@ -55,7 +51,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Gliederung
 - fertiger erster Entwurf
 
-
 ## Qualitätsfilter
 
 - Die beste Prüfung hilft wenig, wenn der Output nicht zur Rolle passt.
@@ -66,3 +61,13 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Anschluss-Skills
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 2 UrhG (geschützte Werke)
+- § 7 UrhG (Urheber)
+- §§ 15-24 UrhG (Verwertungsrechte)
+- § 97 UrhG (Unterlassung, Schadensersatz)
+- RL (EU) 2019/790 (DSM-RL)

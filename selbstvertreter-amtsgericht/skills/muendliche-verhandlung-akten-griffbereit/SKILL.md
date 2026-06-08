@@ -22,7 +22,7 @@ Sie haben eine Klage eingereicht oder eine Klageerwiderung geschrieben. Jetzt ko
 - **Termin-Stichwort-Liste**: Eine selbst gemachte Liste mit den wichtigsten Themen, die Sie ansprechen wollen.
 - **Mitschreib-Block**: Ein Notizblock, auf dem Sie im Termin festhalten, was der Richter sagt und was die Gegenseite sagt.
 
-## Schritt-fuer-Schritt-Vorbereitung
+## Schritt-für-Schritt-Vorbereitung
 
 ### Schritt 1 — Akten-Ordner anlegen
 
@@ -113,7 +113,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 - **Akten-Ordner offen neben dem Geraet** — Sie koennen waehrend des Videos kurz reinschauen.
 - **Zweites Geraet (z.B. Tablet)** mit den wichtigsten PDFs offen — als Backup, wenn Sie schnell etwas zeigen sollen.
 - Stabile Internet-Verbindung.
-- Personalausweis fuer Identitaets-Pruefung griffbereit.
+- Personalausweis für Identitaets-Pruefung griffbereit.
 
 ## Worauf Sie besonders achten muessen
 
@@ -142,8 +142,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch fuer Selbstvertreter geeignet.
-
+Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch für Selbstvertreter geeignet.
 
 ## Qualitäts-Hardening
 

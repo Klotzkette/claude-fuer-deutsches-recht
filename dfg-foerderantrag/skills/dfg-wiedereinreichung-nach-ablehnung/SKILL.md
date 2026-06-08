@@ -167,6 +167,23 @@ Schritt 3: Wiederholungen erkennen. Wenn drei Gutachter dasselbe sagen, ist es n
 - Falsche Programmschiene beibehalten, obwohl Gutachten "passt eher in [anderes Programm]" sagt.
 - Geschäftsstelle nicht angerufen vor Wiedereinreichung.
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Wiedereinreichung nach Ablehnung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — wissenschaftsadäquate Begutachtung.
+- `§ 28 Abs. 1 VwVfG` — Anhörungslogik als Mindeststandard bei belastenden Förderentscheidungen, soweit Verwaltungsverfahrensrecht anwendbar ist.
+- `§ 39 Abs. 1 VwVfG` — Begründungslogik für angreifbare Förderentscheidungen.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `§ 44 Abs. 1 BHO` — Nachweis- und Prüflogik der Förderung.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit als Bewertungsmaßstab.
+- `DFG-Kodex Leitlinie 15` — Publikationsorgan und Qualitätssicherung.
+- `DFG-Verfahrensordnung Begutachtung` — Befangenheit, fachliche Passung und Entscheidungspfad live prüfen.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - **Gutachten-Synopse** mit Kritik-Kategorisierung.

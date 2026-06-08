@@ -27,7 +27,7 @@ Sie wollen vor dem Widerspruch einen Anwalt fragen. Das geht fast gratis. Sie za
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Beratungshilfe**: Staatliche Uebernahme von Anwaltskosten fuer ausserhalb des Gerichtsverfahrens.
+- **Beratungshilfe**: Staatliche Uebernahme von Anwaltskosten für ausserhalb des Gerichtsverfahrens.
 - **Berechtigungsschein**: Schein vom Amtsgericht, dass Sie Beratungshilfe bekommen.
 - **Eigenanteil**: 15 EUR, die der Buerger an den Anwalt zahlt.
 - **BerHG**: Beratungshilfegesetz.
@@ -38,11 +38,11 @@ Sie wollen vor dem Widerspruch einen Anwalt fragen. Das geht fast gratis. Sie za
 - **§ 2 BerHG** — Voraussetzungen (wirtschaftliche Lage).
 - **§ 8 BerHG** — Beratungshilfe-Schein.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Beim Amtsgericht Beratungshilfe-Schein holen
 
-Das **Amtsgericht** (nicht das Sozialgericht!) ist zustaendig. Speziell die Rechtsantragsstelle.
+Das **Amtsgericht** (nicht das Sozialgericht!) ist zuständig. Speziell die Rechtsantragsstelle.
 
 Adresse: www.justiz.de → Amtsgericht in Ihrer Stadt.
 
@@ -63,7 +63,7 @@ Sie koennen den Schein:
 - Einkommensnachweise (Buergergeld-Bescheid, Renten-Bescheid, Lohnabrechnung)
 - Mietvertrag
 - Bescheid, gegen den Sie sich wehren wollen
-- ggf. Schreiben der Behoerde
+- ggf. Schreiben der Behörde
 
 ### Schritt 4 — Schein bekommen
 
@@ -76,7 +76,7 @@ Im Erfolgsfall bekommen Sie:
 ### Schritt 5 — Anwalt finden
 
 - Anwaltsregister: www.rechtsanwaltsregister.org
-- Anwaelte fuer Sozialrecht im Branchenbuch
+- Anwaelte für Sozialrecht im Branchenbuch
 - Sozialverband VdK / SoVD (manchmal kostenlos)
 - Caritas / Diakonie
 
@@ -102,7 +102,7 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 
 ## Typische Fehler
 
-- Beratungshilfe ans SG → Amtsgericht ist zustaendig
+- Beratungshilfe ans SG → Amtsgericht ist zuständig
 - Anwalt ohne Schein aufsucht, ohne Vereinbarung → Anwalt kann volles Honorar verlangen
 - Belege fehlen → Schein nicht bewilligt
 
@@ -116,7 +116,6 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktuellen Stand auf www.justiz.de.
-
 
 ## Qualitäts-Hardening
 

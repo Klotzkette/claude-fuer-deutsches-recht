@@ -79,7 +79,7 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 **Beispiel BGH-Rechtsprechung zur Schwarzarbeit (§ 134 BGB iVm SchwarzArbG):** Konsequente Nichtigkeit von Schwarzarbeitsvertraegen und Versagung von Bereicherungsansprueechen sind Wertentscheidung — zu Lasten beider Parteien, zugunsten staatlicher Steuer- und Sozialversicherungsinteressen. Legal Realism / CLS macht diese Wertentscheidung sichtbar.
 
-## Schritt-fuer-Schritt (als kritische Pruefung)
+## Schritt-für-Schritt (als kritische Pruefung)
 
 1. **Wertungen offenlegen.** Welche Wertungen stecken in der Auslegung, die als "selbstverstaendlich" erscheint?
 2. **Alternative Auslegungen pruefen.** Welche anderen Auslegungen waeren methodisch vertretbar?
@@ -133,7 +133,6 @@ Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen
 - §§ 134, 138, 242, 305 ff., 535 ff., 573 ff. BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

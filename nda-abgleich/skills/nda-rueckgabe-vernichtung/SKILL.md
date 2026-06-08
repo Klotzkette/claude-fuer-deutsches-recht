@@ -6,20 +6,16 @@ description: "Rueckgabe und Vernichtung Vertraulicher Information: Pflicht, Best
 # NDA: Rueckgabe/Vernichtung
 
 ## Spezialwissen: NDA: Rueckgabe/Vernichtung
-- **Spezialgegenstand:** NDA: Rueckgabe/Vernichtung / nda rueckgabe vernichtung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -57,7 +53,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Ausnahmen (Standard-Carve-outs)
 
-- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre fuer Geschaeftsbriefe, § 147 AO 10 Jahre fuer steuerlich relevante Unterlagen, § 50 GwG 5 Jahre fuer Geldwaeschepruefung).
+- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre für Geschaeftsbriefe, § 147 AO 10 Jahre für steuerlich relevante Unterlagen, § 50 GwG 5 Jahre für Geldwaeschepruefung).
 - **Backups / Archivsysteme:** "Standard IT-Backups" muessen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
 - **Rechtsberater (Legal Hold):** Anwaelte muessen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
 - **Vorbereitungsmaterial / Memoranden:** Eigene Analysen mit Bezug auf Vertrauliche Informationen werden oft mit Vernichtungspflicht erfasst; abweichende Klausel ("Working Papers") nur dann tragbar, wenn der Inhalt vollstaendig anonymisiert wird.
@@ -68,7 +64,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Mustertext
 
-> Nach Beendigung dieses Vertrages oder auf vorheriges Verlangen der offenlegenden Partei wird die empfangende Partei innerhalb von 30 Tagen alle Vertraulichen Informationen sowie alle Kopien, Aufzeichnungen, Analysen und Auswertungen, die solche Informationen enthalten, nach Wahl der offenlegenden Partei zurueckgeben oder unwiederbringlich vernichten beziehungsweise loeschen. Die ordnungsgemaesse Erledigung wird die empfangende Partei in Textform bestaetigen. Von der Rueckgabe-/Vernichtungspflicht ausgenommen sind Unterlagen, die einer gesetzlichen Aufbewahrungspflicht unterliegen, sowie Backups in geschuetzten Archivsystemen, soweit der Zugriff darauf beschraenkt bleibt und die Vernichtung im normalen Backup-Zyklus erfolgt; die Vertraulichkeitspflicht bleibt fuer diese Unterlagen bestehen.
+> Nach Beendigung dieses Vertrages oder auf vorheriges Verlangen der offenlegenden Partei wird die empfangende Partei innerhalb von 30 Tagen alle Vertraulichen Informationen sowie alle Kopien, Aufzeichnungen, Analysen und Auswertungen, die solche Informationen enthalten, nach Wahl der offenlegenden Partei zurueckgeben oder unwiederbringlich vernichten beziehungsweise loeschen. Die ordnungsgemaesse Erledigung wird die empfangende Partei in Textform bestaetigen. Von der Rueckgabe-/Vernichtungspflicht ausgenommen sind Unterlagen, die einer gesetzlichen Aufbewahrungspflicht unterliegen, sowie Backups in geschuetzten Archivsystemen, soweit der Zugriff darauf beschraenkt bleibt und die Vernichtung im normalen Backup-Zyklus erfolgt; die Vertraulichkeitspflicht bleibt für diese Unterlagen bestehen.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
@@ -83,10 +79,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

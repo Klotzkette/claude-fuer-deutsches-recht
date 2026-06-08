@@ -1,0 +1,214 @@
+---
+name: country-by-country-benefits-matrix-konzern
+description: "Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie im Bav Strategie Konzern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Country-by-Country Benefits-Matrix für Konzerne
+
+## Arbeitsbereich
+
+Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: BetrAVG § 1b Unverfallbarkeitsfrist 3 Jahre/21. Lebensjahr, § 16 Anpassungsprüfung 3 Jahre, EStG § 3 Nr. 63 Beitragsgrenze 8 % BBG, PSV-Beitrag jährlich.
+- Tragende Normen verifizieren: BetrAVG §§ 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG §§ 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG § 5 (Pensionsfonds), VAG (Pensionskassen), HGB § 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (§ 87 Abs. 1 Nr. 10 BetrVG).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Versorgungsordnung, Pensionszusage, Entgeltumwandlungsvereinbarung, PSV-Anzeige, IFRS/HGB-Pensionsgutachten, versicherungsmathematisches Gutachten, Betriebsvereinbarung bAV — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Country-by-Country Benefits-Matrix für Konzerne
+
+- **bAV-Problem:** Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
+
+## Rechtsgrundlagen
+
+Je Land — kurze Übersicht (Details je Skill `internationale-harmonisierung-konzern-bav` und `japan-bav-und-corporate-pension-iorp`):
+
+- **DE:** BetrAVG §§ 1–30g; EStG § 3 Nr. 63; VAG §§ 232–242; SGB VI; IORP II (§§ 232 ff. VAG)
+- **UK:** Pension Schemes Act 2021; Pensions Act 2008 (Auto-enrolment); Pensions (No. 2) Act 2008; PPF (Pension Protection Fund Act 2004); TPR (The Pensions Regulator)
+- **US:** ERISA § 404 ff.; IRC §§ 401(a), 414, 415; PBGC; ASC 715 (US GAAP)
+- **FR:** Code de la Sécurité Sociale Art. L. 137-11; Loi PACTE 2019 (PER); AGIRC-ARRCO; ACPR
+- **SG:** CPF Act (Cap. 36); SRS Scheme; Income Tax Act Singapore
+- **JP:** Welfare Pension Insurance Act (厚生年金保険法); DC Pension Law (確定拠出年金法); DB Pension Law (確定給付企業年金法)
+- **NL:** Pensioenwet 2007; Wet toekomst pensioenen (WTP, ab 2023); DNB (De Nederlandsche Bank)
+- **CH:** BVG (Bundesgesetz über die berufliche Vorsorge 1985); FZG (Freizügigkeitsgesetz); FINMA
+
+---
+
+## Vorgehen
+
+### Schritt 1: Matrix-Struktur und Erhebungsmethodik
+
+Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument für internationale Konzerne. fachliche Leitung etabliert folgende Standardstruktur:
+
+**Dimensionen der Matrix:**
+1. Obligatorische Systeme (staatliche Pflicht)
+2. Branchenweite / tarifliche Zusatzsysteme
+3. Betriebliche freiwillige Systeme
+4. Steuerliche Fördergrenzen
+5. PSV-Äquivalente / Insolvenzsicherung
+6. Governance-Anforderungen
+7. Expat-Behandlung
+8. Portabilität
+
+---
+
+## Matrix (Standardübersicht)
+
+### Deutschland (DE)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | GRV (gesetzliche Rentenversicherung, SGB VI) — Pflicht für alle AN |
+| Branchenversorgung | Je nach Branche: ATV/ATV-K (öD); VBL; ChemTV; Metallrente |
+| Betriebliche BAV | Fünf Durchführungswege (→ Skill `pensionsmodelle-fuenf-durchfuehrungswege`) |
+| Steuerförderung | § 3 Nr. 63 EStG: bis EUR 7.248 p.a. steuerfrei (2024); 4% BBG-West SV-frei |
+| Insolvenzsicherung | PSV (§ 7 ff. BetrAVG) — Direktzusage/UK/PF |
+| Governance | IORP II (§§ 232 ff. VAG) für PK/PF; Mitbestimmung § 87 BetrVG |
+| Expat | Typischerweise GRV-pflichtig; Doppelversicherung bei Kurzentsendung durch A1-Bescheinigung vermieden |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+
+### Vereinigtes Königreich (UK)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | State Pension (NI Contributions); Auto-enrolment Pensions Act 2008 |
+| Auto-enrolment | Pflichtbeitrag: mindestens 8 % (AN mind. 5 %, AG mind. 3 %) — Qualifying earnings basis |
+| DB | Trust-based Occupational Pension Scheme; The Pensions Regulator (TPR) |
+| DC | Master Trust Schemes; GPP (Group Personal Pension); SIPP (Self-Invested PP) |
+| Steuerförderung | Annual Allowance 2024/25: GBP 60.000 p.a.; Lifetime Allowance abgeschafft (2024) |
+| Insolvenzsicherung | PPF (Pension Protection Fund) — für DB; FSCS für Versicherungsprodukte |
+| Governance | Trustee-Pflichten; TPR Code of Practice; Task Force TCFD-Klimaoffenlegung |
+| Expat | Keine GRV-Äquivalent-Pflicht für EU-Expats post-Brexit; SV-Abkommen prüfen |
+
+### USA
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | Social Security (FICA) — AG und AN je 6,2 % auf Lohn bis USD 168.600 (2024) |
+| DB | ERISA-qualifizierte DB-Pläne; PBGC-versichert (Prämie je Teilnehmer) |
+| DC | 401(k); 403(b); 457; Beitragslimit 2024: USD 23.000 + USD 7.500 Catch-up (50+) |
+| Steuerförderung | IRC § 402: Beiträge steuerbegünstigt bis Limit; Roth 401(k) für Nachsteuer |
+| Insolvenzsicherung | PBGC (Pension Benefit Guaranty Corp.) für DB |
+| Governance | ERISA fiduciary duty §§ 404–412; DOL-Meldepflichten; Form 5500 |
+| Expat | US Totalization Agreements mit ca. 30 Ländern (→ Skill `expatriate-pensionsplanung-und-totalization`) |
+
+### Frankreich (FR)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | Régime général SS (Rentenversicherung); AGIRC-ARRCO (branchenweit — Pflicht) |
+| AGIRC-ARRCO | Punktesystem; Pflicht für Angestellte; AG und AN-Beiträge gestaffelt |
+| Betrieblich | Art. L. 137-11 CSS: "Article 39"-Pläne (DB Führungskräfte — steuerlich belastet ab 2020); PER collectif/obligatoire (DC, seit Loi PACTE 2019) |
+| PER (DC) | Beitragsrabatt IRPP; beim Arbeitnehmer abzugsfähig |
+| Insolvenzsicherung | AGS (Association pour la gestion du régime de garantie des créances des salariés) für Lohnforderungen; keine PBGC-Entsprechung für DB |
+| Governance | ACPR-Aufsicht; IORP II für einige EbAV |
+| Expat | EU-Entsendungsrecht; S1-Formulare; SV-Abkommen |
+
+### Singapur (SG)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | CPF (Central Provident Fund) — Pflicht für Sing. Staatsbürger/PR; Beitragssatz variiert (unter 35 Jahren: AG 17 %, AN 20 %); gilt nicht für Expatriates |
+| CPF-Konten | Ordinary Account (Wohnung, Bildung); Special Account (Altersversorgung); Medisave; Retirement Account |
+| Zusätzlich | SRS (Supplementary Retirement Scheme) — freiwillig; steuerlich gefördert |
+| Insolvenzsicherung | Kein PSV-Äquivalent; CPF-Guthaben sind geschützt |
+| Expat | Work Pass-Inhaber ohne CPF-Pflicht; ggf. freiwillige SRS-Beiträge |
+| Governance | CPFB (CPF Board); MAS (Monetary Authority of Singapore) für Versicherungsprodukte |
+
+### Japan (JP)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | Kosei Nenkin Hoken (厚生年金保険 — Welfare Pension Insurance) für AN; AG+AN je ca. 9,15 % (2024); Kokumin Nenkin Grundrente (国民年金) |
+| Corporate DB | Kakutei-kyuufu kigyou nenkin (確定給付企業年金法) — DB Corporate Pension; Tokantei-gata (Vertrag mit Treuhandbank) und Kikin-gata (Stiftung) |
+| Corporate DC | Kakutei-kyoshutsu nenkin (確定拠出年金法) — DC Corporate; iDeCo (個人型確定拠出年金) individuell |
+| Steuerförderung | DC-Beiträge: steuerfrei bis JPY 55.000 p.m. (Unternehmen ohne DB) |
+| Insolvenzsicherung | Nenkin Kyuufu Sogo Center (年金給付総合センター) — begrenzt; keine PSV-Entsprechung |
+| Governance | FSA Japan (金融庁); Kosei-rodo-sho (厚生労働省); JSCPA-Treuhänderpflichten |
+| Expat | Shakai Hoken (社会保険) für in Japan tätige Expats; Doppelversicherung durch SV-Abkommen (z.B. DE-JP SV-Abkommen seit 2000) |
+
+### Niederlande (NL)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | AOW (Algemene Ouderdomswet) — staatliche Grundrente |
+| Betrieblich | Pensioenwet 2007; Wet toekomst pensioenen (WTP, in Kraft seit 1.7.2023) — schrittweise Umstellung aller DB-Pläne auf DC-ähnliche CDC-/premie-Pläne bis 2028 |
+| WTP-Reform | Alle bestaande DB-Pläne müssen auf individuele Bijdragen (DC) oder CDC (Collective DC) umgestellt werden; erheblicher Anpassungsaufwand |
+| Governance | DNB (De Nederlandsche Bank) als Aufsicht; Pensioenfonds-Toezicht |
+| Insolvenzsicherung | Kein zentraler PSV; Solide Fondsbasis durch DNB-Aufsicht |
+| Expat | EU-Freizügigkeit; SV-Abkommen global |
+
+### Schweiz (CH)
+
+| Dimension | Inhalt |
+|-----------|--------|
+| Pflichtversorgung | AHV/AVS (1. Säule — Grundrente); BVG (2. Säule — obligatorische berufliche Vorsorge) |
+| BVG | Pflicht für Lohn ab CHF 22.050 (2024); BVG-Koordinationsabzug; obligatorischer Mindestumwandlungssatz 6,8 % (politisch umstritten) |
+| Überobligatorium | Vorsorgeeinrichtungen können überobligatorische Leistungen anbieten; oft durch Sammelstiftungen |
+| Steuerförderung | Beiträge an Vorsorgeeinrichtung vollständig abzugsfähig |
+| Freizügigkeit | FZG: Freizügigkeitsleistung bei Stellenwechsel (Freizügigkeitskonto oder Mitnahme) |
+| Governance | FINMA (für reine Lebensversicherer); BVG-Kommission; kantonale Aufsichtsbehörden für autonome PK |
+| Expat | Beitragspflicht für in CH tätige Expats; SV-Abkommen mit EU/EWR |
+
+---
+
+## Templates
+
+### Template 1: Standardisiertes Country-Fact-Sheet (je Land)
+
+```
+COUNTRY FACT SHEET — BETRIEBLICHE ALTERSVERSORGUNG
+[Land: DEUTSCHLAND]
+Erstellt durch: bAV-Projektteam
+
+Kategorien:
+A. Obligatorische Systeme: [...]
+B. Branchensysteme: [...]
+C. Freiwillige betriebliche Systeme: [...]
+D. Steuerliche Förderung (Beitragsgrenzen): [...]
+E. Insolvenzsicherung: [...]
+F. Governance / Aufsicht: [...]
+G. Expat-Regelung: [...]
+H. Lokale Pflichtvorschriften (zwingend): [...]
+I. Aktuelles Reformvorhaben: [...]
+J. Lokaler Rechtsberater-Kontakt: [...]
+```
+
+---
+
+## Fallstricke
+
+1. **NL WTP-Reform:** Die niederländische Reform (Wet toekomst pensioenen) ist die größte Pensionsreform seit Jahren; alle bestehenden DB-Pläne müssen bis 2028 umgestellt werden. Konzerne mit NL-Tochtergesellschaften müssen diese Reform aktiv managen.
+
+2. **US Lifetime Allowance (UK):** Die UK Lifetime Allowance wurde 2024 abgeschafft — Vorsicht bei Altverträgen und Prognosen aus Vorjahren.
+
+3. **CPF Singapur — Expatriate-Falle:** Westliche Expatriates unterliegen nicht der CPF-Pflicht (Work Pass-Inhaber ausgenommen). Lokale Wettbewerber (Arbeitgeber mit lokalen AN) zahlen CPF und haben Wettbewerbsvorteil bei Gesamtvergütung. Supplementäre Benefits für Expats prüfen.
+
+4. **Steuerfallen bei Drittland-Expats:** Expats, die in mehreren Ländern Versorgungsansprüche aufgebaut haben, können mit Doppelbesteuerung auf Pensionsleistungen konfrontiert sein (→ Skill `expatriate-pensionsplanung-und-totalization`).
+
+---
+
+## Querverweise zu anderen Skills
+
+- → `internationale-harmonisierung-konzern-bav` — Konzernweite Harmonisierung
+- → `expatriate-pensionsplanung-und-totalization` — Expatriate-Sonderfragen
+- → `japan-bav-und-corporate-pension-iorp` — Japan-Vertiefung
+
+## Aktuelle Rechtsprechung und Leitsaetze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Triage — vor der Matrix-Erstellung
+
+1. Welche Länder sind im Konzern-Fussabdruck enthalten?
+2. Gibt es DB-Plaene mit bilanzieller Relevanz (IAS 19)?
+3. Kommen Expats vor, die Anwartschaften in mehreren Ländern aufgebaut haben?
+4. Ist eine M&A-Transaktion der Anlass? → Dann Due-Diligence-Fokus

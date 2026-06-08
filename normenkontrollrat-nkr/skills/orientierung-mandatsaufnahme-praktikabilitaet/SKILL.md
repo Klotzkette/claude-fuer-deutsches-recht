@@ -1,34 +1,21 @@
 ---
 name: orientierung-mandatsaufnahme-praktikabilitaet
-description: "Orientierung Mandatsaufnahme Praktikabilitaet im Plugin Normenkontrollrat Nkr: prüft konkret Einstiegs-Skill fuer NKR-Pruefauftraege, Praktikabilitaetstest fuer den Vollzug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Orientierung Mandatsaufnahme Praktikabilitaet
+# NKR-Orientierung und Mandatsaufnahme
 
 ## Arbeitsbereich
 
-**Orientierung Mandatsaufnahme Praktikabilitaet** ordnet den Fall über die tragenden Prüffelder: Einstiegs-Skill fuer NKR-Pruefauftraege, Praktikabilitaetstest fuer den Vollzug. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `nkr-orientierung-und-mandatsaufnahme` | Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen. |
-| `nkr-praktikabilitaet-vollzug-test` | Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort. |
+Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `nkr-orientierung-und-mandatsaufnahme`
-
-**Fokus:** Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen.
-
-# NKR-Orientierung und Mandatsaufnahme
 
 ## Worum geht es konkret
 
@@ -53,7 +40,7 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 - **Handbuch der Rechtsfoermlichkeit (HdR)** als Drafting-Grundlage
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 1. **Eingang triagieren**: Welcher Vorhabenstyp? Was ist die NKR-Befassungspflicht (§ 4 NKRG)?
 2. **Federfuehrendes Ressort identifizieren**: BMJ / BMI / BMF / BMWK etc.
@@ -82,7 +69,7 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 
 ## Trade-off-Matrix
 
-| Befund | Folge fuer Stellungnahme |
+| Befund | Folge für Stellungnahme |
 |---|---|
 | Methodik vollstaendig, Ergebnis plausibel | "Der NKR hat keine Einwaende." |
 | Methodik luckenhaft, korrigierbar | Nachforderung an Ressort |
@@ -116,133 +103,6 @@ Erst-Antwort an Sekretariat (intern):
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) in der jeweils geltenden Fassung
 - §§ 44, 45 GGO
 - Handbuch der Rechtsfoermlichkeit (HdR) in der jeweils geltenden Fassung
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
-## 2. `nkr-praktikabilitaet-vollzug-test`
-
-**Fokus:** Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort.
-
-# NKR-Praktikabilitaet im Vollzug
-
-## Worum geht es konkret
-
-Eine Regelung kann methodisch sauber begruendet sein und dennoch im Vollzug **nicht praktikabel** sein: Behoerden ueberfordert, IT-Systeme nicht vorhanden, Daten nicht verfuegbar, Adressaten ueberfordert. Der NKR prueft Praktikabilitaet als Standardelement.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Vorhaben mit hohem Verwaltungsaufwand
-- Vorhaben mit IT-Voraussetzungen
-- Vorhaben mit Konnexitaet (Pflichten fuer Laender / Kommunen)
-- Vorhaben mit komplexen Sanktionen
-- Vorhaben mit kurzen Umsetzungsfristen
-
-Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landesbehoerde, Kommune, Gericht?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **§ 44 GGO** — Folgen fuer Vollzug
-- **NKRG** § 4 — methodische Pruefung umfasst auch Praktikabilitaet
-- **Leitfaden BMI / NKR** — Praktikabilitaetspruefung
-- **Art. 83-87 GG** — Vollzugskompetenzen
-- **Art. 104a GG, Konnexitaetsverbot** (Verfassungen der Laender)
-
-## Pruefraster / Schritt fuer Schritt
-
-### 1. Vollzugskaskade
-
-- Wer fuehrt das Gesetz aus?
-- Bund / Land / Kommune / Gericht?
-- Welche Behoerde konkret?
-- Welche Hilfskoerperschaften?
-
-### 2. Personalbedarf
-
-- Stellenbedarf je Behoerde
-- Qualifikation
-- Schulungserfordernis
-- Stellenfinanzierung
-
-### 3. IT-Voraussetzungen
-
-- Welche Systeme existieren?
-- Welche muessen entwickelt werden?
-- Schnittstellen zu bestehenden Verfahren?
-- Datenschutz und Informationssicherheit
-
-### 4. Datenverfuegbarkeit
-
-- Welche Daten brauchen Behoerden?
-- Werden sie automatisiert geliefert oder von Adressaten beigebracht?
-- Was passiert, wenn Daten unvollstaendig sind?
-
-### 5. Konfliktloesung
-
-- Wie werden Streitigkeiten zwischen Adressat und Behoerde geloest?
-- Rechtsschutz angemessen?
-- Aufschiebende Wirkung sinnvoll?
-
-### 6. Konnexitaet
-
-- Werden Laender / Kommunen verpflichtet?
-- Konnexitaetsprinzip beachtet?
-
-### 7. Pilotierung / Inkrafttreten
-
-- Hinreichende Umsetzungszeit?
-- Stufeneinfuehrung sinnvoll?
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Vollzugskaskade nicht beschrieben
-- Personalbedarf nicht beziffert
-- IT-Voraussetzungen "vorhanden" ohne Pruefung
-- Datenfluss nicht beschrieben
-- Konnexitaet ignoriert
-- Inkrafttretensfrist zu kurz fuer realistische Umsetzung
-- Rechtsschutz unklar
-
-## Trade-off-Matrix
-
-| Praktikabilitaetsdimension | Plus | Minus |
-|---|---|---|
-| Personal | Bedarf beziffert | "im Rahmen vorhandener Mittel" |
-| IT | bestehende Systeme genutzt | Neuentwicklung ohne Zeitplan |
-| Daten | automatisierte Erhebung | manuelle Abfrage |
-| Frequenz | jaehrlich | monatlich pauschal |
-| Sanktion | abgestuft, dialogisch | maximal pauschal |
-| Inkrafttreten | gestaffelt | Stichtag ohne Vorlauf |
-| Konnexitaet | adressiert | ignoriert |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der NKR weist darauf hin, dass der Vollzug bei [Behoerde] erheblichen Personalmehrbedarf erfordert. Die Stellenanforderung wird im Ressortentwurf nicht beziffert."
-- "Der NKR haelt die vorgesehene Inkrafttretensfrist von [X] Monaten fuer zu kurz, um die notwendige IT-Anpassung bei [Behoerde] sicherzustellen. Eine Verlaengerung auf [Y] Monate erscheint angemessen."
-- "Der NKR weist darauf hin, dass die Pflicht fuer Kommunen die Frage der Konnexitaet (Art. 104a Abs. 1 GG, Landesverfassungen) aufwirft. Eine ausgleichende Regelung ist im Vorhaben nicht vorgesehen."
-- "Der NKR begruesst die ressortseitige Pruefung der Vollzugspraktikabilitaet und die transparente Darstellung des Personalmehrbedarfs."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- "Vollzug erfolgt im Rahmen vorhandener Mittel" ohne Pruefung
-- "IT-Systeme sind vorhanden" ohne Konkretisierung
-- Konnexitaet ignoriert
-- "Inkrafttreten am Tag nach Verkuendung" trotz IT-Erfordernis
-- "Vorhandene Behoerden uebernehmen" ohne Personalrechnung
-
-## Querverweise
-
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-digital-anschlussfaehigkeit-tauglich`
-- `nkr-evaluierung-befristung-sunset-klausel`
-- `legistik-werkstatt/inkrafttreten-uebergangsrecht`
-
-## Quellen Stand 06/2026
-
-- § 44 GGO
-- Art. 83-87, 104a GG
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

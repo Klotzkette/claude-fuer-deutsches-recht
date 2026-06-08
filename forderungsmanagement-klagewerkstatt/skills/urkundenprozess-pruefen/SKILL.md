@@ -1,52 +1,130 @@
 ---
 name: urkundenprozess-pruefen
-description: "Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Wechsel, Scheck). Vorteil: schnelles Vorbehaltsurteil. Pruefraster: passt der Fall? Output: Klageschrift im Urkundenprozess."
+description: "Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Schuldschein, Wechsel, Scheck). Beschraenkung Beweismittel Urkunden + Parteivernehmung § 595 Abs. 2 ZPO. Vorbehaltsurteil § 599 ZPO mit Nachverfahren § 600 ZPO. Vorteil: schnelles vorlaeufig vollstreckbares Urteil."
 ---
 
 # Urkundenprozess
 
-## Fachkern: Urkundenprozess
-- **Spezialgegenstand:** Urkundenprozess wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+Schnelles Erkenntnisverfahren für Geldforderungen, die durch Urkunden belegt sind. Beschraenkung der Verteidigungsmittel auf Urkundsbeweise gibt erheblichen Tempovorteil.
 
+## Anwendungsbereich § 592 ZPO
 
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Klage auf Zahlung einer **bestimmten Geldsumme** oder Sicherheitsleistung, wenn alle anspruchsbegruendenden Tatsachen durch **Urkunden** bewiesen werden koennen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+| Geeignete Forderungstypen | Begruendung |
+|---|---|
+| Wechselforderung | Urkunde direkt |
+| Scheckforderung | Urkunde direkt |
+| Schuldschein, abstraktes Schuldanerkenntnis | Urkundsbeweis komplett |
+| Notarielle Schuldverpflichtung | Urkundsbeweis komplett |
+| Mietforderung mit unterzeichnetem Mietvertrag | Vertrag + Kontoauszug genuegen |
+| Werkvertrag mit unterschriebenem Abnahmeprotokoll | wenn Abnahme urkundlich + Rechnung |
+| Darlehensrueckforderung | Darlehensvertrag + Kontoauszug |
+| Kaufpreisforderung mit unterzeichneter Auftragsbestaetigung | wenn keine Mengenstreitigkeit |
 
-## Pruefraster
+**Ungeeignet:**
+- Schadensersatzansprueche (Beweis durch Zeugen).
+- Werklohn mit Maengelruege (Maengel mit Zeugen/Sachverstaendigen).
+- Streit ueber Vertragsschluss/Vertretungsmacht ohne urkundlichen Nachweis.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## Pflichtinhalte Klageschrift § 593 ZPO
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+| Inhalt | Norm |
+|---|---|
+| Bezeichnung "Urkundenprozess" im Antrag | § 593 Abs. 1 ZPO |
+| Behauptung, alle Tatsachen mit Urkunden zu beweisen | § 593 Abs. 1 ZPO |
+| Vorlage der Urkunden in Urschrift / beglaubigter Abschrift | § 593 Abs. 2 ZPO |
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Antragsformel:
+```
+Es wird beantragt im Wege des Urkundenprozesses,
+die Beklagte zu verurteilen, an die Klaegerin EUR 25.000,00
+nebst Zinsen ... aus dem Wechsel vom 15.02.2026 zu zahlen.
+```
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Beweismittel-Beschraenkung § 595 ZPO
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+| Klaeger | Beklagter |
+|---|---|
+| Urkundsbeweise | Urkundsbeweise |
+| Parteivernehmung § 445 ZPO | Parteivernehmung § 445 ZPO |
+| KEINE Zeugen | KEINE Zeugen |
+| KEINE Sachverstaendige | KEINE Sachverstaendige |
+| KEINE Augenscheinsbeweise | KEINE Augenscheinsbeweise |
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## Vorbehaltsurteil § 599 ZPO
+
+Wenn Klaeger durchdringt, ergeht **Vorbehaltsurteil**:
+- Beklagter wird zur Zahlung verurteilt.
+- Vorbehalt: Bekl. kann seine Rechte im Nachverfahren geltend machen.
+- **Vorlaeufig vollstreckbar ohne Sicherheit** (§ 708 Nr. 4 ZPO) → grosser Vorteil.
+
+## Nachverfahren § 600 ZPO
+
+- Bekl. macht im Nachverfahren seine Einwendungen mit allen Beweismitteln geltend.
+- Sehr enger Zugang: nur soweit Beklagter nicht mit Urkunden im Urkundenprozess durchdrang.
+- Bei Erfolg Bekl.: Vorbehaltsurteil wird aufgehoben.
+
+## Wechsel- und Scheckprozess § 602 ZPO
+
+- Sondervorschriften für Wechsel- und Scheckforderungen.
+- Sehr beschleunigt: Beklagter muss binnen 2 Tagen nach Klagezustellung reagieren (§ 604 ZPO).
+
+## Strategische Bewertung
+
+| Wann sinnvoll? | Wann nicht? |
+|---|---|
+| Klare Urkundslage | Beweisstreit durch Zeugen |
+| Forderung > AG-Grenze und LG-Verfahren ohnehin | Geringer Streitwert, MB billiger |
+| Vorlaeufige Vollstreckung wichtig | Vergleichsfaehigkeit erwartet |
+| B2B-Geschaeft mit unterschriebenem Vertrag | Verbrauchersache mit AGB-Streit |
+
+## Wahlrecht des Klaegers § 596 ZPO
+
+Klaeger kann **jederzeit** vom Urkundenprozess in Regelverfahren wechseln (Klagebezeichnung weglassen). Beklagter hat das Wahlrecht **nicht** (nur Nachverfahren beantragen).
+
+## Zuständigkeit
+
+Wie normale Zahlungsklage:
+- Sachlich: § 23 Nr. 1 GVG (AG bis 10.000 EUR ab 01.01.2026), § 71 GVG (LG).
+- Bei Wechsel/Scheck: AG zuständig unabhaengig vom Streitwert (§ 600 ZPO).
+
+## Vergleich mit Mahnverfahren
+
+| Kriterium | Urkundenprozess | Mahnverfahren |
+|---|---|---|
+| Beweismittel-Pruefung | ja, Urkunden | nein, formal |
+| Bei Bestreiten | Vorbehaltsurteil + Nachverfahren | Streitiges Verfahren |
+| Geschwindigkeit | sehr schnell | sehr schnell ohne Widerspruch |
+| Anwaltszwang LG | ja | nein |
+| Kosten | volle Klagegebuehr (3,0) | Mahngebuehr 0,5 |
+
+## Klage-Strategie
+
+```
+Pruefung Urkunde:
+  Anspruchsgrund:  durch Urkunde gedeckt?
+  Faelligkeit:     durch Urkunde gedeckt?
+  Verzug:          durch Urkunde gedeckt?
+  Hoehe:           bezifferbar?
+  Vertretungsmacht: durch HRB/Vollmacht gedeckt?
+  
+Bei "ja" zu allen Fragen -> Urkundenprozess
+Bei "nein" -> Regelverfahren oder Mahnbescheid
+```
+
+## Typische Fehler
+
+- Klage als "Klage" eingereicht statt "Urkundenprozess" → Wahlrecht nicht ausgeuebt.
+- Beweis durch Zeugen angeboten → Beweisaufnahme ausgeschlossen.
+- Urkunden nur in Kopie ohne Beglaubigung → Bekl. bestreitet Echtheit.
+- Maengelhafte Klage mit "Klage im Urkundenprozess" und Zeugenbeweis → Klageabweisung.
+- Maengel im urkundenprozessualen Beweis nicht erkannt – Klage scheitert bei Bestreiten.
+
+## Quellen
+- ZPO § 592 [gesetze-im-internet.de/zpo/__592.html](https://www.gesetze-im-internet.de/zpo/__592.html)
+- ZPO § 595 Beweismittel [gesetze-im-internet.de/zpo/__595.html](https://www.gesetze-im-internet.de/zpo/__595.html)
+- ZPO § 599 Vorbehaltsurteil [gesetze-im-internet.de/zpo/__599.html](https://www.gesetze-im-internet.de/zpo/__599.html)
+- ZPO § 600 Nachverfahren [gesetze-im-internet.de/zpo/__600.html](https://www.gesetze-im-internet.de/zpo/__600.html)
+- ZPO § 602-605 Wechselprozess [gesetze-im-internet.de/zpo/__602.html](https://www.gesetze-im-internet.de/zpo/__602.html)
+- ZPO § 708 vorläufige Vollstreckbarkeit [gesetze-im-internet.de/zpo/__708.html](https://www.gesetze-im-internet.de/zpo/__708.html)

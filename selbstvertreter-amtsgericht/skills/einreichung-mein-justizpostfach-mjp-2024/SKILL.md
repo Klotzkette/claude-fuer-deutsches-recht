@@ -13,12 +13,12 @@ Seit Anfang 2024 koennen Buerger **Mein Justizpostfach (MJP)** nutzen, um Schrif
 
 - Sie wollen Klage oder Schriftsatz elektronisch einreichen.
 - Sie haben noch kein MJP-Konto und wollen es einrichten.
-- Sie wollen wissen, ob MJP fuer alle Gerichte funktioniert.
+- Sie wollen wissen, ob MJP für alle Gerichte funktioniert.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Mein Justizpostfach (MJP)**: Buergerportal zur sicheren Kommunikation mit Gerichten und Behoerden.
-- **BundID**: Bundeseinheitliches Login der Verwaltung — Voraussetzung fuer MJP.
+- **Mein Justizpostfach (MJP)**: Buergerportal zur sicheren Kommunikation mit Gerichten und Behörden.
+- **BundID**: Bundeseinheitliches Login der Verwaltung — Voraussetzung für MJP.
 - **EGVP (Elektronisches Gerichts- und Verwaltungspostfach)**: Das technische Netz, in dem MJP eingebettet ist.
 - **Sicherer Uebermittlungsweg**: Form, die § 130a ZPO als gleichwertig zur Schriftform anerkennt.
 
@@ -26,9 +26,9 @@ Seit Anfang 2024 koennen Buerger **Mein Justizpostfach (MJP)** nutzen, um Schrif
 
 - **§ 130a ZPO** — Elektronisches Dokument.
 - **§ 130a III ZPO** — Sicherer Uebermittlungsweg.
-- **§ 130d ZPO** — Pflicht zur elektronischen Einreichung **fuer Anwaelte**. Buerger sind nicht zur elektronischen Einreichung verpflichtet — koennen aber.
+- **§ 130d ZPO** — Pflicht zur elektronischen Einreichung **für Anwaelte**. Buerger sind nicht zur elektronischen Einreichung verpflichtet — koennen aber.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — BundID einrichten
 
@@ -36,7 +36,7 @@ Vor MJP brauchen Sie eine **BundID**. Diese ist Voraussetzung.
 
 - URL: id.bund.de.
 - Identifizierung wahlweise: nPA (neuer Personalausweis) mit AusweisApp, oder Elster-Zertifikat, oder Benutzername+Passwort (geringere Vertrauensstufe).
-- Hoechste Vertrauensstufe ("Niveau hoch") ist fuer rechtssichere MJP-Nutzung erforderlich.
+- Hoechste Vertrauensstufe ("Niveau hoch") ist für rechtssichere MJP-Nutzung erforderlich.
 
 ### Schritt 2 — MJP-Konto aktivieren
 
@@ -49,7 +49,7 @@ Vor MJP brauchen Sie eine **BundID**. Diese ist Voraussetzung.
 Jedes Gericht hat eine EGVP-Adresse. Im MJP-Portal koennen Sie nach Empfaenger suchen:
 
 - "Amtsgericht Musterstadt" eingeben.
-- Korrekte Behoerde auswaehlen.
+- Korrekte Behörde auswaehlen.
 
 ### Schritt 4 — Schriftsatz vorbereiten
 
@@ -77,7 +77,7 @@ Fuer Buerger reicht **einfache Signatur + MJP/Niveau hoch**.
 
 - Nachricht abschicken.
 - Sie erhalten eine **Eingangsbestaetigung** (= Empfangsbekenntnis des Gerichts).
-- Bewahren Sie diese auf — sie ist Ihr Beweis fuer rechtzeitigen Eingang.
+- Bewahren Sie diese auf — sie ist Ihr Beweis für rechtzeitigen Eingang.
 
 ### Schritt 8 — Bestaetigung lesen
 
@@ -89,15 +89,15 @@ Pruefen Sie:
 
 ## Worauf Sie besonders achten muessen
 
-- **Niveau "hoch" der BundID** ist Pflicht fuer rechtssichere Einreichung.
-- **Eingangsbestaetigung speichern**: Beweis fuer Fristwahrung.
+- **Niveau "hoch" der BundID** ist Pflicht für rechtssichere Einreichung.
+- **Eingangsbestaetigung speichern**: Beweis für Fristwahrung.
 - **Datum und Uhrzeit zaehlen**: Eingang vor 24:00 Uhr des letzten Frist-Tags reicht.
 - **Kein Anwaltszwang elektronisch**: § 130d ZPO verpflichtet Anwaelte — nicht Buerger. Sie duerfen weiterhin Papier verwenden.
 - **Anzeigen pruefen**: Manche Gerichte beantragen Korrektur, wenn Datei-Form falsch.
 
 ## Typische Fehler
 
-- "Ich nutze einfache BundID-Stufe (Benutzername)." → Reicht **nicht** fuer rechtssichere Einreichung; Niveau "hoch" benoetigt.
+- "Ich nutze einfache BundID-Stufe (Benutzername)." → Reicht **nicht** für rechtssichere Einreichung; Niveau "hoch" benoetigt.
 - "Ich schicke einen Scan." → Scan ist okay, aber PDF/A bevorzugt; Lesbarkeit pruefen.
 - "Email reicht doch auch." → Klassische Email ohne Signatur ist **kein** sicherer Uebermittlungsweg. Nicht fristwahrend!
 
@@ -111,7 +111,6 @@ Pruefen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 01/2024 im Buerger-Betrieb. § 130a ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

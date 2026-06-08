@@ -118,6 +118,24 @@ Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinande
 - SPP-Andocken ignorieren, obwohl ein passendes Programm läuft — Reviewer fragen explizit nach.
 - "Wir warten auf den nächsten Hauptausschuss" — Sachbeihilfe ist jederzeit einreichbar, das Warten kostet Monate.
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **DFG-Förderstrategie: schnell, schlank oder groß?**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
+- `§ 23 BHO` — Zuwendungsvoraussetzungen.
+- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
+- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
+- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
+- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
+- `DFG-Kodex Leitlinie 1` — Redlichkeit.
+- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
+- `DFG-Kodex Leitlinie 14` — Autorschaft.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - **Empfehlung A** — schnellster tragfähiger Antrag mit Volumen, Modulen, Begutachtungs-Zeitschätzung.
@@ -142,7 +160,6 @@ Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinande
 - GEPRIS für Karrierestand-Kalibrierung: gepris.dfg.de
 
 Alle Schwellen und Programmregeln **live** an der DFG-Seite zum Einreichtag prüfen — Verfahrensregeln ändern sich.
-
 
 ## Qualitäts-Hardening
 

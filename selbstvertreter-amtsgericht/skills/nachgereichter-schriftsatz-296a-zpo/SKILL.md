@@ -18,7 +18,7 @@ Nach der muendlichen Verhandlung ist Schluss — eigentlich. Wenn der Vorsitzend
 ## Fachbegriffe (kurz erklaert)
 
 - **Schluss der muendlichen Verhandlung**: Foerml. Erklaerung des Vorsitzenden, dass keine weiteren Erklaerungen entgegengenommen werden.
-- **Schriftsatznachlass**: Nachtraegliche Frist fuer einen Schriftsatz nach Termin.
+- **Schriftsatznachlass**: Nachtraegliche Frist für einen Schriftsatz nach Termin.
 - **Wiedereroeffnung der muendlichen Verhandlung**: Bei nachgereichten Schriftsaetzen kann das Gericht die muendliche Verhandlung wiedereroeffnen.
 
 ## Rechtsgrundlagen
@@ -27,7 +27,7 @@ Nach der muendlichen Verhandlung ist Schluss — eigentlich. Wenn der Vorsitzend
 - **§ 156 ZPO** — Wiedereroeffnung muendliche Verhandlung.
 - **§ 283 ZPO** — Schriftsatznachlass auf Antrag.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was nach Schluss noch geht
 
@@ -128,7 +128,6 @@ Wenn im Termin neuer Vortrag der Gegenseite kommt:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

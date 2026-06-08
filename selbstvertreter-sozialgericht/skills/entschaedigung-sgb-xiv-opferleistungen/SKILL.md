@@ -29,7 +29,7 @@ Wenn Sie Opfer einer Gewalttat geworden sind, hilft das SGB XIV. Es gibt Geld un
 
 - **Schaedigung**: Gesundheitlicher Schaden durch Gewalttat.
 - **Gesundheitliche Folge**: Erkrankung als Folge.
-- **Grad der Schaedigungsfolgen (GdS)**: aehnlich GdB, aber spezifisch fuer SGB XIV.
+- **Grad der Schaedigungsfolgen (GdS)**: aehnlich GdB, aber spezifisch für SGB XIV.
 - **Schnelle Hilfe**: Sofortige Therapieangebote (Trauma-Therapie ohne langwierige Anerkennung).
 
 ## Rechtsgrundlagen
@@ -39,7 +39,7 @@ Wenn Sie Opfer einer Gewalttat geworden sind, hilft das SGB XIV. Es gibt Geld un
 - **§ 88 SGB XIV** — Schnelle Hilfen.
 - **Uebergangsregelungen**: Alte OEG/BVG-Faelle laufen weiter.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruchspruefung
 
@@ -114,14 +114,14 @@ Wie bei anderen Sozialleistungen.
 - **Reform 2024**: Anwendungsbereich erweitert (auch psychische Gewalt unter Voraussetzungen). Pruefen Sie aktuellen Stand.
 - **Schnelle Hilfen** § 88 SGB XIV: nicht vergessen, niedrige Schwelle.
 - **Opferentschaedigung kann lange dauern**: parallel Therapie und Krankenkassen-Behandlung.
-- **Trauma-Diagnose**: wichtig fuer psychische Folgen.
+- **Trauma-Diagnose**: wichtig für psychische Folgen.
 
 ## Typische Fehler
 
 - Keine Strafanzeige → schwerer Beweis
 - Folgen erst spaet beanstandet → Latenz erschwert Kausalitaet
 - Therapie-Berichte fehlen → wichtig
-- Behoerden-Bezeichnung verwechselt → je Land unterschiedlich
+- Behörden-Bezeichnung verwechselt → je Land unterschiedlich
 
 ## Querverweise
 
@@ -134,7 +134,6 @@ Wie bei anderen Sozialleistungen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregelungen pruefen. BSG-Linien noch im Aufbau. Bei diesem neuen Recht besonders sorgfaeltig pruefen — Verifikation in juris empfohlen.
-
 
 ## Qualitäts-Hardening
 

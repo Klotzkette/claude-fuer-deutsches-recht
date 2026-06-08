@@ -6,15 +6,12 @@ description: "Bestands- und Nutzungsdaten von Plattformen: Praxis-Skill für neu
 # Bestands- und Nutzungsdaten von Plattformen
 
 ## Fachkern: Bestands- und Nutzungsdaten von Plattformen
-- **Spezialgegenstand:** Bestands- und Nutzungsdaten von Plattformen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Bestands- und Nutzungsdaten von Plattformen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** TKG/TDDDG-Schnittstellen, StPO-Befugnisse, Richtervorbehalt und Providerantwort
 
@@ -40,6 +37,18 @@ Dieser Abschnitt bearbeitet **Fachkern: Bestands- und Nutzungsdaten von Plattfor
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 100j StPO (Bestandsdaten)
+- § 100g StPO (Verkehrsdaten)
+- Art. 18 DSA
+- § 22 TTDSG (Auskunft)
+- § 100j StPO (Bestandsdatenauskunft)
+- § 113 TKG
+- BVerfGE 154, 152
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

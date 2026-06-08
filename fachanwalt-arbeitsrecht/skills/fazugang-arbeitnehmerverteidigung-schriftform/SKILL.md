@@ -7,10 +7,10 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Fazugang Arbeitnehmerverteidigung Schriftform** ordnet den Fall über die tragenden Prüffelder: Arbeitnehmerverteidigung, Schriftform Kündigung § 623 BGB, Einschreiben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Fazugang Arbeitnehmerverteidigung Schriftform** ordnet den Fall über die tragenden Prüfungslinien: Arbeitnehmerverteidigung, Schriftform Kündigung § 623 BGB, Einschreiben. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne` | Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG. |
 | `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc` | Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung. |
@@ -18,12 +18,12 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne`
 
@@ -38,7 +38,6 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Verteidigungsstrategie für den Arbeitnehmer bei streitigem Zugangsdatum — ausschließlich mit wahrheitsgemäßen Einwänden. Dieser Skill betont, dass die Verteidigung auf Fakten beruhen muss und erklärt, wo echte rechtliche Spielräume liegen.
@@ -148,7 +147,6 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 Vollständige Prüfung des Schriftformerfordernisses nach § 623 BGB bei der Kündigung. Häufig verkannte Fehlerquelle: Arbeitgeber versenden Kündigungen per E-Mail, WhatsApp oder als eingescannte PDF — alles unwirksam.
 
@@ -241,7 +239,7 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 ## Anschluss-Skills
 - `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Zustellungsdokumentation
 - `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung
-- `spezial-fao-fristen-form-und-zustaendigkeit` für Verfahrensfragen
+- `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensfragen
 
 ## Quellenregel
 - Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
@@ -266,7 +264,6 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Auftrag
 

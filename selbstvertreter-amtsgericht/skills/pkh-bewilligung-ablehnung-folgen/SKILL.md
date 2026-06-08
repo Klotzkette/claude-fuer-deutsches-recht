@@ -29,7 +29,7 @@ Nach Ihrem PKH-Antrag entscheidet das Gericht durch Beschluss. Wenn bewilligt, k
 - **§ 124 ZPO** — Aufhebung der Bewilligung.
 - **§ 127 ZPO** — Sofortige Beschwerde.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Beschluss lesen
 
@@ -65,7 +65,7 @@ Wenn Sie einen bestimmten Anwalt wollen: Beiordnung beantragen unter Nennung des
 
 Haeufige Ablehnungsgruende:
 
-- **Keine Erfolgsaussicht**: Das Gericht haelt Ihre Klage fuer aussichtslos.
+- **Keine Erfolgsaussicht**: Das Gericht haelt Ihre Klage für aussichtslos.
 - **Nicht-Beduerftigkeit**: Ihr Einkommen ist zu hoch.
 - **Mutwilligkeit**: Die Klage wuerde ein verstaendiger nicht-PKH-Beduerftiger nicht erheben.
 
@@ -130,7 +130,6 @@ Folge: Sie zahlen rueckwirkend.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

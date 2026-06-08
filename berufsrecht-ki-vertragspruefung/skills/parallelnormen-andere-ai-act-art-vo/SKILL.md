@@ -1,35 +1,21 @@
 ---
 name: parallelnormen-andere-ai-act-art-vo
-description: "Parallelnormen Andere AI ACT ART VO im Plugin Berufsrecht Ki Vertragspruefung: prüft konkret Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger, KI-VO-Rollen der Kanzlei prüfen, Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen im Berufsrecht KI-Vertragsprüfung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Parallelnormen Andere AI ACT ART VO
+# Parallelnormen — alle fünf Berufe
 
 ## Arbeitsbereich
 
-**Parallelnormen Andere AI ACT ART VO** ordnet den Fall über die tragenden Prüffelder: Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger, KI-VO-Rollen der Kanzlei prüfen, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `parallelnormen-andere-berufe` | Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen. |
-| `ai-act-rollen-kanzlei-provider-deployer-api` | KI-VO-Rollen der Kanzlei prüfen: Betreiber/Deployer, Anbieter/Provider, eigener API-Wrapper, White-Label-Tool, GPAI-Abgrenzung, Art. 3, Art. 4, Art. 6, Art. 50 KI-VO und Schnittstelle zu § 43e BRAO. |
-| `art-50-ki-vo-schriftsatz-marketing-chatbot` | Art. 50 KI-VO in Kanzleien prüfen: Mandantenchatbot, Website, Legal Update, Newsletter, Marketingbild, Schriftsatzentwurf, menschliche redaktionelle Kontrolle, Kennzeichnung, Zeitplan 02.08.2026 und Berufsrecht. |
+Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Berufsrecht Ki Vertragspruefung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 43e BRAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `parallelnormen-andere-berufe`
-
-**Fokus:** Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen.
-
-# Parallelnormen — alle fünf Berufe
 
 ## Fachkern: Parallelnormen — alle fünf Berufe
 
@@ -166,82 +152,3 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.03.2022&Aktenzeichen=X+ARZ+148/22
 -->
-
-## 2. `ai-act-rollen-kanzlei-provider-deployer-api`
-
-**Fokus:** KI-VO-Rollen der Kanzlei prüfen: Betreiber/Deployer, Anbieter/Provider, eigener API-Wrapper, White-Label-Tool, GPAI-Abgrenzung, Art. 3, Art. 4, Art. 6, Art. 50 KI-VO und Schnittstelle zu § 43e BRAO.
-
-# KI-VO-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin
-
-## Start
-
-Die Kanzlei ist nicht automatisch Anbieterin des zugrunde liegenden Modells. Sie kann aber aus einer reinen Nutzerrolle herausrutschen, wenn sie ein eigenes System unter eigenem Namen bereitstellt, die Zweckbestimmung prägt oder Mandanten/Dritten eine KI-Funktion als eigene Leistung anbietet.
-
-## Rollenfragen
-
-- Nutzt die Kanzlei ein fremdes Tool intern?
-- Bietet sie Mandanten eine eigene Oberfläche an?
-- Kombiniert sie Modell, RAG, Dokumentenlogik und Workflows zu einem eigenen System?
-- Wird das System gegenüber Dritten unter Kanzleinamen bereitgestellt?
-- Wird eine Zweckbestimmung für Rechtsprüfung, Dokumentengenerierung, Mandantenkommunikation oder Entscheidungsunterstützung formuliert?
-- Gibt es Hochrisiko-Nähe, etwa Personal, Migration, Justizbehörden, demokratische Prozesse oder kritische Infrastruktur?
-
-## Prüfachsen
-
-| Achse | Frage | Folge |
-|---|---|---|
-| Art. 3 KI-VO | Liegt ein KI-System vor? | Rollen- und Risikoprüfung starten. |
-| Betreiber/Deployer | Nutzt Kanzlei System beruflich? | Art. 4, ggf. Art. 26, Art. 50 prüfen. |
-| Anbieter/Provider | Bringt Kanzlei System in Verkehr oder Dienst? | Anbieterpflichten können entstehen. |
-| GPAI | Geht es nur um das Grundmodell? | Kanzlei ist regelmäßig nicht GPAI-Modellanbieterin, aber Integrationspflichten prüfen. |
-| Art. 6/Anhang III | Hochrisiko durch Zweckbestimmung? | Kanzlei-Use-Case getrennt vom abstrakten Modell bewerten. |
-
-## Verbindung zu § 43e BRAO
-
-Die KI-VO beantwortet nicht die Berufsgeheimnisfrage. Selbst ein KI-VO-konformes Tool kann berufsrechtlich unzulässig sein, wenn Verschwiegenheit, No-Training, Subunternehmer oder Drittstaat nicht tragen. Umgekehrt macht § 43e BRAO ein Tool nicht automatisch KI-VO-konform.
-
-## Output
-
-Erstelle einen Rollenvermerk mit:
-
-- Systembeschreibung
-- Rolle der Kanzlei
-- Rolle des Anbieters
-- KI-VO-Pflichten
-- Berufsrechtliche Zusatzprüfung
-- nächster Dokumentationsschritt
-
-## 3. `art-50-ki-vo-schriftsatz-marketing-chatbot`
-
-**Fokus:** Art. 50 KI-VO in Kanzleien prüfen: Mandantenchatbot, Website, Legal Update, Newsletter, Marketingbild, Schriftsatzentwurf, menschliche redaktionelle Kontrolle, Kennzeichnung, Zeitplan 02.08.2026 und Berufsrecht.
-
-# Art. 50 KI-VO: Schriftsatz, Marketing, Legal Update und Chatbot
-
-## Worum geht es
-
-Art. 50 KI-VO ist für Kanzleien vor allem eine Transparenz- und Kommunikationsfrage. Nicht jeder interne KI-Entwurf muss nach außen markiert werden. Anders sieht es aus, wenn Nutzer mit einem Chatbot sprechen oder synthetische Inhalte veröffentlicht werden.
-
-## Use-Case-Tabelle
-
-| Use Case | Vorläufige Bewertung | To-do |
-|---|---|---|
-| KI entwirft internen Schriftsatz, Anwalt prüft und reicht ein | Regelmäßig keine Offenlegung nur wegen KI-Nutzung | Endkontrollvermerk, Quellenprüfung, Haftungsprüfung. |
-| Mandantenchatbot beantwortet Erstfragen | Transparenzhinweis nötig | Klar sagen: KI-System, kein Mandat ohne Annahme, keine Fristprüfung ohne Anwalt. |
-| Newsletter/Legal Update mit KI-Text | Redaktionelle Verantwortung prüfen | Kennzeichnungspflicht und Ausnahme live prüfen; menschliche Schlussredaktion dokumentieren. |
-| KI-generiertes Bild/Video/Audio in Kanzleimarketing | Art.-50-Nähe hoch | Kennzeichnung und Irreführungsprüfung. |
-| Automatisierte Mandatsannahme/Scoring | Nicht nur Transparenz, sondern Berufs-/Datenschutz-/Diskriminierungsrisiko | Spezialprüfung. |
-
-## Zeitachse
-
-Prüfe den Geltungsstand live. Als Arbeitsstand gilt: Transparenzpflichten nach Art. 50 KI-VO werden für die praktische Kanzleiorganisation ab 02.08.2026 besonders relevant; Art. 4 KI-Kompetenz ist schon vorher als Governance-Thema einzuplanen.
-
-## Berufsrechtliche Ergänzung
-
-Ein Hinweis "KI-generiert" heilt keine ungeprüfte Rechtsauskunft, kein unzulässiges Mandatsversprechen und keinen Geheimnisverstoß. Berufsrecht, Mandatsvertrag, Datenschutz und Haftung laufen parallel.
-
-## Output
-
-- Transparenzhinweis für Chatbot
-- Redaktionsvermerk für Veröffentlichungen
-- Schriftsatz-Endkontrollnotiz
-- interne Art.-50-Checkliste

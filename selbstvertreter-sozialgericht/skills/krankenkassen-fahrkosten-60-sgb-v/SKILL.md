@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-fahrkosten-60-sgb-v
-description: "Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen fuer ambulante Behandlungen. Liefert Pruefraster."
+description: "Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Pruefraster."
 ---
 
 # Krankenkassen Fahrkosten 60 Sgb V

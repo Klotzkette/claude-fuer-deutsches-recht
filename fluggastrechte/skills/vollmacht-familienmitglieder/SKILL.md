@@ -124,3 +124,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `vollmacht-<name>-<datum>.docx` pro Mitreisendem.
 - Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
 - Hinweis: Eingang der unterschriebenen Vollmachten ist Voraussetzung für die Mitvertretung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- VO (EG) Nr. 261/2004 (Fluggastrechte)
+- Art. 5 VO 261/2004 (Annullierung)
+- Art. 6 VO 261/2004 (Verspätung)
+- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
+- EuGH C-402/07 (Sturgeon)

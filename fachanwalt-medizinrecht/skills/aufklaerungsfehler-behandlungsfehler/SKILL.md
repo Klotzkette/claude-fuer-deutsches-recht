@@ -1,42 +1,38 @@
 ---
 name: aufklaerungsfehler-behandlungsfehler
-description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkret Prüffeld für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkrete Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Aufklaerungsfehler Behandlungsfehler
 
 ## Arbeitsbereich
 
-**Aufklaerungsfehler Behandlungsfehler** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Aufklaerungsfehler Behandlungsfehler** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-medizinrecht-aufklaerungsfehler` | Prüffeld für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-medizinrecht-aufklaerungsfehler` | Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-medizinrecht-behandlungsfehler-pruefen` | Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-medizinrecht-aufklaerungsfehler`
 
-**Fokus:** Prüffeld für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
+**Fokus:** Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Aufklärungsfehler
 
 ## Fachkern: Aufklärungsfehler
-- **Spezialgegenstand:** Aufklärungsfehler wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Kaltstart-Rückfragen
 
@@ -128,7 +124,7 @@ bogen ist Standardformular ohne individuelle Eintragungen.
 II. Rechtliche Bewertung
 Die Behandlung ist mangels wirksamer Einwilligung als rechtswidriger
 Eingriff in die koerperliche Unversehrtheit § 823 Abs. 1 BGB
-einzuordnen. Beweislast fuer ordnungsgemaesse Aufklaerung traegt
+einzuordnen. Beweislast für ordnungsgemaesse Aufklaerung traegt
 gemaess § 630h Abs. 2 BGB die Klinik.
 
 III. Hypothetische Einwilligung
@@ -146,7 +142,7 @@ IV. Schaden
 
 V. Forderung
 Anerkennung dem Grunde nach binnen vier Wochen, Vorschuss EUR ____.
-Verjaehrungsverzichtserklaerung erbeten bis [Datum + 12 Monate].
+Verjährungsverzichtserklaerung erbeten bis [Datum + 12 Monate].
 
 Anlagen:
 - Aufklaerungsbogen Kopie
@@ -200,7 +196,7 @@ Anlagen:
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
 <!-- AUDIT 27.05.2026
-Datum 28.01.2014 fuer ein 2015-AZ unmoeglich (chronologischer Widerspruch).
+Datum 28.01.2014 für ein 2015-AZ unmoeglich (chronologischer Widerspruch).
 Ersatz: BGH VI ZR 323/04 (13.06.2006, BGHZ 168, 103) — verifiziert auf dejure.org;
 betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich passend.
 -->
@@ -209,15 +205,11 @@ betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich 
 
 **Fokus:** Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist.
 
-
 # Behandlungsfehler prüfen
 
 ## Fachkern: Behandlungsfehler prüfen
-- **Spezialgegenstand:** Behandlungsfehler prüfen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Kaltstart-Rückfragen
 
@@ -354,8 +346,8 @@ IV. Forderung
 Anerkennung dem Grunde nach und Vorschuss EUR ____
 binnen vier Wochen.
 
-V. Verjaehrung
-Wir bitten um Verjaehrungsverzichtserklaerung bis [Datum + 12 Monate].
+V. Verjährung
+Wir bitten um Verjährungsverzichtserklaerung bis [Datum + 12 Monate].
 
 Anlagen: Behandlungsdokumentation, aerztl. Atteste, Vollmacht
 

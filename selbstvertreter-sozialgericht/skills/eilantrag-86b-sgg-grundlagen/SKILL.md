@@ -29,7 +29,7 @@ Manchmal ist es dringend. Sie brauchen Geld oder Hilfe sofort. Dann gibt es den 
 ## Fachbegriffe (kurz erklaert)
 
 - **Eilantrag**: Schneller Antrag, damit das Gericht vorlaeufig regelt.
-- **Aufschiebende Wirkung**: Eine Massnahme der Behoerde wird gestoppt, bis entschieden ist.
+- **Aufschiebende Wirkung**: Eine Massnahme der Behörde wird gestoppt, bis entschieden ist.
 - **Einstweilige Anordnung**: Das Gericht ordnet vorlaeufig etwas an (z.B. dass Sie Geld bekommen).
 - **Anordnungsanspruch**: Sie haben wahrscheinlich Recht in der Hauptsache.
 - **Anordnungsgrund**: Ohne sofortige Hilfe drohen schwere Nachteile.
@@ -41,7 +41,7 @@ Manchmal ist es dringend. Sie brauchen Geld oder Hilfe sofort. Dann gibt es den 
 - **§ 86a SGG** — Grundsatz: Widerspruch hat aufschiebende Wirkung; Ausnahmen z.B. § 39 SGB II.
 - **§ 920 ZPO analog** — Glaubhaftmachung von Anspruch und Grund.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Eilantrags-Art?
 
@@ -61,7 +61,7 @@ Wichtig: nicht beweisen, nur glaubhaft machen (eidesstattliche Versicherung reic
 
 ### Schritt 3 — Schriftsatz aufsetzen
 
-Beispiel fuer Buergergeld-Eilantrag:
+Beispiel für Buergergeld-Eilantrag:
 
 ```
 Sozialgericht [Ort] [Ort, Datum]
@@ -88,7 +88,7 @@ stelle ich folgende ANTRAEGE:
 
 2. Hilfsweise: Mir vorlaeufig einen Vorschuss in Hoehe des geltenden Regelbedarfs (Regelbedarfsstufe 1) zu gewaehren.
 
-3. Prozesskostenhilfe wird beantragt; eine Erklaerung ueber persoenliche und wirtschaftliche Verhaeltnisse liegt bei.
+3. Prozesskostenhilfe wird beantragt; eine Erklaerung ueber persönliche und wirtschaftliche Verhaeltnisse liegt bei.
 
 GRUENDE:
 
@@ -142,7 +142,7 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 
 ## Typische Fehler
 
-- Eilantrag ans Jobcenter statt ans SG → SG ist zustaendig
+- Eilantrag ans Jobcenter statt ans SG → SG ist zuständig
 - Anordnungsgrund nicht konkret → "drohende Notlage" mit Zahlen und Daten belegen
 - Eidesstattliche Versicherung vergessen → immer beilegen
 - Hauptsache versaeumt (kein Widerspruch / Klage) → parallel laufen lassen
@@ -159,7 +159,6 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 86b SGG aktuell. BVerfG hat Anforderungen an effektiven Eilrechtsschutz hochgehalten (Art. 19 Abs. 4 GG). Bei akuten Faellen Geschaeftsstelle anrufen.
-
 
 ## Qualitäts-Hardening
 

@@ -22,7 +22,7 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 ## Wann brauchen Sie diese Skill?
 
 - Sie schaffen eine Begruendungsfrist nicht.
-- Sie brauchen Zeit fuer aerztliche Atteste.
+- Sie brauchen Zeit für aerztliche Atteste.
 - Sie wollen Stellungnahme zu einem Gutachten nachreichen.
 
 ## Fachbegriffe (kurz erklaert)
@@ -30,15 +30,15 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 - **Fristverlaengerung**: Verlaengerung einer gesetzten Frist.
 - **Gesetzliche Frist**: Im Gesetz festgelegte Frist (nicht verlaengerbar).
 - **Gerichtliche Frist**: Vom Gericht gesetzte Frist (oft verlaengerbar).
-- **Stellungnahmefrist**: Zeit fuer Antwort auf Schriftsatz / Gutachten.
+- **Stellungnahmefrist**: Zeit für Antwort auf Schriftsatz / Gutachten.
 
 ## Rechtsgrundlagen
 
 - **§ 64 SGG** — Fristen allgemein.
-- **§ 106 SGG** — Anhoerung, Stellungnahme.
+- **§ 106 SGG** — Anhörung, Stellungnahme.
 - **§ 224 ZPO analog** — Fristverlaengerung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, welche Frist es ist
 
@@ -118,7 +118,6 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
-
 
 ## Qualitäts-Hardening
 

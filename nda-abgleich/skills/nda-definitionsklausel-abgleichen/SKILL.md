@@ -6,20 +6,16 @@ description: "Definitionsklausel 'Vertrauliche Information' abgleichen: weiter B
 # NDA: Definitionsklausel
 
 ## Spezialwissen: NDA: Definitionsklausel
-- **Spezialgegenstand:** NDA: Definitionsklausel / nda definitionsklausel abgleichen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -44,24 +40,24 @@ Eine NDA-Definition ohne diese Ausnahmen ist regelmaessig zu breit und im B2B-Ko
 - **(a) Oeffentlich bekannt:** Informationen, die zum Zeitpunkt der Offenlegung bereits allgemein bekannt waren oder ohne Vertragsverletzung der empfangenden Partei oeffentlich werden.
 - **(b) Vorbekannt:** Informationen, die der empfangenden Partei nachweislich bereits vor Offenlegung bekannt waren (Beweislast: empfangende Partei).
 - **(c) Eigenentwicklung:** Informationen, die die empfangende Partei unabhaengig und ohne Verwendung der Vertraulichen Information selbst entwickelt hat (Clean-Room-Nachweis).
-- **(d) Rechtmaessige Drittquelle:** Informationen, die die empfangende Partei rechtmaessig von einem Dritten ohne Geheimhaltungspflicht erhalten hat.
-- **(e) Gesetzliche/behoerdliche Offenlegung:** Pflicht zur Offenlegung gegenueber Gerichten, Behoerden, Wirtschaftspruefern, mit Vorab-Information der offenlegenden Partei, soweit gesetzlich zulaessig.
+- **(d) Rechtmäßige Drittquelle:** Informationen, die die empfangende Partei rechtmaessig von einem Dritten ohne Geheimhaltungspflicht erhalten hat.
+- **(e) Gesetzliche/behoerdliche Offenlegung:** Pflicht zur Offenlegung gegenueber Gerichten, Behörden, Wirtschaftspruefern, mit Vorab-Information der offenlegenden Partei, soweit gesetzlich zulaessig.
 
 ### Spezialfaelle
 
 - **Auswirkungen / Derivate:** Klarstellen, ob Analysen, Zusammenfassungen, abgeleitete Daten ebenfalls als vertraulich gelten ("Derived Information").
 - **Negative Information:** Tatsache, dass eine bestimmte Information NICHT existiert (z.B. "Unternehmen ist nicht in Land X aktiv"), kann ebenfalls Geschaeftsgeheimnis sein. Definition sollte das erfassen.
 - **Existenz des Vertrages selbst:** Oft ueber separate "Existence Confidentiality"-Klausel geregelt.
-- **Whistleblower-Schutz:** § 5 GeschGehG - rechtmaessige Hinweisgebung an Behoerden, Hinweisgeberstelle, Presse darf NDA nicht behindern; Klausel zur Klarstellung empfehlenswert.
+- **Whistleblower-Schutz:** § 5 GeschGehG - rechtmäßige Hinweisgebung an Behörden, Hinweisgeberstelle, Presse darf NDA nicht behindern; Klausel zur Klarstellung empfehlenswert.
 - **Personenbezogene Daten:** Wenn personenbezogene Daten betroffen sind, parallel AVV nach Art. 28 DSGVO pruefen; NDA ersetzt AVV nicht.
 
 ### B2C-Falle
 
-- Vertraulichkeitspflicht gegenueber Verbrauchern in AGB unterliegt § 305 ff. BGB; uebermaessige Pflichten ohne Gegenleistung sind nach § 307 BGB regelmaessig unwirksam.
+- Vertraulichkeitspflicht gegenueber Verbrauchern in AGB unterliegt § 305 ff. BGB; uebermäßige Pflichten ohne Gegenleistung sind nach § 307 BGB regelmaessig unwirksam.
 
 ### Mustertext (ausgewogene Definition mit Pflicht-Ausnahmen)
 
-> "Vertrauliche Informationen" sind alle in Bezug auf den Zweck dieses Vertrages offengelegten Informationen, gleich in welcher Form, die als "vertraulich" gekennzeichnet sind oder die nach ihrer Natur oder den Umstaenden der Offenlegung erkennbar vertraulich sind. Hierzu gehoeren insbesondere Geschaeftsgeheimnisse i.S.d. § 2 Nr. 1 GeschGehG.
+> "Vertrauliche Informationen" sind alle in Bezug auf den Zweck dieses Vertrages offengelegten Informationen, gleich in welcher Form, die als "vertraulich" gekennzeichnet sind oder die nach ihrer Natur oder den Umstaenden der Offenlegung erkennbar vertraulich sind. Hierzu gehoeren insbesondere Geschäftsgeheimnisse i.S.d. § 2 Nr. 1 GeschGehG.
 >
 > Nicht als Vertrauliche Informationen gelten Informationen, die (a) bei Offenlegung allgemein bekannt waren oder ohne Verschulden der empfangenden Partei allgemein bekannt werden, (b) der empfangenden Partei vor Offenlegung nachweislich bekannt waren, (c) von der empfangenden Partei unabhaengig und ohne Bezug zur Vertraulichen Information entwickelt wurden, (d) von Dritten rechtmaessig und ohne Geheimhaltungspflicht uebermittelt wurden oder (e) aufgrund gesetzlicher, behoerdlicher oder gerichtlicher Pflicht offenzulegen sind; bei (e) wird die empfangende Partei die offenlegende Partei, soweit gesetzlich zulaessig, vorab informieren.
 
@@ -78,10 +74,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

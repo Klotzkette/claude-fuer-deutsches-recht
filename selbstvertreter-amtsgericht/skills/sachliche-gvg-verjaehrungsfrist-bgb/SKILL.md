@@ -1,39 +1,39 @@
 ---
 name: sachliche-gvg-verjaehrungsfrist-bgb
-description: "Sachliche GVG Verjaehrungsfrist BGB im Selbstvertretung am Amtsgericht: prüft konkret Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsgericht: prüft konkret Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Sachliche GVG Verjaehrungsfrist BGB
+# Sachliche GVG Verjährungsfrist BGB
 
 ## Arbeitsbereich
 
-**Sachliche GVG Verjaehrungsfrist BGB** ordnet den Fall über die tragenden Prüffelder: Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Sachliche GVG Verjährungsfrist BGB** ordnet den Fall über die tragenden Prüfungslinien: Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `sachliche-zustaendigkeit-amtsgericht-23-gvg` | Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert. |
+| `sachliche-zuständigkeit-amtsgericht-23-gvg` | Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert. |
 | `verjaehrungsfrist-pruefen-195-bgb` | Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen. |
 | `wiedereinsetzung-frist-233-zpo` | Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall Post-Stoerung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
-## 1. `sachliche-zustaendigkeit-amtsgericht-23-gvg`
+## 1. `sachliche-zuständigkeit-amtsgericht-23-gvg`
 
 **Fokus:** Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert.
 
-# Ist das Amtsgericht fuer Ihren Fall sachlich zustaendig?
+# Ist das Amtsgericht für Ihren Fall sachlich zuständig?
 
 ## Worum geht es?
 
-Sachliche Zustaendigkeit heisst: Welches Gericht (Amtsgericht oder Landgericht) entscheidet ueber eine bestimmte Streitart? In Deutschland richtet sich das im Zivilrecht hauptsaechlich nach dem **Streitwert** (= Geldbetrag, um den es geht) und nach **Sondernormen** fuer bestimmte Streitarten. Wenn Sie das falsche Gericht anrufen, wird Ihre Klage verwiesen — das kostet Sie Zeit und Geld.
+Sachliche Zuständigkeit heisst: Welches Gericht (Amtsgericht oder Landgericht) entscheidet ueber eine bestimmte Streitart? In Deutschland richtet sich das im Zivilrecht hauptsaechlich nach dem **Streitwert** (= Geldbetrag, um den es geht) und nach **Sondernormen** für bestimmte Streitarten. Wenn Sie das falsche Gericht anrufen, wird Ihre Klage verwiesen — das kostet Sie Zeit und Geld.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -43,21 +43,21 @@ Sachliche Zustaendigkeit heisst: Welches Gericht (Amtsgericht oder Landgericht) 
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Sachliche Zustaendigkeit**: Welches Gericht (AG vs. LG) ist nach Streitart und Wert zustaendig.
+- **Sachliche Zuständigkeit**: Welches Gericht (AG vs. LG) ist nach Streitart und Wert zuständig.
 - **Streitwert**: Der Geldwert dessen, worum gestritten wird. Bei Geldforderung = Forderungsbetrag.
-- **Wertzustaendigkeit**: Zustaendigkeit nach Streitwert (im Gegensatz zur Zustaendigkeit nach Streitart).
+- **Wertzuständigkeit**: Zuständigkeit nach Streitwert (im Gegensatz zur Zuständigkeit nach Streitart).
 
 ## Rechtsgrundlagen
 
-- **§ 23 Nr. 1 GVG (Fassung seit 01.01.2026)** — Amtsgericht zustaendig bis zur Wertgrenze von **10.000 EUR** (zehntausend Euro). Die Grenze wurde mit dem Justizstandort-Staerkungsgesetz zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. **Verifizieren Sie bei Klagen kurz vor oder kurz nach dem Stichtag, welche Fassung fuer Ihren Fall gilt** (Uebergangsregelungen pruefen).
+- **§ 23 Nr. 1 GVG (Fassung seit 01.01.2026)** — Amtsgericht zuständig bis zur Wertgrenze von **10.000 EUR** (zehntausend Euro). Die Grenze wurde mit dem Justizstandort-Staerkungsgesetz zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. **Verifizieren Sie bei Klagen kurz vor oder kurz nach dem Stichtag, welche Fassung für Ihren Fall gilt** (Uebergangsregelungen pruefen).
 - **§ 23 Nr. 2 GVG** — Bestimmte Streitarten **immer** AG, unabhaengig vom Wert.
 - **§ 23a, 23b, 23c GVG** — Familiensachen, Betreuungssachen, Nachlasssachen.
-- **§ 71 GVG** — LG-Zustaendigkeit als Auffangzustaendigkeit ab 10.000 EUR.
+- **§ 71 GVG** — LG-Zuständigkeit als Auffangzuständigkeit ab 10.000 EUR.
 - **§ 3 ZPO** — Streitwert nach freiem Ermessen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Spezialzustaendigkeit pruefen
+### Schritt 1 — Spezialzuständigkeit pruefen
 
 Diese Streitarten sind **unabhaengig vom Streitwert immer** beim AG (§ 23 Nr. 2 GVG, § 23a GVG):
 
@@ -68,7 +68,7 @@ Diese Streitarten sind **unabhaengig vom Streitwert immer** beim AG (§ 23 Nr. 2
 - Familiensachen: Ehescheidung, Sorgerecht, Versorgungsausgleich — immer AG (Familiengericht).
 - Betreuungssachen, Nachlasssachen — immer AG (§ 23b, 23c GVG).
 
-### Schritt 2 — Wenn keine Spezialzustaendigkeit: Streitwert berechnen
+### Schritt 2 — Wenn keine Spezialzuständigkeit: Streitwert berechnen
 
 - **Geldforderung**: Streitwert = Forderungssumme. Beispiel: Sie wollen 8.000 EUR — Streitwert 8.000 EUR.
 - **Mehrere Forderungen**: Werden zusammengerechnet (§ 5 ZPO).
@@ -82,15 +82,15 @@ Diese Streitarten sind **unabhaengig vom Streitwert immer** beim AG (§ 23 Nr. 2
 - **Streitwert bis einschliesslich 10.000 EUR**: Amtsgericht (§ 23 Nr. 1 GVG). Sie koennen sich **selbst vertreten** — kein Anwaltszwang.
 - **Streitwert ueber 10.000 EUR**: Landgericht (§ 71 GVG). **Anwaltszwang** § 78 I ZPO.
 
-**Reform-Hinweis**: Die Wertgrenze wurde zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. Damit gehoeren deutlich mehr Streitigkeiten zur AG-Zustaendigkeit, in der Sie sich selbst vertreten koennen. Wenn Sie einen Streitwert knapp ueber 10.000 EUR haben und Anwaltszwang vermeiden wollen, kann eine **Teilklage** (nur ueber einen Teilbetrag klagen) erwogen werden — beachten Sie aber die Auswirkungen auf Verjaehrung und Streitwert. Sprechen Sie das ggf. mit der Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
+**Reform-Hinweis**: Die Wertgrenze wurde zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. Damit gehoeren deutlich mehr Streitigkeiten zur AG-Zuständigkeit, in der Sie sich selbst vertreten koennen. Wenn Sie einen Streitwert knapp ueber 10.000 EUR haben und Anwaltszwang vermeiden wollen, kann eine **Teilklage** (nur ueber einen Teilbetrag klagen) erwogen werden — beachten Sie aber die Auswirkungen auf Verjährung und Streitwert. Sprechen Sie das ggf. mit der Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
 
 ### Schritt 4 — Bei Unsicherheit beim Streitwert
 
 Geben Sie in der Klage einen plausiblen Streitwert an. Das Gericht setzt am Ende den Streitwert endgueltig fest (§ 63 GKG). Bei Sachstreitigkeiten ohne klaren Geldwert schaetzt das Gericht nach § 3 ZPO.
 
-### Schritt 5 — Folge bei falscher Zustaendigkeit
+### Schritt 5 — Folge bei falscher Zuständigkeit
 
-Falsche Zustaendigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht nach § 281 ZPO an das zustaendige Gericht. **Aber**: Sie zahlen ggf. zusaetzliche Kosten und verlieren Zeit. Wenn der Beklagte vor dem unzustaendigen Gericht ruegelos zur Sache verhandelt, wird das Gericht zustaendig (§ 39 ZPO, "ruegelose Einlassung") — also nicht spekulieren, sondern richtig einreichen.
+Falsche Zuständigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht nach § 281 ZPO an das zuständige Gericht. **Aber**: Sie zahlen ggf. zusaetzliche Kosten und verlieren Zeit. Wenn der Beklagte vor dem unzuständigen Gericht ruegelos zur Sache verhandelt, wird das Gericht zuständig (§ 39 ZPO, "ruegelose Einlassung") — also nicht spekulieren, sondern richtig einreichen.
 
 ## Worauf Sie besonders achten muessen
 
@@ -101,7 +101,7 @@ Falsche Zustaendigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 
 ## Typische Fehler
 
-- "Ich klage in jedem Fall beim AG, ist ja billiger." → Wenn LG zustaendig waere (Streitwert ueber 10.000 EUR), wird verwiesen und Sie haben Kosten doppelt.
+- "Ich klage in jedem Fall beim AG, ist ja billiger." → Wenn LG zuständig waere (Streitwert ueber 10.000 EUR), wird verwiesen und Sie haben Kosten doppelt.
 - "Eine Mietsache mit 30.000 EUR Hauptforderung gehoert ans LG." → Falsch. Mietsachen sind **immer** AG, unabhaengig vom Wert.
 - "Bei Unsicherheit nehme ich den niedrigsten Streitwert an." → Falsch. Setzen Sie realistisch an; bei Untererfassung droht spaetere Streitwert-Festsetzung und Nachzahlung.
 - "Familiengerichts-Sachen kann ich selbst betreiben." → Bei Ehesachen und Folgesachen Anwaltszwang § 114 FamFG.
@@ -110,7 +110,7 @@ Falsche Zustaendigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 ## Querverweise
 
 - `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
-- `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
+- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
 - `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
 - `klage-streitwert-angabe-3-zpo` — Streitwert berechnen.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
@@ -127,27 +127,27 @@ Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhe
 
 ## Worum geht es?
 
-Eine Forderung "verjaehrt" — sie besteht zwar weiter, aber der Schuldner kann die Erfuellung verweigern. Wenn die Verjaehrung schon eingetreten ist, erhebt der Beklagte typischerweise die Verjaehrungs-Einrede, und Ihre Klage scheitert. Sie verlieren den Prozess **und** die Kosten. Diese Skill zeigt, wie Sie die Verjaehrung pruefen.
+Eine Forderung "verjaehrt" — sie besteht zwar weiter, aber der Schuldner kann die Erfuellung verweigern. Wenn die Verjährung schon eingetreten ist, erhebt der Beklagte typischerweise die Verjährungs-Einrede, und Ihre Klage scheitert. Sie verlieren den Prozess **und** die Kosten. Diese Skill zeigt, wie Sie die Verjährung pruefen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen eine aeltere Forderung einklagen.
 - Sie sind unsicher, ob die Drei-Jahres-Frist abgelaufen ist.
-- Sie wurden ausserordentlich verklagt aus alter Forderung und wollen Verjaehrung pruefen.
+- Sie wurden ausserordentlich verklagt aus alter Forderung und wollen Verjährung pruefen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Verjaehrung**: Zeitablauf, der dem Schuldner das Recht gibt, die Erfuellung zu verweigern (Einrede).
+- **Verjährung**: Zeitablauf, der dem Schuldner das Recht gibt, die Erfuellung zu verweigern (Einrede).
 - **Hemmung**: Die Frist laeuft nicht weiter, der bisher abgelaufene Zeitraum bleibt erhalten.
 - **Neubeginn**: Die Frist startet von null (z. B. nach Anerkenntnis durch den Schuldner).
-- **Einrede**: Recht, die Erfuellung zu verweigern (Verjaehrung muss vom Beklagten geltend gemacht werden).
+- **Einrede**: Recht, die Erfuellung zu verweigern (Verjährung muss vom Beklagten geltend gemacht werden).
 
 ## Rechtsgrundlagen
 
 - **§ 195 BGB** — Regelverjaehrung 3 Jahre.
 - **§ 199 BGB** — Beginn der Regelfrist (Jahresende, wenn Anspruch entstanden und Kenntnis).
 - **§ 197 BGB** — 30-Jahres-Frist (Eigentumsherausgabe, Familien- und Erbrecht).
-- **§ 196 BGB** — 10 Jahre fuer Rechte an Grundstuecken.
+- **§ 196 BGB** — 10 Jahre für Rechte an Grundstuecken.
 - **§ 438 BGB** — Sondergewaehrleistung Kauf (2 Jahre, 5 Jahre Bauwerk).
 - **§ 634a BGB** — Werkvertrags-Gewaehrleistung.
 - **§ 12 VVG** — Versicherung 3 Jahre.
@@ -156,7 +156,7 @@ Eine Forderung "verjaehrt" — sie besteht zwar weiter, aber der Schuldner kann 
 - **§ 204 BGB** — Hemmung durch Klage/Mahnverfahren.
 - **§ 212 BGB** — Neubeginn nach Anerkenntnis/Vollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Frist gilt?
 
@@ -208,35 +208,34 @@ Schreiben Sie aus:
 
 ### Schritt 6 — Wenn verjaehrt: was tun?
 
-- Mahnung und Klage sinnlos, weil Beklagter Verjaehrung einreden kann.
+- Mahnung und Klage sinnlos, weil Beklagter Verjährung einreden kann.
 - Aber: Erfuellt der Schuldner trotzdem, ist die Leistung wirksam — Anspruch besteht ja noch.
 - Letzte Notbremse: Erkenntnis-Anerkenntnis erreichen (z. B. durch Verhandlungsangebot mit Teilanerkenntnis) — dann Neubeginn nach § 212 I Nr. 1 BGB.
 
 ## Worauf Sie besonders achten muessen
 
-- **Verjaehrung muss eingewendet werden** — Gericht prueft nicht von Amts wegen. Aber: Beklagter wird die Einrede in 99 % der Faelle erheben.
+- **Verjährung muss eingewendet werden** — Gericht prueft nicht von Amts wegen. Aber: Beklagter wird die Einrede in 99 % der Faelle erheben.
 - **§ 203 BGB Hemmung durch Verhandlungen**: Dokumentieren Sie Verhandlungs-Korrespondenz. Wenn Sie behaupten "wir haben verhandelt", muessen Sie das beweisen.
 - **Anerkenntnis durch Ratenzahlung**: Wenn der Schuldner zwischendurch eine Rate zahlt, beginnt die Frist neu zu laufen.
-- **Bei Mahnbescheid auf Verjaehrungs-Hemmung achten**: Frist gehemmt vom Eingang bei Gericht, nicht erst vom Zustellungs-Datum (§ 167 ZPO).
+- **Bei Mahnbescheid auf Verjährungs-Hemmung achten**: Frist gehemmt vom Eingang bei Gericht, nicht erst vom Zustellungs-Datum (§ 167 ZPO).
 
 ## Typische Fehler
 
-- "Ich kann immer noch klagen, der Schuldner muss das ja sehen." → Verjaehrung tritt unabhaengig von Schuldner-Verhalten ein.
+- "Ich kann immer noch klagen, der Schuldner muss das ja sehen." → Verjährung tritt unabhaengig von Schuldner-Verhalten ein.
 - "Verhandlungen haben nicht stattgefunden, war nur Email." → Doch, kann reichen. Email-Verkehr "ueber den Anspruch" ist Verhandlung.
-- "Mit einer Mahnung hemme ich die Verjaehrung." → Nein, einfache Mahnung hemmt **nicht**. Nur Mahnbescheid, Klage oder Verhandlungen.
-- "Verjaehrung beginnt mit Faelligkeit." → Bei Regelfrist beginnt sie erst zum **Jahresende** der Faelligkeit (mit Kenntnis).
+- "Mit einer Mahnung hemme ich die Verjährung." → Nein, einfache Mahnung hemmt **nicht**. Nur Mahnbescheid, Klage oder Verhandlungen.
+- "Verjährung beginnt mit Faelligkeit." → Bei Regelfrist beginnt sie erst zum **Jahresende** der Faelligkeit (mit Kenntnis).
 
 ## Querverweise
 
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Check.
 - `aussergerichtliche-mahnung-286-bgb` — Mahnung.
 - `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid hemmt!
-- `einreden-aktiv-geltend-machen` — Beklagter: Verjaehrung-Einrede.
+- `einreden-aktiv-geltend-machen` — Beklagter: Verjährung-Einrede.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 195 ff. BGB unveraendert. Beachten Sie BGH-Rechtsprechung zur "Kenntnis und grob fahrlaessigen Unkenntnis" (§ 199 BGB).
-
 
 ## Qualitäts-Hardening
 
@@ -276,7 +275,7 @@ Wenn Sie **ohne eigenes Verschulden** eine prozessuale Frist versaeumt haben (z.
 - **§ 236 ZPO** — Verfahren.
 - **§ 294 ZPO** — Glaubhaftmachung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Wiedereinsetzungs-faehig
 
@@ -330,7 +329,7 @@ Die Berufungsfrist gegen das Urteil vom
 [Datum] ist am [Datum] abgelaufen. Ich
 habe Berufung nicht fristgerecht eingelegt.
 
-II. Gruende fuer Wiedereinsetzung
+II. Gruende für Wiedereinsetzung
 
 Vom [Datum] bis [Datum] war ich aufgrund
 eines Verkehrsunfalls im Krankenhaus
@@ -412,7 +411,6 @@ Wenn Wiedereinsetzung wenig Aussicht hat, pruefen Sie alternative Wege (Vollstre
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 233 ff. ZPO unveraendert. BGH-Linie zur Eigenverantwortung stabil.
-
 
 ## Qualitäts-Hardening
 

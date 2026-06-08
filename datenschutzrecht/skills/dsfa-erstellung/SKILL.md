@@ -107,10 +107,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — DSFA fuer neue Verarbeitung durchfuehren | Schwellenwertanalyse und vollstaendige DSFA nach Template unten |
+| Standard — DSFA für neue Verarbeitung durchfuehren | Schwellenwertanalyse und vollstaendige DSFA nach Template unten |
 | Variante A — Verarbeitung schon laeuft ohne DSFA | Nachtraegliche DSFA; Massnahmen-Umsetzungsplan erstellen |
 | Variante B — Ergebnis der DSFA negativ (hohes Restrisiko) | Verarbeitung anpassen oder Aufsichtsbehoerde konsultieren |
-| Variante C — DSFA fuer mehrere aehnliche Verarbeitungen | Muster-DSFA-Dokument erstellen; individuell anpassen |
+| Variante C — DSFA für mehrere aehnliche Verarbeitungen | Muster-DSFA-Dokument erstellen; individuell anpassen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -164,9 +164,9 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 
 ## Faktische Updates (Stand 05/2026)
 
-- **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Ab 02.08.2026 muessen Betreiber bestimmter Hochrisiko-KI-Systeme (oeffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditwuerdigkeitsbewertung, Kranken-/Lebensversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung (Fundamental Rights Impact Assessment, FRIA) durchfuehren. DSFA und FRIA koennen integriert werden, sind aber rechtlich eigenstaendig. Quelle: VO (EU) 2024/1689, Art. 27.
+- **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Ab 02.08.2026 muessen Betreiber bestimmter Hochrisiko-KI-Systeme (öffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditwuerdigkeitsbewertung, Kranken-/Lebensversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung (Fundamental Rights Impact Assessment, FRIA) durchfuehren. DSFA und FRIA koennen integriert werden, sind aber rechtlich eigenstaendig. Quelle: VO (EU) 2024/1689, Art. 27.
 - **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** verbindliche Auslegungshilfe zur DSGVO-Bewertung von KI-Modellen und KI-Diensten, insb. zu personenbezogenen Daten in Modell-Gewichten und Training. Quelle: edpb.europa.eu.
-- **BfDI-/LfDI-Blacklist Art. 35 Abs. 4 DSGVO:** Aktuelle Liste verpflichtender DSFA-Faelle live ueber bfdi.bund.de pruefen; auch Landesdatenschutzbehoerden veroeffentlichen Listen (z.B. LfDI BW, LDA Bayern).
+- **BfDI-/LfDI-Blacklist Art. 35 Abs. 4 DSGVO:** Aktuelle Liste verpflichtender DSFA-Faelle live ueber bfdi.bund.de pruefen; auch Landesdatenschutzbehoerden veröffentlichen Listen (z.B. LfDI BW, LDA Bayern).
 - **Art. 36 DSGVO Vorab-Konsultation:** Bei Restrisiko nach DSFA Pflicht zur Konsultation der Aufsichtsbehoerde. Frist 8 Wochen, Verlaengerung 6 Wochen moeglich.
 
 ## Triage zu Beginn
@@ -175,7 +175,7 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 2. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)
 3. Ist die Verarbeitung auf der BfDI-Blacklist?
 4. Gibt es ein Hausformat in CLAUDE.md?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — DSFA-Zusammenfassung
 

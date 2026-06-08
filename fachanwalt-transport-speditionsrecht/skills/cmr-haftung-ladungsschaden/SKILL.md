@@ -7,10 +7,10 @@ description: "CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditio
 
 ## Arbeitsbereich
 
-**CMR Haftung Ladungsschaden** ordnet den Fall über die tragenden Prüffelder: CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Beschaedigung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**CMR Haftung Ladungsschaden** ordnet den Fall über die tragenden Prüfungslinien: CMR-Haftung des Frachtführers im internationalen, Ladungsschaden im Gueterverkehr prüfen und geltend machen, Frachtführerhaftung für Verlust oder Beschaedigung des. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-transport-speditionsrecht-cmr-haftung` | CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung. |
 | `fachanwalt-transport-speditionsrecht-ladungsschaden` | Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug. |
@@ -18,12 +18,12 @@ description: "CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditio
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Transport- und Speditionsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: §§ 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-transport-speditionsrecht-cmr-haftung`
 
@@ -47,7 +47,7 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 8. Ist ein Unterfrachtführer eingeschaltet und an welcher Teilstrecke ist der Schaden entstanden?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -115,7 +115,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Schaden nach Uebergabe an Empfaenger | Ablieferungszeitpunkt CMR Art. 17; Ruegefristen beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -340,7 +339,7 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 8. Wurde bereits eine schriftliche Reklamation an den Frachtführer gesandt und wann?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -409,7 +408,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Zollverschluss beschaedigt | Zollrechtliche Haftung parallel zur Frachtrechtshaftung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -647,7 +645,7 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 8. Ist ein Unterfrachtführer (Subunternehmer) beteiligt und wer ist Vertragspartner der Mandantschaft?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -722,7 +720,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Versicherungsuebergang | § 67 VVG Regress Versicherer gegen Frachtfuehrer |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 

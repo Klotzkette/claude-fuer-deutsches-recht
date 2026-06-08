@@ -1,40 +1,25 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Vorlaeufige Dienstenthebung im Beamtenrecht: prüft konkret Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt, Vorläufige Dienstenthebung und Einbehaltung von Bezügen im, Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen für Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Vorlaeufige Dienstenthebung
+# Vorlaeufige Dienstenthebung § 38 BDG
 
 ## Arbeitsbereich
 
-**Vorlaeufige Dienstenthebung** ordnet den Fall über die tragenden Prüffelder: Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt, Vorläufige Dienstenthebung und Einbehaltung von Bezügen im, Widerspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `vorlaeufige-dienstenthebung-38-bdg` | Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz. |
-| `vorlaeufige-dienstenthebung-bezuege` | Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. |
-| `widerspruch-klage-vwgo` | Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten. |
-| `zulagen-ruhegehaltfaehigkeit-und-rueckforderung` | Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung. |
+Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen für Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `vorlaeufige-dienstenthebung-38-bdg`
-
-**Fokus:** Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz.
-
-# Vorlaeufige Dienstenthebung § 38 BDG
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf. den Einbehalt der Bezuege verfuegt hat, oder die einen entsprechenden Antrag bei Gericht abwehren wollen.
+Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf. den Einbehalt der Bezuege verfuegt hat, oder die einen entsprechenden Antrag bei Gericht abwehren wollen.
 
 ## 2. Eingaben
 
@@ -51,7 +36,7 @@ Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf.
 - Verhinderung der Fortsetzung des Dienstvergehens, Schutz dienstlicher Interessen.
 
 ### b) Verfahren
-- Dienstherr verfuegt die vorlaeufige Dienstenthebung.
+- Dienstherr verfuegt die vorläufige Dienstenthebung.
 - Antrag nach § 63 BDG beim Verwaltungsgericht gegen die Massnahme moeglich.
 
 ### c) Einbehalt von Dienstbezuegen
@@ -61,14 +46,14 @@ Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf.
 ### d) Verhaeltnis zum Strafverfahren
 - Vorlaeufige Dienstenthebung ist unabhaengig vom Strafverfahren moeglich; Vorermittlungen und Beweisaufnahme im Strafverfahren beeinflussen aber die Prognose der Entfernung.
 
-### e) Folgen fuer Bezuege und Beihilfe
+### e) Folgen für Bezuege und Beihilfe
 - Beihilfeberechtigung bleibt grundsaetzlich erhalten.
 - Versorgung wird nur bei rechtskraeftiger Entfernung aus dem Beamtenverhaeltnis beeinflusst.
 
 ## 4. Quellenpflicht
 
 - Normen: §§ 38, 63 BDG; landesrechtliche Aequivalente.
-- Rspr.: BVerwG zur vorlaeufigen Dienstenthebung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Rspr.: BVerwG zur vorläufigen Dienstenthebung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
@@ -88,114 +73,3 @@ Skill fuer Mandanten, deren Dienstherr eine vorlaeufige Dienstenthebung und ggf.
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Polizeihauptkommissar, in Untersuchungshaft wegen Verdachts der Bestechlichkeit (§ 332 StGB). Dienstherr enthebt vom Dienst und behaelt 50 v. H. der Bezuege ein. Skill liefert Antrag § 63 BDG mit Hinweis auf Unterhaltspflichten und Pruefung der Prognose.
-
-## 2. `vorlaeufige-dienstenthebung-bezuege`
-
-**Fokus:** Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren.
-
-# Vorlaeufige Dienstenthebung Bezuege
-
-## Aufgabe
-
-Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren.
-
-## Arbeitsweise
-
-Prüfe Tatvorwurf, Prognose zur Entfernung, Verhältnismäßigkeit, Einbehaltshöhe, wirtschaftliche Lage und Eilrechtsschutz.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 3. `widerspruch-klage-vwgo`
-
-**Fokus:** Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten.
-
-# Widerspruch Klage Vwgo
-
-## Aufgabe
-
-Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten.
-
-## Arbeitsweise
-
-Prüfe Vorverfahren, Klageart, Klagebefugnis, Frist, Zuständigkeit, Suspensiveffekt und Eiloption.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 4. `zulagen-ruhegehaltfaehigkeit-und-rueckforderung`
-
-**Fokus:** Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung.
-
-# zulagen-ruhegehaltfaehigkeit-und-rueckforderung
-
-## Aufgabe
-
-Prüft, welche Zulage nur laufend gezahlt wird und welche in die Versorgung hineinwirkt.
-
-## Pflichtfragen
-
-- Bund oder welches Bundesland, welcher Dienstherr und welcher Status: Beamter, Richter, Versorgungsempfänger, Bewerber oder Ruhestandsfall?
-- Welcher Bescheid, welche Verfügung, welche Auswahlmitteilung, welche Versorgungsauskunft oder welcher Beihilfebescheid liegt vor?
-- Datum, Zugang, Frist, Rechtsbehelf und gewünschtes Ziel?
-- Welche Aktenbestandteile fehlen: Personalakte, Auswahlvermerk, Beurteilungen, Berechnungsblatt, amtsärztliches Gutachten, Beihilfeakte, PKV-Schreiben?
-
-## Prüfprogramm
-
-1. **Rechtsquelle trennen:** Bundesrecht, Landesrecht, Richterrecht und Satzungs-/Versorgungsrecht sauber auseinanderhalten.
-2. **Eilbedürftigkeit prüfen:** Konkurrentenschutz, Widerspruchsfrist, Klagefrist, Beihilfefrist, Dienstunfallmeldung oder Ruhestandsdatum sichern.
-3. **Materiellen Kern prüfen:** Art. 33 Abs. 2 oder Abs. 5 GG, BeamtVG, BBhV/landesrechtliche Beihilfe, BBesG/Landesbesoldung, BeamtStG/BBG und VwGO.
-4. **Akte auswerten:** Nicht nur Normen, sondern Dokumentation, Ermessen, Beteiligung, Begründung, Plausibilität und Beweiswert bewerten.
-5. **Output bauen:** Sofortmaßnahme, Antrag, Widerspruch, Eilantrag, Akteneinsicht, Mandantenbrief oder Berechnungsmatrix.
-
-## Ausgabe
-
-- Kurzbild mit Frist und Ziel.
-- Prüfmatrix mit Normgruppe, Tatsachen, Unterlagen und Risiken.
-- Konkreter nächster Schritt mit Entwurf oder Anlagenliste.
-
-## Quellen-Hardening
-
-Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.

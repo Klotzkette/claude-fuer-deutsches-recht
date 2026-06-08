@@ -44,33 +44,43 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 34 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `anti-dumping-zoll-eu-grundverordnung` | Anti Dumping Zoll eu Grundverordnung: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `bruessel-cisg-sonderfall-edge` | Bruessel CISG Sonderfall Edge im Internationalen Wirtschaftsrecht: prüft konkret Bruessel, Cisg, Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `china-shipping-bills-of-lading` | China Shipping Bills of Lading: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
 | `embargo-fristennotiz-schiedsverfahren` | Embargo Fristennotiz Schiedsverfahren im Internationalen Wirtschaftsrecht: prüft konkret Embargo, Schiedsverfahren, Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` | EU-Kartellrecht Art 101 AEUV mit EuGH. |
+| `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` | Marktmissbrauch Art 102 AEUV Google Shopping EuGH. |
+| `eu-mwst-betrug-mtic` | eu Mwst Betrug Mtic: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `eugv-zustaendigkeit-art-7-eugvvo` | Eugv Zustaendigkeit art 7 EuGVVO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `fa-int-wirtschaft-start-chronologie-fristen` | FA INT Wirtschaft Start Chronologie Fristen im Internationalen Wirtschaftsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Internationales, Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plug... |
-| `fachanwalt-internationales-intwr-red` | Intwr RED im Internationalen Wirtschaftsrecht: prüft konkret Fachanwalt, Internationales, Intwr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `fachanwalt-internationales-iwr-arbitration-ny-cisg-anwendung` | IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsrecht: prüft konkret Spezialfall internationale Schiedsgerichtsbarkeit nach New, Spezialfall UN-Kaufrecht CISG, Rechtswahl und Gerichtsstand in der Praxis. Liefert priorisie... |
-| `fachanwalt-internationales-wirtschaftsrecht-anschluss-routing` | Anschluss-Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-internationales-wirtschaftsrecht-dokumente-intake` | Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `fachanwalt-internationales-wirtschaftsrecht-einstieg-routing` | Einstieg und Routing: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
-| `fachanwalt-internationales-wirtschaftsrecht-output-waehlen` | Output wählen im Internationalen Wirtschaftsrecht: Diese Output-Weiche für Fachanwalt Internationales Wirtschaftsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste... |
-| `fachanwalt-internationales-wirtschaftsrecht-quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `fachanwalt-internationales-wirtschaftsrecht-unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `gerichtsstand-rechtswahl-intwr-cisg-rom` | Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtschaftsrecht: prüft konkret Prüffeld für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Liefert priorisierten Output mit N... |
+| `gerichtsstand-rechtswahl-intwr-cisg-rom` | Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtschaftsrecht: prüft konkrete Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Liefert priorisierten Output... |
 | `icsid-quellenkarte` | Icsid Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `incoterms-2020-fca-versendungskauf` | Incoterms 2020 fca Versendungskauf: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `intwr-red-team-korrektur` | Intwr RED im Internationalen Wirtschaftsrecht: prüft konkret Fachanwalt, Internationales, Intwr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `invest-schutz-bit-icsid-c-284-16` | Investitionsschutz BIT ICSID nach EuGH Achmea. |
 | `investitionsschutz-kanzlei-lksg` | Investitionsschutz Kanzlei Lksg im Internationalen Wirtschaftsrecht: prüft konkret Investitionsschutz, Kanzlei, Lksg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
+| `iwr-arbitration-ny-cisg-anwendung` | IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsrecht: prüft konkret Spezialfall internationale Schiedsgerichtsbarkeit nach New, Spezialfall UN-Kaufrecht CISG, Rechtswahl und Gerichtsstand in der Praxis. Liefert priorisie... |
 | `iwr-cisg-brussels-icc` | IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft konkret Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Liefert priorisi... |
 | `iwr-einfuehrung-rechtsquellen` | Internationales Wirtschaftsrecht einfuehrend: ROM I/II VO, EuGVVO Bruessel Ia, HKUe Vertragspflichten, UN-Kaufrecht CISG, Bilaterale Abkommen. Pro Quelle Anwendungsbereich, Schluesselbestimmungen, Beispiele. Entscheidungstabelle. |
 | `mandat-triage-schriftsatzkern-substantiierung` | Mandat Triage Schriftsatzkern Substantiierung im Internationalen Wirtschaftsrecht: prüft konkret Neues internationales Wirtschaftsrechtsmandat kommt rein, Substantiierter Schriftsatzkern für Klage mit, Schiedsklage, Aussenhandel. Liefert... |
 | `orientierung-iwr-embargo-eu` | Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Internationales, Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO, EU-US Data Privacy Framework (DPF) seit 10.7.2023... |
-| `rom-i` | ROM I im Internationalen Wirtschaftsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Vertragsparteien aus verschiedenen Laendern streiten über. Liefert priorisierten Output mit Norm-Pinpoints, Risiko... |
-| `sanktionen-erstgespraech-mandatsannahme-cisg` | Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wirtschaftsrecht: prüft konkret Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüffeld für fachanwalt internationales wirtschaftsrecht. Liefert pri... |
+| `output-waehlen` | Output wählen im Internationalen Wirtschaftsrecht: Diese Output-Weiche für Fachanwalt Internationales Wirtschaftsrecht entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste... |
+| `quellen-livecheck` | Rechtsquellen-Livecheck: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `rom-i` | ROM I im Internationalen Wirtschaftsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Vertragsparteien aus verschiedenen Ländern streiten über. Liefert priorisierten Output mit Norm-Pinpoints, Risikoa... |
+| `rom-i-rechtswahl-art-3-rom-i` | rom i Rechtswahl art 3 rom i: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
+| `sanktionen-erstgespraech-mandatsannahme-cisg` | Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wirtschaftsrecht: prüft konkret Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht. Liefer... |
 | `schiedsklausel-intwr-eu-sanktions` | Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsrecht: prüft konkret Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoam... |
 | `schiedsklausel-intwr-grenzueberschreitender` | Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wirtschaftsrecht: prüft konkret Mandant verhandelt internationalen Vertrag und fragt, Spezialfall Schiedsklausel und New Yorker UEbereinkommen, Grenzüberschreitender Vertrags... |
+| `schiedsspruch-aufhebung-paragraf-1059-zpo` | Schiedsspruch Aufhebung § 1059 zpo: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `schnittstelle-interessen-trade-beweislast` | Schnittstelle Interessen Trade Beweislast im Internationalen Wirtschaftsrecht: prüft konkret Schnittstelle, Trade, Uncitral. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Internationalen Wirtschaftsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output. |
+| `unterlagen-luecken` | Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Internationalen Wirtschaftsrecht im Fachanwalt Internationales Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

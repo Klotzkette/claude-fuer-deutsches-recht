@@ -7,10 +7,10 @@ description: "Autonom Bezuege Fachanwalt im Plugin Fachanwalt Verkehrsrecht: pr�
 
 ## Arbeitsbereich
 
-**Autonom Bezuege Fachanwalt** ordnet den Fall über die tragenden Prüffelder: Autonom, Bezuege, Fachanwalt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Autonom Bezuege Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Autonom, Bezuege, Fachanwalt. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-autonom-abschlussprodukt-und-uebergabe` | Autonom: Abschlussprodukt und Übergabe im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bezuege-behoerden-gericht-und-registerweg` | Bezuege: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -18,12 +18,12 @@ description: "Autonom Bezuege Fachanwalt im Plugin Fachanwalt Verkehrsrecht: pr�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verkehrsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-autonom-abschlussprodukt-und-uebergabe`
 
@@ -32,11 +32,7 @@ description: "Autonom Bezuege Fachanwalt im Plugin Fachanwalt Verkehrsrecht: pr�
 # Autonom: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Autonom: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Autonom: Abschlussprodukt und Übergabe / autonom abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -73,11 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Bezuege: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Bezuege: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Bezuege: Behörden-, Gerichts- oder Registerweg / bezuege behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -107,8 +99,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
-## Verkehrsrechts-Behoerden / Gerichts / Register Bausteine
-- **Behoerden-Triade:**
+## Verkehrsrechts-Behörden / Gerichts / Register Bausteine
+- **Behörden-Triade:**
  - **Bussgeldstelle (zentrale OWi-Verfahrensbehoerde des Bundeslands):** § 65 OWiG; Bescheidserlass; Einspruchsbearbeitung; Abgabe an StA bei Strafbefehl-Antrag.
  - **Staatsanwaltschaft:** Verkehrsstrafsachen; § 152 StPO Anklageerhebung.
  - **Fahrerlaubnisstelle (Landratsamt / Buergeramt):** §§ 3 StVG, 46 FeV Entziehung; Wiedererteilung § 20 FeV; MPU-Anordnung §§ 11, 13, 14 FeV.
@@ -134,11 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -185,8 +173,34 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sofort-Massnahmen:**
  - Unfallregulierung: Schadenanzeige, SV-Gutachten beauftragen (eigener SV bei klarer Haftung), Werkstatt einleiten.
  - OWi: Akteneinsicht § 49 OWiG; Schweigerecht § 55 OWiG.
- - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorlaeufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
- - FeV: Anhoerungstermin wahrnehmen; ggf. Stellungnahme einreichen.
+ - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorläufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
+ - FeV: Anhörungstermin wahrnehmen; ggf. Stellungnahme einreichen.
 - **Frist-Re-Check:** § 195 BGB / § 199 BGB Schaden; § 67 OWiG 2 Wochen; § 410 StPO 2 Wochen; § 314 StPO 1 Woche; § 30 VVG unverzueglich; § 25 IIa StVG 4-Monatsfrist Fahrverbot.
 - **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit pruefen).
-- **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich fuer alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).
+- **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich für alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 67 OWiG
+- § 69a StGB
+- § 7 StVG
+- § 18 StVG
+- § 115 VVG
+- § 69 StGB
+- § 4 StVG
+- § 33 OWiG
+- § 24a StVG
+- § 17 StVG
+- § 55 OWiG
+- § 26 StVG
+
+### Leitentscheidungen
+
+- BGH VI ZR 12/24
+- BGH VI ZR 280/22
+- BGH VI ZR 253/22
+- BGH VI ZR 239/22
+- BGH VI ZR 24/25
+

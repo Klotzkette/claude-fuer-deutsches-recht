@@ -7,30 +7,30 @@ description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Volls
 
 ## Worum geht es?
 
-Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende ueber eine Internet-Plattform zu fuehren — ohne Papier, ohne persoenliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und fuer **bestimmte Streit-Typen**.
+Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende ueber eine Internet-Plattform zu fuehren — ohne Papier, ohne persönliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und für **bestimmte Streit-Typen**.
 
-**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts.**
+**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts.**
 
 ## In einfacher Sprache
 
-Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die Klage ein. Sie sehen die Antwort der Gegenseite am Bildschirm. Manchmal gibt es ein Video-Treffen. Das gibt es nur bei einigen Gerichten und nur fuer bestimmte Streit-Themen.
+Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die Klage ein. Sie sehen die Antwort der Gegenseite am Bildschirm. Manchmal gibt es ein Video-Treffen. Das gibt es nur bei einigen Gerichten und nur für bestimmte Streit-Themen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wollen klagen und Ihr Amtsgericht bietet das Online-Verfahren an.
 - Sie wurden in einem Online-Verfahren verklagt.
-- Sie wollen wissen, ob das Online-Verfahren fuer Ihren Fall passt.
+- Sie wollen wissen, ob das Online-Verfahren für Ihren Fall passt.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Online-Verfahren**: Ein voll-digitales Zivilverfahren auf einer Internet-Plattform.
 - **Experimentier-Klausel**: Eine Gesetzesregelung, die ein neues Verfahren erstmal in einem Test-Modus zulaesst.
-- **Strukturierte Eingabe-Maske**: Ein Formular auf der Plattform, in das Sie Ihren Sachverhalt Schritt fuer Schritt eintippen.
+- **Strukturierte Eingabe-Maske**: Ein Formular auf der Plattform, in das Sie Ihren Sachverhalt Schritt für Schritt eintippen.
 - **Teilnehmende Gerichte**: Nicht jedes Amtsgericht bietet das Online-Verfahren an. Eine Liste finden Sie auf der Webseite der Justiz Ihres Bundeslandes.
 
 ## Rechtsgrundlagen (Stand 2026)
 
-- **11. Buch ZPO (Online-Verfahren)** — neues Buch der Zivilprozessordnung, eingefuehrt mit dem Gesetz zur Foerderung digitaler Justiz-Verfahren (genaues Inkrafttreten und Paragraphen verifizieren).
+- **11. Buch ZPO (Online-Verfahren)** — neues Buch der Zivilprozessordnung, eingefuehrt mit dem Gesetz zur Förderung digitaler Justiz-Verfahren (genaues Inkrafttreten und Paragraphen verifizieren).
 - **§ 128a ZPO** — Video-Verhandlung (auch im klassischen Verfahren moeglich, vgl. `video-verhandlung-128a-zpo`).
 - **§ 130a ZPO** — elektronische Einreichung (gilt auch im klassischen Verfahren).
 
@@ -56,26 +56,26 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 
 ## Risiken und Grenzen
 
-- **Nicht fuer komplexe Faelle**: Schwierige Sachverhalte (medizinische Gutachten, technische Details) lassen sich in der Eingabe-Maske nur eingeschraenkt darstellen.
+- **Nicht für komplexe Faelle**: Schwierige Sachverhalte (medizinische Gutachten, technische Details) lassen sich in der Eingabe-Maske nur eingeschraenkt darstellen.
 - **Technik-Voraussetzungen**: Sie brauchen Computer, stabile Internet-Verbindung, Webcam, Mikrofon.
 - **Identifikation**: Sie muessen sich elektronisch ausweisen (z.B. Mein Justizpostfach, eID Personalausweis).
 - **Akten-Backup**: Sie sollten regelmaessig Kopien Ihrer Eingaben lokal speichern (z.B. als PDF herunterladen).
 - **Nicht ueberall verfuegbar**: Nur an teilnehmenden Amtsgerichten.
-- **Nicht fuer alle Streit-Typen**: Bestimmte Sachgebiete koennen ausgeschlossen sein.
+- **Nicht für alle Streit-Typen**: Bestimmte Sachgebiete koennen ausgeschlossen sein.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Ihr Amtsgericht teilnimmt
 
-Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der Webseite des oertlich zustaendigen Amtsgerichts nach. Beispiele:
+Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der Webseite des oertlich zuständigen Amtsgerichts nach. Beispiele:
 
-- Justizportal Bund-Laender
+- Justizportal Bund-Länder
 - "Online-Verfahren" als Stichwort suchen.
 - Bei der Geschaeftsstelle des Amtsgerichts nachfragen.
 
 ### Schritt 2 — Pruefen, ob Ihr Streit-Typ zugelassen ist
 
-Das Online-Verfahren ist nicht fuer alle Streit-Typen offen. Typisch zugelassen sind z.B. Zahlungsklagen unter einem bestimmten Streitwert. Lesen Sie die Bedingungen der Plattform.
+Das Online-Verfahren ist nicht für alle Streit-Typen offen. Typisch zugelassen sind z.B. Zahlungsklagen unter einem bestimmten Streitwert. Lesen Sie die Bedingungen der Plattform.
 
 ### Schritt 3 — Auf der Plattform registrieren
 
@@ -112,7 +112,7 @@ Wenn ein Termin stattfindet, bekommen Sie einen Link. Loggen Sie sich rechtzeiti
 - Ruhiger Raum, kein Hintergrund-Laerm.
 - Webcam auf Augenhoehe.
 - Stabile Internet-Verbindung.
-- Personalausweis griffbereit fuer Identitaets-Pruefung.
+- Personalausweis griffbereit für Identitaets-Pruefung.
 
 ### Schritt 8 — Urteil im Plattform-Postfach
 
@@ -127,7 +127,7 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 
 ## Typische Fehler
 
-- **Fehler:** Plattform fuer hochkomplexe Faelle nutzen — Eingabe-Maske ist zu eng. → **So vermeiden:** Bei komplexen Faellen klassisches Verfahren waehlen.
+- **Fehler:** Plattform für hochkomplexe Faelle nutzen — Eingabe-Maske ist zu eng. → **So vermeiden:** Bei komplexen Faellen klassisches Verfahren waehlen.
 - **Fehler:** Plattform-Postfach nicht regelmaessig pruefen — Fristen verpasst. → **So vermeiden:** Mehrmals pro Woche einloggen oder Benachrichtigungs-E-Mail aktivieren.
 - **Fehler:** Lokale Sicherungs-Kopien vergessen. → **So vermeiden:** Nach jeder Eingabe als PDF herunterladen.
 - **Fehler:** Bei Video-Termin technische Probleme — kein Backup-Geraet. → **So vermeiden:** Vor dem Termin Funktion testen, Smartphone als Backup griffbereit.
@@ -141,4 +141,4 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zustaendigen Amtsgerichts vor Klageeinreichung.**
+Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts vor Klageeinreichung.**

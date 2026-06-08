@@ -171,7 +171,6 @@ Re-assess on triggers:
 - Commission Implementing Decision (EU) 2023/1795 of 10 July 2023 (EU-US DPF).
 - Articles 44–49 GDPR.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -21,7 +21,7 @@ Im Zivilprozess gilt eine klare Grundregel: **Wer eine Norm zu seinen Gunsten ge
 - **Anspruchsbegruendend**: Tatsachen, die den Anspruch entstehen lassen.
 - **Anspruchshindernd**: Tatsachen, die das Entstehen verhindert haben.
 - **Anspruchsvernichtend**: Tatsachen, die den Anspruch zerstoeren (Erfuellung, Erlass).
-- **Anspruchshemmend**: Tatsachen, die den Anspruch nur voruebergehend stoppen (Verjaehrung).
+- **Anspruchshemmend**: Tatsachen, die den Anspruch nur voruebergehend stoppen (Verjährung).
 
 ## Rechtsgrundlagen
 
@@ -29,7 +29,7 @@ Im Zivilprozess gilt eine klare Grundregel: **Wer eine Norm zu seinen Gunsten ge
 - **§ 138 ZPO** — Wahrheitspflicht; sekundaere Darlegungslast.
 - **§ 280 I 2 BGB, § 7 II StVG, § 836 BGB** — Beispiele Beweislast-Umkehr.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Grundregel
 
@@ -45,7 +45,7 @@ Beispiel:
 § 433 II BGB (Kaufpreis):
 
 - Klaeger beweist: Vertrag, Faelligkeit.
-- Beklagter beweist: Erfuellung, Mangel, Aufrechnung, Verjaehrung.
+- Beklagter beweist: Erfuellung, Mangel, Aufrechnung, Verjährung.
 
 § 823 I BGB (Delikt):
 
@@ -63,13 +63,13 @@ Manche Normen kehren die Beweislast um.
 
 § 7 II StVG: Halter haftet, **es sei denn**, hoehere Gewalt. → Halter beweist hoehere Gewalt.
 
-Diese Umkehr ist guenstig fuer den Geschaedigten.
+Diese Umkehr ist guenstig für den Geschaedigten.
 
 ### Schritt 4 — Anscheinsbeweis
 
 Bei typischen Geschehensablaeufen kann das Gericht von Erfahrungssatzen ausgehen.
 
-Beispiel: Auffahrunfall → Anscheinsbeweis fuer Verschulden des Auffahrenden.
+Beispiel: Auffahrunfall → Anscheinsbeweis für Verschulden des Auffahrenden.
 
 Sie als Klaeger profitieren — der Beklagte muss den Anschein erschuettern.
 

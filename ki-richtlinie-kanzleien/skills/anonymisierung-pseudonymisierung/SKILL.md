@@ -1,35 +1,23 @@
 ---
 name: anonymisierung-pseudonymisierung
-description: "Anonymisierung Pseudonymisierung im Plugin Ki Richtlinie Kanzleien: prüft konkret Anonymisierung und Pseudonymisierung von Mandatsdaten vor, Automatisierte Einzelentscheidungen nach Art, Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Anonymisierung Pseudonymisierung
+# Anonymisierung und Pseudonymisierung
 
 ## Arbeitsbereich
 
-**Anonymisierung Pseudonymisierung** ordnet den Fall über die tragenden Prüffelder: Anonymisierung und Pseudonymisierung von Mandatsdaten vor, Automatisierte Einzelentscheidungen nach Art, Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `anonymisierung-pseudonymisierung` | Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine. |
-| `automatisierte-entscheidungen-art-22-dsgvo` | Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Prüfraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Prüfprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance. |
-| `berufsrecht-bausteine` | Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt KI-Richtlinie und braucht praezise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung. § 43 BRAO Gewissenhaftigkeit, § 43a Abs. 2 BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, § 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025. Prüfraster Verschwiegenheitspflicht beim KI-Einsatz, Haftung für KI-Output OLG Koblenz, eigenverantwortliche Endkontrolle. Output Bausteine-Sammlung mit konkreten Formulierungen für Kanzlei-Richtlinie. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Musterklauseln-IT. |
+Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Ki Richtlinie Kanzleien klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `anonymisierung-pseudonymisierung`
-
-**Fokus:** Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine.
-
-# Anonymisierung und Pseudonymisierung
+## Spezialwissen
 
 Die Anonymisierung von Mandatsdaten vor der Eingabe in KI-Systeme ist eine der wichtigsten praktischen Schutzmaßnahmen in der Kanzlei. Echte Anonymisierung — bei der ein Personenbezug nicht mehr herstellbar ist — schließt die Anwendbarkeit der DSGVO aus und reduziert das Berufsrechtsrisiko erheblich. Pseudonymisierung mindert das Risiko, schließt die DSGVO aber nicht aus. Dieser Skill beschreibt ein praxistaugliches Stufenmodell.
 
@@ -111,186 +99,24 @@ Anonymisierungsgrad: [ANONYMISIERT / PSEUDONYMISIERT]
 DSGVO anwendbar: [JA / NEIN]
 ```
 
-## 2. `automatisierte-entscheidungen-art-22-dsgvo`
+## Normen und Rechtsprechung
 
-**Fokus:** Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Prüfraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Prüfprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance.
+### Kuratierte Normen-Bibliothek
 
-# Automatisierte Entscheidungen Art. 22 DSGVO
+- Art. 28 DSGVO
+- § 203 StGB
+- Art. 22 DSGVO
+- Art. 9 DSGVO
+- Art. 6 DSGVO
+- § 2 UrhG
+- Art. 30 DSGVO
+- Art. 46 DSGVO
+- Art. 13 DSGVO
+- § 44b UrhG
+- Art. 35 DSGVO
+- § 5 UrhG
 
-Art. 22 DSGVO schützt Personen vor Entscheidungen, die ausschließlich auf automatisierter Verarbeitung — also ohne menschliche Überprüfung — beruhen und erhebliche Auswirkungen auf die betroffene Person haben. Beim Einsatz von KI-Systemen in Kanzleien ist dieses Verbot besonders relevant: Keine rechtlich bedeutsame Entscheidung darf allein auf der Grundlage eines KI-Outputs getroffen werden.
+### Leitentscheidungen
 
-## Rechtlicher Hintergrund
+- BGH VI ZR 273/16
 
-Art. 22 Abs. 1 DSGVO: Betroffene haben das Recht, nicht einer ausschließlich auf automatisierter Verarbeitung beruhenden Entscheidung unterworfen zu werden, die ihnen gegenüber rechtliche Wirkung entfaltet oder sie in ähnlicher Weise erheblich beeinträchtigt. Art. 22 Abs. 2 DSGVO: Ausnahmen — Vertragsdurchführung (lit. a), gesetzliche Grundlage (lit. b), ausdrückliche Einwilligung (lit. c). Art. 22 Abs. 3 DSGVO: Bei Ausnahmen müssen geeignete Maßnahmen zum Schutz der Rechte und Freiheiten sowie der berechtigten Interessen getroffen werden, mindestens: Recht auf menschliche Einflussnahme, Darlegung des eigenen Standpunkts, Anfechtung der Entscheidung. Art. 22 Abs. 4 DSGVO: Besonders sensitive Kategorien nach Art. 9 DSGVO dürfen nicht Grundlage automatisierter Entscheidungen sein, außer bei ausdrücklicher Einwilligung oder erheblichem öffentlichem Interesse. Erwägungsgrund 71 DSGVO: Klarstellung zum Anwendungsbereich.
-
-## Vorgehen
-
-1. **Entscheidungstypen identifizieren**: Welche Entscheidungen in der Kanzlei könnten vollständig oder teilweise durch KI-Systeme getroffen werden?
-2. **Automatisierungsgrad prüfen**: Eine Entscheidung ist nur dann nach Art. 22 DSGVO verboten, wenn sie ausschließlich automatisiert ergeht und eine erhebliche Wirkung hat. Menschliche Endkontrolle durchbricht den Tatbestand.
-3. **Ausnahmen prüfen**: Liegt eine der Ausnahmen des Art. 22 Abs. 2 DSGVO vor?
-4. **Menschliche Aufsicht sicherstellen**: Für jede relevante Entscheidung muss ein Mensch die finale Verantwortung übernehmen und die Möglichkeit haben, das KI-Ergebnis zu korrigieren.
-5. **Sensible Daten ausschließen**: Bei Entscheidungen, die auf besonderen Datenkategorien nach Art. 9 DSGVO beruhen, ist besondere Vorsicht geboten.
-6. **Betroffenenrechte kommunizieren**: Mandanten und Beschäftigte müssen über ihr Recht informiert werden, automatisierte Entscheidungen anzufechten.
-
-## Vorlagentext / Bausteine
-
-**Baustein Verbot automatisierter Letztentscheidung:**
-Kein KI-System trifft in der Kanzlei eine abschließende Entscheidung mit rechtlicher Wirkung oder erheblicher tatsächlicher Beeinträchtigung für eine natürliche Person. Alle von KI-Systemen erzeugten Empfehlungen, Einstufungen oder Bewertungen sind ausnahmslos von einer qualifizierten menschlichen Person zu überprüfen, zu bewerten und freizugeben. Dies gilt insbesondere für: Mandatszuordnungen, Honorarberechnungen, Bonitätsbewertungen von Mandanten sowie Personalentscheidungen.
-
-**Baustein Menschliche Überprüfung:**
-Mitarbeitende, die KI-generierte Ergebnisse für Entscheidungsprozesse nutzen, sind angewiesen, das KI-Ergebnis stets als Hilfsmittel — nicht als Entscheidung — zu behandeln. Die menschliche Überprüfung muss inhaltlich erfolgen; ein rein formales "Abnicken" des KI-Outputs ohne eigene Prüfung genügt nicht den Anforderungen des Art. 22 DSGVO.
-
-**Baustein Betroffenenrechte:**
-Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte beteiligt sind, informiert die Kanzlei betroffene Personen auf Anfrage über die Logik der Entscheidungsfindung sowie über das Recht, eine menschliche Überprüfung der Entscheidung zu verlangen (Art. 22 Abs. 3 DSGVO).
-
-## Hinweise zur Aktualisierung
-
-Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. automatische Mandatszuordnung, Dokumentenpriorisierung) steigt die Relevanz des Art. 22 DSGVO. Neue EuGH- oder BGH-Entscheidungen zur Auslegung von Art. 22 DSGVO sowie Leitlinien des Europäischen Datenschutzausschusses (EDSA) sind regelmäßig zu prüfen.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
-- Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
-- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Pruefung
-- Art. 13/14 DSGVO — Informationspflichten bei automatisierten Entscheidungen
-- § 26 BDSG — Beschaeftigtendatenschutz bei KI-Mitarbeiterbewertung
-
-## Triage zu Beginn
-1. Liegt eine vollautomatisierte Entscheidung mit Rechtswirkung oder erheblicher Beeintraechtigung vor?
-2. Ist eine Rechtsgrundlage nach Art. 22 Abs. 2 lit. a-c DSGVO gegeben?
-3. Ist ein menschlicher Ueberpruefer vorgesehen — oder stempelt er nur ab (Stempel-Risiko)?
-4. Werden Betroffene nach Art. 13/14 DSGVO ueber die automatisierte Entscheidung informiert?
-5. Ist ein Widerspruchsrecht und eine Korrekturmoeglichkeit nach Art. 22 Abs. 3 DSGVO implementiert?
-
-## Output-Template — Art. 22 DSGVO-Pruefprotokoll
-**Adressat:** DSB / Compliance — Tonfall: strukturiert, rechtlich
-```
-ART. 22 DSGVO-PRUEFPROTOKOLL
-[DATUM] — System: [SYSTEMNAME] — Anwendungsfall: [BESCHREIBUNG]
-
-Vollautomatisiert: [JA / NEIN]
-Rechtswirkung / erhebliche Beeintraechtigung: [JA / NEIN — BEGRUENDUNG]
-Art. 22 Abs. 1 DSGVO einschlaegig: [JA / NEIN]
-
-Falls einschlaegig — Rechtsgrundlage Art. 22 Abs. 2:
-☑/☐ lit. a — Vertragserfuellung
-☑/☐ lit. b — gesetzliche Pflicht
-☑/☐ lit. c — ausdrueckliche Einwilligung
-
-Human-in-the-Loop: [JA — wie: BESCHREIBUNG / NEIN / NOMINELL — Stempel-Risiko]
-Widerspruchsrecht implementiert: [JA / NEIN]
-Informationspflicht Art. 13/14 DSGVO erfuellt: [JA / NEIN]
-
-Ergebnis: [ZULASSIG / UNZULASSIG — MASSNAHME ERFORDERLICH]
-Massnahme: [BESCHREIBUNG bis DATUM]
-Geprueft von: [NAME], [DATUM]
-```
-
-## 3. `berufsrecht-bausteine`
-
-**Fokus:** Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt KI-Richtlinie und braucht praezise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung. § 43 BRAO Gewissenhaftigkeit, § 43a Abs. 2 BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, § 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025. Prüfraster Verschwiegenheitspflicht beim KI-Einsatz, Haftung für KI-Output OLG Koblenz, eigenverantwortliche Endkontrolle. Output Bausteine-Sammlung mit konkreten Formulierungen für Kanzlei-Richtlinie. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Musterklauseln-IT.
-
-# Berufsrecht-Bausteine
-
-Das anwaltliche Berufsrecht setzt dem Einsatz von KI-Systemen in Kanzleien spezifische Grenzen. Die Nutzung von Chatbots und KI-Plattformen ist nicht per se verboten, aber die berufsrechtlichen Kernpflichten — Gewissenhaftigkeit, Verschwiegenheit und eigenverantwortliche Endkontrolle — bleiben stets unberührt. Diese Bausteine helfen, die entsprechenden Anforderungen in eine Kanzleirichtlinie zu übersetzen.
-
-## Rechtlicher Hintergrund
-
-§ 43 Satz 1 BRAO: Gewissenhafte Berufsausübung — KI-Nutzung muss von anwaltlicher Eigenverantwortung begleitet sein. § 43a Abs. 2 BRAO: Verschwiegenheitspflicht als oberstes Gebot — kein unbefugtes Offenbaren von Mandatsgeheimnissen. § 43e BRAO: Regelung der IT-Dienstleister-Beauftragung — Befugnis-Norm, die § 203 StGB entschärft. § 203 Abs. 1 Nr. 3, Abs. 3, Abs. 4 StGB: Geheimnisverrat als Straftatbestand. § 2 Abs. 4 lit. c BORA: Sozialadäquanz der Zusammenarbeit mit Dienstleistern. § 31 BORA: Berufsrechtsbeauftragter in Berufsausübungsgemeinschaften. BRAK-Hinweise 12/2024 (Remmertz), DAV-Stellungnahme Nr. 32/2025.
-
-## Vorgehen
-
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Grundsatz der Eigenverantwortung verankern**: Kein KI-Output darf ungeprüft übernommen werden; § 43 BRAO verlangt anwaltliche Endkontrolle.
-2. **Verschwiegenheitspflicht operationalisieren**: Für jeden KI-Dienstleister einen § 43e-BRAO-Vertrag abschließen (vgl. Musterklauseln im Plugin `musterklauseln-it-vertrag`).
-3. **Prüfpflicht für Zitate festschreiben**: Jede von einem KI-System erzeugte Fundstelle ist auf Existenz und inhaltliche Richtigkeit zu überprüfen (BRAK 12/2024, S. 2; DAV 32/2025).
-1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-5. **Berufsrechtsbeauftragten einbinden**: Falls vorhanden, nach § 31 BORA bei Erstellung und Schulung einbeziehen.
-6. **Ausländische Dienstleister gesondert prüfen**: § 43e Abs. 4 BRAO erlaubt EU-Ausland und Drittstaaten, sofern vergleichbares Schutzniveau.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Berufsrechts-Check KI-Einsatz fuer Kanzlei erstellen | Baustein-Set nach Schema; Template unten |
-| Variante A — Kanzlei hat bereits BRAO-Richtlinie | Delta-Update statt Neuerstellung; bestehende Richtlinie ergaenzen |
-| Variante B — Internationales Buero mehrere Rechtsordnungen | Separate Bausteine pro Jurisdiction; gemeinsamer Rahmen |
-| Variante C — Mandant ist selbst Kanzlei Beratung nicht Kanzlei intern | Externe Beratungsperspektive; nicht interne Richtlinie |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-
-## Vorlagentext / Bausteine
-
-**Baustein Gewissenhaftigkeit:**
-Gemäß § 43 Satz 1 BRAO sind alle Rechtsanwältinnen und Rechtsanwälte zur gewissenhaften Berufsausübung verpflichtet. Der Einsatz von KI-Systemen darf die anwaltliche Tätigkeit lediglich unterstützen, aber niemals ersetzen. Jedes von einem KI-System generierte Ergebnis muss einer eigenverantwortlichen Überprüfung und Endkontrolle durch die zuständige Rechtsanwältin oder den zuständigen Rechtsanwalt unterzogen werden. Die KI entscheidet nie — es entscheidet immer der Mensch.
-
-**Baustein Verschwiegenheit:**
-Die Wahrung des Anwaltsgeheimnisses ist oberstes Gebot (§ 43a Abs. 2 BRAO, § 203 Abs. 1 Nr. 3 StGB). Die Zusammenarbeit mit KI-Dienstleistern als externe IT-Dienstleister ist nur unter den Voraussetzungen des § 43e BRAO zulässig. Mit jedem eingesetzten KI-Dienstleister ist eine schriftliche Vereinbarung nach § 43e BRAO abzuschließen, die den Dienstleister zur Verschwiegenheit verpflichtet und auf die strafrechtlichen Folgen eines Verstoßes nach § 203 StGB hinweist.
-
-**Baustein Prüfpflicht/Halluzinationen:**
-Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein "Grundvertrauen" wie bei erfahrenen Mitarbeitenden ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-
-## Hinweise zur Aktualisierung
-
-Die BRAK und der DAV aktualisieren ihre Hinweise und Stellungnahmen fortlaufend. Nach jeder Neuveröffentlichung sind die Bausteine zu überprüfen. Ebenso bei neuen OLG- oder BGH-Entscheidungen zur Haftung bei Verwendung von KI-Output in Schriftsätzen.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
-- § 43e BRAO — IT-Dienstleister und berufsrechtliche Absicherung
-- § 203 StGB — Berufsgeheimnis (Freiheitsstrafe bis 2 Jahre)
-- §§ 1 ff. BORA — Berufsordnung Rechtsanwaelte
-- Art. 28 DSGVO — AVV-Pflicht bei Auftragsverarbeitung
-
-## Triage zu Beginn
-1. Ist der KI-Anbieter ein IT-Dienstleister nach § 43e BRAO — liegt eine berufsrechtliche AVV-Vereinbarung vor?
-2. Werden Mandatsdaten in das KI-System eingegeben — ist Anonymisierung oder verschlüsselte Verarbeitung sichergestellt?
-3. Hat der KI-Anbieter seinen Sitz ausserhalb der EU — droht ein CLOUD Act-Zugriff?
-4. Werden KI-Ausgaben ohne menschliche Pruefung verwendet — Haftungsrisiko nach § 280 BGB?
-5. Ist die KI in der Lage, Mandate anderer Mandanten zu verwechseln — Interessenkonflikt-Risiko?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Output-Template — Berufsrechts-Check KI-Einsatz
-**Adressat:** Kanzlei-Management / Senior-Partner — Tonfall: strukturiert, berufsrechtlich
-```
-BERUFSRECHTS-CHECK KI-EINSATZ
-[DATUM] — Kanzlei: [NAME MANDANT] — System: [SYSTEMNAME]
-
-§ 43a Abs. 2 BRAO — Verschwiegenheit:
-☑/☐ KI-Anbieter durch § 43e BRAO-AVV gebunden
-☑/☐ Mandatsdaten anonymisiert vor Eingabe
-☑/☐ Kein Training auf Mandatsdaten
-
-§ 203 StGB — Berufsgeheimnis:
-☑/☐ Zugriff auf Mandatsdaten auf notwendiges Personal beschraenkt
-☑/☐ Verschlüsselte Verarbeitung oder On-Premise
-
-Haftungsrisiko § 280 BGB / § 43 BRAO:
-☑/☐ Vier-Augen-Pruefung aller KI-Ausgaben vor Verwendung
-☑/☐ Keine unkritische Uebernahme von Rechtsprechungs-Zitaten ohne Pruefung
-
-Ergebnis: [EINSATZ ZULAESSIG / MIT AUFLAGEN / UNZULAESSIG]
-Auflagen: [BESCHREIBUNG]
-Geprueft von: [NAME], [DATUM]
-```

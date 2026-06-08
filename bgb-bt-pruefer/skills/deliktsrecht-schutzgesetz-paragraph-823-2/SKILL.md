@@ -6,11 +6,9 @@ description: "Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eige
 # Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB
 
 ## Fachkern: Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB
-- **Spezialgegenstand:** Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -75,7 +73,6 @@ Haftung nach § 823 Abs. 2 BGB bei Verletzung eines Schutzgesetzes prüfen: Schu
 - deliktsrecht-paragraph-826-sittenwidrige-schaedigung
 - delikt-verkehrspflicht-digital
 - workflow-anspruchslandkarte
-
 
 ## Quellen
 

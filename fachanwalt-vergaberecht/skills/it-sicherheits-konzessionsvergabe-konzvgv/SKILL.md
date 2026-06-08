@@ -7,24 +7,24 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 
 ## Arbeitsbereich
 
-**IT Sicherheits Konzessionsvergabe Konzvgv** ordnet den Fall über die tragenden Prüffelder: IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**IT Sicherheits Konzessionsvergabe Konzvgv** ordnet den Fall über die tragenden Prüfungslinien: IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` | IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin. |
-| `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv` | Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal. |
-| `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung` | Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende fuer Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
+| `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv` | Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal. |
+| `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung` | Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
 | `fachanwalt-vergaberecht-nachpruefungsantrag-vk` | Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Prüfraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachprüfungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`
 
@@ -46,7 +46,7 @@ Spezial-Mandat: Öffentlicher Auftraggeber (KRITIS oder NIS2-Einrichtung) vergib
 6. Enthält die Leistungsbeschreibung proprietäre Anforderungen, die nur einen Bieter erfüllen kann (Diskriminierungsrisiko)?
 7. Werden Sub-Prozessoren eingesetzt? Liegen Datenverarbeitungsverträge nach Art. 28 DSGVO vor?
 8. Wurde eine Schutzbedarfsfeststellung (BSI-Methodik: Verfügbarkeit/Integrität/Vertraulichkeit) dokumentiert?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -126,7 +126,7 @@ Der Bieter erklaert:
  Nummer [...], gueltg bis [...], Zertifizierungsstelle [...].
  Zertifikat liegt als Anlage [X] bei.
 
-2. Er haelt eine ISO/IEC 27001:2022-Zertifizierung fuer den in
+2. Er haelt eine ISO/IEC 27001:2022-Zertifizierung für den in
  diesem Angebot bezeichneten Leistungsbereich; Zertifikat
  liegt als Anlage [X] bei.
 
@@ -147,7 +147,7 @@ Der Bieter erklaert:
 ```
 § X — IT-Sicherheits-Pflichten
 
-(1) Der Auftragnehmer ist verpflichtet, fuer die Dauer dieses
+(1) Der Auftragnehmer ist verpflichtet, für die Dauer dieses
 Vertrags ein nach BSI IT-Grundschutz und ISO 27001:2022
 zertifiziertes ISMS aufrechtzuerhalten. Aktualisierte Zertifikate
 sind dem Auftraggeber unverzueglich, spatestens aber 14 Tage
@@ -169,7 +169,7 @@ Pflicht.
 
 (4) Sub-Prozessoren im Sinne des Art. 28 Abs. 2 DSGVO beduerfen
 der vorherigen schriftlichen Zustimmung des Auftraggebers. Der
-Auftragnehmer haftet fuer Sub-Prozessoren wie fuer eigenes
+Auftragnehmer haftet für Sub-Prozessoren wie für eigenes
 Verschulden.
 
 (5) Daten werden ausschliesslich in Rechenzentren innerhalb der EU
@@ -201,14 +201,14 @@ Hiermit ruegeon wir unverzueglich folgende Vergabeverstoeße:
 
  Die Vergabeunterlage (Punkt [X]) fordert ein BSI C5-Typ-2-
  Testat mit Berichtszeitraum von mindestens 12 Monaten. Diese
- Anforderung ist fuer den Auftragsgegenstand ([kurze Beschreibung])
+ Anforderung ist für den Auftragsgegenstand ([kurze Beschreibung])
  unverhaaltnismaessig, weil:
 
  - Der Auftraggeber ist kein KRITIS-Betreiber gemaess § 2 BSIG
  in Sektor [...] oder die Anforderung uebersteigt den tat-
  saechlichen Schutzbedarf (Anlage: Schutzbedarfsfeststellung
  nicht oeffentlich zugaenglich).
- - ISO 27001:2022 Typ 1 genuegt fuer den konkreten Leistungsumfang
+ - ISO 27001:2022 Typ 1 genuegt für den konkreten Leistungsumfang
  (vgl. VK Bund VK 2-71/23).
  - Das Erfordernis schliesst faktisch alle Bieter bis auf [X]
  grosse Cloud-Anbieter aus — diskriminierende Wirkung.
@@ -321,7 +321,6 @@ Vergabe: [BEZEICHNUNG]
 Halluzinations-Reparatur Bundle 026:
 -->
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -334,12 +333,12 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 2. `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv`
 
-**Fokus:** Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
+**Fokus:** Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
 
 # Konzessionsvergabe (KonzVgV)
 
 ## Aufgabe
-Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegriffene Konzessionsvergabe verteidigen. Abgrenzungs-Kernfrage: Konzession (Betriebsrisiko beim Konzessionaer) vs. oeffentlicher Auftrag (Festentgelt).
+Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegriffene Konzessionsvergabe verteidigen. Abgrenzungs-Kernfrage: Konzession (Betriebsrisiko beim Konzessionaer) vs. öffentlicher Auftrag (Festentgelt).
 
 ## Einstieg
 1. Konzessionsgegenstand: Bau (Errichtung + Betrieb) oder Dienstleistung (Betrieb mit Entgelt von Dritten)?
@@ -379,7 +378,7 @@ Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegri
 | Aenderung Gesetze | [...] | [...] | meist Konzessionsgeber |
 
 ## Typische Fehler
-- Konzessionsmodell ohne ausreichendes Betriebsrisiko -> es bleibt oeffentlicher Auftrag, Anwendung VgV statt KonzVgV.
+- Konzessionsmodell ohne ausreichendes Betriebsrisiko -> es bleibt öffentlicher Auftrag, Anwendung VgV statt KonzVgV.
 - Laufzeit ueber 5 Jahre ohne Amortisationsbegruendung.
 - Wesentliche Vertragsaenderung waehrend Laufzeit ohne neue Vergabe.
 - Konzession unter EU-Schwelle vergeben ohne Primaerrechtsschutz-Pruefung.
@@ -391,7 +390,6 @@ Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegri
 
 ## Quellenregel
 EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -405,7 +403,7 @@ EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren
 
 ## 3. `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung`
 
-**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende fuer Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 # Losbildung und Mittelstandsfoerderung
 
@@ -416,7 +414,7 @@ Losbildung im Vergabeverfahren strukturieren oder eine fehlerhafte Gesamtvergabe
 1. Auftraggeber- oder Bieter-Mandat?
 2. Auftragsumfang: einheitliche Leistung oder klar trennbare Teilleistungen?
 3. Bekanntmachung schon erfolgt? Losbildung dort schon dokumentiert?
-4. Wirtschaftliche oder technische Gruende fuer Gesamtvergabe vorliegend?
+4. Wirtschaftliche oder technische Gruende für Gesamtvergabe vorliegend?
 5. Fachlose nach Gewerken (Bau, IT, Beratung) sinnvoll?
 
 ## Pruefraster Losbildung
@@ -427,7 +425,7 @@ Mittelstaendische Interessen sind durch Teilung in Fach- und Teillose zu berueck
 Trennung nach Gewerken (Rohbau, Tiefbau, Elektro, IT-Beschaffung vs. IT-Dienstleistung).
 
 ### Teillose
-Mengenmaessige Teilung (z. B. Buerobedarf nach Regionen, Standorten).
+Mengenmäßige Teilung (z. B. Buerobedarf nach Regionen, Standorten).
 
 ### Begruendung Gesamtvergabe
 Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begruendung im Vergabevermerk:
@@ -440,12 +438,12 @@ Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begr
 - Bietergemeinschaften: kartellrechtlich grundsaetzlich zulaessig (BGH KZR 25/14), wenn Bieter einzeln nicht oder schwerer leistungsfaehig.
 - Subunternehmer: Auftraggeber kann Eignung der Subunternehmer pruefen (§ 36 VgV).
 
-## Ruegestrategie fuer Mittelstandsbieter
+## Ruegestrategie für Mittelstandsbieter
 - Ruege § 160 Abs. 3 GWB innerhalb 10 Tagen ab Kenntnis.
 - Argumentation: Gesamtvergabe ohne tragfaehige Begruendung diskriminiert Mittelstand.
 - Beweislast: Bieter zeigt fehlerhafte Begruendung; Auftraggeber muss Gesamtvergabe rechtfertigen.
 
-## Vergabevermerk-Bausteine fuer Auftraggeber
+## Vergabevermerk-Bausteine für Auftraggeber
 1. Identifizierte Fach- und Teillose (Tabelle).
 2. Pruefung wirtschaftlicher und technischer Gruende.
 3. Gegenueberstellung Kosten Losvergabe vs. Gesamtvergabe.
@@ -455,7 +453,7 @@ Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begr
 - Gesamtvergabe ohne dokumentierte Pruefung.
 - Wirtschaftliche Gruende werden nur pauschal genannt.
 - Fachlose ohne Beruecksichtigung von Schnittstellenpflichten beim Auftraggeber.
-- Eignungsanforderungen pro Los sind nicht losbezogen, sondern fuer Gesamtleistung formuliert.
+- Eignungsanforderungen pro Los sind nicht losbezogen, sondern für Gesamtleistung formuliert.
 
 ## Output
 - Losbildungs-Pruefvermerk (Auftraggeber).
@@ -464,7 +462,6 @@ Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begr
 
 ## Quellenregel
 OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber dejure.org verifizieren.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -492,7 +489,7 @@ OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber 
 6. Hat der Auftraggeber auf die Rüge reagiert oder nicht? Datum der Reaktion — 15-Tage-Frist § 160 Abs. 3 Nr. 4 GWB läuft ab Rügenablehnungsschreiben.
 7. Ist der Mandant noch im Verfahren oder bereits ausgeschlossen? Drohender Schaden substantiierbar?
 8. Soll Akteneinsicht nach § 165 GWB beantragt werden, um den Vorwurf zu substanziieren?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -515,8 +512,8 @@ OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
-| EuGH | C-292/15 (Hoersch Auto) | 27.10.2016 | Vergabe oeffentlicher Liefer-/Dienstleistungen unterhalb der Schwellenwerte: Transparenz- und Diskriminierungsverbot bei „grenzueberschreitendem Interesse" | curia.europa.eu (Akte C-292/15) |
-| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Auslegung VO 2014/24/EU: Ausschluss wegen Falschangaben — Verhaeltnismaessigkeit; nationale Behoerde muss konkrete Wuerdigung vornehmen | curia.europa.eu |
+| EuGH | C-292/15 (Hoersch Auto) | 27.10.2016 | Vergabe öffentlicher Liefer-/Dienstleistungen unterhalb der Schwellenwerte: Transparenz- und Diskriminierungsverbot bei „grenzueberschreitendem Interesse" | curia.europa.eu (Akte C-292/15) |
+| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Auslegung VO 2014/24/EU: Ausschluss wegen Falschangaben — Verhaeltnismaessigkeit; nationale Behörde muss konkrete Wuerdigung vornehmen | curia.europa.eu |
 | EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstossen § 124 GWB / Art. 57 RL 2014/24: ein einzelner Verstoss reicht; Beurteilung obliegt AG | curia.europa.eu |
 | OLG Duesseldorf, Vergabesenat | Verg laufende Senatsentscheidungen — vor Ausgabe verifizieren | 2023–2025 | Ruegeprueclusion § 160 Abs. 3 GWB; konkrete Anforderungen an Rueginhalt | olg-duesseldorf.nrw.de |
 | OLG Karlsruhe | 15 Verg (laufende Senatsrspr.) | 2023–2025 | Antragsbefugnis und drohender Schaden bei ausgeschlossenem Bieter | landesrecht-bw.de / openjur.de |
@@ -550,12 +547,11 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Nachpruefungsantrag Vergabekammer stellen | NPA; Template unten |
-| Variante A — Sofortiger Zuschlag befuerchtet | Stillhalteantrag § 169 GWB gleichzeitig |
+| Variante A — Sofortiger Zuschlag befürchtet | Stillhalteantrag § 169 GWB gleichzeitig |
 | Variante B — Ruege nicht moeglich (Frist verstrichen) | Praeklusion pruefen; OLG-Beschwerdeweg |
-| Variante C — Unterhalb-Schwellenwert-Verfahren | Primaerrechtsschutz; Vergabekammer nicht zustaendig |
+| Variante C — Unterhalb-Schwellenwert-Verfahren | Primaerrechtsschutz; Vergabekammer nicht zuständig |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -749,11 +745,11 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 - VgV — Vergabeverordnung in der jeweils geltenden Fassung
 - SektVO — Sektorenverordnung
 - KonzVgV — Konzessionsvergabeverordnung
-- VO (EU) 2014/24 (Vergabe oeffentlicher Auftraege)
+- VO (EU) 2014/24 (Vergabe öffentlicher Auftraege)
 - VO (EU) 2022/1031 (International Procurement Instrument — IPI) — seit 29.08.2022 anwendbar; eu-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R1031
 - VO (EU) 2023/1441 — Aktualisierung Schwellenwerte
 - EuGH-Datenbank: curia.europa.eu (Volltext mit Aktenzeichen)
-- OLG-Vergabesenate: oeffentliche Entscheidungsdatenbanken der Landesjustiz (olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de etc.)
+- OLG-Vergabesenate: öffentliche Entscheidungsdatenbanken der Landesjustiz (olg-duesseldorf.nrw.de, openjur.de, landesrecht-bw.de etc.)
 - BKartA — Vergabekammer des Bundes: bundeskartellamt.de/Vergabe
 
 ## Vertiefung: Triage und Output-Template Nachpruefungsantrag
@@ -764,7 +760,7 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 2. 15-Tage-Antragsfrist noch offen (§ 160 Abs. 3 Nr. 4 GWB)?
 3. Antragsbefugnis: Bieter hat am Verfahren teilgenommen oder haette teilnehmen koennen?
 4. Wird Vorabentscheidung § 169 GWB beantragt (Zuschlagssperre)?
-5. Zustaendige Vergabekammer (Bund: BKartA; Laender: Landesvergabekammer)?
+5. Zustaendige Vergabekammer (Bund: BKartA; Länder: Landesvergabekammer)?
 
 ### Output-Template Nachpruefungsantrag
 **Adressat:** Vergabekammer [NAME] — Tonfall: sachlich-juristisch
@@ -805,7 +801,6 @@ als Anlage K2. Frist § 160 Abs. 3 Nr. 4 GWB gewahrt.
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
 ```
-
 
 ## Vergabe-Workbench-Boost v61.2
 

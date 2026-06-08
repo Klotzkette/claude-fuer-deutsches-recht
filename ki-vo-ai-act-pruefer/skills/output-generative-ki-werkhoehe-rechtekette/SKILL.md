@@ -1,6 +1,6 @@
 ---
 name: output-generative-ki-werkhoehe-rechtekette
-description: "Output generativer KI: Werkhoehe, menschlicher Schoepfungsbeitrag, Bearbeitung, Rechtekette, Haftung, Lizenzierung, Kennzeichnung und Nutzungsfreigabe fuer Text, Bild, Musik, Code, Vertriebsunterlagen und Kanzleiprodukte."
+description: "Output generativer KI: Werkhoehe, menschlicher Schoepfungsbeitrag, Bearbeitung, Rechtekette, Haftung, Lizenzierung, Kennzeichnung und Nutzungsfreigabe für Text, Bild, Musik, Code, Vertriebsunterlagen und Kanzleiprodukte."
 ---
 
 # Generativer Output: Werkhöhe und Rechtekette

@@ -31,7 +31,7 @@ Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das 
 - **§ 296 ZPO** — Praeklusion.
 - **§ 330 ZPO** — Versaeumnisurteil.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klage in Empfang nehmen
 
@@ -57,8 +57,8 @@ Lesen Sie die Verfuegung genau!
 
 § 276 I ZPO setzt zwei Fristen:
 
-- **2 Wochen Notfrist** fuer **Verteidigungsanzeige** — kurze Erklaerung, dass Sie verteidigen wollen.
-- **Mindestens 2 weitere Wochen** fuer die **Klageerwiderung** — eigene Stellungnahme inhaltlich.
+- **2 Wochen Notfrist** für **Verteidigungsanzeige** — kurze Erklaerung, dass Sie verteidigen wollen.
+- **Mindestens 2 weitere Wochen** für die **Klageerwiderung** — eigene Stellungnahme inhaltlich.
 
 Beispiel: Zustellung am 5.5.2026, Verteidigungsanzeige bis 19.5.2026, Klageerwiderung dann bis 2.6.2026 (oder so, wie vom Gericht gesetzt).
 
@@ -125,7 +125,7 @@ Wenn Sie:
 ## Typische Fehler
 
 - "Ich warte, ob die nochmal schreiben." → Tempelt Versaeumnisurteil.
-- "Verteidigungsanzeige reicht." → Reicht **nur fuer den Moment** — Klageerwiderung muss folgen.
+- "Verteidigungsanzeige reicht." → Reicht **nur für den Moment** — Klageerwiderung muss folgen.
 - "Ich rufe Gericht an und sage das telefonisch." → Telefon ist kein Schriftsatz.
 
 ## Querverweise
@@ -140,7 +140,6 @@ Wenn Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 274 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

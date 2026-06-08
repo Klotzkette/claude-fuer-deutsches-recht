@@ -6,15 +6,12 @@ description: "Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill f
 # Häusliche Gewalt: Opferschutz, Aussage und Beweis
 
 ## Fachkern: Häusliche Gewalt: Opferschutz, Aussage und Beweis
-- **Spezialgegenstand:** Häusliche Gewalt: Opferschutz, Aussage und Beweis wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Häusliche Gewalt: Opferschutz, Aussage und Beweis** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** §§ 223, 230 StGB, GewSchG, Aussagekonstanz, Schutzbedarf und Einstellungsspielräume
 
@@ -40,6 +37,20 @@ Dieser Abschnitt bearbeitet **Fachkern: Häusliche Gewalt: Opferschutz, Aussage 
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 223, 224 StGB (Körperverletzung)
+- § 238 StGB (Nachstellung)
+- § 4 GewSchG
+- § 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
+- § 247 StPO
+- §§ 406d-406l StPO (Verletztenrechte)
+- §§ 397 ff. StPO (Nebenklage)
+- § 68b StPO (Zeugenbeistand)
+- RL 2012/29/EU (Opferschutzrichtlinie)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

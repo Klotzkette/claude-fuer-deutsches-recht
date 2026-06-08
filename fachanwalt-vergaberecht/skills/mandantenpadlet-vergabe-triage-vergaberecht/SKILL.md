@@ -7,10 +7,10 @@ description: "Mandantenpadlet Vergabe Triage Vergaberecht im Plugin Fachanwalt V
 
 ## Arbeitsbereich
 
-**Mandantenpadlet Vergabe Triage Vergaberecht** ordnet den Fall über die tragenden Prüffelder: Interaktives Vergabe-Padlet als Canvas erstellen, Eingangs-Triage für vergaberechtliche Mandate, Nachhaltigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Mandantenpadlet Vergabe Triage Vergaberecht** ordnet den Fall über die tragenden Prüfungslinien: Interaktives Vergabe-Padlet als Canvas erstellen, Eingangs-Triage für vergaberechtliche Mandate, Nachhaltigkeit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `mandantenpadlet-vergabe-canvas` | Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen. |
 | `mandat-triage-vergaberecht` | Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen. |
@@ -19,12 +19,12 @@ description: "Mandantenpadlet Vergabe Triage Vergaberecht im Plugin Fachanwalt V
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `mandantenpadlet-vergabe-canvas`
 
@@ -34,7 +34,7 @@ description: "Mandantenpadlet Vergabe Triage Vergaberecht im Plugin Fachanwalt V
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll unordentliche Vergabemandate visuell und kollaborativ steuerbar machen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll unordentliche Vergabemandate visuell und kollaborativ steuerbar machen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -55,7 +55,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -73,12 +73,11 @@ Padlet-Board in Markdown, Aufgabenliste, Ampeln, Tabellen, naechste Entscheidung
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -159,7 +158,7 @@ Vergaberecht ist hochgradig fristen-kritisch — die Stillhaltefrist § 134 GWB 
 - Gewinn-Erwartung Mandant
 - Kostenrisiko bei Verfahren
 - Versicherungs-Deckung
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -203,12 +202,11 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Vergaberecht Mandat triage und routen | Triage-Protokoll; Template unten |
-| Variante A — Unterhalb EU-Schwellenwert | Nationales Haushalts-/Vergaberecht; keine VK-Zustaendigkeit |
+| Variante A — Unterhalb EU-Schwellenwert | Nationales Haushalts-/Vergaberecht; keine VK-Zuständigkeit |
 | Variante B — Verteidigung Auftraggeber | Andere Beratungsrichtung; VK-Verteidigung |
 | Variante C — Eilsituation Stillhaltefrist | Frist-Prioritaet; Ruege und NPA sofort |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Ausgabe
 
@@ -263,7 +261,6 @@ Naechster Schritt: [Ruege / NPA / §181-Klage]
 =========================================
 ```
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -282,7 +279,7 @@ Naechster Schritt: [Ruege / NPA / §181-Klage]
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll strategische Beschaffung rechtssicher und nachweisbar umsetzen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll strategische Beschaffung rechtssicher und nachweisbar umsetzen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -303,7 +300,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -321,12 +318,11 @@ Kriterienmatrix, Nachweislogik, Verhaeltnismaessigkeitscheck, Textbausteine.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -346,7 +342,7 @@ Kriterienmatrix, Nachweislogik, Verhaeltnismaessigkeitscheck, Textbausteine.
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll aus Akte und Ruge schnell einen tragfaehigen VK-Antrag machen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll aus Akte und Ruge schnell einen tragfaehigen VK-Antrag machen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -367,7 +363,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -385,12 +381,11 @@ Antrag, Sachverhalt, Zulassungsteil, Begruendung, Anlagenliste.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 

@@ -1,50 +1,36 @@
 ---
 name: turbo-zeitnarrative
-description: "Turbo Zeitnarrative im Plugin Kanzlei Allgemein: prüft konkret Erstellt schnell Klage Replik Antrag Klageerwiderung oder, Zeiterfassung mit abrechenbaren Narrativen für. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Turbo Zeitnarrative
+# Schriftsatz-Turbo: Klage, Replik, Antrag
 
 ## Arbeitsbereich
 
-**Turbo Zeitnarrative** ordnet den Fall über die tragenden Prüffelder: Erstellt schnell Klage Replik Antrag Klageerwiderung oder, Zeiterfassung mit abrechenbaren Narrativen für. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `kanzlei-allgemein-schriftsatz-turbo` | Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening. |
-| `kanzlei-allgemein-zeitnarrative` | Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung. |
+Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kanzlei Allgemein klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `kanzlei-allgemein-schriftsatz-turbo`
-
-**Fokus:** Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening.
-
-# Schriftsatz-Turbo: Klage, Replik, Antrag
-
 
 ## Triage zu Beginn
 1. Welcher Schriftsatztyp wird benoetigt: Klage, Replik, Klageerwiderung, Antrag auf einstweiligen Rechtsschutz?
-2. Welches Gericht ist zustaendig (oertlich, sachlich, instanziell) und welche Verfahrensordnung gilt?
+2. Welches Gericht ist zuständig (oertlich, sachlich, instanziell) und welche Verfahrensordnung gilt?
 3. Welche Frist laeuft und wann ist spaetester Einreichungstermin?
 4. Sind alle Beweisangebote und Anlagen vorhanden und vorbereitet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 253 ZPO — Klageschrift: Formerfordernis und Antragspflicht
-- § 12 GVG — Sachliche Zustaendigkeit des AG (bis 10.000 EUR ab 01.01.2026 — Grenze angehoben)
-- § 13 GVG — Sachliche Zustaendigkeit des LG (ab 10.000 EUR ab 01.01.2026)
+- § 12 GVG — Sachliche Zuständigkeit des AG (bis 10.000 EUR ab 01.01.2026 — Grenze angehoben)
+- § 13 GVG — Sachliche Zuständigkeit des LG (ab 10.000 EUR ab 01.01.2026)
 - §§ 935-945 ZPO — Einstweiliger Rechtsschutz: Verfuegungsgrund und Verfuegungsanspruch
 
 ## Quellenregel
@@ -176,7 +162,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Ausgabe
 
 - `assets/templates/schriftsatz-turbo-geruest.md`.
@@ -190,108 +175,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## 2. `kanzlei-allgemein-zeitnarrative`
-
-**Fokus:** Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung.
-
-# Zeitnarrative und Timesheet
-
-
-## Triage zu Beginn
-1. Fuer welche Akte und welchen Bearbeiter soll der Zeiteintrag erfasst werden?
-2. Ist die Taetigkeit nach RVG oder nach Stundensatz abrechenbar — oder intern (nicht abrechenbar)?
-3. Gibt es eine genaue Zeitangabe oder soll die Dauer aus dem Workflow-Verlauf geschaetzt werden?
-4. Soll der Eintrag sofort in die Rechnung oder erst in das interne Timesheet?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 10 RVG — Pflichtangaben auf der Rechnung: Taetigkeitsnachweis als Faelligkeitsvoraussetzung
-- § 3a RVG — Honorarvereinbarung: Stundensatz-Abrechnung und Dokumentationspflicht
-- § 147 AO — Aufbewahrungspflicht: Zeiterfassungsbelege 10 Jahre
-- § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als Teil der betrieblichen Aufzeichnungen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill macht aus Arbeitsschritten abrechenbare oder interne Zeitnarrative. Er fragt nach, welcher Akte die Tätigkeit zugeordnet werden soll, und erzeugt klare Zeiteinträge, die später in Rechnung, E-Rechnung, Prüfprotokoll oder interne Controlling-Auswertung übernommen werden können.
-
-## Standardfrage
-
-> Soll ich für die letzte Stunde einen Zeiteintrag vorbereiten? Ich habe folgende mögliche Tätigkeiten erkannt: ... Welcher Akte soll ich das zuordnen?
-
-## Ablauf
-
-1. Beobachtete oder geschilderte Tätigkeit zusammenfassen.
-2. Aktenzuordnung vorschlagen und Unsicherheit markieren.
-3. Bearbeiter, Rolle und Verantwortlichen erfassen.
-4. Start, Ende, Dauer, Mindesttakt und Rundung erfragen oder vorschlagen.
-5. Tätigkeit klassifizieren: Intake, Aktenprüfung, Frist, Recherche, Schriftsatz, Telefonat, Mandantenkontakt, Gegnerkontakt, Gerichtskontakt, beA, Rechnung, intern.
-6. Abrechenbarkeit markieren: abrechenbar, nicht abrechenbar, pro bono, intern, Pauschale enthalten, RVG-Nachweis.
-7. Honorargrundlage: RVG, Stundenhonorar, Pauschale, Vorschuss, Rechtsschutz, Kulanz.
-8. Rechnungsfähigkeit prüfen: mandantenfähig, verständlich, quellenbasiert, ohne unnötige Geheimnisse.
-9. Narrative formulieren: knapp, mandatsbezogen, prüfbar.
-10. Freigabe abfragen.
-11. Übergabe an `kanzlei-allgemein-rechnung` vormerken, wenn abrechnungsreif.
-
-## Narrative-Stil
-
-Gut:
-
-- "Prüfung beA-Eingang und Fristnotierung; Entwurf Rückfrage an Mandant."
-- "Analyse Klageerwiderung und Strukturierung der Gegenargumente."
-- "Telefonat mit Mandant zur Sachverhaltsergänzung und Abstimmung der nächsten Schritte."
-- "Entwurf und Überarbeitung Schriftsatzantwort einschließlich Anlagenabgleich."
-
-Nicht gut:
-
-- interne Gedankengänge,
-- überflüssige Geheimnisse,
-- unsichere Spekulationen,
-- personenbezogene Details ohne Abrechnungsnutzen.
-
-## Granularität
-
-Für Rechnungen lieber mehrere saubere Einträge als einen Sammelblock erzeugen:
-
-- beA-Eingang prüfen.
-- Frist und Vorfrist notieren.
-- Anlagen sichten.
-- Rechtsfrage prüfen.
-- Mandantenrückfrage entwerfen.
-- Schriftsatz entwerfen.
-- Schriftsatz finalisieren.
-- Versand vorbereiten.
-
-Nicht künstlich zersplittern, wenn ein zusammenhängender Arbeitsblock fachlich besser passt. Ziel ist prüfbare, verständliche Abrechnung.
-
-## Datenschutzreduktion
-
-Narrative sollen genug Inhalt für Rechnung und Prüfung enthalten, aber keine unnötigen Mandatsgeheimnisse offenlegen. Namen Dritter, Gesundheitsdaten, Bankdaten, Kinder, Strafvorwürfe und interne Prozessstrategie nur aufnehmen, wenn sie für die Abrechnung wirklich erforderlich sind.
-
-## Rechnungsschnittstelle
-
-Jeder freigegebene abrechenbare Eintrag bekommt:
-
-- Rechnungsstatus: offen, gesperrt, abgerechnet, nicht abrechenbar.
-- Rechnungsposition oder RVG-Nachweis.
-- Leistungszeitraum.
-- Bearbeiter.
-- Nettofähige Beschreibung.
-- Hinweis, ob die Narrative in eine Anlage zur E-Rechnung übernommen werden darf.
-
-## Ausgabe
-
-`assets/templates/zeit-narrative-ledger.md` verwenden.
-
-## Automationshinweis
-
-Wenn Automationen verfügbar sind, nach Zustimmung stündliche Erinnerung vorschlagen. Keine stille Dauerüberwachung.

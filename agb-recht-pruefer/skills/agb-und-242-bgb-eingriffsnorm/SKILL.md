@@ -1,13 +1,13 @@
 ---
 name: agb-und-242-bgb-eingriffsnorm
-description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeutung der EuGH-Rechtsprechung zur Eingriffsnorm-Definition (Unamar Rs. C-184/12) und praktische Konsequenz fuer internationale Kanzleimandate."
+description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeutung der EuGH-Rechtsprechung zur Eingriffsnorm-Definition (Unamar Rs. C-184/12) und praktische Konsequenz für internationale Kanzleimandate."
 ---
 
 # Agb Und 242 Bgb Eingriffsnorm
 
 ## Aufgabe
 
-Skill fuer Mandate mit internationalem Bezug, in denen die Frage gestellt wird, ob § 242 BGB als Eingriffsnorm (Art. 9 Rom-I-VO) das gesamte deutsche AGB-Recht international durchsetzt.
+Skill für Mandate mit internationalem Bezug, in denen die Frage gestellt wird, ob § 242 BGB als Eingriffsnorm (Art. 9 Rom-I-VO) das gesamte deutsche AGB-Recht international durchsetzt.
 
 ## Argumentation pro Eingriffsnormcharakter
 
@@ -18,7 +18,7 @@ Skill fuer Mandate mit internationalem Bezug, in denen die Frage gestellt wird, 
 
 ## Argumentation contra (herrschende Meinung)
 
-- **EuGH "Unamar" (Rs. C-184/12, 17.10.2013)**: Eingriffsnormen werden eng definiert — sie muessen "fuer die Wahrung der politischen, sozialen oder wirtschaftlichen Organisation eines Mitgliedstaats als so entscheidend angesehen werden, dass ihre Befolgung [...] vorzunehmen ist".
+- **EuGH "Unamar" (Rs. C-184/12, 17.10.2013)**: Eingriffsnormen werden eng definiert — sie muessen "für die Wahrung der politischen, sozialen oder wirtschaftlichen Organisation eines Mitgliedstaats als so entscheidend angesehen werden, dass ihre Befolgung [...] vorzunehmen ist".
 - § 242 BGB ist eine Auslegungs- und Konkretisierungsregel, kein international zwingender Anwendungsbefehl.
 - Art. 6 Rom-I-VO regelt den Verbraucherschutz autonom und abschliessend; die Spezialnorm verdraengt einen Rueckgriff auf Art. 9.
 - BGH IX ZR 119/14 (Az im Digitalisat verifizieren): keine Erstreckung des AGB-Rechts via § 242 BGB auf fremdrechtliche Vertraege.

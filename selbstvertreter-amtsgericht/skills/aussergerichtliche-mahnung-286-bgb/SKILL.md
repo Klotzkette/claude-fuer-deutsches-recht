@@ -20,7 +20,7 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 - **Mahnung**: Eindeutige Aufforderung zur Leistung mit Fristsetzung.
 - **Verzug**: Verzoegerte Leistung trotz Faelligkeit und Mahnung (oder Entbehrlichkeit, § 286 II BGB).
 - **Verzugszinsen**: Zinsen, die der Schuldner ab Verzug schuldet.
-- **Mahngebuehr**: Kostenpauschale fuer Mahnungen (umstrittene Hoehe; vertraglich evtl. wirksam).
+- **Mahngebuehr**: Kostenpauschale für Mahnungen (umstrittene Hoehe; vertraglich evtl. wirksam).
 
 ## Rechtsgrundlagen
 
@@ -31,7 +31,7 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 - **§ 288 V BGB** — Pauschale 40 EUR im Geschaeftsverkehr.
 - **§ 280 II BGB** — Schadensersatz wegen Verzug.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Mahnung entbehrlich
 
@@ -60,7 +60,7 @@ Betreff: Mahnung zur Zahlung von [Betrag] EUR aus [Rechnung/Vertrag] vom [Datum]
 Sehr geehrte/r [Name],
 
 mit Rechnung Nr. [X] vom [Datum] habe ich von Ihnen
-[Betrag] EUR fuer [Leistung] in Rechnung gestellt.
+[Betrag] EUR für [Leistung] in Rechnung gestellt.
 Die Zahlung war faellig am [Datum]. Bis heute, [Datum],
 ist die Zahlung nicht bei mir eingegangen.
 
@@ -80,7 +80,7 @@ Mit freundlichen Gruessen
 
 ### Schritt 3 — Wie senden?
 
-- **Einschreiben mit Rueckschein**: Beweis fuer Zugang.
+- **Einschreiben mit Rueckschein**: Beweis für Zugang.
 - **Einschreiben Einwurf**: Etwas guenstiger.
 - **Brief mit Postzustellungsurkunde** (selten privat).
 - **Email**: rechtlich moeglich, aber Zugangs-Beweis schwieriger. Speichern Sie versendete Email und ggf. Lesebestaetigung.
@@ -94,7 +94,7 @@ Geben Sie eine angemessene Frist (7-14 Tage). Zu kurz koennte unbillig sein, zu 
 
 ### Schritt 5 — Zweit-Mahnung? Dritt-Mahnung?
 
-Rechtlich reicht **eine** Mahnung fuer den Verzug. Mehrere Mahnungen sind eher psychologisch (Geschaeftsgefuehl). Mahngebuehr darf nicht ueberhoeht sein (in Verbraucherbeziehung umstritten — pauschal 2,50 EUR sind als marktueblich akzeptiert).
+Rechtlich reicht **eine** Mahnung für den Verzug. Mehrere Mahnungen sind eher psychologisch (Geschaeftsgefuehl). Mahngebuehr darf nicht ueberhoeht sein (in Verbraucherbeziehung umstritten — pauschal 2,50 EUR sind als marktueblich akzeptiert).
 
 ### Schritt 6 — Verzugszinsen ab wann?
 
@@ -128,7 +128,7 @@ Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 
 ## Querverweise
 
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
 - `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als naechste Stufe.
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Erfolg pruefen.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.

@@ -19,7 +19,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 ## Rechtlicher Rahmen
 
 - Art. 28 DSGVO – auch im Konzern keine Privilegierung; jede juristische Person ist eigenstaendige Verantwortliche.
-- Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch fuer interne Verwaltungszwecke.
+- Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch für interne Verwaltungszwecke.
 - Erwaegungsgrund 36 DSGVO – Niederlassung und Verantwortlichkeit im Konzern.
 - Art. 26 DSGVO – Joint Controller, falls gemeinsame Zweckentscheidung.
 - Art. 47 DSGVO – Verbindliche interne Datenschutzvorschriften (BCR).
@@ -30,7 +30,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 1. **Konzernstruktur erfassen.**
  - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
  - Wer ist Vertragspartner des Dienstleisters?
- - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
+ - Wer ist tatsaechlicher Verantwortlicher für die Daten?
 
 2. **Vertragsstrukturen vergleichen.**
 
@@ -39,7 +39,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
  | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
  | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
- | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
+ | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter für Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
 3. **Rollenmix klaeren.**
  - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
@@ -47,8 +47,8 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
 
 4. **Drittlandbezug pruefen.**
- - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
- - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
+ - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 für jede Konzerngesellschaft im Drittland.
+ - DPF nur für US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
 5. **Beitrittsmechanik (Docking Clause).**
  - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
@@ -65,15 +65,15 @@ Konzern-AVV-Klauseln (Auszug):
 >
 > § 1 Verarbeitungstaetigkeiten
 >
-> Die Verarbeitung erfolgt fuer jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
+> Die Verarbeitung erfolgt für jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
 >
 > § 2 Weisungsrechte und Weisungsregister
 >
-> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich fuer die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt fuer jede Konzerngesellschaft ein eigenes Weisungsregister.
+> Jede Konzerngesellschaft erteilt Weisungen ausschliesslich für die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt für jede Konzerngesellschaft ein eigenes Weisungsregister.
 >
 > § 3 Konzerngesamtleitung und Kommunikation
 >
-> Die Muttergesellschaft uebt fuer die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
+> Die Muttergesellschaft uebt für die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
 >
 > § 4 Beitritt und Austritt von Konzerngesellschaften
 >
@@ -104,7 +104,6 @@ Konzern-AVV-Klauseln (Auszug):
 - EU-Kommission Beschluss (EU) 2021/914 mit Docking Clause (Klausel 7).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -112,3 +111,32 @@ Konzern-AVV-Klauseln (Auszug):
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 DSGVO (Grundsätze der Verarbeitung)
+- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
+- Art. 13, 14 DSGVO (Informationspflichten)
+- Art. 15 DSGVO (Auskunftsrecht)
+- Art. 28 DSGVO (Auftragsverarbeitung)
+- Art. 32 DSGVO (Sicherheit der Verarbeitung)
+- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
+- Art. 82 DSGVO (Schadensersatz)
+- Art. 83 DSGVO (Bußgelder)
+- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
+
+### Leitentscheidungen
+
+- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
+- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
+- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
+- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
+
+### Anwendung im Skill
+
+- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
+- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
+- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.

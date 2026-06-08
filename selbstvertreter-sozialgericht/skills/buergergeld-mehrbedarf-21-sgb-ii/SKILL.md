@@ -1,6 +1,6 @@
 ---
 name: buergergeld-mehrbedarf-21-sgb-ii
-description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe fuer werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster."
+description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe für werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster."
 ---
 
 # Buergergeld Mehrbedarf 21 Sgb Ii
@@ -30,14 +30,14 @@ description: "Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbed
 
 ### § 21 Abs. 6 SGB II — unabweisbarer laufender besonderer Bedarf
 - Atypischer, dauerhafter und unabweisbarer Mehrbedarf, der vom Regelbedarf nicht erfasst ist.
-- Beispiele: Hygiene bei chronischer Krankheit, besondere Pflegebedarfe, regelmaessige Reisen zu Verwandten in besonderen Konstellationen.
+- Beispiele: Hygiene bei chronischer Krankheit, besondere Pflegebedarfe, regelmäßige Reisen zu Verwandten in besonderen Konstellationen.
 
 ### § 21 Abs. 7 SGB II — Warmwassererzeugung dezentral
 - Bei Warmwassererzeugung ueber dezentrale elektrische Geraete (Durchlauferhitzer Boiler).
 - Pauschale nach Personenzahl im Haushalt.
 
 ### Hinweis Erstausstattung
-- **Nicht** § 21 Abs. 7 SGB II, sondern **§ 24 Abs. 3 SGB II**: einmalige Leistungen fuer Erstausstattung Wohnung, Erstausstattung bei Schwangerschaft und Geburt, sowie Anschaffung und Reparatur orthopaedischer Schuhe.
+- **Nicht** § 21 Abs. 7 SGB II, sondern **§ 24 Abs. 3 SGB II**: einmalige Leistungen für Erstausstattung Wohnung, Erstausstattung bei Schwangerschaft und Geburt, sowie Anschaffung und Reparatur orthopaedischer Schuhe.
 
 ## Pruefraster
 

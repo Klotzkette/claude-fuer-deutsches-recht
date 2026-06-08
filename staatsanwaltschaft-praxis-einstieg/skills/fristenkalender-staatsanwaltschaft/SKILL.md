@@ -6,15 +6,12 @@ description: "Fristenkalender im Dezernat: Praxis-Skill für neue Staatsanwälti
 # Fristenkalender im Dezernat
 
 ## Fachkern: Fristenkalender im Dezernat
-- **Spezialgegenstand:** Fristenkalender im Dezernat wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Fristenkalender im Dezernat** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Haftfristen, Verjährung, Rechtsmittelfristen, Wiedervorlagen und Kontrollvermerke
 
@@ -40,6 +37,17 @@ Dieser Abschnitt bearbeitet **Fachkern: Fristenkalender im Dezernat** im Bereich
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 43 StPO (Fristberechnung)
+- § 121 StPO (6-Monatsfrist U-Haft)
+- §§ 314, 341 StPO
+- § 44 StPO (Wiedereinsetzung)
+- § 314 StPO (Berufungsfrist)
+- § 341 StPO (Revisionsfrist)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

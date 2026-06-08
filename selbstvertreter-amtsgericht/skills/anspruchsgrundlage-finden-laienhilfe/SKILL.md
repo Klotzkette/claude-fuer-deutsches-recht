@@ -36,7 +36,7 @@ Jede Klage braucht eine **Anspruchsgrundlage** — eine Norm im BGB oder Spezial
 - **§ 823 BGB** — Delikt (unerlaubte Handlung).
 - **§ 812 BGB** — Bereicherungsanspruch.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefungsreihenfolge merken
 
@@ -89,7 +89,7 @@ Wenn jemand etwas auf Ihre Kosten erlangt hat, ohne Rechtsgrund: § 812 BGB.
 
 ### Schritt 7 — Beispiele
 
-Beispiel 1: "Ich habe ein Sofa fuer 800 EUR gekauft, Verkaeufer liefert nicht."
+Beispiel 1: "Ich habe ein Sofa für 800 EUR gekauft, Verkaeufer liefert nicht."
 
 - Vertragsanspruch § 433 I BGB (Lieferung).
 - Bei Verspaetung: Verzug, Schadensersatz § 280 II BGB.
@@ -117,8 +117,8 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 ## Worauf Sie besonders achten muessen
 
 - **Mehrere Anspruchsgrundlagen sind Regel, nicht Ausnahme**. Bei Verkehrsunfall greifen § 823 BGB **und** § 7 StVG **und** § 18 StVG nebeneinander.
-- **Vertrag schlaegt Delikt** — wenn ein Vertrag besteht, sind die vertraglichen Regelungen meist guenstiger fuer Sie.
-- **Verjaehrung pruefen**: Manche Sondergesetze haben kuerzere Fristen.
+- **Vertrag schlaegt Delikt** — wenn ein Vertrag besteht, sind die vertraglichen Regelungen meist guenstiger für Sie.
+- **Verjährung pruefen**: Manche Sondergesetze haben kuerzere Fristen.
 
 ## Typische Fehler
 
@@ -130,10 +130,32 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Pruefung.
 - `tatbestand-zerlegen-anspruchspruefung-laien` — Voraussetzungen identifizieren.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 - `klageschrift-tatsachenvortrag-strukturieren` — Sachverhalt aufbauen.
 
 ## Quellen und Aktualitaet
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+

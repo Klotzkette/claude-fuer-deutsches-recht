@@ -7,46 +7,42 @@ description: "Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt 
 
 ## Arbeitsbereich
 
-**Verg Nachpruefungsverfahren Vergabeverfahren** ordnet den Fall über die tragenden Prüffelder: Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Verg Nachpruefungsverfahren Vergabeverfahren** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `verg-nachpruefungsverfahren-spezial` | Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster fuer Bieter und Vergabekammer. |
-| `verg-vergabeverfahren-bauleiter` | Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster fuer Vergabestelle. |
+| `verg-nachpruefungsverfahren-spezial` | Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster für Bieter und Vergabekammer. |
+| `verg-vergabeverfahren-bauleiter` | Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster für Vergabestelle. |
 | `vorinformation-134-gwb-stillhaltefrist` | Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist pruefen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen. |
 | `vertragsaenderung-132-gwb-change-control` | Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `verg-nachpruefungsverfahren-spezial`
 
-**Fokus:** Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster fuer Bieter und Vergabekammer.
+**Fokus:** Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster für Bieter und Vergabekammer.
 
 # Verg: Nachpruefungsverfahren
 
 ## Spezialwissen: Verg: Nachpruefungsverfahren
-- **Spezialgegenstand:** Verg: Nachpruefungsverfahren / verg nachpruefungsverfahren spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, BGH, BVerfG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -74,11 +70,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -92,7 +87,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 2. `verg-vergabeverfahren-bauleiter`
 
-**Fokus:** Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster fuer Vergabestelle.
+**Fokus:** Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster für Vergabestelle.
 
 # Verg: Vergabeverfahren
 
@@ -100,20 +95,20 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster Vergabeverfahren
 
 ### 1. Anwendungsbereich GWB-Vergaberecht
 
-- **Oeffentlicher Auftraggeber** § 99 GWB (klassisch, Sektorenauftraggeber § 100, Konzessionsgeber § 101) und **oeffentlicher Auftrag** § 103 GWB.
-- **EU-Schwellenwert ueberschritten** (§ 106 GWB iVm aktuellen VO-Schwellenwerten; ab 2024/2025: Bauauftraege 5.538.000 Euro, Liefer-/Dienstleistungen 221.000 Euro klassisch bzw. 443.000 Euro Sektoren; Konzessionen 5.538.000 Euro). Bei Unterschreitung: UVgO/Haushaltsvergaberecht der Laender.
+- **Oeffentlicher Auftraggeber** § 99 GWB (klassisch, Sektorenauftraggeber § 100, Konzessionsgeber § 101) und **öffentlicher Auftrag** § 103 GWB.
+- **EU-Schwellenwert ueberschritten** (§ 106 GWB iVm aktuellen VO-Schwellenwerten; ab 2024/2025: Bauauftraege 5.538.000 Euro, Liefer-/Dienstleistungen 221.000 Euro klassisch bzw. 443.000 Euro Sektoren; Konzessionen 5.538.000 Euro). Bei Unterschreitung: UVgO/Haushaltsvergaberecht der Länder.
 - **Bereichsausnahmen** §§ 107-109 GWB (z. B. Inhouse, Interkommunal, geheim, Verteidigung).
 
 ### 2. Verfahrensart waehlen
@@ -165,11 +160,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -189,7 +183,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll den letzten Zeitraum vor Zuschlag sichern und Fehler verwerten. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll den letzten Zeitraum vor Zuschlag sichern und Fehler verwerten. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -210,7 +204,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -228,12 +222,11 @@ Fristenblatt, Fehlercheck, Sofortplan, Mandantenmail.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -253,7 +246,7 @@ Fristenblatt, Fehlercheck, Sofortplan, Mandantenmail.
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Bestandsvertrag aendern, ohne Neuausschreibungspflicht zu uebersehen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Bestandsvertrag aendern, ohne Neuausschreibungspflicht zu uebersehen. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -274,7 +267,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -292,12 +285,11 @@ Aenderungsmatrix, Neuausschreibungsrisiko, Vermerk, Freigabeempfehlung.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 

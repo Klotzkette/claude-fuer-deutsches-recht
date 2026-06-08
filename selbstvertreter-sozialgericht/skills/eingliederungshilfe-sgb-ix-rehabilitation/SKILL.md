@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-sgb-ix-rehabilitation
-description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster."
+description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Pruefraster."
 ---
 
 # Eingliederungshilfe Sgb Ix Rehabilitation
@@ -11,10 +11,10 @@ description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistunge
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Eingliederungshilfe — Wer ist zustaendig
+## Eingliederungshilfe — Wer ist zuständig
 
 - Land/Kommune ueber das jeweilige Land (Sozialamt Bezirksregierung).
-- Spezialisierte Traeger fuer Komplexleistungen.
+- Spezialisierte Traeger für Komplexleistungen.
 
 ## Reha-Traeger nach § 6 SGB IX
 
@@ -29,9 +29,9 @@ description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistunge
 ## Leistungen
 
 ### § 90 SGB IX — Teilhabe am Arbeitsleben
-- Berufliche Foerderung.
-- Werkstaetten fuer behinderte Menschen.
-- Budget fuer Arbeit.
+- Berufliche Förderung.
+- Werkstaetten für behinderte Menschen.
+- Budget für Arbeit.
 
 ### § 75 SGB IX — soziale Teilhabe
 - Assistenz.

@@ -7,40 +7,36 @@ description: "Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prü
 
 ## Arbeitsbereich
 
-**Produkthaftung Medizinprodukt Schmerzensgeld** ordnet den Fall über die tragenden Prüffelder: Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Produkthaftung Medizinprodukt Schmerzensgeld** ordnet den Fall über die tragenden Prüfungslinien: Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `produkthaftung-medizinprodukt-pld` | Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `schmerzensgeld-hightech-schaden` | Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler; materielle Folgeschäden. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Medizinrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `produkthaftung-medizinprodukt-pld`
 
 **Fokus:** Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Produkthaftung Medizinprodukt PLD 2024
 
 ## Fachkern: Produkthaftung Medizinprodukt PLD 2024
-- **Spezialgegenstand:** Produkthaftung Medizinprodukt PLD 2024 wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Produkthaftung Medizinprodukt PLD 2024** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure.
 
@@ -87,19 +83,15 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler; materielle Folgeschäden. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-
 # Schmerzensgeld bei Hightech-Schaden
 
 ## Fachkern: Schmerzensgeld bei Hightech-Schaden
-- **Spezialgegenstand:** Schmerzensgeld bei Hightech-Schaden wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
 - **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Worum es geht
 
-Dieser Abschnitt bearbeitet **Fachkern: Schmerzensgeld bei Hightech-Schaden** im Bereich **Fachanwalt Medizinrecht**. Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
 **Fokus:** Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler; materielle Folgeschäden.
 

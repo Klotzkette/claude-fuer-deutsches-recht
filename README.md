@@ -32,11 +32,11 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 210 |
-| **Skills (SKILL.md)** | 9115 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 201 |
+| **Plugins** | 212 |
+| **Skills (SKILL.md)** | 18536 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 203 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v212.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v239.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -71,6 +71,8 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
+
+> ⏱️ **Geduld beim ersten `marketplace add`.** Claude Code klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 203 Testakten mit über 600 PDFs (rund 150 MB) und der Git-History. Das sind insgesamt etwa **600 MB**, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis Claude die Marketplace-Übersicht öffnet. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
 
 Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
@@ -265,6 +267,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`fachanwalt-versicherungsrecht`](./fachanwalt-versicherungsrecht) | Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-verwaltungsrecht`](./fachanwalt-verwaltungsrecht) | Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. |
 | [`factoring-recht`](./factoring-recht) | Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen. |
+| [`fahrgastrechte`](./fahrgastrechte) | Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung und Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum Amtsgericht. Katalog der DB-Ablehnungsgründe. |
 | [`fashion-law-moderecht`](./fashion-law-moderecht) | Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen. |
 | [`festlandchina-wirtschaftsverkehr`](./festlandchina-wirtschaftsverkehr) | Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten, Exportkontrolle und politisches Risiko. |
 | [`fluggastrechte`](./fluggastrechte) | Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation. |
@@ -364,6 +367,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`sozialversicherungsstatus-pruefer`](./sozialversicherungsstatus-pruefer) | Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. |
 | [`staatsanwaltschaft-praxis-einstieg`](./staatsanwaltschaft-praxis-einstieg) | Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungsverfahren, Polizei, RiStBV, Vermerke, Beschlagnahme, digitale Beweise, Anklage, Strafbefehl, Hauptverhandlung, Plädoyer und Rechtsmittel. |
 | [`startup-hr-personalabteilung-berlin`](./startup-hr-personalabteilung-berlin) | Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings. |
+| [`status-navigator-step-plan`](./status-navigator-step-plan) | Status-Navigator und Step-Plan-Macher als bewusst normfreies Dokumentenverarbeitungs-Plugin: sortiert chaotische Akten, baut Excel-/Padlet-Statuspläne, markiert vorhandene und fehlende Unterlagen, Lücken, Fristen, Unterschriften, Zustellungen und nächste Arbeitsschritte ohne rechtliche Bewertung. |
 | [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. |
 | [`strafanzeige-vorbereiter`](./strafanzeige-vorbereiter) | Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige. |
 | [`strafbefehl-verteidiger`](./strafbefehl-verteidiger) | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
@@ -387,6 +391,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`verbraucherschutzverband-durchsetzung`](./verbraucherschutzverband-durchsetzung) | Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte. |
 | [`vereinsrecht-vereinsmanager`](./vereinsrecht-vereinsmanager) | Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine. |
 | [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde. |
+| [`verhaeltnismaessigkeitspruefer`](./verhaeltnismaessigkeitspruefer) | Verhältnismäßigkeitsprüfer für legitimen Zweck, Geeignetheit, Erforderlichkeit und Angemessenheit: BVerfG-Leitentscheidungen, Polizeirecht, PrOVG-Kreuzberg-Linie, praktische Konkordanz und rechtsvergleichende Section-36-Südafrika-Skills. |
 | [`verkehr-infrastrukturrecht`](./verkehr-infrastrukturrecht) | Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende. |
 | [`verkehrsowi-verteidiger`](./verkehrsowi-verteidiger) | Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. |
 | [`verlagsrecht-buchpreisbindung`](./verlagsrecht-buchpreisbindung) | Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance. |
@@ -477,7 +482,7 @@ Wenn Nutzerinnen und Nutzer auf dem Mac scheitern, liegt es häufig an der herun
 - `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
 - Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
 - Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 193 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
+- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 212 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
 - Technischer Check im Terminal:
 
 ```bash
@@ -516,7 +521,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
 - **Steuerrecht und Förderung** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix, Signing/Closing, Steuerberater-Werkzeuge), `berichtspflichten-erlediger`, `forschungszulage-antragstellung`, `dfg-foerderantrag`
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafanzeige-vorbereiter`, `strafbefehl-verteidiger`, `strafzumessung`, `verkehrsowi-verteidiger`
-- **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `versammlungsrecht`, `wahlkampfrecht-praxis`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `normenkontrollrat-nkr`, `fachanwalt-vergaberecht`
+- **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `verhaeltnismaessigkeitspruefer`, `versammlungsrecht`, `wahlkampfrecht-praxis`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `normenkontrollrat-nkr`, `fachanwalt-vergaberecht`
 - **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `rentenpruefer`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
 - **Miet- & Immobilienrecht** – `mietrecht`, `weg-hausverwaltung`, `nachbarschaftsstreit-pruefer`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
 - **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecht`, `patentrecherche`, `gebrauchsmusterrecht`, `designrecht-geschmacksmusterrecht`, `markenrecht-fashion-luxus` (DPMA/EUIPO/WIPO/USPTO, Markenarten, Klassen, Benutzung, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen, Luxus-Fashion und US-Trade-Dress), `fashion-law-moderecht` (Mode-Lifecycle, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen und Retail)
@@ -529,7 +534,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 
 ### Querschnittliche Werkzeuge
 
-- **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `memorandums-ersteller`, `tabellenreview-3d`
+- **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `status-navigator-step-plan`, `memorandums-ersteller`, `tabellenreview-3d`
 - **Kanzleibetrieb** – `kanzlei-allgemein`, `kanzlei-builder-hub`, `kanzlei-mandant-lifecycle`, `rechtsberatungsstelle`, `verlagsredaktion`
 - **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `rechtstheorie-rechtsphilosophie`, `preussisches-allgemeines-landrecht-pralr`, `zitierweise-deutsches-recht`, `einfache-leichte-sprache-jura`
 - **Drafting & Sprache** – `word-legal-ai-plugin-and-skill-for-german-lawyers` (39 Skills: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Klauselbibliothek, Defensive Drafting, Entwurfscheck/Red Team, Term Sheet, DE-EN Bilingual, US/UK Legal Writing, englische Verträge nach deutschem Recht), `juristische-sprache-deutsch-als-zweitsprache` (Juristendeutsch, Bescheide, Fristen und Formulare für Nichtmuttersprachler)

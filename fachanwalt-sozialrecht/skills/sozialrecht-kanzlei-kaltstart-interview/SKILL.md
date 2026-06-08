@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-kanzlei-kaltstart-interview
-description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behoerde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
+description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Schwerpunktbereiche (Buergergeld SGB II / SGB IX Schwerbehinderung / SGB V Krankenversicherung / SGB XI Pflege / Asylbewerberleistungsgesetz) zuständige Sozialgerichte typische Mandate (Bescheid-Widerspruch / Klage / Eilrechtsschutz) Prozesskostenhilfe-Quote Sekretariatslast Aktenstruktur-Konvention Versandwege (beA / Post / ePostfach Behörde) Eskalation. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md. Mit --redo neu interviewen."
 ---
 
 # /sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview
@@ -12,7 +12,6 @@ description: "Kaltstart-Interview für die sozialrechtliche Kanzlei. Erfragt Sch
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Ablauf
 

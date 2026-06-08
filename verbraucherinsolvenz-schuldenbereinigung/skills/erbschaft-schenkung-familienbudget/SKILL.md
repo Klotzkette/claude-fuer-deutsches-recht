@@ -7,36 +7,34 @@ description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz 
 
 ## Arbeitsbereich
 
-**Erbschaft Schenkung Familienbudget** ordnet den Fall über die tragenden Prüffelder: Erbschaft, Schenkung, Gewinn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Erbschaft Schenkung Familienbudget** ordnet den Fall über die tragenden Prüfungslinien: Erbschaft, Schenkung, Gewinn. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `formularcheck-insolvenzantrag` | Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `formularcheck-insolvenzantrag` | Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `erbschaft-schenkung-gewinn`
 
-**Fokus:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
 
 ## Fachkern: Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
-- **Spezialgegenstand:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -68,16 +66,14 @@ InsO §§ 35, 295; BGB Erbrecht. Entscheidend ist immer der aktuelle Normstand d
 
 ## 2. `familienbudget-und-haushaltsplan`
 
-**Fokus:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
 
 ## Fachkern: Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
-- **Spezialgegenstand:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -109,16 +105,14 @@ ZPO Pfändungsfreigrenzen; SGB-Schnittstellen. Entscheidend ist immer der aktuel
 
 ## 3. `formularcheck-insolvenzantrag`
 
-**Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
 
 ## Fachkern: Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
-- **Spezialgegenstand:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 

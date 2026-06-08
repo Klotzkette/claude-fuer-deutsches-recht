@@ -6,11 +6,8 @@ description: "Berliner Start-up-HR: Livecheck für Arbeitsrecht, Datenschutz und
 # Rechtsquellen Livecheck Arbeitsrecht Datenschutz
 
 ## Fachkern: Rechtsquellen Livecheck Arbeitsrecht Datenschutz
-- **Spezialgegenstand:** Rechtsquellen Livecheck Arbeitsrecht Datenschutz wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BGB, KSchG, TzBfG, NachwG, BetrVG, AGG, MuSchG/BEEG, SGB IX, ArbZG, MiLoG, DSGVO/BDSG und Lohn-/DATEV-Schnittstellen.
 - **Entscheidende Weiche:** Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Rolle
 

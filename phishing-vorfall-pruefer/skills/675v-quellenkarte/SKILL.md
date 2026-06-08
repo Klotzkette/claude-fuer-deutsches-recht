@@ -37,3 +37,25 @@ Diese Quellenkarte sichert im Bereich **Phishing Vorfall Prüfer** tragende Norm
 - Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
 - Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
 - Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 263a StGB
+- Art. 33 DSGVO
+- § 1 ZAG
+- § 31 VVG
+- § 55 ZAG
+- Art. 34 DSGVO
+- § 4 FinDAG
+- § 27 ZAG
+- § 269 StGB
+- § 29 VwVfG
+- Art. 15 DSGVO
+- § 32 BSIG
+
+### Leitentscheidungen
+
+- BGH XI ZR 91/14
+

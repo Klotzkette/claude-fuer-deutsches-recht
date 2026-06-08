@@ -17,13 +17,13 @@ Sie wollen klagen, aber das Schreiben faellt Ihnen schwer. Vielleicht koennen Si
 
 ## In einfacher Sprache
 
-Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt fuer Sie. Sie unterschreiben. Fertig. Das kostet nichts.
+Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schreibt für Sie. Sie unterschreiben. Fertig. Das kostet nichts.
 
 ## Wann brauchen Sie diese Skill?
 
 - Schreiben faellt Ihnen schwer.
 - Sie sprechen besser als Sie schreiben.
-- Sie verstehen die Behoerdensprache nicht.
+- Sie verstehen die Behördensprache nicht.
 - Sie wollen sichergehen, dass alles richtig formuliert ist.
 
 ## Fachbegriffe (kurz erklaert)
@@ -37,7 +37,7 @@ Sie koennen Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schre
 - **§ 90 SGG** — Klage schriftlich oder zur Niederschrift.
 - **§ 91 SGG** — Niederschrift bei einem anderen Gericht moeglich.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Termin organisieren
 
@@ -55,10 +55,10 @@ Manche SG haben offene Sprechstunden, andere arbeiten nur mit Termin.
 
 - Personalausweis oder Pass
 - Bescheid und Widerspruchsbescheid (Original und Kopien)
-- Schriftverkehr mit Behoerde
+- Schriftverkehr mit Behörde
 - Aerztliche Atteste / Berichte
 - Versicherungsnummer / Aktenzeichen
-- Bei Bedarf Adresse der beklagten Behoerde
+- Bei Bedarf Adresse der beklagten Behörde
 
 ### Schritt 3 — Was die Geschaeftsstelle macht
 
@@ -82,14 +82,14 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 
 ### Schritt 6 — Weiter laeuft alles wie bei schriftlicher Klage
 
-- Klage wird an die beklagte Behoerde zugestellt.
-- Behoerde erwidert.
+- Klage wird an die beklagte Behörde zugestellt.
+- Behörde erwidert.
 - Verfahren laeuft.
 
 ## Worauf Sie besonders achten muessen
 
 - **Klagebegruendung kann nachgereicht werden**: Bei der Niederschrift muessen Sie nicht alle Details liefern. Erst Klage einreichen, Frist sichern; Begruendung folgt schriftlich.
-- **Mitarbeiter sind freundlich**: Auf den Geschaeftsstellen arbeiten Personen, die genau dafuer da sind, Buergern zu helfen.
+- **Mitarbeiter sind freundlich**: Auf den Geschaeftsstellen arbeiten Personen, die genau dafür da sind, Buergern zu helfen.
 - **Sprache**: Wenn Sie Deutsch nicht gut sprechen: Dolmetscher kann moeglich sein (siehe `dolmetscher-beim-sozialgericht-laien`). Vorher anfragen.
 - **Begleitperson**: Sie duerfen jemanden mitnehmen. Familienmitglied, Freund, Sozialberater.
 
@@ -104,14 +104,13 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg
 - `klagearten-uebersicht-sgg` — welche Klage
-- `oertliche-zustaendigkeit-57-sgg` — welches SG
+- `oertliche-zuständigkeit-57-sgg` — welches SG
 - `dolmetscher-beim-sozialgericht-laien` — Dolmetscher
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Termin-Tipps
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt vorab anrufen oder auf der Website pruefen (www.sozialgerichtsbarkeit.de).
-
 
 ## Qualitäts-Hardening
 

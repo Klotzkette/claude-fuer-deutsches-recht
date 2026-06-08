@@ -6,15 +6,12 @@ description: "Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxi
 # Anstrengende Verteidigung in der Sitzung: souverän bleiben
 
 ## Fachkern: Anstrengende Verteidigung in der Sitzung: souverän bleiben
-- **Spezialgegenstand:** Anstrengende Verteidigung in der Sitzung: souverän bleiben wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Anstrengende Verteidigung in der Sitzung: souverän bleiben** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Anträge, Unterbrechungen, Ton, gerichtliche Sachleitung und StA-Rolle
 
@@ -40,6 +37,18 @@ Dieser Abschnitt bearbeitet **Fachkern: Anstrengende Verteidigung in der Sitzung
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 138a StPO (Ausschluss des Verteidigers)
+- § 145 StPO
+- § 257 StPO (Erklärungsrechte)
+- § 176 GVG (Sitzungspolizei)
+- §§ 226 ff. StPO (Hauptverhandlung)
+- § 258 StPO (Schlussvorträge)
+- Nr. 126-138 RiStBV
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -20,7 +20,7 @@ description: "AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skil
 
 ## Verfahrensgrundsaetze
 
-- Anhoerung des Betroffenen vor Ausschluss.
+- Anhörung des Betroffenen vor Ausschluss.
 - Benennung des Ausschlussgrunds.
 - Rechtsbehelfsbelehrung an internes Schiedsgericht.
 
@@ -32,7 +32,7 @@ description: "AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skil
 
 ## Haftung
 
-- § 31 BGB: Verein haftet fuer Vorstand.
+- § 31 BGB: Verein haftet für Vorstand.
 - AGB-Klauseln zur Haftungsbegrenzung des Vereins gegenueber Mitgliedern: zulaessig, sofern angemessen.
 
 ## Pruefraster

@@ -15,7 +15,7 @@
 
 Die interne Revision hat auf Anordnung der Geschäftsführung und auf Empfehlung der externen Anwältin RA Dr. Heller eine vollständige AML/GwG-Compliance-Prüfung durchgeführt. Anlass war die Häufung compliance-relevanter Sachverhalte im April/Mai 2026 (Danube Trade Solutions SRL, Drittzahlung, Transparenzregister-Unstimmigkeit, Behördenauskunftsersuchen).
 
-**Prüffelder:**
+**Prüfungslinien:**
 1. Vollständigkeit und Aktualität der Risikoanalyse
 2. KYC-Prozesse und Dokumentationsqualität
 3. PEP/Sanktionsscreening-Prozesse
@@ -33,7 +33,7 @@ Die interne Revision hat auf Anordnung der Geschäftsführung und auf Empfehlung
 
 ### Überblick
 
-| Finding-Nr. | Prüffeld | Schwere | Status |
+| Finding-Nr. | Prüfungslinie | Schwere | Status |
 |---|---|---|---|
 | F-1 | Fehlende Vier-Augen-Dokumentation bei False-Positive-Freigaben | Hoch | Offen → Maßnahme eingeleitet |
 | F-2 | Veraltete Registerauszüge in KYC-Akten | Mittel | Offen → Prüfung läuft |

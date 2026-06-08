@@ -7,34 +7,34 @@ description: "Rechtsmittel VG Migration Schreiben Einfache im Migrationsrecht: p
 
 ## Arbeitsbereich
 
-**Rechtsmittel VG Migration Schreiben Einfache** ordnet den Fall über die tragenden Prüffelder: Rechtsmittel VG, Red-Team Migration, Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Rechtsmittel VG Migration Schreiben Einfache** ordnet den Fall über die tragenden Prüfungslinien: Rechtsmittel VG, Red-Team Migration, Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `workflow-rechtsmittel-vg` | Rechtsmittel VG: Prüffeld für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-redteam-migration` | Red-Team Migration: Prüffeld für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-rechtsmittel-vg` | Rechtsmittel VG: Prüfungslinie für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-redteam-migration` | Red-Team Migration: Prüfungslinie für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `workflow-schreiben-einfache-sprache` | Schreiben einfache Sprache: Prüffeld für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-sozialrecht-schnittstelle` | Sozialrecht-Schnittstelle: Prüffeld für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-schreiben-einfache-sprache` | Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-sozialrecht-schnittstelle` | Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Migrationsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-rechtsmittel-vg`
 
-**Fokus:** Rechtsmittel VG: Prüffeld für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Rechtsmittel VG: Prüfungslinie für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Rechtsmittel VG
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -63,12 +63,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-redteam-migration`
 
-**Fokus:** Red-Team Migration: Prüffeld für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Red-Team Migration: Prüfungslinie für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Red-Team Migration
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -132,12 +132,12 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 4. `workflow-schreiben-einfache-sprache`
 
-**Fokus:** Schreiben einfache Sprache: Prüffeld für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Schreiben einfache Sprache
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: übersetzt Ergebnisse in klare, nicht einschüchternde Sprache.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: übersetzt Ergebnisse in klare, nicht einschüchternde Sprache.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -166,12 +166,12 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-sozialrecht-schnittstelle`
 
-**Fokus:** Sozialrecht-Schnittstelle: Prüffeld für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Sozialrecht-Schnittstelle
 
 ## Aufgabe
-Prüffeld im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung.
+Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:

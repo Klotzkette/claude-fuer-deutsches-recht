@@ -6,14 +6,10 @@ description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Ab
 # Kooperativer Abschluss
 
 ## Fachkern: Kooperativer Abschluss
-- **Spezialgegenstand:** Kooperativer Abschluss wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspassagen bereit. Selbst in einem sachlichen oder kritischen Schreiben signalisiert ein kooperativer Abschluss, dass die Kommunikation offen bleibt und eine einvernehmliche Lösung angestrebt wird.
-
 
 ## Triage zu Beginn
 1. Welchen Ton hat das Schreiben insgesamt: sachlich-neutral, kritisch oder freundlich?
@@ -40,7 +36,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Streitig, sachlich | "Fuer Ruckfragen stehe ich zur Verfügung. Mit freundlichen Gruessen" |
 | Laufendes Mandat | "Ich freue mich auf Ihre Rueckmeldung. Mit freundlichen Gruessen" |
 | Kooperativ, einigungsorientiert | "Im Sinne einer einvernehmlichen Loesung freue ich mich auf Ihre Nachricht. Mit kollegialen Gruessen" |
-| Foermlich, Behoerde | "Fuer Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
+| Foermlich, Behörde | "Fuer Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
 
 ## Funktion des Abschlusses
 

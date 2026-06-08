@@ -67,7 +67,7 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 **Beispiel Anspruch:** Windscheids Anspruchsbegriff (Anspruch = Recht, von einem anderen ein Tun oder Unterlassen zu verlangen) ist Grundlage von § 194 Abs. 1 BGB. Anspruchsgrundlagen-Pruefung ist begriffsjuristische Erbschaft.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Begriffsstruktur identifizieren.** Welche dogmatischen Begriffe sind im Spiel?
 2. **Begriffspyramide nachvollziehen.** Welcher Oberbegriff erfasst den Fall?
@@ -105,7 +105,6 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 - §§ 104 ff., 116 ff., 158 ff., 164 ff., 194 Abs. 1, 433, 929 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

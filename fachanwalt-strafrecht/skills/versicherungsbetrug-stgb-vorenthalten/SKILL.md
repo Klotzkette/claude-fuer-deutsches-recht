@@ -7,32 +7,32 @@ description: "Versicherungsbetrug Stgb Vorenthalten im Strafrecht: prüft konkre
 
 ## Arbeitsbereich
 
-**Versicherungsbetrug Stgb Vorenthalten** ordnet den Fall über die tragenden Prüffelder: Versicherungsmissbrauch § 265 StGB, Vorenthalten und Veruntreuen von Arbeitsentgelt nach, Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Versicherungsbetrug Stgb Vorenthalten** ordnet den Fall über die tragenden Prüfungslinien: Versicherungsmissbrauch § 265 StGB, Vorenthalten und Veruntreuen von Arbeitsentgelt nach, Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafrecht-spezial-versicherungsbetrug-265-stgb` | Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo fuer Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung. |
+| `strafrecht-spezial-versicherungsbetrug-265-stgb` | Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo für Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung. |
 | `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb` | Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB. |
-| `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb` | Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils fuer die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo fuer Hochschulen Behoerden kommunale Mandatstraeger. |
+| `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb` | Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo für Hochschulen Behörden kommunale Mandatstraeger. |
 | `strafrecht-spezial-waffg-strafvorschriften-51-52` | Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG. Unerlaubter Umgang mit Schusswaffen und Munition Erwerb Besitz Fuehren Verbringen. Erlaubnistatbestaende Wesentliche Bauteile. Qualifikationen Banden gewerbliche Begehung. Verteidigungslinien Vorsatz Erlaubnislage Anlasswaffen. Konkurrenzen Paragraph 244 IV StGB nicht einschlaegig. |
-| `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis` | Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete oeffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo fuer Vergabe Mischverwaltung Public-Private-Partnership. |
-| `strafrecht-spezial-zahlungsverbot-15b-inso` | Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien fuer den Geschaeftsleiter im Wirtschaftsstrafverfahren. |
+| `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis` | Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership. |
+| `strafrecht-spezial-zahlungsverbot-15b-inso` | Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien für den Geschaeftsleiter im Wirtschaftsstrafverfahren. |
 | `strafrecht-spezial-zinswucher-291-stgb` | Wucher § 291 StGB inkl. Mietwucher, Kreditwucher, Lohnwucher und Vermittlungswucher: Verteidigung bei Vorwurf der Ausbeutung einer Zwangslage, Unerfahrenheit, Urteilsschwaeche oder erheblichen Willensschwaeche zu auffaelligem Missverhaeltnis. Strafrahmen bis drei Jahre oder Geldstrafe; besonders schwerer Fall § 291 Abs. 2 StGB. Abgrenzung zu § 5 WiStrG 1954. |
 | `vergleichsverhandlung-strategie` | Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich für prozessuale Einigung und Strafverteidiger will Verständigung Einstellung oder TOA vorbereiten. § 257c StPO Verständigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Prüfraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verständigung-257c-TOA-46a und zu Plaedoyer. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-versicherungsbetrug-265-stgb`
 
-**Fokus:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo fuer Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
+**Fokus:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo für Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
 
 # Versicherungsmissbrauch § 265 StGB
 
@@ -60,7 +60,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 ### Schluesselbegriffe
 
 - **Versicherung.** Privater Versicherungsvertrag. Sozialversicherung nicht erfasst.
-- **Versichert.** Konkreter Versicherungsschutz fuer die Sache zur Tatzeit.
+- **Versichert.** Konkreter Versicherungsschutz für die Sache zur Tatzeit.
 - **Tathandlungen.** Real-Manipulation der Sache; nicht: blosse Falschangabe (das waere § 263 StGB).
 
 ### Subjektiver Tatbestand
@@ -75,7 +75,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 ## Praktikertipps Verteidigung
 
-- **Versicherungsschutz pruefen.** Bestand zum Tatzeitpunkt tatsaechlich Versicherung fuer die Sache? Bei abgelaufenem Vertrag oder fehlender Pramienzahlung Tatbestand verneint.
+- **Versicherungsschutz pruefen.** Bestand zum Tatzeitpunkt tatsaechlich Versicherung für die Sache? Bei abgelaufenem Vertrag oder fehlender Pramienzahlung Tatbestand verneint.
 - **Absicht Leistungserlangung** angreifen. Bei Sachzerstoerung aus Wut, Verzweiflung oder anderen Motiven (nicht versicherungsbezogen) entfaellt Tatbestand.
 - **Manipulationsabsicht versus Versuch § 263 StGB.** Bei Schadensmeldung nach Manipulation wird oft sofort § 263 StGB versucht (Vorrang).
 - **Brand- oder KFZ-Gutachten** sezieren: Brandbeschleuniger, Kurzschluss, technischer Defekt vs. Manipulation. Eigenes Gutachten beauftragen.
@@ -88,7 +88,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 |---|---|---|
 | Bestreiten Manipulation | Tatbestand entfaellt | Gutachterstreit |
 | Bestreiten Absicht Leistungserlangung | Tatbestand entfaellt | Plausibilitaet bei Meldung |
-| Ruecknahme Schadensmeldung | § 263 StGB nur Versuch | Indiz fuer Vorsatz |
+| Rücknahme Schadensmeldung | § 263 StGB nur Versuch | Indiz für Vorsatz |
 | Schadenswiedergutmachung § 46a StGB | Strafmilderung | Eingestaendnis |
 | Verstaendigung § 257c StPO | Planbarkeit | Bindung |
 
@@ -117,7 +117,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 ### Bestreiten Absicht
 
-"Eine Absicht der Versicherungsleistungserlangung wird bestritten. Die Beschaedigung des Fahrzeugs erfolgte aus persoenlichem Frust nach Trennung von der Ehegattin und nicht in Versicherungsabsicht. Die spaeter erfolgte Schadensmeldung an die Versicherung beruhte auf einem familieninternen Ratschlag des [Person] und stellt eine eigenstaendige Entschlussbildung dar."
+"Eine Absicht der Versicherungsleistungserlangung wird bestritten. Die Beschaedigung des Fahrzeugs erfolgte aus persönlichem Frust nach Trennung von der Ehegattin und nicht in Versicherungsabsicht. Die spaeter erfolgte Schadensmeldung an die Versicherung beruhte auf einem familieninternen Ratschlag des [Person] und stellt eine eigenstaendige Entschlussbildung dar."
 
 ## Querverweise
 
@@ -159,7 +159,7 @@ Voraussetzungen:
 - **Arbeitgeberstellung**: GmbH-GF persoenlich; bei mehreren GF alle gesamtschuldnerisch, faktische GF eingeschlossen (Paragraph 14 StGB).
 - **Faelligkeit**: Drittletzter Bankarbeitstag des Monats (Paragraph 23 Abs 1 SGB IV).
 - **Vorenthalten** = Nichtabfuhrung trotz Faelligkeit. Auch verspaetete Zahlung ist Vorenthalten, wenn sie nicht binnen weniger Tage erfolgt.
-- **Vorsatz**: Eventualvorsatz reicht. GF muss wissen, dass Sozialabgaben fuer den Monat anfallen.
+- **Vorsatz**: Eventualvorsatz reicht. GF muss wissen, dass Sozialabgaben für den Monat anfallen.
 
 ### Absatz 2 Vorenthalten von Arbeitgeberanteilen mit Tauschung
 
@@ -188,7 +188,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - **Liquiditaetsstatus am Faelligkeitstag rekonstruieren.** Wenn am drittletzten Bankarbeitstag tatsaechlich kein Geld da war, ist Vorsatz angreifbar. BGH-Linie: Bei evidenter Zahlungsunfaehigkeit erst ab Eintritt der Krise.
 - **Pflichtenkollision Paragraph 15b InsO.** Streit: Wenn GF in Krise war, durfte er ueberhaupt zahlen? BGH staendige Rspr.: Sozialabgaben gehen Paragraph 15b InsO vor; Zahlung ist pflichtgemaess.
 - **Faktische GF erfasst.** Wer faktisch die Geschaefte fuehrt (ohne Eintragung), ist Arbeitgeber iSd Paragraph 266a StGB. Verteidigung: Strohmann-Konstellation darlegen.
-- **Verjaehrungsbeginn.** Jeder Monat ist eigene Tat. Verjaehrung beginnt mit Eintritt der Faelligkeit. 5 Jahre Verfolgungsverjaehrung (Paragraph 78 Abs 3 Nr 4 StGB).
+- **Verjährungsbeginn.** Jeder Monat ist eigene Tat. Verjährung beginnt mit Eintritt der Faelligkeit. 5 Jahre Verfolgungsverjaehrung (Paragraph 78 Abs 3 Nr 4 StGB).
 
 ## Trade-off-Matrix
 
@@ -215,11 +215,11 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant hat die Beitraege zur Sozialversicherung fuer Maerz 2026 (Faelligkeit DD.MM.JJJJ) nachgezahlt (Anlage SS 1) und der Einzugsstelle die Beitragsabrechnung zugesandt (Anlage SS 2). Die Voraussetzungen der taetigen Reue nach Paragraph 266a Abs 6 StGB sind erfuellt; Strafbefreiung tritt ein."
+**Schutzschrift-Snippet:** "Mein Mandant hat die Beitraege zur Sozialversicherung für Maerz 2026 (Faelligkeit DD.MM.JJJJ) nachgezahlt (Anlage SS 1) und der Einzugsstelle die Beitragsabrechnung zugesandt (Anlage SS 2). Die Voraussetzungen der taetigen Reue nach Paragraph 266a Abs 6 StGB sind erfuellt; Strafbefreiung tritt ein."
 
 **Einlassungs-Snippet:** "Am drittletzten Bankarbeitstag im Maerz 2026 betrug der Saldo auf dem Geschaeftskonto EUR 2.500. Ich hatte zu diesem Zeitpunkt offene Lieferantenrechnungen ueber insgesamt EUR 35.000 und sah keine Moeglichkeit, die Sozialabgaben in Hoehe von EUR 18.000 abzufuehren. Ich habe sofort am DD.MM.JJJJ Insolvenzantrag gestellt."
 
-**Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Kontoauszuege der Y-Bank fuer den Zeitraum DD.MM.JJJJ bis DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass am drittletzten Bankarbeitstag im Maerz 2026 keine ausreichenden Mittel zur Abfuehrung der Sozialabgaben vorhanden waren."
+**Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Kontoauszuege der Y-Bank für den Zeitraum DD.MM.JJJJ bis DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass am drittletzten Bankarbeitstag im Maerz 2026 keine ausreichenden Mittel zur Abfuehrung der Sozialabgaben vorhanden waren."
 
 ## Querverweise
 
@@ -233,14 +233,13 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 - Paragraph 266a StGB im Wortlaut (gesetze-im-internet.de).
 - Paragraph 23 Abs 1 SGB IV Faelligkeit der Sozialversicherungsbeitraege (drittletzter Bankarbeitstag).
-- Paragraph 14 StGB Handeln fuer andere (faktischer GF).
-- Paragraph 823 Abs 2 BGB iVm Paragraph 266a StGB Schutzgesetz fuer Sozialversicherungstraeger.
+- Paragraph 14 StGB Handeln für andere (faktischer GF).
+- Paragraph 823 Abs 2 BGB iVm Paragraph 266a StGB Schutzgesetz für Sozialversicherungstraeger.
 - Paragraph 78 Abs 3 Nr 4 StGB Verfolgungsverjaehrung 5 Jahre.
 - BGH staendige Rspr. zur Privilegierung der Sozialabgaben gegenueber Paragraph 15b InsO.
 - BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zur Strafbarkeit auch verspaeteter Zahlung.
 - BSG-Linie zur Beitragspflicht bei Scheinwerkvertraegen.
-
 
 ## Qualitäts-Hardening
 
@@ -252,53 +251,53 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 ## 3. `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
 
-**Fokus:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils fuer die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo fuer Hochschulen Behoerden kommunale Mandatstraeger.
+**Fokus:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo für Hochschulen Behörden kommunale Mandatstraeger.
 
 # Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Vorteilsannahme / Vorteilsgewaehrung. Klassische Konstellationen: Sponsoring an Hochschulen und Behoerden, Drittmittelforschung in Medizin, Geschenkannahme durch Beamte, Einladungen an Mitarbeiter oeffentlicher Auftraggeber, "Dienstreisen" mit Werbecharakter, Aufmerksamkeiten an Buergermeister oder Landraete. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe.
+Spezial-Mandat: Anklage Vorteilsannahme / Vorteilsgewaehrung. Klassische Konstellationen: Sponsoring an Hochschulen und Behörden, Drittmittelforschung in Medizin, Geschenkannahme durch Beamte, Einladungen an Mitarbeiter öffentlicher Auftraggeber, "Dienstreisen" mit Werbecharakter, Aufmerksamkeiten an Buergermeister oder Landraete. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe.
 
-Abgrenzung von §§ 332 / 334 StGB (Bestechlichkeit / Bestechung — Spezialnorm fuer Diensthandlung, die Pflichtwidrigkeit erfordert; eigener Skill).
+Abgrenzung von §§ 332 / 334 StGB (Bestechlichkeit / Bestechung — Spezialnorm für Diensthandlung, die Pflichtwidrigkeit erfordert; eigener Skill).
 
 ## Eingaben
 
 - Anklageschrift, Sachverhaltsbeschreibung.
 - Dienstposten / Funktion Amtstraeger.
 - Vorteilsgegenstand und Wert (Sachzuwendung, Einladung, Reise, Honorar).
-- Dienstgenehmigung, Behoerden-Richtlinien (z. B. Verwaltungsvorschriften, Anti-Korruptions-Erlass).
-- Geschaeftliche Beziehung Geber / Behoerde.
+- Dienstgenehmigung, Behörden-Richtlinien (z. B. Verwaltungsvorschriften, Anti-Korruptions-Erlass).
+- Geschaeftliche Beziehung Geber / Behörde.
 
 ## Tatbestand und Auslegung
 
 ### § 331 StGB Vorteilsannahme (Nehmer)
 
-Wer als **Amtstraeger, Europaeischer Amtstraeger oder fuer den oeffentlichen Dienst besonders Verpflichteter** **fuer die Dienstausuebung** einen Vorteil fuer sich oder einen Dritten **fordert, sich versprechen laesst oder annimmt**.
+Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteter** **für die Dienstausuebung** einen Vorteil für sich oder einen Dritten **fordert, sich versprechen laesst oder annimmt**.
 
 ### § 333 StGB Vorteilsgewaehrung (Geber)
 
-Wer einem **Amtstraeger, Europaeischen Amtstraeger oder fuer den oeffentlichen Dienst besonders Verpflichteten** oder einem **Soldaten der Bundeswehr** **fuer die Dienstausuebung** einen Vorteil **anbietet, verspricht oder gewaehrt**.
+Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteten** oder einem **Soldaten der Bundeswehr** **für die Dienstausuebung** einen Vorteil **anbietet, verspricht oder gewaehrt**.
 
 ### Schluesselbegriffe
 
-- **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.** Beamte, Richter, Personen in sonstigem oeffentlich-rechtlichem Amtsverhaeltnis, Beschaeftigte in oeffentlicher Verwaltung.
+- **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.** Beamte, Richter, Personen in sonstigem oeffentlich-rechtlichem Amtsverhaeltnis, Beschaeftigte in öffentlicher Verwaltung.
 - **Vorteil.** Jede Zuwendung mit objektivem Wert. Auch immaterielle Vorteile (Lobpreisungen) nur eingeschraenkt.
 - **"Fuer die Dienstausuebung".** Lockerer Bezug als bei §§ 332 / 334 StGB. Keine konkrete Diensthandlung erforderlich. Hinwendung zum allgemeinen Wohlwollen genuegt (sog. **"Klimapflege"**).
-- **Sozialadaequanz.** Geringfuegige Aufmerksamkeiten (Kugelschreiber, Kaffee, kleine Werbeartikel). Schwelle ueblich bis ca. 25 bis 50 EUR Wert, je nach Behoerde.
+- **Sozialadaequanz.** Geringfuegige Aufmerksamkeiten (Kugelschreiber, Kaffee, kleine Werbeartikel). Schwelle ueblich bis ca. 25 bis 50 EUR Wert, je nach Behörde.
 
 ### Genehmigung § 331 Abs. 3 StGB
 
-- Nicht strafbar, wenn der Taeter einen nicht von ihm geforderten Vorteil sich versprechen laesst oder annimmt und die **zustaendige Behoerde** zuvor genehmigt hat oder er unverzueglich Anzeige erstattet und Genehmigung erteilt wird.
+- Nicht strafbar, wenn der Taeter einen nicht von ihm geforderten Vorteil sich versprechen laesst oder annimmt und die **zuständige Behörde** zuvor genehmigt hat oder er unverzueglich Anzeige erstattet und Genehmigung erteilt wird.
 - Dies gilt **nicht** bei pflichtwidriger Diensthandlung (dann §§ 332, 334 StGB einschlaegig).
 
 ### Drittmittelforschung
 
-- Forschungsfoerderung durch Pharma- oder Industrie an Universitaeten: Sondervorschriften in den Hochschulgesetzen der Laender; bei ordnungsgemaesser Drittmittelgenehmigung kein Tatbestand. BGH 23.10.2002 — 1 StR 541/01 (Heidelberger Herzklinik) Leitentscheidung; Az. vor Verwendung verifizieren.
+- Forschungsfoerderung durch Pharma- oder Industrie an Universitaeten: Sondervorschriften in den Hochschulgesetzen der Länder; bei ordnungsgemaesser Drittmittelgenehmigung kein Tatbestand. BGH 23.10.2002 — 1 StR 541/01 (Heidelberger Herzklinik) Leitentscheidung; Az. vor Verwendung verifizieren.
 
 ## Praktikertipps Verteidigung
 
-- **Dienstausuebungsbezug angreifen.** War der Vorteil tatsaechlich "fuer die Dienstausuebung" oder rein privat (Familienanlass, Freundschaftsverhaeltnis)?
+- **Dienstausuebungsbezug angreifen.** War der Vorteil tatsaechlich "für die Dienstausuebung" oder rein privat (Familienanlass, Freundschaftsverhaeltnis)?
 - **Sozialadaequanz.** Branchenuebliche Aufmerksamkeiten unter Bagatellgrenze.
 - **Behoerdliche Genehmigung.** Nachtraegliche Genehmigung nach Anzeige im Sinne § 331 Abs. 3 StGB pruefen.
 - **Drittmittel-Konstellation.** Bei Forschungsfoerderung Drittmittelgenehmigung der Hochschulverwaltung pruefen.
@@ -309,9 +308,9 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder fuer den oeffentlichen D
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Bestreiten Dienstausuebungsbezug | Tatbestand entfaellt | Bei Behoerden-/Auftragskontext oft eng |
+| Bestreiten Dienstausuebungsbezug | Tatbestand entfaellt | Bei Behörden-/Auftragskontext oft eng |
 | Sozialadaequanz nachweisen | Tatbestand entfaellt | Schwellen restriktiv |
-| § 331 Abs. 3 StGB Genehmigung | Strafausschluss | Behoerden-Mitwirkung erforderlich |
+| § 331 Abs. 3 StGB Genehmigung | Strafausschluss | Behörden-Mitwirkung erforderlich |
 | Drittmittel-Genehmigung nachweisen | Strafausschluss | Dokumentation erforderlich |
 | Verstaendigung § 257c StPO | Planbarkeit | Bindung |
 | Schadenswiedergutmachung § 46a StGB | Strafmilderung | Eingestaendnis |
@@ -321,7 +320,7 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder fuer den oeffentlichen D
 - **§ 331 StGB / § 332 StGB Bestechlichkeit.** Spezialnorm bei pflichtwidriger Diensthandlung — § 332 vorrangig.
 - **§ 333 StGB / § 334 StGB Bestechung.** Spezialnorm bei pflichtwidriger Diensthandlung — § 334 vorrangig.
 - **§ 331 StGB / § 263 StGB.** Bei vermoegensschaedigendem Element.
-- **§ 331 StGB / § 266 StGB Untreue.** Bei Schaedigung der Behoerde.
+- **§ 331 StGB / § 266 StGB Untreue.** Bei Schaedigung der Behörde.
 - **§ 331 StGB / § 30 OWiG.** Verbandsgeldbusse bei Geber-Unternehmen.
 
 ## Strafzumessung und Folgen
@@ -331,22 +330,22 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder fuer den oeffentlichen D
 - **Einziehung § 73 StGB** Tatertrag (Vorteilsgegenstand oder Wertersatz).
 - **Berufsverbot § 70 StGB** insbes. bei Beamtenstatus.
 - **Disziplinarverfahren parallel** — bis zur Dienstentfernung § 13 BDG.
-- **Vergaberechtliche Konsequenzen** fuer Geber-Unternehmen ueber Wettbewerbsregister.
+- **Vergaberechtliche Konsequenzen** für Geber-Unternehmen ueber Wettbewerbsregister.
 - **§ 30 OWiG Verbandsgeldbusse** bis 10 Mio. EUR.
 
 ## Mustertexte
 
 ### Bestreiten Dienstausuebungsbezug
 
-"Ein Bezug der streitgegenstaendlichen Einladung zum Karnevalsempfang [Datum] zur Dienstausuebung des Mandanten ist nicht ersichtlich. Der Einladende [Name] ist langjaehriger persoenlicher Freund des Mandanten; die Einladung erfolgte aus rein freundschaftlichen Gruenden. Eine Verbindung zu konkreten oder allgemeinen Dienstgeschaeften ergibt sich aus der Akte nicht."
+"Ein Bezug der streitgegenstaendlichen Einladung zum Karnevalsempfang [Datum] zur Dienstausuebung des Mandanten ist nicht ersichtlich. Der Einladende [Name] ist langjaehriger persönlicher Freund des Mandanten; die Einladung erfolgte aus rein freundschaftlichen Gruenden. Eine Verbindung zu konkreten oder allgemeinen Dienstgeschaeften ergibt sich aus der Akte nicht."
 
 ### Antrag § 331 Abs. 3 StGB
 
-"Es wird auf den Strafausschluss gemaess § 331 Abs. 3 StGB hingewiesen. Der Mandant hat den von ihm nicht geforderten Vorteil (Einladung zur Festveranstaltung) unverzueglich nach Erhalt am [Datum] mit Schreiben vom [Datum] dem Dienstvorgesetzten [Name] angezeigt und die Genehmigung beantragt. Mit Schreiben des [Behoerde] vom [Datum] (Anlage K-2) wurde die Annahme genehmigt. Die Annahme war damit gerechtfertigt."
+"Es wird auf den Strafausschluss gemaess § 331 Abs. 3 StGB hingewiesen. Der Mandant hat den von ihm nicht geforderten Vorteil (Einladung zur Festveranstaltung) unverzueglich nach Erhalt am [Datum] mit Schreiben vom [Datum] dem Dienstvorgesetzten [Name] angezeigt und die Genehmigung beantragt. Mit Schreiben des [Behörde] vom [Datum] (Anlage K-2) wurde die Annahme genehmigt. Die Annahme war damit gerechtfertigt."
 
 ### Drittmittel-Verteidigung
 
-"Die Annahme der Drittmittel der [Pharmaunternehmen] erfolgte ordnungsgemaess nach den Drittmittel-Richtlinien der [Hochschule]. Mit Bescheid des Praesidiums vom [Datum] (Anlage K-3) wurde die Annahme genehmigt; die Verwendung erfolgte ausschliesslich fuer Forschungszwecke gemaess § [...] HRG / LHG."
+"Die Annahme der Drittmittel der [Pharmaunternehmen] erfolgte ordnungsgemaess nach den Drittmittel-Richtlinien der [Hochschule]. Mit Bescheid des Praesidiums vom [Datum] (Anlage K-3) wurde die Annahme genehmigt; die Verwendung erfolgte ausschliesslich für Forschungszwecke gemaess § [...] HRG / LHG."
 
 ## Querverweise
 
@@ -374,9 +373,9 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder fuer den oeffentlichen D
 
 ## Worum geht es
 
-Die Paragraphen 51 und 52 WaffG bilden das **Kernstrafrecht des Waffengesetzes**. Sie sanktionieren den unerlaubten Umgang mit Schusswaffen und Munition — Erwerb, Besitz, Fuehren, Ueberlassen, Verbringen, Herstellen, Bearbeiten, Instandsetzen ohne die nach WaffG erforderliche Erlaubnis. Geschuetztes Rechtsgut: die oeffentliche Sicherheit und Ordnung im Hinblick auf das Gefahrenpotential von Schusswaffen.
+Die Paragraphen 51 und 52 WaffG bilden das **Kernstrafrecht des Waffengesetzes**. Sie sanktionieren den unerlaubten Umgang mit Schusswaffen und Munition — Erwerb, Besitz, Fuehren, Ueberlassen, Verbringen, Herstellen, Bearbeiten, Instandsetzen ohne die nach WaffG erforderliche Erlaubnis. Geschuetztes Rechtsgut: die öffentliche Sicherheit und Ordnung im Hinblick auf das Gefahrenpotential von Schusswaffen.
 
-Anwendungsfaelle: nicht angemeldete Pistole im Wohnungstresor; geerbte Schusswaffe ohne Erbenmeldung; illegal gefuehrte Schreckschusswaffe in der Oeffentlichkeit; unerlaubter Erwerb von Munition; Bandenmaessiger Waffenhandel; Verbringen ohne Erlaubnis aus EU-Mitgliedstaat. Schwerpunkt der Praxis: Erbfaelle, Funde, Privatleute mit unklarer Erlaubnislage.
+Anwendungsfaelle: nicht angemeldete Pistole im Wohnungstresor; geerbte Schusswaffe ohne Erbenmeldung; illegal gefuehrte Schreckschusswaffe in der Oeffentlichkeit; unerlaubter Erwerb von Munition; Bandenmäßiger Waffenhandel; Verbringen ohne Erlaubnis aus EU-Mitgliedstaat. Schwerpunkt der Praxis: Erbfaelle, Funde, Privatleute mit unklarer Erlaubnislage.
 
 ## Tatbestand und Auslegung
 
@@ -396,16 +395,16 @@ Strafrahmen: **Freiheitsstrafe von einem Jahr bis zu zehn Jahren** (Verbrechen).
 - **Vollautomatische Waffen** ausserhalb des Militaer- und Polizeibereichs.
 - **Pump-Guns mit Pistolengriff** und bestimmte halbautomatische Gewehre nach Anlage 2 Abschnitt 1.
 - **Schalldaempfer** ohne Erlaubnis.
-- **Bestimmte Munition** wie Hohlspitzgeschosse fuer Pistolen.
+- **Bestimmte Munition** wie Hohlspitzgeschosse für Pistolen.
 
 ### Erlaubnistatbestaende
 
 Voraussetzung ist regelmaessig eine waffenrechtliche Erlaubnis nach Paragraph 10 WaffG:
 
-- **Waffenbesitzkarte** (WBK) fuer Sportschuetzen, Jaeger, Sammler.
-- **Waffenschein** (kleiner Waffenschein fuer Schreckschuss / grosser Waffenschein fuer scharfe Waffen).
+- **Waffenbesitzkarte** (WBK) für Sportschuetzen, Jaeger, Sammler.
+- **Waffenschein** (kleiner Waffenschein für Schreckschuss / grosser Waffenschein für scharfe Waffen).
 - **Munitionserwerbschein**.
-- **Erlaubnis nach Paragraph 21 WaffG** fuer gewerbliche Tatbestaende.
+- **Erlaubnis nach Paragraph 21 WaffG** für gewerbliche Tatbestaende.
 
 ### Wesentliche Bauteile
 
@@ -417,8 +416,8 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 ## Praktikertipps Verteidigung
 
-- **Erlaubnis pruefen.** Hat der Mandant eine WBK fuer eine andere Waffe? Ist das Eintragsdatum auf der WBK aktuell? Liegt eine Erbenmeldung nach Paragraph 20 WaffG vor (innerhalb eines Monats nach Erbfall)?
-- **Verbotsirrtum bei Erbe.** Erbe einer scharfen Waffe ohne waffenrechtliche Kenntnisse: hat einen Monat Zeit fuer die Erbenmeldung. Wenn der Mandant das nicht wusste, kann Verbotsirrtum nach Paragraph 17 StGB greifen (regelmaessig vermeidbar, aber strafmildernd).
+- **Erlaubnis pruefen.** Hat der Mandant eine WBK für eine andere Waffe? Ist das Eintragsdatum auf der WBK aktuell? Liegt eine Erbenmeldung nach Paragraph 20 WaffG vor (innerhalb eines Monats nach Erbfall)?
+- **Verbotsirrtum bei Erbe.** Erbe einer scharfen Waffe ohne waffenrechtliche Kenntnisse: hat einen Monat Zeit für die Erbenmeldung. Wenn der Mandant das nicht wusste, kann Verbotsirrtum nach Paragraph 17 StGB greifen (regelmaessig vermeidbar, aber strafmildernd).
 - **Anscheinswaffe-Schwelle pruefen.** Anscheinswaffen sind ueber Paragraph 42a WaffG nur in der Oeffentlichkeit verboten; Privatbesitz unproblematisch.
 - **Schreckschuss-Pistole — kleiner Waffenschein.** Fuer das Fuehren in der Oeffentlichkeit ist kleiner Waffenschein erforderlich. Reines Besitzen daheim oft ohne Erlaubnis moeglich.
 - **Antikwaffen.** Waffen vor 1871 sind nach Paragraph 12 WaffG erlaubnisfrei. Sammlerstuecke sorgfaeltig dokumentieren.
@@ -433,10 +432,10 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 ## Konkurrenzen
 
-- **Paragraph 51 WaffG und Paragraph 52 WaffG.** Spezialitaet — Paragraph 51 WaffG fuer verbotene Waffen, Paragraph 52 WaffG fuer erlaubnispflichtige.
+- **Paragraph 51 WaffG und Paragraph 52 WaffG.** Spezialitaet — Paragraph 51 WaffG für verbotene Waffen, Paragraph 52 WaffG für erlaubnispflichtige.
 - **Paragraph 52 WaffG und Paragraph 244 I Nr 1 a StGB.** Bei Diebstahl mit Waffe tritt Paragraph 244 I Nr 1 a StGB an die Stelle; Paragraph 52 WaffG kann in Tateinheit treten, wenn weiterer Erlaubnisverstoss.
 - **Paragraph 52 WaffG und Paragraph 224 StGB gefaehrliche Koerperverletzung.** Tatmehrheit, wenn Waffe bei Koerperverletzung verwendet.
-- **Paragraph 52 WaffG und Paragraph 261 StGB Geldwaesche.** Bei gewerblich-bandenmaessiger Waffenhandel.
+- **Paragraph 52 WaffG und Paragraph 261 StGB Geldwaesche.** Bei gewerblich-bandenmäßiger Waffenhandel.
 - **Paragraph 51 WaffG und Paragraph 53 WaffG Versuch.** Versuch des Verbrechens nach Paragraph 51 WaffG ist strafbar.
 
 ## Strafzumessung und Folgen
@@ -445,8 +444,8 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 - **Strafrahmen Paragraph 51 Abs 1 WaffG:** Freiheitsstrafe von einem Jahr bis zu zehn Jahren (Verbrechen).
 - **Qualifikation Paragraph 51 Abs 2 WaffG bandenmaessig oder gewerbsmaessig:** Freiheitsstrafe von einem Jahr bis zu fuenfzehn Jahren.
 - **Einziehung Paragraph 73 StGB** der Waffen und Munition.
-- **Waffenrechtliche Folgen:** Widerruf der Erlaubnis nach Paragraph 45 WaffG; Sperre fuer Neuerteilung.
-- **Berufsverbot Paragraph 70 StGB** bei gewerbsmaessigem Waffenhandel.
+- **Waffenrechtliche Folgen:** Widerruf der Erlaubnis nach Paragraph 45 WaffG; Sperre für Neuerteilung.
+- **Berufsverbot Paragraph 70 StGB** bei gewerbsmäßigem Waffenhandel.
 - BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe ueber 90 Tagessaetzen.
 - Bei Auslaender Ausweisungsrisiko Paragraph 53 AufenthG.
 
@@ -480,7 +479,6 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 - Hinweis: Paragraph 244 I Nr 1 a StGB Diebstahl mit Waffe; Paragraph 244 I Nr 2 StGB Bandendiebstahl. Paragraph 244 IV StGB existiert nicht; das ist ein gelegentlicher Irrtum.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -491,7 +489,7 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 ## 5. `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
 
-**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete oeffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo fuer Vergabe Mischverwaltung Public-Private-Partnership.
+**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership.
 
 # Sektorenwechsel und wirtschaftliche Bestechung bei Amtsverhaeltnis
 
@@ -501,9 +499,9 @@ Spezial-Mandat: Komplexe Korruptionsanklage mit Sektorenwechsel oder Doppelfunkt
 
 - **Public-Private-Partnership (PPP):** Geschaeftsfuehrer einer kommunalen GmbH; teils Amtstraeger, teils privater Akteur.
 - **Beauftragter im Sinne § 299 StGB** versus **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.**
-- **Wechsel zwischen Behoerde und Privatsektor (Drehtuer)** und sich anschliessende Vergabe.
+- **Wechsel zwischen Behörde und Privatsektor (Drehtuer)** und sich anschliessende Vergabe.
 - **Kommunale Mandatstraeger** (Buergermeister, Gemeinderaete, Kreistagsabgeordnete) — Sondertatbestand § 108e StGB Maßgaben.
-- **Beauftragte oeffentlicher Aufgabentraeger** (TUEV, DEKRA, IHK, Notare, Kammern).
+- **Beauftragte öffentlicher Aufgabentraeger** (TUEV, DEKRA, IHK, Notare, Kammern).
 
 BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteidigung: Bei pflichtwidrigem Konnex zu konkreter Diensthandlung (§§ 332/334 StGB), bei reiner Klimapflege (§§ 331/333 StGB) oder bei privatem Sektor (§ 299 StGB).
 
@@ -522,10 +520,10 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 - **§ 11 Abs. 1 Nr. 2 StGB Amtstraeger:**
  - lit. a Beamter / Richter.
  - lit. b sonstige Person in oeffentlich-rechtlichem Amtsverhaeltnis.
- - lit. c Person, die sonst dazu bestellt ist, bei einer Behoerde oder bei einer sonstigen Stelle oder in deren Auftrag **Aufgaben der oeffentlichen Verwaltung** wahrzunehmen.
+ - lit. c Person, die sonst dazu bestellt ist, bei einer Behörde oder bei einer sonstigen Stelle oder in deren Auftrag **Aufgaben der öffentlichen Verwaltung** wahrzunehmen.
 - **§ 11 Abs. 1 Nr. 4 StGB Soldat.**
-- **Beauftragter oeffentlicher Aufgaben.** TUEV-Pruefer (Verkehrssicherheit), Bezirksschornsteinfeger; BGH staendige Rspr. — Aktenzeichen vor Verwendung verifizieren.
-- **GmbH-Geschaeftsfuehrer der oeffentlichen Hand.** Pruefkriterien BGH: Funktionsgehalt, kommunale Aufgabenerfuellung, Mitfinanzierung. Bei Daseinsvorsorge (Wasser, Stadtwerke, Abfall) eher Amtstraeger; bei rein wirtschaftlicher Taetigkeit eher nicht.
+- **Beauftragter öffentlicher Aufgaben.** TUEV-Pruefer (Verkehrssicherheit), Bezirksschornsteinfeger; BGH staendige Rspr. — Aktenzeichen vor Verwendung verifizieren.
+- **GmbH-Geschaeftsfuehrer der öffentlichen Hand.** Pruefkriterien BGH: Funktionsgehalt, kommunale Aufgabenerfuellung, Mitfinanzierung. Bei Daseinsvorsorge (Wasser, Stadtwerke, Abfall) eher Amtstraeger; bei rein wirtschaftlicher Taetigkeit eher nicht.
 
 ### Schritt 2: Privater Sektor § 299 StGB?
 
@@ -549,8 +547,8 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 - **Sektorzuordnung erkaempfen.** Bei Doppelfunktion ist die Zuordnung zur weniger sanktionierten Norm verteidigungsstrategisch zentral. § 299 StGB Strafrahmen (bis 3 Jahre) deutlich unter §§ 332/334 StGB (bis 5 Jahre, bei Richtern bis 10 Jahre).
 - **Beziehungs- vs. Tatleistung darstellen.** BGH-Linie zur Abgrenzung der Klimapflege (§ 331/333) gegen Pflichtwidrigkeitsgeschaeft (§ 332/334): bei reiner Beziehungspflege ohne konkrete Pflichtverletzung Rueckfall auf milderen Tatbestand.
-- **Amtstraegereigenschaft GmbH-Geschaeftsfuehrer angreifen.** Bei wirtschaftlich orientierten GmbH der oeffentlichen Hand (z. B. Messegesellschaft, Wirtschaftsfoerderung) kann Amtstraegereigenschaft fehlen — Argumentation: Funktionsgehalt rein wirtschaftlich, keine hoheitliche Aufgabe.
-- **§ 108e StGB Mandatstraeger.** Bei kommunalen Mandatstraegern (Buergermeister, Gemeinderat, Kreistag) ist § 108e StGB Spezialnorm fuer Mandatstraegerbestechung — Strafrahmen bis fuenf Jahre.
+- **Amtstraegereigenschaft GmbH-Geschaeftsfuehrer angreifen.** Bei wirtschaftlich orientierten GmbH der öffentlichen Hand (z. B. Messegesellschaft, Wirtschaftsfoerderung) kann Amtstraegereigenschaft fehlen — Argumentation: Funktionsgehalt rein wirtschaftlich, keine hoheitliche Aufgabe.
+- **§ 108e StGB Mandatstraeger.** Bei kommunalen Mandatstraegern (Buergermeister, Gemeinderat, Kreistag) ist § 108e StGB Spezialnorm für Mandatstraegerbestechung — Strafrahmen bis fuenf Jahre.
 - **Compliance-Defence** insbesondere bei Geberunternehmen wichtig.
 - **Verstaendigung § 257c StPO** strategisch zur Sektorzuordnung verhandeln.
 
@@ -569,8 +567,8 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 - **§§ 332/334 StGB / § 299 StGB.** Bei Amtstraegereigenschaft Spezialitaet §§ 332/334.
 - **§§ 331/333 StGB / § 299 StGB.** Bei Amtstraegereigenschaft Spezialitaet §§ 331/333.
-- **§ 108e StGB** Spezialnorm fuer Mandatstraeger.
-- **§ 266 StGB Untreue.** Tateinheit bei Schaedigung Geschaeftsherr / Behoerde.
+- **§ 108e StGB** Spezialnorm für Mandatstraeger.
+- **§ 266 StGB Untreue.** Tateinheit bei Schaedigung Geschaeftsherr / Behörde.
 - **§ 263 StGB.** Bei Vermoegensschaedigung.
 - **§ 261 StGB Geldwaesche.** Nach Reform 2021.
 - **§ 30 OWiG.** Verbandsgeldbusse Geber-Unternehmen.
@@ -590,7 +588,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 ### Sektorzuordnung Verteidigung
 
-"Der Mandant war zur Tatzeit als Geschaeftsfuehrer der [Kommunale GmbH] taetig. Eine Amtstraegereigenschaft im Sinne des § 11 Abs. 1 Nr. 2 lit. c StGB wird bestritten. Die GmbH erfuellte zur Tatzeit ueberwiegend wirtschaftliche Aufgaben (Messewesen, Standortmarketing), nicht jedoch Aufgaben der oeffentlichen Verwaltung im engeren Sinne. Eine Behandlung nach §§ 332 / 334 StGB scheidet damit aus; allenfalls greift § 299 StGB."
+"Der Mandant war zur Tatzeit als Geschaeftsfuehrer der [Kommunale GmbH] taetig. Eine Amtstraegereigenschaft im Sinne des § 11 Abs. 1 Nr. 2 lit. c StGB wird bestritten. Die GmbH erfuellte zur Tatzeit ueberwiegend wirtschaftliche Aufgaben (Messewesen, Standortmarketing), nicht jedoch Aufgaben der öffentlichen Verwaltung im engeren Sinne. Eine Behandlung nach §§ 332 / 334 StGB scheidet damit aus; allenfalls greift § 299 StGB."
 
 ### Beziehungs- versus Tatleistung
 
@@ -613,15 +611,15 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 ## 6. `strafrecht-spezial-zahlungsverbot-15b-inso`
 
-**Fokus:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien fuer den Geschaeftsleiter im Wirtschaftsstrafverfahren.
+**Fokus:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien für den Geschaeftsleiter im Wirtschaftsstrafverfahren.
 
 # Zahlungsverbot nach Paragraph 15b InsO
 
 ## Worum geht es konkret
 
-Paragraph 15b InsO (in Kraft seit 01.01.2021 als Nachfolger des Paragraph 64 GmbHG aF) ist **kein Strafgesetz**, sondern ein zivilrechtlicher Erstattungstatbestand. Der Geschaeftsleiter haftet persoenlich gegenueber der Gesellschaft fuer Zahlungen, die er nach Eintritt der Zahlungsunfaehigkeit oder Ueberschuldung leistet. Anwendungsfall: GF zahlt nach materieller Insolvenz noch Gehaltszahlungen, Lieferantenrechnungen, Tilgungen.
+Paragraph 15b InsO (in Kraft seit 01.01.2021 als Nachfolger des Paragraph 64 GmbHG aF) ist **kein Strafgesetz**, sondern ein zivilrechtlicher Erstattungstatbestand. Der Geschaeftsleiter haftet persoenlich gegenueber der Gesellschaft für Zahlungen, die er nach Eintritt der Zahlungsunfaehigkeit oder Ueberschuldung leistet. Anwendungsfall: GF zahlt nach materieller Insolvenz noch Gehaltszahlungen, Lieferantenrechnungen, Tilgungen.
 
-Strafrechtlich relevant ist Paragraph 15b InsO als **Indizientraeger** fuer Paragraph 283c StGB Glaeubigerbeguenstigung und Paragraph 266 StGB Untreue. Wer gegen Paragraph 15b InsO verstoesst, hat zumindest in Bezug auf das Vermoegen der GmbH eine Pflichtverletzung begangen, die in der Strafkammer schnell als Untreuevorwurf aufgenommen wird.
+Strafrechtlich relevant ist Paragraph 15b InsO als **Indizientraeger** für Paragraph 283c StGB Glaeubigerbeguenstigung und Paragraph 266 StGB Untreue. Wer gegen Paragraph 15b InsO verstoesst, hat zumindest in Bezug auf das Vermoegen der GmbH eine Pflichtverletzung begangen, die in der Strafkammer schnell als Untreuevorwurf aufgenommen wird.
 
 ## Tatbestand im Detail
 
@@ -646,11 +644,11 @@ Der Geschaeftsleiter erstattet die unzulaessigen Zahlungen an die Masse. Der Ers
 
 ### Absatz 5 Steuerzahlungen
 
-Sonderregel fuer Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschuldete Steuern *zulaessig*, wenn die Zahlung bei einem Verstoss gegen das Zahlungsverbot zu haftungs- oder strafrechtlichen Folgen fuer den GF fuehren wuerde. Spannungsverhaeltnis zur Massesicherung.
+Sonderregel für Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschuldete Steuern *zulaessig*, wenn die Zahlung bei einem Verstoss gegen das Zahlungsverbot zu haftungs- oder strafrechtlichen Folgen für den GF fuehren wuerde. Spannungsverhaeltnis zur Massesicherung.
 
 ## Praktikertipps der alten Hasen
 
-- **Paragraph 15b InsO ist nicht strafbewehrt.** Aber sehr wohl strafrechtsrelevant: ein zivilrechtlicher Erstattungsanspruch ist Indiz fuer Pflichtwidrigkeit und damit fuer Paragraph 266 StGB Untreue oder Paragraph 283 StGB Bankrott. Verteidigung: Trennung der Sphaeren betonen.
+- **Paragraph 15b InsO ist nicht strafbewehrt.** Aber sehr wohl strafrechtsrelevant: ein zivilrechtlicher Erstattungsanspruch ist Indiz für Pflichtwidrigkeit und damit für Paragraph 266 StGB Untreue oder Paragraph 283 StGB Bankrott. Verteidigung: Trennung der Sphaeren betonen.
 - **Sorgfaltsmassstab ex ante.** Der GF muss zum Zahlungszeitpunkt mit zumutbarem Aufwand pruefen koennen, ob die Zahlung der Sanierung dient. Nachtraegliches Wissen ist nicht massgeblich.
 - **Lohnzahlung an Mitarbeiter regelmaessig zulaessig.** Insolvenzgeld bis 3 Monate sichert die Mitarbeiter; aber der GF muss in der Krise pruefen, ob die Lohnzahlung sinnvoll ist oder ob Insolvenzantrag zu stellen ist (Schutz vor Paragraph 266a StGB).
 - **Steuerzahlung pflichtgemaess.** BGH staendige Rspr. zur Pflichtenkollision: Steuerzahlung in der Krise ist nicht per se Verstoss gegen Zahlungsverbot.
@@ -680,7 +678,7 @@ Sonderregel fuer Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 
 **Schutzschrift-Snippet:** "Die Zahlungen meines Mandanten in der antragslosen Phase erfolgten ausschliesslich zur Aufrechterhaltung des Geschaeftsbetriebs iSv Paragraph 15b Abs 2 Nr 2 InsO. Die Sanierungsbemuehungen mit dem Investor X waren zum Zahlungszeitpunkt nicht abgeschlossen. Eine strafrechtliche Relevanz nach Paragraph 266 StGB oder Paragraph 283c StGB scheidet wegen pflichtgemaesser Sanierungsfortfuehrung aus."
 
-**Einlassungs-Snippet:** "Ich habe die Loehne fuer Maerz 2026 noch ueberwiesen, weil ich davon ausging, dass die Mitarbeiter sonst sofort gekuendigt haetten und damit auch die Insolvenzgeldzahlung nicht haette gesichert werden koennen. Das war meine Pflicht als Arbeitgeber (Paragraph 266a StGB)."
+**Einlassungs-Snippet:** "Ich habe die Loehne für Maerz 2026 noch ueberwiesen, weil ich davon ausging, dass die Mitarbeiter sonst sofort gekuendigt haetten und damit auch die Insolvenzgeldzahlung nicht haette gesichert werden koennen. Das war meine Pflicht als Arbeitgeber (Paragraph 266a StGB)."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Y (Sanierungsberater) zu erheben zum Beweis der Tatsache, dass die Zahlungen in der Phase zwischen DD.MM. und DD.MM.JJJJ Teil eines schluessigen Sanierungskonzepts waren."
 
@@ -701,7 +699,6 @@ Sonderregel fuer Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 - BGH staendige Rspr. zum ex ante-Sorgfaltsmassstab.
 - BGH staendige Rspr. zur Pflichtenkollision Steuerzahlung vs. Massesicherung.
 - BGH staendige Rspr. zum Sanierungsfenster der 3-Wochen-Frist nach Paragraph 15b Abs 2 Nr 2 InsO.
-
 
 ## Qualitäts-Hardening
 
@@ -743,10 +740,10 @@ Spezial-Mandat: Anklage Wucher nach § 291 StGB. Klassische Konstellationen:
 
 Wer **die Zwangslage, die Unerfahrenheit, den Mangel an Urteilsvermoegen oder die erhebliche Willensschwaeche** eines anderen **ausbeutet**, indem er sich oder einem Dritten:
 
-1. **fuer die Vermietung von Raeumen zum Wohnen** oder damit verbundenen Nebenleistungen,
-2. **fuer die Gewaehrung eines Kredits**,
-3. **fuer eine sonstige Leistung** oder
-4. **fuer die Vermittlung** einer der vorbezeichneten Leistungen
+1. **für die Vermietung von Raeumen zum Wohnen** oder damit verbundenen Nebenleistungen,
+2. **für die Gewaehrung eines Kredits**,
+3. **für eine sonstige Leistung** oder
+4. **für die Vermittlung** einer der vorbezeichneten Leistungen
 
 **Vermoegensvorteile versprechen oder gewaehren laesst**, die in einem **auffaelligen Missverhaeltnis** zur Leistung oder ihrer Vermittlung stehen.
 
@@ -774,7 +771,7 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 - **Auffälliges Missverhältnis quantitativ prüfen.** Mietspiegel und Sachverständiger; bei deutlich unterhalb der strafrechtlichen Indizschwelle eher § 5 WiStrG 1954, Mietpreisbremse oder Zivilrecht prüfen.
 - **Subjektive Komponente Ausbeuten.** Hatte Vermieter / Kreditgeber Kenntnis der Zwangslage? Bei Standardkonditionen ohne Kenntnis der Lebensumstaende oft fehlend.
 - **Marktueblichkeit.** Privatdarlehen koennen hoehere Risikoaufschlaege rechtfertigen — Vergleich mit aehnlich risikobehafteten Kreditprodukten.
-- **§ 138 BGB Sittenwidrigkeit** zivilrechtlich pruefen (oft Vorgriff): Bei sittenwidrigem Vertrag ggf. Indiz fuer Strafrechtsvorsatz.
+- **§ 138 BGB Sittenwidrigkeit** zivilrechtlich pruefen (oft Vorgriff): Bei sittenwidrigem Vertrag ggf. Indiz für Strafrechtsvorsatz.
 - **Verstaendigung § 257c StPO** bei Einzelfall.
 
 ## Trade-off-Matrix
@@ -863,7 +860,7 @@ Strafrechtsspezifische Interessen-Cluster:
 - Berufliche Folgen (Berufsverbot, gewerberechtliche Folgen, Approbationsentzug, Anwaltszulassung).
 - Verfahrensdauer (Haftgrund, U-Haft-Vollzug, Beschleunigungsgebot).
 - Adhaesionsverfahren (zivilrechtliche Anspruche des Verletzten im Strafprozess).
-- Oeffentlichkeit (oeffentliche Hauptverhandlung vs. Einstellung im Ermittlungsverfahren).
+- Oeffentlichkeit (öffentliche Hauptverhandlung vs. Einstellung im Ermittlungsverfahren).
 - Schadenswiedergutmachung gegenueber Verletzten als Strafmilderungsgrund (§ 46 Abs. 2 StGB, § 46a StGB).
 
 ### 3. Hebel und Grenzen im Strafverfahren
@@ -913,15 +910,15 @@ Strafrechtsspezifische Interessen-Cluster:
 
 - Verhandlung mit Staatsanwaltschaft im Ermittlungsverfahren oder mit Gericht im Hauptverfahren.
 - Auflagenhoehe an wirtschaftliche Leistungsfaehigkeit anpassen.
-- Frist zur Erfuellung in Wochen statt Monaten ist guenstig fuer Mandantin oder Mandanten.
+- Frist zur Erfuellung in Wochen statt Monaten ist guenstig für Mandantin oder Mandanten.
 - Nach Erfuellung: Verfahrenseinstellung, keine Eintragung im BZR (aber Mitteilung an zentrale staatsanwaltliche Verfahrensregister).
 
 ## Adhaesionsvergleich (§§ 403 bis 406c StPO)
 
 - Verletzte/r macht zivilrechtlichen Anspruch im Strafverfahren geltend.
 - Vergleichsmoeglichkeit nach § 405 StPO: Gericht protokolliert Vergleich, der Vollstreckungstitel ist.
-- Vorteil fuer Angeklagte/n: Schadenswiedergutmachung wirkt strafmildernd; einheitliches Verfahren statt parallele Zivilklage.
-- Vorteil fuer Verletzte: Vollstreckungstitel ohne Zivilkostenrisiko.
+- Vorteil für Angeklagte/n: Schadenswiedergutmachung wirkt strafmildernd; einheitliches Verfahren statt parallele Zivilklage.
+- Vorteil für Verletzte: Vollstreckungstitel ohne Zivilkostenrisiko.
 - Cross-Ref: `fachanwalt-strafrecht-adhaesionsverfahren`.
 
 ## Verhandlungs-Skripte (strafrechtsspezifisch)
@@ -978,11 +975,11 @@ Strafrechtsspezifische Interessen-Cluster:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme und Erstprognose.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer Schriftsaetze, wenn Verstaendigung scheitert.
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` (im selben Plugin) fuer die formale Verstaendigung.
-- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) fuer Adhaesion und Vergleich gemaess § 405 StPO.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) fuer Verhandlungen mit Nebenklage.
+- `erstgespraech-mandatsannahme` (im selben Plugin) für Mandatsannahme und Erstprognose.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für Schriftsaetze, wenn Verstaendigung scheitert.
+- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` (im selben Plugin) für die formale Verstaendigung.
+- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) für Adhaesion und Vergleich gemaess § 405 StPO.
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) für Verhandlungen mit Nebenklage.
 
 ## Aktuelle Rechtsprechung Verstaendigung / Einigung
 

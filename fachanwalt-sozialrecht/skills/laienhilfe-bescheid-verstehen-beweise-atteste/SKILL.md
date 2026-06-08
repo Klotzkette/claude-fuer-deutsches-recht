@@ -7,28 +7,28 @@ description: "Laienhilfe Bescheid Verstehen Beweise Atteste im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Laienhilfe Bescheid Verstehen Beweise Atteste** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Bescheid, Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste, Laienverstaendlicher Sozialrechts-Skill zu Buergergeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Laienhilfe Bescheid Verstehen Beweise Atteste** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Bescheid, Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste, Laienverstaendlicher Sozialrechts-Skill zu Buergergeld. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-bescheid-verstehen` | Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-beweise-atteste` | Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-buergergeld-bedarf` | Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-checkliste-vor-absenden` | Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-bescheid-verstehen` | Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-beweise-atteste` | Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-buergergeld-bedarf` | Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-checkliste-vor-absenden` | Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-bescheid-verstehen`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Bescheid Verstehen
 
@@ -39,7 +39,6 @@ description: "Laienhilfe Bescheid Verstehen Beweise Atteste im Plugin Fachanwalt
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -98,7 +97,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -109,7 +107,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-beweise-atteste`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Beweise Atteste
 
@@ -120,7 +118,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -171,7 +168,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## Beweise / Atteste - Themenspezifika
 - **Rechtsgrundlage Beweiswuerdigung im SG:** § 103 SGG Amtsermittlungsgrundsatz; § 128 SGG freie Beweiswuerdigung; § 109 SGG Wahl-Sachverstaendiger der Beteiligten.
-- **Diagnose vs. Funktionsbeeintraechtigung:** **Eine Diagnose allein begruendet keinen Leistungsanspruch** - im Sozialrecht zaehlt die Funktionsbeeintraechtigung im Alltag (gilt fuer GdB, Pflegegrad, EM-Rente). Konkret beschreiben: Gehstrecke, Sitzdauer, Belastungsgrenzen, Schlafdauer, Konzentrationsspanne.
+- **Diagnose vs. Funktionsbeeintraechtigung:** **Eine Diagnose allein begruendet keinen Leistungsanspruch** - im Sozialrecht zaehlt die Funktionsbeeintraechtigung im Alltag (gilt für GdB, Pflegegrad, EM-Rente). Konkret beschreiben: Gehstrecke, Sitzdauer, Belastungsgrenzen, Schlafdauer, Konzentrationsspanne.
 - **Attest-Anforderungen:**
  - Briefkopf, Arzt-Stempel, Datum.
  - Diagnose mit ICD-10-Code.
@@ -179,15 +176,14 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Funktionsbeschreibung** (kann nicht laenger als 30 Min. sitzen, kein Heben ueber 5 kg, Konzentration ueber 15 Min. eingeschraenkt).
  - Prognose (kurz-, mittel-, langfristig).
 - **Befundberichte:** Hausarzt, Fachaerzte, Klinikentlassungs-Berichte, Reha-Entlassungsberichte, Gutachten DRV/MD.
-- **Schweigepflichtentbindung § 17 SGB I, § 76 SGB X:** schriftlich und konkret (welche Aerzte, welcher Zeitraum, welche Behoerde) - Recht auf Information welche Daten weitergeleitet werden.
+- **Schweigepflichtentbindung § 17 SGB I, § 76 SGB X:** schriftlich und konkret (welche Aerzte, welcher Zeitraum, welche Behörde) - Recht auf Information welche Daten weitergeleitet werden.
 - **Eigene Stellungnahme - Pflegetagebuch:** ueber 14 Tage detailliert; Zeitangaben pro Modul.
 - **Bei kontroversen Gutachten:**
  - **Akteneinsicht** § 25 SGB X / § 120 SGG zur Pruefung Gutachten.
  - **Stellungnahme** behandelnder Aerzte einholen.
  - **§ 109 SGG Antrag** auf Wahl-Sachverstaendigen vor dem SG (Kostentragung Antragsteller; bei Erfolg ueber § 192 SGG-Regelung diskutabel).
-- **Beweislast:** Versicherter / Antragsteller fuer leistungsbegruendende Tatsachen; Behoerde fuer leistungsausschliessende Tatsachen (BSG-Linie). Nichterweislichkeit geht zu Lasten der Partei mit Beweislast.
+- **Beweislast:** Versicherter / Antragsteller für leistungsbegruendende Tatsachen; Behörde für leistungsausschliessende Tatsachen (BSG-Linie). Nichterweislichkeit geht zu Lasten der Partei mit Beweislast.
 - **Praxis-Tipp:** Aussage Angehoeriger / Pflegekraefte als ergaenzende Beweise; Fotos im Alltag (eingeschraenkte Bewegung, Hilfsmittel); Tagebuch ueber Schmerz, Schlaf, Mobilitaet.
-
 
 ## Qualitäts-Hardening
 
@@ -199,7 +195,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-buergergeld-bedarf`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Buergergeld Bedarf
 
@@ -210,7 +206,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -223,8 +218,8 @@ Dieser Skill erklaert **Buergergeld Bedarf** so, dass auch Menschen ohne juristi
 - Vorlaeufige Bewilligung: § 41a SGB II – wenn Anspruch besteht, aber Hoehe noch nicht abschliessend feststeht (z.B. schwankendes Einkommen Selbststaendige).
 - Einkommen / Vermoegen: §§ 11, 11a, 11b SGB II (Einkommen); § 12 SGB II Vermoegens­freibetrag (im Schonvermoegen).
 - Sanktionen / Leistungsminderung: § 31a SGB II – nach BVerfG-Entscheidung 2019 max. 30 Prozent; mit Aenderungen 2022/23 weiter eingeschraenkt.
-- Bildung und Teilhabe: § 28 SGB II fuer Kinder.
-- Praxis-Tipp: Bei abgelehntem Buergergeld sofort Widerspruch (§ 84 SGG ein Monat) + Antrag auf vorlaeufige Leistungen § 41a SGB II / Eilantrag § 86b Abs. 2 SGG. Bei Sanktion immer Anhoerung und Wichtigen Grund nachweisen (Krankheit, Kinderbetreuung, etc.). KdU-Bescheid kritisch lesen – Angemessenheits­konzept der Kommune einsehen lassen.
+- Bildung und Teilhabe: § 28 SGB II für Kinder.
+- Praxis-Tipp: Bei abgelehntem Buergergeld sofort Widerspruch (§ 84 SGG ein Monat) + Antrag auf vorläufige Leistungen § 41a SGB II / Eilantrag § 86b Abs. 2 SGG. Bei Sanktion immer Anhörung und Wichtigen Grund nachweisen (Krankheit, Kinderbetreuung, etc.). KdU-Bescheid kritisch lesen – Angemessenheits­konzept der Kommune einsehen lassen.
 
 ## Erst sortieren
 
@@ -268,7 +263,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
 
 ## Qualitäts-Hardening
 
@@ -280,7 +274,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-checkliste-vor-absenden`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Checkliste Vor Absenden
 
@@ -292,7 +286,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum es geht
 
 Dieser Skill erklaert **Checkliste Vor Absenden** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
@@ -302,10 +295,10 @@ Dieser Skill erklaert **Checkliste Vor Absenden** so, dass auch Menschen ohne ju
 - Mindestinhalt Widerspruch: § 84 SGG – Form: schriftlich oder zur Niederschrift; Inhalt: Aktenzeichen, klares Begehren, ggf. Begruendung (Begruendung kann nachgereicht werden).
 - Mindestinhalt Klage SG: § 92 SGG – Beklagter, Streitgegenstand, bestimmter Antrag, Tatsachen.
 - Klage zu Protokoll: § 90 SGG.
-- Anlagen / Abschriften: § 93 SGG – fuer jeden Beteiligten eine Abschrift; bei beA Verteidiger andere Regeln.
+- Anlagen / Abschriften: § 93 SGG – für jeden Beteiligten eine Abschrift; bei beA Verteidiger andere Regeln.
 - Form: Schriftform mit Unterschrift; bei Fax aufzubewahrender Sendebericht; bei beA-Versand qualifizierte elektronische Signatur (Anwaltszwang bei beA-Pflicht).
-- Frist: § 84/87 SGG ein Monat – Eingang beim Gericht/Behoerde entscheidend; rechtzeitige Aufgabe zur Post reicht NICHT.
-- Praxis-Tipp: Vier-Punkte-Pruefung vor Absenden: (1) Aktenzeichen im Schriftsatz, (2) konkreter Antrag/Begehren, (3) Unterschrift (eigenhaendig), (4) Frist gesichert (Eingangstag + ggf. Versandnachweis). Sendung per Einschreiben mit Rueckschein oder Fax mit OK-Sendebericht; Eingangsstempel am Folgetag bei Gericht/Behoerde telefonisch bestaetigen lassen. Kopie aller Schriftsaetze fuer eigene Akte.
+- Frist: § 84/87 SGG ein Monat – Eingang beim Gericht/Behörde entscheidend; rechtzeitige Aufgabe zur Post reicht NICHT.
+- Praxis-Tipp: Vier-Punkte-Pruefung vor Absenden: (1) Aktenzeichen im Schriftsatz, (2) konkreter Antrag/Begehren, (3) Unterschrift (eigenhaendig), (4) Frist gesichert (Eingangstag + ggf. Versandnachweis). Sendung per Einschreiben mit Rueckschein oder Fax mit OK-Sendebericht; Eingangsstempel am Folgetag bei Gericht/Behörde telefonisch bestaetigen lassen. Kopie aller Schriftsaetze für eigene Akte.
 
 ## Erst sortieren
 
@@ -349,7 +342,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
 
 ## Qualitäts-Hardening
 

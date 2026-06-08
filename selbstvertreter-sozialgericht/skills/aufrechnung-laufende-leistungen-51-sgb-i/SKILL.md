@@ -1,6 +1,6 @@
 ---
 name: aufrechnung-laufende-leistungen-51-sgb-i
-description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine."
+description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine."
 ---
 
 # Aufrechnung Laufende Leistungen 51 Sgb I
@@ -17,10 +17,10 @@ description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill
 
 ## Voraussetzungen
 
-- Gegenforderung der Behoerde aus Erstattung oder Schadensersatz.
+- Gegenforderung der Behörde aus Erstattung oder Schadensersatz.
 - Hoehe und Faelligkeit feststellbar.
 
-## Anhoerungspflicht
+## Anhörungspflicht
 
 - § 24 SGB X — vor Aufrechnung anhoeren.
 - Aenderung des bewilligten Leistungsbetrags = belastender VA.
@@ -39,7 +39,7 @@ description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill
 
 1. Bestehende Rueckforderung?
 2. Laufende Leistung des selben Traegers?
-3. Anhoerung erfolgt?
+3. Anhörung erfolgt?
 4. Hilfebeduerftigkeit durch Aufrechnung?
 5. Pfaendungsfreigrenze gewahrt?
 

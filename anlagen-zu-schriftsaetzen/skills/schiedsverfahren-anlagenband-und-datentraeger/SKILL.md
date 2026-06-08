@@ -5,6 +5,22 @@ description: "Plant Anlagenbände im Schiedsverfahren: mehrere Originale, USB-St
 
 # Schiedsverfahren: Anlagenband und Datenträger
 
+## Normenanker
+
+Arbeitsfokus: **Schiedsverfahren: Anlagenband und Datenträger**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
+- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- `§ 2 ERVV` — Dateiformate und technische Anforderungen.
+- `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
+- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Schiedsverfahren sind oft logistischer als staatliche Verfahren. Dieser Skill baut eine Struktur, die für Tribunal, Parteien und Sekretariat gleichermaßen funktioniert.
@@ -45,7 +61,6 @@ Schiedsverfahren sind oft logistischer als staatliche Verfahren. Dieser Skill ba
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
 
 ## Vertiefter Anlagen-Workflow
 

@@ -13,7 +13,6 @@ description: "Erstellt systematische Red-Team-Gutachten zu methodisch strittigen
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Das Red-Team-Gutachten ist das stärkste Instrument der methodischen Selbstprüfung. Es verlangt, die gegnerische Position so überzeugend wie möglich darzustellen und die eigene Position einer harten methodischen Prüfung auszusetzen. Dieses Skill baut systematisch das stärkste denkbare methodische Gegenargument auf.
 
 ## Mandantenfall

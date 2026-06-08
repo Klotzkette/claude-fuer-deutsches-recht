@@ -7,10 +7,10 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 
 ## Arbeitsbereich
 
-**Erbschein Antrag Orientierung** ordnet den Fall über die tragenden Prüffelder: Erbschein beantragen wenn Erbfolge nachgewiesen werden muss, Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und, Pflichtteilsanspruch berechnen wenn Erblasser nahe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Erbschein Antrag Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Erbschein beantragen wenn Erbfolge nachgewiesen werden muss, Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und, Pflichtteilsanspruch berechnen wenn Erblasser nahe. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-erbrecht-erbschein-antrag` | Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Prüfraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht für Europaeisches Nachlasszeugnis. |
 | `fachanwalt-erbrecht-orientierung` | Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen. §§ 1922 2229 2303 BGB § 43a BRAO. Prüfraster: Erbfolge Testament Pflichtteil Ausschlagung Nachlassinsolvenz Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills. |
@@ -18,12 +18,12 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Erbrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-erbrecht-erbschein-antrag`
 
@@ -39,12 +39,10 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Erbschein-Antrag
 
 - **Spezialfrage (Erbschein-Antrag):** Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht für Europaeisches Nachlasszeugnis.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
-
 
 ## Aktuelle Rechtsprechung
 
@@ -103,7 +101,7 @@ dass der Mandant Alleinerbe des Erblassers geworden ist.
 
 Begruendung
 1. Der Erblasser hatte seinen letzten gewoehnlichen Aufenthalt in
- [Anschrift] — Zustaendigkeit § 343 FamFG.
+ [Anschrift] — Zuständigkeit § 343 FamFG.
 2. Eine letztwillige Verfuegung liegt nicht vor — gesetzliche
  Erbfolge § 1922 BGB.
 3. Der Mandant ist der einzige Abkoemmling — gesetzlicher Erbe
@@ -141,7 +139,6 @@ Anlagen
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Aktuelle Rechtsprechung (Orientierung Erbrecht, Stand 05/2026)
 
@@ -226,7 +223,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Mandantenfragen beim Kaltstart
 
 1. Wer ist der Erblasser, wann ist der Erbfall eingetreten und wo war der letzte gewöhnliche Aufenthalt?
@@ -237,7 +233,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. Haben die Erben die Auskunft verweigert, unvollständig erteilt oder die Bewertung blockiert?
 7. Ist Verjährung drohend — Erbfall + 3 Jahre Jahresende § 2332 BGB?
 8. Bestehen Anzeichen für verschleierte Schenkungen (Übertragungen unter Nießbrauch, Schenkungen an Lebensgefährten)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -265,7 +261,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Prüfschema — Stufenweise Durchsetzung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Phase | Schritt | Maßnahme | Norm |
 |-------|---------|---------|------|
@@ -478,7 +473,6 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Beweislast
 

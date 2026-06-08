@@ -1,33 +1,21 @@
 ---
 name: leichte-sprache-jura-ls-bescheid-chronologie
-description: "LS Bescheid Chronologie im Einfache und leichte Sprache im Recht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache, Bescheid in Leichte Sprache uebersetzen Workflow, Chronologie und Belegmatrix im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# LS Bescheid Chronologie
+# Einfache und Leichte Sprache Jura — Allgemein
 
 ## Arbeitsbereich
 
-**LS Bescheid Chronologie** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache, Bescheid in Leichte Sprache uebersetzen Workflow. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `einfache-leichte-sprache-jura-allgemein` | Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `ls-bescheid-uebersetzen-workflow` | Bescheid in Leichte Sprache uebersetzen Workflow: Originalbescheid, Kernaussagen extrahieren, je Aussage 1 kurzer Satz, Pruefung mit Zielgruppen-Vertreter, Layout (Bilder, Schriftgroesse), Pruefsiegel. Routet in einfache-leichte-sprache-jura. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin einfache-leichte-sprache-jura: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Einfache und leichte Sprache im Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: BFSG ab 28.06.2025, BITV § 4 Verständlichkeit, BGG § 11 Pflicht zur einfachen Sprache bei Bescheiden auf Antrag.
 - Tragende Normen verifizieren: BGG §§ 11, 12a, BITV 2.0 § 4, BFSG, UN-Behindertenrechtskonvention Art. 9 (Zugänglichkeit), EU-RL 2016/2102, DIN SPEC 33429 (Leichte Sprache), Hurraki-/Inclusion Europe-Regeln — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Behörde, Verwaltungsstelle, Übersetzer Leichte Sprache, Prüfgruppe (Selbstvertreter), Sozialverbände (Lebenshilfe, BAGSO), Behindertenbeauftragter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bescheid in Leichter Sprache, Erklärfilm-Skript, Antragsformular mit Erläuterung, Mandanteninfo, Prozessunterlagen in einfacher Sprache — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `einfache-leichte-sprache-jura-allgemein`
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Einfache Leichte Sprache Jura-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -37,10 +25,6 @@ description: "LS Bescheid Chronologie im Einfache und leichte Sprache im Recht: 
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
-
-# Einfache und Leichte Sprache Jura — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -138,21 +122,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `elsj-einfache-sprache` | Kanzlei oder Behoerde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11… |
+| `elsj-einfache-sprache` | Kanzlei oder Behörde will juristischen Text für normale Buerger verstaendlich machen: Einfache Sprache B1-Niveau zielgruppenorientiert klare Gliederung erklärte Rechtsbegriffe gesicherte Fristen. Normen BGG § 11… |
 | `elsj-juristische-sicherung` | Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verloren gehen: Rechte Pflichten Fristen Betraege Rechtsfolgen Ausnahmen. Normen §§ 133 157 BGB Auslegungspflicht. Prüfraster Rechte-Vollständigkeit… |
-| `elsj-kommandocenter` | Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl… |
-| `elsj-leichte-sprache` | Kanzlei oder Behoerde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur… |
+| `elsj-kommandocenter` | Kanzlei oder Behörde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl… |
+| `elsj-leichte-sprache` | Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur… |
 | `elsj-qualitaetsgate` | Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veröffentlichung prüfen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollständigkeit offene Nutzergruppen-Prüfung. Normen… |
 
 ## Worum geht es?
 
-Juristische Texte — Bescheide, Vertraege, Urteile, Merkblaetter — sind fuer viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behoerden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemaess BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
+Juristische Texte — Bescheide, Vertraege, Urteile, Merkblaetter — sind für viele Buergerinnen und Buerger schwer verstaendlich. Dieses Plugin unterstuetzt Kanzleien und Behörden dabei, solche Texte in Einfache Sprache (Zielniveau B1) oder Leichte Sprache (Zielniveau A2 gemaess BITV 2.0) zu uebertragen, ohne dabei Rechtsinhalt, Fristen oder Rechtswirkungen zu verlieren.
 
 Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absicherung: Vereinfachungen muessen stets gegen das Original geprueft werden. Das Qualitaetsgate am Ende des Workflows sichert die Konformitaet vor Veroeffentlichung.
 
 ## Wann brauchen Sie diese Skill?
 
-- Eine Behoerde will Bescheide oder Widerspruchsbeschluesse fuer Buerger mit eingeschraenkter Lesekompetenz aufbereiten.
+- Eine Behörde will Bescheide oder Widerspruchsbeschluesse für Buerger mit eingeschraenkter Lesekompetenz aufbereiten.
 - Eine Kanzlei erklaert Mandanten verstaendlich, welche Rechte und Pflichten ein Vertrag begruendet.
 - Ein Unternehmen muss seine Datenschutzerklaerung barrierefrei gestalten (BITV 2.0, WCAG 2.1).
 - Ein Pflegeheim oder eine Sozialeinrichtung will Heimvertraege in Leichte Sprache uebersetzen.
@@ -162,20 +146,20 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 - **Einfache Sprache** — Schriftsprachliche Vereinfachung auf ca. Niveau B1 des Europaeischen Referenzrahmens; kurze Saetze, gebraeuchliche Woerter, aktive Formulierungen.
 - **Leichte Sprache** — Stark vereinfachte Sprache auf Niveau A2 nach BITV 2.0 und dem Regelwerk des Netzwerks Leichte Sprache; standardisierte Regeln zu Wortlaenge, Satzstruktur und Bildunterstuetzung.
-- **BITV 2.0** — Barrierefreie-Informationstechnik-Verordnung; verpflichtet oeffentliche Stellen zur barrierefreien Gestaltung digitaler Angebote einschliesslich Leichter Sprache.
+- **BITV 2.0** — Barrierefreie-Informationstechnik-Verordnung; verpflichtet öffentliche Stellen zur barrierefreien Gestaltung digitaler Angebote einschliesslich Leichter Sprache.
 - **Rechtsinhalt-Sicherung** — Pruefung, dass nach der Vereinfachung keine Rechte, Pflichten, Fristen oder Rechtsfolgen verloren gegangen sind.
 - **Qualitaetsgate** — Abschlusspruefung vor Veroeffentlichung: Verstaendlichkeit, Gleichgewicht zum Original, Glossar-Konsistenz, Barrierefreiheit.
 - **Zielgruppe** — Definierte Personengruppe (z. B. Menschen mit Lernschwierigkeiten, Buerger ohne Rechtskenntnisse), nach der Schwierigkeitsgrad und Modus gewaehlt werden.
 
 ## Rechtsgrundlagen
 
-- § 11 BGG (Barrierefreiheitsgebot oeffentlicher Stellen)
+- § 11 BGG (Barrierefreiheitsgebot öffentlicher Stellen)
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung
-- § 3 BMAS-Richtlinie zu Leichter Sprache in Behoerden
+- § 3 BMAS-Richtlinie zu Leichter Sprache in Behörden
 - Art. 7 Abs. 2 DSGVO (Anforderungen an Einwilligungserklaerungen in verstaendlicher Sprache)
-- § 305 Abs. 2 BGB (Einbeziehungsvoraussetzungen fuer AGB — Deutlichkeitsgebot)
+- § 305 Abs. 2 BGB (Einbeziehungsvoraussetzungen für AGB — Deutlichkeitsgebot)
 
-## Schritt-fuer-Schritt: Einstieg ins Plugin
+## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klaeren: Wer ist die Zielgruppe des vereinfachten Textes?
 2. Modus festlegen: Einfache Sprache (B1) oder Leichte Sprache (A2)?
@@ -186,8 +170,8 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 ## Skill-Tour (was gibt es hier?)
 
 - `elsj-kommandocenter` — Navigationszentrum: Zielgruppe und Modus klaeren, starten, alle Skills koordinieren.
-- `elsj-einfache-sprache` — Juristischen Text auf Einfache Sprache Niveau B1 uebertragen fuer Buerger ohne Fachkenntnisse.
-- `elsj-leichte-sprache` — Juristischen Text auf Leichte Sprache Niveau A2 uebertragen fuer Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen.
+- `elsj-einfache-sprache` — Juristischen Text auf Einfache Sprache Niveau B1 uebertragen für Buerger ohne Fachkenntnisse.
+- `elsj-leichte-sprache` — Juristischen Text auf Leichte Sprache Niveau A2 uebertragen für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen.
 - `elsj-juristische-sicherung` — Sicherstellt, dass kein Rechtsinhalt (Rechte, Pflichten, Fristen, Betraege, Rechtsfolgen) bei der Vereinfachung verloren geht.
 - `elsj-qualitaetsgate` — Abschlusspruefung der vereinfachten Fassung vor Veroeffentlichung auf Verstaendlichkeit, Glaeubigkeit und Vollstaendigkeit.
 
@@ -201,7 +185,7 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 
 ## Typische Fehler
 
-- Zielgruppe nicht definiert: Text wird zu stark oder zu wenig vereinfacht, weil unklar ist, fuer wen er bestimmt ist.
+- Zielgruppe nicht definiert: Text wird zu stark oder zu wenig vereinfacht, weil unklar ist, für wen er bestimmt ist.
 - Rechtsinhalt-Sicherung uebersprungen: Fristen oder Rechtswirkungen gehen in der Vereinfachung unter.
 - Einfache und Leichte Sprache verwechselt: Leichte Sprache hat deutlich strengere Regeln (Satzlaenge, Bildunterstuetzung, Glossar).
 - Qualitaetsgate nicht durchgefuehrt: Vereinfachter Text wird veroeffentlicht, ohne auf Korrektheit geprueft zu werden.
@@ -221,7 +205,6 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 - Regelwerk Leichte Sprache des Netzwerks Leichte Sprache (netzwerk-leichte-sprache.org)
 - WCAG 2.1 (Web Content Accessibility Guidelines)
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -229,91 +212,3 @@ Das Plugin unterscheidet strikt zwischen Verstaendlichkeit und inhaltlicher Absi
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `ls-bescheid-uebersetzen-workflow`
-
-**Fokus:** Bescheid in Leichte Sprache uebersetzen Workflow: Originalbescheid, Kernaussagen extrahieren, je Aussage 1 kurzer Satz, Pruefung mit Zielgruppen-Vertreter, Layout (Bilder, Schriftgroesse), Pruefsiegel. Routet in einfache-leichte-sprache-jura.
-
-# LS: Bescheid uebersetzen
-
-## Spezialwissen: LS: Bescheid uebersetzen
-- **Spezialgegenstand:** LS: Bescheid uebersetzen / ls bescheid uebersetzen workflow. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** LS.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 3. `workflow-chronologie-und-belegmatrix`
-
-**Fokus:** Chronologie und Belegmatrix im Plugin einfache-leichte-sprache-jura: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-# Chronologie und Belegmatrix
-
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin einfache-leichte-sprache-jura: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

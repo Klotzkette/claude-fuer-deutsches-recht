@@ -1,16 +1,16 @@
 ---
 name: waehlen-dsv-rechtsprechung-datenschutz
-description: "Waehlen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft konkret Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen, Bußgeldverteidigung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft konkret Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen, Bußgeldverteidigung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Waehlen DSV Rechtsprechung Datenschutz
+# Wählen DSV Rechtsprechung Datenschutz
 
 ## Arbeitsbereich
 
-**Waehlen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüffelder: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Wählen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `workflow-output-waehlen` | Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -20,12 +20,12 @@ description: "Waehlen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `workflow-output-waehlen`
 
@@ -216,7 +216,7 @@ Sieben-Fragen-Diagnose:
 - **§ 79 OWiG** Rechtsbeschwerde.
 - **§ 20 BDSG** Verwaltungsrechtsweg für Art.-78-Streitigkeiten gegen Aufsichtsbehörden; ausdrücklich nicht für Bußgeldverfahren. Relevant für Art.-58-Anordnungen, nicht für die Geldbuße selbst.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst: Frist sichern.** Einspruchsfrist nach § 67 I OWiG zwei Wochen ab Zustellung — sofort im Fristenkalender, Wiedereinsetzungspruefung bei Saeumnis.
 2. **Akteneinsicht beantragen.** § 49 OWiG i.V.m. § 147 StPO. Erst danach Strategie.
@@ -299,7 +299,6 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, Version 1.0, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -360,8 +359,7 @@ Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisth
 
 ## Übergabe an das Spezialplugin
 
-Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
-
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
 
 ## Quellen- und Verifikationsregel
 

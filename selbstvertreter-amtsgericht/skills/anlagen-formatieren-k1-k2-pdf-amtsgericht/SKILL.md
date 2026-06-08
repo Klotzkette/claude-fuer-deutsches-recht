@@ -17,8 +17,8 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 
 ## Fachbegriffe (kurz erklaert)
 
-- **PDF**: Ein Dokument-Format, das auf jedem Geraet gleich aussieht. Standard fuer Gerichts-Einreichungen.
-- **OCR**: Optical Character Recognition — eine Funktion, die gescannte Bilder in durchsuchbaren Text umwandelt. Wichtig fuer das Gericht, weil Text durchsucht werden kann.
+- **PDF**: Ein Dokument-Format, das auf jedem Geraet gleich aussieht. Standard für Gerichts-Einreichungen.
+- **OCR**: Optical Character Recognition — eine Funktion, die gescannte Bilder in durchsuchbaren Text umwandelt. Wichtig für das Gericht, weil Text durchsucht werden kann.
 - **Stempel**: Eine Beschriftung, die auf das fertige PDF aufgebracht wird (auch "Stempel-Annotation" genannt).
 
 ## Empfohlene Formatierung (Konvention)
@@ -29,7 +29,7 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 | Schriftgroesse Text | 12 Punkt |
 | Zeilenabstand | 1,5-fach |
 | Rand oben/unten | rd. 2,5 cm |
-| Rand links | rd. 3 cm (Platz fuer Heftung) |
+| Rand links | rd. 3 cm (Platz für Heftung) |
 | Rand rechts | rd. 2 cm |
 | Anlage-Beschriftung | oben rechts, Schriftgroesse 14 Punkt, fett |
 | Position Anlage K1 | etwa 2 cm vom oberen Rand, etwa 2 cm vom rechten Rand |
@@ -37,7 +37,7 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 
 **Wichtig:** Das ist eine **Konvention der Praxis**, kein Gesetz. Wenn Sie davon abweichen, ist die Klage nicht unwirksam. Aber: Eine saubere Formatierung wirkt sich positiv aus.
 
-## Schritt-fuer-Schritt-Anleitung — Word/LibreOffice
+## Schritt-für-Schritt-Anleitung — Word/LibreOffice
 
 ### Schritt 1 — Klageschrift in 12pt schreiben
 
@@ -83,7 +83,7 @@ Es gibt drei Wege:
 - Oben rechts "Anlage K1" platzieren.
 - Herunterladen.
 
-**Achtung Datenschutz:** Wenn die Anlage sensible Daten enthaelt (Gehaltsabrechnung, Vertrag mit persoenlichen Daten), nutzen Sie **keine Online-Tools**, sondern ein lokales Programm.
+**Achtung Datenschutz:** Wenn die Anlage sensible Daten enthaelt (Gehaltsabrechnung, Vertrag mit persönlichen Daten), nutzen Sie **keine Online-Tools**, sondern ein lokales Programm.
 
 ### Schritt 4 — Seitenzahlen einfuegen (bei mehrseitigen Anlagen)
 
@@ -98,7 +98,7 @@ Wenn Sie einen gescannten Vertrag haben, ist der Text im PDF nur als Bild gespei
 - In Adobe Acrobat: Werkzeuge → Text erkennen.
 - Kostenlos: Tesseract, OCRmyPDF (Kommandozeile), oder kostenlose Online-OCR-Tools.
 
-Das ist nicht zwingend, aber praktisch fuer alle.
+Das ist nicht zwingend, aber praktisch für alle.
 
 ### Schritt 6 — Dateinamen nach Konvention
 
@@ -112,7 +112,7 @@ Wenn Sie die Anlagen ueber Mein Justizpostfach einreichen, geben Sie den Dateien
 05_Anlage_K4_Mahnung.pdf
 ```
 
-Die fuehrenden Nummern (01, 02, ...) sorgen dafuer, dass die Dateien in der **richtigen Reihenfolge** sortiert werden.
+Die fuehrenden Nummern (01, 02, ...) sorgen dafür, dass die Dateien in der **richtigen Reihenfolge** sortiert werden.
 
 ## Beispiel — fertige Anlage
 
@@ -139,7 +139,7 @@ So sollte eine fertige Anlage K1 aussehen:
 
 - **Schwarzer Text auf weissem Hintergrund** — kein farbiges Papier, kein Wasserzeichen "ENTWURF" oder "MUSTER".
 - **Lesbarkeit**: 12pt ist Standard. Kleiner ist schlecht, groesser unueblich.
-- **Datenschutz**: Schwaerzen Sie persoenliche Daten Dritter (z.B. Kontonummern fremder Personen), wenn sie nichts mit dem Fall zu tun haben.
+- **Datenschutz**: Schwaerzen Sie persönliche Daten Dritter (z.B. Kontonummern fremder Personen), wenn sie nichts mit dem Fall zu tun haben.
 - **Dateigroesse**: Mein Justizpostfach hat eine Obergrenze pro Einreichung (typisch 60 MB). Komprimieren Sie grosse PDFs.
 
 ## Typische Fehler
@@ -161,7 +161,6 @@ So sollte eine fertige Anlage K1 aussehen:
 
 Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -169,3 +168,25 @@ Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Pr
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+

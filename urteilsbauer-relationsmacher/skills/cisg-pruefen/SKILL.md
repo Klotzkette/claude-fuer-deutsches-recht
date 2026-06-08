@@ -1,12 +1,11 @@
 ---
 name: cisg-pruefen
-description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang."
+description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persönlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang."
 ---
 
 # CISG-Prüfung
 
 Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf) ist ein direkt anwendbares Einheitskaufrecht und geht dem IPR vor, soweit es eingreift.
-
 
 ## Triage zu Beginn
 

@@ -1,25 +1,21 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen)."
+description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persönlichen Angriff (persönlichen-angriff-entschaerfen)."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren
 
 ## Fachkern: Kompetenz-Zweifel respektvoll formulieren
-- **Spezialgegenstand:** Kompetenz-Zweifel respektvoll formulieren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines Adressaten so zu formulieren, dass der sachliche Kern erhalten bleibt, die Person aber nicht angegriffen wird. Diese Unterscheidung ist im Berufsrecht zentral: Sachkritik ist erlaubt, Personenabwertung ist es nicht.
-
 
 ## Triage zu Beginn
 1. Bezieht sich die Fachkritik auf ein konkretes Dokument/Ergebnis (Sachkritik) oder auf die Person (Personenabwertung)?
 2. Wer ist der Adressat: Kollege direkt, eigener Mandant ueber den Kollegen oder Gericht?
 3. Gibt es einschlaeige Rechtsprechung oder Normen, auf die die Sachkritik gestuetzt werden kann?
-4. Ist die Aeusserung notwendig fuer den Inhalt des Schreibens oder kann sie weggelassen werden?
+4. Ist die Aeusserung notwendig für den Inhalt des Schreibens oder kann sie weggelassen werden?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

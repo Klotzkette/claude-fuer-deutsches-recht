@@ -12,7 +12,7 @@ Der Anbieter behauptet in E-Mail vom 03.04.2026, "CloudSuite participates in the
 
 Für diese Arbeitsakte wird angenommen, dass bei manueller Recherche am 17.05.2026 folgender Treffer dokumentiert wurde:
 
-| Prüffeld | Ergebnis in der Akte |
+| Prüfungslinie | Ergebnis in der Akte |
 |---|---|
 | Treffername | CloudSuite Assist Inc. |
 | Adresse | 221 Harbor Street, San José, CA, USA |

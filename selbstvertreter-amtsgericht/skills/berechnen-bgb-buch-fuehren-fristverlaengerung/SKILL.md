@@ -7,10 +7,10 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Berechnen BGB Buch Fuehren Fristverlaengerung** ordnet den Fall über die tragenden Prüffelder: Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Berechnen BGB Buch Fuehren Fristverlaengerung** ordnet den Fall über die tragenden Prüfungslinien: Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fristen-berechnen-187-188-bgb` | Berechnung von Prozessfristen nach §§ 187 188 BGB. Beginn am Tag nach Ereignis Ende am gleichen Wochentag der Folgewoche Frist-Ende auf Wochenende oder Feiertag verschiebt sich. Praxis-Beispiele und typische Fallen. |
 | `fristen-buch-fuehren-laien` | Eigenes Fristen-System für Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelprüfung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen. |
@@ -18,12 +18,12 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fristen-berechnen-187-188-bgb`
 
@@ -33,7 +33,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 
 ## Worum geht es?
 
-Fristen sind das groesste Risiko fuer Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der §§ 187, 188 BGB.
+Fristen sind das groesste Risiko für Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der §§ 187, 188 BGB.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -55,7 +55,7 @@ Fristen sind das groesste Risiko fuer Selbstvertreter. Eine verpasste Frist kann
 - **§ 193 BGB** — Sonn-, Feiertag, Samstag.
 - **§ 222 ZPO** — Prozessfristen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Fristausloesendes Ereignis
 
@@ -160,7 +160,6 @@ In der Praxis: 2-3 Tage Reserve einplanen. Bote/Post-Verspaetung tragen Sie als 
 
 Stand: 05/2026. §§ 187, 188, 193 BGB unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -196,7 +195,7 @@ Anwaltskanzleien fuehren Fristenkalender mit Mehrfach-Kontrollen, weil Versaeumn
 - **§ 222 ZPO** — Prozessfristen.
 - **§ 233 ZPO** — Wiedereinsetzung (eingeschraenkt, daher Praevention besser).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tabelle erstellen
 
@@ -263,7 +262,7 @@ In Aktenordner sortieren.
 
 ### Schritt 8 — Bei mehreren Verfahren
 
-Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte fuer Verfahrens-Zuordnung.
+Pro Verfahren eigener Ordner / Tab. Tabellen-Spalte für Verfahrens-Zuordnung.
 
 ### Schritt 9 — Routine
 
@@ -277,7 +276,7 @@ Einmal pro Woche:
 
 - **Vorfristen** sind die Lebensversicherung.
 - **Doppelpruefung** vermeidet Rechenfehler.
-- **Belege aufbewahren** fuer ggf. spaeteren Streit.
+- **Belege aufbewahren** für ggf. spaeteren Streit.
 - **Routine** der woechentlichen Pruefung.
 
 ## Typische Fehler
@@ -310,7 +309,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 ## Wann brauchen Sie diese Skill?
 
 - Sie schaffen die Frist nicht.
-- Sie brauchen mehr Zeit fuer den Schriftsatz.
+- Sie brauchen mehr Zeit für den Schriftsatz.
 - Sie warten auf Beweise (Sachverstaendiger).
 
 ## Fachbegriffe (kurz erklaert)
@@ -325,7 +324,7 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 - **§ 224 II ZPO** — Andere Fristen koennen verlaengert werden.
 - **§ 225 ZPO** — Antrag und Bewilligung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Frist verlaengerbar
 
@@ -381,7 +380,7 @@ Faustregel: Mindestens 3-5 Tage vor Frist-Ende.
 Die Begruendung muss substantiiert sein:
 
 - "Ich bin krank" reicht nicht. → Attest.
-- "Ich brauche Zeit fuer Recherche" reicht nicht. → Konkret, was Sie recherchieren.
+- "Ich brauche Zeit für Recherche" reicht nicht. → Konkret, was Sie recherchieren.
 - "Beweis-Beschaffung dauert" — okay, mit konkretem Aufwand.
 
 Gute Gruende:
@@ -407,7 +406,7 @@ Bei mehrfachen Antraegen oder pauschalen Gruenden: Ablehnung wahrscheinlicher.
 
 - Frist bleibt unveraendert.
 - Sie muessen handeln.
-- Falls bereits Termin fuer Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
+- Falls bereits Termin für Antrag und Ablehnung: ggf. § 296 ZPO Praeklusion droht.
 
 ### Schritt 7 — Bei Notfrist
 
@@ -442,7 +441,6 @@ Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung be
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 224, 225 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

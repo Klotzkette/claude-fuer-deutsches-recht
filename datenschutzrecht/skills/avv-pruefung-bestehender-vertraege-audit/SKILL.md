@@ -22,7 +22,7 @@ Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege a
 - Art. 30 DSGVO – Verarbeitungsverzeichnis.
 - Art. 32 DSGVO – TOM (regelmaessig Anlage zum AVV).
 - Art. 44 bis 49 DSGVO – Drittlandtransfer.
-- Beschluss (EU) 2021/914 – SCC seit 27.06.2021; Altmuster (2001/497/EG, 2004/915/EG, 2010/87/EU) sind seit 27.12.2022 fuer Altbestand abgeloest.
+- Beschluss (EU) 2021/914 – SCC seit 27.06.2021; Altmuster (2001/497/EG, 2004/915/EG, 2010/87/EU) sind seit 27.12.2022 für Altbestand abgeloest.
 - Beschluss (EU) 2023/1795 – DPF seit 10.07.2023.
 
 ## Ablauf / Checkliste
@@ -104,7 +104,7 @@ Frist: [DATUM]
 
 ## Typische Drafting-Fehler
 
-- AVV-Bestand wird nur per Stichprobe geprueft – fuer aufsichtsbehoerdliche Pruefung unzureichend.
+- AVV-Bestand wird nur per Stichprobe geprueft – für aufsichtsbehoerdliche Pruefung unzureichend.
 - Altbestand mit SCC-Altmustern (2001/497/EG, 2010/87/EU) nicht umgestellt.
 - DPF-Listing nicht periodisch geprueft.
 - TOM-Anlage Stand 2018 ohne Aktualisierung.
@@ -128,7 +128,6 @@ Frist: [DATUM]
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021).
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

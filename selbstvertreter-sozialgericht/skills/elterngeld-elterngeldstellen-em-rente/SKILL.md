@@ -7,12 +7,12 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 ## Arbeitsbereich
 
-**Elterngeld Elterngeldstellen EM Rente** ordnet den Fall über die tragenden Prüffelder: Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Elterngeld Elterngeldstellen EM Rente** ordnet den Fall über die tragenden Prüfungslinien: Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `elterngeld-elterngeldstellen-beeg` | Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften fuer Selbststaendige und Mehrkindersituationen. Liefert Pruefraster. |
+| `elterngeld-elterngeldstellen-beeg` | Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Pruefraster. |
 | `em-rente-medizinische-feststellung` | Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster. |
 | `entschaedigung-sgb-xiv-opferleistungen` | Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene. |
 | `erstattung-zu-unrecht-50-sgb-x` | Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine. |
@@ -20,16 +20,16 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `elterngeld-elterngeldstellen-beeg`
 
-**Fokus:** Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften fuer Selbststaendige und Mehrkindersituationen. Liefert Pruefraster.
+**Fokus:** Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Pruefraster.
 
 # Elterngeld Elterngeldstellen Beeg
 
@@ -40,7 +40,6 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 
@@ -96,7 +95,6 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Voraussetzungen
 
 § 43 SGB VI.
@@ -129,7 +127,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 - EM-Rente regelmaessig 3 Jahre befristet.
 - Nach 9 Jahren ggf. unbefristet.
-- Pruefantraege Behoerden initiative.
+- Pruefantraege Behörden initiative.
 
 ## Hinzuverdienst
 
@@ -158,7 +156,6 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Seit 1.1.2024 gilt das neue SGB XIV (Soziale Entschaedigung). Es ersetzt das alte Opferentschaedigungsgesetz (OEG) und das Bundesversorgungsgesetz (BVG). Wer Opfer einer Gewalttat geworden ist, kann hier Hilfe bekommen.
@@ -177,7 +174,7 @@ Wenn Sie Opfer einer Gewalttat geworden sind, hilft das SGB XIV. Es gibt Geld un
 
 - **Schaedigung**: Gesundheitlicher Schaden durch Gewalttat.
 - **Gesundheitliche Folge**: Erkrankung als Folge.
-- **Grad der Schaedigungsfolgen (GdS)**: aehnlich GdB, aber spezifisch fuer SGB XIV.
+- **Grad der Schaedigungsfolgen (GdS)**: aehnlich GdB, aber spezifisch für SGB XIV.
 - **Schnelle Hilfe**: Sofortige Therapieangebote (Trauma-Therapie ohne langwierige Anerkennung).
 
 ## Rechtsgrundlagen
@@ -187,7 +184,7 @@ Wenn Sie Opfer einer Gewalttat geworden sind, hilft das SGB XIV. Es gibt Geld un
 - **§ 88 SGB XIV** — Schnelle Hilfen.
 - **Uebergangsregelungen**: Alte OEG/BVG-Faelle laufen weiter.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruchspruefung
 
@@ -262,14 +259,14 @@ Wie bei anderen Sozialleistungen.
 - **Reform 2024**: Anwendungsbereich erweitert (auch psychische Gewalt unter Voraussetzungen). Pruefen Sie aktuellen Stand.
 - **Schnelle Hilfen** § 88 SGB XIV: nicht vergessen, niedrige Schwelle.
 - **Opferentschaedigung kann lange dauern**: parallel Therapie und Krankenkassen-Behandlung.
-- **Trauma-Diagnose**: wichtig fuer psychische Folgen.
+- **Trauma-Diagnose**: wichtig für psychische Folgen.
 
 ## Typische Fehler
 
 - Keine Strafanzeige → schwerer Beweis
 - Folgen erst spaet beanstandet → Latenz erschwert Kausalitaet
 - Therapie-Berichte fehlen → wichtig
-- Behoerden-Bezeichnung verwechselt → je Land unterschiedlich
+- Behörden-Bezeichnung verwechselt → je Land unterschiedlich
 
 ## Querverweise
 
@@ -282,7 +279,6 @@ Wie bei anderen Sozialleistungen.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregelungen pruefen. BSG-Linien noch im Aufbau. Bei diesem neuen Recht besonders sorgfaeltig pruefen — Verifikation in juris empfohlen.
-
 
 ## Qualitäts-Hardening
 
@@ -306,7 +302,6 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Tatbestand § 50 SGB X
 
 - Verwaltungsakt wurde aufgehoben (zumeist nach § 45 oder § 48 SGB X).
@@ -321,21 +316,21 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 
 1. **Aufhebungsbescheid angreifen**: Wenn die Aufhebung selbst rechtswidrig ist, faellt auch die Erstattung weg.
 2. **Vertrauensschutz**: § 45 SGB X — Vertrauensschutz schliesst Aufhebung aus, dann auch keine Erstattung.
-3. **Verjaehrung**: § 50 Abs. 4 SGB X — 4 Jahre nach Ablauf des Kalenderjahrs der Bekanntgabe.
-4. **Aufrechnung**: § 51 SGB I — Behoerde rechnet die Forderung mit kuenftigen Leistungen auf. Pruefen ob Pfaendungsfreigrenze gewahrt.
+3. **Verjährung**: § 50 Abs. 4 SGB X — 4 Jahre nach Ablauf des Kalenderjahrs der Bekanntgabe.
+4. **Aufrechnung**: § 51 SGB I — Behörde rechnet die Forderung mit kuenftigen Leistungen auf. Pruefen ob Pfaendungsfreigrenze gewahrt.
 
 ## Stundung und Erlass
 
 - Stundung: § 76 Abs. 2 Nr. 1 SGB IV.
 - Erlass: § 76 Abs. 2 Nr. 3 SGB IV (Haerteklausel).
-- Antrag schriftlich bei der Behoerde — Beleg der wirtschaftlichen Lage.
+- Antrag schriftlich bei der Behörde — Beleg der wirtschaftlichen Lage.
 
 ## Pruefraster
 
 1. Aufhebungsbescheid bestandskraeftig?
 2. Hoehe nachvollziehbar berechnet?
 3. Vertrauensschutz vorgebracht?
-4. Verjaehrung pruefen?
+4. Verjährung pruefen?
 5. Aufrechnung — Pfaendungsfreigrenze?
 6. Erlass moeglich?
 
@@ -352,7 +347,6 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -380,12 +374,12 @@ Sie koennen nicht mehr arbeiten. Sie wollten Rente wegen Krankheit. Die Rentenve
 ## Rechtsgrundlagen
 
 - **§ 43 SGB VI** — EM-Rente (volle und teilweise).
-- **§ 240 SGB VI** — Berufsschutz fuer Altjahrgaenge.
+- **§ 240 SGB VI** — Berufsschutz für Altjahrgaenge.
 - **§ 50 SGB VI** — Allgemeine Wartezeit.
 - **§ 99 SGB VI** — Rentenbeginn.
 - **§ 109 SGG** — eigenes Gutachten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzungen pruefen
 
@@ -448,7 +442,7 @@ Vorlaeufige Begruendung:
  - Belege: Atteste meines Hausarztes Dr. [Name] vom [Datum] und Facharztes Dr. [Name] vom [Datum]
 
 3. Verschlossener Teilzeitarbeitsmarkt (hilfsweise)
- Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
+ Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt für mich verschlossen.
 
 4. Berufsschutz § 240 SGB VI (falls Jahrgang vor 02.01.1961)
  Berufsschutz ist gegeben.
@@ -487,7 +481,7 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 
 - "Ich kann nicht mehr arbeiten" ohne konkrete Stundenangabe → konkret
 - Versicherungsverlauf nicht geprueft → Grundvoraussetzung
-- Berufsschutz fuer falschen Jahrgang behauptet → nur vor 02.01.1961
+- Berufsschutz für falschen Jahrgang behauptet → nur vor 02.01.1961
 - Reha-Bericht ignoriert → wichtigster Beleg
 
 ## Querverweise

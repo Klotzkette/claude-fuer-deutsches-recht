@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunftsersuchen-art-15-praxis
-description: "Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-fuer-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte fuer Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit)."
+description: "Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte für Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit)."
 ---
 
 # Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis
@@ -26,7 +26,7 @@ Sieben-Fragen-Diagnose:
 ## Rechtlicher Rahmen
 
 - **Art. 15 I DSGVO** Recht auf Bestaetigung und Auskunft ueber Verarbeitungszwecke, Datenkategorien, Empfaenger, Speicherdauer, Rechte, Beschwerderecht, Datenherkunft, automatisierte Entscheidungsfindung.
-- **Art. 15 III DSGVO** Kopie der personenbezogenen Daten. Erste Kopie kostenlos. EuGH C-487/21 (Bundesamt fuer Verbraucherschutz / Oesterreichische Datenschutzbehoerde, Urteil 04.05.2023): "Kopie" ist Reproduktion, nicht zwingend Originaldokument, aber so, dass Betroffener Verarbeitungspflichten verstehen und Rechte ausueben kann.
+- **Art. 15 III DSGVO** Kopie der personenbezogenen Daten. Erste Kopie kostenlos. EuGH C-487/21 (Bundesamt für Verbraucherschutz / Oesterreichische Datenschutzbehoerde, Urteil 04.05.2023): "Kopie" ist Reproduktion, nicht zwingend Originaldokument, aber so, dass Betroffener Verarbeitungspflichten verstehen und Rechte ausueben kann.
 - **EuGH C-307/22** (Urteil 26.10.2023): Auskunft umfasst auch Patientenaktenausdrucke unentgeltlich, soweit zur Wahrung der Rechte des Betroffenen erforderlich.
 - **EuGH C-579/21** (Urteil 22.06.2023): Identitaet konkreter Empfaenger ist anzugeben, wenn der Verantwortliche Empfaengerangaben vorhalten kann; Auswahl Kategorien nur, wenn konkrete Identitaet nicht moeglich.
 - **Art. 12 III DSGVO** Frist ein Monat, Verlaengerung um zwei weitere Monate moeglich; Begruendung innerhalb des ersten Monats.
@@ -35,7 +35,7 @@ Sieben-Fragen-Diagnose:
 - **§ 34 BDSG** Einschraenkungen des Auskunftsrechts (z. B. Geheimhaltung nach gesetzlicher Norm).
 - **§ 29 BDSG** Sperrung statt Loeschung in besonderen Faellen.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Zuerst:** Eingangsdatum dokumentieren, Frist im Fristenkalender, Identitaet pruefen. **Nicht** schon eine pauschale Empfangsbestaetigung senden, die zu viel zusagt.
 2. **Als zweites:** Beim Mandanten Datenbestaende erheben (HR, CRM, Mail, Cloud, Backup, Drittsysteme). Konkrete Anfrage an IT-Leitung mit Frist.
@@ -79,8 +79,8 @@ Sieben-Fragen-Diagnose:
 > 1. Verarbeitungszwecke: [konkret].
 > 2. Datenkategorien: [konkret, z. B. Vertragsdaten, Kommunikationsdaten].
 > 3. Empfaenger: [konkret nach EuGH C-579/21, soweit moeglich; Kategorien nur wenn konkrete Empfaenger nicht ermittelbar].
-> 4. Speicherdauer / Kriterien fuer Festlegung.
-> 5. Beschwerderecht nach Art. 77 DSGVO bei [zustaendige Aufsichtsbehoerde].
+> 4. Speicherdauer / Kriterien für Festlegung.
+> 5. Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde].
 > 6. Datenherkunft (Art. 14 II f DSGVO).
 > 7. Bestehen automatisierter Entscheidungsfindung (Art. 22 DSGVO): [ja/nein, Logik, Tragweite].
 > 8. Anlage: Kopie der personenbezogenen Daten nach Art. 15 III DSGVO.
@@ -112,7 +112,6 @@ Sieben-Fragen-Diagnose:
 - BDSG § 29, § 34.
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

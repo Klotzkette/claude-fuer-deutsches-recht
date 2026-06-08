@@ -7,24 +7,24 @@ description: "Zugang Einwurf Einschreiben Bote Liest im Plugin Arbeitsrecht: pr�
 
 ## Arbeitsbereich
 
-**Zugang Einwurf Einschreiben Bote Liest** ordnet den Fall über die tragenden Prüffelder: Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Zugang Einwurf Einschreiben Bote Liest** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal` | Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb` | Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
-| `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z` | Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
+| `zugang-neu-004-persönliche-uebergabe-empfangsverweigerung-und-z` | Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang` | Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal`
 
@@ -34,7 +34,7 @@ description: "Zugang Einwurf Einschreiben Bote Liest im Plugin Arbeitsrecht: pr�
 
 ## Aufgabe
 
-Skill fuer Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert des Auslieferungsbelegs.
+Skill für Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert des Auslieferungsbelegs.
 
 ## Was ist Einwurfeinschreiben?
 
@@ -43,7 +43,7 @@ Skill fuer Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert
 
 ## Beweiswert nach BAG-Linie
 
-- BAG 2 AZR 224/18 vom 22.08.2019: Der Auslieferungsbeleg ist Anscheinsbeweis fuer den Einwurf, aber NICHT fuer den Inhalt des Umschlags.
+- BAG 2 AZR 224/18 vom 22.08.2019: Der Auslieferungsbeleg ist Anscheinsbeweis für den Einwurf, aber NICHT für den Inhalt des Umschlags.
 - Anscheinsbeweis kann der Empfaenger durch substanziierte Gegendarstellung erschuettern (z. B. Briefkasten ueberfuellt, fremder Briefkasten).
 
 ## Was beweist der Auslieferungsbeleg?
@@ -83,7 +83,7 @@ Skill fuer Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert
 
 ## Aufgabe
 
-Skill fuer Botenzustellung der Kuendigung — Beweissicherung durch Zeugen.
+Skill für Botenzustellung der Kuendigung — Beweissicherung durch Zeugen.
 
 ## Konstellation
 
@@ -124,9 +124,9 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 ## Output
 
 - Bote-Zustellprotokoll.
-- Zeugenmemo fuer den Prozess.
+- Zeugenmemo für den Prozess.
 
-## 3. `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z`
+## 3. `zugang-neu-004-persönliche-uebergabe-empfangsverweigerung-und-z`
 
 **Fokus:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
@@ -134,7 +134,7 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 
 ## Aufgabe
 
-Skill fuer persoenliche Uebergabe der Kuendigung und Behandlung der Empfangsverweigerung.
+Skill für persönliche Uebergabe der Kuendigung und Behandlung der Empfangsverweigerung.
 
 ## Persoenliche Uebergabe
 
@@ -146,7 +146,7 @@ Skill fuer persoenliche Uebergabe der Kuendigung und Behandlung der Empfangsverw
 - Arbeitnehmer verweigert die Annahme oder den Umschlag.
 - Folge: **Zugang gilt trotzdem als erfolgt**, wenn die Verweigerung unberechtigt ist.
 
-## Voraussetzungen fuer Zugang trotz Verweigerung
+## Voraussetzungen für Zugang trotz Verweigerung
 
 - Der Arbeitnehmer war "in der Lage", die Kuendigung zur Kenntnis zu nehmen.
 - Die Verweigerung war unberechtigt (kein wirksamer Grund).
@@ -182,7 +182,7 @@ Skill fuer persoenliche Uebergabe der Kuendigung und Behandlung der Empfangsverw
 
 ## Aufgabe
 
-Skill fuer Hausbriefkasten als Zugangsstelle und die Bedeutung der ueblichen Leerungszeit.
+Skill für Hausbriefkasten als Zugangsstelle und die Bedeutung der ueblichen Leerungszeit.
 
 ## Hausbriefkasten als Machtbereich
 
@@ -201,7 +201,7 @@ Skill fuer Hausbriefkasten als Zugangsstelle und die Bedeutung der ueblichen Lee
 - BAG 2 AZR 224/18 zur Verkehrsuebung.
 - BAG 6 AZR 687/09 zur Zugangsfiktion.
 
-## Wichtig fuer Klagefrist
+## Wichtig für Klagefrist
 
 - Beispiel: Einwurf Samstag 14:00 Uhr; Zugang Montag.
 - 3-Wochen-Frist § 4 KSchG laeuft ab Montag.

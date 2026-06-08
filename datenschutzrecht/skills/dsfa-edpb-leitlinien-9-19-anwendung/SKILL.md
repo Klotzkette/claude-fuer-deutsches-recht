@@ -1,6 +1,6 @@
 ---
 name: dsfa-edpb-leitlinien-9-19-anwendung
-description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien fuer voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis."
+description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis."
 ---
 
 # Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
@@ -18,9 +18,9 @@ Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.
 
 ## Rechtlicher Rahmen
 
-- EDPB-/EDSA-Leitlinien WP 248 rev.01 (Artikel-29-Gruppe, von EDSA uebernommen): neun Kriterien fuer voraussichtlich hohes Risiko.
+- EDPB-/EDSA-Leitlinien WP 248 rev.01 (Artikel-29-Gruppe, von EDSA uebernommen): neun Kriterien für voraussichtlich hohes Risiko.
 - Art. 35 Abs. 1 DSGVO Generalklausel — die WP-248-Kriterien konkretisieren den Tatbestand.
-- Art. 35 Abs. 2 DSGVO Anhoerung des DSB.
+- Art. 35 Abs. 2 DSGVO Anhörung des DSB.
 - Art. 70 Abs. 1 lit. e DSGVO Aufgabe des EDSA zur Konkretisierung.
 
 ## Die neun WP-248-Kriterien
@@ -28,7 +28,7 @@ Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.
 1. Bewertung oder Scoring (einschliesslich Profiling und Prognose)
 2. Automatisierte Entscheidung mit rechtlicher oder aehnlich erheblicher Wirkung (Art. 22 DSGVO)
 3. Systematische Ueberwachung
-4. Sensible Daten oder hoechstpersoenliche Daten (Art. 9, Art. 10 DSGVO; auch Standortdaten, Finanzdaten, Kommunikationsinhalte)
+4. Sensible Daten oder hoechstpersönliche Daten (Art. 9, Art. 10 DSGVO; auch Standortdaten, Finanzdaten, Kommunikationsinhalte)
 5. Verarbeitung in grossem Umfang (Anzahl Betroffene, Datenmenge, Dauer, geografische Reichweite)
 6. Abgleich oder Zusammenfuehrung von Datensaetzen aus unterschiedlichen Quellen
 7. Daten ueber schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte, Asylsuchende, aeltere Menschen)
@@ -79,7 +79,7 @@ Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
 ```
 
-## Indikatoren fuer Kriterium 5 (grosser Umfang)
+## Indikatoren für Kriterium 5 (grosser Umfang)
 
 - Anzahl Betroffener absolut und relativ zur Bevoelkerung der Zielregion.
 - Datenmenge pro Betroffenem (Datensaetze, Bytes, Dokumente).
@@ -104,14 +104,14 @@ Unterschrift DSB: ____________________
 - Begruendung wird in Floskeln gehalten — Aufsicht erwartet faktenfeste Subsumtion.
 - Die Zahl 2 wird als starre Schwelle verstanden — Art. 35 Abs. 1 DSGVO kennt auch das Einzelkriterium, wenn dessen Intensitaet hoch ist.
 - Negativabgrenzung fehlt — wenn Kriterium nicht erfuellt ist, muss auch das begruendet werden.
-- Mehrfachzaehlung (ein Sachverhalt fuer zwei Kriterien) ohne Begruendung.
+- Mehrfachzaehlung (ein Sachverhalt für zwei Kriterien) ohne Begruendung.
 
 ## Querverweise
 
 - `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md` — Trigger-Gesamtpruefung
 - `datenschutzrecht/skills/dsfa-bfdi-und-laender-blacklist/SKILL.md` — Listenabgleich
 - `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse-Methodik
-- `datenschutzrecht/skills/dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA-Schnittstelle
+- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA-Schnittstelle
 - `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026
@@ -119,7 +119,7 @@ Unterschrift DSB: ____________________
 - EDSA-/EDPB-Leitlinien WP 248 rev.01 — neun Kriterien
 - Art. 35 Abs. 1, 2, 3 DSGVO
 - Art. 70 Abs. 1 lit. e DSGVO
-- EDSA-Stellungnahme 28/2024 zu KI-Modellen — Auslegungshilfe fuer Kriterium 8
+- EDSA-Stellungnahme 28/2024 zu KI-Modellen — Auslegungshilfe für Kriterium 8
 - BfDI- und Landeslisten (live pruefen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle

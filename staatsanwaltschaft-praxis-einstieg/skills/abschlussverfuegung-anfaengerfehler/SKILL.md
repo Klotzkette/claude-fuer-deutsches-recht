@@ -6,15 +6,12 @@ description: "Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für 
 # Abschlussverfügung: Anfängerfehler vermeiden
 
 ## Fachkern: Abschlussverfügung: Anfängerfehler vermeiden
-- **Spezialgegenstand:** Abschlussverfügung: Anfängerfehler vermeiden wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Abschlussverfügung: Anfängerfehler vermeiden** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Anklage, Strafbefehl, Einstellung, Abgabe, Nebenentscheidungen und Mitteilungen
 
@@ -40,6 +37,18 @@ Dieser Abschnitt bearbeitet **Fachkern: Abschlussverfügung: Anfängerfehler ver
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 169a StPO (Schlussvermerk)
+- § 170 Abs. 1, 2 StPO (Abschlussentscheidung)
+- Nr. 88-110 RiStBV
+- § 169a StPO (Schlussvermerk – Mängel)
+- § 200 StPO (Anklageumgrenzung)
+- § 244 Abs. 2 StPO (Aufklärungspflicht)
+- Nr. 110, 138 RiStBV
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

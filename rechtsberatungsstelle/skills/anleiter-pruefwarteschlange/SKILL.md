@@ -127,3 +127,27 @@ Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studieren
 Prüfentscheidungen werden im Protokoll mit Datum und Supervisorenname dokumentiert. Begründungen für Rücksendungen sind inhaltlich und konkret (nicht "bitte nochmals prüfen", sondern "§ 4 KSchG-Frist: Zustellungsnachweis fehlt"). Das Protokoll ist Teil der Mandantenakte.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine volljuristische Supervision nach § 6 Abs. 2 RDG.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 6 RDG
+- § 203 StGB
+- § 4 KSchG
+- § 84 SGG
+- § 74 AsylG
+- § 70 VwG
+- § 8 RDG
+- Art. 30 DSGVO
+- Art. 28 DSGVO
+- § 3 RDG
+- Art. 13 DSGVO
+- § 3 AsylG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

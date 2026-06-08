@@ -6,11 +6,9 @@ description: "Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt
 # KI-Output und menschlicher Beitrag
 
 ## Fachkern: KI-Output und menschlicher Beitrag
-- **Spezialgegenstand:** KI-Output und menschlicher Beitrag. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -30,7 +28,6 @@ Dieser Skill hilft bei ersetzt die pauschale KI-Debatte durch eine Beweisprüfun
 - KI-VO Art. 53
 - DSM-RL Art. 4
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -39,7 +36,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - War das Ergebnis durch Tool, Prompt oder Zufall determiniert?
 - Welche Zwischenstände, Promptlogs, Edits, MIDI-Noten, Mixentscheidungen und Versionen gibt es?
 - Wird Schutz am Output, an Auswahl/Anordnung oder an späterer Bearbeitung beansprucht?
-
 
 ## Prüflogik
 
@@ -59,7 +55,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Beweislog mit Hashes und Versionen
 - Risikoformulierung für Vertrag, Verlag oder Plattform
 
-
 ## Qualitätsfilter
 
 - KI kann Werkzeug sein, ersetzt aber nicht die Prüfung des menschlichen Ausdrucks.
@@ -71,3 +66,10 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Anschluss-Skills
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 7 UrhG (kein Urheber bei reinem KI-Output)
+- § 2 Abs. 2 UrhG

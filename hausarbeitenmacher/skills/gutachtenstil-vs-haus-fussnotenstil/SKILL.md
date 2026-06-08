@@ -1,36 +1,21 @@
 ---
 name: gutachtenstil-vs-haus-fussnotenstil
-description: "Gutachtenstil VS Haus Fussnotenstil im Juristische Hausarbeit: prüft konkret Student ist unsicher ob Gutachtenstil oder Urteilsstil, Spezialfall Fussnotenstil deutsche Jurahausarbeit, Leitfaden Literaturrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-für-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau) im Hausarbeitenmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Gutachtenstil VS Haus Fussnotenstil
+# Gutachtenstil und Urteilsstil
 
 ## Arbeitsbereich
 
-**Gutachtenstil VS Haus Fussnotenstil** ordnet den Fall über die tragenden Prüffelder: Student ist unsicher ob Gutachtenstil oder Urteilsstil, Spezialfall Fussnotenstil deutsche Jurahausarbeit, Leitfaden Literaturrecherche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `gutachtenstil-vs-urteilsstil` | Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau). |
-| `haus-fussnotenstil-spezial` | Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster fuer einheitliche Zitierweise. |
-| `haus-literaturrecherche-leitfaden` | Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster fuer Querschnitts- und Spezialthemen. |
+Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-für-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Juristische Hausarbeit klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Hausarbeitsfrist i.d.R. 4-6 Wochen, kein Abgabeaufschub, JAG-Wiederholung pro Klausur, Promotionsverfahren landesrechtlich.
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `gutachtenstil-vs-urteilsstil`
-
-**Fokus:** Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau).
-
-# Gutachtenstil und Urteilsstil
-
 
 ## Triage zu Beginn
 1. Handelt es sich um eine Hausarbeit (immer Gutachtenstil) oder einen Schriftsatz (Urteilsstil)?
@@ -42,7 +27,7 @@ description: "Gutachtenstil VS Haus Fussnotenstil im Juristische Hausarbeit: pr�
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 313 Abs. 3 ZPO — Begruendungspflicht fuer Urteile: Urteilsstil als Vorbild fuer Schriftsaetze
+- § 313 Abs. 3 ZPO — Begruendungspflicht für Urteile: Urteilsstil als Vorbild für Schriftsaetze
 - § 276 ZPO — Grundsatz schriftlicher Begruendung: Gutachtenstil als Lerngrundlage
 - §§ 133, 157 BGB — Auslegung als methodisches Fundament der Subsumtion
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Sachverhaltsbezug als Wahrheitspflicht
@@ -255,112 +240,6 @@ Lies Deinen Text laut. Wenn er
 
 ## Übergang zu
 
-- `subsumtion-schritt-fuer-schritt` — Subsumtions-Übung
+- `subsumtion-schritt-für-schritt` — Subsumtions-Übung
 - `gliederung-mit-tiefenstruktur` — Gliederung erstellen
 - `meinungsstreit-darstellen` — Bei Streit-Punkten
-
-## 2. `haus-fussnotenstil-spezial`
-
-**Fokus:** Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster fuer einheitliche Zitierweise.
-
-# Haus: Fussnotenstil
-
-## Spezialwissen: Haus: Fussnotenstil
-- **Spezialgegenstand:** Haus: Fussnotenstil / haus fussnotenstil spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BGH, BVerfG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 3. `haus-literaturrecherche-leitfaden`
-
-**Fokus:** Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster fuer Querschnitts- und Spezialthemen.
-
-# Haus: Literaturrecherche
-
-## Spezialwissen: Haus: Literaturrecherche
-- **Spezialgegenstand:** Haus: Literaturrecherche / haus literaturrecherche leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** BGH.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

@@ -46,7 +46,7 @@ Erzeuge nach den Startfragen eine knappe Mandatsmatrix:
 | Schriftsatz soll richterlesbar werden | `schriftsatz-ueberarbeiten-richterlesbar`, `argumentationsarchitektur-schreiben` |
 | Mandantenmemo oder Partnerupdate | `mandantenmemo-und-partner-update`, `gutachten-memo-internes-drafting` |
 | Deutscher Vertrag auf Englisch | `englischer-vertrag-deutsches-recht`, `bilingual-drafting-deutsch-englisch` |
-| US/UK-Text aus deutscher Anwaltsperspektive | `us-uk-legal-writing-fuer-deutsche`, `bilingual-drafting-deutsch-englisch` |
+| US/UK-Text aus deutscher Anwaltsperspektive | `us-uk-legal-writing-für-deutsche`, `bilingual-drafting-deutsch-englisch` |
 | Finale Fassung vor Versand | `finaler-writing-quality-gate`, `word-dokument-finish-und-layout` |
 
 ## Output
@@ -63,7 +63,6 @@ Gib immer drei Dinge aus:
 - Keine falsche Genauigkeit. Bei unsicherem Sachverhalt mit Annahmen arbeiten und diese offen markieren.
 - Keine Platzhalterlawine. Höchstens wenige eckige Platzhalter, die wirklich ausgefüllt werden müssen.
 - Immer den nächsten konkreten Arbeitsschritt nennen.
-
 
 ## Qualitäts-Hardening
 

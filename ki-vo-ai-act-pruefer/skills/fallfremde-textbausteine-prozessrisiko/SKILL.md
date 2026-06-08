@@ -41,7 +41,7 @@ Erstelle:
 1. Korrekturliste mit Fundstelle im Dokument.
 2. Ersatzformulierung ohne fremden Tatsachenkern.
 3. Hinweis, ob eine Berichtigung gegenüber Gericht/Behörde erforderlich sein kann.
-4. Kanzlei-Lernpunkt fuer Prompt- und Reviewprozess.
+4. Kanzlei-Lernpunkt für Prompt- und Reviewprozess.
 5. Eskalationshinweis: intern korrigieren, Mandant informieren, Gericht/Behörde berichtigen oder Fristverlängerung beantragen.
 
 ## Qualitätsregel

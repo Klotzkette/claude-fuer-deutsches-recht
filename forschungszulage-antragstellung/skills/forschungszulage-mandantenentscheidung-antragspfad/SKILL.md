@@ -5,12 +5,24 @@ description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage im 
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage
 
-## Spezialwissen: Dokumentation: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Dokumentation: Mandantenkommunikation und Entscheidungsvorlage / dokumentation mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** FZulG, BSFZ.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Normenanker
 
+Arbeitsfokus: **Dokumentation: Mandantenkommunikation und Entscheidungsvorlage**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1 FZulG` — Anspruchsberechtigung.
+- `§ 2 Abs. 1 FZulG` — begünstigtes F&E-Vorhaben.
+- `§ 3 FZulG` — förderfähige Aufwendungen.
+- `§ 4 FZulG` — Höhe der Zulage.
+- `§ 5 FZulG` — Antrag.
+- `§ 6 FZulG` — Bescheinigung.
+- `§ 10 FZulG` — Festsetzung/Auszahlung.
+- `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Dokumentation: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** FZulG, BSFZ.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

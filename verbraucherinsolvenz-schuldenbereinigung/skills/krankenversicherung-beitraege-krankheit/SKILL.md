@@ -7,36 +7,34 @@ description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsol
 
 ## Arbeitsbereich
 
-**Krankenversicherung Beitraege Krankheit** ordnet den Fall über die tragenden Prüffelder: Krankenversicherung und Beiträge, Krankheit, Pflege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Krankenversicherung Beitraege Krankheit** ordnet den Fall über die tragenden Prüfungslinien: Krankenversicherung und Beiträge, Krankheit, Pflege. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `krankenversicherung-und-beitraege` | Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `krankheit-pflege-behinderung` | Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
-| `lohnpfaendung-und-arbeitgeber` | Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
+| `krankenversicherung-und-beitraege` | Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `krankheit-pflege-behinderung` | Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
+| `lohnpfaendung-und-arbeitgeber` | Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Verbraucherinsolvenz Schuldenbereinigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `krankenversicherung-und-beitraege`
 
-**Fokus:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.
 
 ## Fachkern: Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.
-- **Spezialgegenstand:** Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -68,16 +66,14 @@ SGB V; VVG; InsO Forderungsbehandlung. Entscheidend ist immer der aktuelle Norms
 
 ## 2. `krankheit-pflege-behinderung`
 
-**Fokus:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.
 
 ## Fachkern: Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.
-- **Spezialgegenstand:** Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 
@@ -109,16 +105,14 @@ SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295. Entscheidend ist immer der akt
 
 ## 3. `lohnpfaendung-und-arbeitgeber`
 
-**Fokus:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.
 
 ## Fachkern: Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.
-- **Spezialgegenstand:** Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Auftrag
 

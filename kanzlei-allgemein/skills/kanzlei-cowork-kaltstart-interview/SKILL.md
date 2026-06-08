@@ -5,7 +5,6 @@ description: "Kaltstart-Interview für das generische Kanzlei-Cowork-Plugin. Erf
 
 # /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview
 
-
 ## Triage zu Beginn
 1. Existiert bereits eine CLAUDE.md-Konfigurationsdatei oder wird erstmalig eingerichtet?
 2. Welche Rechtsform hat die Kanzlei (Einzelanwalt, GbR, PartG, GmbH, AG) und wie viele Anwaelte?

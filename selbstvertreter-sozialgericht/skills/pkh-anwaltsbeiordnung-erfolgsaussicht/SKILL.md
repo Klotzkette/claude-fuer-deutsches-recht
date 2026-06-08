@@ -37,7 +37,7 @@ Damit Sie Prozesskostenhilfe bekommen, muss Ihre Klage Aussicht haben. Wenn das 
 - **§ 114 ZPO** — Hinreichende Erfolgsaussicht, keine Mutwilligkeit.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was bedeutet "hinreichende Erfolgsaussicht"?
 
@@ -51,14 +51,14 @@ Eine gute Klagebegruendung ueberzeugt das Gericht von der Erfolgsaussicht. Achte
 
 - **Tatsachen klar dargestellt**: Was wann passiert ist.
 - **Beweise benannt**: Atteste, Zeugen, Gutachten.
-- **Rechtsfehler der Behoerde aufgezeigt**: Punktgenau, nicht allgemein.
+- **Rechtsfehler der Behörde aufgezeigt**: Punktgenau, nicht allgemein.
 
 ### Schritt 3 — Typische Konstellationen
 
 **Klar gute Erfolgsaussicht**:
 
-- Mehrere Aerzte attestieren EM, Behoerde stuetzt sich auf altes Gutachten.
-- Sanktionsbescheid ohne Anhoerung (§ 24 SGB X).
+- Mehrere Aerzte attestieren EM, Behörde stuetzt sich auf altes Gutachten.
+- Sanktionsbescheid ohne Anhörung (§ 24 SGB X).
 - Pflegegrad mit klarem Pflegeprotokoll, MD-Gutachten 2 Jahre alt.
 
 **Mittlere Erfolgsaussicht**:

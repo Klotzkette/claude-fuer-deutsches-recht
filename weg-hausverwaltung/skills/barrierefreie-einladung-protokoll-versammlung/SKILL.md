@@ -55,3 +55,29 @@ AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung v
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. AGG § 5 über https://www.gesetze-im-internet.de/agg/__5.html und BGG über https://www.gesetze-im-internet.de/bgg/ live verifizieren. DIN SPEC 33429 und ISO 14289 sind kostenpflichtige Normen — Kurzabriss über Bundesfachstelle Barrierefreiheit abrufen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+

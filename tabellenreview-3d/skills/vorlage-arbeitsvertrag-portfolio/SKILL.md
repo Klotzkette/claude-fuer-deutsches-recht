@@ -68,7 +68,6 @@ Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

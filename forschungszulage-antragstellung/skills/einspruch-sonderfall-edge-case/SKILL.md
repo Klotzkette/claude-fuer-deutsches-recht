@@ -6,11 +6,7 @@ description: "Einspruch: Sonderfall und Edge-Case-Prüfung im Forschungszulage-A
 # Einspruch: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Einspruch: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Einspruch: Sonderfall und Edge-Case-Prüfung / einspruch sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

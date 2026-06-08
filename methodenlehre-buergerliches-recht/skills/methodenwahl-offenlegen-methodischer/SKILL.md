@@ -7,10 +7,10 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 
 ## Arbeitsbereich
 
-**Methodenwahl Offenlegen Methodischer** ordnet den Fall über die tragenden Prüffelder: Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Methodenwahl Offenlegen Methodischer** ordnet den Fall über die tragenden Prüfungslinien: Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `methodenwahl-offenlegen-schriftsatz` | Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Haltbarkeit von Schriftsätzen durch methodische Klarheit. |
 | `methodischer-demokratiecheck` | Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen. |
@@ -20,12 +20,12 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `methodenwahl-offenlegen-schriftsatz`
 
@@ -40,7 +40,6 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Professionelle Juristen machen ihre Methodenwahl explizit. Sie sagen nicht nur, was das Recht ist, sondern warum sie es so auslegen. Dieses Skill vermittelt die Technik der Methodenoffenlegung im Schriftsatz und zeigt, wie dieser Transparenzanspruch die Überzeugungskraft und die revisionsrechtliche Haltbarkeit von Argumenten steigert.
 
@@ -130,7 +129,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Jede Auslegungs- und Rechtsfortbildungsentscheidung hat eine demokratietheoretische Dimension: Sie bewegt sich entweder im Rahmen demokratisch gesetzter Normen oder überschreitet ihn. Dieses Skill bietet einen systematischen Demokratiecheck für methodische Entscheidungen im Zivilrecht.
 
 ## Mandantenfall
@@ -218,7 +216,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Juristische Texte sind nie narrativ neutral. Die Art, wie ein Sachverhalt erzählt wird, beeinflusst das Subsumtionsergebnis, noch bevor eine Rechtsnorm angewandt wird. Dieses Skill lehrt, narrative Überformung in juristischen Texten zu erkennen, zu dekonstruieren und methodisch saubere Subsumtion von ihr zu trennen.
 
@@ -308,7 +305,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Der Obersatz ist der Ausgangspunkt jeder gutachterlichen Prüfung. Er muss die zu prüfende Rechtsfrage präzise benennen, den einschlägigen Tatbestand benennen und offen genug formuliert sein, um die Wertungsfragen der Subsumtion nicht vorwegzunehmen. Dieses Skill vermittelt die Technik der wertungsoffenen Obersatzbildung.
 
 ## Mandantenfall
@@ -396,7 +392,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die objektiv-teleologische Auslegung fragt nach dem Zweck, den die Norm nach heutigem Rechtsverständnis erfüllen soll, und löst sich damit vom historischen Gesetzgeberwillen. Dieses Skill entwickelt Red-Team-Argumente gegen diese Methode und hilft, ihre Grenzen gegenüber dem subjektiv-teleologischen und dem historischen Ansatz zu bestimmen.
 

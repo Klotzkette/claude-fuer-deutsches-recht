@@ -1,36 +1,21 @@
 ---
 name: beamtstg-bbg-beforderung-erprobung-begrenzte
-description: "Beamtstg BBG Beforderung Erprobung Begrenzte im Beamtenrecht: prüft konkret Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln, Beförderung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Beamtstg BBG Beforderung Erprobung Begrenzte
+# BeamtStG, BBG und Landesrecht richtig abgrenzen
 
 ## Arbeitsbereich
 
-**Beamtstg BBG Beforderung Erprobung Begrenzte** ordnet den Fall über die tragenden Prüffelder: Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `beamtstg-bbg-landesrecht-abgrenzung` | Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen. |
-| `beforderung-und-erprobung` | Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten. |
-| `begrenzte-dienstfaehigkeit-27-bbg` | Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen fuer die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine. |
+Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `beamtstg-bbg-landesrecht-abgrenzung`
-
-**Fokus:** Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen.
-
-
-# BeamtStG, BBG und Landesrecht richtig abgrenzen
 
 ## Einstieg
 
@@ -82,105 +67,3 @@ Wenn der Nutzer ein Aktenzeichen, eine Behördennorm oder eine Verwaltungsvorsch
 - Gibt es eine amtliche Quelle?
 - Ist das Zitat nur aus einer privaten Datenbank?
 - Wird eine Verwaltungsvorschrift fälschlich wie ein Gesetz behandelt?
-
-## 2. `beforderung-und-erprobung`
-
-**Fokus:** Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten.
-
-
-# Beforderung Und Erprobung
-
-## Aufgabe
-
-Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten.
-
-## Arbeitsweise
-
-Trenne Statusverleihung von Dienstpostenübertragung. Prüfe laufbahnrechtliche Wartezeiten, Erprobung, Haushaltstelle und Beteiligung von Personalrat/Gleichstellung/Schwerbehindertenvertretung.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 3. `begrenzte-dienstfaehigkeit-27-bbg`
-
-**Fokus:** Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen fuer die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine.
-
-
-# Begrenzte Dienstfaehigkeit nach § 27 BBG
-
-## 1. Zweck und Anwendungsfall
-
-Skill fuer Beamte, deren Dienstfaehigkeit eingeschraenkt, aber nicht vollstaendig verloren ist. Anwendung als milderer Eingriff im Verhaeltnis zur Versetzung in den Ruhestand nach § 26 BBG.
-
-## 2. Eingaben
-
-- Amtsaerztliches Gutachten
-- Dienstpostenbeschreibung
-- Vorgesehene Verwendung (anderer Dienstposten?)
-- Stellungnahme des Mandanten
-
-## 3. Ablauf / Checkliste
-
-### a) Voraussetzungen § 27 BBG
-- Beamter ist nicht vollstaendig dienstunfaehig.
-- Restliche Dienstleistung ist mit mindestens 50 v. H. der Arbeitszeit moeglich.
-- Andersweitige Verwendung im Sinne § 26 Abs. 2 BBG ist zu pruefen.
-
-### b) Verhaeltnis zu § 26 BBG
-- § 27 BBG ist die mildere Maszahme; Vorrang vor Versetzung in den Ruhestand.
-- Dienstherr ist verpflichtet, die Moeglichkeit der begrenzten Dienstfaehigkeit zu pruefen.
-
-### c) Bezuege
-- Bezuege werden anteilig der herabgesetzten Arbeitszeit gezahlt; ggf. Ausgleichszahlung nach den landesrechtlichen Vorschriften.
-
-### d) Versorgungsanwartschaft
-- Die Zeit der begrenzten Dienstfaehigkeit ist anteilig ruhegehaltfaehig.
-- Sondervorschriften zur Hochrechnung bei spaeterer Versetzung in den Ruhestand.
-
-### e) Verfahrensschritte
-- Amtsaerztliches Gutachten.
-- Anhoerung Mandant.
-- Bescheid; Rechtsschutz Widerspruch und Klage.
-
-## 4. Quellenpflicht
-
-- Normen: § 27 BBG; § 27 BeamtStG i.V.m. Landesrecht; § 26 BBG.
-- Rspr.: BVerwG zur begrenzten Dienstfaehigkeit — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Antrag oder Widerspruch.
-- Berechnung der reduzierten Bezuege und Versorgungsfolgen.
-
-## 6. Verifizierte Quellenanker
-
-- § 45 BBG (begrenzte Dienstfaehigkeit Bund); § 27 BeamtStG i.V.m. Landesrecht.
-- § 44 BBG (Dienstunfaehigkeit) als Vergleichsmassstab; § 6 BeamtVG (anteilige Ruhegehaltfaehigkeit).
-- Vorrang der milderen Massnahme: anderweitige Verwendung und begrenzte Dienstfaehigkeit vor Ruhestandsversetzung.
-- BVerwG zur begrenzten Dienstfaehigkeit und zur Pruefungspflicht anderweitiger Verwendung — Datum und Az vor Zitat live verifizieren.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandantin Polizeikommissarin mit Bandscheibenleiden, Innen- statt Streifendienst denkbar. Dienstherr will Ruhestand verfuegen. Skill liefert Antrag auf begrenzte Dienstfaehigkeit und Pruefraster anderweitiger Verwendung.

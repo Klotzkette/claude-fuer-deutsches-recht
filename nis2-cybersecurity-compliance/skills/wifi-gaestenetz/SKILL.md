@@ -1,28 +1,28 @@
 ---
 name: wifi-gaestenetz
-description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance im Nis2 Cybersecurity Compliance: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wifi Gaestenetz
 
 ## Arbeitsbereich
 
-**Wifi Gaestenetz** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Wifi Gaestenetz** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wifi-gaestenetz` | Prüft WLAN, Gästezugang und Segmentierung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im NIS2-Cybersecurity-Compliance klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: NIS2 Art. 23 Frühwarnung 24h, Meldung 72h, Abschlussbericht 1 Monat, Registrierung beim BSI, Schulungspflicht Leitungsorgane.
 - Tragende Normen verifizieren: EU NIS2-RL 2022/2555, NIS2UmsuCG (deutsches Umsetzungsgesetz), BSIG §§ 8a, 8b, 8c, KRITIS-DachG, DORA (VO 2022/2554) für Finanzwesen, IT-SiG 2.0, DSGVO Art. 32 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, Informationssicherheits-Konzept, Incident-Response-Plan, BSI-Meldung, Schulungsnachweis Geschäftsleitung, Lieferkettenrisiko-Bericht, Business-Continuity-Plan — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wifi-gaestenetz`
 

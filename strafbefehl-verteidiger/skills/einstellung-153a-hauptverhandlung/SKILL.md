@@ -1,49 +1,35 @@
 ---
 name: einstellung-153a-hauptverhandlung
-description: "Einstellung 153a Hauptverhandlung im Plugin Strafbefehl Verteidiger: prüft konkret Einstellung im Strafbefehlsverfahren, Hauptverhandlung nach § 411 StPO bei Einspruch, Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA im Strafbefehl Verteidiger: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Einstellung 153a Hauptverhandlung
+# Einstellung des Strafbefehlsverfahrens
 
 ## Arbeitsbereich
 
-**Einstellung 153a Hauptverhandlung** ordnet den Fall über die tragenden Prüffelder: Einstellung im Strafbefehlsverfahren, Hauptverhandlung nach § 411 StPO bei Einspruch, Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `strafbefehl-einstellung-153-153a-170` | Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA. |
-| `strafbefehl-hauptverhandlung-vorbereitung` | Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. Beweisanträge § 244 StPO. Einlassung oder Schweigen. Strafzumessung § 46 StGB. Befangenheitsantrag § 24 StPO. Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO. Schlussvortrag § 258 StPO. |
-| `strafbefehl-inhalt-409-pruefung` | Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste. |
+Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Strafbefehl Verteidiger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `strafbefehl-einstellung-153-153a-170`
-
-**Fokus:** Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage) § 153a StPO (mit Auflage) § 170 Abs. 2 StPO (Einstellung mangels hinreichenden Tatverdachts). Opportunitaetsprinzip. Zustimmungserfordernisse. BZR-Eintrag bei § 153a. Auflage-Wahl Geldbusse Sozialstunden TOA.
-
-# Einstellung des Strafbefehlsverfahrens
 
 ## Triage zu Beginn
 
-1. **Wie schwer ist das Delikt?** — § 153 StPO nur bei geringer Schuld und fehlendem oeffentlichen Interesse; § 153a StPO bei schwereren Faellen mit Auflagen.
-2. **Ersttatverdaechtiger oder Vorstrafe?** — § 153 StPO bei fehlendem oeffentlichen Interesse; § 153a bei Vorstrafe nur ausnahmsweise.
+1. **Wie schwer ist das Delikt?** — § 153 StPO nur bei geringer Schuld und fehlendem öffentlichen Interesse; § 153a StPO bei schwereren Faellen mit Auflagen.
+2. **Ersttatverdaechtiger oder Vorstrafe?** — § 153 StPO bei fehlendem öffentlichen Interesse; § 153a bei Vorstrafe nur ausnahmsweise.
 3. **Was ist das Ziel?** — Kein BZR-Eintrag (§ 153 optimalst), kein Verfahren (§ 153a mit Geldauflage), oder Freispruch nach vollstaendiger Verteidigung.
 4. **Ist Zustimmung der Staatsanwaltschaft realistisch?** — Informelle Sondierung vor foermlichem Antrag.
 5. **Liegt hinreichender Tatverdacht vor?** — Falls Beweislage duenn: § 170 Abs. 2 StPO beantragen.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-- **§ 153 StPO** — Einstellung bei Geringfuegigkeit: geringe Schuld, kein oeffentliches Interesse; ohne Auflage; kein BZR-Eintrag
-- **§ 153a StPO** — Einstellung mit Auflage (Geldzahlung, Sozialstunden, Therapie, Wiedergutmachung); vorlaeufige Einstellung bis Auflage erfuellt; endgueltige Einstellung nach Erfuellung
+- **§ 153 StPO** — Einstellung bei Geringfuegigkeit: geringe Schuld, kein öffentliches Interesse; ohne Auflage; kein BZR-Eintrag
+- **§ 153a StPO** — Einstellung mit Auflage (Geldzahlung, Sozialstunden, Therapie, Wiedergutmachung); vorläufige Einstellung bis Auflage erfuellt; endgueltige Einstellung nach Erfuellung
 - **§ 153a Abs. 1 Satz 8 StPO** — Sperrwirkung: Tat kann nach vollstaendiger Auflage-Erfuellung nicht mehr verfolgt werden (kein Prozesshindernis aber strafrechtlich erledigend)
 - **§ 170 Abs. 2 StPO** — Einstellung mangels hinreichenden Tatverdachts (Einstellungsverfuegung der Staatsanwaltschaft)
 - **§ 172 StPO** — Klageerzwingungsverfahren bei Einstellungsverweigerung
@@ -52,7 +38,7 @@ description: "Einstellung 153a Hauptverhandlung im Plugin Strafbefehl Verteidige
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 - BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge (§ 3 KCanG) tatbestandlich auszuklammern; greift sie, fehlt es am Tatverdacht und es ist § 170 Abs. 2 StPO statt § 153a StPO einschlägig. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen — relevant fuer die Bemessung von Geldauflagen nach § 153a StPO im Cannabisbereich. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
+- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen — relevant für die Bemessung von Geldauflagen nach § 153a StPO im Cannabisbereich. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
 - Hinweis: Eine BGH-Leitentscheidung speziell zur Anwendung des § 153a StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 153a StPO Strafbefehl" durchführen.
 
 ## Quellenregel
@@ -67,8 +53,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | § 170 Abs. 2 StPO | Kein hinreichender Tatverdacht | Keine | Kein Eintrag |
 | § 46a StGB | Geschaedigter vorhanden, TOA | Keine (Milderung) | Nur bei Verurteilung |
 
-## Schritt-fuer-Schritt-Workflow
-
+## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -92,7 +77,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Output-Template § 153a-Antrag
 
 **Adressat:** Staatsanwaltschaft — Tonfall: sachlich-kooperativ
@@ -101,7 +85,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 In der Strafsache gegen [NAME]
 Az.: [AKTENZEICHEN]
 
-Antrag auf vorlaeufige Einstellung nach § 153a StPO
+Antrag auf vorläufige Einstellung nach § 153a StPO
 
 Ich rege an das Verfahren gegen [NAME] gegen [Auflage-Art:
 Geldzahlung / Sozialstunden / Wiedergutmachung] einzustellen.
@@ -125,11 +109,10 @@ Mit freundlichen Gruessen [KANZLEI]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Harte Leitplanken
 
@@ -137,199 +120,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Auflage-Erfuellungsfrist im Kalender einpflegen.
 - BZR-Konsequenzen erklaeren: bei § 153a und Geldbusse bis 90 Tagessaetze kein Eintrag.
 - Ablehnung der Einstellung ist kein Endpunkt — Antrag in der HV wiederholen.
-
-## 2. `strafbefehl-hauptverhandlung-vorbereitung`
-
-**Fokus:** Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. Beweisanträge § 244 StPO. Einlassung oder Schweigen. Strafzumessung § 46 StGB. Befangenheitsantrag § 24 StPO. Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO. Schlussvortrag § 258 StPO.
-
-# Hauptverhandlung nach Einspruch — § 411 StPO
-
-## Triage zu Beginn — Checkliste vor der HV
-
-1. **Erscheinungspflicht klaeren:** Mandant erscheinungspflichtig (§ 411 Abs. 2 StPO); Antrag auf Entbindung moeglich wenn Sachverhalt unstreitig und nur Rechtsfolgen streitig.
-2. **Beweisantraege fertig?** — Jeder Beweisantrag braucht konkretes Beweisthema und bestimmtes Beweismittel (§ 244 Abs. 3 StPO).
-3. **Einlassung oder Schweigen?** — Abschluss-Entscheidung mit Mandant mindestens 1 Woche vorher treffen.
-4. **Sachverstaendiger notwendig?** — Technische Fragen (Messung), medizinische Fragen (BAK), Glaubwuerdigkeitsgutachten.
-5. **Verstaendigungsangebot vorher gemacht?** — § 257c StPO oder § 153a-Antrag vor HV abschliessen.
-
-## Zentrale Normen
-
-- **§ 411 StPO** — HV nach Einspruch; Zustellung des Termins; Beschraenkung auf Teilnahme des Verteidigers bei Entbindung
-- **§ 243 StPO** — Gang der Hauptverhandlung: Aufruf, Vernehmung, Beweisaufnahme
-- **§ 244 StPO** — Beweisantragsrecht und Ablehnungsgruende
-- **§ 258 StPO** — Schlussvortrag; Verteidiger hat das letzte Wort
-- **§ 24 StPO** — Ablehnung eines Richters wegen Befangenheit
-- **§ 46 StGB** — Strafzumessungserwaeungen; Grundlage des Plaedoyers
-- **§ 267 StPO** — Urteilsgruende; Grundlage fuer spaetere Revision
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Vorbereiungs-(1 Woche vor HV)
-
-1. **Aktenexzerpt aktualisieren** — alle Beweismittel, alle Zeugen, kritische Aktenstellen markieren.
-2. **Einlassung finalisieren** — schriftlich vorbereiten, mit Mandant durchgehen, Reihenfolge festlegen.
-3. **Beweisantraege formulieren** — pro Antrag: Beweisthema + Beweismittel + Relevanz.
-4. **Plaedoyer vorbereiten** — Strafzumessungsargumente strukturieren: mildernde Umstaende, keine Vorstrafe, Schadenswiedergutmachung.
-5. **Befangenheitsantrag vorbereiten** — wenn Anzeichen fuer Voreingenommenheit des Richters.
-6. **Mandant ueber Ablauf der HV informieren** — Aufruf, Vernehmung, Beweisaufnahme, Plaedoyer, Letztes Wort.
-
-## Entscheidungsbaum in der HV
-
-```
-Eroefffnung der HV:
-├─ Verstaendigungs-Angebot moeglich → § 257c-Antrag vor Beginn der Beweisaufnahme
-├─ § 153a-Antrag noch nicht entschieden → nochmals stellen
-└─ Keine Einigung → regulaere Beweisaufnahme
-
-Beweisaufnahme:
-├─ Zeuge kommt → Befragung nach Aussage-Konstanz, Widerspruechen
-├─ Sachverstaendiger geladen → Gegenfragen vorbereiten, eigenen SV ankuendigen
-└─ Urkundsbeweis → Echtheits- und Verwertbarkeitsfragen stellen
-
-Nach Beweisaufnahme:
-├─ § 244 Abs. 6 StPO-Pruefung: noch Beweisantraege?
-├─ Schlussvortrag § 258 StPO — strukturiert: Sachverhalt, Recht, Strafe
-└─ Letztes Wort des Angeklagten § 258 Abs. 3 StPO — kurz, persoenlich
-```
-
-## Checkliste Beweisantrag-Formular
-
-```
-Beweisthema: [Was soll bewiesen werden?]
-Beweismittel: [Zeuge / Sachverstaendiger / Urkunde — konkret benennen]
-Erwartetes Ergebnis: [Was wird die Beweisaufnahme zeigen?]
-Relevanz fuer das Verfahren: [Warum ist das entscheidungserheblich?]
-Gestuetzt auf: § 244 Abs. 2 StPO (Amtsaufklaerungspflicht) /
- § 244 Abs. 4 StPO (Sachverstaendigen-Antrag)
-```
-
-## Output-Template Plaedoyer-Gliederung
-
-```
-Sehr geehrtes Gericht,
-
-I. Sachverhalt
-[Zusammenfassung der Beweisaufnahme aus Verteidigungsperspektive]
-
-II. Rechtliche Wuerdigung
-[Tatbestandspruefung, ggf. Zweifel am Vorsatz / an der Schuld]
-
-III. Strafzumessung
-Mildernde Umstaende:
-- Ersttat / keine Vorstrafe (§ 46 Abs. 2 StGB)
-- Gestaendnis / Reue
-- Schadenswiedergutmachung (§ 46a StGB)
-- Soziale Verhaeltnisse / besondere Haerteumstaende
-
-IV. Antrag
-Ich beantrage [Freispruch / Einstellung / Geldstrafe von [X] Tagessaetzen zu [Y] EUR].
-```
-
-## Harte Leitplanken
-
-- Letztes Wort des Mandanten niemals vergessen — absoluter Revisionsgrund bei Verletzung.
-- Befangenheitsantrag unverzueglich nach Kenntnis stellen.
-- Beweisantraege spaetestens in der Hauptverhandlung vor Schluss der Beweisaufnahme stellen.
-- Anwaltliche Endkontrolle bei allen Antraegen und Schriftsaetzen.
-
-## 3. `strafbefehl-inhalt-409-pruefung`
-
-**Fokus:** Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste.
-
-# Strafbefehlsinhalt pruefen — § 409 StPO
-
-## Triage zu Beginn — vor der Inhaltspruefung
-
-1. **Liegt der Strafbefehl im Original vor?** — Abschrift reicht fuer die Pruefung, Original fuer Fristberechnung.
-2. **Welches Delikt ist aufgefuehrt?** — § 409 Abs. 1 Nr. 3 StPO verlangt Angabe der gesetzlichen Merkmale und des angewandten Strafgesetzes.
-3. **Sind Tatzeit und Tatort konkret benannt?** — Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG; eine pauschale Datumsangabe ("in 2022 mehrfach") kann die Tat unzureichend individualisieren.
-4. **Stimmt die Rechtsfolge mit dem Sanktionskatalog des § 407 Abs. 2 StPO ueberein?** — Nur zulässige Sanktionen: Geldstrafe, Freiheitsstrafe bis 1 Jahr auf Bewaehrung, Fahrverbot, Einziehung, Nebenfolgen.
-5. **Ist der Tatrichter der sachlich zustaendige Richter?** — Strafbefehle darf nur der Strafrichter (§ 408 Abs. 1 StPO) oder Jugendrichter ausstellen; nicht Schoeffengericht oder LG.
-
-## Pflichtinhalt nach § 409 Abs. 1 StPO (Nichtigkeit bei Fehlen)
-
-| Nr. | Inhaltsmerkmal | Pruefungsaspekt |
-|-----|---------------|-----------------|
-| 1 | Name des Beschuldigten | Identifikation — Verwechslung moeglich? |
-| 2 | Tat, Zeit und Ort | Ausreichende Individualisierung nach BGH |
-| 3 | Gesetzliche Merkmale der Tat | Normen vollstaendig genannt? |
-| 4 | Beweismittel | Mindestens schlagwortartig |
-| 5 | Strafgesetz (angewandte Norm) | § § explizit genannt |
-| 6 | Rechtsfolge konkret benannt | Geldstrafe: Tagessatzanzahl + -hoehe |
-| 7 | Belehrung ueber Einspruchsrecht und -frist | § 409 Abs. 1 Nr. 7; Fehlen = anfechtbar |
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- **§ 407 StPO** — Zulaessigkeit des Strafbefehls; Strafbefehl nur bei Vergehen, Sanktionsgrenzen
-- **§ 408 StPO** — Richterliche Entscheidung; Richter kann bei Bedenken ablehnen
-- **§ 409 StPO** — Pflichtinhalt; Fehlen wesentlicher Elemente = Nichtigkeit oder Anfechtbarkeit
-- **§ 410 StPO** — Einspruch 2-Wochen-Frist
-- **Art. 103 Abs. 2 GG** — Bestimmtheitsgrundsatz
-- **§ 40 StGB** — Tagessatz-System (Anzahl nach Schuld, Hoehe nach Einkommen)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Pruef-Checkliste Strafbefehlsinhalt
-
-```
-□ Name und Personalien des Beschuldigten korrekt (Nr. 1)?
-□ Tathandlung individualisierbar beschrieben — Zeit, Ort, Modalitaet (Nr. 2)?
-□ Alle gesetzlichen Tatbestandsmerkmale der vorgeworfenen Norm genannt (Nr. 3)?
-□ Beweismittel wenigstens schlagwortartig aufgefuehrt (Nr. 4)?
-□ Strafgesetz (Paragraf, Absatz, Alternative) explizit zitiert (Nr. 5)?
-□ Rechtsfolge vollstaendig:
- - Geldstrafe: Anzahl Tagessaetze + Euro je Tagessatz?
- - Fahrverbot: Dauer, § 25 StVG oder § 44 StGB?
- - Bewaehrungsstrafe: Bewaehrungszeit, Auflagen?
- - Einziehung: Gegenstand, Wert?
-□ Belehrung ueber Einspruch und 2-Wochen-Frist vorhanden (Nr. 7)?
-□ Richter des Amtsgerichts unterschrieben (kein Rechtspfleger)?
-□ Ausstellungsdatum aufgefuehrt?
-```
-
-## Entscheidungsbaum bei Maengeln
-
-```
-Fehler im Strafbefehl gefunden?
-├─ Belehrungsfehler (Nr. 7)
-│ └─ Frist laeuft nicht an → unbeschraenkte Zeit fuer Einspruch
-│ + Wiedereinsetzungsantrag bei spaeterer Kenntnis (§ 44 StPO)
-├─ Tatbeschreibung zu unbestimmt (Nr. 2)
-│ └─ Einspruch einlegen + In HV Antrag auf Einstellung wegen
-│ Verletzung Art. 103 Abs. 2 GG stellen
-├─ Rechtsfolge fehlerhaft / unvollstaendig (Nr. 6)
-│ └─ Einspruch (Frist sichern!) + in HV Aufhebung beantragen
-└─ Sachlich unzustaendiges Gericht (z.B. Schoeffengericht)
- └─ Einspruch + Unzustaendigkeitsruege in der Hauptverhandlung
-```
-
-## Schritt-fuer-Schritt-Workflow
-
-1. **Strafbefehl-Kopie anlegen** — Original sicher verwahren, Kopie fuer Pruefung.
-2. **Checkliste § 409 StPO Punkt fuer Punkt abarbeiten** — jeden Mangel notieren.
-3. **Tagessatz-Plausibilitaet pruefen:** Anzahl Tagessaetze angemessen? Tagessatzhoehe korrekt berechnet nach § 40 Abs. 2 StGB (Nettoeinkommen / 30)?
-4. **Wenn Fehler: Rechtsstrategie waehlen** (s. Entscheidungsbaum).
-5. **Einspruch formulieren und fristgerecht einlegen** (§ 410 Abs. 1 StPO — 2-Wochen-Frist!).
-6. **In Aktenanforderung auf spezifische Maengel hinweisen** — Staatsanwaltschaft ggf. auf Fehler aufmerksam machen fuer § 153a-Gespraeche.
-
-## Adressat und Tonfall
-
-Schriftsatz an Gericht: sachlich-juristisch, praesize Normzitate.
-Mandantenhinweis: verstaendlich-erklaerend, Fachbegriffe erklaeren.
-
-## Harte Leitplanken
-
-- Nichtigkeit des Strafbefehls fuehrt nicht automatisch zum Freispruch — Anklageerhebung moeglich.
-- Einspruch immer fristgerecht einlegen, unabhaengig von Fehlerruegen.
-- Anwaltliche Endkontrolle vor Versand.

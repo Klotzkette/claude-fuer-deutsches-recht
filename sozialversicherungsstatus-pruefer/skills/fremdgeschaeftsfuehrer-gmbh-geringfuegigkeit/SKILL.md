@@ -1,36 +1,21 @@
 ---
 name: fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit
-description: "Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit im Sozialversicherungsstatus-Prüfung: prüft konkret Prüft Sozialversicherungsstatus eines, Prüft geringfügige Beschäftigung als Alternative oder, Prüft beherrschenden Gesellschafter-Geschäftsführer mit, Prüft privaten Instrumentalunterricht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung im Sozialversicherungsstatus Pruefer: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit
+# Fremdgeschäftsführer GmbH
 
 ## Arbeitsbereich
 
-**Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit** ordnet den Fall über die tragenden Prüffelder: Prüft Sozialversicherungsstatus eines, Prüft geringfügige Beschäftigung als Alternative oder, Prüft beherrschenden Gesellschafter-Geschäftsführer mit. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `fremdgeschaeftsfuehrer-gmbh` | Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung. |
-| `geringfuegigkeit-minijob` | Prüft geringfügige Beschäftigung als Alternative oder Fehleinordnung zur Selbständigkeit. |
-| `gesellschafter-gf-mehrheit` | Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen. |
-| `gitarrenlehrer-und-instrumentalunterricht` | Prüft privaten Instrumentalunterricht, Musikschulen, Räume, Schülerzuteilung und eigene Unterrichtsorganisation. |
+Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Sozialversicherungsstatus Pruefer klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB IV §§ 7, 7a, 28a, 28p, SGB VI § 2 Nr. 9, BGH und BSG zur Scheinselbstständigkeit — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `fremdgeschaeftsfuehrer-gmbh`
-
-**Fokus:** Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung.
-
-# Fremdgeschäftsführer GmbH
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fremdgeschäftsführer GmbH` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -40,13 +25,9 @@ description: "Fremdgeschaeftsfuehrer Gmbh Geringfuegigkeit im Sozialversicherung
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Fremdgeschäftsführer GmbH
-- **Spezialgegenstand:** Fremdgeschäftsführer GmbH wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
 - **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -84,203 +65,6 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 - Welche Gesellschaftsdokumente belegen die Machtverteilung?
 
 **Mindest-Output:** Fremd-GF-Statusmemo mit Organstellung, Weisungsrechten, Vergütung und Risiko.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
-## 2. `geringfuegigkeit-minijob`
-
-**Fokus:** Prüft geringfügige Beschäftigung als Alternative oder Fehleinordnung zur Selbständigkeit.
-
-# Geringfügigkeit und Minijob
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Geringfügigkeit und Minijob` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Fachkern: Geringfügigkeit und Minijob
-- **Spezialgegenstand:** Geringfügigkeit und Minijob wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Geringfügigkeit und Minijob** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 8
-- Minijob-Regeln live prüfen
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Liegt Beschäftigung vor, aber nur geringfügig?
-- Welche Entgeltgrenzen und Zeitgrenzen gelten aktuell?
-- Ist die Tätigkeit regelmäßig, vorhersehbar oder kurzfristig?
-- Welche Meldungen und Pauschalbeiträge sind nötig?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Liegt Beschäftigung vor, aber nur geringfügig?
-- Welche Entgeltgrenzen und Zeitgrenzen gelten aktuell?
-- Ist die Tätigkeit regelmäßig, vorhersehbar oder kurzfristig?
-- Welche Meldungen und Pauschalbeiträge sind nötig?
-
-**Mindest-Output:** Minijob-Check mit Entgelt/Zeit, Meldung und Abgrenzung.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
-## 3. `gesellschafter-gf-mehrheit`
-
-**Fokus:** Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen.
-
-# Mehrheits-Gesellschafter-Geschäftsführer
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mehrheits-Gesellschafter-Geschäftsführer` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Fachkern: Mehrheits-Gesellschafter-Geschäftsführer
-- **Spezialgegenstand:** Mehrheits-Gesellschafter-Geschäftsführer wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Mehrheits-Gesellschafter-Geschäftsführer** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 7
-- GmbHG Stimmrechte
-- BSG nur verifiziert
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Kann der GF ihm unangenehme Beschlüsse kraft Beteiligung verhindern?
-- Welche Satzungsmehrheiten gelten für Weisung, Abberufung, Geschäftsordnung und Gewinn?
-- Sind Stimmrechtsbindungen oder Sonderrechte relevant?
-- Welche Änderungen der Beteiligung verändern den Status?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Kann der GF ihm unangenehme Beschlüsse kraft Beteiligung verhindern?
-- Welche Satzungsmehrheiten gelten für Weisung, Abberufung, Geschäftsordnung und Gewinn?
-- Sind Stimmrechtsbindungen oder Sonderrechte relevant?
-- Welche Änderungen der Beteiligung verändern den Status?
-
-**Mindest-Output:** Mehrheits-GF-Prüfung mit Stimmrechtsmacht, Satzung und Statusfolge.
-
-## Qualitäts- und Risikofilter
-
-- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
-- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
-- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
-- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.
-
-## 4. `gitarrenlehrer-und-instrumentalunterricht`
-
-**Fokus:** Prüft privaten Instrumentalunterricht, Musikschulen, Räume, Schülerzuteilung und eigene Unterrichtsorganisation.
-
-# Gitarrenlehrer und Instrumentalunterricht
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gitarrenlehrer und Instrumentalunterricht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-
-## Fachkern: Gitarrenlehrer und Instrumentalunterricht
-- **Spezialgegenstand:** Gitarrenlehrer und Instrumentalunterricht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
-- **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Gitarrenlehrer und Instrumentalunterricht** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- SGB IV § 7
-- SGB VI § 2
-- SGB IV § 127
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Wer akquiriert Schüler und legt Preise fest?
-- Wer stellt Räume, Instrumente, Stundenplan, Vertretung und Unterrichtsmaterial?
-- Ist Unterricht pädagogisch frei oder institutionell eingebunden?
-- Welche Rentenversicherungspflicht kann trotz Selbständigkeit bestehen?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Wer akquiriert Schüler und legt Preise fest?
-- Wer stellt Räume, Instrumente, Stundenplan, Vertretung und Unterrichtsmaterial?
-- Ist Unterricht pädagogisch frei oder institutionell eingebunden?
-- Welche Rentenversicherungspflicht kann trotz Selbständigkeit bestehen?
-
-**Mindest-Output:** Instrumentallehrer-Check mit Eingliederung, eigener Marktposition und SGB-VI-Pflicht.
 
 ## Qualitäts- und Risikofilter
 

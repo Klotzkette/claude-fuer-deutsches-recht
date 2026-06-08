@@ -1,13 +1,13 @@
 ---
 name: dsfa-typische-fehler-bei-erstpruefung
-description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste fuer DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis."
+description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis."
 ---
 
 # Typische Fehler bei der DSFA-Erstpruefung
 
 ## Zweck
 
-Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste fuer DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
+Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste für DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
 
 ## Wann dieses Modul hilft
 
@@ -21,7 +21,7 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 
 - Art. 35 DSGVO mit allen Absaetzen.
 - Art. 5 Abs. 2 DSGVO Rechenschaftspflicht.
-- Art. 83 Abs. 4 lit. a DSGVO Bussgeldtatbestand fuer Verstoesse gegen Art. 35.
+- Art. 83 Abs. 4 lit. a DSGVO Bussgeldtatbestand für Verstoesse gegen Art. 35.
 - EDSA-Leitlinien WP 248 rev.01 und einschlaegige Aufsichtsbehoerdenpraxis.
 
 ## Fehlerkatalog mit Gegenmassnahmen
@@ -36,7 +36,7 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 ### 2. Beschreibung der Verarbeitung
 
 - Beschreibung floskelhaft, ohne Datenfluss. Gegenmassnahme: Datenflussdiagramm und konkrete Empfaengeraufzaehlung.
-- Drittlandbezug uebersehen, weil EU-Hosting. Gegenmassnahme: Zugriffsbefugnis pruefen, Skill dsfa-fuer-internationale-datentransfers.
+- Drittlandbezug uebersehen, weil EU-Hosting. Gegenmassnahme: Zugriffsbefugnis pruefen, Skill dsfa-für-internationale-datentransfers.
 - Sub-Auftragsverarbeiter nicht gelistet. Gegenmassnahme: vollstaendige AVV-Kette.
 - Aufbewahrungsfristen pauschal. Gegenmassnahme: Loeschkonzept beifuegen.
 
@@ -48,16 +48,16 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 
 ### 4. Risikoanalyse
 
-- Risiko nur fuer Vertraulichkeit untersucht. Gegenmassnahme: alle Schutzziele SDM durchgehen.
+- Risiko nur für Vertraulichkeit untersucht. Gegenmassnahme: alle Schutzziele SDM durchgehen.
 - Wahrscheinlichkeit ohne Bedrohungsmodell. Gegenmassnahme: Bedrohungsannahmen explizit machen.
 - Schadenschwere aus Sicht des Verantwortlichen statt Betroffener. Gegenmassnahme: Erwaegungsgrund 75 DSGVO als Massstab.
-- Risikomatrix bleibt fuer Massnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Massnahme zuordnen.
+- Risikomatrix bleibt für Massnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Massnahme zuordnen.
 
 ### 5. Massnahmen
 
 - TOM-Konzept fehlt oder ist generisch. Gegenmassnahme: konkrete Massnahmen mit Verantwortlichen und Fristen.
 - Vertragliche Massnahmen (AVV, SCC) nicht referenziert. Gegenmassnahme: Verweis auf konkrete Vertragsversion und Datum.
-- KI-Spezifika fehlen. Gegenmassnahme: Skill dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo.
+- KI-Spezifika fehlen. Gegenmassnahme: Skill dsfa-für-ki-systeme-schnittstelle-art-26-kivo.
 - Stand der Technik nicht begruendet. Gegenmassnahme: BSI- oder ENISA-Referenz beifuegen.
 
 ### 6. Restrisiko
@@ -68,7 +68,7 @@ Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer D
 
 ### 7. Konsultation und Freigabe
 
-- DSB-Anhoerung nur muendlich oder gar nicht. Gegenmassnahme: schriftliche Stellungnahme, datiert und unterzeichnet.
+- DSB-Anhörung nur muendlich oder gar nicht. Gegenmassnahme: schriftliche Stellungnahme, datiert und unterzeichnet.
 - Stakeholder-Konsultation Art. 35 Abs. 9 nicht erwogen. Gegenmassnahme: Skill dsfa-stakeholder-konsultation-art-35-9.
 - Freigabe ohne Datum oder durch Unbefugten. Gegenmassnahme: definierter Eskalations- und Freigabeprozess.
 - Verarbeitung wird vor Antwort der Aufsicht aufgenommen. Gegenmassnahme: Projektplan an Frist 8 Wochen ankoppeln.

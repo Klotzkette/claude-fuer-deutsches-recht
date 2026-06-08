@@ -38,7 +38,7 @@ Im Sitzungssaal gibt es Regeln. Aufstehen wenn der Richter kommt. Hoeflich sein.
 - **§§ 169 ff. GVG** — Oeffentlichkeit, Sitzungsordnung.
 - **§ 12 SGG** — Ehrenamtliche Richter.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vor dem Saal
 
@@ -50,7 +50,7 @@ Im Sitzungssaal gibt es Regeln. Aufstehen wenn der Richter kommt. Hoeflich sein.
 ### Schritt 2 — Wenn Sie aufgerufen werden
 
 - Den Saal betreten
-- Auf den Platz fuer "Klaeger" / "Antragsteller" gehen (links oder rechts vom Richtertisch — wird angesagt)
+- Auf den Platz für "Klaeger" / "Antragsteller" gehen (links oder rechts vom Richtertisch — wird angesagt)
 - Vor dem Richtertisch: leichtes Kopfnicken zur Begruessung
 
 ### Schritt 3 — Wenn die Richter eintreten
@@ -88,7 +88,7 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 - Bei Antworten: konkret, ehrlich, kurz
 - Bei Unsicherheit: "Ich weiss das nicht" oder "Das muesste ich erst pruefen"
 
-### Schritt 8 — Bei Fragen der Behoerden-Vertreterin / des Behoerden-Vertreters
+### Schritt 8 — Bei Fragen der Behörden-Vertreterin / des Behörden-Vertreters
 
 - Auch sie / er ist Partei. Sie muessen nicht alles beantworten.
 - Bei provokanten Fragen: ruhig bleiben.
@@ -133,7 +133,6 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Hinweise.
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: sachlicher-ausschluss-art-2-abs-3-bis-12
-description: "Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persoenliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich)."
+description: "Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persönliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich)."
 ---
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO
@@ -66,7 +66,7 @@ Für KI-Systeme, deren Parameter einschließlich der Modellgewichte, der Archite
 
 - **Ausnahme eindeutig gegeben:** KI-VO nicht anwendbar; endet. Hinweis auf möglicherweise anwendbares anderes Recht.
 - **Ausnahme fraglich (z.B. Dual-Use, Forschung mit echten Nutzern):** Weiter mit Vorbehalt; Hinweis auf Klärungsbedarf; ggf. `mandatsabbruch-empfehlung-komplexe-faelle`
-- **Keine Ausnahme:** Weiter zu `persoenlicher-anwendungsbereich-rollen-art-3`
+- **Keine Ausnahme:** Weiter zu `persönlicher-anwendungsbereich-rollen-art-3`
 
 ---
 

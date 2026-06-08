@@ -1,6 +1,6 @@
 ---
 name: governance-aufsichtsbehoerden-art-70
-description: "Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Übersicht zuständige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bußgeldrahmen)."
+description: "Unternehmen oder Behörde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Übersicht zuständige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bußgeldrahmen)."
 ---
 
 # Governance und Aufsichtsbehörden — Art. 70 ff. KI-VO
@@ -83,7 +83,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
 5. Ist die Massnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -97,7 +97,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Mehrere Jurisdiktionen EU und national | Separate Pruefung pro Mitgliedstaat; Koordination erforderlich |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Output-Template — Pruefergebnis
 **Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
@@ -125,7 +124,7 @@ Geprueft: [NAME], [DATUM]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

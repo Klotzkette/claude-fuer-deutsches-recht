@@ -1,35 +1,23 @@
 ---
 name: ist-ki-act-marktueberwachung-kommunikation
-description: "IST KI ACT Marktueberwachung Kommunikation im Plugin Produktrecht: prüft konkret Schnelle Ist-das-ein-Problem?-Antwort für die schnelle, KI-Verordnung-Integration in Produkte, Kommunikation mit Marktueberwachungsbehoerden (zentrale, BAu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt ist das ein Problem, kurze Frage, können wir X machen, brauche ich rechtliche Prüfung für, Plausibilitätsprüfung, oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse im Produktrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# IST KI ACT Marktueberwachung Kommunikation
+# /ist-das-ein-problem – Schnellprüfung
 
 ## Arbeitsbereich
 
-**IST KI ACT Marktueberwachung Kommunikation** ordnet den Fall über die tragenden Prüffelder: Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle, KI-Verordnung-Integration in Produkte, Kommunikation mit Marktueberwachungsbehoerden (zentrale. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ist-das-ein-problem` | Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse. |
-| `ki-act-produktintegration` | KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster fuer Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden. |
-| `marktueberwachung-kommunikation` | Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Laender, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte. |
+Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Produktrecht und Produktsicherheit klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GPSR Geltungsbeginn 13.12.2024, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, Rückruf unverzüglich, Meldung schwerer Unfall innerhalb 2 Tagen.
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `ist-das-ein-problem`
-
-**Fokus:** Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse.
-
-# /ist-das-ein-problem – Schnellprüfung
+## Spezialwissen
 
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → Risikokalibrierung laden.
 2. Triage-Ablauf unten anwenden.
@@ -175,108 +163,4 @@ Typische Schnellzitate für häufige Konstellationen:
 - Dark Patterns: § 3 UWG; Köhler, in: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 3 Rn. 1 ff.
 
 <!-- AUDIT 27.05.2026 -->
-<!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte fuer AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->
-
-## 2. `ki-act-produktintegration`
-
-**Fokus:** KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster fuer Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden.
-
-# KI-VO: Produktintegration
-
-## Spezialwissen: KI-VO: Produktintegration
-- **Spezialgegenstand:** KI-VO: Produktintegration / ki act produktintegration. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** KI, III, CE, VO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 3. `marktueberwachung-kommunikation`
-
-**Fokus:** Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Laender, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte.
-
-# Marktueberwachung-Kommunikation
-
-## Spezialwissen: Marktueberwachung-Kommunikation
-- **Spezialgegenstand:** Marktueberwachung-Kommunikation / marktueberwachung kommunikation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** Art. 4, MarktueberwG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+<!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte für AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->

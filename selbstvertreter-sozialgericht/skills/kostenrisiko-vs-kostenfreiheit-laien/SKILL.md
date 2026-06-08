@@ -27,7 +27,7 @@ Das Sozialgericht ist meistens gratis. Aber es gibt Faelle, in denen doch Kosten
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Gerichtskosten**: Gebuehren des Gerichts.
+- **Gerichtskosten**: Gebühren des Gerichts.
 - **Anwaltskosten**: Honorar des Anwalts.
 - **Auslagen**: Aufwendungen wie Porto, Fahrtkosten, Kopien.
 - **Aufwendungsersatz**: Erstattung bei Erfolg durch die Gegenseite.
@@ -35,13 +35,13 @@ Das Sozialgericht ist meistens gratis. Aber es gibt Faelle, in denen doch Kosten
 
 ## Rechtsgrundlagen
 
-- **§ 183 SGG** — Gerichtskosten-Freiheit fuer Versicherte etc.
-- **§ 184 SGG** — Pauschalgebuehren fuer Behoerden / Arbeitgeber.
+- **§ 183 SGG** — Gerichtskosten-Freiheit für Versicherte etc.
+- **§ 184 SGG** — Pauschalgebuehren für Behörden / Arbeitgeber.
 - **§ 192 SGG** — Mutwilligkeit / Kosten-Auferlegung.
 - **§ 193 SGG** — Erstattung aussergerichtlicher Kosten.
 - **§ 109 SGG** — Eigenes Gutachten (eigene Kosten).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ihr Standard-Szenario
 
@@ -71,7 +71,7 @@ Wenn Sie verlieren:
 
 - Sie zahlen Ihre eigenen Anwaltskosten (sofern nicht PKH)
 - Sie zahlen keine Gerichtskosten (§ 183 SGG)
-- Sie zahlen nicht die Anwaltskosten der Gegenseite (Behoerde hat keinen Anwalt erstattungsfaehig im SG)
+- Sie zahlen nicht die Anwaltskosten der Gegenseite (Behörde hat keinen Anwalt erstattungsfaehig im SG)
 - Mutwilligkeit (§ 192 SGG): nur in Extremfaellen
 - § 109 SGG-Gutachten: Sie zahlen die Kosten selbst (ca. 1.500 bis 4.000 EUR), wenn nicht durch Staatskasse uebernommen
 
@@ -128,7 +128,6 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt. Pruefen Sie Anwalts-RVG-Werte aktuell.
-
 
 ## Qualitäts-Hardening
 

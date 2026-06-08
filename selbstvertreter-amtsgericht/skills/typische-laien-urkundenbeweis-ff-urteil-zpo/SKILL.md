@@ -7,10 +7,10 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 
 ## Arbeitsbereich
 
-**Typische Laien Urkundenbeweis FF Urteil ZPO** ordnet den Fall über die tragenden Prüffelder: Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Typische Laien Urkundenbeweis FF Urteil ZPO** ordnet den Fall über die tragenden Prüfungslinien: Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `typische-laien-fehler` | Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen. |
 | `urkundenbeweis-415-ff-zpo` | Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten. |
@@ -18,12 +18,12 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `typische-laien-fehler`
 
@@ -49,7 +49,7 @@ Vorhandene Begriffe siehe entsprechende Skills.
 
 Verweise auf einzelne Skill-spezifische Normen.
 
-## Schritt-fuer-Schritt: Die 12 typischen Fehler
+## Schritt-für-Schritt: Die 12 typischen Fehler
 
 ### Fehler 1 — Frist verpasst
 
@@ -93,11 +93,11 @@ Symptom: Tatsachen-Behauptung der Gegenseite gilt als zugestanden (§ 138 III ZP
 
 Gegenmassnahme: Pro Punkt eine Antwort. Skill `klageerwiderung-checkliste-alle-punkte`.
 
-### Fehler 8 — Verjaehrungs-Einrede vergessen
+### Fehler 8 — Verjährungs-Einrede vergessen
 
 Symptom: Verjaehrte Forderung wird zugesprochen.
 
-Gegenmassnahme: Bei Klageerwiderung immer Verjaehrung pruefen. Skill `einreden-aktiv-geltend-machen`, `verjaehrungsfrist-pruefen-195-bgb`.
+Gegenmassnahme: Bei Klageerwiderung immer Verjährung pruefen. Skill `einreden-aktiv-geltend-machen`, `verjaehrungsfrist-pruefen-195-bgb`.
 
 ### Fehler 9 — Streitwert zu niedrig angegeben
 
@@ -145,7 +145,6 @@ Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann
 
 Stand: 05/2026. Praxis-Skill.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -166,13 +165,13 @@ Urkunden sind das **staerkste** Beweismittel im Zivilprozess. Eine schriftliche 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben schriftliche Belege fuer Ihren Vortrag.
+- Sie haben schriftliche Belege für Ihren Vortrag.
 - Sie wollen wissen, ob Email als Urkunde gilt.
 - Sie sollen das Original vorlegen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Oeffentliche Urkunde**: Von einer oeffentlichen Behoerde oder Notar errichtet (Notarvertrag, gerichtliches Urteil).
+- **Oeffentliche Urkunde**: Von einer öffentlichen Behörde oder Notar errichtet (Notarvertrag, gerichtliches Urteil).
 - **Private Urkunde**: Von Privaten erstellt (Brief, Vertrag, Quittung).
 - **Echte Urkunde**: Aussteller-Identitaet steht fest.
 - **Unechte Urkunde**: Aussteller bestritten.
@@ -181,14 +180,14 @@ Urkunden sind das **staerkste** Beweismittel im Zivilprozess. Eine schriftliche 
 ## Rechtsgrundlagen
 
 - **§ 415 ZPO** — Oeffentliche Urkunde, voller Beweis.
-- **§ 416 ZPO** — Private Urkunde, voller Beweis fuer Erklaerung des Ausstellers.
+- **§ 416 ZPO** — Private Urkunde, voller Beweis für Erklaerung des Ausstellers.
 - **§ 418 ZPO** — Oeffentliche Urkunden ueber sonstige Vorgaenge.
 - **§ 419 ZPO** — Aenderungen, Durchstreichungen.
 - **§ 421 ZPO** — Antrag auf Urkundenvorlage.
 - **§ 142 ZPO** — Anordnung der Urkundenvorlage.
 - **§ 371a ZPO** — Elektronische Dokumente.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Urkunde haben Sie?
 
@@ -200,8 +199,8 @@ Sortieren Sie:
 
 ### Schritt 2 — Beweiswert
 
-- **Oeffentliche Urkunde** (§ 415 ZPO): Voller Beweis fuer den dort beurkundeten Vorgang (z. B. notarieller Vertrag belegt vollen Vertragstext).
-- **Private Urkunde** (§ 416 ZPO): Voller Beweis dafuer, dass der Aussteller die Erklaerung abgegeben hat — vorausgesetzt, Echtheit ist erwiesen.
+- **Oeffentliche Urkunde** (§ 415 ZPO): Voller Beweis für den dort beurkundeten Vorgang (z. B. notarieller Vertrag belegt vollen Vertragstext).
+- **Private Urkunde** (§ 416 ZPO): Voller Beweis dafür, dass der Aussteller die Erklaerung abgegeben hat — vorausgesetzt, Echtheit ist erwiesen.
 - **Email**: § 371a ZPO; nicht selbstverstaendlich echte Urkunde, Authentizitaet kann bestritten werden.
 
 ### Schritt 3 — Urkunden vorlegen
@@ -288,7 +287,6 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 
 Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -305,7 +303,7 @@ Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
 
 ## Worum geht es?
 
-Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — nicht nur den Tenor. Pruefen Sie, ob Tatbestand und Entscheidungsgruende Ihren Vortrag richtig wiedergeben. Fehler koennen Sie binnen Frist korrigieren lassen oder als Grundlage fuer Berufung nutzen.
+Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — nicht nur den Tenor. Pruefen Sie, ob Tatbestand und Entscheidungsgruende Ihren Vortrag richtig wiedergeben. Fehler koennen Sie binnen Frist korrigieren lassen oder als Grundlage für Berufung nutzen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -327,7 +325,7 @@ Wenn Sie das schriftliche Urteil erhalten, sollten Sie es sorgfaeltig lesen — 
 - **§ 320 ZPO** — Tatbestandsberichtigung.
 - **§ 321 ZPO** — Urteils-Ergaenzung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tenor pruefen
 
@@ -433,7 +431,7 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 
 ## Worauf Sie besonders achten muessen
 
-- **Frist 2 Wochen** fuer Tatbestandsberichtigung / Ergaenzung.
+- **Frist 2 Wochen** für Tatbestandsberichtigung / Ergaenzung.
 - **Berufung 1 Monat**.
 - **Tatbestand-Fehler** kann fatal sein, weil Berufungsgericht meist Tatsachen aus dem Tatbestand uebernimmt.
 - **Rechtsmittelbelehrung lesen**.
@@ -455,7 +453,6 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 313, 320, 321 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -7,10 +7,10 @@ description: "Hinschg Whistleblower Interne Untersuchung im Plugin Arbeitsrecht:
 
 ## Arbeitsbereich
 
-**Hinschg Whistleblower Interne Untersuchung** ordnet den Fall über die tragenden Prüffelder: Arbeitnehmer hat einen internen Hinweis gegeben oder, Referenz-Skill, Rechtliche Prüfung einer ordentlichen oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Hinschg Whistleblower Interne Untersuchung** ordnet den Fall über die tragenden Prüfungslinien: Arbeitnehmer hat einen internen Hinweis gegeben oder, Referenz-Skill, Rechtliche Prüfung einer ordentlichen oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `hinschg-whistleblower-antwort` | Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben. |
 | `interne-untersuchung` | Referenz-Skill: gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit Relevanzprüfung, Quellendeckungs-Tracking, Abfragen gegen das Protokoll, Memo-Entwurf und Zielgruppen-Zusammenfassungen. Wird von /untersuchung-eroeffnen, /untersuchung-ergaenzen, /untersuchung-abfrage, /untersuchungs-memo und /untersuchungs-zusammenfassung geladen; nicht direkt aufzurufen. |
@@ -19,12 +19,12 @@ description: "Hinschg Whistleblower Interne Untersuchung im Plugin Arbeitsrecht:
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `hinschg-whistleblower-antwort`
 
@@ -39,7 +39,6 @@ description: "Hinschg Whistleblower Interne Untersuchung im Plugin Arbeitsrecht:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage zu Beginn
 
@@ -350,7 +349,6 @@ Bei Rückfragen wenden Sie sich bitte an
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -1069,7 +1067,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Die meisten Kündigungen sind rechtlich unproblematisch. Einige sind Klagen, die noch nicht eingereicht wurden. Dieser Skill findet die Hochrisikofälle, bevor die 3-Wochen-Frist des § 4 KSchG beginnt zu laufen: Sonderkündigungsschutz, fehlende Betriebsratsanhörung, mangelhafte Sozialauswahl, unzureichende Dokumentation.
@@ -1272,7 +1269,6 @@ Die beabsichtigte Kündigung ist der des Arbeitnehmers C am ehesten begründbar.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Dieser Skill unterstützt bei der Prüfung und dem Entwurf einer Kündigungsschutzklage nach § 4 KSchG. Er dient Rechtsanwältinnen und Rechtsanwälten, die ein Mandat zur Überprüfung einer Arbeitgeberkündigung führen, sowie der internen Fallanalyse. Kernproblem ist regelmäßig die **3-Wochen-Klagefrist** (§ 4 Satz 1 KSchG), die ab Zugang der Kündigung läuft und bei Versäumung zum Verlust des Kündigungsschutzrechts führt (§ 7 KSchG). Der Skill erfasst sowohl ordentliche als auch außerordentliche Kündigungen, die Sozialauswahl, die Betriebsratsanhörung und die gerichtliche Geltendmachung.
@@ -1312,13 +1308,13 @@ Für eine vollständige Bearbeitung werden benötigt:
  BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen; keine Heilung nach Kuendigungsausspruch. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren". Zugehoeriger EuGH: 30.10.2025 - C-134/24 und C-402/24.
 
 - **Freistellungsklausel im Arbeitsvertrag:**
- BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmaessige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (§ 307 Abs. 1 Satz 1 BGB); der Beschaeftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmäßige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (§ 307 Abs. 1 Satz 1 BGB); der Beschaeftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
 
 - **Mindesturlaubsverzicht im Prozessvergleich:**
  BAG, Urteil vom 03.06.2025 - 9 AZR 104/24: Pauschale Erledigungsklausel erfasst den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG. Quelle: dejure.org-Vernetzung.
 
 - **Equal Pay / Paarvergleich:**
- BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt fuer die Vermutung nach § 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt für die Vermutung nach § 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
 
 - **DSGVO-Schadensersatz bei verspaeteter Auskunft:**
  BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: "Stoergefuehl" allein begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; konkrete Kontrollverlust-Furcht oder tatsaechlicher Schaden erforderlich. Quelle: dejure.org-Vernetzung; Volltext-PDF auf bundesarbeitsgericht.de.
@@ -1327,9 +1323,9 @@ Für eine vollständige Bearbeitung werden benötigt:
  BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Pflicht des Arbeitgebers zur Erfassung der gesamten Arbeitszeit aus § 3 Abs. 2 Nr. 1 ArbSchG. Quelle: dejure.org-Vernetzung.
 
 - **NachweisG-Schadensersatz:**
- BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen NachwG kann der Arbeitnehmer Schadensersatz verlangen, soweit die Pflichtverletzung kausal fuer den Schaden war; Anspruch nicht auf Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen NachwG kann der Arbeitnehmer Schadensersatz verlangen, soweit die Pflichtverletzung kausal für den Schaden war; Anspruch nicht auf Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung.
 
-- **Subjektive Determinationstheorie BR-Anhoerung:**
+- **Subjektive Determinationstheorie BR-Anhörung:**
  BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quelle: dejure.org-Vernetzung.
 
 Allgemein: Weitere Entscheidungen zu Sozialauswahl, betriebsbedingter Kuendigung, wichtigem Grund usw. vor Schriftsatzverwendung in offenen Quellen (dejure.org / openjur.de / bundesarbeitsgericht.de) verifizieren.

@@ -23,7 +23,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 ## MdE-Tabellen
 
-- BG-Bundesvereinigung Tabellen fuer typische Schadensbilder.
+- BG-Bundesvereinigung Tabellen für typische Schadensbilder.
 - Bei Streit individuell zu pruefen.
 
 ## Berechnung
@@ -43,7 +43,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 ## Befristung
 
-- Vorlaeufige Unfallrente fuer 3 Jahre.
+- Vorlaeufige Unfallrente für 3 Jahre.
 - Danach Dauerunfallrente.
 
 ## Pruefraster

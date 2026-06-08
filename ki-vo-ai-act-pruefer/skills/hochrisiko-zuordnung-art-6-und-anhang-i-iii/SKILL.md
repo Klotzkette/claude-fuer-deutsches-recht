@@ -80,7 +80,6 @@ Nächste Skills: [...]
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12/13/23, Art. 6 und Anhang I/III KI-VO. Keine Rechtsberatung.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

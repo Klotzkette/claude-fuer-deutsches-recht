@@ -1,40 +1,25 @@
 ---
 name: dienstvergehen-ausser-agg-gleichstellung
-description: "Dienstvergehen Ausser AGG Gleichstellung im Beamtenrecht: prüft konkret Skill zur disziplinarrechtlichen Beurteilung von Verhalten, AGG, Gleichstellung, Frauenvertretung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster für die Disziplinarklage im Beamtenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Dienstvergehen Ausser AGG Gleichstellung
+# Dienstvergehen ausser Dienst nach § 47 BeamtStG
 
 ## Arbeitsbereich
 
-**Dienstvergehen Ausser AGG Gleichstellung** ordnet den Fall über die tragenden Prüffelder: Skill zur disziplinarrechtlichen Beurteilung von Verhalten, AGG, Gleichstellung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `dienstvergehen-ausser-dienst-47-beamtstg` | Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster fuer die Disziplinarklage. |
-| `agg-gleichstellung-und-frauenvertretung` | AGG, Gleichstellung, Frauenvertretung, Diversität und diskriminierungsfreie Auswahl im öffentlichen Dienst. |
-| `altersteilzeit-93-bbg-blockmodell` | Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. Behandelt die Konstellation Hinausschiebung der Altersgrenze parallele Schwerbehinderung und teilweise Dienstunfaehigkeit waehrend der Altersteilzeit. Liefert Berechnungstabelle und Beratungsraster. |
+Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster für die Disziplinarklage. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Beamtenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `dienstvergehen-ausser-dienst-47-beamtstg`
-
-**Fokus:** Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster fuer die Disziplinarklage.
-
-
-# Dienstvergehen ausser Dienst nach § 47 BeamtStG
 
 ## 1. Zweck und Anwendungsfall
 
-Skill fuer Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vorgeworfen wird (typisch: Steuerstraftaten, Trunkenheitsfahrt, ehrenrührige Aeusserungen im Internet, problematische Vereinszugehoerigkeit).
+Skill für Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vorgeworfen wird (typisch: Steuerstraftaten, Trunkenheitsfahrt, ehrenrührige Aeusserungen im Internet, problematische Vereinszugehoerigkeit).
 
 ## 2. Eingaben
 
@@ -47,7 +32,7 @@ Skill fuer Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vo
 ## 3. Ablauf / Checkliste
 
 ### a) Voraussetzung
-- § 47 Abs. 1 Satz 2 BeamtStG bzw. § 77 Abs. 1 Satz 2 BBG: Verhalten ausserhalb des Dienstes ist Dienstvergehen nur, wenn es nach den Umstaenden des Einzelfalls in besonderem Masse geeignet ist, das Vertrauen in einer fuer das Amt bedeutsamen Weise zu beeintraechtigen.
+- § 47 Abs. 1 Satz 2 BeamtStG bzw. § 77 Abs. 1 Satz 2 BBG: Verhalten ausserhalb des Dienstes ist Dienstvergehen nur, wenn es nach den Umstaenden des Einzelfalls in besonderem Masse geeignet ist, das Vertrauen in einer für das Amt bedeutsamen Weise zu beeintraechtigen.
 
 ### b) Statusrelevanz
 - Massgebliche Sichtweise: Wuerde der konkrete Sachverhalt das Vertrauen der Allgemeinheit in die Amtsfuehrung gerade dieses Beamten erschuettern?
@@ -87,106 +72,3 @@ Skill fuer Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vo
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Lehrer, Verurteilung wegen Steuerhinterziehung 28.000 Euro im Strafbefehlsverfahren. Skill liefert Pruefraster: Bezug zum Lehramt, Statusrelevanz, Bemessung der Disziplinarmassnahme.
-
-## 2. `agg-gleichstellung-und-frauenvertretung`
-
-**Fokus:** AGG, Gleichstellung, Frauenvertretung, Diversität und diskriminierungsfreie Auswahl im öffentlichen Dienst.
-
-
-# Agg Gleichstellung Und Frauenvertretung
-
-## Aufgabe
-
-AGG, Gleichstellung, Frauenvertretung, Diversität und diskriminierungsfreie Auswahl im öffentlichen Dienst.
-
-## Arbeitsweise
-
-Prüfe Benachteiligungsmerkmal, Indizien, Beteiligung, Auswahlvermerk und Fristen. Output: Risikoanalyse und Beweislastmatrix.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 3. `altersteilzeit-93-bbg-blockmodell`
-
-**Fokus:** Skill zur Altersteilzeit der Beamten nach § 93 BBG bzw. § 9 BeamtStG i.V.m. den Landesregelungen. Klaert die zwei Modelle Teilzeitmodell und Blockmodell die Bezuegehoehe waehrend Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach § 14 BeamtVG. Behandelt die Konstellation Hinausschiebung der Altersgrenze parallele Schwerbehinderung und teilweise Dienstunfaehigkeit waehrend der Altersteilzeit. Liefert Berechnungstabelle und Beratungsraster.
-
-
-# Altersteilzeit § 93 BBG — Blockmodell und Teilzeitmodell
-
-## 1. Zweck und Anwendungsfall
-
-Skill fuer Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden Uebergang in den Ruhestand wuenschen.
-
-## 2. Eingaben
-
-- Geburtsdatum
-- Statusamt und Besoldungsgruppe
-- Vorgesehene Modellwahl
-- Restdienstzeit bis Regelaltersgrenze
-- Schwerbehindertenstatus
-
-## 3. Ablauf / Checkliste
-
-### a) Voraussetzungen
-- § 93 BBG (Bund); fuer Laender entsprechende Vorschriften.
-- Mindestalter und Mindestbeschaeftigungsdauer, dienstliche Belange nicht entgegenstehend.
-
-### b) Modelle
-- Teilzeitmodell: gleichmaessige Reduzierung der Arbeitszeit ueber die gesamte Altersteilzeit.
-- Blockmodell: Arbeitsphase mit voller Arbeitszeit und anschliessende Freistellungsphase.
-
-### c) Bezuege
-- Bezuege betragen in der Regel 80 v. H. der Bezuege der entsprechenden Vollzeitbeschaeftigung (Altersteilzeitzuschlag).
-- Auswirkungen auf Beihilfe und Heilfuersorge pruefen.
-
-### d) Ruhegehaltfaehigkeit
-- Altersteilzeit ist anteilig ruhegehaltfaehig.
-
-### e) Versorgungsabschlag
-- Beim Eintritt in den Ruhestand nach Altersteilzeit kein Versorgungsabschlag, soweit die Altersteilzeit bis zur Regelaltersgrenze laeuft. Bei vorzeitigem Antragsruhestand greift Skill `versorgungsabschlag-14-beamtvg`.
-
-### f) Aenderungen waehrend der Altersteilzeit
-- Bei eintretender Dienstunfaehigkeit gelten Sondervorschriften zur Beendigung der Altersteilzeit; Restbezuege und Versorgung sind zu bemessen.
-
-## 4. Quellenpflicht
-
-- Normen: § 93 BBG; § 9 BeamtStG i.V.m. Landesrecht; § 6 BeamtVG; § 14 BeamtVG.
-- Rspr.: BVerwG zu Altersteilzeit — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Berechnungstabelle Bezuege und Versorgung mit und ohne Altersteilzeit.
-- Antrag auf Altersteilzeit.
-
-## 6. Verifizierte Quellenanker
-
-- § 93 BBG (Altersteilzeit Bund) i.V.m. § 9 ArbZV (Arbeitszeitverordnung); landesrechtliche Altersteilzeitvorschriften (BeamtStG enthaelt keine Altersteilzeitnorm; die Laender regeln Altersteilzeit eigenstaendig in ihren Landesbeamtengesetzen).
-- § 6 BeamtVG (ruhegehaltfaehige Dienstzeit Altersteilzeit); § 14 BeamtVG (Versorgungsabschlag).
-- Altersteilzeitzuschlagsverordnung Bund und landesrechtliche Aequivalente.
-- BVerwG zur Altersteilzeit der Beamten — Datum und Az vor Zitat live verifizieren.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandant 57 Jahre, will sechs Jahre Altersteilzeit im Blockmodell (drei Jahre Aktiv, drei Jahre Freistellung). Skill liefert Berechnung Bezuege und Versorgung.

@@ -6,11 +6,9 @@ description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, D
 # Maklervertrag und Provision §§ 652 ff. BGB
 
 ## Fachkern: Maklervertrag und Provision §§ 652 ff. BGB
-- **Spezialgegenstand:** Maklervertrag und Provision §§ 652 ff. BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -76,7 +74,6 @@ Maklerrechtliche Ansprüche prüfen: Entstehung des Provisionsanspruchs nach § 
 - auftrag-und-unentgeltliche-taetigkeit
 - vertragstypen-mischvertrag-router
 - bt-vertragsentwurf-modellvertrag
-
 
 ## Quellen
 

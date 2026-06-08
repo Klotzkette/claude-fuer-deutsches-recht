@@ -7,23 +7,23 @@ description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsre
 
 ## Arbeitsbereich
 
-**Schiedsklausel Intwr EU Sanktions** ordnet den Fall über die tragenden Prüffelder: Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Schiedsklausel Intwr EU Sanktions** ordnet den Fall über die tragenden Prüfungslinien: Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-schiedsklausel-formular-portal-und-einreichung` | Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `intwr-eu-sanktionen-trade-compliance-spezial` | Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster fuer Exportkontrolle und Bankzahlungen. |
+| `intwr-eu-sanktionen-trade-compliance-spezial` | Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster für Exportkontrolle und Bankzahlungen. |
 | `sanktions-compliance-pruefung` | Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russland-Paket 1–14), US-OFAC SDN-Liste, UK-HMT/OFSI, UN-Sicherheitsrat-Resolutionen. Asset-Freeze, sektorale Embargos, Dienstleistungsverbote, Re-Export-Klauseln. AWG §§ 18–19 Strafbarkeit, BAFA-Genehmigungen. Screening-Tools, Dokumentationspflicht 10 Jahre. Sofortmaßnahmen bei Verdacht. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Internationales Wirtschaftsrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-schiedsklausel-formular-portal-und-einreichung`
 
@@ -32,11 +32,7 @@ description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsre
 # Schiedsklausel: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Schiedsklausel: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Schiedsklausel: Formular, Portal und Einreichungslogik / schiedsklausel formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -68,25 +64,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `intwr-eu-sanktionen-trade-compliance-spezial`
 
-**Fokus:** Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster fuer Exportkontrolle und Bankzahlungen.
+**Fokus:** Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster für Exportkontrolle und Bankzahlungen.
 
 # IntWR: Sanktionen Trade Compliance
 
 ## Spezialwissen: IntWR: Sanktionen Trade Compliance
-- **Spezialgegenstand:** IntWR: Sanktionen Trade Compliance / intwr eu sanktionen trade compliance spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, VO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -114,7 +106,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -133,7 +125,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 6. Lagen in der Vergangenheit Geschäftsbeziehungen mit gelisteten Personen vor – besteht Selbstanzeige-Bedarf bei BAFA?
 7. Welche internen Compliance-Strukturen bestehen (Screening-Tool, Compliance-Officer, Dokumentationsarchiv)?
 8. Hat eine Bank die Transaktion gesperrt oder Anfragen gestellt – liegt ein konkreter Verdachtsfall vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -187,7 +179,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — US-Sekundaersanktionen relevant | OFAC-Exposure pruefen; US-Anwalt hinzuziehen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatz-Bausteine
 
@@ -350,7 +341,7 @@ Compliance-Kosten (Prävention): Screening-Software 5.000–50.000 EUR/Jahr; Rec
 ## Normen-Kette Sanktions-Compliance
 
 - **EU VO 269/2014** Art. 2 — Asset-Freeze und Bereitstellungsverbot; **VO 833/2014** Art. 2a-5n — Sektor- und Dienstleistungsverbote
-- **EU VO 2271/96** (Blocking-Statut) — Schutz vor US-Sekundaersanktionen; Meldepflicht Bundesamt fuer Wirtschaft
+- **EU VO 2271/96** (Blocking-Statut) — Schutz vor US-Sekundaersanktionen; Meldepflicht Bundesamt für Wirtschaft
 - **EG-VO 428/2009** — Dual-Use-Gueterliste; BAFA-Genehmigungspflicht
 - **§ 18 AWG** — vorsaetzlicher/fahrlassiger Embargoverstoß; **§ 30 OWiG** — Verbandsgeldbuße
 - **§ 43 GwG** — Verdachtsmeldung FIU; **§ 11 GwG** — Identifizierungspflicht UBO
@@ -368,7 +359,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 VERTRAULICH — ANWALTLICHER PRUEFUNGSBERICHT
 Datum: [DATUM]
 Auftraggeber: [FIRMENNAME, SITZ]
-Aufgabe: Sanktions-Compliance-Pruefung fuer [BESCHREIBUNG GESCHAEFT]
+Aufgabe: Sanktions-Compliance-Pruefung für [BESCHREIBUNG GESCHAEFT]
 
 A. GEPRUEFTE REGIME
 [X] EU (VO 269/2014, VO 833/2014, VO 765/2006)
@@ -381,7 +372,7 @@ B. SCREENINGERGEBNISSE
 1. Personenscreening (Geschaeftspartner + UBO):
  - [PARTNER NAME]: [Kein Treffer / Treffer AZ LISTUNG]
  - UBO [NAME]: [Kein Treffer / Treffer]
-2. Laender-Embargo-Check: Bestimmungsland [LAND] — [Totalemb. / Teilemb. / Kein Emb.]
+2. Länder-Embargo-Check: Bestimmungsland [LAND] — [Totalemb. / Teilemb. / Kein Emb.]
 3. Dual-Use-Pruefung Gueter [CN-CODE]: [Genehmigungspflichtig Pos. X / Frei]
 4. Dienstleistungsverbot Art. 5n VO 833/2014: [Betroffen / Nicht betroffen]
 5. Re-Export-Risiko Drittland: [Vorhanden — Massnahme: X / Nicht vorhanden]

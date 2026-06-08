@@ -1,6 +1,6 @@
 ---
 name: pruefumfang-was-prueft-der-nicht
-description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zustaendigkeitsanmassung und liefert Standardbausteine fuer die Stellungnahme zur Kompetenzabgrenzung."
+description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung."
 ---
 
 # NKR-Pruefumfang — was prueft der NKR nicht
@@ -12,7 +12,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Pruefkern faellt
-- Ressort moechte den NKR "instrumentalisieren" fuer politische Argumente
+- Ressort moechte den NKR "instrumentalisieren" für politische Argumente
 - Stellungnahme-Entwurf wird zu breit, droht Kompetenzgrenze zu ueberschreiten
 
 ## Rechtlicher und methodischer Rahmen
@@ -24,7 +24,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - **Art. 114 GG, BHO, § 88 BHO** — Bundesrechnungshof, Wirtschaftlichkeit
 - **Art. 93 GG, BVerfGG** — Verfassungsgerichtsbarkeit
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Der NKR prueft
 
@@ -36,7 +36,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 6. **One-in-one-out** — verbucht?
 7. **KMU-Test** — durchgefuehrt?
 8. **Digitaltauglichkeit** — Digitalcheck durchlaufen?
-9. **Praktikabilitaet im Vollzug** — fuer Verwaltung leistbar?
+9. **Praktikabilitaet im Vollzug** — für Verwaltung leistbar?
 10. **Evaluierungsklausel / Befristung** — vorgesehen?
 
 ### Der NKR prueft **nicht**
@@ -44,11 +44,11 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 1. **Politische Zielwahl** ("Soll diese Branche reguliert werden?")
 2. **Verfassungsmaessigkeit** — BMJ-Rechtsabteilung, ggf. BVerfG
 3. **Europarechtskonformitaet im engeren Sinne** — EU-Rechtsabteilungen
-4. **Haushaltsmaessige Auswirkungen auf den Bundeshaushalt** — BMF, Bundesrechnungshof
+4. **Haushaltsmäßige Auswirkungen auf den Bundeshaushalt** — BMF, Bundesrechnungshof
 5. **Wirtschaftlichkeit im Sinne der BHO** — Bundesrechnungshof
 6. **Ordnungspolitische Sinnhaftigkeit** — politische Entscheidung
 7. **Auslegung einzelner Tatbestandsmerkmale** — Gerichte
-8. **Konkrete Vollzugsentscheidungen** — Behoerden
+8. **Konkrete Vollzugsentscheidungen** — Behörden
 9. **Wissenschaftliche Folgenforschung im engeren Sinne** — Wissenschaftlicher Dienst, Ressortforschung
 10. **Datenschutzrechtliche Detailpruefung** — BfDI
 
@@ -73,7 +73,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Die Pruefung des NKR ist gemaess § 4 NKRG auf die Darstellung des Erfuellungsaufwands beschraenkt. Eine Bewertung der ordnungspolitischen Zielsetzung erfolgt nicht."
-- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Pruefung; insoweit verweist der NKR auf die zustaendige Ressortpruefung."
+- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Pruefung; insoweit verweist der NKR auf die zuständige Ressortpruefung."
 - "Der NKR begruesst grundsaetzlich die Zielsetzung des Vorhabens, beschraenkt seine Stellungnahme aber auf die methodischen Aspekte des Erfuellungsaufwands."
 
 ## Typische Fehler in Ressort-Entwuerfen

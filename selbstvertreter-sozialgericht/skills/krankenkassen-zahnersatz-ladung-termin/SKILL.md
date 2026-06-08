@@ -7,25 +7,25 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 
 ## Arbeitsbereich
 
-**Krankenkassen Zahnersatz Ladung Termin** ordnet den Fall über die tragenden Prüffelder: Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Krankenkassen Zahnersatz Ladung Termin** ordnet den Fall über die tragenden Prüfungslinien: Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `krankenkassen-zahnersatz-55-sgb-v` | Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine. |
 | `ladung-termin-sozialgericht-vorbereitung` | Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt. |
-| `leistungsklage-54-sgg` | Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger. |
+| `leistungsklage-54-sgg` | Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behörde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger. |
 | `medizinische-gutachten-strategie-laien` | Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft Gutachten Welche Fragen welcher Arzt. Vorbereitung Untersuchung und Reaktion auf Gutachten. |
 | `mitwirkungspflicht-60-bis-67-sgb-i` | Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `krankenkassen-zahnersatz-55-sgb-v`
 
@@ -40,7 +40,6 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Festzuschuss-System
 
@@ -94,7 +93,6 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Sie haben Klage erhoben. Jetzt kommt der Brief: Sie sind zur muendlichen Verhandlung geladen. Diese Skill zeigt, was Sie tun muessen und was Sie wissen sollten.
@@ -121,9 +119,9 @@ Sie haben einen Brief vom Sozialgericht bekommen. Es gibt einen Termin. Wir zeig
 - **§ 110 SGG** — Ladung; auch Hinweis auf Verhandeln und Entscheiden in Abwesenheit (§ 110 Abs. 1 S. 2 SGG).
 - **§ 124 SGG** — Muendliche Verhandlung.
 - **§ 110a SGG** — Video-Verhandlung.
-- **§ 141 Abs. 3 ZPO i.V.m. § 202 SGG** — Ordnungsgeld bei nicht entschuldigtem Fernbleiben trotz angeordnetem persoenlichem Erscheinen.
+- **§ 141 Abs. 3 ZPO i.V.m. § 202 SGG** — Ordnungsgeld bei nicht entschuldigtem Fernbleiben trotz angeordnetem persönlichem Erscheinen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ladung genau lesen
 
@@ -133,7 +131,7 @@ Im Brief steht:
 - **Gericht** (Adresse)
 - **Az** (Aktenzeichen)
 - **Form**: muendlich oder Eroerterungstermin
-- **Pflicht zur persoenlichen Anwesenheit**? (ausdruecklich genannt?)
+- **Pflicht zur persönlichen Anwesenheit**? (ausdruecklich genannt?)
 - **Was mitbringen**?
 
 ### Schritt 2 — Frueh planen
@@ -152,11 +150,11 @@ Im Brief steht:
 - Liste der Aerzte
 - Notizen mit Punkten, die Sie sagen wollen
 - Stift und Papier
-- Bei Anhoerung: Vorbereitung der Antworten
+- Bei Anhörung: Vorbereitung der Antworten
 
 ### Schritt 4 — Kann ich mich vertreten lassen?
 
-Sie muessen nicht zwingend selbst kommen, ausser das Gericht hat ausdruecklich persoenliche Anwesenheit angeordnet.
+Sie muessen nicht zwingend selbst kommen, ausser das Gericht hat ausdruecklich persönliche Anwesenheit angeordnet.
 
 Sie koennen:
 
@@ -211,7 +209,6 @@ Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
 
 Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerkt genutzt.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -222,7 +219,7 @@ Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerk
 
 ## 3. `leistungsklage-54-sgg`
 
-**Fokus:** Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger.
+**Fokus:** Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behörde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger.
 
 # Die Leistungsklage — § 54 Abs. 5 SGG
 
@@ -234,14 +231,13 @@ Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerk
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Manchmal hat die Behoerde Ihnen schon zugesagt, dass Sie etwas bekommen. Aber sie zahlt nicht oder erbringt nicht. Dann brauchen Sie keinen neuen Bescheid — Sie brauchen konkret eine Handlung. Die Leistungsklage zielt direkt auf das Tun.
+Manchmal hat die Behörde Ihnen schon zugesagt, dass Sie etwas bekommen. Aber sie zahlt nicht oder erbringt nicht. Dann brauchen Sie keinen neuen Bescheid — Sie brauchen konkret eine Handlung. Die Leistungsklage zielt direkt auf das Tun.
 
 ## In einfacher Sprache
 
-Die Behoerde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmittel kommt nicht. Sie verklagen die Behoerde direkt auf das, was sie tun soll.
+Die Behörde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmittel kommt nicht. Sie verklagen die Behörde direkt auf das, was sie tun soll.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -251,7 +247,7 @@ Die Behoerde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmitte
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Leistungsklage**: Klage direkt auf eine Handlung der Behoerde.
+- **Leistungsklage**: Klage direkt auf eine Handlung der Behörde.
 - **Schlichte Geldleistung**: Konkreter Geldbetrag, der gezahlt werden muss.
 - **Vollstreckung**: Wenn auch nach Urteil nicht gezahlt wird, koennen Sie das Geld eintreiben.
 
@@ -261,7 +257,7 @@ Die Behoerde hat schon Ja gesagt. Aber das Geld kommt nicht. Oder das Hilfsmitte
 - **§ 131 SGG** — Urteil.
 - **§ 199 SGG** — Vollstreckung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Leistungsklage passt
 
@@ -271,7 +267,7 @@ Leistungsklage ohne Vorverfahren ist moeglich, wenn:
 - Es um schlichte Zahlung geht (Bewilligung schon erfolgt).
 - Es um schlichte Handlung geht (Hilfsmittel-Lieferung).
 
-Wenn die Behoerde noch einen ablehnenden Bescheid hat: Sie brauchen erst Widerspruch und dann kombinierte Klage.
+Wenn die Behörde noch einen ablehnenden Bescheid hat: Sie brauchen erst Widerspruch und dann kombinierte Klage.
 
 ### Schritt 2 — Klageschrift
 
@@ -285,7 +281,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde]
+[Behörde]
 [Adresse]
 
 — Beklagte —
@@ -323,13 +319,13 @@ Wie alle Klagen: schriftlich, Fax, MJP, oder zur Niederschrift.
 
 ### Schritt 4 — Bei Erfolg Vollstreckung
 
-Wenn die Behoerde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199 SGG). Selten noetig, weil Behoerden meistens dann zahlen.
+Wenn die Behörde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199 SGG). Selten noetig, weil Behörden meistens dann zahlen.
 
 ## Worauf Sie besonders achten muessen
 
 - **Wenn doch noch ein Ablehnungsbescheid existiert**: Leistungsklage allein nicht ausreichend, dann Anfechtungs- und Leistungsklage.
 - **Verzugszinsen**: Bei Sozialleistungen gibt es regelmaessig Verzinsung nach § 44 SGB I (4 % p.a. ab dem 7. Monat nach Antragsmonat).
-- **Vor Klage erinnern**: Schicken Sie eine schriftliche Erinnerung mit Fristsetzung an die Behoerde.
+- **Vor Klage erinnern**: Schicken Sie eine schriftliche Erinnerung mit Fristsetzung an die Behörde.
 
 ## Typische Fehler
 
@@ -347,7 +343,6 @@ Wenn die Behoerde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
-
 
 ## Qualitäts-Hardening
 
@@ -370,7 +365,6 @@ Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -400,7 +394,7 @@ Das Gericht laesst Sie oft von Aerzten untersuchen. Diese Aerzte schreiben dann 
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
 - **§ 118 SGG i.V.m. ZPO** — Gutachten-Verfahren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vor der Untersuchung
 
@@ -459,7 +453,7 @@ Wenn das Gutachten gegen Sie ist:
 - Sie tragen Kosten erstmal selbst.
 - Siehe `sachverstaendigen-wahlrecht-109-sgg`.
 
-**Option 3: Erlaeuternde Anhoerung des Gutachters**
+**Option 3: Erlaeuternde Anhörung des Gutachters**
 
 - Im Termin kann der Gutachter gefragt werden.
 - Sie / Ihr Anwalt stellen Fragen.
@@ -503,7 +497,6 @@ Wenn Sie kuerzlich eine Reha hatten:
 
 Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -526,16 +519,15 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Pflichten
 
 ### § 60 SGB I — Angabe
-- Tatsachen die fuer Leistung erheblich sind angeben.
+- Tatsachen die für Leistung erheblich sind angeben.
 - Aenderungen mitteilen.
 - Beweismittel vorlegen.
 
 ### § 61 SGB I — Persoenliches Erscheinen
-- Bei Behoerde erscheinen wenn erforderlich.
+- Bei Behörde erscheinen wenn erforderlich.
 
 ### § 62 SGB I — Untersuchungen
 - Aerztliche und psychologische Untersuchungen dulden.
@@ -547,18 +539,18 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
 - Mitwirkung an beruflichen Foerdermassnahmen.
 
 ### § 65 SGB I — Grenzen
-- Unzumutbarkeit (z. B. erheblich Gefahr fuer Gesundheit Leben).
+- Unzumutbarkeit (z. B. erheblich Gefahr für Gesundheit Leben).
 - Verletzung anderer Schutzgueter (DSGVO Schweigepflicht Privatsphaere).
 
 ## Folge bei Verstoss
 
 - § 66 SGB I — Versagung oder Entziehung der Leistung ganz oder teilweise.
-- Schriftliche Aufforderung der Behoerde mit Hinweis auf Folge erforderlich.
+- Schriftliche Aufforderung der Behörde mit Hinweis auf Folge erforderlich.
 - Frist zur Mitwirkung muss verhaeltnismaessig sein.
 
 ## Heilung
 
-- § 67 SGB I — Nachholung der Mitwirkung mit Wirkung fuer Zukunft.
+- § 67 SGB I — Nachholung der Mitwirkung mit Wirkung für Zukunft.
 
 ## Pruefraster
 

@@ -1,6 +1,6 @@
 ---
 name: agb-in-kapitalanlagen-effektenhandel
-description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rechtliche Pruefung der Allgemeinen Geschaeftsbedingungen fuer Wertpapiergeschaefte (Sonderbedingungen) der Spar- und Tagesgeldbedingungen sowie der Anforderungen aus MiFID II und WpHG. Liefert Pruefraster."
+description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rechtliche Pruefung der Allgemeinen Geschaeftsbedingungen für Wertpapiergeschaefte (Sonderbedingungen) der Spar- und Tagesgeldbedingungen sowie der Anforderungen aus MiFID II und WpHG. Liefert Pruefraster."
 ---
 
 # Agb In Kapitalanlagen Effektenhandel
@@ -18,7 +18,7 @@ Prüfe Sonderbedingungen für Wertpapiergeschäfte, Depot-/Broker-AGB, Spar-/Tag
 
 ## Standardbedingungen
 
-- Sonderbedingungen fuer Wertpapiergeschaefte Stand 01.01.2024.
+- Sonderbedingungen für Wertpapiergeschaefte Stand 01.01.2024.
 - AGB der DZ Bank, Sparkassen, Privatbanken.
 
 ## Klauseltypen
@@ -29,7 +29,7 @@ Prüfe Sonderbedingungen für Wertpapiergeschäfte, Depot-/Broker-AGB, Spar-/Tag
 - AGB dürfen Beratungs-/Dokumentationspflichten nicht durch pauschale "Kunde entscheidet allein"-Formeln entleeren.
 
 ### Beratungsfreies Geschaeft
-- Sondervorschriften fuer Execution-Only.
+- Sondervorschriften für Execution-Only.
 - Product Governance, Zielmarkt, Warnhinweise und Kenntnisse/Erfahrungen sauber vom Beratungsverzicht trennen.
 
 ### Ausfuehrungsbedingungen

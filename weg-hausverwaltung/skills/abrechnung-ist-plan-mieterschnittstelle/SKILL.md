@@ -12,13 +12,10 @@ description: "Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt 
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Abrechnung, Ist/Plan und Mieterschnittstelle
-- **Spezialgegenstand:** Abrechnung, Ist/Plan und Mieterschnittstelle wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
-
-Dieses Fachmodul greift, wenn Jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
+Anwendungsfall: jahresabrechnung, Wirtschaftsplan, Betriebskostenabrechnung für Mieter und Eigentümerabrechnung zusammenstoßen.
 
 ## Kerntrennung
 
@@ -78,7 +75,6 @@ Erzeuge auf Wunsch ein exportfähiges Paket:
 - "Genehmigung der Jahresabrechnung" als Beschlusstext ohne Klarstellung auf Nachschüsse/Vorschussanpassung.
 - vermietender Eigentümer erhält WEG-Abrechnung so spät, dass § 556 Abs. 3 BGB im Mietverhältnis brennt.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -86,3 +82,29 @@ Erzeuge auf Wunsch ein exportfähiges Paket:
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+

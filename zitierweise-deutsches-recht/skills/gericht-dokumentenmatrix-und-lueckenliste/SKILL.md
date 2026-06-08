@@ -1,16 +1,40 @@
 ---
 name: gericht-dokumentenmatrix-und-lueckenliste
-description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
+description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Gericht: Dokumentenmatrix, Lückenliste und Nachforderung
 
-## Spezialwissen: Gericht: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Gericht: Dokumentenmatrix, Lückenliste und Nachforderung / gericht dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+## Arbeitsbereich
 
+Gericht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Gericht: Dokumentenmatrix, Lückenliste und Nachforderung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
+- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
+- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
+- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
+- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: keine prozessualen — Aktualitäts-Heuristik: Zitate ≤ 12 Monate alt für aktuelle Lage, Leitentscheidungen wann immer einschlägig.
+- Tragende Normen verifizieren: BVerfG, BGH, BAG, BSG, BFG, BVerwG, EuGH, OLG-Zitierregeln (BGHZ, BVerfGE, NJW, ZIP, NZG, NJW-RR), § 1 GVG, ZPO/StPO/VwGO-Berichtspflichten, OSCOLA/Bluebook nur am Rande — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verfasser (Anwalt, Wissenschaftler, Richter), Adressat (Gericht, Behörde, Mandant, Peer-Review), Verlage (C.H.Beck, Nomos, Otto Schmidt).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schriftsatz, Beschluss, Aufsatz, Festschrift-Beitrag, Hausarbeit, Dissertation, Habilitation, Klausur — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Gericht: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

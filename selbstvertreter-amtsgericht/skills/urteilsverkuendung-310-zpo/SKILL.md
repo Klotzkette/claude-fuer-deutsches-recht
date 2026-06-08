@@ -30,7 +30,7 @@ Nach Abschluss der muendlichen Verhandlung verkuendet das Gericht das Urteil. Ve
 - **§ 313 ZPO** — Schriftliches Urteil.
 - **§ 315 ZPO** — Bekanntgabe.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Schluss der muendlichen Verhandlung
 
@@ -85,7 +85,7 @@ Skill `urteil-pruefen-313-zpo`.
 
 ### Schritt 6 — Rechtsmittel-Frist beginnt mit Zustellung
 
-Die Frist fuer Berufung (1 Monat, § 517 ZPO) beginnt mit Zustellung des **vollstaendigen schriftlichen Urteils** — nicht mit der Verkuendung.
+Die Frist für Berufung (1 Monat, § 517 ZPO) beginnt mit Zustellung des **vollstaendigen schriftlichen Urteils** — nicht mit der Verkuendung.
 
 Datum der Zustellung notieren. Skill `fristbeginn-zustellung-protokollieren`.
 
@@ -130,7 +130,6 @@ Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 310 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

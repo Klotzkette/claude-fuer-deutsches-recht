@@ -156,6 +156,24 @@ Kaltstartfragen:
 - Open-Access-Strategie als ein Satz "wir publizieren Open Access" ohne Details.
 - 10 Jahre Archivierungsdauer in 3-Jahres-Projekt-Finanzplan vergessen.
 
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **KI, Ethik und Forschungsdaten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Ausgangspunkt.
+- `Art. 89 Abs. 1 DSGVO` — Garantien für wissenschaftliche Forschungszwecke.
+- `Art. 9 Abs. 2 lit. j DSGVO` — besondere Kategorien personenbezogener Daten in Forschungskontexten.
+- `§ 27 Abs. 1 BDSG` — Datenverarbeitung zu wissenschaftlichen Forschungszwecken.
+- `§ 7 Abs. 1 TierSchG` — Tierversuche nur bei gesetzlich anerkanntem Zweck und Erforderlichkeit.
+- `§ 8 Abs. 1 TierSchG` — Genehmigungspflichtiger Tierversuch.
+- `§ 69a UrhG` — Computerprogramme als Schutzgegenstand bei Forschungssoftware.
+- `DFG-Kodex Leitlinie 10` — rechtliche und ethische Rahmenbedingungen.
+- `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
+- `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Output
 
 - **DMP-Volltext** (1-2 Seiten, sieben Standardpunkte).

@@ -28,7 +28,7 @@ Der Richter hat eine **Hinweispflicht** nach § 139 ZPO: Wenn er ein wichtiges D
 - **§ 139 IV ZPO** — Hinweise sind im Protokoll oder schriftlich zu dokumentieren.
 - **§ 138 III ZPO** — Wahrheitspflicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Hinweis genau lesen
 
@@ -129,7 +129,6 @@ Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
-
 
 ## Qualitäts-Hardening
 

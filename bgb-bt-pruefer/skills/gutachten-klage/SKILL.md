@@ -69,7 +69,6 @@ Arbeitsergebnisse im BGB Besonderer Teil als Gutachten, Klageschrift oder Anwalt
 - workflow-fristen-ruecktritt-kuendigung
 - bt-vertragsentwurf-modellvertrag
 
-
 ## Quellen
 
 - https://www.gesetze-im-internet.de/zpo/__253.html

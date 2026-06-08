@@ -7,10 +7,10 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 
 ## Arbeitsbereich
 
-**Faevvollzug Gegnerische Grenzueberschreitende** ordnet den Fall über die tragenden Prüffelder: Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Faevvollzug Gegnerische Grenzueberschreitende** ordnet den Fall über die tragenden Prüfungslinien: Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` | Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien. |
 | `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` | Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland. |
@@ -18,12 +18,12 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`
 

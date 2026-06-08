@@ -13,11 +13,11 @@ description: "Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Lei
 
 ## Worum geht es?
 
-Vor dem Sozialgericht gibt es verschiedene Arten von Klagen. Welche fuer Sie passt, haengt davon ab, was Sie wollen. Diese Skill zeigt die wichtigsten Klagearten in einer Uebersicht.
+Vor dem Sozialgericht gibt es verschiedene Arten von Klagen. Welche für Sie passt, haengt davon ab, was Sie wollen. Diese Skill zeigt die wichtigsten Klagearten in einer Uebersicht.
 
 ## In einfacher Sprache
 
-Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, eine wenn Behoerde gar nichts tut. Wir helfen Ihnen, die richtige zu finden.
+Es gibt mehrere Klage-Arten. Eine für Bescheid weg, eine für Geld bekommen, eine wenn Behörde gar nichts tut. Wir helfen Ihnen, die richtige zu finden.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,10 +28,10 @@ Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, ei
 ## Fachbegriffe (kurz erklaert)
 
 - **Anfechtungsklage**: Bescheid soll aufgehoben werden.
-- **Verpflichtungsklage**: Behoerde soll einen begehrten Bescheid erlassen.
-- **Leistungsklage**: Behoerde soll konkret etwas tun oder zahlen.
+- **Verpflichtungsklage**: Behörde soll einen begehrten Bescheid erlassen.
+- **Leistungsklage**: Behörde soll konkret etwas tun oder zahlen.
 - **Feststellungsklage**: Ein Rechtsverhaeltnis soll festgestellt werden.
-- **Untaetigkeitsklage**: Behoerde tut gar nichts seit mindestens 6 Monaten (3 Monaten im Widerspruchsverfahren).
+- **Untaetigkeitsklage**: Behörde tut gar nichts seit mindestens 6 Monaten (3 Monaten im Widerspruchsverfahren).
 
 ## Rechtsgrundlagen
 
@@ -39,7 +39,7 @@ Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, ei
 - **§ 55 SGG** — Feststellungsklage.
 - **§ 88 SGG** — Untaetigkeitsklage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was wollen Sie konkret erreichen?
 
@@ -49,7 +49,7 @@ Es gibt mehrere Klage-Arten. Eine fuer Bescheid weg, eine fuer Geld bekommen, ei
 | Eine Leistung bekommen, die abgelehnt wurde | Verpflichtungsklage |
 | Geld direkt bekommen | Leistungsklage |
 | Klare Antwort auf "Was gilt eigentlich?" | Feststellungsklage |
-| Behoerde tut nichts seit Monaten | Untaetigkeitsklage |
+| Behörde tut nichts seit Monaten | Untaetigkeitsklage |
 
 ### Schritt 2 — Anfechtungsklage (§ 54 Abs. 1 SGG)
 
@@ -61,7 +61,7 @@ Antrag: "Der Bescheid vom [Datum] in Gestalt des Widerspruchsbescheids vom [Datu
 
 ### Schritt 3 — Verpflichtungsklage (§ 54 Abs. 1 SGG)
 
-Wann: Sie wollen, dass die Behoerde Ihnen etwas gibt — also einen positiven Bescheid erlaesst.
+Wann: Sie wollen, dass die Behörde Ihnen etwas gibt — also einen positiven Bescheid erlaesst.
 
 Beispiel: Pflegegrad-Hochstufung auf 3 → Klage auf Verpflichtung der Pflegekasse, Pflegegrad 3 festzustellen.
 
@@ -75,7 +75,7 @@ Beispiel: Antrag auf EM-Rente abgelehnt → Klage auf Aufhebung des Ablehnungsbe
 
 ### Schritt 5 — Leistungsklage (§ 54 Abs. 5 SGG)
 
-Wann: Sie wollen, dass die Behoerde konkret etwas tut oder zahlt, ohne dass es einen Bescheid braucht.
+Wann: Sie wollen, dass die Behörde konkret etwas tut oder zahlt, ohne dass es einen Bescheid braucht.
 
 Beispiel: Krankenkasse hat schon zugesagt, aber zahlt nicht → Leistungsklage auf Zahlung von X EUR.
 
@@ -89,7 +89,7 @@ Voraussetzung: Sie haben ein berechtigtes Interesse an der Feststellung.
 
 ### Schritt 7 — Untaetigkeitsklage (§ 88 SGG)
 
-Wann: Behoerde tut nichts seit mindestens
+Wann: Behörde tut nichts seit mindestens
 
 - **6 Monaten** nach Antragstellung (Bescheid steht aus), oder
 - **3 Monaten** nach Widerspruch (Widerspruchsbescheid steht aus).
@@ -127,7 +127,6 @@ Sie koennen Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage s
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft das Gericht oft (Hinweispflicht, § 106 SGG).
-
 
 ## Qualitäts-Hardening
 

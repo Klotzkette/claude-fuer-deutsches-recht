@@ -1,34 +1,21 @@
 ---
 name: gesellschafterbeschluss-kapitalerhoehung
-description: "Gesellschafterbeschluss Kapitalerhoehung im Plugin Wandeldarlehen Lebenszyklus: prüft konkret Gesellschafterbeschluss für Kapitalerhohung nach Wandlung, Gesellschafterbeschluss für Wandeldarlehensaufnahme oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Prüfraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht für allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen) im Wandeldarlehen Lebenszyklus: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Gesellschafterbeschluss Kapitalerhoehung
+# Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage
 
 ## Arbeitsbereich
 
-**Gesellschafterbeschluss Kapitalerhoehung** ordnet den Fall über die tragenden Prüffelder: Gesellschafterbeschluss für Kapitalerhohung nach Wandlung, Gesellschafterbeschluss für Wandeldarlehensaufnahme oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `gesellschafterbeschluss-kapitalerhoehung` | Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Prüfraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht für allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen). |
-| `gesellschafterbeschluss-vorbereiten` | Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung). |
+Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Prüfraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht für allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Wandeldarlehen Lebenszyklus klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `gesellschafterbeschluss-kapitalerhoehung`
-
-**Fokus:** Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Prüfraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht für allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen).
-
-# Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage
 
 ## Zweck
 
@@ -140,105 +127,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 53, 54 GmbHG (Satzungsänderung, notarielle Beurkundung) → § 55 GmbHG (Kapitalerhöhung durch Gesellschafterbeschluss) → § 56 GmbHG (Sacheinlage, Werthaltigkeitsprüfung) → § 57 GmbHG (Anmeldung zum Handelsregister) → § 57a GmbHG (vereinfachte Kapitalerhöhung) → § 47 GmbHG (Mehrheitserfordernisse, Stimmverbote)
-
-## 2. `gesellschafterbeschluss-vorbereiten`
-
-**Fokus:** Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung).
-
-# Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)
-
-## Zweck
-
-Dieser Skill erstellt einen vorbereitenden Gesellschafterbeschluss, mit dem die Gesellschafterinnen ihre grundsätzliche Bereitschaft bekunden, im Wandlungsfall eine Kapitalerhöhung durchzuführen und den neuen Gesellschafter aufzunehmen. Phase B des Lebenszyklus.
-
-## Eingaben
-
-- Gesellschaft: Firma, HRB, Stammkapital, Gesellschafterinnen mit Anteilen
-- Beschlussthema: Grundsatzbeschluss Wandeldarlehen + Bereitschaft Kapitalerhöhung
-- Abstimmungsquorum: einstimmig oder Mehrheitsbeschluss nach Satzung?
-- Einberufungsform: schriftlich, E-Mail oder Vollversammlung ohne Einberufung?
-- Datum der Beschlussfassung
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-- § 46 Nr. 5 GmbHG (Gesellschafterversammlung zur Aufnahme neuer Gesellschafter)
-- § 51 GmbHG (Einberufung, Ladungsfrist mindestens eine Woche)
-- § 51 Abs. 3 GmbHG (Beschlussfassung ohne Einberufung bei Anwesenheit / Einverständnis aller)
-- § 47 GmbHG (Abstimmung, Mehrheitserfordernisse)
-- § 53 GmbHG (Satzungsänderung bedarf drei Viertel der abgegebenen Stimmen und notarieller Beurkundung)
-
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-### 1. Art des Beschlusses klären
-Option A – Vollversammlung ohne Einberufung (§ 51 Abs. 3 GmbHG): Alle Gesellschafterinnen anwesend und einverstanden. Schnellste Variante. Option B – Einberufung mit einer Woche Frist: Schriftliche Einladung mit Tagesordnung. Option C – Umlaufbeschluss: Schriftliche Zustimmung aller Gesellschafterinnen.
-
-### 2. Tagesordnungspunkt formulieren
-"TOP 1: Grundsatzbeschluss zur Bereitschaft der Gesellschafterinnen zur Durchführung einer Kapitalerhöhung gegen Sacheinlage (Forderung aus Wandeldarlehen) im Wandlungsfall gemäß § 4 des Wandeldarlehensvertrags vom [Datum]."
-
-### 3. Beschlusstext entwerfen
-"Die Gesellschafterinnen erklären einvernehmlich ihre Bereitschaft, im Falle der wirksamen Ausübung der Wandlungsoption durch den Darlehensgeber gemäß § 4 des Wandeldarlehensvertrags alle erforderlichen gesellschaftsrechtlichen Maßnahmen zur Durchführung der Kapitalerhöhung gegen Sacheinlage, zur Zulassung des Darlehensgebers als neuer Gesellschafter und zum Verzicht auf Bezugsrechte zu ergreifen."
-
-### 4. Protokoll erstellen
-Unterschriebenes Protokoll mit Datum, Ort, Anwesende, Abstimmungsergebnis, Fassung des Beschlusstexts. Aufbewahrung in Gesellschaftsakte.
-
-### 5. Abstimmungsergebnis dokumentieren
-Einstimmig oder Mehrheitsabstimmung nach Quorum (§ 47 GmbHG). Bei Satzungsänderung: drei Viertel der Stimmen + notarielle Beurkundung (§ 53 GmbHG).
-
-### 6. Verhältnis zum späteren Kapitalerhöhungsbeschluss
-Dieser Beschluss ist kein Kapitalerhöhungsbeschluss i.S.d. § 55 GmbHG (der muss notariell beurkundet werden). Er dokumentiert nur die Absichtsbekundung. Der eigentliche Kapitalerhöhungsbeschluss folgt unter `gesellschafterbeschluss-kapitalerhoehung`.
-
-## Beispiel-Protokoll
-
-```
-Protokoll der Gesellschafterversammlung der
-Sonnenglas Solartechnologie UG (haftungsbeschränkt)
-Berlin, [Datum]
-
-Anwesend:
-- Dr. Mira Schoeneck (40 Anteile, 40 %)
-- Lina Habersaat (35 Anteile, 35 %)
-(Treasury-Anteile: 25 Anteile, nicht abstimmend)
-
-TOP 1: Grundsatzbeschluss Wandeldarlehen Northstar
-Die Gesellschafterinnen erklären einvernehmlich ihre Bereitschaft ...
-[Beschlusstext vollständig]
-
-Abstimmung: einstimmig angenommen.
-
-[Unterschriften Dr. Schoeneck, Habersaat]
-```
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Protokoll fehlt | Beweislosigkeit Beschlussfassung | Protokoll nachgereicht | Protokoll sofort vorhanden |
-| Ladungsfrist nicht eingehalten, Einwände | Beschluss anfechtbar | Nachträgliche Zustimmung | Ladungsfrist gewahrt oder Verzicht |
-| Gesellschafterin verweigert Mitwirkung | Wandlungsblockade | Gesellschafterin unentschlossen | Alle bereit |
-| Grundsatzbeschluss als Kapitalerhöhungsbeschluss fehlverstanden | Notarielle Beurkundung irrtümlich unterlassen | Unklare Beschlussfassung | Eindeutige Unterscheidung |
-
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterversammlung-einberufen/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandelereignis-eingang/SKILL.md`
-
-## Quellen und Updates
-
-Stand: 05/2026. Bei Änderung GmbHG §§ 46 ff. aktualisieren.
-
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Ergänzung
-
-§ 51 GmbHG (Einberufung Gesellschafterversammlung, Ladungsfrist eine Woche) → § 47 GmbHG (Beschlussfassung, Mehrheitserfordernisse) → § 53 GmbHG (Satzungsänderung, notarielle Form) → § 43 GmbHG (Geschäftsführerhaftung bei Pflichtverletzung) → § 56 Abs. 2 GmbHG (Sacheinlagebericht, Werthaltigkeit)

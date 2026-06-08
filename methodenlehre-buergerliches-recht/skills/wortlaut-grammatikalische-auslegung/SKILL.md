@@ -1,6 +1,6 @@
 ---
 name: wortlaut-grammatikalische-auslegung
-description: "Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster fuer den Wortlaut-Schritt jeder Auslegung."
+description: "Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster für den Wortlaut-Schritt jeder Auslegung."
 ---
 
 # Wortlaut / grammatikalische Auslegung
@@ -43,13 +43,13 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - **"Verbraucher" iSd § 13 BGB:** natuerliche Person, die ein Rechtsgeschaeft zu Zwecken abschliesst, die ueberwiegend weder ihrer gewerblichen noch ihrer selbststaendigen beruflichen Taetigkeit zugerechnet werden koennen. Juristische Personen sind ausgeschlossen, auch wenn sie schutzbeduerftig sein moegen. Wortlaut-Grenze.
 - **"Schaden" iSd § 249 BGB:** im allgemeinen Sprachgebrauch und in der Diffenzhypothese aufzufassen. In Art. 82 DSGVO autonom unionsrechtlich, nicht nach BGB-Verstaendnis (siehe Skill `verfassungs-und-unionsrechtskonforme-auslegung`).
 
-**Vertragsauslegung §§ 133, 157 BGB:** Bei der Auslegung einer Willenserklaerung ist der wirkliche Wille zu erforschen und nicht am buchstaeblichen Sinne des Ausdrucks zu haften (§ 133 BGB); Vertraege sind so auszulegen, wie Treu und Glauben mit Ruecksicht auf die Verkehrssitte es erfordern (§ 157 BGB). Dort steht der "Empfaengerhorizont" im Vordergrund — der Wortlaut ist nicht entscheidend, sondern wie der Empfaenger ihn nach Treu und Glauben verstehen durfte.
+**Vertragsauslegung §§ 133, 157 BGB:** Bei der Auslegung einer Willenserklaerung ist der wirkliche Wille zu erforschen und nicht am buchstaeblichen Sinne des Ausdrucks zu haften (§ 133 BGB); Vertraege sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern (§ 157 BGB). Dort steht der "Empfaengerhorizont" im Vordergrund — der Wortlaut ist nicht entscheidend, sondern wie der Empfaenger ihn nach Treu und Glauben verstehen durfte.
 
 **Unbestimmte Rechtsbegriffe und Generalklauseln:**
 
 - "Treu und Glauben" (§ 242 BGB), "gute Sitten" (§ 138 BGB), "wichtiger Grund" (§§ 314, 626 BGB), "angemessene Frist". Der Wortlaut allein traegt keine Subsumtion; er gibt nur einen Rahmen. Die Konkretisierung erfolgt durch System, Historie, Telos, Grundrechte und Unionsrecht.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Streitigen Begriff isolieren.** Welches Tatbestandsmerkmal genau ist auslegungsbeduerftig?
 2. **Legaldefinition pruefen.** Hat das BGB selbst eine Definition (z. B. § 90 BGB "Sache", § 90a BGB "Tier", § 13 BGB "Verbraucher", § 14 BGB "Unternehmer", § 91 BGB "vertretbare Sachen", § 854 BGB "Besitz")?
@@ -64,7 +64,7 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - **Sprachgefuehl statt Sprachpruefung.** Wer behauptet, "schon vom Wortlaut her" sei klar, was gemeint sei, ohne den Sprachgebrauch zu pruefen, faellt schnell auf Mehrdeutigkeiten herein.
 - **Allgemein- und Fachsprache vermischen.** "Besitz" im Alltag bedeutet meist Eigentum; § 854 BGB meint die tatsaechliche Sachherrschaft.
 - **Wortlaut-Grenze nicht respektieren.** Wer ueber den moeglichen Wortsinn hinaus auslegt, betreibt unzulaessige Auslegung *contra legem*. Erlaubt ist hier nur Rechtsfortbildung mit eigenen Voraussetzungen.
-- **Legaldefinitionen ignorieren.** Eine Legaldefinition verdraengt den allgemeinen Sprachgebrauch fuer den Anwendungsbereich des Gesetzes.
+- **Legaldefinitionen ignorieren.** Eine Legaldefinition verdraengt den allgemeinen Sprachgebrauch für den Anwendungsbereich des Gesetzes.
 - **Bei Unionsrechtsbegriffen den deutschen Sprachgebrauch zugrunde legen.** Begriffe aus Verordnungen und Richtlinien sind autonom auszulegen; alle Amtssprachen sind verbindlich.
 
 ## Querverweise
@@ -84,7 +84,6 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - Quellenpflicht: `references/zitierweise.md`.
 
 Stand: Mai 2026. Wortlaut-Fragen koennen sich durch Gesetzesreformen jederzeit verschieben; bei Streitfragen aktuelle Norm- und Rechtsprechungslage pruefen. Bei zweifelhaften Begriffen empfiehlt sich der parallele Blick in Grueneberg, MueKo-BGB oder BeckOK, soweit lizenziert verfuegbar.
-
 
 ## Qualitäts-Hardening
 

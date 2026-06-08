@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-krankengeld-44-sgb-v
-description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften fuer Selbststaendige. Liefert Pruefraster und Strategie bei Streit."
+description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Pruefraster und Strategie bei Streit."
 ---
 
 # Krankenkassen Krankengeld 44 Sgb V
@@ -17,7 +17,7 @@ description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Vorau
 
 ## Hoehe
 
-- 70 Prozent des regelmaessigen Bruttoarbeitsentgelts.
+- 70 Prozent des regelmäßigen Bruttoarbeitsentgelts.
 - Maximal 90 Prozent des Nettoarbeitsentgelts.
 - Beitragspflichtig zur Renten- und Arbeitslosenversicherung.
 

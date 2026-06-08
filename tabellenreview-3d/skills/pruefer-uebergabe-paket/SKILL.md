@@ -5,7 +5,6 @@ description: "Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: a
 
 # /tabellenreview-3d:prüfer-übergabe-paket
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: a
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

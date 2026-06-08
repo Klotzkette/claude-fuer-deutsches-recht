@@ -1,6 +1,6 @@
 ---
 name: standardvertragsklauseln-scc-paket
-description: "Standardvertragsklauseln fuer Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln."
+description: "Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln."
 ---
 
 # Standardvertragsklauseln-SCC-Paket
@@ -139,7 +139,6 @@ Lieferbare Dokumente:
 - Durchführungsbeschluss (EU) 2021/914 der Kommission zu Standardvertragsklauseln.
 - EDSA Recommendations 01/2020 zu ergänzenden Maßnahmen.
 - Bei US-Transfers immer mit `us-transfer-tia-dokumentation` kombinieren.
-
 
 ## Qualitäts-Hardening
 

@@ -1,6 +1,6 @@
 ---
 name: biometrie-emotionserkennung-polizei-grenzen
-description: "Biometrie, Gesichtserkennung und Emotionserkennung im KI-VO-Grenzbereich: Art. 5 Verbote, Anhang III, Strafverfolgungsausnahmen, oeffentlicher Raum, Schule/Arbeitsplatz, Transparenz, Datenschutz und Beweisverwertungsrisiken."
+description: "Biometrie, Gesichtserkennung und Emotionserkennung im KI-VO-Grenzbereich: Art. 5 Verbote, Anhang III, Strafverfolgungsausnahmen, öffentlicher Raum, Schule/Arbeitsplatz, Transparenz, Datenschutz und Beweisverwertungsrisiken."
 ---
 
 # Biometrie und Emotionserkennung

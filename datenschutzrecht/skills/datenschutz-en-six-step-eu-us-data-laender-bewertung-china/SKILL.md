@@ -1,31 +1,31 @@
 ---
 name: datenschutz-en-six-step-eu-us-data-laender-bewertung-china
-description: "Datenschutz EN SIX Step EU US Data Laender Bewertung China im Datenschutzrecht: prüft konkret English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Laenderbewertung jenseits der USA, Schrems II als Grundlage des Transfer Impact Assessment. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Datenschutzrecht: prüft konkret English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA, Schrems II als Grundlage des Transfer Impact Assessment. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Datenschutz EN SIX Step EU US Data Laender Bewertung China
+# Datenschutz EN SIX Step EU US Data Länder Bewertung China
 
 ## Arbeitsbereich
 
-**Datenschutz EN SIX Step EU US Data Laender Bewertung China** ordnet den Fall über die tragenden Prüffelder: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Laenderbewertung jenseits der USA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Datenschutz EN SIX Step EU US Data Länder Bewertung China** ordnet den Fall über die tragenden Prüfungslinien: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `tia-en-six-step-roadmap` | English-language version of the EDPB Recommendation 01/2020 six-step roadmap for Transfer Impact Assessment. Step 1 know your transfers; Step 2 identify transfer tool; Step 3 assess law and practice; Step 4 adopt supplementary measures; Step 5 procedural steps; Step 6 re-evaluate. With checklists and sample entries for use with international counsel. |
-| `tia-eu-us-data-privacy-framework-aktueller-stand` | Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien fuer DPF-Tragfaehigkeit und Restrisiko. |
-| `tia-laender-bewertung-china-india-brazil-uk` | TIA-Laenderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster fuer Drittlandsrecht Behoerdenzugriff Praxis und Empfehlung Transferinstrument fuer Schritt 3 der EDPB-Roadmap. |
-| `tia-schrems-ii-eugh-c-311-18-grundlagen` | Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen fuer Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung. |
-| `tia-us-fisa-702-und-eo-12333-bewertung` | Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 fuer das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen fuer Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten fuer Schritt 3 EDPB-Roadmap. |
+| `tia-eu-us-data-privacy-framework-aktueller-stand` | Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigkeit und Restrisiko. |
+| `tia-laender-bewertung-china-india-brazil-uk` | TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap. |
+| `tia-schrems-ii-eugh-c-311-18-grundlagen` | Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung. |
+| `tia-us-fisa-702-und-eo-12333-bewertung` | Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 EDPB-Roadmap. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `tia-en-six-step-roadmap`
 
@@ -199,7 +199,6 @@ Re-assess on triggers:
 - Commission Implementing Decision (EU) 2023/1795 of 10 July 2023 (EU-US DPF).
 - Articles 44–49 GDPR.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -210,17 +209,17 @@ Re-assess on triggers:
 
 ## 2. `tia-eu-us-data-privacy-framework-aktueller-stand`
 
-**Fokus:** Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien fuer DPF-Tragfaehigkeit und Restrisiko.
+**Fokus:** Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigkeit und Restrisiko.
 
-# EU-US Data Privacy Framework – Aktueller Stand fuer das TIA
+# EU-US Data Privacy Framework – Aktueller Stand für das TIA
 
 ## Zweck
 
-Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien fuer die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
+Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien für die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
 
 ## Wann dieses Modul hilft
 
-- Pruefung, ob fuer einen US-Importeur ein TIA noch erforderlich ist.
+- Pruefung, ob für einen US-Importeur ein TIA noch erforderlich ist.
 - Dokumentation des DPF-Listings im RoPA / TIA.
 - Strategische Entscheidung DPF vs. SCC.
 - HR-Daten an US-Mutter; Pruefung der HR-Abdeckung im DPF.
@@ -245,7 +244,7 @@ Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DP
 
 ### Reichweite und Grenzen
 
-- Greift **nur fuer aktiv gelistete** US-Rechtstraeger.
+- Greift **nur für aktiv gelistete** US-Rechtstraeger.
 - Konzernverbundene Stellen sind nicht automatisch erfasst – jede juristische Person separat pruefen.
 - Subprozessoren / Onward Transfer: DPF-Prinzipien verlangen vertragliche Weitergabe und Schutzpflichten.
 - Daten ausserhalb des Listings (z. B. Produkt nicht in der Erklaerung erwaehnt) – DPF traegt **nicht**.
@@ -258,7 +257,7 @@ Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DP
 
 ### EU-Review-Verfahren
 
-- Die EU-Kommission ueberprueft die Wirksamkeit des DPF in regelmaessigen Abstaenden; **erster Review** im Sommer 2024 mit Bestaetigung des Beschlusses; weitere Reviews planmaessig alle vier Jahre, ggf. anlassbezogen frueher.
+- Die EU-Kommission ueberprueft die Wirksamkeit des DPF in regelmäßigen Abstaenden; **erster Review** im Sommer 2024 mit Bestaetigung des Beschlusses; weitere Reviews planmaessig alle vier Jahre, ggf. anlassbezogen frueher.
 
 ## Ablauf / Checkliste
 
@@ -303,7 +302,7 @@ Hinweisbaustein im TIA-Schritt 2:
 ## Typische Fehler
 
 - "Unsere Konzernmutter ist gelistet" – Tochter ist separater Rechtstraeger und muss eigenstaendig gelistet sein.
-- HR-Daten transferiert, aber Listing nur fuer Non-HR.
+- HR-Daten transferiert, aber Listing nur für Non-HR.
 - DPF-Eintrag in der Liste, aber Privacy Policy weist auf Datenart, die nicht erfasst ist.
 - Re-Zertifizierungsdatum verstrichen – Listing inaktiv, Transfer dennoch fortgesetzt.
 - Onward Transfer in weiteres Drittland uebersehen.
@@ -312,12 +311,12 @@ Hinweisbaustein im TIA-Schritt 2:
 
 ## Querverweise
 
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` fuer Schrems II.
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer US-Behoerden.
-- `tia-en-data-privacy-framework-status` fuer englische Fassung.
-- `tia-template-deutsch-vollvorlage` fuer Vollvorlage.
-- `us-transfer-tia-dokumentation` fuer das Output-Paket.
-- `avv-eu-us-data-privacy-framework-bezug` fuer vertragliche Seite.
+- `tia-schrems-ii-eugh-c-311-18-grundlagen` für Schrems II.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Behörden.
+- `tia-en-data-privacy-framework-status` für englische Fassung.
+- `tia-template-deutsch-vollvorlage` für Vollvorlage.
+- `us-transfer-tia-dokumentation` für das Output-Paket.
+- `avv-eu-us-data-privacy-framework-bezug` für vertragliche Seite.
 
 ## Quellen Stand 06/2026
 
@@ -329,7 +328,6 @@ Hinweisbaustein im TIA-Schritt 2:
 - Anhaengiges Verfahren Schrems III (NOYB) – Verfahrensstand am Gericht der EU pruefen.
 - DPF-Liste: dataprivacyframework.gov.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -340,13 +338,13 @@ Hinweisbaustein im TIA-Schritt 2:
 
 ## 3. `tia-laender-bewertung-china-india-brazil-uk`
 
-**Fokus:** TIA-Laenderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster fuer Drittlandsrecht Behoerdenzugriff Praxis und Empfehlung Transferinstrument fuer Schritt 3 der EDPB-Roadmap.
+**Fokus:** TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap.
 
-# TIA-Laenderbewertung: UK, China, Indien, Brasilien
+# TIA-Länderbewertung: UK, China, Indien, Brasilien
 
 ## Zweck
 
-Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung fuer das Transferinstrument.
+Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung für das Transferinstrument.
 
 ## Wann dieses Modul hilft
 
@@ -360,10 +358,10 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 
 ### Vereinigtes Koenigreich (UK)
 
-- **Angemessenheitsbeschluss EU - UK Adequacy Decision** vom **28.06.2021** (Beschluss (EU) 2021/1772 fuer die DSGVO; Beschluss (EU) 2021/1773 fuer die JI-Richtlinie).
+- **Angemessenheitsbeschluss EU - UK Adequacy Decision** vom **28.06.2021** (Beschluss (EU) 2021/1772 für die DSGVO; Beschluss (EU) 2021/1773 für die JI-Richtlinie).
 - Befristet zunaechst bis 27.06.2025; mit Verordnung der Kommission im Sommer 2025 verlaengert (Termin und Aktenzeichen am amtlichen Beschluss verifizieren).
 - UK GDPR (Data Protection Act 2018 in geltender Fassung) als nationale Spiegelregelung.
-- **Investigatory Powers Act 2016** als kritischer Behoerdenrahmen; EuGH C-623/17 (Privacy International) hat britische Bulk-Befugnisse vor Brexit beanstandet.
+- **Investigatory Powers Act 2016** als kritischer Behördenrahmen; EuGH C-623/17 (Privacy International) hat britische Bulk-Befugnisse vor Brexit beanstandet.
 - **Data Use and Access Act 2025** (in UK verabschiedet) – pruefen, ob die Reform am Angemessenheitsbeschluss ruettelt.
 
 **Empfehlung:** Transfer ueber Art. 45 DSGVO grundsaetzlich moeglich; TIA bleibt empfohlen wegen Investigatory Powers Act und Reformdiskussion; Fallback-Klausel auf SCC einbauen.
@@ -373,26 +371,26 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 - **Personal Information Protection Law (PIPL)**, in Kraft seit 01.11.2021.
 - **Data Security Law (DSL)**, in Kraft seit 01.09.2021.
 - **Cybersecurity Law (CSL)**, in Kraft seit 01.06.2017.
-- **National Intelligence Law (NIL)** vom 27.06.2017: Pflicht zur Kooperation der Buerger und Unternehmen mit Geheimdiensten (Art. 7 NIL) – kritisch fuer TIA.
-- **State Secrets Law** und Anti-Spionage-Gesetz (2023-Novelle) – Zugriff der Behoerden ohne effektive Rechtsschutzmoeglichkeit.
+- **National Intelligence Law (NIL)** vom 27.06.2017: Pflicht zur Kooperation der Buerger und Unternehmen mit Geheimdiensten (Art. 7 NIL) – kritisch für TIA.
+- **State Secrets Law** und Anti-Spionage-Gesetz (2023-Novelle) – Zugriff der Behörden ohne effektive Rechtsschutzmoeglichkeit.
 - Kein Angemessenheitsbeschluss.
 
-**Empfehlung:** Art. 46 DSGVO (SCC) plus umfassende TIA; technische Massnahmen (starke Verschluesselung mit Key in EU/EWR) regelmaessig erforderlich; Use Case 6/7 EDPB Annex 2 kommt in Betracht; bei Berufsgeheimnistraegern (Anwalt/Arzt) besondere Zurueckhaltung; Art. 49 DSGVO nur fuer eng begrenzte Einzelfaelle.
+**Empfehlung:** Art. 46 DSGVO (SCC) plus umfassende TIA; technische Massnahmen (starke Verschluesselung mit Key in EU/EWR) regelmaessig erforderlich; Use Case 6/7 EDPB Annex 2 kommt in Betracht; bei Berufsgeheimnistraegern (Anwalt/Arzt) besondere Zurueckhaltung; Art. 49 DSGVO nur für eng begrenzte Einzelfaelle.
 
 ### Indien
 
 - **Digital Personal Data Protection Act 2023 (DPDPA)**, verabschiedet 11.08.2023; **Inkrafttreten gestaffelt**; Durchfuehrungsregeln (Rules) 2025 abwarten und am amtlichen Stand pruefen.
 - Vor DPDPA: Information Technology Act 2000 mit Reasonable Security Practices Rules (SPDI 2011) als Datenschutzrahmen.
-- Behoerdenzugriff: **Telegraph Act 1885 (§ 5)** und IT-Act § 69 (Interception); Vorbehalt vorrangiger nationaler Sicherheit.
+- Behördenzugriff: **Telegraph Act 1885 (§ 5)** und IT-Act § 69 (Interception); Vorbehalt vorrangiger nationaler Sicherheit.
 - Kein Angemessenheitsbeschluss.
 
-**Empfehlung:** SCC + TIA; Pruefung des DPDPA-Inkraftsetzungsstands; Schutzlevel des indischen Anbieters genau dokumentieren; Verschluesselung empfehlenswert; vertragliche Behoerden-Anfrage-Berichtspflicht.
+**Empfehlung:** SCC + TIA; Pruefung des DPDPA-Inkraftsetzungsstands; Schutzlevel des indischen Anbieters genau dokumentieren; Verschluesselung empfehlenswert; vertragliche Behörden-Anfrage-Berichtspflicht.
 
 ### Brasilien
 
 - **Lei Geral de Protecao de Dados (LGPD)**, Lei nº 13.709/2018, in Kraft seit 18.09.2020 (Sanktionsregime seit 01.08.2021).
 - Aufsicht: **Autoridade Nacional de Protecao de Dados (ANPD)**.
-- Behoerdenzugriff: **Lei Geral de Telecomunicacoes** und Anti-Terror-Gesetz 13.260/2016; Verfahren ueber Justizbehoerden, was im Vergleich zu USA/China engmaschiger ist.
+- Behördenzugriff: **Lei Geral de Telecomunicacoes** und Anti-Terror-Gesetz 13.260/2016; Verfahren ueber Justizbehoerden, was im Vergleich zu USA/China engmaschiger ist.
 - Kein Angemessenheitsbeschluss; Diskussion ueber moegliche Kommissionsbewertung.
 
 **Empfehlung:** SCC + TIA; Schutzniveau in der Praxis vergleichsweise gut; Restrisiko durch Anti-Terror-Befugnisse dokumentieren.
@@ -403,7 +401,7 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 2. Existenz und Status eines Angemessenheitsbeschlusses pruefen.
 3. Bei Art. 45-Beschluss: Coverage- und Befristung pruefen (UK: Reformdiskussion).
 4. Bei Art. 46: SCC-Modul waehlen, TIA mit EEG-Pruefung.
-5. Behoerdenzugriff im Drittland qualifiziert bewerten.
+5. Behördenzugriff im Drittland qualifiziert bewerten.
 6. Praxis und Transparenzberichte des Importeurs einbeziehen.
 7. Geeignete supplementary measures festlegen (siehe Skill `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung`).
 8. Restrisiko + Sign-off.
@@ -412,11 +410,11 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 
 ### Schritt-3-Block (Beispiel China)
 
-> Der Importeur hat seinen Sitz in der Volksrepublik China. Massgebliche Rechtsgrundlagen fuer behoerdlichen Zugriff sind das Cybersecurity Law (CSL), das Data Security Law (DSL), das Personal Information Protection Law (PIPL), das National Intelligence Law (Art. 7 NIL) sowie das Anti-Spionage-Gesetz in der Fassung der Novelle 2023. Diese Regelungen begruenden weitreichende Zugriffs- und Kooperationspflichten ohne effektive gerichtliche Kontrolle aus Sicht der betroffenen Personen.
+> Der Importeur hat seinen Sitz in der Volksrepublik China. Massgebliche Rechtsgrundlagen für behoerdlichen Zugriff sind das Cybersecurity Law (CSL), das Data Security Law (DSL), das Personal Information Protection Law (PIPL), das National Intelligence Law (Art. 7 NIL) sowie das Anti-Spionage-Gesetz in der Fassung der Novelle 2023. Diese Regelungen begruenden weitreichende Zugriffs- und Kooperationspflichten ohne effektive gerichtliche Kontrolle aus Sicht der betroffenen Personen.
 >
 > Die EDPB-Garantien A-D der Empfehlung 02/2020 werden insbesondere zu Klarheit (A) und effektivem Rechtsschutz (D) nicht erfuellt. Ohne ergaenzende technische Schutzmassnahmen, die einen Klartextzugriff des Importeurs ausschliessen, ist der Transfer mit dem Schutzniveau der DSGVO nicht vereinbar.
 
-### Tabelle Laenderbewertung (Kurzform)
+### Tabelle Länderbewertung (Kurzform)
 
 | Land | Angemessenheitsbeschluss | Transferinstrument | Hauptrisiko |
 |---|---|---|---|
@@ -436,10 +434,10 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 
 ## Querverweise
 
-- `tia-edpb-roadmap-6-schritte-deutsch` fuer Methodik.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` fuer Schritt 4.
-- `tia-template-deutsch-vollvorlage` fuer Vollvorlage.
-- `drittlandstransfer-pruefung` fuer Art. 44 ff. DSGVO Basis.
+- `tia-edpb-roadmap-6-schritte-deutsch` für Methodik.
+- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Schritt 4.
+- `tia-template-deutsch-vollvorlage` für Vollvorlage.
+- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO Basis.
 
 ## Quellen Stand 06/2026
 
@@ -455,9 +453,9 @@ Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-U
 
 ## 4. `tia-schrems-ii-eugh-c-311-18-grundlagen`
 
-**Fokus:** Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen fuer Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung.
+**Fokus:** Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung.
 
-# Schrems II – Grundlagen fuer Transfer Impact Assessment
+# Schrems II – Grundlagen für Transfer Impact Assessment
 
 ## Zweck
 
@@ -482,7 +480,7 @@ Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2
 1. **Privacy Shield ungueltig** (Tenor Nr. 5): Der Angemessenheitsbeschluss 2016/1250 der EU-Kommission ist wegen fehlender Schutzgleichwertigkeit ungueltig.
 2. **SCC bleiben grundsaetzlich gueltig** (Tenor Nr. 2 und 3): Beschluss 2010/87/EU (jetzt durch 2021/914 ersetzt) ist gueltig, doch der Datenexporteur trifft eine Pflicht zur Einzelfallpruefung.
 3. **Schutzgleichwertigkeit** (Rn. 96, 105): Der Schutz im Drittland muss "essentially equivalent" (im Wesentlichen gleichwertig) zum unionsrechtlichen Schutzniveau sein. Massgeblich sind Drittlandsrecht **und** -praxis.
-4. **Zugriffsbefugnisse der Behoerden** (Rn. 168 ff.): Insbesondere FISA 702 und Executive Order 12333 lassen massenhafte und auch von Nichtbuergern erfassende Zugriffe ohne ausreichenden Rechtsschutz zu – das ist der Kern der Unvereinbarkeit.
+4. **Zugriffsbefugnisse der Behörden** (Rn. 168 ff.): Insbesondere FISA 702 und Executive Order 12333 lassen massenhafte und auch von Nichtbuergern erfassende Zugriffe ohne ausreichenden Rechtsschutz zu – das ist der Kern der Unvereinbarkeit.
 5. **Suspendierungspflicht** (Rn. 142): Datenexporteur und ggf. Aufsichtsbehoerde muessen den Transfer aussetzen, wenn die SCC im Zielland nicht eingehalten werden koennen.
 6. **Zusaetzliche Massnahmen (supplementary measures)** (Rn. 133): Wenn das Drittlandsrecht den SCC-Schutz nicht traegt, sind ergaenzende Schutzmassnahmen erforderlich.
 
@@ -500,7 +498,7 @@ Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2
 ## Ablauf / Checkliste
 
 1. Lies das Urteil C-311/18 in der EuGH-Sammlung oder unter curia.europa.eu im Original.
-2. Identifiziere fuer den konkreten Transfer: Importeur, Land, Datenart.
+2. Identifiziere für den konkreten Transfer: Importeur, Land, Datenart.
 3. Beziehe die EDPB-Empfehlung 01/2020 in die Pruefung ein.
 4. Vermeide Verkuerzung "USA = unzulaessig" – differenziere nach DPF-Listing, Datenart, Schutzmassnahmen.
 5. Dokumentiere die Pruefung – ohne TIA-Dokument keine Schrems-II-konforme Compliance.
@@ -508,27 +506,27 @@ Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2
 
 ## Mustertext / Template
 
-Kurzvermerk-Baustein fuer das TIA:
+Kurzvermerk-Baustein für das TIA:
 
-> Hintergrund der Pruefung ist das Urteil des Europaeischen Gerichtshofs vom 16. Juli 2020 in der Rechtssache C-311/18 (Schrems II), nach dem fuer Datenuebermittlungen in Drittlaender auf Grundlage von Art. 46 DSGVO eine einzelfallbezogene Bewertung erforderlich ist, ob im Zielland ein der Union "im Wesentlichen gleichwertiges" Schutzniveau gewaehrleistet ist. Soweit das Drittlandsrecht oder die Drittlandspraxis das vertraglich vereinbarte Schutzniveau nicht traegt, sind ergaenzende Schutzmassnahmen vorzusehen oder die Uebermittlung auszusetzen.
+> Hintergrund der Pruefung ist das Urteil des Europaeischen Gerichtshofs vom 16. Juli 2020 in der Rechtssache C-311/18 (Schrems II), nach dem für Datenuebermittlungen in Drittlaender auf Grundlage von Art. 46 DSGVO eine einzelfallbezogene Bewertung erforderlich ist, ob im Zielland ein der Union "im Wesentlichen gleichwertiges" Schutzniveau gewaehrleistet ist. Soweit das Drittlandsrecht oder die Drittlandspraxis das vertraglich vereinbarte Schutzniveau nicht traegt, sind ergaenzende Schutzmassnahmen vorzusehen oder die Uebermittlung auszusetzen.
 
 ## Typische Fehler
 
 - "Schrems II hat das Privacy Shield gekippt – wir brauchen jetzt nur SCC." Falsch: SCC alleine genuegen ohne TIA und ggf. zusaetzliche Massnahmen nicht.
 - Verwechslung Schrems I (C-362/14, Safe Harbor) und Schrems II.
-- Annahme, der EU-US Data Privacy Framework habe Schrems II "ueberholt". Tatsaechlich: DPF basiert auf neuem Angemessenheitsbeschluss; SCC-Pfad bleibt parallel relevant, und das EuGH-Pruefraster bleibt Massstab fuer SCC-Faelle.
-- TIA nur fuer USA gemacht; UK, China, Indien, Brasilien werden vergessen.
+- Annahme, der EU-US Data Privacy Framework habe Schrems II "ueberholt". Tatsaechlich: DPF basiert auf neuem Angemessenheitsbeschluss; SCC-Pfad bleibt parallel relevant, und das EuGH-Pruefraster bleibt Massstab für SCC-Faelle.
+- TIA nur für USA gemacht; UK, China, Indien, Brasilien werden vergessen.
 - TIA-Dokument als Einmal-Pruefung; keine Wiedervorlage.
 - "Essentially equivalent" mit "identisch" gleichgesetzt – nicht zutreffend, ein "im Wesentlichen gleichwertiger" Schutz genuegt.
 
 ## Querverweise
 
-- `tia-edpb-roadmap-6-schritte-deutsch` fuer die operative Sechs-Schritte-Pruefung.
+- `tia-edpb-roadmap-6-schritte-deutsch` für die operative Sechs-Schritte-Pruefung.
 - `tia-en-six-step-roadmap` (englische Fassung).
-- `tia-us-fisa-702-und-eo-12333-bewertung` fuer die US-Behoerden-Bewertung.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` fuer DPF.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` fuer Supplementary Measures.
-- `tia-template-deutsch-vollvorlage` fuer das TIA-Dokument.
+- `tia-us-fisa-702-und-eo-12333-bewertung` für die US-Behörden-Bewertung.
+- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
+- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Supplementary Measures.
+- `tia-template-deutsch-vollvorlage` für das TIA-Dokument.
 
 ## Quellen Stand 06/2026
 
@@ -540,7 +538,6 @@ Kurzvermerk-Baustein fuer das TIA:
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US DPF).
 - US Executive Order 14086 vom 07.10.2022.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -551,13 +548,13 @@ Kurzvermerk-Baustein fuer das TIA:
 
 ## 5. `tia-us-fisa-702-und-eo-12333-bewertung`
 
-**Fokus:** Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 fuer das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen fuer Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten fuer Schritt 3 EDPB-Roadmap.
+**Fokus:** Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 EDPB-Roadmap.
 
-# US-Ueberwachungsgrundlagen FISA 702 und EO 12333 fuer das TIA
+# US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA
 
 ## Zweck
 
-Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachungsgrundlagen, die der EuGH in Schrems II als ausschlaggebend fuer das fehlende Schutzniveau identifiziert hat:
+Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachungsgrundlagen, die der EuGH in Schrems II als ausschlaggebend für das fehlende Schutzniveau identifiziert hat:
 
 - **FISA Section 702** (Foreign Intelligence Surveillance Act, 50 U.S.C. § 1881a) – Zugriff auf elektronische Kommunikation von Non-US-Personen ueber US-Anbieter ("electronic communication service providers", ECSP).
 - **Executive Order 12333** vom 04.12.1981 (zuletzt geaendert) – Auslandsaufklaerung der US-Geheimdienste; deckt z. B. Bulk Collection bei Glasfasertrassen ab.
@@ -566,7 +563,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 
 ## Wann dieses Modul hilft
 
-- TIA fuer US-Cloud-/SaaS-Anbieter.
+- TIA für US-Cloud-/SaaS-Anbieter.
 - Diskussion mit Anbieter, ob er als ECSP gilt.
 - Bewertung des Schutzniveaus jenseits des DPF (SCC-Faelle).
 - Pruefung des Restrisikos trotz DPF-Zertifizierung.
@@ -584,7 +581,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 ### Executive Order 12333
 
 - Vom 04.12.1981, Praesident Reagan; mehrfach modifiziert.
-- Grundlage fuer SIGINT, einschliesslich Erfassung von Daten in Transit ausserhalb der USA.
+- Grundlage für SIGINT, einschliesslich Erfassung von Daten in Transit ausserhalb der USA.
 - Kein gerichtlicher Vorbehalt; Aufsicht ueber DNI/PCLOB beschraenkt.
 
 ### Executive Order 14086 vom 07.10.2022
@@ -596,7 +593,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 
 ### EuGH Schrems II – tragende Beanstandungen
 
-- FISA 702: keine ausreichende Verhaeltnismaessigkeitskontrolle, keine effektive Rechtsschutzmoeglichkeit fuer Betroffene aus der EU.
+- FISA 702: keine ausreichende Verhaeltnismaessigkeitskontrolle, keine effektive Rechtsschutzmoeglichkeit für Betroffene aus der EU.
 - EO 12333: bulk collection ohne Anlassbezug, kein Rechtsschutz.
 
 ### Bewertung post EO 14086
@@ -612,7 +609,7 @@ Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practi
 3. **Transparenzbericht:** Veroeffentlicht der Importeur Zahlen zu FISA-/NSL-Anfragen?
 4. **Reaktionsmoeglichkeit:** Hat der Importeur die Befugnis und Praxis, FISA-Anfragen anzufechten?
 5. **EDPB-EEG-Pruefung** durchfuehren (Garantien A bis D der Empfehlung 02/2020).
-6. **DPF-Pruefung:** Ist der Importeur aktiv im DPF gelistet fuer die konkrete Datenart (HR/Non-HR)?
+6. **DPF-Pruefung:** Ist der Importeur aktiv im DPF gelistet für die konkrete Datenart (HR/Non-HR)?
 7. **Restrisiko:** Auch bei DPF-Listing besteht ein Restrisiko aus FISA 702 / EO 12333; technische Massnahmen erwaegen.
 8. **Dokumentation** im TIA-Schritt 3.
 
@@ -641,15 +638,15 @@ Baustein TIA-Schritt 3 (US):
 - EO 12333 vergessen, weil "wir sind ja im DPF".
 - Annahme, dass Anbieter Anfragen anficht – ohne Beleg.
 - Quellenangaben aus Modellwissen statt Verifikation an offiziellen Texten.
-- Annahme, Schrems II sei "ueberholt" durch DPF – TIA fuer SCC-Faelle bleibt zwingend.
+- Annahme, Schrems II sei "ueberholt" durch DPF – TIA für SCC-Faelle bleibt zwingend.
 
 ## Querverweise
 
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` fuer EuGH-Grundlage.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` fuer DPF.
-- `tia-edpb-roadmap-6-schritte-deutsch` fuer Schritt-3-Einbindung.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` fuer Step 4.
-- `us-transfer-tia-dokumentation` fuer Output-Paket.
+- `tia-schrems-ii-eugh-c-311-18-grundlagen` für EuGH-Grundlage.
+- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
+- `tia-edpb-roadmap-6-schritte-deutsch` für Schritt-3-Einbindung.
+- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Step 4.
+- `us-transfer-tia-dokumentation` für Output-Paket.
 
 ## Quellen Stand 06/2026
 
@@ -661,7 +658,6 @@ Baustein TIA-Schritt 3 (US):
 - EDPB Empfehlung 02/2020 vom 10.11.2020 (EEG).
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
-
 
 ## Qualitäts-Hardening
 

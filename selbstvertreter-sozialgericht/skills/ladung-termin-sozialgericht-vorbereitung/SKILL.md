@@ -37,9 +37,9 @@ Sie haben einen Brief vom Sozialgericht bekommen. Es gibt einen Termin. Wir zeig
 - **§ 110 SGG** — Ladung; auch Hinweis auf Verhandeln und Entscheiden in Abwesenheit (§ 110 Abs. 1 S. 2 SGG).
 - **§ 124 SGG** — Muendliche Verhandlung.
 - **§ 110a SGG** — Video-Verhandlung.
-- **§ 141 Abs. 3 ZPO i.V.m. § 202 SGG** — Ordnungsgeld bei nicht entschuldigtem Fernbleiben trotz angeordnetem persoenlichem Erscheinen.
+- **§ 141 Abs. 3 ZPO i.V.m. § 202 SGG** — Ordnungsgeld bei nicht entschuldigtem Fernbleiben trotz angeordnetem persönlichem Erscheinen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ladung genau lesen
 
@@ -49,7 +49,7 @@ Im Brief steht:
 - **Gericht** (Adresse)
 - **Az** (Aktenzeichen)
 - **Form**: muendlich oder Eroerterungstermin
-- **Pflicht zur persoenlichen Anwesenheit**? (ausdruecklich genannt?)
+- **Pflicht zur persönlichen Anwesenheit**? (ausdruecklich genannt?)
 - **Was mitbringen**?
 
 ### Schritt 2 — Frueh planen
@@ -68,11 +68,11 @@ Im Brief steht:
 - Liste der Aerzte
 - Notizen mit Punkten, die Sie sagen wollen
 - Stift und Papier
-- Bei Anhoerung: Vorbereitung der Antworten
+- Bei Anhörung: Vorbereitung der Antworten
 
 ### Schritt 4 — Kann ich mich vertreten lassen?
 
-Sie muessen nicht zwingend selbst kommen, ausser das Gericht hat ausdruecklich persoenliche Anwesenheit angeordnet.
+Sie muessen nicht zwingend selbst kommen, ausser das Gericht hat ausdruecklich persönliche Anwesenheit angeordnet.
 
 Sie koennen:
 
@@ -126,7 +126,6 @@ Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerkt genutzt.
-
 
 ## Qualitäts-Hardening
 

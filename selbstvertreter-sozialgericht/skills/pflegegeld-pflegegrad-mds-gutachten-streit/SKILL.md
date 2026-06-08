@@ -7,10 +7,10 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-**Pflegegeld Pflegegrad MDS Gutachten Streit** ordnet den Fall über die tragenden Prüffelder: Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Pflegegeld Pflegegrad MDS Gutachten Streit** ordnet den Fall über die tragenden Prüfungslinien: Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `pflegegeld-pflegegrad-1-bis-5` | Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation. |
 | `pflegegrad-mds-gutachten-widerspruch` | Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine. |
@@ -20,12 +20,12 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `pflegegeld-pflegegrad-1-bis-5`
 
@@ -40,7 +40,6 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Norm- und Quellenanker
 
@@ -74,7 +73,7 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 ## Pflegegeld vs. Pflegesachleistung
 
-- Pflegegeld: direkte Zahlung an Pflegebeduerftige fuer Pflege durch Angehoerige.
+- Pflegegeld: direkte Zahlung an Pflegebeduerftige für Pflege durch Angehoerige.
 - Pflegesachleistung: Pflegedienst direkt von Pflegekasse bezahlt.
 - Kombinationsleistung: anteilige Mischung.
 
@@ -117,7 +116,6 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Verfahren
 
@@ -182,7 +180,6 @@ Modul 2 oder 3 — das schwerwiegendere zaehlt.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Sie oder ein Angehoeriger sollen Pflege bekommen. Aber die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. Diese Skill zeigt das ganze System und Ihren Weg.
@@ -203,7 +200,7 @@ Sie brauchen Pflege. Die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. 
 - **Medizinischer Dienst (MD)**: Begutachtungsstelle (seit 2022, frueher MDK).
 - **Module**: 6 Bereiche der Begutachtung (Mobilitaet, Kognition etc.).
 - **Pflegeprotokoll**: Aufzeichnung der taeglichen Pflege.
-- **Pflegegeld**: Geld fuer pflegende Angehoerige.
+- **Pflegegeld**: Geld für pflegende Angehoerige.
 - **Pflegesachleistung**: Leistung durch ambulanten Pflegedienst.
 
 ## Rechtsgrundlagen
@@ -216,7 +213,7 @@ Sie brauchen Pflege. Die Pflegekasse hat den Pflegegrad zu niedrig festgesetzt. 
 - **§ 39 SGB XI** — Verhinderungspflege.
 - **§ 40 SGB XI** — Pflegehilfsmittel.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pflegegrad-System verstehen
 
@@ -314,7 +311,7 @@ Der MD bewertet mit [n] Punkten. Tatsaechlich brauche ich:
 - Beim Essen und Trinken [Minuten]
 - Bei der Mobilitaet [Minuten]
 
-Pflegeprotokoll fuer 14 Tage liegt bei (Anlage 1).
+Pflegeprotokoll für 14 Tage liegt bei (Anlage 1).
 
 Aerztliche Atteste:
 - Dr. [Name], Hausarzt, vom [Datum]
@@ -336,13 +333,13 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 - **Pflegeprotokoll ueber min. 14 Tage** — kuerzer wirkt schwach.
 - **MD heisst seit 2022 MD**, nicht mehr MDK.
 - **Aerztliche Atteste** mit konkreten Funktionsbeschreibungen.
-- **Hilfsmittel als Indikator** fuer Pflegebedarf.
+- **Hilfsmittel als Indikator** für Pflegebedarf.
 
 ## Typische Fehler
 
 - Pflegeprotokoll zu pauschal → Minuten genau
 - Aerztliche Atteste alt → aktuell halten
-- Begruendung pro Modul fehlt → Modul fuer Modul argumentieren
+- Begruendung pro Modul fehlt → Modul für Modul argumentieren
 - "Es geht mir schlechter" ohne konkreten Verlauf → konkret
 
 ## Querverweise
@@ -372,10 +369,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Verbrauchspflegehilfsmittel
 
-§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat fuer zum Verbrauch bestimmte Pflegehilfsmittel.
+§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
 
 - Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
 - Direkter Bezug ueber Anbieter oder Apotheke.
@@ -422,10 +418,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Pflegekurse § 45 SGB XI
 
-- Kostenlose Pflegekurse fuer Angehoerige.
+- Kostenlose Pflegekurse für Angehoerige.
 - Praktische Anleitung Hebetechniken Wundversorgung.
 - Auch online.
 
@@ -437,7 +432,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Sozialversicherung der Pflegeperson § 44 SGB XI
 
-- Bei nichterwerbsmaessiger Pflege ab 10 Stunden/Woche an mindestens 2 Tagen.
+- Bei nichterwerbsmäßiger Pflege ab 10 Stunden/Woche an mindestens 2 Tagen.
 - Pflegekasse zahlt Rentenversicherungsbeitraege.
 - Sozialer Schutz.
 

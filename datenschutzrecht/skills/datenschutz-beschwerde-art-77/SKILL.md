@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-art-77
-description: "Beschwerde Art. 77 DSGVO bei zustaendiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-fuer-Schritt fuer beide Seiten. Mustertexte fuer Beschwerdeschreiben Stellungnahme und Anhoerungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
+description: "Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
 ---
 
 # Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
@@ -16,7 +16,7 @@ Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der
 Sieben-Fragen-Diagnose:
 
 1. **Beschwerdefuehrer oder Beschwerdegegner?**
-2. **Zustaendige Aufsichtsbehoerde:** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden) oder Landesaufsicht nach § 40 BDSG (privater Bereich, Landesbehoerden)? Federfuehrende Behoerde nach Art. 56 DSGVO?
+2. **Zustaendige Aufsichtsbehoerde:** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden) oder Landesaufsicht nach § 40 BDSG (privater Bereich, Landesbehoerden)? Federfuehrende Behörde nach Art. 56 DSGVO?
 3. **Sachverhalt:** Welche konkrete Verarbeitung mit welchem Anbieter, welches Datum?
 4. **Norm:** Welche DSGVO-Norm konkret verletzt — nicht pauschal "DSGVO".
 5. **Beweise:** Mailverkehr, Antworten auf Art. 15 Auskunftsersuchen, Screenshots, Vertraege?
@@ -26,16 +26,16 @@ Sieben-Fragen-Diagnose:
 ## Rechtlicher Rahmen
 
 - **Art. 77 I DSGVO** Recht auf Beschwerde bei jeder Aufsichtsbehoerde, insbesondere im Mitgliedstaat des Aufenthalts, des Arbeitsplatzes oder des mutmasslichen Verstosses.
-- **Art. 77 II DSGVO** Behoerde unterrichtet Beschwerdefuehrer ueber Verlauf, Ergebnis und gerichtliche Rechtsbehelfe.
+- **Art. 77 II DSGVO** Behörde unterrichtet Beschwerdefuehrer ueber Verlauf, Ergebnis und gerichtliche Rechtsbehelfe.
 - **Art. 78 DSGVO** Wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehoerde — auch bei Untaetigkeit nach drei Monaten.
 - **Art. 80 I DSGVO** Vertretung durch Einrichtungen, Organisationen, Vereinigungen.
-- **Art. 56 DSGVO** federfuehrende Behoerde bei grenzueberschreitender Verarbeitung.
+- **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
 - **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen ueber Beschwerden sind gerichtlich voll ueberpruefbar; Aufsicht hat Ermessen, aber kein freies Belieben.
 - **§ 13 BDSG** BfDI.
-- **§ 40 BDSG** Aufsichtsbehoerden der Laender.
+- **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **VwGO § 113 V** Verpflichtungsklage / Untaetigkeitsklage.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 ### Beschwerdefuehrerseite
 
@@ -47,7 +47,7 @@ Sieben-Fragen-Diagnose:
 
 ### Beschwerdegegnerseite
 
-1. **Zuerst:** Anhoerungsschreiben analysieren. Was wird konkret vorgeworfen?
+1. **Zuerst:** Anhörungsschreiben analysieren. Was wird konkret vorgeworfen?
 2. **Als zweites:** Akteneinsicht beantragen.
 3. **Als drittes:** NICHT vorschnell schriftlich Selbstvorwuerfe formulieren. Sachlich neutrale Sprache.
 4. **Als viertes:** Stellungnahme mit konkreten Belegen (Art. 30 Verarbeitungsverzeichnis, Art. 32 TOM, Art. 35 DSFA).
@@ -94,7 +94,7 @@ Sieben-Fragen-Diagnose:
 
 ### Stellungnahme Beschwerdegegner — Strukturvorschlag
 
-> 1. Verfahrensrechtliche Stellungnahme (Zustaendigkeit, Akteneinsicht).
+> 1. Verfahrensrechtliche Stellungnahme (Zuständigkeit, Akteneinsicht).
 > 2. Sachverhalt aus Sicht des Verantwortlichen (neutral).
 > 3. Rechtliche Bewertung mit DSGVO-Norm.
 > 4. Massnahmenlage Art. 30, 32, 35 (mit Belegen).
@@ -109,7 +109,7 @@ Sieben-Fragen-Diagnose:
 
 ## Typische Fehler
 
-- Beschwerde bei oertlich unzustaendiger Aufsicht — Verzoegerung durch Abgabe.
+- Beschwerde bei oertlich unzuständiger Aufsicht — Verzoegerung durch Abgabe.
 - Pauschalvorwurf "DSGVO verletzt" ohne konkrete Norm.
 - Belege fehlen oder sind nicht referenziert.
 - Drei-Monats-Frist Art. 78 II ueberhoert.
@@ -134,7 +134,6 @@ Sieben-Fragen-Diagnose:
 - EuGH C-634/21 SCHUFA, Urteil 07.12.2023.
 - EDSA, Leitlinien zur Zusammenarbeit nach Art. 56 ff. DSGVO.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

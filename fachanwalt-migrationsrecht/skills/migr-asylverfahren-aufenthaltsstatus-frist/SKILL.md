@@ -1,57 +1,56 @@
 ---
 name: migr-asylverfahren-aufenthaltsstatus-frist
-description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: prüft konkret Leitfaden Asylverfahren und Anhoerung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche, Aufenthaltstitel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: prüft konkret Leitfaden Asylverfahren und Anhörung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche, Aufenthaltstitel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Migr Asylverfahren Aufenthaltsstatus Frist
 
 ## Arbeitsbereich
 
-**Migr Asylverfahren Aufenthaltsstatus Frist** ordnet den Fall über die tragenden Prüffelder: Leitfaden Asylverfahren und Anhoerung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Migr Asylverfahren Aufenthaltsstatus Frist** ordnet den Fall über die tragenden Prüfungslinien: Leitfaden Asylverfahren und Anhörung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `migr-asylverfahren-anhoerung-leitfaden` | Leitfaden Asylverfahren und Anhoerung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund. |
+| `migr-asylverfahren-anhoerung-leitfaden` | Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund. |
 | `spezial-aufenthaltsstatus-frist-und-rechtsmittel` | Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `spezial-aufenthaltstitel-fristennotiz-und-naechster-schritt` | Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-aufenthg-fristen-form-und-zustaendigkeit` | Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-aufenthg-fristen-form-und-zuständigkeit` | Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Migrationsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `migr-asylverfahren-anhoerung-leitfaden`
 
-**Fokus:** Leitfaden Asylverfahren und Anhoerung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund.
+**Fokus:** Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund.
 
-
-# Migr: Asyl Anhoerung
+# Migr: Asyl Anhörung
 
 ## Aufgabe
-Leitfaden Asylverfahren und Anhoerung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung.
+Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung.
 
 ## Einstieg
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster Asylverfahren und Anhoerung
+## Pruefraster Asylverfahren und Anhörung
 
 ### 1. Asylverfahren beim BAMF (§§ 14 ff. AsylG)
 
 - **Antragstellung** § 13 AsylG; Asylgesuch loest § 55 AsylG Aufenthaltsgestattung aus.
-- **Aussenstelle / Anhoerung** § 24 AsylG: persoenliche Anhoerung ist Pflicht (Ausnahmen § 25 IV-VI AsylG).
-- **Dublin-Verfahren** VO (EU) 604/2013 (Dublin III) — Zustaendigkeitsbestimmung; Selbsteintrittsrecht Art. 17.
+- **Aussenstelle / Anhörung** § 24 AsylG: persönliche Anhörung ist Pflicht (Ausnahmen § 25 IV-VI AsylG).
+- **Dublin-Verfahren** VO (EU) 604/2013 (Dublin III) — Zuständigkeitsbestimmung; Selbsteintrittsrecht Art. 17.
 - **Pruefungsreihenfolge** § 13 II AsylG: zuerst Asylberechtigung Art. 16a GG, dann Fluechtlingseigenschaft (§ 3 AsylG), dann subsidiaerer Schutz (§ 4 AsylG), dann nationale Abschiebungsverbote (§ 60 V, VII AufenthG).
 
 ### 2. Rechtsgrundlagen Schutzformen
@@ -62,7 +61,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 | Fluechtlingseigenschaft | § 3 AsylG; GFK 1951 | Verfolgung wegen Rasse, Religion, Nationalitaet, politischer Ueberzeugung, Zugehoerigkeit zu sozialer Gruppe; auch nicht-staatliche Akteure (§ 3c AsylG) |
 | Subsidiaerer Schutz | § 4 AsylG; Art. 15 Anerkennungs-RL 2011/95/EU | Drohende ernsthafte Schaeden: Todesstrafe, Folter, willkuerliche Gewalt in bewaffnetem Konflikt |
 | Abschiebungsverbot § 60 V AufenthG | Verstoss gegen EMRK (insbes. Art. 3 EMRK) |
-| Abschiebungsverbot § 60 VII AufenthG | Konkrete erhebliche Gefahr fuer Leib, Leben, Freiheit |
+| Abschiebungsverbot § 60 VII AufenthG | Konkrete erhebliche Gefahr für Leib, Leben, Freiheit |
 
 ### 3. Glaubhaftigkeitspruefung
 
@@ -72,13 +71,13 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 - **Nachfluchtgruende** § 28 AsylG.
 - **Inlandsfluchtalternative** § 3e AsylG (Schutz in Teilen des Herkunftslandes zumutbar?).
 
-### 4. Anhoerungs-Praxis BAMF
+### 4. Anhörungs-Praxis BAMF
 
-- **Vorbereitung** mit Mandanten: Chronologie, Fluchtweg, persoenliche Daten der Familienangehoerigen, dokumentierte Verfolgungshandlungen, religioese/politische Aktivitaeten.
+- **Vorbereitung** mit Mandanten: Chronologie, Fluchtweg, persönliche Daten der Familienangehoerigen, dokumentierte Verfolgungshandlungen, religioese/politische Aktivitaeten.
 - **Dolmetscher** § 17 AsylG; Recht auf Dolmetscher in einer Sprache, die Antragsteller versteht; Pruefung der Qualifikation.
-- **Pflichten des Antragstellers** § 15 AsylG: persoenliche Erscheinen, wahrheitsgemaesse Angaben, Mitwirkung an Identitaetsklaerung.
-- **Vertrauensanwalt** bei Anhoerung kein Recht auf Beistand (str.; nach BVerwG-Linie zugelassen, aber keine eigenstaendige Rolle).
-- **Niederschrift** § 25 VII AsylG: Rueckuebersetzung; Pruefung auf Vollstaendigkeit und Korrektheit; Ergaenzungsantrag noch waehrend Anhoerung moeglich.
+- **Pflichten des Antragstellers** § 15 AsylG: persönliche Erscheinen, wahrheitsgemaesse Angaben, Mitwirkung an Identitaetsklaerung.
+- **Vertrauensanwalt** bei Anhörung kein Recht auf Beistand (str.; nach BVerwG-Linie zugelassen, aber keine eigenstaendige Rolle).
+- **Niederschrift** § 25 VII AsylG: Rueckuebersetzung; Pruefung auf Vollstaendigkeit und Korrektheit; Ergaenzungsantrag noch waehrend Anhörung moeglich.
 
 ### 5. Bescheid und Rechtsschutz
 
@@ -90,7 +89,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 - **Sieben-Tages-Frist** bei "offensichtlich unbegruendet" wird oft uebersehen.
 - **Dublin-Frist** sechs Monate Art. 29 Dublin III; Verlaengerung bei Untertauchen.
-- **Aenderungen Anhoerung** muessen sofort moniert werden; sonst Bestandskraft der Niederschrift.
+- **Aenderungen Anhörung** muessen sofort moniert werden; sonst Bestandskraft der Niederschrift.
 - **Asylfolgeantrag** § 71 AsylG nur bei neuer Sach- oder Rechtslage; Frist drei Monate.
 - **Familienasyl** § 26 AsylG (Ehegatte, minderjaehrige ledige Kinder).
 - **Sichere Herkunftsstaaten** § 29a AsylG i.V.m. Anlage II AsylG (z. B. Albanien, Bosnien, Ghana, Kosovo, Mazedonien, Senegal, Serbien, Moldau, Georgien).
@@ -112,7 +111,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -120,7 +119,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ## 2. `spezial-aufenthaltsstatus-frist-und-rechtsmittel`
 
 **Fokus:** Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
-
 
 # Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche
 
@@ -161,15 +159,10 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-
 # Aufenthaltstitel: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Aufenthaltstitel: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Aufenthaltstitel: Fristennotiz und nächster Schritt / aufenthaltstitel fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -206,19 +199,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Aktualitätsfilter:** Herkunftsland, Schutzstatus, Dokumentenlage, Identität, Passbeschaffung, Zumutbarkeit, Vulnerabilität und aktuelle Lageberichte/live verfügbare Gerichtsquellen sind tragend; bei Lagefragen immer Datum und Erkenntnisbasis nennen.
 - **Output-Pflicht:** Entscheidungsbaum mit Sofortfrist, zuständiger Behörde/Gericht, benötigten Unterlagen, Beweisnot-/Zumutbarkeitsargumenten und nächstem rechtssicheren Schritt.
 
-## 4. `spezial-aufenthg-fristen-form-und-zustaendigkeit`
+## 4. `spezial-aufenthg-fristen-form-und-zuständigkeit`
 
 **Fokus:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
 
 # Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg / aufenthg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

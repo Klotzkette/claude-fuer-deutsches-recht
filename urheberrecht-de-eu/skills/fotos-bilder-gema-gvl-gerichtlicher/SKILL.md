@@ -1,42 +1,26 @@
 ---
 name: fotos-bilder-gema-gvl-gerichtlicher
-description: "Fotos Bilder Gema GVL Gerichtlicher im Plugin Urheberrecht De Eu: prüft konkret Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung im Urheberrecht De Eu: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Fotos Bilder Gema GVL Gerichtlicher
+# Fotos, Bilder und Design
 
 ## Arbeitsbereich
 
-**Fotos Bilder Gema GVL Gerichtlicher** ordnet den Fall über die tragenden Prüffelder: Prueft Lichtbildwerk, Lichtbild, Design. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `fotos-bilder-design` | Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung. |
-| `gema-gvl-verwertungsgesellschaften` | Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung. |
-| `gerichtlicher-schriftsatz` | Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten. |
+Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheberrecht De Eu klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `fotos-bilder-design`
-
-**Fokus:** Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung.
-
-# Fotos, Bilder und Design
 
 ## Fachkern: Fotos, Bilder und Design
-- **Spezialgegenstand:** Fotos, Bilder und Design. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
 - **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -56,7 +40,6 @@ Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbe
 - §§ 22 ff. KUG
 - DesignG
 
-
 Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Leitfragen
@@ -64,7 +47,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Ist das Bild Werk oder Lichtbild?
 - Welche Lizenzbedingungen und Model Releases gibt es?
 - Ist Bearbeitung, Ausschnitt, Thumbnail oder KI-Variation erlaubt?
-
 
 ## Prüflogik
 
@@ -84,7 +66,6 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Stocklizenz-Ampel
 - Abmahnungsantwort
 
-
 ## Qualitätsfilter
 
 - Stocklizenzen sind oft eng. Nicht von Download auf freie Nutzung schließen.
@@ -96,142 +77,10 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 
 Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
 
-## 2. `gema-gvl-verwertungsgesellschaften`
+## Normen & Rechtsprechung
 
-**Fokus:** Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung.
+Konkret zu prüfen:
 
-# GEMA, GVL und Verwertungsgesellschaften
-
-## Fachkern: GEMA, GVL und Verwertungsgesellschaften
-- **Spezialgegenstand:** GEMA, GVL und Verwertungsgesellschaften. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- VGG
-- UrhG §§ 54 ff.
-- GEMA/GVL-Regelwerke als Nutzerquelle
-
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Rechte werden kollektiv wahrgenommen?
-- Ist das Werk richtig angemeldet und sind Splits plausibel?
-- Welche Nutzung ist tariffähig oder individuell zu lizenzieren?
-
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Meldecheckliste
-- Ausschüttungs- und Split-Vermerk
-- Tarifanfrage
-
-
-## Qualitätsfilter
-
-- GEMA-Rechte decken nicht jede Synchronisation, jedes Masterrecht oder jeden KI-Fall.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## 3. `gerichtlicher-schriftsatz`
-
-**Fokus:** Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten.
-
-# Schriftsatz und Antrag im Urheberrecht
-
-## Fachkern: Schriftsatz und Antrag im Urheberrecht
-- **Spezialgegenstand:** Schriftsatz und Antrag im Urheberrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- §§ 97 ff. UrhG
-- ZPO
-- GKG/RVG nur wenn belegt
-
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Ansprüche werden kumuliert?
-- Welche Anlagen belegen Werk, Rechtekette, Nutzung und Schaden?
-- Welche Anträge sind vollstreckbar?
-
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Schriftsatzgerüst
-- Anlagenverzeichnis
-- Beweis- und Glaubhaftmachungsliste
-
-
-## Qualitätsfilter
-
-- Anträge müssen konkret genug für Vollstreckung und Plattformdurchsetzung sein.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+- § 72 UrhG (Lichtbilder)
+- § 23 KUG (Recht am eigenen Bild)
+- Art. 6, 9 DSGVO

@@ -1,0 +1,247 @@
+---
+name: mietkaution-rueckforderung
+description: "Prüfungslinie für mietkaution rueckforderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle im Mietrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Mietkaution-Rückforderung
+
+## Arbeitsbereich
+
+Prüfungslinie für mietkaution rueckforderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietkaution-Rückforderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Zweck
+
+Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges Streitthema. Strukturierte Bearbeitung des Mieter-Anspruchs.
+
+## Eingaben
+
+- Mietvertrag mit Kautions-Vereinbarung
+- Kautions-Höhe und Nachweis Bareinzahlung
+- Auszugs-Datum
+- Übergabe-Protokoll
+- Letzter Betriebskosten-Abrechnungs-Stand
+- Bisheriger Schriftwechsel
+- Bei Anlage: Bank-Nachweis Anlage
+
+## Schritt 1 — Höchstgrenze § 551 BGB
+
+- **Maximal drei Monatsmieten netto kalt**
+- Bei überhöhter Kaution Rückforderungs-Anspruch des Überschusses
+- **BGH 30.06.2004, VIII ZR 243/03**: Begrenzung § 551 Abs. 1 BGB auf 3 Monatsmieten netto-kalt; Ueberschreitung partial unwirksam (dejure.org/2004,2143).
+
+## Schritt 2 — Anlage-Pflicht § 551 Abs. 3 BGB
+
+### Vermieter-Pflicht
+
+- **Insolvenzgesichert getrennt vom eigenen Vermögen**
+- **Übliche Verzinsung** (Spar-Konto-Zinssatz)
+- **Erträge** stehen dem Mieter zu
+- **Banken-Konto** typisch — gesondertes "Mietkauto-Konto"
+
+### Verstoß-Folge
+
+- Mieter-Anspruch auf vorzeitige Rückforderung
+- Schadensersatz wegen Pflichtverletzung
+- **BGH 09.06.2010, VIII ZR 189/09**: Insolvenzgesicherte Anlage als Schutzzweck § 551 Abs. 3 BGB; bei Pflichtverletzung Schadensersatzanspruch (dejure.org/2010,11320).
+
+## Schritt 3 — Abrechnungs-Pflicht des Vermieters
+
+### Angemessene Frist
+
+- **BGH 18.01.2006, VIII ZR 71/05**: Abrechnungsfrist nach Mietende ueblicherweise sechs Monate; konkrete Hoechstdauer einzelfallabhaengig (dejure.org/2006,484).
+- Bei längerer Frist Recht-fertigungsbedarf des Vermieters
+- Bei kurzfristigen Konstellationen drei Monate
+
+### Inhalt der Abrechnung
+
+- Auflistung Mängel-Beseitigungs-Kosten
+- Offene Mietforderungen
+- Betriebskosten-Saldo
+- Zinsen auf Kaution
+- Verbleibender Betrag zur Rückzahlung
+
+## Schritt 4 — Einbehalts-Voraussetzungen
+
+### Offene Mietforderungen
+
+- Rückständige Mieten
+- Mietminderungs-Streit
+- Verzinsung
+
+### Schaden an der Wohnung
+
+- **Nicht** für gewöhnliche Abnutzung
+- **Schadensersatz** für übermäßige Abnutzung § 538 BGB iVm § 280 BGB
+
+### Nachzahlung Betriebskosten
+
+- **Sicherheits-Einbehalt** zulässig bis Abrechnung der laufenden Periode
+- **BGH 18.01.2006, VIII ZR 71/05**: Vermieter darf Teil der Kaution bis zur naechsten Betriebskostenabrechnung einbehalten, wenn Nachforderung zu erwarten (dejure.org/2006,484).
+
+### Schönheitsreparaturen
+
+- **Wirksamkeit der Klausel** prüfen — viele Klauseln unwirksam
+- **BGH 18.03.2015, VIII ZR 185/14** (Aufgabe der „starren" Fristenplaene): Klauseln, die Schoenheitsreparaturen-Pflicht ohne Beruecksichtigung des konkreten Verschleisses vorschreiben, sind unwirksam (dejure.org/2015,4682).
+- **BGH 22.08.2018, VIII ZR 277/16**: Schoenheitsreparaturen-Klausel bei unrenoviert uebernommener Wohnung — § 538 BGB; ohne Ausgleich unwirksam (dejure.org/2018,21586).
+
+## Schritt 5 — Forderungs-Schreiben
+
+```
+[Briefkopf Mieter]
+
+[Datum]
+
+An [Vermieter mit Adresse]
+
+Per Einschreiben
+
+Mietkaution für [Anschrift Mietsache]
+Rückforderung der Kaution
+
+Sehr geehrte Damen und Herren,
+
+ich bin am [Auszugsdatum] aus der oben genannten Wohnung
+ausgezogen. Die Übergabe ist gemäß Protokoll vom [Datum]
+ohne Beanstandungen erfolgt.
+
+Eine Kautions-Abrechnung haben Sie mir bislang nicht
+vorgelegt. Die angemessene Abrechnungs-Frist von sechs
+Monaten ist mittlerweile abgelaufen.
+
+Ich fordere Sie auf, die Kaution in Höhe von EUR [Betrag]
+zzgl. der zugehörigen Zinsen bis zum [Frist + zwei Wochen]
+an mich zurückzuzahlen.
+
+Konto: [Bankverbindung]
+
+Sollte die Zahlung nicht erfolgen, behalte ich mir
+gerichtliche Schritte vor — einschließlich Forderung
+der Anwaltskosten gem. § 286 BGB.
+
+Mit freundlichen Grüßen
+```
+
+## Schritt 6 — Mahnverfahren
+
+### Vorteil
+
+- Schnell und kostengünstig
+- Mahnbescheid bei AG zentralisiert
+- Bei Widerspruch des Vermieters Übergang in streitiges Verfahren
+
+### Streitwert
+
+- Bezifferte Forderung Kaution plus Zinsen plus Anwaltskosten
+
+## Schritt 7 — Klageverfahren
+
+### Sachlich
+
+- AG bei Wohnraum-Mietsache § 23 Nr. 2 a) GVG ausschließlich
+
+### Örtlich
+
+- AG des Belegenheits-Orts § 29a ZPO
+
+### Beweislast
+
+- **Mieter** beweist Auszug und Kautions-Zahlung
+- **Vermieter** beweist Einbehalts-Berechtigung (Schaden Forderung)
+
+## Schritt 8 — Verjährung
+
+- **Drei Jahre** § 195 BGB
+- Ab Schluss des Jahres in dem Anspruch entstanden und Mieter Kenntnis hat (Auszug)
+- Verlängerung über Mahnverfahren etc.
+
+## Schritt 9 — Spezielle Konstellationen
+
+### Bankbürgschaft als Kaution
+
+- Anspruch auf Rückgabe der Bürgschaftsurkunde
+- Vermieter darf nur bei festgestelltem Anspruch ziehen
+
+### Sparbuch verpfändet
+
+- Pfandfreigabe nach Abrechnung
+
+### Wechsel des Eigentümers während Mietzeit
+
+- Kautions-Verwaltung wechselt auf Erwerber § 566a BGB
+- Erwerber haftet
+- Veräußerer haftet subsidiär § 566a Satz 2 BGB
+
+### Sonderfälle Tod Insolvenz Vermieter
+
+- Bei Insolvenz Vermieter — Kaution insolvenzgeschützt durch separate Anlage
+- Bei Verstoß Vermieters: Schadensersatz Vermögensmischung
+
+## Schritt 10 — Sonderfall Gewerbe-Miete
+
+- § 551 BGB **nicht** anwendbar
+- Vertragliche Vereinbarung gilt
+- AGB-Kontrolle Klausel
+- BGH 19.06.2013, XII ZR 137/12 (Gewerbemiete, Buergschaft als Kaution; § 307 BGB-Kontrolle; dejure.org/2013,13420).
+
+## Schritt 11 — Strategie
+
+### Pro Mieter
+
+- Schadensbild prüfen vor Übergabe
+- Übergabe-Protokoll fördern (Foto-Dokumentation)
+- Mietvertrags-Klauseln prüfen (Schönheitsreparaturen Renovierung Klausel oft unwirksam)
+- Mängel-Anzeigen während Mietzeit gewahrt?
+
+### Vermieter-Sicht (Verteidigung)
+
+- Übergabe-Protokoll mit konkreten Mängel-Befunden
+- Sachverständigen-Gutachten bei Schaden
+- Belege zu Kosten
+
+## Schritt 12 — Beweissicherung Mieter
+
+- **Übergabe-Protokoll** mit Fotos
+- **Kautions-Quittung** Originaleinzahlung
+- **Mängel-Anzeigen** im Mietverlauf
+- **Schadens-Fotos** vor und nach
+- **Schlüssel-Rückgabe-Quittung**
+
+## Ausgabe
+
+- `kaution-rueckforderung-{az}.md`
+- Forderungs-Schreiben Vorlage
+- Mahnbescheid-Vorbereitung
+- Klage-Erstentwurf
+- Frist im Fristenbuch (Verjährung drei Jahre)
+- Streitwert-Schätzung
+
+## Quellen
+
+- BGB §§ 538 280 286 551 566a
+- ZPO §§ 29a 689 ff. (Mahnverfahren)
+- GVG § 23
+- BGH VIII. Zivilsenat nur mit Datum, Aktenzeichen und frei prüfbarer Quelle
+
+---
+
+## Audit-Hinweis
+
+**Datum:** 27.05.2026
+
+Bei diesem Skill wurden drei halluzinierte BGH-Aktenzeichen entfernt oder ersetzt:

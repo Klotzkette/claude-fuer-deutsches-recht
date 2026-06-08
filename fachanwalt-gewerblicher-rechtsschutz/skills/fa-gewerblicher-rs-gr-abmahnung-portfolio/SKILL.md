@@ -7,10 +7,10 @@ description: "FA Gewerblicher RS GR Abmahnung Portfolio im Plugin Fachanwalt Gew
 
 ## Arbeitsbereich
 
-**FA Gewerblicher RS GR Abmahnung Portfolio** ordnet den Fall über die tragenden Prüffelder: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Gewerblicher, Abmahnung im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**FA Gewerblicher RS GR Abmahnung Portfolio** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt Gewerblicher, Abmahnung im gewerblichen Rechtsschutz. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
 | `gr-abmahnung-workflow` | Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte. |
@@ -18,12 +18,12 @@ description: "FA Gewerblicher RS GR Abmahnung Portfolio im Plugin Fachanwalt Gew
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `allgemein`
 
@@ -37,8 +37,6 @@ description: "FA Gewerblicher RS GR Abmahnung Portfolio im Plugin Fachanwalt Gew
 - **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-
 
 # Fachanwalt Gewerblicher Rechtsschutz — Allgemein
 
@@ -163,7 +161,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
-
 
 ## Qualitäts-Hardening
 
@@ -399,7 +396,7 @@ Dieser Skill steuert die systematische Pflege eines Schutzrechtsportfolios: Fris
 5. Output: Portfolioaudit-Tabelle, Fristenplan, Kostenschätzung, Strategiememo?
 
 ## Plugin-Kontext
-Anschluss-Skills: `spezial-markenanmeldung-compliance-dokumentation-und-akte`, `spezial-rechtsschutz-fristen-form-und-zustaendigkeit`, `workflow-fristen-und-risikoampel`.
+Anschluss-Skills: `spezial-markenanmeldung-compliance-dokumentation-und-akte`, `spezial-rechtsschutz-fristen-form-und-zuständigkeit`, `workflow-fristen-und-risikoampel`.
 
 ## Quellenregel
 - DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu); EPA: [epo.org](https://www.epo.org).

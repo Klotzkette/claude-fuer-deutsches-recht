@@ -7,25 +7,25 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 
 ## Arbeitsbereich
 
-**Wiedereinsetzung Frist Buergergeld Sanktionen** ordnet den Fall über die tragenden Prüffelder: Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Wiedereinsetzung Frist Buergergeld Sanktionen** ordnet den Fall über die tragenden Prüfungslinien: Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
 | `buergergeld-sanktionen-31a-sgb-ii` | Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine. |
-| `krankenkassen-krankengeld-44-sgb-v` | Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften fuer Selbststaendige. Liefert Pruefraster und Strategie bei Streit. |
+| `krankenkassen-krankengeld-44-sgb-v` | Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Pruefraster und Strategie bei Streit. |
 | `schwerbehindertenausweis-merkzeichen-pruefen` | Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Pruefraster. |
-| `widerspruch-ohne-anwalt-einreichen` | Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persoenliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt. |
+| `widerspruch-ohne-anwalt-einreichen` | Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wiedereinsetzung-frist-67-sgg`
 
@@ -40,7 +40,6 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -60,7 +59,7 @@ Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst
 ## Fachbegriffe (kurz erklaert)
 
 - **Wiedereinsetzung in den vorigen Stand**: Die Frist wird neu gewaehrt, als haetten Sie sie nicht versaeumt.
-- **Schuldlose Versaeumnis**: Sie konnten nichts dafuer.
+- **Schuldlose Versaeumnis**: Sie konnten nichts dafür.
 - **Glaubhaftmachung**: Sie muessen den Grund nicht beweisen wie vor Gericht, aber wahrscheinlich machen (z.B. mit eidesstattlicher Versicherung).
 - **Antrag**: Sie muessen ausdruecklich Wiedereinsetzung beantragen — kommt nicht von alleine.
 
@@ -71,7 +70,7 @@ Sie haben die Frist verpasst. Ohne Ihre Schuld. Es gibt eine Rettung. Sie heisst
 - **§ 67 Abs. 2 SGG** — Antrag binnen 2 Wochen nach Wegfall des Hindernisses, max. 1 Jahr ab Fristende.
 - **§ 67 Abs. 3 SGG** — Die versaeumte Handlung muss nachgeholt werden.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie wirklich kein Verschulden trifft
 
@@ -80,7 +79,7 @@ Anerkannt als unverschuldet:
 - **Schwere Krankheit** mit Krankenhaus / Bettlaegerigkeit (Attest noetig)
 - **Naturereignisse** (Hochwasser, Sturm)
 - **Postfehler** (Brief nicht zugestellt; schwer beweisbar)
-- **Falsche Auskunft der Behoerde** (z.B. falsche Rechtsbehelfsbelehrung)
+- **Falsche Auskunft der Behörde** (z.B. falsche Rechtsbehelfsbelehrung)
 - **Sprachprobleme** mit Hindernis (z.B. kein Brief in der Muttersprache, obwohl klar war, dass nur diese verstanden wird) — vorsichtig, eher selten
 - **Tod naher Angehoeriger** und damit verbundene Belastung
 
@@ -93,12 +92,12 @@ Nicht anerkannt:
 
 ### Schritt 2 — Frist beachten: 2 Wochen ab Hindernisende
 
-Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit fuer den Antrag. Und gleichzeitig muessen Sie die versaeumte Handlung (also Widerspruch oder Klage) nachholen.
+Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit für den Antrag. Und gleichzeitig muessen Sie die versaeumte Handlung (also Widerspruch oder Klage) nachholen.
 
 ### Schritt 3 — Antrag schreiben
 
 ```
-[Behoerde / SG] [Ort, Datum]
+[Behörde / SG] [Ort, Datum]
 
 Az: [aus dem Bescheid]
 
@@ -158,7 +157,7 @@ Mir ist bekannt, dass eine falsche eidesstattliche Versicherung nach § 156 StGB
 
 ### Schritt 6 — Geduldig warten
 
-Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, koennen Sie dagegen vorgehen.
+Die Behörde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, koennen Sie dagegen vorgehen.
 
 ## Worauf Sie besonders achten muessen
 
@@ -172,7 +171,7 @@ Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 - "Vergessen" als Grund → reicht nicht
 - 2-Wochen-Frist verpasst → Wiedereinsetzung selbst ist verspaetet
 - Antrag ohne Nachholung des Widerspruchs → erfolglos
-- Kein Beleg fuer den Grund → schwer beweisbar
+- Kein Beleg für den Grund → schwer beweisbar
 
 ## Querverweise
 
@@ -180,12 +179,11 @@ Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 - `widerspruchsfrist-84-sgg` — die Widerspruchsfrist selbst
 - `fristen-berechnen-sgg-laien` — alle Fristen
 - `widerspruchsbescheid-was-jetzt` — wenn Widerspruchsfrist gerade noch geht
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — fuer komplexe Wiedereinsetzungs-Faelle
+- `wann-doch-anwalt-grenzfaelle-sozialgericht` — für komplexe Wiedereinsetzungs-Faelle
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wichtigen Faellen lassen Sie sich bei VdK / SoVD beraten.
-
 
 ## Qualitäts-Hardening
 
@@ -209,7 +207,6 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Sanktionstatbestaende
 
 ### Pflichtverletzung § 31 SGB II
@@ -222,7 +219,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## Sanktionshoehe nach aktueller Gesetzeslage
 
-- Regelminderung gestuft: erste Pflichtverletzung 10 v. H. fuer einen Monat, weitere Verletzungen 20 v. H. bzw. 30 v. H. — die genauen Dauerregelungen sind nach den Reformen 2023/2024 differenziert und nicht mehr pauschal "3 Monate" bei jeder Stufe. Aktuellen Wortlaut § 31a SGB II vor Anwendung pruefen.
+- Regelminderung gestuft: erste Pflichtverletzung 10 v. H. für einen Monat, weitere Verletzungen 20 v. H. bzw. 30 v. H. — die genauen Dauerregelungen sind nach den Reformen 2023/2024 differenziert und nicht mehr pauschal "3 Monate" bei jeder Stufe. Aktuellen Wortlaut § 31a SGB II vor Anwendung pruefen.
 - § 31a Abs. 7 SGB II: vollstaendiger Wegfall des Regelbedarfs in der Sonderkonstellation der bewussten Verweigerung einer zumutbaren Arbeit ("Totalentzug") trotz BVerfG 1 BvL 7/16 zulaessig, weil eng begrenzt und mit Mitwirkungsobliegenheit verknuepft — vor Anwendung im Mandat live verifizieren.
 - BVerfG 1 BvL 7/16 vom 05.11.2019 verbietet nur generelle Sanktionen ueber 30 v. H. und 100-v.-H.-Totalentzug. Im engen Sonderbereich des Abs. 7 hat der Gesetzgeber das Instrument unter strengen Voraussetzungen reaktiviert.
 
@@ -233,7 +230,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## Verteidigung
 
-1. Anhoerung pruefen — war sie ordnungsgemaess?
+1. Anhörung pruefen — war sie ordnungsgemaess?
 2. Sanktionsgrund war ueberhaupt einschlaegig?
 3. Wichtiger Grund (§ 31 Abs. 1 Satz 2 SGB II)?
 4. Verhaeltnismaessigkeit?
@@ -242,14 +239,14 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 ## Pruefraster
 
 1. Welche Pflichtverletzung?
-2. Anhoerung erfolgt?
+2. Anhörung erfolgt?
 3. Wichtiger Grund?
 4. Sanktionshoehe rechtskonform?
 5. Widerspruch innerhalb 1 Monat?
 
 ## 3. `krankenkassen-krankengeld-44-sgb-v`
 
-**Fokus:** Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften fuer Selbststaendige. Liefert Pruefraster und Strategie bei Streit.
+**Fokus:** Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Pruefraster und Strategie bei Streit.
 
 # Krankenkassen Krankengeld 44 Sgb V
 
@@ -261,14 +258,13 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Anspruchsvoraussetzungen
 
 § 44 SGB V: Versicherte erhalten Krankengeld wenn Krankheit sie arbeitsunfaehig macht und die Krankheit durch Aerztin oder Arzt festgestellt wurde.
 
 ## Hoehe
 
-- 70 Prozent des regelmaessigen Bruttoarbeitsentgelts.
+- 70 Prozent des regelmäßigen Bruttoarbeitsentgelts.
 - Maximal 90 Prozent des Nettoarbeitsentgelts.
 - Beitragspflichtig zur Renten- und Arbeitslosenversicherung.
 
@@ -321,7 +317,6 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Norm- und Bewertungsanker
 
 - SGB IX §§ 152 ff. für Feststellung von Grad der Behinderung und gesundheitlichen Merkmalen.
@@ -354,7 +349,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 - Landesblindengeld und steuerliche Pauschbeträge getrennt vom Ausweisverfahren prüfen.
 
 ### Gl — gehoerlos
-- Gehoerlosengeld in einigen Laendern.
+- Gehoerlosengeld in einigen Ländern.
 
 ### RF — Rundfunkbeitragsbefreiung
 - Regelmäßig Rundfunkbeitragsermäßigung; echte Befreiung nur bei eigener sozial-/rundfunkrechtlicher Grundlage. Nicht automatisch versprechen.
@@ -379,7 +374,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## 5. `widerspruch-ohne-anwalt-einreichen`
 
-**Fokus:** Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persoenliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt.
+**Fokus:** Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt.
 
 # Widerspruch einreichen — die sicheren Wege
 
@@ -391,14 +386,13 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
-Sie haben den Widerspruch geschrieben. Jetzt muss er zur Behoerde — und zwar nachweisbar. Diese Skill zeigt die Wege, die wirklich funktionieren, und worauf Sie achten muessen.
+Sie haben den Widerspruch geschrieben. Jetzt muss er zur Behörde — und zwar nachweisbar. Diese Skill zeigt die Wege, die wirklich funktionieren, und worauf Sie achten muessen.
 
 ## In einfacher Sprache
 
-Den Widerspruch koennen Sie auf mehrere Arten abschicken. Wichtig ist: Sie brauchen einen Beweis, dass er angekommen ist. Sonst kann die Behoerde sagen, sie hat ihn nie bekommen.
+Den Widerspruch koennen Sie auf mehrere Arten abschicken. Wichtig ist: Sie brauchen einen Beweis, dass er angekommen ist. Sonst kann die Behörde sagen, sie hat ihn nie bekommen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -408,23 +402,23 @@ Den Widerspruch koennen Sie auf mehrere Arten abschicken. Wichtig ist: Sie brauc
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Zugangsnachweis**: Beweis, dass die Behoerde Ihren Brief bekommen hat.
+- **Zugangsnachweis**: Beweis, dass die Behörde Ihren Brief bekommen hat.
 - **Einschreiben mit Rueckschein**: Brief, bei dem der Empfaenger unterschreibt; Sie bekommen den Rueckschein zurueck.
 - **Zur Niederschrift**: Sie diktieren auf der Geschaeftsstelle, der Mitarbeiter schreibt es auf.
-- **Mein Justizpostfach (MJP)**: Sicheres elektronisches Postfach fuer Buerger (seit 2024).
+- **Mein Justizpostfach (MJP)**: Sicheres elektronisches Postfach für Buerger (seit 2024).
 
 ## Rechtsgrundlagen
 
-- **§ 84 Abs. 1 S. 1 SGG** — Schriftlich oder zur Niederschrift bei der Behoerde.
+- **§ 84 Abs. 1 S. 1 SGG** — Schriftlich oder zur Niederschrift bei der Behörde.
 - **§ 36a SGB I** — Elektronische Kommunikation.
 - **§ 65a SGG** — Elektronische Einreichung beim SG.
 - **§ 130 BGB analog** — Zugang muss nachweisbar sein.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Adresse aus dem Bescheid finden
 
-Im Bescheid oben links steht der Absender. Das ist Ihre Adresse. Wichtig: nicht an die Hauptverwaltung, sondern an die Behoerde, die den Bescheid erlassen hat.
+Im Bescheid oben links steht der Absender. Das ist Ihre Adresse. Wichtig: nicht an die Hauptverwaltung, sondern an die Behörde, die den Bescheid erlassen hat.
 
 ### Schritt 2 — Versandweg waehlen
 
@@ -442,27 +436,27 @@ Im Bescheid oben links steht der Absender. Das ist Ihre Adresse. Wichtig: nicht 
 
 So geht es:
 
-1. Bringen Sie zwei Exemplare des Widerspruchs zur Behoerde.
+1. Bringen Sie zwei Exemplare des Widerspruchs zur Behörde.
 2. Bitten Sie um einen Empfangsstempel auf Ihrem Exemplar.
 3. Aufheben.
 
 Beispiel: "Bitte bestaetigen Sie mir auf meinem Exemplar den Empfang."
 
-### Schritt 4 — Niederschrift bei der Behoerde
+### Schritt 4 — Niederschrift bei der Behörde
 
-§ 84 Abs. 1 S. 1 SGG erlaubt: Sie gehen zur Behoerde und diktieren den Widerspruch ins Protokoll. Ein Mitarbeiter schreibt es auf, Sie unterschreiben. Sie bekommen eine Kopie. Geht meistens nur nach Terminabsprache.
+§ 84 Abs. 1 S. 1 SGG erlaubt: Sie gehen zur Behörde und diktieren den Widerspruch ins Protokoll. Ein Mitarbeiter schreibt es auf, Sie unterschreiben. Sie bekommen eine Kopie. Geht meistens nur nach Terminabsprache.
 
 ### Schritt 5 — Mein Justizpostfach (MJP)
 
-Seit 2024 fuer alle Buerger nutzbar:
+Seit 2024 für alle Buerger nutzbar:
 
 1. Anmelden unter www.mein-justizpostfach.de
 2. Identifikation per Personalausweis (Online-Funktion) oder ELSTER-Zertifikat.
-3. Nachricht an die Behoerde verfassen.
+3. Nachricht an die Behörde verfassen.
 4. Anhaenge als PDF.
 5. Abschicken; Quittung speichern.
 
-Wichtig: Pruefen Sie, ob die Behoerde MJP unterstuetzt. Krankenkassen oft, Jobcenter manchmal.
+Wichtig: Pruefen Sie, ob die Behörde MJP unterstuetzt. Krankenkassen oft, Jobcenter manchmal.
 
 ### Schritt 6 — Fax
 
@@ -470,11 +464,11 @@ Wichtig: Pruefen Sie, ob die Behoerde MJP unterstuetzt. Krankenkassen oft, Jobce
 - Sendebericht ausdrucken und aufheben.
 - "OK" im Sendebericht ist Beweis.
 
-Achtung: Fax wird allmaehlich abgeschafft. Pruefen Sie, ob Faxgeraet bei der Behoerde noch aktiv ist.
+Achtung: Fax wird allmaehlich abgeschafft. Pruefen Sie, ob Faxgeraet bei der Behörde noch aktiv ist.
 
 ### Schritt 7 — Beweis aufheben
 
-Egal welcher Weg: Sie brauchen einen Beweis fuer den Tag, an dem Ihr Widerspruch bei der Behoerde war. Aufheben mindestens 5 Jahre.
+Egal welcher Weg: Sie brauchen einen Beweis für den Tag, an dem Ihr Widerspruch bei der Behörde war. Aufheben mindestens 5 Jahre.
 
 ## Worauf Sie besonders achten muessen
 
@@ -484,7 +478,7 @@ Egal welcher Weg: Sie brauchen einen Beweis fuer den Tag, an dem Ihr Widerspruch
 
 ## Typische Fehler
 
-- Per Email geschickt, ohne dass Behoerde das erlaubt → kann unwirksam sein
+- Per Email geschickt, ohne dass Behörde das erlaubt → kann unwirksam sein
 - Normaler Brief, keine Nachweise → bei Streit verloren
 - Falscher Empfaenger (Hauptverwaltung statt Sachbearbeitung) → kann ankommen, aber nicht rechtzeitig dort sein
 - Brief mit alter Adresse → aktuelle Adresse aus Bescheid uebernehmen
@@ -494,14 +488,13 @@ Egal welcher Weg: Sie brauchen einen Beweis fuer den Tag, an dem Ihr Widerspruch
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — das Verfahren
 - `widerspruchsfrist-84-sgg` — Frist
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP fuer SG-Klage
+- `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP für SG-Klage
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Klage per Post
 - `einreichung-fax-und-grenzen-sozialgericht` — Fax
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. MJP seit 2024 fuer Buerger oeffentlich. § 65a SGG fuer SG-Klagen. § 36a SGB I fuer Behoerden-Kommunikation. Pruefen Sie im Zweifel den Stand bei Ihrer Behoerde.
-
+Stand: 05/2026. MJP seit 2024 für Buerger oeffentlich. § 65a SGG für SG-Klagen. § 36a SGB I für Behörden-Kommunikation. Pruefen Sie im Zweifel den Stand bei Ihrer Behörde.
 
 ## Qualitäts-Hardening
 

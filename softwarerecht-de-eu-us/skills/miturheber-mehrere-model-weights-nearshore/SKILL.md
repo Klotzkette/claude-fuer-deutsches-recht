@@ -1,43 +1,25 @@
 ---
 name: miturheber-mehrere-model-weights-nearshore
-description: "Miturheber Mehrere Model Weights Nearshore im Softwarerecht (DE/EU/US): prüft konkret Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertun. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung im Softwarerecht De Eu Us: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Miturheber Mehrere Model Weights Nearshore
+# Mehrere Entwickler und Miturheberschaft
 
 ## Arbeitsbereich
 
-**Miturheber Mehrere Model Weights Nearshore** ordnet den Fall über die tragenden Prüffelder: Prüft Teams, Co-Authors, Modulbeiträge. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `miturheber-mehrere-entwickler` | Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung. |
-| `model-weights-software-license` | Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung. |
-| `nearshore-offshore-development` | Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle. |
-| `nis2-software-vendor` | Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe. |
+Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Softwarerecht De Eu Us klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: UrhG §§ 69a-g, BGB §§ 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `miturheber-mehrere-entwickler`
-
-**Fokus:** Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung.
-
-# Mehrere Entwickler und Miturheberschaft
 
 ## Fachkern: Mehrere Entwickler und Miturheberschaft
-- **Spezialgegenstand:** Mehrere Entwickler und Miturheberschaft wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
@@ -74,177 +56,6 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 - Welche Nachweise liefert Git, Ticketsystem, Architekturentscheidungen und Code Review?
 
 **Mindest-Output:** Contributor-Matrix mit Rechteinhaber, Beitrag, Verwertungsrecht und Blocker.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 2. `model-weights-software-license`
-
-**Fokus:** Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung.
-
-# Model Weights Software License
-
-## Fachkern: Model Weights Software License
-- **Spezialgegenstand:** Model Weights Software License wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Model Weights Software License** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- UrhG/US Copyright ungeklärt prüfen
-- AI model licenses
-- Data/Trade secrets
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Was wird lizenziert: weights, architecture, tokenizer, code, dataset, API access oder output?
-- Welche Nutzung ist erlaubt: research, commercial, redistribution, fine-tuning, hosting?
-- Welche Acceptable-Use- und safety clauses sind durchsetzbar?
-- Welche IP-Unsicherheiten müssen transparent bleiben?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Was wird lizenziert: weights, architecture, tokenizer, code, dataset, API access oder output?
-- Welche Nutzung ist erlaubt: research, commercial, redistribution, fine-tuning, hosting?
-- Welche Acceptable-Use- und safety clauses sind durchsetzbar?
-- Welche IP-Unsicherheiten müssen transparent bleiben?
-
-**Mindest-Output:** Model-License-Review mit Lizenzgegenstand, Nutzungsrechten, AUP und Unsicherheiten.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 3. `nearshore-offshore-development`
-
-**Fokus:** Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle.
-
-# Nearshore/Offshore Development
-
-## Fachkern: Nearshore/Offshore Development
-- **Spezialgegenstand:** Nearshore/Offshore Development wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Nearshore/Offshore Development** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- Rom I
-- UrhG/Directive 2009/24
-- DSGVO Kapitel V
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Welche Länder, Arbeitgeber, Freelancer und Subcontractors schreiben Code?
-- Sind Rechteübertragungen und Vertraulichkeit in jeder Kette wirksam?
-- Welche Remote-Zugriffe auf Daten, Repositories und Produktionssysteme bestehen?
-- Welche Exit- und Audit-Rechte sichern die Rechtekette?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Welche Länder, Arbeitgeber, Freelancer und Subcontractors schreiben Code?
-- Sind Rechteübertragungen und Vertraulichkeit in jeder Kette wirksam?
-- Welche Remote-Zugriffe auf Daten, Repositories und Produktionssysteme bestehen?
-- Welche Exit- und Audit-Rechte sichern die Rechtekette?
-
-**Mindest-Output:** Nearshore-Matrix mit Ländern, Entwicklern, IP-Flow-downs und Datenzugriffen.
-
-## Qualitäts- und Risikofilter
-
-- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
-- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
-- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 4. `nis2-software-vendor`
-
-**Fokus:** Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe.
-
-# NIS-2 Software Vendor
-
-## Fachkern: NIS-2 Software Vendor
-- **Spezialgegenstand:** NIS-2 Software Vendor wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **NIS-2 Software Vendor** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
-
-## Rechts- und Quellenanker
-
-- NIS-2 Directive
-- BSIG-Umsetzung prüfen
-- Supply-chain security
-
-Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
-
-## Intake-Fragen
-
-- Ist der Anbieter selbst reguliert oder nur Lieferant regulierter Kunden?
-- Welche Security-Anforderungen kommen aus Kundenverträgen, Gesetz oder Branchenstandard?
-- Wie schnell sind incidents, vulnerabilities und service disruptions zu melden?
-- Welche audit-, evidence- und subcontractor-Pflichten sind akzeptabel?
-
-## Workflow
-
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
-
-## Tiefencheck für die Akte
-
-- Ist der Anbieter selbst reguliert oder nur Lieferant regulierter Kunden?
-- Welche Security-Anforderungen kommen aus Kundenverträgen, Gesetz oder Branchenstandard?
-- Wie schnell sind incidents, vulnerabilities und service disruptions zu melden?
-- Welche audit-, evidence- und subcontractor-Pflichten sind akzeptabel?
-
-**Mindest-Output:** NIS-2-Lieferkettenmemo mit Pflichtquelle, Gap, Evidence und Vertragsredline.
 
 ## Qualitäts- und Risikofilter
 

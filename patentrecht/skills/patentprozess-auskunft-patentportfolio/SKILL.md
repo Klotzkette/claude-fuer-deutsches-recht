@@ -1,35 +1,21 @@
 ---
 name: patentprozess-auskunft-patentportfolio
-description: "Patentprozess Auskunft Patentportfolio im Patentrecht: prüft konkret Bereitet Folgeansprüche nach Patentverletzung vor, Unterstützt Patentportfolio- und Technikstrategie, Verteidigt gegen Patentabmahnungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bereitet Folgeansprüche nach Patentverletzung vor: Auskunft, Rechnungslegung, Rückruf, Vernichtung, Schadensberechnung, Lizenzanalogie, Verletzergewinn und Daten-/Geheimnisschutz im Patentrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Patentprozess Auskunft Patentportfolio
+# Patentprozess: Auskunft, Rechnungslegung, Schadensersatz
 
 ## Arbeitsbereich
 
-**Patentprozess Auskunft Patentportfolio** ordnet den Fall über die tragenden Prüffelder: Bereitet Folgeansprüche nach Patentverletzung vor, Unterstützt Patentportfolio- und Technikstrategie, Verteidigt gegen Patentabmahnungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `patentprozess-auskunft-rechnungslegung-schadensersatz` | Bereitet Folgeansprüche nach Patentverletzung vor: Auskunft, Rechnungslegung, Rückruf, Vernichtung, Schadensberechnung, Lizenzanalogie, Verletzergewinn und Daten-/Geheimnisschutz. |
-| `patentportfolio-und-technikstrategie` | Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbewerbsmonitoring, defensive Veröffentlichungen, Anmeldepriorisierung, Länderstrategie und Budgetsteuerung. |
-| `abmahnung-patentverletzung-verteidigung` | Verteidigt gegen Patentabmahnungen: Fristen, Unterlassungserklärung, Registerstand, Anspruchsfassung, Nichtverletzung, Rechtsbestand, Vorbenutzungsrecht, Schutzschrift, Vergleich und Mandantenkommunikation. |
+Bereitet Folgeansprüche nach Patentverletzung vor: Auskunft, Rechnungslegung, Rückruf, Vernichtung, Schadensberechnung, Lizenzanalogie, Verletzergewinn und Daten-/Geheimnisschutz. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Patentrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `patentprozess-auskunft-rechnungslegung-schadensersatz`
-
-**Fokus:** Bereitet Folgeansprüche nach Patentverletzung vor: Auskunft, Rechnungslegung, Rückruf, Vernichtung, Schadensberechnung, Lizenzanalogie, Verletzergewinn und Daten-/Geheimnisschutz.
-
-# Patentprozess: Auskunft, Rechnungslegung, Schadensersatz
 
 ## Aufgabe
 
@@ -52,7 +38,6 @@ Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidu
 4. **Geheimhaltungs- und Datenschutzrisiken bei Zahlenmaterial markieren.**
 5. **Vergleichs- und Audit-Klauseln vorbereiten.**
 
-
 ## Prüfmatrix
 
 | Ebene | Prüffrage | Ergebnis |
@@ -72,7 +57,6 @@ Erzeuge je nach Auftrag:
 - Damages Data Room List.
 - Settlement Numbers Memo.
 
-
 ## Anschluss-Skills
 
 - `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
@@ -82,117 +66,3 @@ Erzeuge je nach Auftrag:
 ## Quellenregel
 
 Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. Für Status und Verfahrensdaten immer amtliche Register oder aktuelle Local-Counsel-Informationen verwenden. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; sonst als zu verifizieren markieren.
-
-## 2. `patentportfolio-und-technikstrategie`
-
-**Fokus:** Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbewerbsmonitoring, defensive Veröffentlichungen, Anmeldepriorisierung, Länderstrategie und Budgetsteuerung.
-
-# Patentportfolio und Technikstrategie
-
-## Analyseachsen
-
-1. Produkte und Roadmap.
-2. technische Kernfeatures und Differenzierung.
-3. Wettbewerber und Patentlandschaft.
-4. Länder und Umsatzmärkte.
-5. Fertigung, Lieferkette und Reverse Engineering.
-6. Budget, Timing, Investorenerwartung.
-7. Geheimhaltung versus Offenlegung.
-
-## Strategieoptionen
-
-- Kernpatent breit absichern.
-- Teilanmeldungen und Verbesserungsanmeldungen planen.
-- Gebrauchsmuster als schneller taktischer Schutz.
-- FTO vor Launch priorisieren.
-- Monitoring für kritische Wettbewerber.
-- defensive Veröffentlichung bei nicht schutzwürdigen, aber blockaderelevanten Details.
-- Lizenzierungs- oder Cross-License-Strategie.
-
-## Output
-
-- Portfolio-Landkarte.
-- Anmeldepriorisierung.
-- Recherche- und Monitoringplan.
-- Budget- und Fristenübersicht.
-- Board-/Investor-taugliche Kurzfassung.
-
-## Kosten, Routen und Fristen-Anker
-
-- **DPMA-Anmeldung:** 60 EUR Anmeldegebühr, ab 11. Anspruch je 30 EUR; Prüfungsantrag bis 7 Jahre (§ 44 PatG) für 350 EUR.
-- **EPA-Anmeldung:** ca. 280 EUR Anmeldegebühr, 1.520 EUR Recherchegebühr, 1.890 EUR Prüfungsgebühr, ab 16. Anspruch je 270 EUR (Gebühren regelmäßig prüfen).
-- **PCT:** Internationale Phase 18 Monate ab Priorität; nationale/regionale Phase je nach Staat 30 oder 31 Monate.
-- **Einheitspatent (Unitary Patent):** ab Erteilung Antrag binnen 1 Monat; Jahresgebühr nach UPC-Tarif (geringer als national bei viel-Land-Strategie).
-- **UPC-Opt-Out:** während Übergangszeit (sunrise period) möglich; nach Übergangszeit Opt-out nur eingeschränkt.
-- **Jahresgebühren DPMA:** ab 3. Patentjahr 70 EUR; Steigerung jährlich; ab 20. Jahr 1.940 EUR.
-- **Strategie-Faustregeln:** Kernpatent breit anmelden, Familie auseinanderhalten (DE+EP+US+CN als typisch); Gebrauchsmuster nur für schnellen taktischen Schutz; defensive Veröffentlichung bei Stand-der-Technik-Vorrat.
-- **Investorenkommunikation:** Patent-Status mit Reifegrad (Anmeldung pending vs. erteilt) und geographischer Abdeckung; "Patente angemeldet" ist NICHT identisch mit "erteilt".
-- Falle: 30-Monats-Frist PCT-Übergang in nationale Phase versäumen — Wiedereinsetzung sehr eng (Art. 122 EPÜ unter Voraussetzungen).
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 3. `abmahnung-patentverletzung-verteidigung`
-
-**Fokus:** Verteidigt gegen Patentabmahnungen: Fristen, Unterlassungserklärung, Registerstand, Anspruchsfassung, Nichtverletzung, Rechtsbestand, Vorbenutzungsrecht, Schutzschrift, Vergleich und Mandantenkommunikation.
-
-# Patentabmahnung verteidigen
-
-## Sofortscan
-
-1. Frist und Zustellung.
-2. Absender, Vertreter, Schutzrecht, Anspruchsfassung, Territory.
-3. Geforderte Erklärung: Unterlassung, Auskunft, Rechnungslegung, Rückruf, Vernichtung, Kostenerstattung.
-4. Produktbezug und konkrete Verletzungsbehauptung.
-5. Eilrisiko: einstweilige Verfügung, Messe, Launch, Lieferstopp.
-
-## Verteidigungslinien
-
-- Schutzrecht nicht in Kraft oder falsche Anspruchsfassung.
-- Produkt verwirklicht ein Merkmal nicht.
-- Äquivalenz greift nicht.
-- Rechtsbestand zweifelhaft.
-- Vorbenutzungsrecht oder Lizenz.
-- Erschöpfung oder Lieferketteneinwand.
-- Unterlassungserklärung zu weit, Vertragsstrafe zu riskant, Konzern-/Lieferkettenumfang unklar.
-- Vergleich, Standstill, Design-around oder negative Feststellung.
-
-## Output
-
-- Fristen- und Sofortmaßnahmenplan.
-- Claim Chart Verteidigung.
-- Redline-Risiken der Unterlassungserklärung.
-- Mandantenmail mit Entscheidungsoptionen.
-- Entwurf Antwortschreiben an Gegenseite.
-
-## Regel
-
-Nie empfehlen, eine vorformulierte Unterlassungserklärung ungeprüft zu unterschreiben. Immer Umfang, Vertragsstrafe, Anerkenntniswirkung, Auskunft und Rückruf isoliert prüfen.
-
-## Anker-Normen und Doktrinen
-- **§ 9 PatG:** Allein- und Mitbenutzungsrecht; Verletzungstatbestand.
-- **§ 14 PatG / Art. 69 EPÜ + Protokoll:** Schutzbereich richtet sich nach den Patentansprüchen; Beschreibung und Zeichnungen sind heranzuziehen.
-- **§ 139 PatG:** Unterlassungs- und Schadensersatzanspruch (Schadensersatz dreistufig: konkret, Lizenzanalogie, Gewinnabschöpfung).
-- **§ 140a PatG:** Vernichtung; **§ 140b PatG:** Auskunftsanspruch.
-- **§ 12 PatG:** Vorbenutzungsrecht -- inländische ernsthafte Benutzung vor Prioritätstag schützt vor Verletzung.
-- **Äquivalenzdoktrin** (BGH, Schneidmesser-Linie, vgl. ständige Rspr.): drei Schritte (gleiche Wirkung, Auffindbarkeit, Gleichwertigkeit im Schutzbereich).
-- **Erschöpfung:** rechtmäßig in den EWR in Verkehr gebrachte Erzeugnisse.
-- **FRAND-Pflichten bei SEP:** EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015.
-
-## Schutzschrift
-- Hinterlegung im Zentralen Schutzschriftenregister `schutzschriftenregister.de`; spätestens vor Antragstellung der eV; sechs Monate Gültigkeit.
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

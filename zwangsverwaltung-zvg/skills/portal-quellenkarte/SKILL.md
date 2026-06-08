@@ -14,7 +14,7 @@ Diese Quellenkarte sichert im Bereich **Zwangsverwaltung Zvg** tragende Normen, 
 - `allgemein-workflow-chronologie-workflow-fristen`
 - `berichte-beschlagnahme-mietverwaltung-besitz`
 - `betriebskosten-hausgeld-bieterangebot-bewertung-glaeubiger`
-- `bieterangebote-mieten-oeffentliche`
+- `bieterangebote-mieten-öffentliche`
 - `insolvenz-schnittstelle-instandhaltung-sicherung-zvg`
 - `konten-kassenfuehrung-miet-pachtverwaltung-mieteinzug`
 - `quality-recherche-rechnungslegung`

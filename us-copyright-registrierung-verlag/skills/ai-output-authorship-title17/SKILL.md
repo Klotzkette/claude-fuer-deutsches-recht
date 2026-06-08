@@ -6,15 +6,13 @@ description: "Prueft generative AI outputs nach USCO-Policy: human authorship, s
 # AI Output und Copyrightability
 
 ## Fachkern: AI Output und Copyrightability
-- **Spezialgegenstand:** AI Output und Copyrightability. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Zweck
 
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
+Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug für Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
 
 Dieser Skill macht aus dem Thema **AI Output und Copyrightability** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -23,7 +21,6 @@ Dieser Skill macht aus dem Thema **AI Output und Copyrightability** eine belastb
 - USCO AI Report Part 2 (Copyrightability)
 - USCO Policy Statement zu Werken mit KI-generiertem Material
 - 17 U.S.C. § 102
-
 
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
@@ -41,20 +38,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Was ist menschlich ausgewählt, verändert oder arrangiert?
 - Wie wird im Antrag disclaimed?
 
-
 ## Workflow
 
 1. Human contribution dokumentieren.
 2. AI material abgrenzen.
 3. Registration statement vorbereiten.
 
-
 ## Output
 
 - AI copyrightability memo
 - eCO disclosure draft
 - Evidence of human creativity
-
 
 ## Tiefencheck für die Akte
 
@@ -74,3 +68,19 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 - Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
 - Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
+- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
+- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
+- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+

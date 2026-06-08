@@ -5,7 +5,21 @@ description: "Konform: Mehrparteienkonflikt und Interessenmatrix im Plugin Anlag
 
 # Konform: Mehrparteienkonflikt und Interessenmatrix
 
+## Normenanker
 
+Arbeitsfokus: **Konform: Mehrparteienkonflikt und Interessenmatrix**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Konform: Mehrparteienkonflikt und Interessenmatrix
 - **Konkreter Gegenstand:** Konform: Mehrparteienkonflikt und Interessenmatrix im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

@@ -7,10 +7,10 @@ description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret St
 
 ## Arbeitsbereich
 
-**Stpo Strafrecht Strafverteidigung** ordnet den Fall über die tragenden Prüffelder: StPO, Strafrecht, Strafverteidigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Stpo Strafrecht Strafverteidigung** ordnet den Fall über die tragenden Prüfungslinien: StPO, Strafrecht, Strafverteidigung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-stpo-dokumentenmatrix-und-lueckenliste` | StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-strafrecht-tatbestand-beweis-und-belege` | Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,12 +20,12 @@ description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret St
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-stpo-dokumentenmatrix-und-lueckenliste`
 
@@ -34,11 +34,7 @@ description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret St
 # StPO: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: StPO: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung / stpo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -101,11 +97,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / strafrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -142,11 +134,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine / strafverteidigung schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -183,11 +171,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Zeugenbeistand: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Zeugenbeistand: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Zeugenbeistand: Internationaler Bezug und Schnittstellen / zeugenbeistand internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -218,12 +202,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ## Zeugenbeistand / internationaler Bezug Bausteine
-- **Rechtsgrundlage Zeugenbeistand § 68b StPO:** anwaltliche Hilfe fuer Zeugen in der Vernehmung; auf Antrag oder von Amts wegen bei besonderer Schutzbeduerftigkeit; Ablehnung in eng begrenzten Faellen.
+- **Rechtsgrundlage Zeugenbeistand § 68b StPO:** anwaltliche Hilfe für Zeugen in der Vernehmung; auf Antrag oder von Amts wegen bei besonderer Schutzbeduerftigkeit; Ablehnung in eng begrenzten Faellen.
 - **Anwaltsbestellung Zeugen § 68b II StPO:** Beiordnung wenn Zeugenrechte (insb. §§ 52, 55 StPO) ohne Beistand nicht wahrgenommen werden koennen.
 - **Schutzrechte Zeugen StPO:**
  - **§ 52 StPO Zeugnisverweigerungsrecht Angehoeriger:** Verlobte / Ehegatten / Lebenspartner / Geschwister bis 3. Grad / Verschwaegerte; muss vor Vernehmung belehrt werden.
  - **§ 53 StPO Berufsgeheimnistraeger:** Anwaelte, Aerzte, Geistliche, Journalisten.
- - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko fuer Zeugen / Angehoerige.
+ - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko für Zeugen / Angehoerige.
  - **§ 68 StPO Pruefung Anonymitaet** bei gefaehrdeten Zeugen.
 - **Internationaler Zeugenbeistand:**
  - **Auslaendischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
@@ -235,7 +219,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Adhaesionsverfahren §§ 403-406c StPO:**
  - Zivilrechtliche Anspruchsverfolgung Geschaedigte im Strafverfahren.
  - Stadium: bis Eroeffnungsbeschluss zu beantragen.
-- **Nebenklage §§ 395-402 StPO** fuer Verletzte:
+- **Nebenklage §§ 395-402 StPO** für Verletzte:
  - Antrag bei AG / LG.
  - **§ 395 StPO Anschlussberechtigte:** insb. bei §§ 174-184k, 211, 212, 223 StGB, OWi mit erheblicher Verletzung.
  - **§ 397a StPO Beiordnung Rechtsanwalt** kostenlos bei besonderer Schutzbeduerftigkeit (insbesondere Sexualdelikte, schwere Koerperverletzungen).

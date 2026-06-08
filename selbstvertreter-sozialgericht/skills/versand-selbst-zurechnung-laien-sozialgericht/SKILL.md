@@ -29,14 +29,14 @@ Wenn Sie etwas abschicken, sammeln Sie den Beweis. Sonst kann jemand sagen, der 
 - **Zugangsnachweis**: Beweis, dass der Brief beim Empfaenger ankam.
 - **Sendebericht**: Fax-Beleg mit OK-Vermerk.
 - **Quittung**: Bestaetigung digitaler Sendungen (MJP, ELSTER).
-- **Empfangsstempel**: Behoerden-Stempel auf Ihrem Beleg.
+- **Empfangsstempel**: Behörden-Stempel auf Ihrem Beleg.
 
 ## Rechtsgrundlagen
 
 - **§ 130 BGB analog** — Zugang ist Wirksamkeitsvoraussetzung.
 - **§ 65a SGG** — Elektronische Quittung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Versand mit Beweis je nach Weg
 
@@ -59,7 +59,7 @@ Empfehlung: Pro Sache ein Ordner mit Reitern:
 
 1. Bescheide
 2. Eigene Schreiben (mit Versandbeweisen)
-3. Antworten der Behoerde
+3. Antworten der Behörde
 4. Anwalts- / Beratungsverkehr
 5. Atteste / Beweise
 
@@ -90,7 +90,7 @@ Bei Einschreiben:
 
 ### Schritt 7 — Bei Probleme: Beweis verteidigen
 
-- Hat die Behoerde behauptet, nichts erhalten zu haben?
+- Hat die Behörde behauptet, nichts erhalten zu haben?
 - Legen Sie Sendebericht, Rueckschein oder Stempel vor.
 - Bei Online-Sendungen: digitale Quittung.
 
@@ -119,7 +119,6 @@ Bei Einschreiben:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Standard-Beweispraxis.
-
 
 ## Qualitäts-Hardening
 

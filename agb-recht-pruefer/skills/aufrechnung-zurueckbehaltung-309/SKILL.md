@@ -46,7 +46,7 @@ description: "Norm- und Dogmatik-Skill für Aufrechnung Zurückbehaltung 309: pr
 
 ### BGH-Linie
 - BGH VIII ZR 67/17 zur unwirksamen Aufrechnungsbeschraenkung in Mietvertraegen (Az im Digitalisat verifizieren).
-- BGH XII ZR 17/13 fuer Pachtvertraege.
+- BGH XII ZR 17/13 für Pachtvertraege.
 - BGH KZR 12/15 zur Erstreckung des AGB-Aufrechnungsverbots in B2B-Kontexten unter § 307 BGB.
 
 ### B2B

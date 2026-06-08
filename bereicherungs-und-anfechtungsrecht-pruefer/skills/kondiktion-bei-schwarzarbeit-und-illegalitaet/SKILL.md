@@ -7,7 +7,7 @@ description: "Bei illegale Austauschverhältnisse bereicherungsrechtlich nicht n
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -63,7 +63,6 @@ Dieses Fachmodul greift, wenn illegale Austauschverhältnisse bereicherungsrecht
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

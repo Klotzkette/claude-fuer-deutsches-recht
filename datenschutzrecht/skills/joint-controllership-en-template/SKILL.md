@@ -7,7 +7,7 @@ description: "English language joint controller agreement template under Article
 
 ## Zweck / Purpose
 
-English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
+English-language template for a joint controller agreement under Article 26 GDPR, allocating responsibilities and publishing the essence under Article 26 (2) GDPR. Purpose (DE): Englischsprachige Mustervorlage für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO.
 
 ## Wann dieses Modul hilft
 
@@ -160,7 +160,6 @@ Date: Date:
 - Full texts available via curia.europa.eu.
 - Citation rules: `../../../references/zitierweise.md`.
 ```
-
 
 ## Qualitäts-Hardening
 

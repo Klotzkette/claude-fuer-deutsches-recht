@@ -7,10 +7,10 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 
 ## Arbeitsbereich
 
-**Paragraf Quelle Beweislast Tzbfg** ordnet den Fall über die tragenden Prüffelder: Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Paragraf Quelle Beweislast Tzbfg** ordnet den Fall über die tragenden Prüfungslinien: Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-paragraf-dokumentenmatrix-und-lueckenliste` | Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG. |
 | `spezial-quelle-beweislast-und-darlegungslast` | Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze. |
@@ -18,12 +18,12 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-paragraf-dokumentenmatrix-und-lueckenliste`
 
@@ -38,7 +38,6 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Schnelle Zuordnung von Normen zu Dokumenten und Belegen für die häufigsten arbeitsrechtlichen Streitgegenstände. Das Ergebnis ist eine Matrix mit (a) erforderlichem Dokument, (b) vorhandenem Dokument, (c) fehlendem Dokument und (d) Beschaffungsweg.
@@ -153,7 +152,6 @@ Nach Ausfüllen der Matrix:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Systematische Aufbereitung der Quellen- und Beweislastregeln für arbeitsrechtliche Schriftsätze — von der Darlegungslastverteilung über die abgestufte BAG-Linie bis zum Quellenprotokoll für jeden zitierten Rechtssatz.
@@ -285,7 +283,6 @@ Unsichere Punkte (Live-Check erforderlich):
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 Fertige und anpassbare Textbausteine für die häufigsten TzBfG-Konstellationen — Entfristungsklage, Mandantenbrief und Vergleichsformeln. Alle Bausteine sind Vorlage; anwaltliche Einzelfallprüfung bleibt erforderlich.

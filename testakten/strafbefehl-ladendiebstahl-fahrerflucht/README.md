@@ -148,4 +148,4 @@ Diese Musterakte bildet das vollständige Workflow eines **Strafbefehlsverfahren
 
 ---
 
-*Repository: claude-für-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*
+*Repository: claude-fuer-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*

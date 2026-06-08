@@ -6,11 +6,9 @@ description: "Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 
 # Delikt: Organisationspflicht
 
 ## Fachkern: Delikt: Organisationspflicht
-- **Spezialgegenstand:** Delikt: Organisationspflicht; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -72,11 +70,10 @@ Organisationsverschulden und Verkehrssicherungspflichten im Deliktsrecht prüfen
 
 ## Anschluss-Skills
 
-- deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
+- deliktsrecht-haftung-für-verrichtungen-paragraph-831
 - produzentenhaftung-und-verkehrssicherung
 - delikt-verkehrspflicht-digital
 - delikt-vertrag-konkurrenz
-
 
 ## Quellen
 

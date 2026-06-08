@@ -1,42 +1,39 @@
 ---
 name: fristennotiz-naechster-vertriebsvertraege
-description: "Fristennotiz Naechster Vertriebsvertraege im Plugin Vertragsrecht: prüft konkret Anpassen, Vertriebsvertraege, Prüfung eines eingehenden Lieferanten- oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anpassen: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Fristennotiz Naechster Vertriebsvertraege
+# Anpassen: Fristennotiz und nächster Schritt
 
 ## Arbeitsbereich
 
-**Fristennotiz Naechster Vertriebsvertraege** ordnet den Fall über die tragenden Prüffelder: Anpassen, Vertriebsvertraege, Prüfung eines eingehenden Lieferanten- oder. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Anpassen: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `spezial-anpassen-fristennotiz-und-naechster-schritt` | Anpassen: Fristennotiz und nächster Schritt im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vertriebsvertraege-fristen-form-und-zustaendigkeit` | Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `lieferantenvertrag-pruefung` | Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird. |
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 ff. BGB, NDA, SaaS- — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `spezial-anpassen-fristennotiz-und-naechster-schritt`
-
-**Fokus:** Anpassen: Fristennotiz und nächster Schritt im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Anpassen: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Anpassen: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Anpassen: Fristennotiz und nächster Schritt / anpassen fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -65,268 +62,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 2. `spezial-vertriebsvertraege-fristen-form-und-zustaendigkeit`
-
-**Fokus:** Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Spezialwissen: Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg / vertriebsvertraege fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertriebsvertraege** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 3. `lieferantenvertrag-pruefung`
-
-**Fokus:** Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird.
-
-# Lieferanten-/Dienstleistervertrag-Prüfung
-
-## Zweck
-
-Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen "Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
-
-## Eingaben
-
-- Lieferanten- oder Dienstleistervertrag (Datei-Upload oder Direkteingabe)
-- Ggf. Auftragsformular oder Leistungsbeschreibung separat
-- Jahreswert/Gesamtvertragswert (für Eskalations-Routing erforderlich)
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`
-
-## Akten-Kontext
-
-Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen und Ausgaben dort speichern.
-
-## Ablauf
-
-### Schritt 1: Playbook laden
-
-**Vor dem Vertragslesen** `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` lesen. Falls fehlend oder Platzhalter:
-
-> Praxisprofil noch nicht konfiguriert.
->
-> **Zwei Optionen:**
-> - `/vertragsrecht:vertragsrecht-kaltstart-interview` ausführen (ca. 10 Minuten), dann Prüfung auf Ihr eigenes Playbook zugeschnitten.
-> - "Provisorisch" sagen – dann Prüfung gegen generische Standardpositionen (deutsches Recht, mittlere Risikobereitschaft, Juristenrolle), alle Ausgaben mit `[PROVISORISCH – Praxisprofil für individuell zugeschnittene Ausgabe konfigurieren]` gekennzeichnet.
-
-**Welche Seite?**
-- Lieferant/Auftragnehmer liefert Waren/Leistungen → Käufer-/Auftraggeber-Seite
-- Das Unternehmen verkauft Waren/Leistungen → Verkäufer-/Auftragnehmer-Seite
-- Reseller, JV, Umsatzbeteiligung? → Fragen: "Auf welcher Seite steht [Unternehmen]?"
-
-Zutreffenden Playbook-Abschnitt lesen. **Das K.-o.-Kriterium zuerst prüfen.** Falls vorhanden: am Anfang des Vermerks kennzeichnen und Detailprüfung einstellen – kein Sinn, 30 Minuten an Haftungsdeckeln zu arbeiten, wenn ein Vertragspartner IP-Rechte an unseren Produkten erhalten soll.
-
-### Schritt 2: Orientierung
-
-Den Vertrag einmal schnell lesen:
-
-| Frage | Antwort |
-|---|---|
-| Vertragstyp | Werkvertrag (§ 631 BGB) / Dienstvertrag (§ 611 BGB) / Kaufvertrag (§ 433 BGB) / gemischt |
-| Wer sind wir? | Auftraggeber / Auftragnehmer (Plugin geht von Auftraggeber aus – kennzeichnen falls abweichend) |
-| Vertragspartner | Name; Groß-Konzern (verhandelt kaum) oder KMU (verhandelt)? |
-| Jahreswert (ACV) | Betrag oder "nicht angegeben" → fragen |
-| Laufzeit | Dauer, Verlängerungsmechanismus |
-| AVV | beigefügt / referenziert / fehlt |
-| Auftragsformular | separat / integriert |
-| CISG anwendbar? | Auslandslieferant + Warenkauf → CISG prüfen, ggf. Abwahl-Klausel |
-
-**Jahreswert fehlt:** Wenn der Hauptvertrag keinen Wert nennt:
-> MSA nennt keinen Jahreswert; Preis steht im Auftragsformular. Eskalationsschwelle ist [Betrag aus CLAUDE.md]. Bitte Auftragsformular-Wert nennen oder mitteilen, ob der ACV über/unter dem Schwellenwert liegt.
-
-### Schritt 3: Haftungsbegrenzung (§§ 276, 307, 309 Nr. 7 BGB)
-
-Haftungsklauseln haben vier Dimensionen:
-
-**a) Direktschäden-Deckel (§ 307 BGB):** Vielfaches der Vergütung; mit Playbook vergleichen.
-
-**b) Mittelbare Schäden / Folgeschäden:**
-- § 309 Nr. 7a BGB: Haftungsausschluss für Körperverletzung / Vorsatz gegenüber Verbrauchern absolut unwirksam.
-- Im B2B: Ausschluss für leichte Fahrlässigkeit bei nicht wesentlichen Pflichten möglich; bei Kardinalpflichten nach BGH-Rspr. unwirksam.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**c) Ausnahmen vom Deckel:** Vorsatz, grobe Fahrlässigkeit, Verletzung von Leben/Körper/Gesundheit, Kardinalpflichten, Datenpannen, produkthaftungsrechtliche Ansprüche.
-
-**d) Bemessungsgrundlage:** "im letzten Jahr gezahlte Vergütung" vs. "nach Vertrag insgesamt zu zahlende Vergütung" – prüfen.
-
-### Schritt 4: Gewährleistung (§§ 433 ff., 631 ff. BGB)
-
-**Werkvertrag (§§ 633 ff. BGB):**
-- Mangelfreiheitspflicht § 633 BGB
-- Nacherfüllungsrecht § 634 Nr. 1, § 635 BGB (Vorrang vor Rücktritt/Minderung)
-- Verjährung § 634a BGB: 2 Jahre bei körperlichen Bauwerken/Sachen; 3 Jahre bei Arglist
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Kaufvertrag (§§ 434 ff. BGB; ggf. CISG):**
-- Sachmangelfreiheit § 434 BGB; Beschaffenheitsvereinbarung prüfen
-- Rügepflicht im B2B (§ 377 HGB): Fristen für unverzügliche Rüge
-- CISG-Abwahl: Falls Lieferant im Ausland (Vertragsstaaten), CISG ausschließen oder bewusst einbeziehen
-
-**Dienstvertrag (§§ 611 ff. BGB):**
-- Kein Erfolg geschuldet; nur ordnungsgemäße Leistung
-- Kündigung jederzeit möglich (§ 621 BGB bei Dauerschuldverhältnissen; § 314 BGB aus wichtigem Grund)
-
-### Schritt 5: Datenschutz (Art. 28 DSGVO, BDSG)
-
-- AVV vorhanden? Pflichtinhalt Art. 28 Abs. 3 DSGVO prüfen
-- Sub-Auftragsverarbeiter: Genehmigungsmodell prüfen (Art. 28 Abs. 2, 4 DSGVO)
-- Drittlandübermittlung: Standardvertragsklauseln (Art. 46 DSGVO) oder Angemessenheitsbeschluss
-- Löschpflichten nach Vertragsende
-- Meldepflichten bei Datenpannen (72-Stunden-Frist Art. 33 DSGVO; ggf. kürzere Vertragsfrist)
-- Datenschutz-Schadensersatz Art. 82 DSGVO: Wechselwirkung mit Haftungsdeckel
-
-### Schritt 6: LkSG – Lieferkettensorgfaltspflichten
-
-Falls Lieferant in der Lieferkette und LkSG anwendbar (§ 1 LkSG: ab 1.000 AN seit 01.01.2024):
-
-**Prüfpunkte:**
-- Code of Conduct / Verhaltenskodex-Klausel vorhanden?
-- Audit-/Inspektionsrecht des Auftraggebers (§ 6 LkSG)
-- Meldepflicht bei Verstößen gegen menschenrechtliche/umweltbezogene Sorgfaltspflichten
-- Außerordentliches Kündigungsrecht bei LkSG-Verstößen (§ 7 Abs. 3 LkSG)
-- Weitergabepflicht an Unterlieferanten (§ 9 LkSG)
-
-**Rechtsprechung und Quellenlage noch im Aufbau.** Prüfung anhand Gesetzestext, BAFA-Leitlinien und konkret bereitgestellter oder lizenziert verifizierter Quellen. Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
-### Schritt 7: IP und Nutzungsrechte (§§ 15 ff. UrhG, PatG)
-
-- Wer ist Eigentümer von im Rahmen des Vertrags entwickelten Werken?
-- Umfang der Nutzungsrechtseinräumung (§ 31 UrhG: einfach / ausschließlich; zeitlich, räumlich, inhaltlich)
-- Rückruf-/Kündigungsrechte des Urhebers (§§ 41, 42 UrhG) – oft nicht abbedingbar
-- Software: § 69a ff. UrhG; Open-Source-Lizenzen
-
-### Schritt 8: Laufzeit und Kündigung (§§ 314, 620, 621 BGB)
-
-- Laufzeit, Verlängerungsmechanismus, Kündigungsfristen
-- § 314 BGB: außerordentliches Kündigungsrecht aus wichtigem Grund; nicht ausschließbar
-- Auswirkungen der Kündigung: Vergütung, Datenrückgabe, Übergangshilfe
-
-### Schritt 9: AGB-Kontrolle (§§ 305–310 BGB)
-
-- Einbeziehung: § 305 Abs. 2 BGB – Hinweis + Kenntnisnahmemöglichkeit
-- Überraschende Klauseln: § 305c BGB
-- Transparenzgebot: § 307 Abs. 1 S. 2 BGB
-- Klauselverbote §§ 308, 309 BGB; im B2B als Indiz-Wirkung
-- Kollidierende AGB ("battle of forms"): §§ 154, 155 BGB; Konsenstheorie vs. Restgültigkeitslösung
-
-## Abweichungsklassifikation
-
-| Stufe | Kriterien | Maßnahme |
-|---|---|---|
-| **GRÜN** | Entspricht Playbook-Position oder liegt darüber; marktübliche kleinere Abweichungen | Zur Kenntnis |
-| **GELB** | Außerhalb Standardposition, aber im verhandelbaren Marktbereich | Redline mit Fallback-Position; Geschäftsauswirkung schätzen |
-| **ROT** | Außerhalb akzeptablem Bereich; materielles Risiko; löst Eskalation aus | Konkretes Risiko erläutern; marktübliche Alternative; Eskalationspfad |
-
-## Verhandlungspriorität
-
-| Tier | Bezeichnung | Beschreibung | Strategie |
-|---|---|---|---|
-| 1 | Must-Haves | Unbegrenzte/unzureichende Haftung; fehlender Datenschutz; IP-Gefährdung; regulatorische Konflikte | Nie ohne Eskalation nachgeben |
-| 2 | Should-Haves | Haftungsdeckel-Anpassungen; Freistellungsumfang; Flexibilität bei Kündigung; Audit-Rechte | Firm verhandeln; Tier-3 opfern |
-| 3 | Nice-to-Haves | Bevorzugter Gerichtsstand; Fristen-Präferenzen; kleinere Definitions-Verbesserungen | Konzessions-Kandidaten für Tier-2 |
-
-## Ausgabeformat
-
-```markdown
-VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
-
-⚠️ Prüfer-Hinweis
-[Quellen, gelesen Seiten, gekennzeichnete Punkte]
-
-# Vertrags-Prüfvermerk: [Lieferant] – [Vertragsbezeichnung]
-
-**Seite:** [Auftraggeber / Auftragnehmer]
-**Vertragstyp:** [Werk-/Dienst-/Kaufvertrag]
-**ACV:** [Betrag]
-**Laufzeit:** [Dauer und Verlängerung]
-
----
-
-## Fazit
-[2–3 Sätze: unterzeichnungsreif / [N] Punkte zu klären / blockiert durch [K.-o.-Kriterium]]
-
-## Befunde
-
-### 🔴 Blockierend
-**[Klauseltitel]** – § [X.X]
-> "[Zitat]"
-**Rechtliches Risiko:** 🔴 | **Geschäftliche Reibung:** [Stufe]
-Warum problematisch: [konkretes Risiko; Norm + BGH-Rspr.]
-Empfohlener Redline: `[Streichung/Ersatz mit konkreter Formulierung]`
-Eskalation an: [Person/Rolle aus CLAUDE.md]
-
-### 🟠 Hoch
-[…]
-
-### 🟡 Mittel
-[…]
-
-### 🟢 Niedrig / Zur Kenntnis
-[…]
-
----
-
-## LkSG-Prüfung
-[Ergebnis der LkSG-Punkte]
-
-## CISG
-[Anwendbar / abgewählt / Abwahlklausel empfohlen]
-
-## Nächste Schritte
-[Entscheidungsbaum gemäß CLAUDE.md]
-```
-
-## Quellen und Zitierweise
-
-Zitierweise nach `../references/zitierweise.md`.
-
-Normen und Rspr.:
-- §§ 611, 631 BGB – Dienst-/Werkvertrag; § 433 BGB – Kaufvertrag
-- §§ 305–310 BGB – AGB-Recht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 377 HGB – Rügepflicht Handelskauf
-- §§ 1 ff. LkSG; §§ 15 ff. UrhG – Nutzungsrechte
-- Art. 28 DSGVO – AVV; Art. 1, 6 CISG – Anwendbarkeit/Abwahl
-
-Kommentare:
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Risiken / typische Fehler
-
-- **CISG-Geltung vergessen:** Bei Auslands-Kaufverträgen CISG prüfen; Abwahl ggf. notwendig.
-- **Rügepflicht § 377 HGB übersehen:** Im B2B-Handelskauf Mängel unverzüglich rügen, sonst Rechtsverlust.
-- **AGB-Kollision (battle of forms):** Wenn beide Parteien AGB verwenden, prüfen, welche gilt.
-- **LkSG-Kündigungsklausel fehlt:** Ohne vertragliches Recht faktisch eingeschränkte LkSG-Durchsetzung.
-- **Mandantengeheimnis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.

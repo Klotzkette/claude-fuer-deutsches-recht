@@ -3,33 +3,33 @@ name: dsfa-bfdi-und-laender-blacklist
 description: "Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach Art. 35 Abs. 4 DSGVO und mit den Listen der Landesdatenschutzbehoerden. Output: dokumentierter Listenabgleich mit Trefferanalyse und ggf. Verweis auf zwingende DSFA."
 ---
 
-# BfDI- und Laender-Blacklist Abgleich
+# BfDI- und Länder-Blacklist Abgleich
 
 ## Zweck
 
-Dieser Skill fuehrt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der Pflichtliste der zustaendigen Aufsichtsbehoerde nach Art. 35 Abs. 4 DSGVO (Blacklist) und mit der Whitelist nach Art. 35 Abs. 5 DSGVO durch. Ergebnis ist ein dokumentierter Listenabgleich, der die Erforderlichkeit oder Entbehrlichkeit einer DSFA stuetzt.
+Dieser Skill fuehrt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der Pflichtliste der zuständigen Aufsichtsbehoerde nach Art. 35 Abs. 4 DSGVO (Blacklist) und mit der Whitelist nach Art. 35 Abs. 5 DSGVO durch. Ergebnis ist ein dokumentierter Listenabgleich, der die Erforderlichkeit oder Entbehrlichkeit einer DSFA stuetzt.
 
 ## Wann dieses Modul hilft
 
 - In der DSFA-Trigger-Pruefung (Schwellwertanalyse)
 - Bei einer Aufsichtsanfrage zur Begruendung einer durchgefuehrten oder unterlassenen DSFA
 - Bei wesentlichen Aenderungen der Verarbeitung
-- Wenn unklar ist, welche Landesdatenschutzbehoerde zustaendig ist (Sitzland-Pruefung)
+- Wenn unklar ist, welche Landesdatenschutzbehoerde zuständig ist (Sitzland-Pruefung)
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 4 DSGVO: Aufsichtsbehoerden erstellen und veroeffentlichen Listen der Verarbeitungstaetigkeiten, fuer die eine DSFA durchzufuehren ist.
-- Art. 35 Abs. 5 DSGVO: Aufsichtsbehoerden koennen Listen veroeffentlichen, fuer die keine DSFA erforderlich ist (Whitelist).
+- Art. 35 Abs. 4 DSGVO: Aufsichtsbehoerden erstellen und veröffentlichen Listen der Verarbeitungstaetigkeiten, für die eine DSFA durchzufuehren ist.
+- Art. 35 Abs. 5 DSGVO: Aufsichtsbehoerden koennen Listen veröffentlichen, für die keine DSFA erforderlich ist (Whitelist).
 - Art. 35 Abs. 6 DSGVO: Listen werden dem Ausschuss EDSA uebermittelt, Koehaerenzverfahren bei grenzueberschreitenden Verarbeitungen.
-- § 40 BDSG: Zustaendigkeit der Landesdatenschutzbehoerden fuer den nicht-oeffentlichen Bereich.
-- § 67 BDSG verweist auf die Pflichtliste im oeffentlichen Bereich des Bundes.
+- § 40 BDSG: Zuständigkeit der Landesdatenschutzbehoerden für den nicht-öffentlichen Bereich.
+- § 67 BDSG verweist auf die Pflichtliste im öffentlichen Bereich des Bundes.
 - EDSA-Leitlinien WP 248 rev.01 als Auslegungshilfe.
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Verarbeitung soll abgeglichen werden? Konkrete Bezeichnung, Branche, eingesetzte Technologie, Datenkategorien.
-2. **Verhaeltnismaessigkeitspruefung.** Zustaendige Aufsichtsbehoerde ermitteln: Bund (BfDI) fuer oeffentliche Stellen des Bundes, Telekommunikation und Postwesen; Laender fuer den nicht-oeffentlichen Bereich, sortiert nach Sitzland des Verantwortlichen.
-3. **Risikoanalyse Listenabgleich.** Aktuelle Blacklist der zustaendigen Behoerde live abrufen (bfdi.bund.de bzw. Landesbehoerde). Treffer dokumentieren mit konkretem Listenpunkt und Datum des Abrufs.
+2. **Verhaeltnismaessigkeitspruefung.** Zustaendige Aufsichtsbehoerde ermitteln: Bund (BfDI) für öffentliche Stellen des Bundes, Telekommunikation und Postwesen; Länder für den nicht-öffentlichen Bereich, sortiert nach Sitzland des Verantwortlichen.
+3. **Risikoanalyse Listenabgleich.** Aktuelle Blacklist der zuständigen Behörde live abrufen (bfdi.bund.de bzw. Landesbehoerde). Treffer dokumentieren mit konkretem Listenpunkt und Datum des Abrufs.
 4. **Massnahmen.** Pruefen ob die Verarbeitung exakt unter einen Listenpunkt faellt oder nur partiell. Bei partieller Deckung: Begruendung warum trotzdem oder warum nicht DSFA-pflichtig.
 5. **Restrisiko.** Falls Blacklist-Treffer: DSFA zwingend. Falls Whitelist-Treffer: DSFA entbehrlich, Dokumentation der Whitelist-Position. Falls weder noch: Pruefung nach Art. 35 Abs. 1 und Abs. 3 DSGVO erforderlich.
 6. **Konsultation / Genehmigung.** Listenabgleich dem DSB vorlegen, gegenzeichnen lassen, in das Verarbeitungsverzeichnis nach Art. 30 verlinken.
@@ -64,9 +64,9 @@ Naechster Schritt: [Vollstaendige DSFA / Dokumentation / Weiterleitung an Skill]
 Unterschrift: ____________________
 ```
 
-## Praxishinweise zur Zustaendigkeit
+## Praxishinweise zur Zuständigkeit
 
-- Nicht-oeffentlicher Bereich: Landesdatenschutzbehoerde am Sitz des Verantwortlichen.
+- Nicht-öffentlicher Bereich: Landesdatenschutzbehoerde am Sitz des Verantwortlichen.
 - Oeffentlicher Bereich Bund (Bundesbehoerden, Telekommunikation, Post): BfDI.
 - Oeffentlicher Bereich Land: jeweilige Landesdatenschutzbehoerde.
 - Grenzueberschreitende Verarbeitung Art. 56 DSGVO: Federfuehrungsbehoerde am Sitz der Hauptniederlassung.
@@ -74,7 +74,7 @@ Unterschrift: ____________________
 
 ## Typische Fehler
 
-- Nur BfDI geprueft, Landesbehoerde uebersehen — im nicht-oeffentlichen Bereich ist regelmaessig die Landesbehoerde des Sitzlandes zustaendig.
+- Nur BfDI geprueft, Landesbehoerde uebersehen — im nicht-öffentlichen Bereich ist regelmaessig die Landesbehoerde des Sitzlandes zuständig.
 - Listenstand veraltet — Listen werden fortgeschrieben, immer aktuelles Datum dokumentieren.
 - Partielle Deckung als Volltreffer behandelt — Listenpunkte sind typenoffen, aber konkret zu pruefen.
 - Whitelist als Freibrief verstanden — Whitelist entlastet nur, wenn die Verarbeitung exakt zur Listenposition passt.
@@ -87,7 +87,7 @@ Unterschrift: ____________________
 
 - Kreditscoring-Plattform: regelmaessig auf mehreren Landeslisten (Scoring + automatisierte Entscheidung).
 - Patientenakte mit Cloud-Speicherung: meist auf BfDI- bzw. Landesliste (besondere Kategorien Art. 9 + neue Technologie).
-- Videoueberwachung Bahnhofsvorplatz: Art. 35 Abs. 3 lit. c DSGVO unmittelbar und zusaetzlich Listentreffer wegen oeffentlichem Bereich.
+- Videoueberwachung Bahnhofsvorplatz: Art. 35 Abs. 3 lit. c DSGVO unmittelbar und zusaetzlich Listentreffer wegen öffentlichem Bereich.
 - KI-Personalauswahl: regelmaessig Listentreffer wegen Profiling und neuen Technologien.
 
 ## Querverweise

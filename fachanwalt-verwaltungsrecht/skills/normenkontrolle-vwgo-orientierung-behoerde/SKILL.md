@@ -1,29 +1,29 @@
 ---
 name: normenkontrolle-vwgo-orientierung-behoerde
-description: "Normenkontrolle Vwgo Orientierung Behoerde im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder, Orientierung im Fachanwaltsrecht Verwaltungsrecht, Verwaltungsrechts-Vergleich nach § 106 VwGO und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Normenkontrolle Vwgo Orientierung Behörde im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder, Orientierung im Fachanwaltsrecht Verwaltungsrecht, Verwaltungsrechts-Vergleich nach § 106 VwGO und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Normenkontrolle Vwgo Orientierung Behoerde
+# Normenkontrolle Vwgo Orientierung Behörde
 
 ## Arbeitsbereich
 
-**Normenkontrolle Vwgo Orientierung Behoerde** ordnet den Fall über die tragenden Prüffelder: Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder, Orientierung im Fachanwaltsrecht Verwaltungsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Normenkontrolle Vwgo Orientierung Behörde** ordnet den Fall über die tragenden Prüfungslinien: Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder, Orientierung im Fachanwaltsrecht Verwaltungsrecht. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo` | Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen. Normen: § 47 VwGO (Normenkontrolle OVG), Art. 14 GG (Eigentumsschutz), § 1 Abs. 7 BauGB (Abwaegungsgebot). Prüfraster: Antragsfrist 1 Jahr ab Inkrafttreten, Antragsbefugnis, OVG-Zuständigkeit, Abwaegungsfehler. Output Normenkontrollantrag-Entwurf. Abgrenzung: Anfechtungsklage gegen einzelnen VA siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Planfeststellung siehe energietrassen-planfeststellung-rechtsschutz. |
 | `fachanwalt-verwaltungsrecht-orientierung` | Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Überblick. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Detailarbeit in Fachmodule; Mandats-Triage siehe mandat-triage-verwaltungsrecht. |
-| `fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde` | Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behoerde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhoerung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin. |
+| `fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde` | Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behörde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhörung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verwaltungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo`
 
@@ -258,13 +258,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schnittstellen
 
-- **kanzlei-allgemein** fuer Fristen Versand.
+- **kanzlei-allgemein** für Fristen Versand.
 - **fachanwalt-migrationsrecht** bei Auslaenderrecht.
 - **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.
 
 ## 3. `fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde`
 
-**Fokus:** Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behoerde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhoerung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin.
+**Fokus:** Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behörde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhörung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin.
 
 # Verwaltungsrechts-Vergleich / Behördenkommunikation
 

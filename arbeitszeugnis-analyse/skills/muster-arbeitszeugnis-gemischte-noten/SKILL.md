@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-gemischte-noten
-description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Training und Demonstration. Anwendungsfall Rechtsanwalt oder Mitarbeiter will Zeugnisanalyse-Skills an einem Musterfall trainieren. Zeigt klassisches Drift-Muster einzelne Saetze Note eins benachbarte Saetze Note drei gleicher Themenbereich. Output vollständige Satz-fuer-Satz-Notenmatrix mit Bereichs-Drift-Analyse als kommentiertes Lernbeispiel. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und muster-arbeitszeugnis-note-1."
+description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Training und Demonstration. Anwendungsfall Rechtsanwalt oder Mitarbeiter will Zeugnisanalyse-Skills an einem Musterfall trainieren. Zeigt klassisches Drift-Muster einzelne Saetze Note eins benachbarte Saetze Note drei gleicher Themenbereich. Output vollständige Satz-für-Satz-Notenmatrix mit Bereichs-Drift-Analyse als kommentiertes Lernbeispiel. Abgrenzung zu muster-arbeitszeugnis-mit-roten-flaggen und muster-arbeitszeugnis-note-1."
 ---
 
 # Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)
@@ -26,7 +26,7 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 | "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
 | "war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | "war in der Lage" |
 | "vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
-| "geschaetzter Ansprechpartner, persoenliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
+| "geschaetzter Ansprechpartner, persönliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
 | "stets ausgezeichnete Mitarbeit" plus volles Bedauern und voller Dank | Schlussformel | 1 | Vollstaendig auf Spitze |
 
 ## Beispiele
@@ -63,9 +63,9 @@ Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewaeltigen. Durch sein 
 
 Herr Beispiel hat die an ihn gestellten sehr hohen Erwartungen zu unserer vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen.
 
-Wegen seines freundlichen und hilfsbereiten Auftretens war Herr Beispiel ein geschaetzter Ansprechpartner. Sein persoenliches Verhalten gegenueber Vorgesetzten, Mitarbeitern und Externen war einwandfrei.
+Wegen seines freundlichen und hilfsbereiten Auftretens war Herr Beispiel ein geschaetzter Ansprechpartner. Sein persönliches Verhalten gegenueber Vorgesetzten, Mitarbeitern und Externen war einwandfrei.
 
-Das Arbeitsverhaeltnis endet aus betriebsbedingten Gruenden zum dreissigsten September zweitausenddreizehn. Wir bedanken uns fuer seine stets ausgezeichnete Mitarbeit in unserem Unternehmen. Sein Ausscheiden bedauern wir sehr und wuenschen ihm fuer seine Zukunft beruflich und privat weiterhin viel Erfolg und alles Gute.
+Das Arbeitsverhaeltnis endet aus betriebsbedingten Gruenden zum dreissigsten September zweitausenddreizehn. Wir bedanken uns für seine stets ausgezeichnete Mitarbeit in unserem Unternehmen. Sein Ausscheiden bedauern wir sehr und wuenschen ihm für seine Zukunft beruflich und privat weiterhin viel Erfolg und alles Gute.
 
 ---
 
@@ -94,7 +94,7 @@ Spitzensaetze sind authentisch (Fachkenntnisse, Arbeitsweise, Arbeitsergebnis, E
 
 ## Ausgabeformat
 
-Der Skill liefert: vollstaendiges Mustertextzeugnis, satzweise Notenmatrix gemaess satzweise-notenmatrix, Bereichs-Drift-Analyse gemaess bereichs-drift-detektor, gewichtete Gesamtnotenaggregation und Empfehlung zur Nachverhandlung. Geeignet als Trainingsmaterial fuer alle vorgelagerten Analyse-Skills.
+Der Skill liefert: vollstaendiges Mustertextzeugnis, satzweise Notenmatrix gemaess satzweise-notenmatrix, Bereichs-Drift-Analyse gemaess bereichs-drift-detektor, gewichtete Gesamtnotenaggregation und Empfehlung zur Nachverhandlung. Geeignet als Trainingsmaterial für alle vorgelagerten Analyse-Skills.
 
 ## Rechtliche Einordnung und Normen
 

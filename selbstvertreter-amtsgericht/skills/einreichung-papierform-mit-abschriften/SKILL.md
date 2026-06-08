@@ -1,13 +1,13 @@
 ---
 name: einreichung-papierform-mit-abschriften
-description: "Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung."
+description: "Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung."
 ---
 
 # Klage in Papierform einreichen
 
 ## Worum geht es?
 
-Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pflicht fuer Sie. Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis fuer Fristwahrung.
+Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pflicht für Sie. Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis für Fristwahrung.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -17,7 +17,7 @@ Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pfl
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Abschrift**: Vollstaendige Kopie der Klageschrift mit Anlagen, fuer die Gegenseite bestimmt.
+- **Abschrift**: Vollstaendige Kopie der Klageschrift mit Anlagen, für die Gegenseite bestimmt.
 - **Eingangsstempel**: Stempel des Gerichts mit Datum und Uhrzeit der Einreichung.
 - **Einschreiben**: Postversand mit Empfangsbestaetigung.
 
@@ -26,18 +26,18 @@ Buerger duerfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pfl
 - **§ 130 ZPO** — Anforderungen an Schriftsatz.
 - **§ 130 Nr. 6 ZPO** — Unterschrift.
 - **§ 133 ZPO** — Schriftsaetze mit Beilagen.
-- **§ 167 ZPO** — Zustellung "demnaechst" wirkt zurueck (wichtig fuer Fristwahrung!).
+- **§ 167 ZPO** — Zustellung "demnaechst" wirkt zurueck (wichtig für Fristwahrung!).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Wie viele Saetze?
 
-Pro Streitpartei brauchen Sie eine Abschrift, plus Original fuer das Gericht.
+Pro Streitpartei brauchen Sie eine Abschrift, plus Original für das Gericht.
 
-- 1 Klaeger, 1 Beklagter: 2 Saetze (1 Original Gericht, 1 Abschrift Beklagter) + 1 fuer Sie selbst.
-- 1 Klaeger, 2 Beklagte: 3 Saetze (1 Original + 2 Abschriften) + 1 fuer Sie selbst.
+- 1 Klaeger, 1 Beklagter: 2 Saetze (1 Original Gericht, 1 Abschrift Beklagter) + 1 für Sie selbst.
+- 1 Klaeger, 2 Beklagte: 3 Saetze (1 Original + 2 Abschriften) + 1 für Sie selbst.
 
-Faustregel: 1 Original + so viele Abschriften wie Beklagte + 1 Aktenkopie fuer Sie.
+Faustregel: 1 Original + so viele Abschriften wie Beklagte + 1 Aktenkopie für Sie.
 
 ### Schritt 2 — Saetze identisch?
 
@@ -59,7 +59,7 @@ Ja, jede Abschrift muss exakt identisch zum Original sein:
 
 Optionen:
 
-- **Einschreiben mit Rueckschein**: Best — Beweis fuer Zugang.
+- **Einschreiben mit Rueckschein**: Best — Beweis für Zugang.
 - **Einschreiben Einwurf**: Etwas guenstiger, Beweis ist Sendungs-Verlaufsmeldung.
 - **Normaler Brief**: Riskant; kein Zugangs-Beweis. Vermeiden, wenn Frist laeuft.
 - **Persoenlich an der Geschaeftsstelle**: Sicherster Weg. Sie bekommen Eingangsstempel.
@@ -83,7 +83,7 @@ Skill `zurechnungsproblem-versand-durch-dritte`.
 
 ### Schritt 8 — § 167 ZPO Rueckwirkung
 
-Wichtig fuer Verjaehrungs-Hemmung und Frist-Einhaltung: Wenn die Zustellung an den Beklagten **alsbald** erfolgt, gilt die Zustellung als am Tag der Klageeinreichung erfolgt. Sie muessen also nicht warten, dass die Zustellung tatsaechlich raus ist — der Eingang bei Gericht zaehlt fuer Frist.
+Wichtig für Verjährungs-Hemmung und Frist-Einhaltung: Wenn die Zustellung an den Beklagten **alsbald** erfolgt, gilt die Zustellung als am Tag der Klageeinreichung erfolgt. Sie muessen also nicht warten, dass die Zustellung tatsaechlich raus ist — der Eingang bei Gericht zaehlt für Frist.
 
 Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "demnaechst". Skill `gerichtskostenvorschuss-12-gkg`.
 
@@ -111,7 +111,6 @@ Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "dem
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

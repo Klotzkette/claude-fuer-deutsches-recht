@@ -27,11 +27,11 @@ Der Zeugenbeweis ist neben der Urkunde das wichtigste Beweismittel im Zivilproze
 - **§ 373 ZPO** — Beweisantrag durch Bezeichnung des Zeugen und Beweisthema.
 - **§ 380 ZPO** — Folgen Nichterscheinen.
 - **§ 383 ZPO** — Zeugnisverweigerungsrechte (Verwandte, Beichtgeheimnis etc.).
-- **§ 384 ZPO** — Zeugnisverweigerungsrecht aus persoenlichen Gruenden.
+- **§ 384 ZPO** — Zeugnisverweigerungsrecht aus persönlichen Gruenden.
 - **§ 391 ZPO** — Eid.
 - **§ 397 ZPO** — Fragerecht der Parteien.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Zeuge geeignet
 
@@ -56,7 +56,7 @@ Im Beweisantrag konkret:
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
  Musterstrasse 1, 12345 Musterstadt,
- zum Beweis dafuer, dass der Beklagte
+ zum Beweis dafür, dass der Beklagte
  am 12.3.2025 zwischen 10 und 11 Uhr
  die Lieferung an der Adresse des
  Klaegers entgegen genommen und
@@ -83,7 +83,7 @@ Das Gericht laedt den Zeugen. Er muss erscheinen (§ 380 ZPO), sonst Ordnungsmit
 Im Termin:
 
 - Belehrung durch das Gericht ueber Wahrheits-Pflicht.
-- Anhoerung zur Person.
+- Anhörung zur Person.
 - Vernehmung zum Beweisthema.
 - Fragen der Parteien (§ 397 ZPO).
 
@@ -97,7 +97,7 @@ Sie duerfen mit dem Zeugen sprechen — aber nicht "trainieren". Erlaubte Vorber
 Verboten:
 
 - Aussage diktieren.
-- Geld fuer guenstige Aussage.
+- Geld für guenstige Aussage.
 
 Verbotenes Vorgehen kann Strafverfolgung ausloesen (Anstiftung zur Falschaussage).
 
@@ -141,7 +141,6 @@ Zeuge bekommt Entschaedigung nach JVEG. Sie als beweispflichtige Partei zahlen g
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 373 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

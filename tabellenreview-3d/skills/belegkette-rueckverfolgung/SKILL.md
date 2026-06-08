@@ -5,7 +5,6 @@ description: "Belegkette für Forderungen und Zahlungen zurückverfolgen: Origin
 
 # /tabellenreview-3d:belegkette-rueckverfolgung
 
-
 ## Triage zu Beginn
 
 1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
@@ -16,7 +15,6 @@ description: "Belegkette für Forderungen und Zahlungen zurückverfolgen: Origin
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Zweck
 

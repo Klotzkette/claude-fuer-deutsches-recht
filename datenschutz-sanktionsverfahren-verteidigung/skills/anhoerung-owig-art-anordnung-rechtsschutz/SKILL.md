@@ -1,16 +1,16 @@
 ---
 name: anhoerung-owig-art-anordnung-rechtsschutz
-description: "Anhoerung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anhörung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
-# Anhoerung Owig ART Anordnung Rechtsschutz
+# Anhörung Owig ART Anordnung Rechtsschutz
 
 ## Arbeitsbereich
 
-**Anhoerung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüffelder: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Anhörung Owig ART Anordnung Rechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: Anhörung nach § 55 OWiG, Art.-58-Anordnung als Verwaltungsakt, Art. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `anhoerung-55-owig` | Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `art-58-anordnung-verwaltungsakt` | Art.-58-Anordnung als Verwaltungsakt: Anordnung, Verwarnung, Verbot, Löschung und Transferstopp als verwaltungsgerichtliche Streitigkeit prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -19,12 +19,12 @@ description: "Anhoerung Owig ART Anordnung Rechtsschutz im Datenschutz-Sanktions
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Datenschutz Sanktionsverfahren Verteidigung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; OWiG; StPO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `anhoerung-55-owig`
 
@@ -79,7 +79,6 @@ Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisth
 ## Anschlussskills
 
 Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsgericht-zivilverfahren`, `akteneinsicht-49-owig-147-stpo`, `art-83-abs-2-kriterien-einzeln`, `edpb-04-2022-bemessungsmethodik`, `art-58-anordnung-verwaltungsakt`, `vg-eilrechtsschutz-80-5-vwgo`, `one-stop-shop-art-56-60` oder `red-team-vor-jeder-einreichung`.
-
 
 ## Quellen- und Verifikationsregel
 
@@ -142,7 +141,6 @@ Klage- oder Eilrechtsschutzgerüst gegen Art.-58-Maßnahme mit Zulässigkeit, Be
 
 Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsgericht-zivilverfahren`, `akteneinsicht-49-owig-147-stpo`, `art-83-abs-2-kriterien-einzeln`, `edpb-04-2022-bemessungsmethodik`, `art-58-anordnung-verwaltungsakt`, `vg-eilrechtsschutz-80-5-vwgo`, `one-stop-shop-art-56-60` oder `red-team-vor-jeder-einreichung`.
 
-
 ## Quellen- und Verifikationsregel
 
 - Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
@@ -203,7 +201,6 @@ Klage- oder Eilrechtsschutzgerüst gegen Art.-58-Maßnahme mit Zulässigkeit, Be
 ## Anschlussskills
 
 Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsgericht-zivilverfahren`, `akteneinsicht-49-owig-147-stpo`, `art-83-abs-2-kriterien-einzeln`, `edpb-04-2022-bemessungsmethodik`, `art-58-anordnung-verwaltungsakt`, `vg-eilrechtsschutz-80-5-vwgo`, `one-stop-shop-art-56-60` oder `red-team-vor-jeder-einreichung`.
-
 
 ## Quellen- und Verifikationsregel
 
@@ -266,10 +263,32 @@ Art.-83-Bemessungsmemo mit Behördenkritik, Entlastungsmaterial, Gegenrechnung u
 
 Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsgericht-zivilverfahren`, `akteneinsicht-49-owig-147-stpo`, `art-83-abs-2-kriterien-einzeln`, `edpb-04-2022-bemessungsmethodik`, `art-58-anordnung-verwaltungsakt`, `vg-eilrechtsschutz-80-5-vwgo`, `one-stop-shop-art-56-60` oder `red-team-vor-jeder-einreichung`.
 
-
 ## Quellen- und Verifikationsregel
 
 - Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 46 OWiG
+- § 41 BDSG
+- § 20 BDSG
+- Art. 83 DSGVO
+- § 73 OWiG
+- § 71 OWiG
+- § 55 OWiG
+- Art. 78 DSGVO
+- Art. 267 AEUV
+- Art. 58 DSGVO
+- § 203 StGB
+- § 69 OWiG
+
+### Leitentscheidungen
+
+- EuGH C-807/21
+- EuGH C-683/21
+

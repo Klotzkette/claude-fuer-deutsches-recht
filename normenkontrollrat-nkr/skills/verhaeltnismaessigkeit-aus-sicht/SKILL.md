@@ -7,7 +7,7 @@ description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefu
 
 ## Worum geht es konkret
 
-Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne prueft das BMJ und ggf. das BVerfG. Der NKR prueft Verhaeltnismaessigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand fuer das adressierte Problem **angemessen**?
+Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne prueft das BMJ und ggf. das BVerfG. Der NKR prueft Verhaeltnismaessigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand für das adressierte Problem **angemessen**?
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -25,7 +25,7 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - **NKRG** § 4 — methodische Pruefung
 - **Leitfaden BMI / NKR** — Verhaeltnismaessigkeitsmodul (Eingriffstiefe vs. Aufwand)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Drei klassische Stufen, NKR-Variante
 
@@ -64,15 +64,15 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR haelt das Vorhaben dem Grunde nach fuer geeignet, das adressierte Problem zu loesen."
-- "Der NKR weist darauf hin, dass die vorgesehene Frequenz von [monatlich / quartalsweise] in einem unverhaeltnismaessigen Verhaeltnis zum erwarteten Nutzen steht. Eine jaehrliche [Verpflichtung] erscheint angemessen."
+- "Der NKR haelt das Vorhaben dem Grunde nach für geeignet, das adressierte Problem zu loesen."
+- "Der NKR weist darauf hin, dass die vorgesehene Frequenz von [monatlich / quartalsweise] in einem unverhaeltnismäßigen Verhaeltnis zum erwarteten Nutzen steht. Eine jaehrliche [Verpflichtung] erscheint angemessen."
 - "Der NKR empfiehlt, einen Schwellenwert zur Entlastung von Kleinstunternehmen einzufuehren."
-- "Aus Sicht des NKR ist die Eingriffstiefe der Regelung angemessen; die methodische Bewertung der Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne obliegt der zustaendigen Ressortpruefung."
+- "Aus Sicht des NKR ist die Eingriffstiefe der Regelung angemessen; die methodische Bewertung der Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne obliegt der zuständigen Ressortpruefung."
 - "Der NKR sieht die Sanktion in Hoehe von [X EUR] in einem Spannungsverhaeltnis zur Verhaeltnismaessigkeit der Pflicht; er empfiehlt eine abgestufte Sanktionsregelung."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- Pflichten fuer alle Adressaten, ohne Schwelle
+- Pflichten für alle Adressaten, ohne Schwelle
 - Hohe Frequenz aus "Beweissicherungsgruenden" ohne Beleg
 - Maximalsanktionen pauschal
 - Keine KMU-Differenzierung

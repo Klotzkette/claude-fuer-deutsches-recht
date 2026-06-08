@@ -7,10 +7,10 @@ description: "MPU Vorbereitung Orientierung im Plugin Fachanwalt Verkehrsrecht: 
 
 ## Arbeitsbereich
 
-**MPU Vorbereitung Orientierung** ordnet den Fall über die tragenden Prüffelder: Mandant muss MPU ablegen und fragt wie er sich vorbereiten, Einstieg in den Skill-Verbund Verkehrsrecht, Mandant hat Verkehrsunfall und fordert Schadensersatz vom. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**MPU Vorbereitung Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Mandant muss MPU ablegen und fragt wie er sich vorbereiten, Einstieg in den Skill-Verbund Verkehrsrecht, Mandant hat Verkehrsunfall und fordert Schadensersatz vom. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-verkehrsrecht-mpu-vorbereitung` | Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht. |
 | `fachanwalt-verkehrsrecht-orientierung` | Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage). |
@@ -18,12 +18,12 @@ description: "MPU Vorbereitung Orientierung im Plugin Fachanwalt Verkehrsrecht: 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Verkehrsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verkehrsrecht-mpu-vorbereitung`
 
@@ -171,7 +171,7 @@ Keine Modellwissen-Zitate. Vor Versand Aktenzeichen, Datum und tragende Aussage 
 
 ## Normen MPU / Fahrerlaubnisrecht
 
-- § 3 StVG — Entziehung Fahrerlaubnis durch Behoerde
+- § 3 StVG — Entziehung Fahrerlaubnis durch Behörde
 - § 4 StVG — Fahreignungs-Bewertungssystem (Punkte-Tabelle, 8 Punkte = Entzug)
 - § 11 FeV — Eignung; Beibringung von Gutachten
 - § 13 FeV — Alkohol: MPU-Pflicht ab 1,6 Promille oder Wiederholung
@@ -266,7 +266,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. Hat der Mandant eigene Mithaftung — Tempoverstoß, Sicherheitsabstand, Anschnallpflicht?
 7. Liegt SGB X-Regressi durch Kranken- oder Rentenversicherung, Berufsgenossenschaft vor?
 8. Droht Verjährung (3 Jahre ab Schluss des Jahres der Kenntnis, §§ 195, 199 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -297,7 +297,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Hinweis: Reihenfolge Rspr. vor Lit.; neueste zuerst. Keine Aufsatz- oder Kommentar-Fundstellen aus Modellwissen. Verifikation in der BGH-eigenen Datenbank, dejure.org oder openjur.de Pflicht.
 
 ## Prüfschema in Tabellenform
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -333,7 +332,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Personenschaden Schmerzensgeld ungeklaert | Erst Heilbehandlung abschliessen dann Schmerzensgeldanspruch beziffern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -499,11 +497,10 @@ einsetzen).
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 

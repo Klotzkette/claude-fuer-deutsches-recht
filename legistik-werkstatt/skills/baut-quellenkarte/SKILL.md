@@ -31,6 +31,22 @@ Diese Quellenkarte sichert im Bereich **Legistik Werkstatt** tragende Normen, Re
 3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
 4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
 
+## Normenanker
+
+Arbeitsfokus: **Baut Quellenkarte**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 14 Abs. 1 GG` — Eigentum.
+- `Art. 74 Abs. 1 Nr. 18 GG` — Bodenrecht/raumbezogene Kompetenz.
+- `§ 1 Abs. 3 BauGB` — Erforderlichkeit der Bauleitplanung.
+- `§ 1 Abs. 7 BauGB` — Abwägungsgebot.
+- `§ 9 BauGB` — Festsetzungen.
+- `§ 535 Abs. 1 BGB` — Mietvertrag.
+- `§ 556 Abs. 1 BGB` — Betriebskosten.
+- `Art. 20 Abs. 3 GG` — Normklarheit.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Fehlerbremse
 
 - Keine BeckRS- oder juris-Blindzitate aus Modellwissen.

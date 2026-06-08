@@ -7,10 +7,10 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 
 ## Arbeitsbereich
 
-**Untersuchungs Zusammenfassung Kuendigung** ordnet den Fall über die tragenden Prüffelder: Entwirft den vertraulichen Untersuchungsvermerk aus dem, Entwirft eine zielgruppengerechte Zusammenfassung aus dem, Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Untersuchungs Zusammenfassung Kuendigung** ordnet den Fall über die tragenden Prüfungslinien: Entwirft den vertraulichen Untersuchungsvermerk aus dem, Entwirft eine zielgruppengerechte Zusammenfassung aus dem, Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben. |
 | `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll. |
@@ -19,12 +19,12 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `untersuchungs-memo`
 
@@ -39,7 +39,6 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -241,7 +240,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -469,7 +467,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 # Kündigung: Zugang, Umschlag, Bote und Beweiswerkstatt
 
 ## Einsatz
-Dieses Fachmodul greift, wenn eine Kündigung erklärt, abgewehrt oder rekonstruiert werden muss und der Fall am Zugang, am Inhalt des Umschlags oder an § 4 KSchG kippen kann.
+Anwendungsfall: eine Kündigung erklärt, abgewehrt oder rekonstruiert werden muss und der Fall am Zugang, am Inhalt des Umschlags oder an § 4 KSchG kippen kann.
 
 ## Rechtskern
 - **Schriftform:** § 623 BGB verlangt eigenhändige Namensunterschrift; Textform, Scan, E-Mail, DocuSign oder beA-Nachricht ersetzen die arbeitsrechtliche Kündigung materiell nicht.
@@ -495,7 +493,7 @@ Erzeuge immer eine Tabelle: `Zustellweg / Beleg / beweisbarer Inhalt / Zugangsta
 
 ## Aufgabe
 
-Skill fuer den **Kuendigungszugang nach § 130 BGB** im Arbeitsrecht: Beweislast, Zugangsmoment, Folge fuer die 3-Wochen-Frist § 4 KSchG.
+Skill für den **Kuendigungszugang nach § 130 BGB** im Arbeitsrecht: Beweislast, Zugangsmoment, Folge für die 3-Wochen-Frist § 4 KSchG.
 
 ## Norm
 

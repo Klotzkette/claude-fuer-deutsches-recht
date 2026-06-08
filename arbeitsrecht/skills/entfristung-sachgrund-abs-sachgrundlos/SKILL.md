@@ -7,10 +7,10 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 
 ## Arbeitsbereich
 
-**Entfristung Sachgrund ABS Sachgrundlos** ordnet den Fall über die tragenden Prüffelder: Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Entfristung Sachgrund ABS Sachgrundlos** ordnet den Fall über die tragenden Prüfungslinien: Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach §. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast. |
 | `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
@@ -19,12 +19,12 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `entfristung-sachgrund-pruefen-14-abs-1`
 
@@ -39,7 +39,6 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage zu Beginn — kläre vor der Sachgrundprüfung
 
@@ -59,7 +58,7 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: § 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion fuer Mitglieder findet nicht statt. Bei Verweigerung eines Folgevertrags wegen Betriebsratsmandat besteht Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (§ 78 BetrVG i.V.m. § 280 BGB). Quelle: dejure.org-Vernetzung; vor Schriftsatzverwendung Volltext pruefen.
+- **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: § 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion für Mitglieder findet nicht statt. Bei Verweigerung eines Folgevertrags wegen Betriebsratsmandat besteht Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (§ 78 BetrVG i.V.m. § 280 BGB). Quelle: dejure.org-Vernetzung; vor Schriftsatzverwendung Volltext pruefen.
 - Aeltere Leitentscheidungen (BAG zur Vorbeschaeftigung, BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 u.a. zur Verfassungsmaessigkeit § 14 Abs. 2 TzBfG): vor Zitat Aktenzeichen und Fundstelle in dejure.org / openjur.de pruefen.
 
 ## Quellenregel
@@ -169,7 +168,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage zu Beginn — kläre vor der Prüfung
 
 1. Wie lange dauert das befristete Arbeitsverhältnis insgesamt (alle Verträge zusammen)?
@@ -272,7 +270,6 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+716%2F09
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage zu Beginn
 
 1. Handelt es sich um eine echte Erstgründung oder um Umstrukturierung / Ausgliederung?
@@ -363,7 +360,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage zu Beginn
 

@@ -53,7 +53,7 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 **Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** Die Generalklausel des § 307 BGB (unangemessene Benachteiligung) ist wertungsjuristisches Kernstueck — Konkretisierung erfolgt durch dispositives Recht als Leitbild, durch Aequivalenz-Gedanken und durch Grundrechte (insbesondere bei B2C im Lichte der Klausel-RL 93/13/EWG).
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Wertung der Norm formulieren.** Was schuetzt die Norm? Welches Interesse wertet sie hoeher? Welche Verfassungsentscheidung steht dahinter?
 2. **System-Wertung pruefen.** Wie passt die Norm in die Wertordnung des BGB-Abschnitts und ins Gesamtsystem?
@@ -99,7 +99,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 - §§ 138, 242, 305 ff., 307, 437 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

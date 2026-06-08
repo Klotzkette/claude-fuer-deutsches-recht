@@ -1,29 +1,29 @@
 ---
 name: do-deckungsabwehr-lebensversicherung
-description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüffeld für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # DO Deckungsabwehr Lebensversicherung
 
 ## Arbeitsbereich
 
-**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüffelder: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüffeld für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüfungslinien: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-do-deckungsabwehr` | D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen. |
-| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Prüffeld für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Prüfungslinie für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen` | Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Versicherungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-do-deckungsabwehr`
 
@@ -282,7 +282,7 @@ BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert be
 
 ## 2. `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`
 
-**Fokus:** Prüffeld für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Lebensversicherung Rückkauf
 
@@ -384,7 +384,7 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 2. **Widerrufs-Recht-Prüfung versäumt**
 3. **Stornogebuehr-Höhe nicht angefochten**
 4. **Bewertungs-Reserven-Anteil ignoriert**
-5. **Verjaehrung 3 Jahre** überschritten
+5. **Verjährung 3 Jahre** überschritten
 
 ## Anschluss
 
@@ -493,7 +493,7 @@ Anlage: Vollmacht
 3. Welche Begründung hat der Versicherer für die Ablehnung — Obliegenheitsverletzung (§ 28 VVG), Risikoausschluss, Anzeigepflichtverletzung (§ 19 VVG), fehlender Versicherungsfall, vorsätzliche Herbeiführung (§ 81 VVG)?
 4. Welche Mitteilungs- und Mitwirkungspflichten wurden angeblich verletzt und in welchem Verschuldensgrad?
 5. Liegt der vollständige Vertrag mit allen AVB, Antragsformularen und Schadensanzeigen vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -522,7 +522,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Prüfschema Ablehnungsschreiben
 
-
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. Anspruchsgrundlage benannt
@@ -547,7 +546,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schreibvorlage Widerspruch gegen Ablehnung
 
 ```
@@ -570,7 +568,7 @@ liegt vor weil [Begruendung].
 III. Zur Ablehnungsbegruendung
 1. Eine Obliegenheitsverletzung § 28 VVG liegt nicht vor weil
  [Begruendung]. Hilfsweise ist die behauptete Verletzung jedenfalls
- nicht kausal § 28 Abs. 3 VVG fuer Eintritt Feststellung oder
+ nicht kausal § 28 Abs. 3 VVG für Eintritt Feststellung oder
  Umfang des Versicherungsfalls.
 2. Eine Anzeigepflichtverletzung § 19 VVG scheitert bereits an der
  fehlenden Belehrung nach § 19 Abs. 5 VVG bzw. ist nicht
@@ -594,11 +592,10 @@ Mit kollegialen Gruessen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Übergabe
 

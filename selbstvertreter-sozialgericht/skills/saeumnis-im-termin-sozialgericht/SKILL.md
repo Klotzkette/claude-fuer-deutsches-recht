@@ -38,7 +38,7 @@ Sie koennen zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das G
 - **§ 137 SGG** — Saeumnis-Folgen.
 - **§ 124 SGG** — Muendliche Verhandlung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vorab nicht koennen
 
@@ -62,7 +62,7 @@ Verlegungsantrag
 
 Sehr geehrte Damen und Herren,
 
-ich kann den fuer [Datum, Uhrzeit] anberaumten Termin nicht wahrnehmen, weil ich erkrankt bin (AU-Bescheinigung anbei).
+ich kann den für [Datum, Uhrzeit] anberaumten Termin nicht wahrnehmen, weil ich erkrankt bin (AU-Bescheinigung anbei).
 
 Ich bitte um Verlegung.
 
@@ -82,7 +82,7 @@ Das Gericht kann:
 
 - Termin vertagen
 - In Ihrer Abwesenheit verhandeln und entscheiden (§ 110 Abs. 1 S. 2 SGG)
-- Falls persoenliches Erscheinen angeordnet war: Ordnungsgeld moeglich
+- Falls persönliches Erscheinen angeordnet war: Ordnungsgeld moeglich
 
 In der Sozialgerichts-Praxis wird oft vertagt, wenn die Saeumnis erkennbar entschuldbar ist. Aber sicher ist das nicht.
 
@@ -129,7 +129,6 @@ Mehrfaches unentschuldigtes Versaeumnis kann zur Klagezuruecknahme-Fiktion fuehr
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110 SGG aktuell.
-
 
 ## Qualitäts-Hardening
 

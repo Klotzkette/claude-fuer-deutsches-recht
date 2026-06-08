@@ -1,30 +1,30 @@
 ---
 name: eu-rente-krankengeld-aussteuerung-long-covid
-description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt Sozialrecht: prüft konkret Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüffeld für fachanwalt sozialrecht long covid bk, Einstieg in den Skill-Verbund Sozialrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt Sozialrecht: prüft konkret Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüfungslinie für fachanwalt sozialrecht long covid bk, Einstieg in den Skill-Verbund Sozialrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # EU Rente Krankengeld Aussteuerung Long Covid
 
 ## Arbeitsbereich
 
-**EU Rente Krankengeld Aussteuerung Long Covid** ordnet den Fall über die tragenden Prüffelder: Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüffeld für fachanwalt sozialrecht long covid bk. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**EU Rente Krankengeld Aussteuerung Long Covid** ordnet den Fall über die tragenden Prüfungslinien: Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüfungslinie für fachanwalt sozialrecht long covid bk. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-sozialrecht-eu-rente-antrag` | Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung. |
 | `fachanwalt-sozialrecht-krankengeld-aussteuerung` | Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht. |
-| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Prüffeld für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Prüfungslinie für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-sozialrecht-orientierung` | Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. verifizierbare Quellen lizenzpflichtige Literaturquellen Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing). |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-sozialrecht-eu-rente-antrag`
 
@@ -39,7 +39,6 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -148,7 +147,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 1. **Auslands-Versicherungs-Verlauf vergessen**
 2. **Antrag in falschem Wohnsitz-Land**
 3. **Sprachkenntnis nicht beachtet** Auslands-Bescheid
-4. **Verjaehrung Renten-Antrag** unbeachtet
+4. **Verjährung Renten-Antrag** unbeachtet
 
 ## 9) BSG-Linien und aktuelle Rechtsprechung
 
@@ -158,7 +157,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 
 - `fachanwalt-sozialrecht-orientierung` — Triage
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei vorgelagertem KG
-- `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Gerichts-Frage Ausland
+- `fachanwalt-iwr-brussels-ia-zuständigkeit` — bei Gerichts-Frage Ausland
 
 ## 2. `fachanwalt-sozialrecht-krankengeld-aussteuerung`
 
@@ -173,7 +172,6 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -245,7 +243,6 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 - `fachanwalt-sozialrecht-gdb-schwerbehinderung` — bei GdB-Bezug
 - `widerspruchsfrist-und-zustellung-sgb` (Power-Tool) — Frist-Prüfung
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -256,7 +253,7 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 ## 3. `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`
 
-**Fokus:** Prüffeld für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
 
@@ -267,7 +264,6 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage — kläre vor Long-COVID-BK-Bearbeitung
 1. Liegt berufliche Exposition gegenüber SARS-CoV-2 im Anwendungsbereich BK 3101 vor (Gesundheitsdienst, Wohlfahrtspflege, Laboratorien)?
@@ -298,7 +294,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. Liegt Berufsunfähigkeit vor — und wurde ein GdB-Antrag (§ 69 SGB IX) bereits gestellt?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -361,7 +357,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Privatversicherung daneben | AU-Versicherung und BG-Leistungen nicht ausschliessend |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -565,12 +560,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Fachkern: Fachanwalt für Sozialrecht — Orientierung
 
 - **Spezialfrage (Fachanwalt für Sozialrecht — Orientierung):** Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing).
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
-
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

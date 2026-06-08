@@ -45,6 +45,14 @@ Dieser Skill behandelt Parteigerichte als Rechtsschutzinstrument, aber prüft ha
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- Art. 21 GG (Parteien)
+- §§ 1-41 PartG (Parteiengesetz)
+- § 23 PartG (Rechenschaftsbericht)
 ## Output
 - Kurz-Erklärung
 - Risiko- und Fristenampel

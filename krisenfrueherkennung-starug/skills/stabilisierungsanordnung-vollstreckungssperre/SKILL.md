@@ -1,32 +1,32 @@
 ---
 name: stabilisierungsanordnung-vollstreckungssperre
-description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrueherkennung Starug: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrueherkennung Starug im Krisenfrueherkennung Starug: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Stabilisierungsanordnung Vollstreckungssperre
 
 ## Arbeitsbereich
 
-**Stabilisierungsanordnung Vollstreckungssperre** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Stabilisierungsanordnung Vollstreckungssperre** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `stabilisierungsanordnung-und-vollstreckungssperre` | Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorlaeufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin. |
+| `stabilisierungsanordnung-und-vollstreckungssperre` | Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorläufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Krisenfrueherkennung Starug klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `stabilisierungsanordnung-und-vollstreckungssperre`
 
-**Fokus:** Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorlaeufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin.
+**Fokus:** Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorläufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin.
 
 # Stabilisierungsanordnung und Vollstreckungssperre — §§ 49-59 StaRUG
 
@@ -274,7 +274,7 @@ Mit freundlichen Grüßen
 
 1. **Vollstreckungsbedrohung akut?** Pfaendung, Zwangsversteigerung, Sicherheitsverwertung konkret drohen?
 2. **Sanierungsfaehigkeit glaubhaft?** Positives Sanierungsgutachten (IDW S 11 Qualitaet) vorhanden?
-3. **Restrukturierungssache angezeigt?** § 31 StaRUG als Voraussetzung fuer Stabilisierungsanordnung.
+3. **Restrukturierungssache angezeigt?** § 31 StaRUG als Voraussetzung für Stabilisierungsanordnung.
 4. **3-Monats-Frist ausreichend?** Ist Plan innerhalb von 3 Monaten abstimmungsreif?
 
 ---

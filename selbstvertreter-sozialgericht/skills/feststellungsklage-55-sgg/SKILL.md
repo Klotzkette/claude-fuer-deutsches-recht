@@ -17,7 +17,7 @@ Manchmal geht es nicht um Geld oder einen Bescheid, sondern um die Frage: Was gi
 
 ## In einfacher Sprache
 
-Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht nicht um Geld, sondern um Klarheit. Dafuer gibt es die Feststellungsklage.
+Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht nicht um Geld, sondern um Klarheit. Dafür gibt es die Feststellungsklage.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -28,7 +28,7 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Rechtsverhaeltnis**: Beziehung zwischen Ihnen und der Behoerde mit rechtlichen Folgen.
+- **Rechtsverhaeltnis**: Beziehung zwischen Ihnen und der Behörde mit rechtlichen Folgen.
 - **Berechtigtes Interesse**: Sie muessen ein konkretes Interesse an der Feststellung haben.
 - **Subsidiaritaet**: Feststellungsklage nur, wenn andere Klagearten nicht reichen.
 
@@ -38,7 +38,7 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 - **§ 55 Abs. 1 Nr. 3 SGG** — Feststellung der Versicherungspflicht.
 - **§ 78 SGG** — Vorverfahren in der Regel nicht noetig.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Feststellungsklage richtig ist
 
@@ -60,7 +60,7 @@ Sozialgericht [Ort] [Ort, Datum]
 
 gegen
 
-[Behoerde / Traeger]
+[Behörde / Traeger]
 [Adresse]
 
 — Beklagte —
@@ -89,7 +89,7 @@ III. Rechtliche Wuerdigung
 [Argumentation]
 
 Anlagen:
-- Schriftverkehr mit Behoerde
+- Schriftverkehr mit Behörde
 - Vertraege, Bescheinigungen
 
 [Unterschrift]
@@ -99,9 +99,9 @@ Anlagen:
 
 Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
-- Klarheit fuer kuenftige Antraege
+- Klarheit für kuenftige Antraege
 - Vermeidung von Schadensersatz-Streit
-- Klarheit fuer berufliche Entscheidung
+- Klarheit für berufliche Entscheidung
 
 ## Worauf Sie besonders achten muessen
 
@@ -112,7 +112,7 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
 - Feststellungsklage statt Anfechtung → falsch
 - Allgemeines Interesse statt konkret → reicht nicht
-- "Klage gegen Behoerde generell" → konkrete Frage formulieren
+- "Klage gegen Behörde generell" → konkrete Frage formulieren
 
 ## Querverweise
 
@@ -124,7 +124,6 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 55 SGG aktuell.
-
 
 ## Qualitäts-Hardening
 

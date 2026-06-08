@@ -3,7 +3,7 @@ name: widerspruch-begruendung-laienleitfaden
 description: "Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen."
 ---
 
-# So begruenden Sie Ihren Widerspruch — fuer Laien
+# So begruenden Sie Ihren Widerspruch — für Laien
 
 ## Fachlicher Anker
 
@@ -27,24 +27,24 @@ Sie haben Widerspruch eingelegt. Jetzt muessen Sie sagen warum. Erklaeren Sie Ih
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Begruendung**: Warum Sie den Bescheid fuer falsch halten.
+- **Begruendung**: Warum Sie den Bescheid für falsch halten.
 - **Tatsache**: Was tatsaechlich passiert ist oder gilt (z.B. Ihre Erkrankung, Ihr Einkommen).
 - **Beweismittel**: Was eine Tatsache belegt (Arztbericht, Kontoauszug, Zeugen).
 - **Subsumtion**: Anwendung eines Gesetzes auf Ihren Fall.
-- **Abhilfe**: Wenn die Behoerde Ihnen recht gibt.
+- **Abhilfe**: Wenn die Behörde Ihnen recht gibt.
 
 ## Rechtsgrundlagen
 
 - **§ 84 Abs. 2 SGG** — Begruendung des Widerspruchs (nicht zwingend, aber sehr empfohlen).
-- **§ 24 SGB X** — Anhoerung; Sie duerfen sich zu allem aeussern.
+- **§ 24 SGB X** — Anhörung; Sie duerfen sich zu allem aeussern.
 - **§ 25 SGB X** — Akteneinsicht.
 - **§ 20 SGB X** — Untersuchungsgrundsatz auch im Vorverfahren.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Akteneinsicht beantragen
 
-Lesen Sie zuerst, was die Behoerde ueber Sie hat. Beantragen Sie Akteneinsicht (§ 25 SGB X). Mustertext:
+Lesen Sie zuerst, was die Behörde ueber Sie hat. Beantragen Sie Akteneinsicht (§ 25 SGB X). Mustertext:
 
 ```
 Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 SGB X. Bitte uebersenden Sie mir die Akte oder geben Sie einen Termin zur Einsicht in Ihren Raeumen.
@@ -53,7 +53,7 @@ Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 
 ### Schritt 2 — Den Bescheid genau lesen
 
 - Welche Entscheidung wurde getroffen?
-- Welche Begruendung hat die Behoerde?
+- Welche Begruendung hat die Behörde?
 - Welche Tatsachen hat sie zugrunde gelegt?
 - Welches Gesetz nennt sie?
 
@@ -62,9 +62,9 @@ Ich beantrage Akteneinsicht in die Sie betreffenden Verwaltungsakten nach § 25 
 Schreiben Sie zunaechst formlos auf:
 
 - Was ist tatsaechlich passiert?
-- Was haben Sie der Behoerde gesagt / nicht gesagt?
+- Was haben Sie der Behörde gesagt / nicht gesagt?
 - Welche Aerzte / Belege / Zeugen haben Sie?
-- Was hat die Behoerde uebersehen oder falsch verstanden?
+- Was hat die Behörde uebersehen oder falsch verstanden?
 
 ### Schritt 4 — Aufbau der Begruendung
 
@@ -78,7 +78,7 @@ I. Sachverhalt
  - Daten, Namen, Adressen.
 
 II. Rechtliche Bewertung
- - Welche Entscheidung der Behoerde halte ich fuer falsch?
+ - Welche Entscheidung der Behörde halte ich für falsch?
  - Warum? (Tatsachen, die uebersehen wurden; Beweise, die nicht beachtet wurden; falsche Auslegung des Gesetzes)
 
 III. Antrag
@@ -89,7 +89,7 @@ IV. Beweismittel
  - Liste aller Anlagen, nummeriert.
 ```
 
-### Schritt 5 — Konkrete Beispiele fuer typische Themen
+### Schritt 5 — Konkrete Beispiele für typische Themen
 
 **Pflegegrad zu niedrig**: "Die Pflegekasse hat mit dem MD-Gutachten vom [Datum] Pflegegrad 2 festgestellt. Tatsaechlich brauche ich Hilfe bei [...]. Beigefuegt ist ein Pflegeprotokoll meiner Tochter ueber 14 Tage, das zeigt, dass ich taeglich ueber 90 Minuten Hilfe brauche. Damit liegt Pflegegrad 3 vor."
 
@@ -104,7 +104,7 @@ IV. Beweismittel
 - Pflegeprotokolle
 - Kontoauszuege
 - Mietvertrag
-- Schriftverkehr mit Behoerde
+- Schriftverkehr mit Behörde
 - Zeugenangaben (Name, Adresse)
 
 Nummerieren Sie die Anlagen: Anlage 1, Anlage 2 etc.
@@ -137,8 +137,7 @@ Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 24 SGB X garantiert Ihr Anhoerungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
-
+Stand: 05/2026. § 24 SGB X garantiert Ihr Anhörungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
 
 ## Qualitäts-Hardening
 

@@ -7,25 +7,25 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 ## Arbeitsbereich
 
-**Strafr Dysfunk Befangenheitsantrag** ordnet den Fall über die tragenden Prüffelder: Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Strafr Dysfunk Befangenheitsantrag** ordnet den Fall über die tragenden Prüfungslinien: Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `strafr-dysfunk-befangenheitsantrag-zielgenau` | Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Verteidigung auszusetzen. Konkrete Tatsachen die aus Sicht eines vernuenftigen Beschuldigten Misstrauen gegen die Unparteilichkeit rechtfertigen. Trennscharf gegenueber Verfahrenskritik. Schriftsatz mit Eidesstattlicher Versicherung. Folgen der Verwerfung nach § 26a StPO als unzulaessig. Selektion welcher Anlass tatsaechlich tragfaehig ist. |
 | `strafr-dysfunk-beistandsleistung-137-stpo` | § 137 Abs. 1 StPO als zentrales Schutzschild gegen den Vorwurf dysfunktionaler Strafverteidigung nutzen. Verteidiger leistet Beistand des Beschuldigten in jeder Lage des Verfahrens. Privilegierung schuetzt aktives Eintreten gegen Belastung. Sie endet erst wenn der Verteidiger sich bewusst ausserhalb der Rechtsordnung stellt. Argumentation in Schriftsatz und Senatsdialog. Auch harte Antraege im Schutzbereich. Reichweite gegenueber § 138a StPO und § 143a StPO. |
-| `strafr-dysfunk-beweisantrag-fundament` | Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte fuer Schriftsatz und Sitzungsprotokoll. |
+| `strafr-dysfunk-beweisantrag-fundament` | Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte für Schriftsatz und Sitzungsprotokoll. |
 | `strafr-dysfunk-beweisantragsstrategie` | Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert. Jeder Antrag traegt erkennbar Beweisbehauptung Beweismittel Konnex zur Sachverteidigung. Bezug zu konkreten Lebenstatsachen statt Beweisermittlungsantrag. Reihenfolge und Zeitpunkt der Antraege strategisch. Antraege schriftlich oder Sitzungsprotokoll. § 244 Abs. 3 und Abs. 6 StPO und § 244 Abs. 4 Satz 2 StPO. Antworten der Kammer mit Sachdienlichkeitsbegruendung pruefen. Vorbeugend gegen § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht. |
-| `strafr-dysfunk-contempt-of-court-debatte-177a` | Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien fuer berufspolitische Auseinandersetzung und fuer den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger. |
+| `strafr-dysfunk-contempt-of-court-debatte-177a` | Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafr-dysfunk-befangenheitsantrag-zielgenau`
 
@@ -136,7 +136,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 ## 3. `strafr-dysfunk-beweisantrag-fundament`
 
-**Fokus:** Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte fuer Schriftsatz und Sitzungsprotokoll.
+**Fokus:** Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte für Schriftsatz und Sitzungsprotokoll.
 
 # Beweisantrag mit unangreifbarem Fundament
 
@@ -156,9 +156,9 @@ Beweisantrag
 Es wird beantragt, ueber die Behauptung,
 dass [konkrete Tatsache],
 folgendes Beweismittel zu erheben:
-[Zeuge Name, Anschrift / Sachverstaendiger fuer Fachgebiet / Urkunde Aktenzeichen Bl. XX d.A.].
+[Zeuge Name, Anschrift / Sachverstaendiger für Fachgebiet / Urkunde Aktenzeichen Bl. XX d.A.].
 
-Diese Beweiserhebung ist fuer die Sachaufklaerung erforderlich,
+Diese Beweiserhebung ist für die Sachaufklaerung erforderlich,
 weil [konkreter Konnex zur Schuldfrage, Beweiswuerdigung, Tatfolgen, Strafzumessung].
 
 Eine pauschale Wahrunterstellung waere nicht ausreichend, weil
@@ -247,7 +247,7 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 
 ## 5. `strafr-dysfunk-contempt-of-court-debatte-177a`
 
-**Fokus:** Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien fuer berufspolitische Auseinandersetzung und fuer den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger.
+**Fokus:** Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger.
 
 # Contempt of Court Debatte und § 177a GVG-E einordnen
 

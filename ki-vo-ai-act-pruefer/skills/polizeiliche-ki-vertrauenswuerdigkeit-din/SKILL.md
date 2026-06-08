@@ -1,6 +1,6 @@
 ---
 name: polizeiliche-ki-vertrauenswuerdigkeit-din
-description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz."
+description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation für Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz."
 ---
 
 # Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit

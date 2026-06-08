@@ -6,20 +6,16 @@ description: "Vertragsstrafe pruefen: Hoehe, AGB-Kontrolle §§ 305 ff. BGB, Bes
 # NDA: Vertragsstrafe pruefen
 
 ## Spezialwissen: NDA: Vertragsstrafe pruefen
-- **Spezialgegenstand:** NDA: Vertragsstrafe pruefen / nda vertragsstrafe pruefen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, EUR.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -41,7 +37,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ### AGB-Kontrolle (§§ 305 ff. BGB)
 
 - **B2C (Verbraucher-NDA, z.B. Arbeitnehmer in Privatkonstellation):** § 309 Nr. 6 BGB - absolutes Klauselverbot. Vertragsstrafe in AGB gegenueber Verbrauchern stets unwirksam.
-- **B2B:** § 310 Abs. 1 BGB lockert direkte Anwendung, aber § 307 BGB Wertungsausstrahlung. Indizien fuer Wirksamkeit: angemessene Hoehe, Verschulden, konkrete Pflichtbenennung, keine Doppelpauschalierung.
+- **B2B:** § 310 Abs. 1 BGB lockert direkte Anwendung, aber § 307 BGB Wertungsausstrahlung. Indizien für Wirksamkeit: angemessene Hoehe, Verschulden, konkrete Pflichtbenennung, keine Doppelpauschalierung.
 - **Arbeitsrecht:** Im Arbeitsverhaeltnis Vertragsstrafe in AGB grundsaetzlich problematisch. § 309 Nr. 6 BGB gilt direkt zwar nicht (kein Verbraucher); aber § 307 BGB. BAG verlangt: enge Bestimmtheit, Hoehe in Bezug zu Bruttomonatsgehalt (Faustregel: max. 1 Brutto-Monatsgehalt pro Verstoss), Anrechnung auf Schadenersatz.
 
 ### Branchen-Faustregeln
@@ -58,7 +54,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Mustertext B2B-NDA (Vertragsstrafe, individualvertraglich verhandelbar)
 
-> Verletzt die empfangende Partei schuldhaft eine Geheimhaltungspflicht aus diesem Vertrag, kann die offenlegende Partei fuer jeden Fall der Verletzung eine Vertragsstrafe in Hoehe von EUR [Betrag] verlangen. Mehrere Verstoesse, die auf demselben einheitlichen Vorgang beruhen, gelten als ein Verstoss. Die Vertragsstrafe wird auf einen weitergehenden, nachzuweisenden Schadenersatzanspruch angerechnet (§ 340 Abs. 2 BGB).
+> Verletzt die empfangende Partei schuldhaft eine Geheimhaltungspflicht aus diesem Vertrag, kann die offenlegende Partei für jeden Fall der Verletzung eine Vertragsstrafe in Hoehe von EUR [Betrag] verlangen. Mehrere Verstoesse, die auf demselben einheitlichen Vorgang beruhen, gelten als ein Verstoss. Die Vertragsstrafe wird auf einen weitergehenden, nachzuweisenden Schadenersatzanspruch angerechnet (§ 340 Abs. 2 BGB).
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
@@ -73,10 +69,10 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
 - Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

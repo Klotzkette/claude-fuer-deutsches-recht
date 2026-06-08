@@ -1,32 +1,32 @@
 ---
 name: zusammenarbeit-bundesregierung
-description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im Normenkontrollrat Nkr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Zusammenarbeit Bundesregierung
 
 ## Arbeitsbereich
 
-**Zusammenarbeit Bundesregierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Zusammenarbeit Bundesregierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` | Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail. |
+| `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` | Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten für Nachforderungsschreiben und Eskalationsmail. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Normenkontrollrat Nkr klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
 
-**Fokus:** Verhaltens-Skill fuer die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten fuer Nachforderungsschreiben und Eskalationsmail.
+**Fokus:** Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten für Nachforderungsschreiben und Eskalationsmail.
 
 # NKR-Zusammenarbeit mit Bundesregierung und Ressorts
 
@@ -52,7 +52,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 - **GGO § 22, § 23** — Ressortabstimmung allgemein
 - Geschaeftsordnung des NKR (intern)
 
-## Pruefraster / Schritt fuer Schritt
+## Pruefraster / Schritt für Schritt
 
 ### Stufe 1 — Informeller Kontakt
 
@@ -104,7 +104,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 Nachforderungsschreiben:
 
-> "Sehr geehrte Damen und Herren, fuer die Pruefung des Vorhabens benoetigen wir gemaess § 5 NKRG ergaenzende Angaben zu Fallzahlen und Bearbeitungszeit der vorgesehenen Pflicht nach [Paragraf]. Wir bitten um Uebersendung bis [Datum]."
+> "Sehr geehrte Damen und Herren, für die Pruefung des Vorhabens benoetigen wir gemaess § 5 NKRG ergaenzende Angaben zu Fallzahlen und Bearbeitungszeit der vorgesehenen Pflicht nach [Paragraf]. Wir bitten um Uebersendung bis [Datum]."
 
 In der Stellungnahme:
 

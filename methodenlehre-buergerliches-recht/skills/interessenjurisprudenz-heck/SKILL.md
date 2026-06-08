@@ -48,22 +48,22 @@ Heck schreibt: Gesetz ist Resultat eines Interessenkonflikts. Wer es anwendet, m
 
 **Beispiel § 437 BGB (Maengelrechte):** Interessenkonflikt zwischen Kaeufer (Erhaltung des Aequivalenzverhaeltnisses) und Verkaeufer (Beendigung des Vertrags ohne Wirtschaftsverlust). Der Gesetzgeber stuft: Nacherfuellung vor Ruecktritt, Minderung vor Schadensersatz statt der Leistung. Die Stufung ist Ergebnis einer Interessenabwaegung.
 
-**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr fuer das Vertretenmuessen, weil der Schuldner naeher an den Tatsachen ist.
+**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr für das Vertretenmuessen, weil der Schuldner naeher an den Tatsachen ist.
 
-**Beispiel § 138 BGB (Sittenwidrigkeit):** Interessenkonflikt Privatautonomie (Vertragsfreiheit) vs. Schutz vor uebermaessiger Benachteiligung. Die Konkretisierung erfolgt durch Interessenabwaegung im Einzelfall (vgl. Buergschaftsentscheidung BVerfGE 89, 214).
+**Beispiel § 138 BGB (Sittenwidrigkeit):** Interessenkonflikt Privatautonomie (Vertragsfreiheit) vs. Schutz vor uebermäßiger Benachteiligung. Die Konkretisierung erfolgt durch Interessenabwaegung im Einzelfall (vgl. Buergschaftsentscheidung BVerfGE 89, 214).
 
 **Beispiel § 242 BGB:** Treu und Glauben als Interessenmediator. Der Richter muss die Interessen der Parteien abwaegen und im Lichte der Verkehrssitte konkretisieren.
 
 **Beispiel Schadensrecht §§ 249 ff. BGB:** Interessenabwaegung zwischen Schaedigerentlastung und Geschaedigtenkompensation. Vorteilsausgleichung, Mitverschulden (§ 254 BGB), normativer Schadensbegriff sind interessenjuristisch durchgepraegt.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 1. **Interessen identifizieren.** Welche Interessen stehen sich im konkreten Fall gegenueber?
 2. **Gesetzgeberliche Wertung ermitteln.** Wie hat der Gesetzgeber den Interessenkonflikt grundsaetzlich geloest?
 3. **Norm-Architektur lesen.** Welche Tatbestandsmerkmale dienen welchen Interessen?
 4. **Wertungsabwaegung im konkreten Fall durchfuehren.** Welche Wertung passt zum Sachverhalt?
 5. **Ergebnis** in Form einer Interessenabwaegung im Schriftsatz darstellen.
-6. **Anbindung an Verfassungsrecht** pruefen (siehe Skill `wertungsjurisprudenz-larenz-canaris` fuer die moderne Verfeinerung).
+6. **Anbindung an Verfassungsrecht** pruefen (siehe Skill `wertungsjurisprudenz-larenz-canaris` für die moderne Verfeinerung).
 
 ## Typische Fehler / Kritik
 
@@ -94,7 +94,6 @@ Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens daru
 - BVerfGE 89, 214 — Buergschaft (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2089%2C%20214).
 
 Stand: Mai 2026.
-
 
 ## Qualitäts-Hardening
 

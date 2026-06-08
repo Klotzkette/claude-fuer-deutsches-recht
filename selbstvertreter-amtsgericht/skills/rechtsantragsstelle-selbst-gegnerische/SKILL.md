@@ -7,10 +7,10 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 
 ## Arbeitsbereich
 
-**Rechtsantragsstelle Selbst Gegnerische** ordnet den Fall über die tragenden Prüffelder: Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Rechtsantragsstelle Selbst Gegnerische** ordnet den Fall über die tragenden Prüfungslinien: Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `einreichung-rechtsantragsstelle-selbst` | Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen. |
 | `gegnerische-vollstreckung-abwehr` | Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht. |
@@ -18,22 +18,22 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `einreichung-rechtsantragsstelle-selbst`
 
 **Fokus:** Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen.
 
-# Die Rechtsantragsstelle als Hilfe fuer Buerger
+# Die Rechtsantragsstelle als Hilfe für Buerger
 
 ## Worum geht es?
 
-Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle fuer Rechtsantraege" genannt). Dort koennen Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere fuer Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
+Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle für Rechtsantraege" genannt). Dort koennen Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere für Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -53,14 +53,14 @@ Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantr
 - **§ 496 ZPO** — Klage zu Protokoll.
 - **§ 569 III Nr. 2 ZPO** — Beschwerde zu Protokoll.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Was die Rechtsantragsstelle MACHT
 
 - Aufnahme einer Klage zu Protokoll (§ 496 ZPO) — kostenlos.
 - Hilfe bei Antraegen (Mahnbescheid, PKH-Antrag, Vollstreckungs-Antraege).
 - Pruefung formaler Anforderungen (Adressen, Streitwert, Antrag).
-- Informationen ueber Zustaendigkeit und Verfahren.
+- Informationen ueber Zuständigkeit und Verfahren.
 
 ### Schritt 2 — Was sie NICHT macht
 
@@ -130,7 +130,6 @@ Detailliert beim separaten Substitutionsagenten.
 
 Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klaeren.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -168,7 +167,7 @@ Wenn Sie das Verfahren verloren haben, kann die Gegenseite gegen Sie vollstrecke
 - **§ 850 ff. ZPO** — Pfaendungs-Freigrenzen Lohn.
 - **§ 811 ZPO** — Unpfaendbare Sachen (Haushalts-Gegenstaende).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pflichtschuldigkeit pruefen
 
@@ -207,7 +206,7 @@ Mit freundlichen Gruessen
 §§ 850 ff. ZPO: Lohn ist bis zur Pfaendungs-Freigrenze unpfaendbar.
 
 - Grundfreibetrag (Stand 05/2026 ca. 1.500 EUR netto — aktuelle Tabelle verifizieren).
-- Erhoehungen fuer unterhaltsberechtigte Personen.
+- Erhoehungen für unterhaltsberechtigte Personen.
 
 Tabelle § 850c ZPO regelmaessig aktualisiert; ueber justiz.de verfuegbar.
 
@@ -222,7 +221,7 @@ Antrag bei Ihrer Bank — meist binnen 24 Stunden umgewandelt.
 Gerichtsvollzieher darf bestimmte Gegenstaende nicht pfaenden:
 
 - Einrichtungs-Gegenstaende des taeglichen Lebens.
-- Werkzeug fuer Erwerb.
+- Werkzeug für Erwerb.
 - Kleidung.
 - Bettzeug.
 
@@ -242,7 +241,7 @@ gemaess § 765a ZPO.
 Begruendung:
 
 Die Vollstreckung der [konkrete Massnahme]
-wuerde fuer mich eine sittenwidrige Haerte
+wuerde für mich eine sittenwidrige Haerte
 bedeuten, weil [Begruendung — z. B. schwere
 Krankheit, Behinderung, drohende Obdachlosigkeit].
 
@@ -269,7 +268,7 @@ VOLLSTRECKUNGS-GEGENKLAGE
 gemaess § 767 ZPO und beantrage:
 
 Die Zwangsvollstreckung aus dem Urteil
-[AZ] vom [Datum] wird fuer unzulaessig erklaert.
+[AZ] vom [Datum] wird für unzulaessig erklaert.
 
 Begruendung:
 
@@ -302,7 +301,7 @@ Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§
 
 - `urteil-rechtskraft-705-zpo` — Urteil.
 - `berufung-amtsgericht-511-zpo` — Berufung pruefen.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH fuer Vollstreckungs-Gegenklage.
+- `prozesskostenhilfe-pkh-114-zpo` — PKH für Vollstreckungs-Gegenklage.
 - `zwangsvollstreckung-querverweis-substitutionsagent` — Substitutionsagent.
 
 ## Quellen und Aktualitaet
@@ -317,7 +316,7 @@ Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen
 
 ## Worum geht es?
 
-Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjaehrung **nicht** in voller Hoehe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
+Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjährung **nicht** in voller Hoehe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
 
 ## Wann brauchen Sie diese Skill?
 
@@ -328,7 +327,7 @@ Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Bekla
 ## Fachbegriffe (kurz erklaert)
 
 - **Gerichtskostenvorschuss**: Vorab-Zahlung der Gerichtskosten, bevor das Gericht zustellt.
-- **§ 167 ZPO "demnaechst"**: Wenn die Zustellung "demnaechst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurueck — wichtig fuer Frist-Wahrung.
+- **§ 167 ZPO "demnaechst"**: Wenn die Zustellung "demnaechst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurueck — wichtig für Frist-Wahrung.
 - **PKH (Prozesskostenhilfe)**: Sozialleistung, wenn Sie die Kosten nicht tragen koennen.
 
 ## Rechtsgrundlagen
@@ -337,9 +336,9 @@ Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Bekla
 - **§ 15 GKG** — Beendigung wegen Nicht-Zahlung.
 - **§ 167 ZPO** — "Demnaechst"-Zustellung.
 - **§ 114 ff. ZPO** — PKH.
-- **§ 204 I Nr. 1 BGB** — Verjaehrungs-Hemmung durch Klage.
+- **§ 204 I Nr. 1 BGB** — Verjährungs-Hemmung durch Klage.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vorschuss-Hoehe berechnen
 
@@ -367,14 +366,14 @@ Sehr wichtig: zahlen Sie **innerhalb von 2 Wochen** nach Aufforderung. Praxis-Ti
 - Ueberweisung: Aktenzeichen im Verwendungszweck.
 - Bankueberweisung kann 1-2 Tage dauern — am besten Echtzeit-Ueberweisung.
 
-### Schritt 4 — Bedeutung fuer § 167 ZPO
+### Schritt 4 — Bedeutung für § 167 ZPO
 
-Verjaehrung wird gehemmt durch **Eingang der Klage bei Gericht** (§ 204 I Nr. 1 BGB) **wenn die Zustellung alsbald erfolgt**.
+Verjährung wird gehemmt durch **Eingang der Klage bei Gericht** (§ 204 I Nr. 1 BGB) **wenn die Zustellung alsbald erfolgt**.
 
 - "Alsbald" = i. d. R. innerhalb von 2 Wochen.
 - Verzoegerung durch nicht-Zahlung des Vorschusses geht **zu Ihren Lasten**.
 
-Wenn Sie Vorschuss nicht zahlen: Zustellung erfolgt nicht. Verjaehrungs-Hemmung kann ausfallen. Im schlimmsten Fall: Verjaehrung tritt ein, obwohl Klage eingereicht ist.
+Wenn Sie Vorschuss nicht zahlen: Zustellung erfolgt nicht. Verjährungs-Hemmung kann ausfallen. Im schlimmsten Fall: Verjährung tritt ein, obwohl Klage eingereicht ist.
 
 ### Schritt 5 — Bei nicht-Zahlung: Folgen
 
@@ -399,14 +398,14 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 
 ## Worauf Sie besonders achten muessen
 
-- **Vorschuss = Verjaehrungs-Risiko**: Bei Saumigkeit kann § 167 ZPO ausfallen.
+- **Vorschuss = Verjährungs-Risiko**: Bei Saumigkeit kann § 167 ZPO ausfallen.
 - **Aktenzeichen im Verwendungszweck**: Sonst kann Bank-Buchung nicht zugeordnet werden.
-- **2-Wochen-Frist**: Faustregel fuer "alsbald" § 167 ZPO. Nicht weiter spannen.
+- **2-Wochen-Frist**: Faustregel für "alsbald" § 167 ZPO. Nicht weiter spannen.
 - **Bei PKH**: Vor Einreichung pruefen oder gleichzeitig stellen.
 
 ## Typische Fehler
 
-- "Vorschuss kann ich spaeter zahlen." → Verjaehrung kann eintreten.
+- "Vorschuss kann ich spaeter zahlen." → Verjährung kann eintreten.
 - "Kein Verwendungszweck bei Ueberweisung." → Bank-Zuordnung verzoegert sich.
 - "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
 
@@ -415,7 +414,7 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
 - `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung pruefen.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
 - `einreichung-papierform-mit-abschriften` — Klage einreichen.
 
 ## Quellen und Aktualitaet

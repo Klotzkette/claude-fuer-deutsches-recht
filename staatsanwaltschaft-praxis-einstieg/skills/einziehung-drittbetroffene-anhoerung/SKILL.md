@@ -6,15 +6,12 @@ description: "Einziehung mit Drittbetroffenen: Praxis-Skill für neue Staatsanw�
 # Einziehung mit Drittbetroffenen
 
 ## Fachkern: Einziehung mit Drittbetroffenen
-- **Spezialgegenstand:** Einziehung mit Drittbetroffenen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Einziehung mit Drittbetroffenen** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Anhörung, Eigentum, Rechte Dritter, Arrest und gerichtlicher Antrag
 
@@ -40,6 +37,18 @@ Dieser Abschnitt bearbeitet **Fachkern: Einziehung mit Drittbetroffenen** im Ber
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 73 ff. StGB (Einziehung)
+- § 73e StGB (Drittansprüche)
+- §§ 421, 431 StPO (Verfahren, Beteiligung Drittbetroffener)
+- BGHSt 64, 146 (Bruttoprinzip)
+- §§ 73-76b StGB (Einziehung von Taterträgen)
+- §§ 111b ff. StPO (Sicherstellung)
+- § 111j StPO (Vermögensarrest)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

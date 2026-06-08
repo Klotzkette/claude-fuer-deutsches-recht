@@ -5,12 +5,28 @@ description: "Finaler Qualitätscheck für Hochschulrechtsausgaben."
 
 # Redteam Hochschulrecht Qualitygate
 
+## Normenanker
+
+Arbeitsfokus: **Redteam Hochschulrecht Qualitygate**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Fachkern: Redteam Hochschulrecht Qualitygate
-- **Spezialgegenstand:** Redteam Hochschulrecht Qualitygate. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 

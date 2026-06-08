@@ -1,36 +1,21 @@
 ---
 name: aenderungs-historie-agb-eskalations-marker
-description: "Aenderungs Historie AGB Eskalations Marker im Plugin Vertragsrecht: prüft konkret Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge, Unterstützt bei der rechtlichen Prüfung von Allgemeinen, Ordnet ein Vertragsproblem dem richtigen Genehmiger per. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt was hat sich in diesem Vertrag geändert, zeig mir die Nachtragshistorie, wo steht die aktuelle [Klausel] oder mehrere Vertragsversionen hochlädt im Vertragsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Aenderungs Historie AGB Eskalations Marker
+# Nachtragsverwaltung
 
 ## Arbeitsbereich
 
-**Aenderungs Historie AGB Eskalations Marker** ordnet den Fall über die tragenden Prüffelder: Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge, Unterstützt bei der rechtlichen Prüfung von Allgemeinen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `aenderungs-historie` | Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt. |
-| `agb-pruefung` | Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat. |
-| `eskalations-marker` | Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen", "eskalieren", "braucht das GC-Freigabe", "Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt. |
+Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 ff. BGB, NDA, SaaS- — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `aenderungs-historie`
-
-**Fokus:** Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt.
-
-# Nachtragsverwaltung
-
 
 ## Triage zu Beginn
 
@@ -265,295 +250,24 @@ Vorher: s. o. | Jetzt:
 - **Schriftformklausel:** Mündliche Nebenabsprachen können durch eine Schriftformklausel (§ 125 BGB i. V. m. Vertragsklausel) unwirksam sein. Prüfen, ob eine solche Klausel im Basisvertrag oder einem Nachtrag steht.
 - **Skill-Grenzen:** Dieser Skill stellt nicht fest, welches Dokument bei Widersprüchen vorgeht – das ist eine Auslegungsfrage. Er kennzeichnet Widersprüche und leitet an die Rechtsabteilung weiter. Er entwirft keine neuen Nachträge. Er prüft nicht gegen das Playbook – das ist Aufgabe des Lieferantenvertrag-Prüfungs-Skills.
 
-## 2. `agb-pruefung`
+## Normen und Rechtsprechung
 
-**Fokus:** Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat.
+### Kuratierte Normen-Bibliothek
 
-# AGB-Prüfung – Einbeziehung und Inhaltskontrolle
-
-## Zweck
-
-Dieser Skill begleitet die vollständige AGB-rechtliche Prüfung nach §§ 305–310 BGB. Er deckt
-drei Prüfungsebenen ab: (1) wirksame Einbeziehung (§§ 305–305c BGB), (2) Auslegung
-(§§ 305b, 305c Abs. 2 BGB) und (3) Inhaltskontrolle (§§ 307–309 BGB). Typische Mandate:
-Gestaltung oder Revision von Online-AGB (B2C/E-Commerce), Lieferanten- und Einkaufsbedingungen
-(B2B), Prüfung fremder AGB im Rahmen einer Vertragsverhandlung.
-
-## Eingaben
-
-Das Modell benötigt:
-
-1. **AGB-Text**: vollständiger Wortlaut der zu prüfenden Klauseln oder des gesamten Klauselwerks
-2. **Vertragstyp**: Kauf-, Werk-, Dienst-, Miet- oder sonstiger Vertrag
-3. **Vertragsparteien**: B2C (Verbraucher i. S. v. § 13 BGB) oder B2B (Unternehmer § 14 BGB);
- ggf. gemischte Konstellationen
-4. **Einbeziehungsmodalitäten**: Wie werden AGB einbezogen (Webshop, Bestellformular,
- Rahmenvertrag)? Liegen Hinweis und Möglichkeit zur Kenntnisnahme vor?
-5. **Besondere Branchen**: Energieversorgung, Banken, Versicherungen (Sonderregelungen)
-
-## Rechtlicher Rahmen
-
-### Normen
-
-- **§ 305 Abs. 1–3 BGB** – AGB-Begriff, Einbeziehungsvoraussetzungen
-- **§ 305a BGB** – Einbeziehung durch besondere Umstände (Fernkommunikation etc.)
-- **§ 305b BGB** – Vorrang der Individualabrede
-- **§ 305c BGB** – überraschende und mehrdeutige Klauseln; Unklarheitenregel Abs. 2
-- **§ 306 BGB** – Rechtsfolge der Unwirksamkeit (Restgültigkeit des Vertrags, dispositivem Recht)
-- **§ 307 BGB** – Inhaltskontrolle; Abs. 1 S. 2 Transparenzgebot; Abs. 2 Nr. 1 (Abweichung
- von Grundgedanken), Nr. 2 (Gefährdung des Vertragszwecks)
-- **§ 308 BGB** – Klauselverbote mit Wertungsmöglichkeit
-- **§ 309 BGB** – Klauselverbote ohne Wertungsmöglichkeit (absolute Verbote)
-- **§ 310 Abs. 1 BGB** – eingeschränkte Anwendung §§ 308, 309 im B2B-Verkehr; nur § 307 BGB
- vollanwendbar
+- Art. 28 DSGVO
+- § 203 StGB
+- § 13 UWG
+- § 15 AktG
+- Art. 82 DSGVO
+- § 2 HRG
+- § 4 HRG
+- § 7 HRG
+- § 15 HRG
+- § 16 HRG
+- § 70 VwG
+- § 123 VwG
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
- Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
- tatsächlich liest.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
- die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
- Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
- maßgeblich.
+- EuGH C-249/21
 
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Ablauf
-
-1. **Qualifikation als AGB** (§ 305 Abs. 1 BGB): Sind die Klauseln vorformuliert für eine
- Vielzahl von Verträgen? Wurde der Inhalt vom Verwender gestellt? Cave: 3-Verträge-Regel
- der Rspr.
-2. **Einbeziehungsprüfung** (§§ 305 Abs. 2, 305a BGB):
- - Deutlicher Hinweis vor Vertragsschluss?
- - Zumutbare Möglichkeit der Kenntnisnahme (Link oder Aushang)?
- - Bei B2B: § 305 Abs. 2 BGB gilt nicht; konkludente Einbeziehung durch Handelsbrauch
- möglich (§ 346 HGB).
-3. **Individualabrede** (§ 305b BGB): Vorrang prüfen; Individualabrede muss ernsthaft
- ausgehandelt sein (BGH: blo­ßes Textmarkieren im Formular ≠ Aushandeln).
-4. **Überraschungsklauseln** (§ 305c Abs. 1 BGB): Ungewöhnlich und nicht zu erwarten?
- Klausel wird nicht Vertragsbestandteil.
-5. **Auslegung** (§ 305c Abs. 2 BGB): Bei Unklarheit → kundenfreundlichste Auslegung.
-6. **Inhaltskontrolle** §§ 307–309 BGB in der Prüfreihenfolge:
- a. § 309 BGB (Verbote ohne Wertungsmöglichkeit) – abschließende schwarze Liste
- b. § 308 BGB (Verbote mit Wertungsmöglichkeit) – graue Liste
- c. § 307 BGB (Generalklausel) – unangemessene Benachteiligung; Transparenzgebot
- Im B2B-Verkehr: §§ 308, 309 BGB gelten nur als Indizien für § 307 BGB
- (§ 310 Abs. 1 S. 2 BGB).
-7. **Rechtsfolge** (§ 306 BGB): Unwirksame Klausel entfällt; Vertrag bleibt im Übrigen
- wirksam; dispositives Recht tritt an die Stelle (Lückenfüllung).
-8. **Empfehlung**: Klausel-für-Klausel-Tabelle mit Ampelsystem (grün/gelb/rot) und
- Überarbeitungsvorschlägen.
-
-## Ausgabeformat
-
-- **Prüftabelle** (Klausel | Prüfungsmaßstab | Ergebnis | Überarbeitungsvorschlag)
-- **Rechtliches Memo** (Gutachtenstil) für kritische Klauseln mit ausführlicher Subsumtion
-- Auf Wunsch: **überarbeiteter AGB-Entwurf** mit nachverfolgbaren Änderungen
-
-## Beispiel
-
-**Sachverhalt**: Eine Online-Plattform (B2C) verwendet folgende Klausel: "Änderungen an den
-AGB werden dem Kunden per E-Mail mitgeteilt. Widerspricht der Kunde nicht binnen 6 Wochen,
-gilt seine Zustimmung als erteilt."
-
-**Prüfung (Gutachtenstil)**:
-
-*§ 308 Nr. 5 BGB*: Die Klausel fingiert eine Willenserklärung (Zustimmung) durch Schweigen.
-Nach § 308 Nr. 5 lit. b BGB müsste der Verwender den Kunden auf die Bedeutung seines
-Schweigens hinweisen. Ob ein ausreichender Hinweis in der E-Mail liegt, ist im Einzelfall zu
-prüfen. Fehlt er, ist die Klausel nach § 308 Nr. 5 BGB unwirksam.
-
-*Zusätzlich § 307 Abs. 1 S. 2 BGB (Transparenzgebot)*: Die Frist von 6 Wochen ist nach
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
-
-**Ergebnis**: Klausel ist unwirksam. Empfohlen: Opt-in-Lösung mit aktiver Bestätigung.
-
-## Risiken und typische Fehler
-
-- **Einbeziehungsfehler**: AGB werden erst nach Vertragsschluss übermittelt → nicht wirksam
- einbezogen (§ 305 Abs. 2 BGB); besonders kritisch bei E-Commerce.
-- **Überraschungsklauseln** (§ 305c BGB): Klauseln an unerwarteter Stelle (z. B. Haftungsaus-
- schluss in Lieferbedingungen) → unwirksam ohne Hinweis.
-- **Unterschätzung des B2B-Risikos**: Auch B2B-AGB unterliegen § 307 BGB; übermäßige
- Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
-- **Transparenzgebot** § 307 Abs. 1 S. 2 BGB: Preis­nachberechnungsklauseln ohne
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Geltungserhaltende Reduktion**: Im deutschen AGB-Recht grundsätzlich nicht zulässig
- (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
- ersetzt.
-- **Berufsrecht**: Keine Klauseln entwerfen, die § 43a BRAO oder berufsrechtliche Verbote
- umgehen; Verschwiegenheit § 203 StGB beachten.
-
-## Quellenpflicht
-
-Jede AGB-Bewertung ist nach `references/zitierweise.md` zu belegen. Für jede als unwirksam
-eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende Kommentarmeinung
-zu zitieren (Bearbeiter, Werk, Aufl., §, Rn.). Bei abweichender Instanzrechtsprechung ist auf
-den Streitstand hinzuweisen. "Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
-Ergebnis.
-
-## 3. `eskalations-marker`
-
-**Fokus:** Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen", "eskalieren", "braucht das GC-Freigabe", "Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt.
-
-# Eskalationsregeln
-
-
-## Triage zu Beginn
-
-1. Welcher Eskalationsauslöser liegt vor — Betrags-Schwelle, Klausel-Abweichung oder automatischer Auslöser?
-2. Auf welcher Seite steht das Unternehmen (Käufer oder Verkäufer) — welches Playbook gilt?
-3. Wer ist der konkrete Genehmiger laut Eskalationsmatrix (CLAUDE.md)?
-4. Bis wann muss eine Entscheidung vorliegen (Verhandlungsdeadline)?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 164 ff. BGB — Vertretung; Vollmacht; Vertretungsmacht
-- § 177 BGB — Genehmigung vollmachtlosen Handelns
-- § 311 Abs. 2 BGB — culpa in contrahendo (Vorvertragspflichten)
-- §§ 5-8 LkSG — Sorgfaltspflichten (Eskalationsauslöser bei Lieferkettenverstößen)
-- Art. 33, 34 DSGVO — Meldepflichten bei Datenpannen (Eskalationsauslöser)
-- § 43a Abs. 2 BRAO — anwaltliche Verschwiegenheitspflicht
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine "hast du kurz?"-E-Mail schreibt.
-
-## Eingaben
-
-- Beschreibung des Problems (direkt oder Verweis auf Prüfvermerk)
-- Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Eskalation`
-- Jahreswert/ACV des Vertrags (für Betrags-Schwellenwerte)
-
-## Akten-Kontext
-
-Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen. Ausgaben im Akten-Ordner speichern.
-
-## Ablauf
-
-### Schritt 1: Matrix laden
-
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## Eskalation` lesen. Falls fehlend oder vage: Hinweis, dass das Praxisprofil ergänzt werden muss.
-
-**Welche Seite?** Käufer- oder Verkäufer-Playbook bestimmt, ob ein Begriff innerhalb der Fallback-Positionen liegt oder eine automatische Eskalation auslöst. Seite im Entwurf vermerken.
-
-### Schritt 2: Problem einordnen
-
-Was wird eskaliert?
-
-- **Betrags-Schwelle:** Vertragswert übersteigt Genehmigungskompetenz
-- **Klausel-Abweichung:** Ein Begriff liegt außerhalb der Playbook-Fallback-Positionen; eine erfahrenere Person muss entscheiden, ob Akzeptanz gerechtfertigt ist
-- **Automatischer Eskalationsauslöser:** Immer-Eskalieren-Liste (z. B. unbegrenzte Haftung, IP-Abtretung, Datenschutzverstoß ohne Remediation, LkSG-Pflichtverletzung)
-- **Geschäftliche Entscheidung:** Keine Rechtsfrage, sondern ein Thema für den Business-Owner
-
-Dinge nicht eskalieren, die eigentlich in Ordnung sind. Wenn der Begriff innerhalb der Fallback-Positionen liegt, braucht er keine Eskalation.
-
-### Schritt 3: Genehmiger bestimmen
-
-Zutreffende Matrixzeile auswählen. Konkrete Person oder Rolle nennen – keine abstrakte "Führungsebene".
-
-### Schritt 4: Anfrage entwerfen
-
-Vorlage (immer verwenden):
-
-```markdown
-Betreff: Genehmigung erforderlich – [Vertrag] mit [Vertragspartner] – [Problembezeichnung]
-
-[Name],
-
-ich bitte um Genehmigung zu folgendem Vertragspunkt:
-
-**Vertrag:** [Bezeichnung und Vertragspartner]
-**ACV:** [Jahreswert]
-**Klausel / Problem:** [§ X – Kurzbezeichnung]
-
-**Was der Vertrag sagt:**
-> "[wörtliches Zitat der betroffenen Klausel]"
-
-**Was unser Playbook sagt:**
-[Standard-Position aus CLAUDE.md] / [Fallback-Position aus CLAUDE.md]
-
-**Warum das eskaliert:**
-[Ein Satz: Betrags-Schwelle / Abweichung außerhalb Fallback / automatischer Auslöser / Geschäftsentscheidung]
-
-**Risiko bei Akzeptanz ohne Änderung:**
-🔴/🟠/🟡 [Rechtliches Risiko] | 🔴/🟠/🟡 [Geschäftliche Reibung]
-[Konkrete Folge: z. B. "Unbegrenzte Haftung für Datenpannen; typischer Schaden bei mittelgroßem Verstoß XXX EUR"]
-
-**Optionen:**
-
-1. **Akzeptieren** – [Bedingung oder unkonditioniert]
- Konsequenz: [was das bedeutet, z. B. "unbegrenzte Haftung bleibt bestehen; kein Deckungsschutz D&O"]
-
-2. **Verhandeln** – Redline: [konkrete Formulierung]
- Verhandlungsspielraum: [einschätzen, ob Markt-Standard / Gegenseite wird wahrscheinlich...]
-
-3. **Ablehnen** – [Begründung gegenüber Gegenseite]
-
-**Empfehlung:** Option [N] – [ein Satz Begründung]
-
-**Entscheidung bis:** [Datum] (Verhandlungsdeadline oder Vertragsabschluss-Termin)
-
-Bei Rückfragen stehe ich gerne zur Verfügung.
-
-[Absender]
-```
-
-### Schritt 5: Nicht versenden
-
-Entwurf anzeigen, Anwalt sendet. Niemals ohne ausdrückliche Bestätigung absenden.
-
-## Ausgabeformat
-
-```markdown
-VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
-
-## Eskalation: [Vertrag] mit [Vertragspartner] – [Klausel]
-
-**Eskalationsgrund:** [Betrags-Schwelle / Klausel-Abweichung / Automatischer Auslöser / Geschäftsentscheidung]
-**Genehmiger:** [Person/Rolle aus CLAUDE.md]
-**Kontaktweg:** [Slack / E-Mail / Meeting]
-**Seite:** [Käufer/Verkäufer – welches Playbook wurde angewendet]
-
----
-
-[Entwurf der Genehmigungsanfrage gemäß Vorlage oben]
-
----
-
-⚠️ Prüfer-Hinweis: Vor dem Versand prüfen, ob der Entwurf die Sachlage korrekt wiedergibt und keine privilegierten Informationen unbeabsichtigt preisgibt.
-```
-
-## Quellen und Zitierweise
-
-Zitierweise nach `../references/zitierweise.md`.
-
-Relevante Normen:
-- § 164 ff. BGB – Vertretungsmacht; Vollmacht
-- § 177 BGB – Genehmigung vollmachtlosen Handelns
-- § 43a Abs. 2 BRAO – anwaltliche Verschwiegenheitspflicht
-- Bei LkSG-Eskalation: §§ 5–8 LkSG – Sorgfaltspflichten, Risikoanalyse, Präventionsmaßnahmen
-- Bei DSGVO-Eskalation: Art. 33, 34 DSGVO – Melde- und Benachrichtigungspflichten
-
-## Risiken / typische Fehler
-
-- **Zu viel eskalieren:** Wenn alles eskaliert wird, verliert die Matrix ihre Wirkung. Nur wirkliche Überschreitungen eskalieren.
-- **Entscheidung vorwegnehmen:** Der Entwurf bietet Optionen – er trifft keine Entscheidung. Der Genehmiger entscheidet.
-- **Frist vergessen:** Ohne Entscheidungs-Datum läuft die Verhandlung. Immer ein Datum nennen.
-- **Privilegierter Inhalt außerhalb des Kreises:** Genehmigungsanfragen intern halten; § 43a Abs. 2 BRAO, § 203 StGB beachten.

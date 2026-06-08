@@ -7,28 +7,28 @@ description: "Laienhilfe Sanktion Fachanwalt Sozialrecht im Plugin Fachanwalt So
 
 ## Arbeitsbereich
 
-**Laienhilfe Sanktion Fachanwalt Sozialrecht** ordnet den Fall über die tragenden Prüffelder: Laienverstaendlicher Sozialrechts-Skill zu Sanktion, Versicherter erhielt Ablehnung der Erwerbsminderungsrente, Mandant hat Behinderung und moechte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Laienhilfe Sanktion Fachanwalt Sozialrecht** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Sanktion, Versicherter erhielt Ablehnung der Erwerbsminderungsrente, Mandant hat Behinderung und moechte. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `laienhilfe-sanktion-minderung` | Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-sanktion-minderung` | Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 | `fachanwalt-sozialrecht-erwerbsminderungsrente` | Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang). |
 | `fachanwalt-sozialrecht-gdb-schwerbehinderung` | Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten. § 152 SGB IX Feststellungsverfahren Versorgungsmedizin-Verordnung. Prüfraster: GdB-Feststellung nach Versorgungsmedizinischer Grundsaetze Merkzeichen G aG H B Bl Gl RF Schwerbehindertenausweis ab GdB 50. Steuerliche und arbeitsrechtliche Vorteile. Output: Antragschreiben oder Widerspruchsbaustein GdB/Schwerbehinderung. Abgrenzung zu eingliederungshilfe-schule (Kinder) und fachanwalt-sozialrecht-erwerbsminderungsrente. |
-| `laienhilfe-aussteuerung-nahtlosigkeit` | Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
+| `laienhilfe-aussteuerung-nahtlosigkeit` | Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Sozialrecht nach FAO § 11 klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-sanktion-minderung`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Sanktion Minderung
 
@@ -39,7 +39,6 @@ description: "Laienhilfe Sanktion Fachanwalt Sozialrecht im Plugin Fachanwalt So
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -93,7 +92,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **BVerfG-Rechtsprechung 2019 (1 BvL 7/16):** Sanktionen ueber 30 % verfassungswidrig wegen Verletzung Existenzminimum (Art. 1, 20 GG); Neuregelung 2023 angepasst; **Vollsanktion (100 % der Regelbedarfsstufe) nicht mehr zulaessig** ausser bei mehrfach wiederholten Pflichtverletzungen unter engen Voraussetzungen.
 - **Sanktionsabstufung § 31a SGB II (Stand 2023):** 1. Pflichtverletzung 10 %, 2. innerhalb Jahresfrist 20 %, 3. innerhalb Jahresfrist 30 %; Dauer regelmaessig 1 Monat.
 - **Meldeversaeumnis § 32 SGB II:** 10 %; auch bei mehrfach wiederholtem Meldeverstoss.
-- **Anhoerung § 24 SGB X zwingend** vor Sanktion - **Verletzung Anhoerungspflicht = Bescheid rechtswidrig**.
+- **Anhörung § 24 SGB X zwingend** vor Sanktion - **Verletzung Anhörungspflicht = Bescheid rechtswidrig**.
 - **Wichtiger Grund** § 31 I SGB II:
  - Krankheit (Attest pruefen, AU sofort einreichen).
  - Kinderbetreuung (Schliesstage Kita, Krankheit Kind).
@@ -101,9 +100,8 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - Verkehrshindernis ohne Verschulden.
  - Wirtschaftliche Existenzgefaehrdung durch zumutbare Arbeit (z. B. nicht kostendeckende Vergutung).
 - **Eilantrag § 86b II SGG:** bei Existenzgefaehrdung Sanktion durch hoehere als 30 % oder bei Aussetzung KdU - Anordnungsanspruch (rechtswidrige Sanktion) + Anordnungsgrund (Existenzgefaehrdung).
-- **Widerspruch § 84 SGG 1 Monat:** Anhoerung pruefen, wichtigen Grund vortragen, Verhaeltnismaessigkeit pruefen (Atypischer Fall? Persoenliche Verhaeltnisse?).
+- **Widerspruch § 84 SGG 1 Monat:** Anhörung pruefen, wichtigen Grund vortragen, Verhaeltnismaessigkeit pruefen (Atypischer Fall? Persoenliche Verhaeltnisse?).
 - **Praxis-Tipp:** Bei wiederholten Sanktionen Aktivierungsplan in Frage stellen (Geeignetheit, Zumutbarkeit § 10 SGB II); bei psychischer Erkrankung Stellungnahme Hausarzt einholen.
-
 
 ## Qualitäts-Hardening
 
@@ -126,7 +124,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Triage — kläre vor EM-Renten-Bearbeitung
 1. Leistungsvermögen: Unter 3 Stunden/Tag (volle EM, § 43 Abs. 2 SGB VI) oder 3-6 Stunden (teilweise EM, § 43 Abs. 1 SGB VI)?
@@ -158,7 +155,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. Sind Hinzuverdienstgrenzen relevant (§ 96a SGB VI — Mandant geringfügig beschäftigt)?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -468,7 +465,6 @@ Mit freundlichen Grüßen
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
@@ -640,7 +636,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `laienhilfe-aussteuerung-nahtlosigkeit`
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Aussteuerung Nahtlosigkeit
 
@@ -651,7 +647,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum es geht
 
@@ -708,11 +703,10 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - Letzter Tag Krankengeldbezug oder vergleichbare Leistung,
  - **Verfuegbarkeit reduziert** auf weniger als 15 h/Woche,
  - Anwartschaftszeit ALG erfuellt (§ 142 SGB III: 12 Monate Beitragszeit in den letzten 30 Monaten).
-- **Antragspflicht** Versicherter bei Krankenkasse / Bundesagentur fuer Arbeit; § 60 SGB I Mitwirkungspflicht.
+- **Antragspflicht** Versicherter bei Krankenkasse / Bundesagentur für Arbeit; § 60 SGB I Mitwirkungspflicht.
 - **Rente vs. ALG-Nahtlosigkeit:** ALG ist subsidiaer; sobald EM-Rente bewilligt, Verrechnung; bei Ablehnung EM bleibt ALG.
 - **Eilrechtsschutz § 86b SGG** bei Verweigerung Nahtlosigkeits-ALG (Existenzminimum); ggf. Hilfe Jobcenter/Sozialamt parallel beantragen.
-- **Praxis-Tipp:** Beratungstermin bei DRV vor Aussteuerung; medizinische Stellungnahme behandelnde Aerzte zur Leistungsfaehigkeit fuer Reha- bzw. Rentenantrag; Anwartschafts-Aufrechterhaltung pruefen, weiterhin Krankenversicherung sichern (KV-Pflicht ALG-Bezieher § 5 I Nr. 2 SGB V).
-
+- **Praxis-Tipp:** Beratungstermin bei DRV vor Aussteuerung; medizinische Stellungnahme behandelnde Aerzte zur Leistungsfaehigkeit für Reha- bzw. Rentenantrag; Anwartschafts-Aufrechterhaltung pruefen, weiterhin Krankenversicherung sichern (KV-Pflicht ALG-Bezieher § 5 I Nr. 2 SGB V).
 
 ## Qualitäts-Hardening
 

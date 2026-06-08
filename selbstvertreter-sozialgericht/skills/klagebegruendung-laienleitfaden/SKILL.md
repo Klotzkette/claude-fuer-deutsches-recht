@@ -3,7 +3,7 @@ name: klagebegruendung-laienleitfaden
 description: "Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht."
 ---
 
-# So begruenden Sie Ihre Klage — fuer Laien
+# So begruenden Sie Ihre Klage — für Laien
 
 ## Fachlicher Anker
 
@@ -39,14 +39,14 @@ Sie haben geklagt. Jetzt muessen Sie sagen warum. Was ist passiert. Was wollen S
 - **§ 103 SGG** — Amtsermittlungsgrundsatz.
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Aufbau festlegen
 
 Bewaehrt:
 
 1. Sachverhalt (kurz: was war, was ist)
-2. Klaeger-Standpunkt (warum die Behoerde Unrecht hat)
+2. Klaeger-Standpunkt (warum die Behörde Unrecht hat)
 3. Antraege (konkret)
 4. Beweisangebot / Beweisantraege
 5. Anlagenverzeichnis
@@ -56,7 +56,7 @@ Bewaehrt:
 Faktenliste:
 
 - Wer Sie sind (Name, Adresse, Geburtsdatum, Versicherungsnummer)
-- Was Sie beantragt haben (bei welcher Behoerde, wann)
+- Was Sie beantragt haben (bei welcher Behörde, wann)
 - Welcher Bescheid wann erlassen wurde
 - Widerspruch wann eingelegt
 - Widerspruchsbescheid wann
@@ -78,7 +78,7 @@ Ich bin 1972 geboren, 53 Jahre alt, gelernte [Beruf]. Seit 2022 leide ich an [Di
 
 ### Schritt 3 — Klaeger-Standpunkt schreiben
 
-Hier zerlegen Sie die Argumente der Behoerde. Bewaehrte Struktur:
+Hier zerlegen Sie die Argumente der Behörde. Bewaehrte Struktur:
 
 ```
 II. Rechtliche Wuerdigung
@@ -91,7 +91,7 @@ Die Beklagte stuetzt sich auf das sozialmedizinische Gutachten vom [Datum]. Dies
 - [konkret welche Diagnose nicht beruecksichtigt]
 
 2. [Zweiter Angriffspunkt]
-Auch wenn die Beklagte ein Leistungsvermoegen von 3 bis 6 Stunden annimmt, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
+Auch wenn die Beklagte ein Leistungsvermoegen von 3 bis 6 Stunden annimmt, ist der Teilzeitarbeitsmarkt für mich verschlossen.
 
 3. [Dritter Angriffspunkt]
 Berufsschutz nach § 240 SGB VI scheidet zwar aus (Geburtsjahrgang nach 1.1.1961), aber die Erwerbsminderung im Sinne von § 43 Abs. 2 SGB VI liegt vor.
@@ -161,7 +161,7 @@ Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und 
 ## Worauf Sie besonders achten muessen
 
 - **Tatsachen statt Floskeln**: konkret, mit Datum, Name, Quelle.
-- **Was die Behoerde sagt — was Sie dagegen sagen**: Punkt fuer Punkt entgegnen.
+- **Was die Behörde sagt — was Sie dagegen sagen**: Punkt für Punkt entgegnen.
 - **Beweisanbote machen**: Das Gericht muss von Amts wegen ermitteln, aber konkrete Beweisanbote sind hilfreich.
 - **Hoeflich bleiben**: Keine Beleidigungen.
 
@@ -185,7 +185,6 @@ Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 92 SGG aktuell. § 106 SGG verpflichtet das Gericht, Sie bei Formfehlern zu unterstuetzen. Bei komplexen Faellen ist Anwalt mit PKH erwaegen.
-
 
 ## Qualitäts-Hardening
 

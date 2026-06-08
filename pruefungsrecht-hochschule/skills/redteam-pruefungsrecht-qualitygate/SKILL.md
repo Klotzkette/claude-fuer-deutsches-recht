@@ -5,12 +5,28 @@ description: "Finaler Qualitätscheck für Prüfungsrechtsausgaben."
 
 # Redteam Pruefungsrecht Qualitygate
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
+- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
 ## Fachkern: Redteam Pruefungsrecht Qualitygate
-- **Spezialgegenstand:** Redteam Pruefungsrecht Qualitygate. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Wofür dieser Arbeitsgang da ist
 

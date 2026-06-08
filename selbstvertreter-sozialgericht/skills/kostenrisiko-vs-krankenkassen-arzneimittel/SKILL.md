@@ -7,25 +7,25 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 
 ## Arbeitsbereich
 
-**Kostenrisiko VS Krankenkassen Arzneimittel** ordnet den Fall über die tragenden Prüffelder: Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kostenrisiko VS Krankenkassen Arzneimittel** ordnet den Fall über die tragenden Prüfungslinien: Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `kostenrisiko-vs-kostenfreiheit-laien` | Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger. |
 | `krankenkassen-arzneimittel-31-sgb-v` | Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster. |
-| `krankenkassen-fahrkosten-60-sgb-v` | Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen fuer ambulante Behandlungen. Liefert Pruefraster. |
-| `krankenkassen-genehmigungsfiktion-13-sgb-v` | Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen fuer den Selbstbeschaffungsanspruch. Liefert Pruefraster. |
+| `krankenkassen-fahrkosten-60-sgb-v` | Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Pruefraster. |
+| `krankenkassen-genehmigungsfiktion-13-sgb-v` | Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen für den Selbstbeschaffungsanspruch. Liefert Pruefraster. |
 | `krankenkassen-haeusliche-krankenpflege-37-sgb-v` | Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhaeltnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Sozialgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `kostenrisiko-vs-kostenfreiheit-laien`
 
@@ -40,7 +40,6 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Worum geht es?
 
@@ -58,7 +57,7 @@ Das Sozialgericht ist meistens gratis. Aber es gibt Faelle, in denen doch Kosten
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Gerichtskosten**: Gebuehren des Gerichts.
+- **Gerichtskosten**: Gebühren des Gerichts.
 - **Anwaltskosten**: Honorar des Anwalts.
 - **Auslagen**: Aufwendungen wie Porto, Fahrtkosten, Kopien.
 - **Aufwendungsersatz**: Erstattung bei Erfolg durch die Gegenseite.
@@ -66,13 +65,13 @@ Das Sozialgericht ist meistens gratis. Aber es gibt Faelle, in denen doch Kosten
 
 ## Rechtsgrundlagen
 
-- **§ 183 SGG** — Gerichtskosten-Freiheit fuer Versicherte etc.
-- **§ 184 SGG** — Pauschalgebuehren fuer Behoerden / Arbeitgeber.
+- **§ 183 SGG** — Gerichtskosten-Freiheit für Versicherte etc.
+- **§ 184 SGG** — Pauschalgebuehren für Behörden / Arbeitgeber.
 - **§ 192 SGG** — Mutwilligkeit / Kosten-Auferlegung.
 - **§ 193 SGG** — Erstattung aussergerichtlicher Kosten.
 - **§ 109 SGG** — Eigenes Gutachten (eigene Kosten).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Ihr Standard-Szenario
 
@@ -102,7 +101,7 @@ Wenn Sie verlieren:
 
 - Sie zahlen Ihre eigenen Anwaltskosten (sofern nicht PKH)
 - Sie zahlen keine Gerichtskosten (§ 183 SGG)
-- Sie zahlen nicht die Anwaltskosten der Gegenseite (Behoerde hat keinen Anwalt erstattungsfaehig im SG)
+- Sie zahlen nicht die Anwaltskosten der Gegenseite (Behörde hat keinen Anwalt erstattungsfaehig im SG)
 - Mutwilligkeit (§ 192 SGG): nur in Extremfaellen
 - § 109 SGG-Gutachten: Sie zahlen die Kosten selbst (ca. 1.500 bis 4.000 EUR), wenn nicht durch Staatskasse uebernommen
 
@@ -160,7 +159,6 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 
 Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt. Pruefen Sie Anwalts-RVG-Werte aktuell.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -183,7 +181,6 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Anspruch
 
 § 31 Abs. 1 SGB V: Versicherte haben Anspruch auf Arzneimittel, soweit die Arzneimittel apothekenpflichtig sind und nicht nach § 34 SGB V von der Versorgung ausgeschlossen sind.
@@ -196,7 +193,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## Festbetraege
 
-- § 35 SGB V: G-BA setzt Festbetrag fuer Gruppen vergleichbarer Wirkstoffe.
+- § 35 SGB V: G-BA setzt Festbetrag für Gruppen vergleichbarer Wirkstoffe.
 - Krankenkasse zahlt Festbetrag, Versicherter zahlt evtl. Aufpreis.
 
 ## Rezeptgebuehr
@@ -223,7 +220,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## 3. `krankenkassen-fahrkosten-60-sgb-v`
 
-**Fokus:** Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen fuer ambulante Behandlungen. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Pruefraster.
 
 # Krankenkassen Fahrkosten 60 Sgb V
 
@@ -234,7 +231,6 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Grundsatz
 
@@ -276,7 +272,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## 4. `krankenkassen-genehmigungsfiktion-13-sgb-v`
 
-**Fokus:** Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen fuer den Selbstbeschaffungsanspruch. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen für den Selbstbeschaffungsanspruch. Liefert Pruefraster.
 
 # Krankenkassen Genehmigungsfiktion 13 Sgb V
 
@@ -287,7 +283,6 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Fristen § 13 Abs. 3a SGB V
 
@@ -342,7 +337,6 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Anspruch
 

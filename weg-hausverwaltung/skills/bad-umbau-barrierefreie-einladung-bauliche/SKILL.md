@@ -7,10 +7,10 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 
 ## Arbeitsbereich
 
-**BAD Umbau Barrierefreie Einladung Bauliche** ordnet den Fall über die tragenden Prüffelder: Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**BAD Umbau Barrierefreie Einladung Bauliche** ordnet den Fall über die tragenden Prüfungslinien: Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026). Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft` | Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12. |
 | `barrierefreie-einladung-protokoll-versammlung` | Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs. |
@@ -18,12 +18,12 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Weg Hausverwaltung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft`
 
@@ -38,7 +38,6 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Stand: 06/2026.
 
@@ -116,7 +115,6 @@ Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Stand: 06/2026.
 
 ## Ziel
@@ -178,7 +176,6 @@ AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung v
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Stand: 06/2026.
 
 ## Ziel
@@ -230,3 +227,29 @@ Außenaufzug: Statik-Gutachten, ggf. Baugenehmigung nach Landesbauordnung, Denkm
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 20 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html, KfW-Konditionen über kfw.de, Pflegekasse § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html live verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+

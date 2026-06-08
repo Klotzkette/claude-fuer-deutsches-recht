@@ -19,7 +19,7 @@ Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks 
 
 - **Zustellung**: Foermliche Uebergabe eines Schriftstuecks an den Empfaenger.
 - **Gelber Umschlag / Postzustellungsurkunde (PZU)**: Postzustellung mit Datums-Vermerk.
-- **Empfangsbekenntnis**: Vom Empfaenger unterzeichnete Bestaetigung (i. d. R. nur fuer Anwaelte).
+- **Empfangsbekenntnis**: Vom Empfaenger unterzeichnete Bestaetigung (i. d. R. nur für Anwaelte).
 - **Ersatzzustellung**: Wenn Empfaenger nicht angetroffen — Hinterlegung im Briefkasten, beim Nachbarn.
 
 ## Rechtsgrundlagen
@@ -31,7 +31,7 @@ Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks 
 - **§ 180 ZPO** — Einlegung in Briefkasten.
 - **§ 189 ZPO** — Heilung von Zustellungs-Maengeln.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Gelber Umschlag empfangen
 
@@ -116,7 +116,6 @@ Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wied
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

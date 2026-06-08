@@ -1,82 +1,33 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Geldwaesche Behoerdenverfahren im Plugin Geldwaeschepraevention Aml Kyc: prüft konkret Red-Team Qualitygate im Plugin, Begleitung von Behoerdenverfahren BaFin-Prüfungen, Behoerdenverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation im Geldwaeschepraevention Aml Kyc: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Geldwaesche Behoerdenverfahren
+# Aufsicht, Prüfung und Behördenverfahren
 
 ## Arbeitsbereich
 
-**Geldwaesche Behoerdenverfahren** ordnet den Fall über die tragenden Prüffelder: Red-Team Qualitygate im Plugin, Begleitung von Behoerdenverfahren BaFin-Prüfungen, Behoerdenverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin geldwaeschepraevention-aml-kyc: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `geldwaesche-behoerdenverfahren` | Begleitung von Behoerdenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behoerdenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation. |
-| `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Geldwäscheprävention (AML/KYC) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
 - Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `workflow-redteam-qualitygate`
-
-**Fokus:** Red-Team Qualitygate im Plugin geldwaeschepraevention-aml-kyc: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
-
-# Red-Team Qualitygate
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin geldwaeschepraevention-aml-kyc: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
-
-## Einstieg
-Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 2. `geldwaesche-behoerdenverfahren`
-
-**Fokus:** Begleitung von Behoerdenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behoerdenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation.
-
-# Aufsicht, Prüfung und Behördenverfahren
 
 ## Triage zu Beginn
-1. Welche Behoerde hat sich gemeldet: BaFin, FIU, Staatsanwaltschaft, Landesaufsicht oder Zoll?
+1. Welche Behörde hat sich gemeldet: BaFin, FIU, Staatsanwaltschaft, Landesaufsicht oder Zoll?
 2. Welche Art von Verfahren: Auskunftsersuchen, Vor-Ort-Pruefung, Massnahmenbescheid oder Strafverfahren?
 3. Gibt es bereits gesetzte Fristen und welches ist die naechste Handlungsfrist?
-4. Welche internen Dokumente muessen fuer die Behoerdenantwort gesichert werden?
+4. Welche internen Dokumente muessen für die Behördenantwort gesichert werden?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
+## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 51 GwG — Massnahmen der Aufsichtsbehoerden (BaFin und Laenderbehoerden)
+- § 51 GwG — Massnahmen der Aufsichtsbehoerden (BaFin und Länderbehoerden)
 - § 44 GwG — Kooperationspflicht mit FIU; Auskunftspflichten
 - § 56 GwG — Bußgeldtatbestaende
 - §§ 68, 69 VwGO — Widerspruchsverfahren und Anfechtungsklage bei Massnahmenbescheiden
@@ -128,44 +79,3 @@ Dieser Skill führt Verfahren mit Fristen, Aktenlog, Behördenkommunikation und 
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
-
-## 3. `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine`
-
-**Fokus:** Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Spezialwissen: Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine / behoerdenverfahren schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** AML, KYC, GwG, UBO, PEP, FIU.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Behoerdenverfahren** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

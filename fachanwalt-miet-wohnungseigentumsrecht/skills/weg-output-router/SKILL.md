@@ -1,6 +1,6 @@
 ---
 name: weg-output-router
-description: "Output-Router Miet/WEG: Prüffeld für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
+description: "Output-Router Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
 ---
 
 # Output-Router Miet/WEG
@@ -13,9 +13,8 @@ description: "Output-Router Miet/WEG: Prüffeld für Miet- und WEG-Recht; wählt
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Aufgabe
-Dieser Prüffeld macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
+Diese Prüfungslinie macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
 
 ## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:

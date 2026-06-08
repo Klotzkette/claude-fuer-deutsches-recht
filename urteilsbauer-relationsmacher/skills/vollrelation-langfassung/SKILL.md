@@ -108,7 +108,6 @@ Fragenkatalog am Ende:
 
 Markdown mit klaren Hierarchien (## A Sachbericht ## B Auslegung ...). Bei DOCX-Render-Wunsch kann das Ergebnis mit dem Skill `dokumente-rendern-urteil-docx` als Relations-Dokument im Schul-Layout ausgegeben werden (separater Modus --typ relation).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

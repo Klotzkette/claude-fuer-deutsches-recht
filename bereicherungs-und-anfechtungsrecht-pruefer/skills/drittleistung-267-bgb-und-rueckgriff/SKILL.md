@@ -7,7 +7,7 @@ description: "Bei ein Dritter bewusst auf eine fremde Schuld gezahlt haben könn
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: ein Dritter bewusst auf eine fremde Schuld gezahlt haben könnte. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -85,7 +85,6 @@ Der Gläubiger ist nicht deshalb bereichert, weil das Geld von D kam. Wenn eine 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

@@ -1,34 +1,21 @@
 ---
 name: akte-anlegen-und-aktenzeichen-zuordnen
-description: "Akte Anlegen und Aktenzeichen Zuordnen im Plugin Kanzlei Allgemein: prüft konkret Anlage oder Zuordnung einer Kanzleiakte bei neuer, Erkennung Normalisierung und Verknuepfung von Aktenzeichen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Akte Anlegen und Aktenzeichen Zuordnen
+# Akte, Konfliktcheck und Mandatsanlage
 
 ## Arbeitsbereich
 
-**Akte Anlegen und Aktenzeichen Zuordnen** ordnet den Fall über die tragenden Prüffelder: Anlage oder Zuordnung einer Kanzleiakte bei neuer, Erkennung Normalisierung und Verknuepfung von Aktenzeichen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `kanzlei-allgemein-akte` | Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen. |
-| `kanzlei-allgemein-aktenzeichen` | Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen § 51 BRAO Organisationspflicht § 253 Abs. 2 Nr. 1 ZPO § 130a ZPO. Prüfraster Typen (eigenes gerichtliches behoerdliches gegnerisches) Normalisierung Varianten Kollisionen Kontext. Output Verknuepfungstabelle mit Sicherheitsgrad Kollisionswarnungen Rückfragen bei Unsicherheit. Abgrenzung zu kanzlei-allgemein-akte und kanzlei-allgemein-intake. |
+Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kanzlei Allgemein klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `kanzlei-allgemein-akte`
-
-**Fokus:** Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausführliche GwG-Ausführung) und kanzlei-allgemein-aktenzeichen.
-
-# Akte, Konfliktcheck und Mandatsanlage
 
 ## Zweck
 
@@ -83,7 +70,6 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 - Aktenstruktur.
 - Übergabeliste an Fristen, Zeit und Honorar.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -92,64 +78,25 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
-## 2. `kanzlei-allgemein-aktenzeichen`
+## Normen und Rechtsprechung
 
-**Fokus:** Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen § 51 BRAO Organisationspflicht § 253 Abs. 2 Nr. 1 ZPO § 130a ZPO. Prüfraster Typen (eigenes gerichtliches behoerdliches gegnerisches) Normalisierung Varianten Kollisionen Kontext. Output Verknuepfungstabelle mit Sicherheitsgrad Kollisionswarnungen Rückfragen bei Unsicherheit. Abgrenzung zu kanzlei-allgemein-akte und kanzlei-allgemein-intake.
+### Kuratierte Normen-Bibliothek
 
-# Aktenzeichen und Verknüpfungen
+- § 10 RVG
+- § 3a RVG
+- Art. 13 DSGVO
+- § 14 UStG
+- Art. 28 DSGVO
+- § 18 UStG
+- § 7 BUrlG
+- Art. 32 DSGVO
+- § 65d SGG
+- § 55a VwG
+- Art. 35 DSGVO
+- Art. 21 DSGVO
 
+### Leitentscheidungen
 
-## Triage zu Beginn
-1. Liegt ein eigenes Kanzlei-Aktenzeichen, ein gerichtliches Aktenzeichen oder ein behördliches Zeichen vor?
-2. Gibt es Kollisionsgefahr bei aehnlichen Aktenzeichen-Varianten in derselben Akte?
-3. Soll das Aktenzeichen einem bereits vorhandenen Mandat zugeordnet oder als neues Mandat angelegt werden?
-4. Sind fremde Aktenzeichen (Gegner, Versicherung, Rechtsschutz) mit dem eigenen verknuepft?
+- BGH VI ZB 59/18
+- BGH VI ZR 286/21
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 51 BRAO — Berufshaftpflicht des Rechtsanwalts; Aktenzeichen-Fehler als Pflichtverletzung
-- § 253 Abs. 2 Nr. 1 ZPO — Bezeichnungspflicht der Parteien und Sache in der Klageschrift
-- § 319 ZPO — Berichtigung offensichtlicher Unrichtigkeiten in Urteilen (auch Aktenzeichen)
-- § 130a ZPO — Pflichtangaben beim elektronischen Dokument, inkl. Aktenzeichen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill verhindert Suchchaos. Er erkennt Aktenzeichen aus Texten, Dateinamen, Betreffzeilen, beA-Nachrichten, PDFs, Screenshots und Notizen und verknüpft sie mit der richtigen Kanzleiakte.
-
-## Typen von Aktenzeichen
-
-- Eigenes Kanzlei-Aktenzeichen.
-- Gerichtliches Aktenzeichen.
-- Behördenzeichen.
-- Gegnerisches Aktenzeichen.
-- Versicherungs- oder Schadennummer.
-- Rechtsschutz-Schadennummer.
-- Mandanteninterne Projektnummer.
-- Altaktenzeichen.
-
-## Ablauf
-
-1. Alle Kandidaten extrahieren.
-2. Varianten normalisieren: Leerzeichen, Schrägstrich, Bindestrich, führende Nullen.
-3. Kontext prüfen: Name, Gericht, Gegner, Datum, Betreff.
-4. Kollisionen markieren.
-5. Eindeutige Verknüpfung vorschlagen.
-6. Unsichere Zuordnung als Rückfrage ausgeben.
-
-## Ausgabe
-
-```markdown
-## Aktenzeichen-Verknüpfung
-
-| Typ | Aktenzeichen | Quelle | Akte | Sicherheit | Notiz |
-| --- | --- | --- | --- | --- | --- |
-```
-
-## Sicherheitsregel
-
-Wenn zwei Akten plausibel sind, nicht automatisch ablegen. Immer nachfragen.

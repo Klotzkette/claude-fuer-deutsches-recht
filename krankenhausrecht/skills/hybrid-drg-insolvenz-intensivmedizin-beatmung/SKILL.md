@@ -1,50 +1,34 @@
 ---
 name: hybrid-drg-insolvenz-intensivmedizin-beatmung
-description: "Hybrid DRG Insolvenz Intensivmedizin Beatmung im Plugin Krankenhausrecht: prüft konkret Hybrid-DRG nach § 115f SGB V, Insolvenz eines Krankenhauses Versorgungssicherung, Intensivmedizin, Beatmung und Patientenverlegung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG im Krankenhausrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Hybrid DRG Insolvenz Intensivmedizin Beatmung
+# Hybrid-DRG § 115f SGB V
 
 ## Arbeitsbereich
 
-**Hybrid DRG Insolvenz Intensivmedizin Beatmung** ordnet den Fall über die tragenden Prüffelder: Hybrid-DRG nach § 115f SGB V, Insolvenz eines Krankenhauses Versorgungssicherung, Intensivmedizin. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `hybrid-drg-115f-sgb-v` | Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. |
-| `insolvenz-eines-krankenhauses-versorgungssicherung` | Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
-| `intensivmedizin-beatmung-verlegung` | Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung. |
+Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Krankenhausrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `hybrid-drg-115f-sgb-v`
-
-**Fokus:** Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG.
-
-# Hybrid-DRG § 115f SGB V
 
 ## Fachkern: Hybrid-DRG § 115f SGB V
-- **Spezialgegenstand:** Hybrid-DRG § 115f SGB V. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Worum geht es konkret
-Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen abschliessenden Katalog von Eingriffen — unabhaengig davon, ob die Leistung stationaer (Kurzliegerfall) oder ambulant erbracht wird. Ziel: gleiches Geld fuer gleichen medizinischen Inhalt, Hospitalisierungs-Anreiz beseitigen.
+Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung für einen abschliessenden Katalog von Eingriffen — unabhaengig davon, ob die Leistung stationaer (Kurzliegerfall) oder ambulant erbracht wird. Ziel: gleiches Geld für gleichen medizinischen Inhalt, Hospitalisierungs-Anreiz beseitigen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Ist der konkrete Eingriff im Hybrid-DRG-Katalog (Verordnung BMG)?
 - Wird Patient stationaer mit Kurzliegerfall behandelt oder ambulant?
-- Liegen Strukturmerkmale fuer die Hybrid-DRG-Abrechnung vor (Personal, Geraete)?
+- Liegen Strukturmerkmale für die Hybrid-DRG-Abrechnung vor (Personal, Geraete)?
 - Wird die Abrechnung direkt gegenueber der Kasse oder ueber KV gefuehrt?
 - Wirkt die Hybrid-DRG auf die DRG-Mengen- und Vorhalteberechnung?
 
@@ -53,10 +37,10 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen ab
 - **Hybrid-DRG-Verordnung (HybDRG-V)** vom BMG, Katalog und Festpreise.
 - **AOP-Vertrag § 115b SGB V** als Abgrenzungsfeld.
 - **InEK-Hybrid-DRG-Katalog** mit OPS-/ICD-Zuordnung.
-- **KHEntgG/DRG-Katalog** fuer stationaere Restmengen.
-- **DKR** fuer Kodierung.
+- **KHEntgG/DRG-Katalog** für stationaere Restmengen.
+- **DKR** für Kodierung.
 
-## / Schritt fuer Schritt
+## / Schritt für Schritt
 1. **Katalog-Treffer pruefen:** OPS und ICD im Hybrid-DRG-Katalog?
 2. **Behandlungsweg dokumentieren:** Ambulant, stationaer Kurzlieger (< 1 Tag), stationaer mit Indikation.
 3. **Abrechnungsweg waehlen:** Hybrid-DRG (Kasse direkt) bei Katalogfall, sonst AOP (KV) oder DRG (Kasse).
@@ -107,132 +91,10 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen ab
 - AOP-Vertrag und AOP-Katalog (Live-Check dkgev.de).
 - BSG, staend. Rspr. zu Sektorenabgrenzung und Fehlbelegung.
 
-## 2. `insolvenz-eines-krankenhauses-versorgungssicherung`
+## Normen & Rechtsprechung
 
-**Fokus:** Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+Konkret zu prüfen:
 
-# Insolvenz eines Krankenhauses Versorgungssicherung
-
-## Fachkern: Insolvenz eines Krankenhauses Versorgungssicherung
-- **Spezialgegenstand:** Insolvenz eines Krankenhauses Versorgungssicherung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Insolvenz eines Krankenhauses Versorgungssicherung** im Bereich **Krankenhausrecht**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 3. `intensivmedizin-beatmung-verlegung`
-
-**Fokus:** Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung.
-
-# Intensivmedizin Beatmung Verlegung
-
-## Fachkern: Intensivmedizin Beatmung Verlegung
-- **Spezialgegenstand:** Intensivmedizin Beatmung Verlegung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Worum geht es konkret
-Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), Strukturmerkmale fuer Beatmungs-OPS, Verlegung gemaess Intensivkapazitaeten, ausserklinische Beatmung nach IPReG (Intensivpflege- und Rehabilitationsstaerkungsgesetz). Fehleinordnung gefaehrdet Verguetung und Patientensicherheit.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-- Welche Intensivstation (Erwachsene, Kinder, Neonatologie, Spezial)?
-- Wird Beatmung dokumentiert (Beatmungsstunden, Geraet, OPS 8-71x)?
-- Ist Verlegung intern oder zwischen Kliniken (Triage, Kapazitaet)?
-- Liegt Antrag/Voraussetzung ausserklinische Beatmung nach IPReG vor?
-- Drohen MD-Pruefung, Pflegeuntergrenze, Strukturzuschlag-Wegfall?
-
-## Rechtlicher Rahmen
-- **PpUGV** Anlage Intensiv (Erwachsene, Kinder, Neonatologie).
-- **OPS 8-71x** Beatmungs- und Komplexbehandlungs-Kodes.
-- **G-BA-Richtlinien** Versorgungsstrukturen Intensiv (Stroke, Trauma, Perinatalzentrum).
-- **IPReG** (Intensivpflege- und Rehabilitationsstaerkungsgesetz) Ausserklinische Beatmung.
-- **SGB V § 37c** Spezialisierte Ambulante Palliativversorgung (SAPV) als angrenzendes Feld.
-- **G-DRG-Katalog** Beatmungs- und Sepsis-DRGs mit Strukturmerkmal.
-
-## / Schritt fuer Schritt
-1. **Stationskategorisierung pruefen:** Erwachsenen-, Kinder-, Neonatologie-Intensiv; Bettenzahl, Beatmungsplaetze.
-2. **PpUGV-Quote rechnen:** Pflege je Schicht, examinierte Quote, Helferanrechnung.
-3. **Beatmungsstunden korrekt erfassen:** Beginn (Intubation/Tracheostoma) bis Ende (Extubation), MD-konforme Doku.
-4. **OPS-Strukturmerkmal pruefen:** OPS 8-980 Komplexbehandlung Intensiv mit Strukturmerkmalen (Personal, Geraete, Routine).
-5. **Verlegung dokumentieren:** Intensivkapazitaet, Triage-Entscheidung, Begruendung medizinisch und kapazitiv.
-6. **IPReG-Verlegung ausserklinisch:** Indikationspruefung, Genehmigung Kasse, Versorgungsstruktur.
-7. **MD-Pruefung antizipieren:** Strukturpruefung kann Beatmungs-DRG kassieren.
-
-## Trade-off-Matrix
-
-| Konstellation | Massnahme | Verguetungseffekt |
-|---|---|---|
-| Beatmung > 24h | OPS 8-71x, Beatmungs-DRG | hoeher als nicht beatmet |
-| Komplexbehandlung Intensiv | OPS 8-980 erfuellt? | Zusatzentgelt |
-| Verlegung zur Intensiv extern | Begruendung Triage | DRG-Anteilig |
-| Ausserklinische Beatmung (IPReG) | Antrag, Strukturen | langfristige Versorgungsfragen |
-
-## Praxistipps
-- Beatmungsstunden-OPS sind MD-Pruefungs-Hotspot; Doku-Genauigkeit zentral.
-- OPS 8-980 Komplexbehandlung verlangt Mindestpersonal pro Schicht — Pflegepersonalbericht mitfuehren.
-- Triage-Entscheidung dokumentieren (BAEK-/DIVI-Empfehlungen).
-- IPReG verlangt Indikationspruefung; AOK/Ersatzkassen pruefen Versorgungsweg.
-- Pflegeuntergrenze-Verletzung in Intensiv fuehrt zu Verguetungsabschlag.
-
-## Mustertexte
-**OPS-Doku Beatmungsbeginn:**
-> Datum/Uhrzeit: …, Patient: …, Indikation: respiratorische Insuffizienz, Mode: BiPAP/druckkontrolliert, Tubus/Tracheostoma: …, FiO2: …, PEEP: …, Beatmungsbeginn-OPS 8-71x ab [Uhrzeit]. Aerztl. Anordnung: [Name].
-
-**Verlegungsbericht intern:**
-> Patient [Name], Diagnose [ICD]; Verlegung von Intensiv [Station] zur [Ziel]; Begruendung: medizinisch stabil/unverlegbar, kapazitiv: Bettensituation/Triage. Mitfuehrungsunterlagen: Medikationsplan, Beatmungsprotokoll, Pflegebericht.
-
-## Typische Fehler
-- Beatmungsstunden zu generoes oder zu knapp (MD-Streit).
-- Komplexbehandlungs-OPS ohne Strukturnachweis.
-- Triage-Entscheidung ohne Dokumentation.
-- Ausserklinische Beatmung ohne IPReG-Indikationspruefung.
-
-## Querverweise
-- `personaluntergrenzen-pflege-ppugv`
-- `strukturpruefung-ops-und-md`
-- `triage-notaufnahme-ueberlastung-dokumentation`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `kinder-und-jugendmedizin-besondere-versorgung`
-
-## Quellen Stand 06/2026
-- PpUGV (Live-Check BMG).
-- OPS-Katalog BfArM (Live-Check bfarm.de).
-- IPReG (Live-Check BMG, gkv-spitzenverband.de).
-- G-BA Strukturqualitaetsrichtlinien (Live-Check g-ba.de).
-- BSG, staend. Rspr. zu Beatmungsstunden und Strukturpruefung.
-- DIVI-Empfehlungen zu Triage und Intensivverlegung.
+- § 17b KHG
+- InEK-DRG-Katalog
+- KHEntgG

@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 120 KB) | PDF | [`gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf`](gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 121 KB) | PDF | [`gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf`](gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

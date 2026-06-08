@@ -5,6 +5,22 @@ description: "Plant elektronische Anlagenpakete für beA/ERV: Dateinamen, Reihen
 
 # beA-Paketierung und Versandplan
 
+## Normenanker
+
+Arbeitsfokus: **beA-Paketierung und Versandplan**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
+- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- `§ 2 ERVV` — Dateiformate und technische Anforderungen.
+- `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
+- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
+- `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill übersetzt die schöne Anlagenlogik in einen realen elektronischen Versand. Er denkt an Dateigrößen, technische Grenzen, klare Paketnamen, Begleitvermerk und Wiederauffindbarkeit in der Gerichtsakte.

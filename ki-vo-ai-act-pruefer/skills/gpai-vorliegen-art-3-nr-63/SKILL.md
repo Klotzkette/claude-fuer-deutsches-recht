@@ -1,6 +1,6 @@
 ---
 name: gpai-vorliegen-art-3-nr-63
-description: "Prueft, ob ein Modell oder Dienst ein General-Purpose-AI-Modell oder GPAI-System nach der KI-VO ist und grenzt GPAI von Hochrisiko-KI ab. Behandelt ChatGPT-aehnliche Systeme, Foundation Models, API-Nutzung, GPAI-System Art. 3 Nr. 66, systemisches Risiko und Zweckbestimmung. Kernpunkt: GPAI/allgemeiner Chatbot ist nicht automatisch Hochrisiko; Hochrisiko entsteht erst bei konkreter Integration oder intendiertem Einsatz fuer Art. 6 Abs. 2/Anhang III-Zwecke. Output: GPAI-Einordnung und Routing zu Art. 50, Art. 51-55 oder Anhang-III-Pruefung."
+description: "Prueft, ob ein Modell oder Dienst ein General-Purpose-AI-Modell oder GPAI-System nach der KI-VO ist und grenzt GPAI von Hochrisiko-KI ab. Behandelt ChatGPT-aehnliche Systeme, Foundation Models, API-Nutzung, GPAI-System Art. 3 Nr. 66, systemisches Risiko und Zweckbestimmung. Kernpunkt: GPAI/allgemeiner Chatbot ist nicht automatisch Hochrisiko; Hochrisiko entsteht erst bei konkreter Integration oder intendiertem Einsatz für Art. 6 Abs. 2/Anhang III-Zwecke. Output: GPAI-Einordnung und Routing zu Art. 50, Art. 51-55 oder Anhang-III-Pruefung."
 ---
 
 # GPAI, allgemeiner Chatbot und Hochrisiko-Abgrenzung
@@ -134,7 +134,6 @@ System / Modell / Dienst: [NAME]
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1, Nr. 12, Nr. 13, Nr. 63 und Nr. 66, Art. 50 sowie Art. 51 bis 55 KI-VO. Keine Rechtsberatung.
-
 
 ## Qualitäts-Hardening
 

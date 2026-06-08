@@ -13,7 +13,7 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 2. Sind alle streitigen und unstreitigen Tatsachen aus dem Aktenintake eindeutig getrennt?
 3. Hat das Gericht Hinweisbeschlüsse nach § 139 ZPO erlassen — wurden sie befolgt?
 4. Gibt es Widerklage oder Hilfsanträge — müssen im Tatbestand vollständig erscheinen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 
@@ -47,8 +47,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Tatbestand fuer Zivilurteil schreiben | Tatbestand nach Schema; Template unten |
-| Variante A — Sachverhalt sehr komplex viele Beteiligte | Komprimierter Tatbestand; Anlage fuer Details verwenden |
+| Standard — Tatbestand für Zivilurteil schreiben | Tatbestand nach Schema; Template unten |
+| Variante A — Sachverhalt sehr komplex viele Beteiligte | Komprimierter Tatbestand; Anlage für Details verwenden |
 | Variante B — Partien sind einig nur formale Niederlegung noetig | Vereinfachter Tatbestand; nur wesentliche streitige Punkte |
 | Variante C — Tatbestand wird angesteuert auf Revision | Revisionssichere Tatbestandsdarstellung; alle relevanten Tatsachen |
 
@@ -66,7 +66,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

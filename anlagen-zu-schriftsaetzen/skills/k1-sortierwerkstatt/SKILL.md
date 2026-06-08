@@ -5,6 +5,22 @@ description: "K1-Leitanlage sortieren: Vertrag, Auftrag, Nachtrag, E-Mail-Anhang
 
 # K1-Sortierwerkstatt
 
+## Normenanker
+
+Arbeitsfokus: **K1-Sortierwerkstatt**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
+- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
+- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
+- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
+- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Klageinhalt.
+- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+- `§ 371 Abs. 1 ZPO` — Augenschein.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill entscheidet, was bei einer großen Akte wirklich `Anlage K1` sein soll. Er verhindert, dass die wichtigste Anlage aus fünf Fassungen, einem schlechten Scan und einer halb vergessenen Bestätigungsmail besteht, ohne dass Gericht oder Gegner verstehen, welche Fassung maßgeblich ist.

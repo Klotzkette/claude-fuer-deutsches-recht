@@ -7,10 +7,10 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 
 ## Arbeitsbereich
 
-**Reihenfolge Starren System Telos Interessen** ordnet den Fall über die tragenden Prüffelder: Dieses Skill definiert die methodisch optimale Reihenfolge, Dieses Skill behandelt die methodisch korrekte Handhabung, Dieses Skill systematisiert die wichtigsten Zahlenschwellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Reihenfolge Starren System Telos Interessen** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill definiert die methodisch optimale Reihenfolge, Dieses Skill behandelt die methodisch korrekte Handhabung, Dieses Skill systematisiert die wichtigsten Zahlenschwellen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert. |
 | `spezial-starren-formular-portal-und-einreichung` | Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen. |
@@ -20,12 +20,12 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine`
 
@@ -40,7 +40,6 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Überzeugungskraft eines juristischen Dokuments hängt maßgeblich von seiner Struktur ab. Wer Tatbestand, Rechtsfrage, Argumentation und Ergebnis in der richtigen Reihenfolge präsentiert, überzeugt Richter, Gegner und Mandanten schneller und nachhaltiger. Dieses Skill liefert bewährte Bausteinsequenzen für alle gängigen juristischen Textgattungen.
 
@@ -133,7 +132,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Digitale Gerichtsportale, das besondere elektronische Anwaltspostfach (beA) und starre Formularvordrucke sind fester Bestandteil der modernen Rechtspraxis. Die methodische Beherrschung dieser Einreichungswege sichert die Wirksamkeit von Prozesshandlungen und schützt vor formellen Fehlern, die materiell korrekte Ansprüche zunichtemachen können. Dieses Skill gibt eine strukturierte Anleitung.
 
 ## Mandantenfall
@@ -224,7 +222,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Im Zivilrecht entscheiden Zahlen über Zuständigkeiten, Zulässigkeiten und materielle Ansprüche. Ein Streitwert von 5.000 Euro trennt Amts- von Landgericht; ein Zinssatz bestimmt die Schadenshöhe; eine Bürgschaftssumme über 10.000 Euro löst strengere Formvorschriften aus. Dieses Skill bietet eine systematische Übersicht aller relevanten Zahlenschwellen und Berechnungsmethoden.
 
@@ -317,7 +314,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Wenn mehr als zwei Parteien an einem Rechtsstreit beteiligt sind, steigen die Komplexität der Interessenabwägung und das Risiko von Auslegungsfehlern erheblich. Die teleologische Methode muss dann nicht nur den Normzweck identifizieren, sondern diesen auf ein Geflecht divergierender Interessen anwenden. Dieses Skill trainiert diese Herausforderung methodisch.
 
 ## Mandantenfall
@@ -409,7 +405,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Das Unionsrecht greift zunehmend in die nationalen Beweislastregeln ein. EU-Richtlinien schreiben in bestimmten Bereichen günstigere Beweislastverteilungen vor, als das nationale Recht sie kennt — insbesondere im Verbraucher- und Kaufrecht. Dieses Skill trainiert die methodische Anwendung dieser unionsrechtlich modifizierten Beweislastregeln.
 

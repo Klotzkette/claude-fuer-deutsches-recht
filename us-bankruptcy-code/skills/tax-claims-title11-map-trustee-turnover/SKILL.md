@@ -1,47 +1,46 @@
 ---
 name: tax-claims-title11-map-trustee-turnover
-description: "TAX Claims Title11 MAP Trustee Turnover im Plugin Us Bankruptcy Code: prüft konkret Prueft tax claims, priority, secured tax liens, dischargeability. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds im US Bankruptcy Code: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# TAX Claims Title11 MAP Trustee Turnover
+# Tax Claims in Bankruptcy
 
 ## Arbeitsbereich
 
-**TAX Claims Title11 MAP Trustee Turnover** ordnet den Fall über die tragenden Prüffelder: Prueft tax claims, priority, secured tax liens. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Prüffeld | Fokus |
-| --- | --- |
-| `tax-claims` | Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds. |
-| `title11-map-chapters` | Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen. |
-| `trustee-us-trustee-roles` | Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions. |
-| `turnover-542` | Prueft turnover of estate property, records, account funds, collateral and foreign holder issues. |
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `tax-claims`
-
-**Fokus:** Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds.
-
-# Tax Claims in Bankruptcy
 
 ## Fachkern: Tax Claims in Bankruptcy
-- **Spezialgegenstand:** Tax Claims in Bankruptcy wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
+Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
 
 Dieser Skill macht aus dem Thema **Tax Claims in Bankruptcy** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -49,7 +48,6 @@ Dieser Skill macht aus dem Thema **Tax Claims in Bankruptcy** eine belastbare Ar
 
 - 11 U.S.C. §§ 507(a)(8), 523(a)(1), 724, 1129(a)(9)
 - IRS/state tax sources
-
 
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
@@ -60,20 +58,17 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Lien filed?
 - Refunds?
 
-
 ## Workflow
 
 1. Tax claim classify.
 2. Priority/dischargeability.
 3. Plan treatment and objection.
 
-
 ## Output
 
 - Tax claim memo
 - Tax period table
 - Plan treatment checklist
-
 
 ## Tiefencheck für die Akte
 
@@ -85,208 +80,6 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 - Welche Behandlung droht im Plan oder in der Verteilung, und lohnt sich eine aktive objection/negotiation?
 
 **Mindest-Output:** Claims-Tabelle mit Status, Belegen, Rang, Einwendungen, Frist und Plan-/Distribution-Auswirkung.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 2. `title11-map-chapters`
-
-**Fokus:** Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen.
-
-# Title 11 Chapters Map
-
-## Fachkern: Title 11 Chapters Map
-- **Spezialgegenstand:** Title 11 Chapters Map wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Title 11 Chapters Map** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. Chapters 1, 3, 5, 7, 9, 11, 12, 13, 15
-- U.S. Trustee overview
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Welche Art debtor?
-- Liquidation, reorganization, wage earner, municipality, family farmer or foreign proceeding?
-- Welche chapter-specific bar?
-
-
-## Workflow
-
-1. Chapter taxonomy erklären.
-2. Eligibility and procedural route prüfen.
-3. Falsche Analogien zum deutschen Insolvenzrecht markieren.
-
-
-## Output
-
-- Chapter selection chart
-- Eligibility questions
-- Comparison note
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 3. `trustee-us-trustee-roles`
-
-**Fokus:** Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions.
-
-# Trustee and U.S. Trustee Roles
-
-## Fachkern: Trustee and U.S. Trustee Roles
-- **Spezialgegenstand:** Trustee and U.S. Trustee Roles wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Trustee and U.S. Trustee Roles** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. §§ 307, 321-326, 1104
-- U.S. Trustee Program official resources
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Who controls debtor?
-- Is trustee appointment sought?
-- What oversight/reporting duties?
-
-
-## Workflow
-
-1. Role map erstellen.
-2. Reporting and meeting duties erfassen.
-3. Escalation to UST or trustee markieren.
-
-
-## Output
-
-- Role chart
-- Oversight checklist
-- Communication protocol
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
-
-## Qualitäts- und Risikofilter
-
-- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
-- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
-
-- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
-- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
-
-## 4. `turnover-542`
-
-**Fokus:** Prueft turnover of estate property, records, account funds, collateral and foreign holder issues.
-
-# Turnover § 542
-
-## Fachkern: Turnover § 542
-- **Spezialgegenstand:** Turnover § 542 wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
-- **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Turnover § 542** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
-## Code- und Quellenanker
-
-- 11 U.S.C. § 542
-- 11 U.S.C. § 541
-- Adversary/contested practice
-
-
-Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
-
-## Intake-Fragen
-
-- Who holds property?
-- Is it estate property?
-- Disputed ownership or setoff?
-
-
-## Workflow
-
-1. Property interest prüfen.
-2. Demand and motion/adversary route.
-3. Foreign holder enforcement issue markieren.
-
-
-## Output
-
-- Turnover demand outline
-- Property evidence list
-- Proceeding route memo
-
-
-## Tiefencheck für die Akte
-
-Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
-
-- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
-- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
-- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
-- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
-
-**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
 
 ## Qualitäts- und Risikofilter
 

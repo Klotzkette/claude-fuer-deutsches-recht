@@ -7,10 +7,10 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 
 ## Arbeitsbereich
 
-**Gegendarstellung Presse MOD Erklaerung** ordnet den Fall über die tragenden Prüffelder: Gegendarstellung Pressefreiheit § 11 BlnPresseG analog, Modifizierte Unterlassungserklärung als Alternative zur, Urheber- und Medienrechtsmandat einordnen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gegendarstellung Presse MOD Erklaerung** ordnet den Fall über die tragenden Prüfungslinien: Gegendarstellung Pressefreiheit § 11 BlnPresseG analog, Modifizierte Unterlassungserklärung als Alternative zur, Urheber- und Medienrechtsmandat einordnen und. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Prüfung Schriftsatz Klage. |
 | `fachanwalt-urheber-medienrecht-mod-erklaerung` | Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen). |
@@ -18,12 +18,12 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urheber- und Medienrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-urheber-medienrecht-gegendarstellung-presse`
 
@@ -167,7 +167,7 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 8. Ist eine negative Feststellungsklage als Alternative zur Abgabe der Erklärung sinnvoller?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -227,7 +227,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Open-Source-Lizenz betroffen | GPL/LGPL-Kompatibilitaet pruefen; MOD-Erklaerung anpassen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -464,7 +463,7 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 **Fokus:** Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
 
-# Fachanwalt fuer Urheber- und Medienrecht — Orientierung
+# Fachanwalt für Urheber- und Medienrecht — Orientierung
 
 ## Triage: Welches Sachgebiet?
 
@@ -522,7 +521,7 @@ KI-Training und Text-Data-Mining?
 
 | Mandatstyp | Erstschritte | Frist |
 |------------|-------------|-------|
-| Urheberrechtsverletzung aktiv | Verletzungsnachweis, Abmahnung | Verjaehrung 3 Jahre § 195 BGB |
+| Urheberrechtsverletzung aktiv | Verletzungsnachweis, Abmahnung | Verjährung 3 Jahre § 195 BGB |
 | Filesharing-Abmahnung passiv | Abmahnung pruefen, § 97a Abs. 3 UrhG | Reaktionsfrist 7-14 Tage |
 | Persoenlichkeitsrechtsverletzung | Einstweilige Verfuegung vorbereiten | 4 Wochen Selbstwiderlegung |
 | Gegendarstellung | LPG-Frist pruefen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
@@ -537,7 +536,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] Gegendarstellung: 2-3 Monate ab Kenntnis (LPG)
 - [ ] Einstweilige Verfuegung: 4 Wochen Selbstwiderlegung
 - [ ] Widerspruch gegen einstweilige Verfuegung: 14 Tage (§ 924 ZPO)
-- [ ] Verjaehrung Urheberrecht: 3 Jahre (§§ 195, 199 BGB; § 102 UrhG)
+- [ ] Verjährung Urheberrecht: 3 Jahre (§§ 195, 199 BGB; § 102 UrhG)
 
 ## Uebergabe
 

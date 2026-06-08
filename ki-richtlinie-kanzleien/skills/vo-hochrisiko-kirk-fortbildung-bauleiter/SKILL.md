@@ -1,35 +1,23 @@
 ---
 name: vo-hochrisiko-kirk-fortbildung-bauleiter
-description: "VO Hochrisiko Kirk Fortbildung Bauleiter im Plugin Ki Richtlinie Kanzleien: prüft konkret KI-VO Hochrisiko-Anforderungen für Personalwesen in, Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft, Bauleiter KI-Richtlinie fuer Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten im Ki Richtlinie Kanzleien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# VO Hochrisiko Kirk Fortbildung Bauleiter
+# KI-VO Hochrisiko Personalwesen
 
 ## Arbeitsbereich
 
-**VO Hochrisiko Kirk Fortbildung Bauleiter** ordnet den Fall über die tragenden Prüffelder: KI-VO Hochrisiko-Anforderungen für Personalwesen in, Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft, Bauleiter KI-Richtlinie fuer Kanzlei. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `ki-vo-hochrisiko-personalwesen` | KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten. |
-| `kirk-fortbildung-pflicht-spezial` | Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster fuer Kanzleimanagement. |
-| `kirk-ki-richtlinie-bauleiter` | Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT. |
+KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Ki Richtlinie Kanzleien klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `ki-vo-hochrisiko-personalwesen`
-
-**Fokus:** KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten.
-
-# KI-VO Hochrisiko Personalwesen
+## Spezialwissen
 
 Ab dem 2. August 2026 gelten die strengen Hochrisiko-Anforderungen der KI-Verordnung auch für KI-Systeme, die im Personalwesen eingesetzt werden. Für Kanzleien ist dies in zweifacher Hinsicht relevant: zum einen beim eigenen Einsatz von KI im Personalbereich der Kanzlei selbst, zum anderen bei der Beratung von Mandanten, die solche Systeme im Arbeitsrecht-Kontext verwenden.
 
@@ -96,7 +84,7 @@ AGG-Bias-Test:
 ☑/☐ Kein Material-Bias gefunden / Bias gefunden: [MASSNAHME]
 
 Art. 22 DSGVO:
-☑/☐ Human-in-the-Loop fuer alle Personalentscheidungen
+☑/☐ Human-in-the-Loop für alle Personalentscheidungen
 ☑/☐ Widerspruchsrecht implementiert (Art. 22 Abs. 3 DSGVO)
 
 Information Bewerber/Arbeitnehmer (Art. 13/14 DSGVO):
@@ -105,109 +93,3 @@ Information Bewerber/Arbeitnehmer (Art. 13/14 DSGVO):
 Freigabe: [JA / BEDINGT / NEIN]
 Verantwortlicher: [NAME], [DATUM]
 ```
-
-## 2. `kirk-fortbildung-pflicht-spezial`
-
-**Fokus:** Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster fuer Kanzleimanagement.
-
-# KIRK: Fortbildung KI-Pflicht
-
-## Spezialwissen: KIRK: Fortbildung KI-Pflicht
-- **Spezialgegenstand:** KIRK: Fortbildung KI-Pflicht / kirk fortbildung pflicht spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** KI, BRAO, EU, AI, Art. 4, KIRK.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 3. `kirk-ki-richtlinie-bauleiter`
-
-**Fokus:** Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT.
-
-# KIRK: KI-Richtlinie Bauleiter
-
-## Spezialwissen: KIRK: KI-Richtlinie Bauleiter
-- **Spezialgegenstand:** KIRK: KI-Richtlinie Bauleiter / kirk ki richtlinie bauleiter. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** KI, IT, KIRK.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

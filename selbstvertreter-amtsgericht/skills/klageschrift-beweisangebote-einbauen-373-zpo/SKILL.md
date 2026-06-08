@@ -19,7 +19,7 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 
 - **Beweisantrag**: Antrag, ueber eine bestimmte Tatsache Beweis durch ein Beweismittel zu erheben.
 - **Strengbeweis**: Beweis nach ZPO-Regeln im Klageverfahren.
-- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur fuer bestimmte Antraege (PKH, Wiedereinsetzung).
+- **Glaubhaftmachung**: Schwaecher als Strengbeweis; z. B. eidesstattliche Versicherung — zulaessig nur für bestimmte Antraege (PKH, Wiedereinsetzung).
 - **Beweisthema**: Die konkrete Tatsache, die bewiesen werden soll.
 
 ## Rechtsgrundlagen
@@ -31,7 +31,7 @@ Im Zivilprozess muss jede streitige Tatsache durch ein Beweismittel belegt werde
 - **§ 415 ZPO** — Urkundenbeweis.
 - **§ 445 ZPO** — Parteivernehmung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pro Tatsache: Beweismittel-Typ waehlen
 
@@ -84,7 +84,7 @@ Beispiel mit Beweisthema:
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
  Musterstrasse 1, 12345 Musterstadt,
- zum Beweis dafuer, dass der Beklagte
+ zum Beweis dafür, dass der Beklagte
  bei der Lieferung am 12.3.2025 anwesend
  war und persoenlich den Lieferschein
  unterzeichnete.
@@ -98,7 +98,7 @@ Muster:
 
 ```
 Beweis: Einholung eines Sachverstaendigen-Gutachtens
- zum Beweis dafuer, dass die Reparaturkosten
+ zum Beweis dafür, dass die Reparaturkosten
  des Fahrzeugs 4.250 EUR betragen.
 ```
 
@@ -179,7 +179,6 @@ Geht — aber Achtung Praeklusion (§ 296 ZPO). Bestes Vorgehen: alles in die Kl
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht unveraendert.
-
 
 ## Qualitäts-Hardening
 

@@ -6,15 +6,12 @@ description: "Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Sta
 # Europäischer Haftbefehl aus StA-Sicht
 
 ## Fachkern: Europäischer Haftbefehl aus StA-Sicht
-- **Spezialgegenstand:** Europäischer Haftbefehl aus StA-Sicht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Europäischer Haftbefehl aus StA-Sicht** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Auslieferung, Spezialität, Haftfragen, Übersetzung und Fristen
 
@@ -40,6 +37,19 @@ Dieser Abschnitt bearbeitet **Fachkern: Europäischer Haftbefehl aus StA-Sicht**
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 112 Abs. 1, 2 StPO (Haftgründe)
+- § 112a StPO (Wiederholungsgefahr)
+- § 116 StPO (Außervollzugsetzung)
+- BVerfGE 19, 342 (Verhältnismäßigkeit U-Haft)
+- RB 2002/584/JI
+- §§ 79 ff. IRG
+- EuGH C-216/18 PPU (LM)
+- BVerfGE 156, 182 (EuHb III)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

@@ -1,0 +1,153 @@
+---
+name: bussgeld-emissionshandel-tehg-uwr
+description: "Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung) im Umweltrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+---
+
+# Bussgeld, Sanktionen und Anhörung im Umweltrecht
+
+## Arbeitsbereich
+
+Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung). Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: BImSchG § 10 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist 1 Monat, BBodSchG Sanierungsuntersuchung 1 Jahr, Störfall-Anzeige unverzüglich.
+- Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage — klaere vor Reaktion auf Anhörung
+
+1. Welches Umweltgesetz ist Grundlage (BImSchG § 62, KrWG § 69, WHG § 103, BNatSchG § 69)?
+2. Welcher Vorwurf genau — vorsaetzlich oder fahrlassig (OWiG § 10)?
+3. Welche Behörde fuehrt das Verfahren (Gewerbeaufsicht, Umweltbehoerde, Staatsanwaltschaft)?
+4. Wurde bereits Akteneinsicht beantragt (§ 49 OWiG)?
+5. Ist der Mandant die juristische oder die natuerliche Person (GF-Haftung §§ 9, 30 OWiG)?
+6. Bestehen Verjaehjrungsfristen (§ 31 OWiG: 3 Jahre bei Bussgeld bis 100.000 EUR)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen und Paragrafenkette
+
+- **§ 62 BImSchG** — Bussgeldbewehrte Pflichtverletzungen Betreiber (Betrieb ohne Genehmigung, Verstoss Nebenbestimmungen)
+- **§ 64 BImSchG** — Strafbewehrte Verstoesze (Schadstoffe in der Luft wissentlich)
+- **§ 69 KrWG** — Ordnungswidrigkeiten (illegale Entsorgung, Nachweispflichtverletzung)
+- **§ 70 KrWG** — Straftatbestaende Abfallrecht (§ 326 StGB Verweis)
+- **§ 103 WHG** — Ordnungswidrigkeiten Wasserrecht
+- **§ 69 BNatSchG** — Ordnungswidrigkeiten Naturschutz
+- **§ 55 OWiG** — Anhörungsrecht Betroffener
+- **§ 67 OWiG** — Einspruch gegen Bussgeld-Bescheid (2 Wochen)
+- **§ 68 OWiG** — Hauptverhandlung beim Amtsgericht
+- **§ 30 OWiG** — Verbandsgeldbuse gegen jur. Person
+- **§ 31 OWiG** — Verjaeahrung (3 Jahre bei max. Bussgeld > 1.000 EUR)
+
+## Leitentscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Schritt-für-Schritt-Workflow
+
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+
+1. **Anhörungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
+2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
+3. **Schuld pruefen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
+4. **Verjaeahrung pruefen**: § 31 OWiG; Unterbrechung durch Anhörung (§ 33 OWiG).
+5. **Verteidigungsschrift einreichen**: Tatsachen und Recht; Antrag auf Einstellung oder Bussgeld-Reduzierung.
+6. **Einspruch bei Bescheid**: § 67 OWiG — 2 Wochen-Frist ab Bekanntgabe; Einspruch hemmt Rechtskraft.
+7. **Amtsgericht**: Hauptverhandlung § 68 OWiG — Zeugenbefragung, Sachverstaendige; Strafverfahren § 70 KrWG / § 326 StGB separat.
+
+### Entscheidungsbaum nach Anhörungsschreiben
+
+```
+Anhörungsschreiben erhalten
+ → Frist noch offen?
+ JA → Akteneinsicht sofort beantragen
+ → Schuld-Pruefung: War Pflichtverletzung schuldhaft?
+ JA → Minderungsgruende? → Verteidigungsschrift mit Minderungsargumentation
+ NEIN → Einstellungsantrag wegen fehlendem Vorsatz/Fahrlassigkeit
+ NEIN → Einspruch (§ 67 OWiG, 2 Wochen ab Bescheid)
+```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einlassung im Umwelt-Bussgeldbescheid-Anhörungsverfahren | Einlassung nach Schema; Template unten |
+| Variante A — Behörde will Besprechung vor Bescheid | Vorgespräch annehmen; Einlassung dann muendlich |
+| Variante B — Mandant will Bussgeldbescheid akzeptieren | Keine Einlassung noetig; Bussgeldbescheid abwarten |
+| Variante C — Strafrecht parallel ermittelt | Strafverteidigung-Skill parallel; vorsichtige Einlassung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template: Einlassung im Anhörungsverfahren
+
+**Adressat:** Zustaendige Behörde — Tonfall: sachlich-juristisch
+
+```
+An die [BEHOERDE]
+
+Stellungnahme im Anhörungsverfahren gemaess § 55 OWiG
+
+Betroffene/r: [NAME MANDANT], [ADRESSE]
+Ihr Zeichen: [AZ BEHOERDE]
+Vorwurf: [KURZBESCHREIBUNG]
+
+I. Wir zeigen die anwaltliche Vertretung von [MANDANT] an.
+ Akteneinsicht beantragen wir hiermit ausdruecklich gemaess § 49 OWiG.
+ Wir bitten um Verlaengerung der Stellungnahme-Frist bis [DATUM].
+
+II. Sachverhalt
+[MANDANT] ist Betreiber der Anlage [NAME] in [ORT].
+[Objektiver Sachverhalt aus Mandantensicht].
+
+III. Rechtliche Einlassung
+a) Tatbestand: § [X] [Gesetz] ist nicht erfuellt, weil [Argumentation].
+b) Schuld: Ein schuldhaftes Handeln liegt nicht vor. [MANDANT] hat alle
+ zumutbaren Vorkehrungen getroffen (Nachweise Anlage [X]).
+c) Verjaeahrung: Die Tat soll sich am [DATUM] ereignet haben. Gemaess
+ § 31 OWiG verjaeahrte die Ordnungswidrigkeit am [DATUM].
+
+IV. Antrag
+Wir beantragen, das Verfahren einzustellen.
+
+Anlagen: Betriebsprotokoll, Wartungsnachweise, Vollmacht
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+## Vertiefung: Verbandsbussgeld § 30 OWiG
+
+- Behörde kann gegen jur. Person Bussgeld festsetzen, wenn GF/Organ Pflicht verletzt.
+- Bussgeld bis 10 Mio. EUR (§ 30 Abs. 2 OWiG) bei Vorsatz; bei Fahrlassigkeit Haelfte.
+- Selbststaendiges Verfahren gegen jur. Person neben Verfahren gegen natuerliche Person moeglich.
+- Verteidigung: Mangelnde Zurechnung der Handlung, fehlende Aufsichtspflichtverletzung § 130 OWiG.
+
+## Fristen im Ueberblick
+
+| Verfahrensschritt | Frist | Grundlage |
+|---|---|---|
+| Einspruch gegen Bussgeld-Bescheid | 2 Wochen ab Bekanntgabe | § 67 Abs. 1 OWiG |
+| Akteneinsicht-Antrag | Unverzueglich nach Anhörung | § 49 OWiG |
+| Verjaeahrung OWi (Bussgeld > 1000 EUR) | 3 Jahre | § 31 Abs. 2 Nr. 1 OWiG |
+| Strafverfolgungsverjaehrung (§ 326 StGB) | 5 Jahre | § 78 Abs. 3 Nr. 4 StGB |
+
+## Anschluss-Skills
+
+- `umweltrecht-verfahren` — Gerichtsverfahren nach Einspruch
+- `umweltrecht-immissionsschutz-bimschg` — Nachtraegliche Auflagen als Busjgeld-Alternative
+- `umweltrecht-kommandocenter` — Intake und Mandats-Triage

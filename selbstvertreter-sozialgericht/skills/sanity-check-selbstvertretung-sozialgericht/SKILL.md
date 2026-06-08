@@ -26,7 +26,7 @@ Dieser Skill prüft, ob ein Widerspruch, eine Klage, ein Eilantrag oder eine Ste
 
 ## Prüfmatrix
 
-| Prüffeld | Kernfrage | Ampel |
+| Prüfungslinie | Kernfrage | Ampel |
 |---|---|---|
 | Frist | Ist Widerspruchs-, Klage- oder Berufungsfrist sicher? | Rot/Gelb/Grün |
 | Bescheidkette | Liegen Ausgangsbescheid und Widerspruchsbescheid vor? | Rot/Gelb/Grün |
@@ -113,7 +113,6 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 - Amtsermittlung nicht überschätzen: Belege bleiben wichtig.
 - Bei Eilrechtsschutz immer Anordnungsanspruch und Anordnungsgrund trennen.
 - Keine ärztlichen Diagnosen erfinden; medizinische Angaben nur aus Unterlagen übernehmen.
-
 
 ## Qualitäts-Hardening
 

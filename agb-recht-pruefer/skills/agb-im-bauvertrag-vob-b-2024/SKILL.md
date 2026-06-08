@@ -20,7 +20,7 @@ description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie 
 ## VOB-B Privileg
 
 - Vollstaendige Einbeziehung erforderlich. Schon kleine Anpassungen lassen das Privileg entfallen.
-- BGH VII ZR 162/13: bereits Streichung einer einzigen Klausel der VOB-B beendet das Privileg fuer die gesamte VOB-B.
+- BGH VII ZR 162/13: bereits Streichung einer einzigen Klausel der VOB-B beendet das Privileg für die gesamte VOB-B.
 - Folge: alle VOB-B-Klauseln werden unter § 307 BGB einer Inhaltskontrolle unterzogen, was haeufig zu Teilunwirksamkeiten fuehrt.
 
 ## Aktuelle Aenderungen VOB-B 2024
@@ -34,7 +34,7 @@ description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie 
 
 - **§ 8 Abs. 2 VOB-B Kuendigung aus wichtigem Grund**: Wirksam im Regelfall.
 - **§ 4 Abs. 7 VOB-B Maengelbeseitigung**: in B2C nicht uebernehmbar (BGH VIII ZR 121/02).
-- **§ 13 VOB-B Maengelhaftung**: Verkuerzung der Verjaehrungsfrist auf 4 Jahre statt 5 Jahre BGB — wirksam im B2B.
+- **§ 13 VOB-B Maengelhaftung**: Verkuerzung der Verjährungsfrist auf 4 Jahre statt 5 Jahre BGB — wirksam im B2B.
 - **§ 12 Abs. 5 VOB-B Fiktion der Abnahme**: Fiktionsregelungen sind ohne explizite Hinweise zur Frist und Folge intransparent — BGH VII ZR 137/16.
 
 ## §§ 650a ff. BGB Bauvertragsrecht 2018

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-6-abs-2-anhang-iii
-description: "Vertiefter Hochrisiko-Checker fuer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen."
+description: "Vertiefter Hochrisiko-Checker für Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen."
 ---
 
 # Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO
@@ -250,7 +250,6 @@ Nr. 8 Rechtspflege/demokratische Prozesse: [JA/NEIN/UNKLAR] — [Begründung]
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12, Nr. 13 und Nr. 23, Art. 6 Abs. 2 bis 5 und Anhang III KI-VO sowie die Kommissionsmaterialien zur Hochrisiko-Klassifikation. Die im Mai 2026 veröffentlichten Hochrisiko-Leitlinien waren zum Stand dieses Skills als Entwurf/Konsultationsmaterial zu behandeln, bis sie formal angenommen sind. Keine Rechtsberatung.
-
 
 ## Qualitäts-Hardening
 

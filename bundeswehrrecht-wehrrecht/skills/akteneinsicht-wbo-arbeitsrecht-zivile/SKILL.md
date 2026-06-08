@@ -1,42 +1,26 @@
 ---
 name: akteneinsicht-wbo-arbeitsrecht-zivile
-description: "Akteneinsicht WBO Arbeitsrecht Zivile im Bundeswehrrecht / Wehrrecht: prüft konkret Akteneinsicht WBO und WDO, Arbeitsrecht zivile Bundeswehrbeschäftigte, Rückforderung Ausbildungskosten Bundeswehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG im Bundeswehrrecht Wehrrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Akteneinsicht WBO Arbeitsrecht Zivile
+# Akteneinsicht nach WBO und WDO
 
 ## Arbeitsbereich
 
-**Akteneinsicht WBO Arbeitsrecht Zivile** ordnet den Fall über die tragenden Prüffelder: Akteneinsicht WBO und WDO, Arbeitsrecht zivile Bundeswehrbeschäftigte, Rückforderung Ausbildungskosten Bundeswehr. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `akteneinsicht-wbo-wdo` | Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG. |
-| `arbeitsrecht-zivile-bundeswehrbeschaeftigte` | Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG. |
-| `ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten` | Rückforderung Ausbildungskosten Bundeswehr: prüft § 56 SG, Zeitstaffelung, Verhältnismäßigkeit und Billigkeitserlass. Norm-/Quellenanker: § 56 SG, Art. 12 GG, BVerwG. |
+Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Bundeswehrrecht Wehrrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `akteneinsicht-wbo-wdo`
-
-**Fokus:** Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG.
-
-# Akteneinsicht nach WBO und WDO
 
 ## Fachkern: Akteneinsicht nach WBO und WDO
-- **Spezialgegenstand:** Akteneinsicht nach WBO und WDO. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
 
 ## Fachlicher Kontext
 
@@ -55,7 +39,7 @@ Verweigerungsgründe sind eng: VS-Einstufung, laufende Drittermittlungen, Schutz
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
 verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
@@ -145,241 +129,26 @@ Vor Ausgabe prüfen:
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
 
-## 2. `arbeitsrecht-zivile-bundeswehrbeschaeftigte`
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 GG
+- § 81a SVG
+- § 81e SVG
+- § 27 SVG
+- § 9a BBesG
+- § 5 SVG
+- Art. 4 GG
+- § 5 WStG
+- § 81 SVG
+- § 70 BBesG
+- Art. 12a GG
+- § 22 SÜG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-**Fokus:** Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG.
-
-# Arbeitsrecht für zivile Bundeswehrbeschäftigte
-
-## Fachkern: Arbeitsrecht für zivile Bundeswehrbeschäftigte
-- **Spezialgegenstand:** Arbeitsrecht für zivile Bundeswehrbeschäftigte. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Fachlicher Kontext
-
-Die Bundeswehr beschäftigt neben Soldaten eine große Zahl ziviler Arbeitnehmerinnen und Arbeitnehmer. Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG).
-
-Besonderheiten entstehen durch militärische Organisationsstruktur, häufige Versetzungen, Sicherheitsüberprüfungen (SÜG) als Beschäftigungsvoraussetzung und ggf. Auslandsverwendungen.
-
-## Einschlägige Normen und Quellen
-
-- TVöD Bund — Tarifvertrag öffentlicher Dienst Bund
-- BPersVG — Bundespersonalvertretungsgesetz
-- § 1 KSchG — Kündigungsschutz
-- § 613a BGB — Betriebsübergang
-- ArbGG — Arbeitsgerichtsgesetz
-- NATO-Truppenstatut — bei ausländischen Truppen mit zivilem Personal
-- SÜG — Sicherheitsüberprüfung als Beschäftigungsvoraussetzung
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
-## Sachverhaltsaufnahme — Startfragen
-
-- Welcher Tarifvertrag gilt (TVöD Bund, TV-L, sonstiger)?
-- Geht es um Kündigung, Versetzung, Abmahnung, Eingruppierung oder Sicherheitsüberprüfung?
-- Hat der Personalrat zugestimmt, oder wurde seine Beteiligung unterlassen?
-- Liegt ein Versetzungsfall unter NATO-Truppenstatut vor?
-- Sind Fristen nach KSchG (3 Wochen) oder BPersVG abgelaufen?
-- Besteht Sonderkündigungsschutz (Schwerbehinderung, Schwangerschaft, Personalrat)?
-
-## Prüf- und Arbeitslogik
-
-### Schritt 1 — Arbeitsverhältnis einordnen
-
-TVöD Bund: Entgeltgruppen E1–E15.
-Abgrenzung: Beamte der Bundeswehrverwaltung → BBG (anderer Rechtsweg!).
-Befristung: TzBfG prüfen.
-Leiharbeit: AÜG, höchstens 18 Monate.
-
-### Schritt 2 — Personalratsbeteiligung BPersVG
-
-Mitbestimmung bei Kündigung (§ 79 BPersVG), Versetzung (§ 76), Eingruppierung (§ 75).
-Fehlende Beteiligung → Kündigung unwirksam!
-Frist: Personalrat hat 10 Arbeitstage für Stellungnahme.
-Einigungsstellenverfahren bei Blockade.
-
-### Schritt 3 — Kündigung prüfen
-
-KSchG ab 6 Monaten, Betrieb > 10 MA (hier: Dienststelle zählt).
-Gründe: personenbedingt (Sicherheitsüberprüfung entzogen!), verhaltensbedingt, betriebsbedingt.
-Sonderkündigungsschutz: SGB IX, MuSchG, BEEG, Personalrat-Mitglieder.
-Klage ArbG: 3-Wochen-Frist.
-
-### Schritt 4 — Versetzung und Direktionsrecht
-
-§ 106 GewO Direktionsrecht, aber Grenzen TVöD und BPersVG.
-Versetzung andere Dienststelle: Personalratsbeteiligung, ggf. Zustimmungsverweigerung.
-Sicherheitsüberprüfung entzogen: Versetzung nicht-VS-Dienstposten oder Kündigung prüfen.
-
-### Schritt 5 — Rechtsweg
-
-Arbeitsgerichte (ArbG/LAG/BAG) für alle TVöD-Streitigkeiten.
-NICHT Verwaltungsgericht!
-Kündigungsschutzklage: 3-Wochen-Frist unbedingt wahren.
-BPersVG-Streitigkeiten: VG möglich bei Statusfragen des Personalrats.
-
-## Arbeitsergebnisse
-
-Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
-
-- Kurzvermerk mit Risikoampel (grün/gelb/rot)
-- Prüfschema mit Tatbestandselementen und offenen Punkten
-- Fragenliste für Mandanten/Sachverhaltsgespräch
-- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
-- Dokumentenanforderungsliste
-- Nächster Schritt mit konkreter Frist
-
-- Tabelle: Personalrat (BPersVG) vs. Betriebsrat (BetrVG) — Unterschiede in der Bundeswehr
-- Checkliste: Kündigung ziviler Bundeswehrbeschäftigter — häufige Fehler
-- Muster: Widerspruch gegen Versetzungsverfügung
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/tvod/ — TVöD
-- https://www.gesetze-im-internet.de/bpersvg/ — BPersVG
-- https://www.gesetze-im-internet.de/kschg/ — KSchG
-- https://www.bundesarbeitsgericht.de
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
-- Offene Tatsachen als `[offen: ...]` markiert?
-- Gegenargumente und Verteidigungslinien formuliert?
-- Beweislastverteilung geklärt?
-- Output entspricht dem gewünschten Arbeitsergebnis?
-
-## 3. `ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten`
-
-**Fokus:** Rückforderung Ausbildungskosten Bundeswehr: prüft § 56 SG, Zeitstaffelung, Verhältnismäßigkeit und Billigkeitserlass. Norm-/Quellenanker: § 56 SG, Art. 12 GG, BVerwG.
-
-# Ausbildung, Studium und Rückforderung von Ausbildungskosten
-
-## Fachkern: Ausbildung, Studium und Rückforderung von Ausbildungskosten
-- **Spezialgegenstand:** Ausbildung, Studium und Rückforderung von Ausbildungskosten. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Fachlicher Kontext
-
-Wer als Soldat auf Bundeswehrkosten studiert oder eine teure Ausbildung absolviert (Offizier, Pilot, Sanitätsoffizier, UniBw), geht eine Dienstzeitverpflichtung ein. Vorzeitige Entlassung löst Rückforderungsanspruch aus (§ 56 SG).
-
-BVerfG und BVerwG betonen Verhältnismäßigkeit: Erstattung ist Vorteilsausgleich, keine Vertragsstrafe. Härteregelungen und Billigkeitserlass sind ausdrücklich vorgesehen.
-
-## Einschlägige Normen und Quellen
-
-- § 56 SG — Rückforderung Ausbildungskosten
-- § 46 SG — Entlassung auf eigenen Antrag
-- § 55 SG — Entlassung Soldat auf Zeit
-- Art. 12 GG — Berufsfreiheit (Verhältnismäßigkeit)
-- BVerwGE 95, 262 — Verhältnismäßigkeit Rückforderung
-- SVG §§ 39–48 — Berufsförderungsdienst
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Einschlägige Normen und Quellen** im Bereich **Bundeswehrrecht und Wehrrecht**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
-## Sachverhaltsaufnahme — Startfragen
-
-- Wann wurde Ausbildung abgeschlossen, und welche Dienstzeitverpflichtung bestand?
-- Wie lange hat der Soldat nach Ausbildungsende tatsächlich gedient?
-- Welche Kosten macht die Bundeswehr geltend (Studium, Pilotenausbildung)?
-- Liegt ein Rückforderungsbescheid vor?
-- Warum wurde das Dienstverhältnis beendet (eigener Antrag, Gesundheit, Pflichtverletzung)?
-- Wurde ein Härtefall oder Billigkeitserlass beantragt?
-
-## Prüf- und Arbeitslogik
-
-### Schritt 1 — Rückforderungsgrundlage § 56 SG
-
-Tatbestand: Entlassung auf eigenen Antrag (§ 46 SG) oder nach § 55 Abs. 4 SG (Pflichtverletzung).
-NICHT bei: krankheitsbedingter Entlassung § 55 Abs. 2 SG!
-Kosten: tatsächlich entstandene Ausbildungskosten (Studium, Pilotenausbildung, Sold während Ausbildung).
-Keine Rückforderung für allgemeine Grundausbildung.
-
-### Schritt 2 — Zeitstaffelung und Berechnung
-
-Rückforderungsbetrag vermindert sich linear pro abgeleistetes Dienstjahr nach Ausbildungsende.
-Formel: Kosten × (verbleibende Verpflichtungszeit / Gesamtverpflichtungszeit).
-Berechnung im Bescheid kontrollieren: Datum Ausbildungsende, Verpflichtungszeit, tatsächliche Dienstzeit.
-
-### Schritt 3 — Verhältnismäßigkeit und Härte
-
-Art. 12 GG: Rückforderung darf nicht prohibitiv auf Berufsfreiheit wirken.
-BVerwG: Billigkeitserlass bei besonderer Härte (schwere Erkrankung, familiäre Ausnahmesituation, unzumutbare wirtschaftliche Belastung).
-Ratenzahlungsvereinbarung und Stundungsantrag möglich.
-
-### Schritt 4 — Entlassungsgrund ist entscheidend
-
-Eigener Antrag § 46 SG → voller Rückforderungsanspruch.
-Entlassung § 55 Abs. 4 Pflichtverletzung → Rückforderung möglich.
-Gesundheit § 55 Abs. 2 → KEINE Rückforderung!
-Elternzeit/Pflegezeit → BVerwG: eingeschränkte Rückforderung.
-
-### Schritt 5 — Rechtsbehelfe
-
-Widerspruch gegen Rückforderungsbescheid: 1 Monat.
-Aufschiebende Wirkung beantragen (§ 80 VwGO).
-Klage VG: sachlich zuständig.
-Parallel: Billigkeitserlass beantragen (eigenständiger Verwaltungsakt).
-
-## Arbeitsergebnisse
-
-Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
-
-- Kurzvermerk mit Risikoampel (grün/gelb/rot)
-- Prüfschema mit Tatbestandselementen und offenen Punkten
-- Fragenliste für Mandanten/Sachverhaltsgespräch
-- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
-- Dokumentenanforderungsliste
-- Nächster Schritt mit konkreter Frist
-
-- Berechnungsschema: Rückforderungsbetrag nach § 56 SG
-- Tabelle: Typische Ausbildungen, Verpflichtungszeiten und Kostengrößenordnungen
-- Muster-Widerspruch gegen Rückforderungsbescheid
-- Checkliste: Härtegründe für Billigkeitserlass
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — § 56 SG
-- https://www.bverwg.de — BVerwG Wehrdienstsenat
-- https://openjur.de — TDG-Entscheidungen
-- https://dejure.org/gesetze/SG/56.html
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
-- Offene Tatsachen als `[offen: ...]` markiert?
-- Gegenargumente und Verteidigungslinien formuliert?
-- Beweislastverteilung geklärt?
-- Output entspricht dem gewünschten Arbeitsergebnis?

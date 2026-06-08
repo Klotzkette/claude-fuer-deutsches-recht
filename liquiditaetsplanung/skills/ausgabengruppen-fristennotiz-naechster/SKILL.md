@@ -6,11 +6,8 @@ description: "Ausgabengruppen: Fristennotiz und nächster Schritt im Plugin Liqu
 # Ausgabengruppen: Fristennotiz und nächster Schritt
 
 ## Fachkern: Ausgabengruppen: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Ausgabengruppen: Fristennotiz und nächster Schritt wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -49,3 +46,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- § 102 StaRUG
+- § 1 StaRUG
+- § 64 GmbHG
+- § 8b KStG
+- § 30 GmbHG
+- § 31 StaRUG
+- § 49 StaRUG
+- § 43 GmbHG
+- § 29 StaRUG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BGH II ZR 296/05
+- BGH IX ZR 129/22
+- BGH II ZR 78/06
+- BGH IX ZR 122/23
+- BGH II ZR 206/22
+

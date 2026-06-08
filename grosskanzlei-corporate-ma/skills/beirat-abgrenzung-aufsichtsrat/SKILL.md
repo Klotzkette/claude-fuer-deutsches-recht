@@ -1,6 +1,6 @@
 ---
 name: beirat-abgrenzung-aufsichtsrat
-description: "Beirat Abgrenzung Aufsichtsrat im Corporate/M&A (Großkanzlei-Praxis): prüft Tatbestand, Zuständigkeit, Frist und Beweislage entlang der Plugin-Norm-Anker und liefert priorisierten Output (Norm-Pinpoints, Risikoampel, nächster Schritt)."
+description: "Beirat Abgrenzung Aufsichtsrat im Corporate/M&A (Großkanzlei-Praxis) im Corporate/M&A: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Beirat Abgrenzung Aufsichtsrat
@@ -12,17 +12,13 @@ description: "Beirat Abgrenzung Aufsichtsrat im Corporate/M&A (Großkanzlei-Prax
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Beirat Abgrenzung Aufsichtsrat
-- **Spezialgegenstand:** Beirat Abgrenzung Aufsichtsrat; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-
 ## Einsatz
 
 Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik.
-
-Dieser Skill ist für **Beirat Abgrenzung Aufsichtsrat** gedacht. Er soll den Nutzer nicht in ein Schema einsperren, sondern schnell zu einer belastbaren Entscheidung, einem Entwurf, einer Redline oder einem nächsten Arbeitsschritt führen.
 
 ## Kaltstart-Fragen
 
@@ -61,3 +57,32 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 - Geschäftsordnungs-Redline mit Eskalationsmechanik.
 - Risikovermerk für Gesellschafter, Geschäftsführung und Beiratsmitglieder.
 - Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 705 ff. BGB (GbR)
+- §§ 105 ff. HGB (OHG)
+- §§ 161 ff. HGB (KG)
+- §§ 13, 15 GmbHG (Anteilsübertragung)
+- § 53 GmbHG (Satzungsänderung)
+- § 33 GWB, FKVO 139/2004 (Fusionskontrolle)
+- § 311 BGB i.V.m. §§ 433, 453 BGB (Unternehmenskauf, share/asset deal)
+- §§ 25, 28 HGB (Firmenfortführung, Haftung)
+- §§ 2-4 UmwG (Verschmelzung)
+- § 1 InvKG, AWG/AWV §§ 55-62 (Investitionsprüfung)
+
+### Leitentscheidungen
+
+- BGH II ZR 17/19 (Earn-Out-Klauseln, Kontrolle)
+- BGH II ZR 280/14 (Gewährleistungsausschluss share deal)
+- BGH II ZR 109/13 (W&I-Versicherung, Sale and Purchase)
+- EuGH C-93/13 P (FKVO-Verfahren)
+- BGH II ZR 71/11 (Auskunftsrechte Datenraum)
+
+### Anwendung im Skill
+
+- Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
+- W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
+- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing pruefen, sonst § 41 GWB-Vollzugsverbot.

@@ -1,26 +1,26 @@
 ---
 name: datenschutz-aufsichtsbehoerde
-description: "Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhoerung Mandant antwortbereit. Schritt-fuer-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte fuer Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
+description: "Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhörung Mandant antwortbereit. Schritt-für-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte für Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung)."
 ---
 
 # Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden
 
 ## Zweck
 
-Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zustaendigen Aufsichtsbehoerde — also BfDI fuer Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht fuer den oeffentlichen und privaten Bereich der Laender — so, dass der Mandant in Pruefungs-, Anhoerungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
+Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zuständigen Aufsichtsbehoerde — also BfDI für Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht für den öffentlichen und privaten Bereich der Länder — so, dass der Mandant in Pruefungs-, Anhörungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhoerung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
+Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhörung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
 
 Sieben-Fragen-Diagnose:
 
 1. **Welche Aufsicht?** BfDI nach § 13 BDSG (Telekommunikation, Post, Bundesbehoerden, Postdienste) oder Landesaufsicht nach § 40 BDSG (privater Bereich plus Landesbehoerden)? Federfuehrend nach Art. 56 DSGVO?
 2. **Welcher Anlass?** Pruefung von Amts wegen, Beschwerde Art. 77, Folge einer Meldung Art. 33, anonymer Hinweis, koordiniertes Aufsichtsverfahren EDSA?
-3. **Welche Verfahrensart?** Anhoerung (kein Bussgeldverfahren), Bussgeldverfahren OWiG, Verwaltungsverfahren Art. 58 II DSGVO (Anordnung)?
+3. **Welche Verfahrensart?** Anhörung (kein Bussgeldverfahren), Bussgeldverfahren OWiG, Verwaltungsverfahren Art. 58 II DSGVO (Anordnung)?
 4. **Welche Frist?** Genau notieren, Eingangsstempel, Fristenkalender.
 5. **Ist der Mandant antwortbereit?** Sind Daten vorhanden, ist die Geschaeftsfuehrung einig, DSB beteiligt?
-6. **Welches Mandatsziel?** Pruefung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder oeffentliche Wahrnehmung steuern?
+6. **Welches Mandatsziel?** Pruefung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder öffentliche Wahrnehmung steuern?
 7. **Welche Spurensicherung intern?** Verarbeitungsverzeichnis Art. 30 DSGVO, TOM Art. 32, DSFA Art. 35, AVV Art. 28 — liegt alles vor und ist aktuell?
 
 ## Rechtlicher Rahmen
@@ -28,20 +28,20 @@ Sieben-Fragen-Diagnose:
 - **Art. 57 DSGVO** Aufgaben Aufsichtsbehoerde.
 - **Art. 58 DSGVO** Befugnisse: I Untersuchungen, II Abhilfemassnahmen.
 - **Art. 31 DSGVO** Zusammenarbeitspflicht des Verantwortlichen mit Aufsicht.
-- **Art. 56 DSGVO** federfuehrende Behoerde bei grenzueberschreitender Verarbeitung.
+- **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
 - **Art. 77 DSGVO** Beschwerderecht.
 - **§ 13 BDSG** Bestellung und Befugnisse des BfDI.
-- **§ 40 BDSG** Aufsichtsbehoerden der Laender.
+- **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **§ 41 BDSG** Anwendung OWiG, BfDI bzw. Landesaufsicht als Verfolgungsbehoerde.
-- **§ 28 VwVfG** Anhoerungsrecht im Verwaltungsverfahren.
-- **§ 55 OWiG** Anhoerung im Bussgeldverfahren — **kein Verschulden zugeben**, **kein Schweigen mit Schuldeingestaendnis verwechseln**.
+- **§ 28 VwVfG** Anhörungsrecht im Verwaltungsverfahren.
+- **§ 55 OWiG** Anhörung im Bussgeldverfahren — **kein Verschulden zugeben**, **kein Schweigen mit Schuldeingestaendnis verwechseln**.
 - **§ 46 OWiG** sinngemaesse Anwendung StPO.
 
-## Mandantenfuehrung Schritt-fuer-Schritt
+## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Mandantenfreigabe zwingend.** Kein Brief geht raus ohne Geschaeftsfuehrungsfreigabe. Vier-Augen-Prinzip.
 2. **NICHT vorschnell schriftliche Stellungnahme abgeben.** Erst Akteneinsicht beantragen, Sachverhalt klaeren, Belegmatrix erstellen.
-3. **Eingangsschreiben sortieren:** Anhoerung, Auskunftsverlangen, Anordnung, Bussgeldanhoerung — andere Vorgehen pro Variante.
+3. **Eingangsschreiben sortieren:** Anhörung, Auskunftsverlangen, Anordnung, Bussgeldanhoerung — andere Vorgehen pro Variante.
 4. **Akteneinsicht beantragen.** Bei Bussgeldverfahren § 49 OWiG i.V.m. § 147 StPO. Bei Verwaltungsverfahren § 29 VwVfG.
 5. **Frist nutzen.** Lieber Fristverlaengerung beantragen als unvollstaendig liefern.
 6. **Inhalt der Stellungnahme:** keine pauschalen Selbstvorwuerfe; konkrete Belege zu Art. 30, 32, 35; klare Trennung zwischen Tatsachen und Rechtsauffassung.
@@ -107,7 +107,6 @@ Sieben-Fragen-Diagnose:
 - StPO § 147.
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
 
 ## Qualitäts-Hardening
 

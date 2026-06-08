@@ -3,7 +3,7 @@ name: output-waehlen-memo-widerspruch-eilantrag
 description: "Output-Navigator: Mandantenbrief, Behördenanschreiben, Widerspruch, Klage, Eilantrag, Gegenvorstellung, Remonstration oder Verhandlungsnotiz."
 ---
 
-# Output Waehlen Memo Widerspruch Eilantrag
+# Output Wählen Memo Widerspruch Eilantrag
 
 ## Aufgabe
 

@@ -30,7 +30,7 @@ Der Tatsachenvortrag (= Sachverhalt) ist das Fundament Ihrer Klage. Das Gericht 
 - **§ 296 ZPO** — Versplaeteter Vortrag — Praeklusion!
 - **§ 253 II Nr. 2 ZPO** — Klagegrund.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Tatbestandsmerkmale identifizieren
 
@@ -120,7 +120,7 @@ Pro Tatbestandsmerkmal:
 - Habe ich vorgetragen?
 - Habe ich Beweis benannt?
 
-Beispiel-Checkliste fuer Kaufpreis-Forderung:
+Beispiel-Checkliste für Kaufpreis-Forderung:
 
 - [x] Kaufvertrag — Datum, Parteien, Sache, Preis.
 - [x] Uebergabe / Lieferung.
@@ -130,7 +130,7 @@ Beispiel-Checkliste fuer Kaufpreis-Forderung:
 
 ### Schritt 6 — Negative Tatsachen
 
-Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis fuer "kein Eingang" anbieten.
+Wenn Sie eine Negative behaupten ("hat nicht gezahlt"), reicht die Behauptung. Beklagter muss substantiiert bestreiten, was er gezahlt hat (sekundaere Darlegungslast). Sie selbst koennen z. B. Kontoauszug als Beweis für "kein Eingang" anbieten.
 
 ### Schritt 7 — Schluessigkeit pruefen
 
@@ -180,7 +180,6 @@ Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und a
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
-
 
 ## Qualitäts-Hardening
 

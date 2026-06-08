@@ -20,3 +20,32 @@ description: "Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende S
 
 ## Output
 Erzeuge eine Tabelle `Thema / amtlicher Anker / Mandantenrisiko / Pflicht / To-do / Frist / Streitpotenzial` und anschließend ein umsetzbares Mandantenmemo.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 8 AO (Wohnsitz, Aufenthalt)
+- §§ 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter)
+- § 42 AO (Gestaltungsmissbrauch)
+- §§ 169-171 AO (Festsetzungsverjährung)
+- §§ 233a, 235 AO (Verzinsung, Hinterziehungszinsen)
+- § 370 AO (Steuerhinterziehung)
+- §§ 153, 371 AO (Berichtigungserklärung, Selbstanzeige)
+- §§ 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif)
+- § 8 KStG, § 7 GewStG (Einkommen, Gewerbeertrag)
+- §§ 1, 15 UStG (Steuerbare Umsätze, Vorsteuerabzug)
+
+### Leitentscheidungen
+
+- BFH I R 36/18 (Hinzurechnungsbesteuerung AStG)
+- BFH XI R 11/22 (Reverse-Charge-Verfahren)
+- BFH IX R 49/13 (Liebhaberei vs. Einkunftserzielungsabsicht)
+- BVerfG 2 BvL 1/03 (Steuerfreistellung Existenzminimum)
+- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
+
+### Anwendung im Skill
+
+- Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
+- Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
+- Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.

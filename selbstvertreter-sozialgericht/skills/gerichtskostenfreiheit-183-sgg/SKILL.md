@@ -3,7 +3,7 @@ name: gerichtskostenfreiheit-183-sgg
 description: "Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen."
 ---
 
-# Das Gericht ist fuer Sie kostenfrei — § 183 SGG
+# Das Gericht ist für Sie kostenfrei — § 183 SGG
 
 ## Fachlicher Anker
 
@@ -27,19 +27,19 @@ Das Sozialgericht kostet Sie nichts. Auch wenn Sie verlieren. Sie zahlen keine G
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Gerichtskosten**: Gebuehren, die das Gericht fuer das Verfahren verlangt. Am SG faellt das fuer Sie weg.
+- **Gerichtskosten**: Gebühren, die das Gericht für das Verfahren verlangt. Am SG faellt das für Sie weg.
 - **Auslagen**: Was das Gericht ausgeben muss (Gutachter, Zeugen, Dolmetscher). Auch das traegt am SG meistens die Staatskasse.
-- **Verfahrensbeguenstigte**: Personen, die kostenfrei sind. Versicherte, Leistungsempfaenger, Behinderte.
-- **Aufwendungsersatz**: Was die unterliegende Behoerde Ihnen erstatten muss, wenn Sie gewinnen (siehe `kostenfrei-vs-aufwendungsersatz-193-sgg`).
+- **Verfahrensbegünstigte**: Personen, die kostenfrei sind. Versicherte, Leistungsempfaenger, Behinderte.
+- **Aufwendungsersatz**: Was die unterliegende Behörde Ihnen erstatten muss, wenn Sie gewinnen (siehe `kostenfrei-vs-aufwendungsersatz-193-sgg`).
 
 ## Rechtsgrundlagen
 
-- **§ 183 SGG** — Verfahrenskosten-Freiheit fuer Versicherte, Leistungsempfaenger, Schwerbehinderte.
-- **§ 184 SGG** — Pauschalgebuehren fuer Klagen von Behoerden und juristischen Personen, die nicht unter § 183 SGG fallen.
+- **§ 183 SGG** — Verfahrenskosten-Freiheit für Versicherte, Leistungsempfaenger, Schwerbehinderte.
+- **§ 184 SGG** — Pauschalgebuehren für Klagen von Behörden und juristischen Personen, die nicht unter § 183 SGG fallen.
 - **§ 193 SGG** — Wer zahlt die aussergerichtlichen Kosten?
 - **§ 109 SGG** — Eigenes Gutachten zahlen Sie selbst (Ausnahme!).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Sie kostenfrei sind
 
@@ -73,7 +73,7 @@ Nicht kostenfrei ist:
 
 ### Schritt 4 — Bei Erfolg
 
-Wenn Sie gewinnen, muss die unterliegende Behoerde Ihnen die notwendigen aussergerichtlichen Kosten erstatten (§ 193 SGG). Das umfasst:
+Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen aussergerichtlichen Kosten erstatten (§ 193 SGG). Das umfasst:
 
 - Anwaltskosten (bei beauftragtem Anwalt)
 - Fahrtkosten zum Termin
@@ -103,7 +103,6 @@ Wenn Sie gewinnen, muss die unterliegende Behoerde Ihnen die notwendigen ausserg
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG ist Kernschutz der sozialen Gerichtsbarkeit. Pruefen Sie im Zweifel mit Ihrem Sozialverband.
-
 
 ## Qualitäts-Hardening
 

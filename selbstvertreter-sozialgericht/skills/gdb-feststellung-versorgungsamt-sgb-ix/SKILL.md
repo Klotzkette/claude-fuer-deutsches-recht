@@ -1,6 +1,6 @@
 ---
 name: gdb-feststellung-versorgungsamt-sgb-ix
-description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften fuer chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage."
+description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften für chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage."
 ---
 
 # Gdb Feststellung Versorgungsamt Sgb Ix
@@ -13,9 +13,9 @@ description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill kla
 
 ## Antragsverfahren
 
-1. Antrag bei Versorgungsamt (in den Laendern unterschiedlich strukturiert).
+1. Antrag bei Versorgungsamt (in den Ländern unterschiedlich strukturiert).
 2. Aerztliche Unterlagen einreichen.
-3. Pruefung durch versorgungsaerztlichen Dienst (regelmaessig ohne persoenliche Untersuchung).
+3. Pruefung durch versorgungsaerztlichen Dienst (regelmaessig ohne persönliche Untersuchung).
 4. Bescheid mit GdB und Merkzeichen.
 
 ## Versorgungsmedizinverordnung (VersMedV)
@@ -30,7 +30,7 @@ description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill kla
 - Bandscheibenleiden mit Funktionsstoerung: GdB 30-50.
 - Depression mittel: GdB 30-40, schwer 50-70.
 - Schwerhoerigkeit beidseits: GdB 30-100.
-- Krebserkrankung: GdB 50 mindestens fuer 5 Jahre (Heilungsbewaehrung).
+- Krebserkrankung: GdB 50 mindestens für 5 Jahre (Heilungsbewaehrung).
 
 ## Mehrere Beeintraechtigungen
 

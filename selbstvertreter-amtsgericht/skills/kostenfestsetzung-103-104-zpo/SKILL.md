@@ -29,7 +29,7 @@ Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das
 - **§ 104 ZPO** — Verfahren.
 - **§ 91 II 1 ZPO** — Anwaltskosten.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Voraussetzung: Kosten-Titel
 
@@ -43,7 +43,7 @@ Sie brauchen ein Urteil (oder Vergleich), das die Kostenfolge regelt:
 Aus § 91 ZPO und Rechtsprechung:
 
 - **Gerichtskosten**: Vorschuss, Sachverstaendigen-Auslagen.
-- **Anwaltskosten**: Wenn Sie Anwalt hatten (nach RVG). Bei Selbstvertretung: kein Erstattungs-Anspruch fuer eigene Zeit.
+- **Anwaltskosten**: Wenn Sie Anwalt hatten (nach RVG). Bei Selbstvertretung: kein Erstattungs-Anspruch für eigene Zeit.
 - **Reisekosten** zum Gericht (km-Pauschale, ggf. Hotel).
 - **Verdienstausfall** bei eigener Anwesenheit (begrenzt).
 - **Porto, Telekommunikation**.
@@ -141,7 +141,6 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 103, 104 ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

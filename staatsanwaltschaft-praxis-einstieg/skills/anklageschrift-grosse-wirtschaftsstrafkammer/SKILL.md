@@ -6,15 +6,12 @@ description: "Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill f�
 # Anklageschrift zur großen Wirtschaftsstrafkammer
 
 ## Fachkern: Anklageschrift zur großen Wirtschaftsstrafkammer
-- **Spezialgegenstand:** Anklageschrift zur großen Wirtschaftsstrafkammer wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Anklageschrift zur großen Wirtschaftsstrafkammer** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Umfangsverfahren, Konkretisierung, Beweismittel, Anlagen und Verständlichkeit
 
@@ -40,6 +37,19 @@ Dieser Abschnitt bearbeitet **Fachkern: Anklageschrift zur großen Wirtschaftsst
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 170 Abs. 1 StPO (hinreichender Tatverdacht)
+- § 200 StPO (Inhalt der Anklageschrift)
+- § 199 StPO (Eröffnungsentscheidung)
+- BGHSt 40, 44 (Umgrenzungsfunktion)
+- Nr. 110 ff. RiStBV
+- § 74c GVG (Wirtschaftsstrafkammer)
+- § 76 GVG (Besetzung)
+- § 200 StPO (Anklage bei Komplexverfahren)
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

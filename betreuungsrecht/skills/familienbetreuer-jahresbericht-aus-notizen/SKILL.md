@@ -9,9 +9,23 @@ description: "Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Konto
 
 Für ehrenamtliche Betreuer, die dem Gericht gut, knapp und vollständig berichten wollen.
 
-## Norm- und Quellenanker
+## Normenanker
 
-BGB Berichtspflichten; FamFG; lokale Gerichtsformulare live prüfen.
+Arbeitsfokus: **Familienbetreuer: Jahresbericht aus Notizen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsfragen
 

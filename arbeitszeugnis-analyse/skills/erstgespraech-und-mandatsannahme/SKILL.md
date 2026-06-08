@@ -13,7 +13,7 @@ description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassu
 
 ## Eingangsbestaetigung
 
-Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank fuer das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klaerenden Fristen.
+Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank für das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klaerenden Fristen.
 
 Wichtig ist der Hinweis, dass die Bewertung erst nach Sichtung aller Unterlagen erfolgen kann. Eine vorschnelle Einschaetzung allein anhand des Zeugnistextes ist riskant, weil der Kontext (Aufgabenzuschnitt, Krankheitstage, Abmahnungen, Vergleichszeugnisse) die Bewertung erheblich verschieben kann. Der Mandant erhaelt daher zunaechst nur eine Eingangsbestaetigung, keine Bewertung.
 
@@ -44,9 +44,9 @@ Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschaeftigung (Begin
 
 Der zweite Block ist die Zielklaerung. Will der Mandant ein besseres Zeugnis, eine bestimmte Note, eine bestimmte Schlussformel, eine konkrete Taetigkeitsbeschreibung oder die Entfernung bestimmter Passagen. Auch der Zeitdruck wird erfragt: Steht ein Vorstellungsgespraech an, ist Eile geboten.
 
-Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafuer die Notenstufe stimmt. Diese Vorabklaerung erspart spaeter unnoetige Schriftsatzwechsel.
+Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart spaeter unnoetige Schriftsatzwechsel.
 
-Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird ueber den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjaehrung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht moeglich.
+Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird ueber den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjährung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht moeglich.
 
 Der fuenfte Block ist die Vereinbarung. Vergueterung (RVG oder Stundensatz), Kostenvorschuss, Rechtsschutzversicherung, Vollmacht und Mandatsumfang werden schriftlich festgehalten.
 
@@ -54,7 +54,7 @@ Der fuenfte Block ist die Vereinbarung. Vergueterung (RVG oder Stundensatz), Kos
 
 Sehr geehrter Herr [Name],
 
-vielen Dank fuer Ihre Beauftragung und die uebersandten Unterlagen. Wir haben Ihr Arbeitszeugnis vom [Datum] erhalten und werden eine detaillierte Ampelanalyse durchfuehren.
+vielen Dank für Ihre Beauftragung und die uebersandten Unterlagen. Wir haben Ihr Arbeitszeugnis vom [Datum] erhalten und werden eine detaillierte Ampelanalyse durchfuehren.
 
 Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen koennen, benoetigen wir noch die folgenden Unterlagen:
 
@@ -67,14 +67,14 @@ Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines B
 - bisheriger Schriftwechsel zum Zeugnis
 - Lohnabrechnungen der letzten drei Monate
 
-Bitte beachten Sie, dass der Anspruch auf Berichtigung eines Arbeitszeugnisses der Verjaehrung und gegebenenfalls der Verwirkung unterliegt. Wir empfehlen daher eine zuegige Bearbeitung. Nach Eingang der vollstaendigen Unterlagen erhalten Sie binnen einer Woche unsere Bewertung mit Vorschlag fuer das weitere Vorgehen.
+Bitte beachten Sie, dass der Anspruch auf Berichtigung eines Arbeitszeugnisses der Verjährung und gegebenenfalls der Verwirkung unterliegt. Wir empfehlen daher eine zuegige Bearbeitung. Nach Eingang der vollstaendigen Unterlagen erhalten Sie binnen einer Woche unsere Bewertung mit Vorschlag für das weitere Vorgehen.
 
 Mit freundlichen Gruessen
 [Kanzlei]
 
 ## Pruefliste vor Mandatsannahme
 
-Vor der formellen Annahme prueft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjaehrung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant ueber das Kostenrisiko offen aufgeklaert werden.
+Vor der formellen Annahme prueft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjährung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant ueber das Kostenrisiko offen aufgeklaert werden.
 
 ## Anschluss an die weiteren Skills
 

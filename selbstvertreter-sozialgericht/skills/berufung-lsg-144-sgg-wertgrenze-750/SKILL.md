@@ -17,7 +17,7 @@ Wenn Sie vor dem SG verloren haben (oder teilgewonnen), koennen Sie in die zweit
 
 ## In einfacher Sprache
 
-Sie haben verloren und wollen nochmal. Dafuer gibt es das Landessozialgericht (zweite Instanz). Aber nicht bei jedem Streit. Es muss um mehr als 750 Euro gehen oder um lange Leistungen.
+Sie haben verloren und wollen nochmal. Dafür gibt es das Landessozialgericht (zweite Instanz). Aber nicht bei jedem Streit. Es muss um mehr als 750 Euro gehen oder um lange Leistungen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -37,7 +37,7 @@ Sie haben verloren und wollen nochmal. Dafuer gibt es das Landessozialgericht (z
 - **§ 151 SGG** — Berufungsfrist 1 Monat.
 - **§ 153 SGG** — Inhalt der Berufungsschrift.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen: Berufung statthaft?
 
@@ -73,7 +73,7 @@ In dem Verfahren
 
 gegen
 
-[Behoerde]
+[Behörde]
 
 — Beklagte und Berufungsbeklagte —
 
@@ -112,7 +112,7 @@ Innerhalb der vom LSG gesetzten Frist. Inhalt:
 Vor dem LSG haben oft beide Seiten einen Anwalt. Sie haben zwar keinen Anwaltszwang, aber:
 
 - Verfahren ist anspruchsvoller
-- Behoerde hat oft eigenen Juristen
+- Behörde hat oft eigenen Juristen
 - PKH-Antrag ueberlegen
 
 ### Schritt 6 — Verfahren beim LSG
@@ -151,7 +151,6 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 SGG aktuell. Wertgrenze 750 EUR.
-
 
 ## Qualitäts-Hardening
 

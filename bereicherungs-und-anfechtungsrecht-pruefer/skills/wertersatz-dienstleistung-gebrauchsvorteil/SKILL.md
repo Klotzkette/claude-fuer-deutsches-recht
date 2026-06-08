@@ -7,7 +7,7 @@ description: "Bei eine nicht rückgabefähige Dienstleistung oder Nutzung bewert
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -63,7 +63,6 @@ Dieses Fachmodul greift, wenn eine nicht rückgabefähige Dienstleistung oder Nu
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

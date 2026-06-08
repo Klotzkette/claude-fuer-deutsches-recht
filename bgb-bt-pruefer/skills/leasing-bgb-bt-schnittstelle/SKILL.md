@@ -6,11 +6,9 @@ description: "Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährl
 # Leasing BGB-BT Schnittstelle
 
 ## Fachkern: Leasing BGB-BT Schnittstelle
-- **Spezialgegenstand:** Leasing BGB-BT Schnittstelle; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -76,7 +74,6 @@ Leasingverträge im Zivilrecht einordnen und prüfen: Abgrenzung Finanzierungsle
 - darlehen-und-finanzierung
 - kaufvertrag-grundschema-paragraph-433
 - vertragstypen-mischvertrag-router
-
 
 ## Quellen
 

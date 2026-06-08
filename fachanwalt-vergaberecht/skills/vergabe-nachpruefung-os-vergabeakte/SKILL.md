@@ -1,30 +1,30 @@
 ---
 name: vergabe-nachpruefung-os-vergabeakte
-description: "Vergabe Nachpruefung OS Vergabeakte im Plugin Fachanwalt Vergaberecht: prüft konkret Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS fuer Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk fuer Auftraggeber, Vergabekammer-Termin simulieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vergabe Nachpruefung OS Vergabeakte im Plugin Fachanwalt Vergaberecht: prüft konkret Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS für Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk für Auftraggeber, Vergabekammer-Termin simulieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Vergabe Nachpruefung OS Vergabeakte
 
 ## Arbeitsbereich
 
-**Vergabe Nachpruefung OS Vergabeakte** ordnet den Fall über die tragenden Prüffelder: Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS fuer Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk fuer Auftraggeber. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Vergabe Nachpruefung OS Vergabeakte** ordnet den Fall über die tragenden Prüfungslinien: Aussichten eines Vergabenachprüfungsverfahrens bewerten, Vergabe-OS für Anfaenger und Profis, Vergabeakte und Dokumentationsvermerk für Auftraggeber. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `vergabe-nachpruefung-aussicht` | Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk. |
-| `vergabe-os-master-orchestrator` | Vergabe-OS fuer Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte. |
-| `vergabeakte-dokumentationsvermerk-builder` | Vergabeakte und Dokumentationsvermerk fuer Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit. |
+| `vergabe-os-master-orchestrator` | Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte. |
+| `vergabeakte-dokumentationsvermerk-builder` | Vergabeakte und Dokumentationsvermerk für Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit. |
 | `vergabekammer-termin-simulation` | Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Mandantenbriefing und Nachterminplan. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `vergabe-nachpruefung-aussicht`
 
@@ -46,7 +46,7 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 6. Was ist der genaue materielle Vorwurf — Eignungsfehler, Wertungsfehler, ungewöhnlich niedriges Angebot § 60 VgV, rechtswidrige Aufhebung, unzulässige Direktvergabe?
 7. Hat der Mandant reale Auftragschance — war sein Angebot nach Ablauf aller Prüfungsschritte das wirtschaftlichste? Drohender Schaden § 160 Abs. 2 GWB?
 8. Ist Akteneinsicht § 165 GWB bereits beantragt oder notwendig, um den Vorwurf substanziieren zu können?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -74,7 +74,6 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
-
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
@@ -104,11 +103,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Bieter prueft Erfolgsaussichten eines Nachpruefungsantrags | Erfolgsaussichten-Memo nach Primaer-Sekundaer-Schema; Template unten |
 | Variante A — Vergabeverstoß klar aber Auftrag strategisch wichtig | Ruege und Verhandlung mit Vergabestelle vor Antragstellung |
-| Variante B — Beweislage duenn nur Indizien fuer Fehler | Akteneinsicht § 163 GWB beantragen bevor Antrag gestellt wird |
+| Variante B — Beweislage duenn nur Indizien für Fehler | Akteneinsicht § 163 GWB beantragen bevor Antrag gestellt wird |
 | Variante C — Mandant will schnellen Schadensersatz nicht Auftrag | Schadensersatzklage § 179 GWB als Alternative zum Nachpruefungsantrag |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -169,7 +167,7 @@ Die Vergabekammer moge beschliessen:
  der notwendigen Aufwendungen des Antragstellers.
 
 5. Die Hinzuziehung eines Rechtsanwalts durch den Antragsteller wird
- fuer notwendig erklaert.
+ für notwendig erklaert.
 ```
 
 ### Baustein 3 — Argumentation ungewöhnlich niedriges Angebot
@@ -201,11 +199,10 @@ ausschliessen muessen.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Beweislast und Darlegungslast
 
@@ -277,7 +274,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 1. Ist Ruege nach § 160 Abs. 3 GWB rechtzeitig erhoben worden?
 2. Hat Bieter Antragsbefugnis (am Verfahren beteiligt oder haette beteiligt sein koennen)?
 3. Welcher Fehler ist konkret nachweisbar (Wertung / Eignung / Diskriminierung / Transparenz)?
-4. Liegt der Verstoss kausal fuer die Nichtberucksichtigung des Mandanten?
+4. Liegt der Verstoss kausal für die Nichtberucksichtigung des Mandanten?
 5. Werden Chancen geschaetzt: "Keine konkreten Aussichten" → Schadensersatz § 181 GWB statt NPA?
 
 ### Output-Template Erfolgsaussichten-Memo
@@ -313,7 +310,6 @@ Datum Memo: [TT.MM.JJJJ]
 =========================================
 ```
 
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -326,13 +322,13 @@ Datum Memo: [TT.MM.JJJJ]
 
 ## 2. `vergabe-os-master-orchestrator`
 
-**Fokus:** Vergabe-OS fuer Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.
+**Fokus:** Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.
 
 # Vergabe-OS Master-Orchestrator
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll die gesamte Beschaffung oder den gesamten Rechtsschutzfall vom ersten Satz bis zum naechsten verwertbaren Output steuern. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll die gesamte Beschaffung oder den gesamten Rechtsschutzfall vom ersten Satz bis zum naechsten verwertbaren Output steuern. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -353,7 +349,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -371,12 +367,11 @@ Kurzbild, Phasenkarte, Fristenampel, Skill-Routing, Arbeitsplan, Mandantennaechs
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -390,13 +385,13 @@ Kurzbild, Phasenkarte, Fristenampel, Skill-Routing, Arbeitsplan, Mandantennaechs
 
 ## 3. `vergabeakte-dokumentationsvermerk-builder`
 
-**Fokus:** Vergabeakte und Dokumentationsvermerk fuer Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit.
+**Fokus:** Vergabeakte und Dokumentationsvermerk für Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit.
 
 # Vergabeakte und Dokumentationsvermerk
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll eine prueffeste Vergabeakte erstellen oder lueckenhaftes Material reparieren. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll eine prueffeste Vergabeakte erstellen oder lueckenhaftes Material reparieren. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -417,7 +412,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -435,12 +430,11 @@ Aktenstruktur, Dokumentationsvermerk, Lueckenliste, Haftungsampel.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -460,7 +454,7 @@ Aktenstruktur, Dokumentationsvermerk, Lueckenliste, Haftungsampel.
 
 ## Zweck
 
-Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Mandanten und Anwalt auf VK-Termin oder Telefonkonferenz vorbereiten. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Mandanten und Anwalt auf VK-Termin oder Telefonkonferenz vorbereiten. Er arbeitet für Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
 
 ## Sofortmodus
 
@@ -481,7 +475,7 @@ Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergab
 ## Pflicht-Output
 
 - Kurzbild in drei Saetzen.
-- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Ampel: Frist, Zuständigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
 - Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
 - Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
 
@@ -499,12 +493,11 @@ Simulationsskript, Richter-/Kammerfragen, Antwortlinien, Vergleichsoptionen.
 
 ## Anschluss-Skills
 
-- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
-- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
-- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
-- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
-
+- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` für Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` für VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` für komplexe Mehrthemenfaelle.
 
 ## Vergabe-Workbench-Boost v61.2
 

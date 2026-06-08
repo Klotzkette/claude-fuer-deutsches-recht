@@ -37,3 +37,12 @@ Diese Quellenkarte sichert im Bereich **Einfache Leichte Sprache Jura** tragende
 - Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
 - Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
 - Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 11 SGB I (Verständlichkeit)
+- BGG (Behindertengleichstellungsgesetz) § 11
+- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
+- UN-BRK Art. 9, 21

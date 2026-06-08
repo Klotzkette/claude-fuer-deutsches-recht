@@ -13,7 +13,7 @@ description: "Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruch
 
 ## Worum geht es?
 
-Wenn Sie den Widerspruchsbescheid lesen, muessen Sie erkennen, ob die Behoerde Ihnen ganz, teilweise oder gar nicht recht gibt. Diese Skill hilft beim Erkennen und Einordnen.
+Wenn Sie den Widerspruchsbescheid lesen, muessen Sie erkennen, ob die Behörde Ihnen ganz, teilweise oder gar nicht recht gibt. Diese Skill hilft beim Erkennen und Einordnen.
 
 ## In einfacher Sprache
 
@@ -27,9 +27,9 @@ Im Bescheid steht: gewonnen, teils gewonnen, oder verloren. Wir zeigen Ihnen, wi
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Vollabhilfe**: Behoerde gibt Ihnen vollstaendig recht. Bescheid wird aufgehoben oder Sie bekommen alle geforderte Leistung.
-- **Teilabhilfe**: Behoerde gibt Ihnen teilweise recht. Ein Teil bleibt, ein Teil wird geaendert.
-- **Zurueckweisung**: Behoerde haelt am alten Bescheid fest.
+- **Vollabhilfe**: Behörde gibt Ihnen vollstaendig recht. Bescheid wird aufgehoben oder Sie bekommen alle geforderte Leistung.
+- **Teilabhilfe**: Behörde gibt Ihnen teilweise recht. Ein Teil bleibt, ein Teil wird geaendert.
+- **Zurueckweisung**: Behörde haelt am alten Bescheid fest.
 - **Tenor**: Der Entscheidungssatz im Bescheid. Meist am Anfang oder am Ende.
 
 ## Rechtsgrundlagen
@@ -38,7 +38,7 @@ Im Bescheid steht: gewonnen, teils gewonnen, oder verloren. Wir zeigen Ihnen, wi
 - **§ 87 SGG** — Klagefrist gegen Widerspruchsbescheid.
 - **§ 86 SGG** — Folgebescheid waehrend des Widerspruchs (z.B. neuer Bewilligungsbescheid).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Den Tenor finden
 
@@ -47,7 +47,7 @@ Der Tenor steht meist:
 - **Oben** als Ueberschrift ("Tenor:" / "Entscheidung:")
 - **Oder** am Ende als Zusammenfassung
 
-Beispiele fuer Tenor-Texte:
+Beispiele für Tenor-Texte:
 
 - **Vollabhilfe**: "Dem Widerspruch wird abgeholfen. Der Bescheid vom [Datum] wird aufgehoben." → Sie haben gewonnen.
 - **Teilabhilfe**: "Dem Widerspruch wird teilweise abgeholfen. Der Bescheid vom [Datum] wird wie folgt geaendert: [...]. Im Uebrigen wird der Widerspruch zurueckgewiesen." → Sie haben teilweise gewonnen.
@@ -74,7 +74,7 @@ Beispiele fuer Tenor-Texte:
 
 Lesen Sie sehr genau. Beispiel: "Der Bescheid wird wie folgt geaendert: Der Pflegegrad 3 wird ab dem 1.7.2026 anerkannt. Im Uebrigen wird der Widerspruch zurueckgewiesen."
 
-Hier ist strittig: Sie wollten Pflegegrad 3 ab Antragstellung (z.B. 1.3.2026). Die Behoerde gibt aber erst ab 1.7.2026. Die 4 Monate Differenz sind verloren — es sei denn, Sie klagen.
+Hier ist strittig: Sie wollten Pflegegrad 3 ab Antragstellung (z.B. 1.3.2026). Die Behörde gibt aber erst ab 1.7.2026. Die 4 Monate Differenz sind verloren — es sei denn, Sie klagen.
 
 ### Schritt 4 — Pruefen, ob es sich lohnt zu klagen
 
@@ -98,9 +98,9 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 
 ## Worauf Sie besonders achten muessen
 
-- **Begruendung im Widerspruchsbescheid lesen**: Die Behoerde muss begruenden, warum sie Sie ablehnt oder teilweise abhilft. Aus der Begruendung sehen Sie, was die Behoerde anders sieht — und was Sie in der Klage angreifen koennen.
+- **Begruendung im Widerspruchsbescheid lesen**: Die Behörde muss begruenden, warum sie Sie ablehnt oder teilweise abhilft. Aus der Begruendung sehen Sie, was die Behörde anders sieht — und was Sie in der Klage angreifen koennen.
 - **"Im Uebrigen wird der Widerspruch zurueckgewiesen"** ist die kritische Formel: dieser Rest ist strittig und kann beklagt werden.
-- **Folgebescheide**: Wenn die Behoerde waehrend des Widerspruchs einen neuen Bescheid erlassen hat, wird er automatisch Teil des Verfahrens (§ 86 SGG).
+- **Folgebescheide**: Wenn die Behörde waehrend des Widerspruchs einen neuen Bescheid erlassen hat, wird er automatisch Teil des Verfahrens (§ 86 SGG).
 
 ## Typische Fehler
 
@@ -114,14 +114,13 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruchsbescheid-was-jetzt` — Ueberblick nach Bescheid
 - `klagearten-uebersicht-sgg` — welche Klage gegen welchen Teil
-- `untaetigkeitsklage-88-sgg` — wenn Behoerde nicht zahlt
+- `untaetigkeitsklage-88-sgg` — wenn Behörde nicht zahlt
 - `anfechtungsklage-54-sgg` — gegen Zurueckweisung
 - `verpflichtungsklage-54-sgg` — auf Mehrleistung
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Klassische Auslegungs-Praxis. Bei Unsicherheit Beratungsstelle.
-
 
 ## Qualitäts-Hardening
 

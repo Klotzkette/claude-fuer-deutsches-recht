@@ -22,7 +22,7 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
 - Art. 32 DSGVO: TOM-Pflicht, die Audit-Grundlage ist.
 - Art. 42, Art. 43 DSGVO: Zertifizierungen und Pruefstellen.
 - Art. 40 DSGVO: Verhaltensregeln (Codes of Conduct).
-- § 17 UWG, § 203 StGB: Schutz von Geschaeftsgeheimnissen und Berufsgeheimnis bei Audit.
+- § 17 UWG, § 203 StGB: Schutz von Geschäftsgeheimnissen und Berufsgeheimnis bei Audit.
 
 ## Ablauf / Checkliste
 
@@ -42,19 +42,19 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
  | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
 
 3. **Ankuendigungsfrist und Auditor.**
- - Praxis: 30 Kalendertage Vorankuendigung bei planmaessigem Audit.
+ - Praxis: 30 Kalendertage Vorankuendigung bei planmäßigem Audit.
  - Verzicht auf Vorankuendigung bei akuter Datenpanne.
  - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
  - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
 
 4. **Geschaeftsgeheimnis-Schutz.**
- - NDA fuer Auditoren.
+ - NDA für Auditoren.
  - Schutz von Quellcode, Konfigurationen, Sub-AV-Vertraegen.
  - Recht des Auftragsverarbeiters, sensible Informationen zu schwaerzen oder in Aggregatsform vorzulegen.
  - Bei Berufsgeheimnistraegern (§ 203 StGB): Auditor unterliegt selbst der Schweigepflicht.
 
 5. **Kostenregelung.**
- - Praxis: Verantwortlicher traegt Kosten des planmaessigen Audits.
+ - Praxis: Verantwortlicher traegt Kosten des planmäßigen Audits.
  - Auftragsverarbeiter traegt Kosten bei festgestellten Verstoessen.
  - Bei anlassbezogenen Audits oft 50/50 oder Verursacherprinzip.
 
@@ -72,15 +72,15 @@ Audit-Klausel:
 >
 > (1) Der Auftragsverarbeiter stellt dem Verantwortlichen alle erforderlichen Informationen zum Nachweis der Einhaltung der in Art. 28 DSGVO und in diesem Vertrag festgelegten Pflichten zur Verfuegung (Art. 28 Abs. 3 lit. h DSGVO).
 >
-> (2) Der Verantwortliche kann einmal pro Kalenderjahr ein planmaessiges Audit beim Auftragsverarbeiter durchfuehren oder durch einen von ihm beauftragten unabhaengigen Pruefer durchfuehren lassen. Das planmaessige Audit ist mindestens dreissig (30) Kalendertage im Voraus schriftlich anzukuendigen.
+> (2) Der Verantwortliche kann einmal pro Kalenderjahr ein planmäßiges Audit beim Auftragsverarbeiter durchfuehren oder durch einen von ihm beauftragten unabhaengigen Pruefer durchfuehren lassen. Das planmäßige Audit ist mindestens dreissig (30) Kalendertage im Voraus schriftlich anzukuendigen.
 >
-> (3) Ueber das planmaessige Audit hinaus ist der Verantwortliche bei begruendetem Anlass zur Durchfuehrung eines anlassbezogenen Audits ohne die Frist aus Absatz (2) berechtigt. Ein begruendeter Anlass liegt insbesondere vor bei einer Datenpanne, bei einer Anordnung der Aufsichtsbehoerde sowie bei einem konkreten Hinweis auf eine Pflichtverletzung des Auftragsverarbeiters.
+> (3) Ueber das planmäßige Audit hinaus ist der Verantwortliche bei begruendetem Anlass zur Durchfuehrung eines anlassbezogenen Audits ohne die Frist aus Absatz (2) berechtigt. Ein begruendeter Anlass liegt insbesondere vor bei einer Datenpanne, bei einer Anordnung der Aufsichtsbehoerde sowie bei einem konkreten Hinweis auf eine Pflichtverletzung des Auftragsverarbeiters.
 >
 > (4) Der Auftragsverarbeiter kann anstelle eines Vor-Ort-Audits die Vorlage eines aktuellen Pruefberichts eines unabhaengigen Pruefers nach anerkannten Standards (z. B. ISO 27001 oder SOC 2 Type II oder BSI C5 Typ 2) anbieten. Der Verantwortliche kann dieses Angebot annehmen, wenn der Pruefbericht die zu pruefenden Verarbeitungstaetigkeiten abdeckt und nicht aelter als zwoelf (12) Monate ist.
 >
-> (5) Der Auditor unterliegt der Verschwiegenheit. Der Auftragsverarbeiter kann sensible Geschaeftsgeheimnisse (insbesondere Quellcode, Konfigurationen, Sub-AV-Vertraege) in geschwaerzter Form oder durch geeignete Aggregation vorlegen.
+> (5) Der Auditor unterliegt der Verschwiegenheit. Der Auftragsverarbeiter kann sensible Geschäftsgeheimnisse (insbesondere Quellcode, Konfigurationen, Sub-AV-Vertraege) in geschwaerzter Form oder durch geeignete Aggregation vorlegen.
 >
-> (6) Die Kosten des planmaessigen Audits traegt der Verantwortliche. Werden bei einem Audit Pflichtverletzungen des Auftragsverarbeiters festgestellt, traegt der Auftragsverarbeiter die Kosten des betreffenden Audits sowie etwaiger Folgeaudits zur Nachpruefung.
+> (6) Die Kosten des planmäßigen Audits traegt der Verantwortliche. Werden bei einem Audit Pflichtverletzungen des Auftragsverarbeiters festgestellt, traegt der Auftragsverarbeiter die Kosten des betreffenden Audits sowie etwaiger Folgeaudits zur Nachpruefung.
 >
 > (7) Der Auditbericht ist dem Auftragsverarbeiter binnen dreissig (30) Kalendertagen nach Audit zur Stellungnahme vorzulegen. Der Auftragsverarbeiter erstellt einen Mangelbehebungsplan mit angemessenen Fristen.
 >
@@ -109,7 +109,6 @@ Audit-Klausel:
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -117,3 +116,32 @@ Audit-Klausel:
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 5 DSGVO (Grundsätze der Verarbeitung)
+- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
+- Art. 13, 14 DSGVO (Informationspflichten)
+- Art. 15 DSGVO (Auskunftsrecht)
+- Art. 28 DSGVO (Auftragsverarbeitung)
+- Art. 32 DSGVO (Sicherheit der Verarbeitung)
+- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
+- Art. 82 DSGVO (Schadensersatz)
+- Art. 83 DSGVO (Bußgelder)
+- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
+
+### Leitentscheidungen
+
+- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
+- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
+- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
+- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
+
+### Anwendung im Skill
+
+- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
+- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
+- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.

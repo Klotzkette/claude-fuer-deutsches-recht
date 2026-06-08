@@ -1,30 +1,30 @@
 ---
 name: lohn-arbeitszeit-mandat-triage
-description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konkret Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant, Prüffeld für massenentlassung 17 kschg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konkret Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant, Prüfungslinie für massenentlassung 17 kschg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Lohn Arbeitszeit Mandat Triage
 
 ## Arbeitsbereich
 
-**Lohn Arbeitszeit Mandat Triage** ordnet den Fall über die tragenden Prüffelder: Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Lohn Arbeitszeit Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG, Pausen, Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `lohn-arbeitszeit-fragen` | Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall), Tarifverträge, Überstunden. Antwort mit der maßgeblichen Norm und Zitat. |
 | `mandat-triage-arbeitsrecht` | Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kündigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung). |
-| `massenentlassung-17-kschg` | Prüffeld für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `mindestlohn-arbeitszeit-erfassung` | Prüffeld für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `massenentlassung-17-kschg` | Prüfungslinie für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `mindestlohn-arbeitszeit-erfassung` | Prüfungslinie für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Arbeitsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `lohn-arbeitszeit-fragen`
 
@@ -39,7 +39,6 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -185,7 +184,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -365,7 +363,7 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 ## 3. `massenentlassung-17-kschg`
 
-**Fokus:** Prüffeld für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Massenentlassung § 17 KSchG
 
@@ -376,7 +374,6 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Zweck
 
@@ -474,7 +471,7 @@ Schriftlich an Betriebsrat:
 ### Folge bei Mangel der Anzeige
 
 - BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22, sowie EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen. Eine Heilung nach Kuendigungsausspruch ist ausgeschlossen. Quellen: dejure.org-Vernetzungen; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren".
-- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 fuer sich allein kein zur Unwirksamkeit fuehrender Fehler.
+- Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 für sich allein kein zur Unwirksamkeit fuehrender Fehler.
 
 ## Schritt 4 — Reihenfolge der Schritte
 
@@ -612,7 +609,7 @@ Schriftlich an Betriebsrat:
 
 ## 4. `mindestlohn-arbeitszeit-erfassung`
 
-**Fokus:** Prüffeld für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mindestlohn und Arbeitszeit-Erfassung
 
@@ -624,7 +621,6 @@ Schriftlich an Betriebsrat:
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Triage — kläre vor jeder Bearbeitung
 
 1. Handelt es sich um eine Klage des Arbeitnehmers (Lohnnachzahlung) oder um eine Compliance-Prüfung des Arbeitgebers?
@@ -632,7 +628,7 @@ Schriftlich an Betriebsrat:
 3. Welche Branche? (Branchen-Mindestlohn möglicherweise höher als allgemeiner MiLoG-Satz)
 4. Liegt ein Tarifvertrag vor? (Tariflicher Lohn geht vor, MiLoG ist Untergrenze)
 5. Klageziel: Lohnnachzahlung, OWi-Abwehr, System-Einführung?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
@@ -947,7 +943,7 @@ Antraege:
 Begruendung:
 
 Die Klaeger/in war bei der Beklagten im Zeitraum
-[von] bis [bis] beschaeftigt. Die Beklagte hat fuer
+[von] bis [bis] beschaeftigt. Die Beklagte hat für
 diesen Zeitraum das Mindestlohnversprechen verletzt.
 
 Die Beklagte fuehrte kein objektives verlaessliches

@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x
-description: "Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster."
+description: "Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung für Vollziehung und Vollstreckung. Liefert Pruefraster."
 ---
 
 # Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X
@@ -16,8 +16,8 @@ description: "Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40
 VA ist nichtig wenn besonders schwerer Fehler vorliegt und dieser Fehler bei verstaendiger Wuerdigung aller in Betracht kommenden Umstaende offenkundig ist.
 
 ### Sondertatbestaende § 40 Abs. 2 SGB X
-- Schriftform nicht eingehalten und nicht erkennbar Behoerde.
-- Sache liegt ausserhalb Zustaendigkeitsbereich.
+- Schriftform nicht eingehalten und nicht erkennbar Behörde.
+- Sache liegt ausserhalb Zuständigkeitsbereich.
 - Niemand kann den VA ausfuehren.
 - Inhaltlich Strafgesetz verlangen oder gegen gute Sitten.
 
@@ -37,8 +37,8 @@ VA ist nichtig wenn besonders schwerer Fehler vorliegt und dieser Fehler bei ver
 ## Heilung formeller Fehler § 41 SGB X
 
 - Begruendung nachholbar.
-- Anhoerung nachholbar.
-- Mitwirkung anderer Behoerden nachholbar.
+- Anhörung nachholbar.
+- Mitwirkung anderer Behörden nachholbar.
 - Heilung bis zum Abschluss des Widerspruchsverfahrens.
 
 ## Pruefraster

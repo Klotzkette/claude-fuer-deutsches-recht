@@ -6,11 +6,9 @@ description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenw
 # Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
 
 ## Fachkern: Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
-- **Spezialgegenstand:** Deliktsrecht § 826 BGB: Sittenwidrige Schädigung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -75,7 +73,6 @@ description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenw
 - deliktsrecht-schutzgesetz-paragraph-823-2
 - schadensrecht-paragraphen-249-253
 - workflow-red-team-gegenseite
-
 
 ## Quellen
 

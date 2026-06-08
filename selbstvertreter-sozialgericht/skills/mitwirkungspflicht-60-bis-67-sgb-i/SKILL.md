@@ -14,12 +14,12 @@ description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. S
 ## Pflichten
 
 ### § 60 SGB I — Angabe
-- Tatsachen die fuer Leistung erheblich sind angeben.
+- Tatsachen die für Leistung erheblich sind angeben.
 - Aenderungen mitteilen.
 - Beweismittel vorlegen.
 
 ### § 61 SGB I — Persoenliches Erscheinen
-- Bei Behoerde erscheinen wenn erforderlich.
+- Bei Behörde erscheinen wenn erforderlich.
 
 ### § 62 SGB I — Untersuchungen
 - Aerztliche und psychologische Untersuchungen dulden.
@@ -31,18 +31,18 @@ description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. S
 - Mitwirkung an beruflichen Foerdermassnahmen.
 
 ### § 65 SGB I — Grenzen
-- Unzumutbarkeit (z. B. erheblich Gefahr fuer Gesundheit Leben).
+- Unzumutbarkeit (z. B. erheblich Gefahr für Gesundheit Leben).
 - Verletzung anderer Schutzgueter (DSGVO Schweigepflicht Privatsphaere).
 
 ## Folge bei Verstoss
 
 - § 66 SGB I — Versagung oder Entziehung der Leistung ganz oder teilweise.
-- Schriftliche Aufforderung der Behoerde mit Hinweis auf Folge erforderlich.
+- Schriftliche Aufforderung der Behörde mit Hinweis auf Folge erforderlich.
 - Frist zur Mitwirkung muss verhaeltnismaessig sein.
 
 ## Heilung
 
-- § 67 SGB I — Nachholung der Mitwirkung mit Wirkung fuer Zukunft.
+- § 67 SGB I — Nachholung der Mitwirkung mit Wirkung für Zukunft.
 
 ## Pruefraster
 

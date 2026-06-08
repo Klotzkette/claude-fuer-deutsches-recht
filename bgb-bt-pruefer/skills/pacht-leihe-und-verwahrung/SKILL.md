@@ -6,11 +6,9 @@ description: "Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff.
 # Pacht, Leihe und Verwahrung BGB
 
 ## Fachkern: Pacht, Leihe und Verwahrung BGB
-- **Spezialgegenstand:** Pacht, Leihe und Verwahrung BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -75,7 +73,6 @@ Pachtverhältnisse (§§ 581 ff. BGB), Leihe (§§ 598 ff. BGB) und Verwahrung (
 - mietvertrag-grundschema-paragraph-535
 - auftrag-und-unentgeltliche-taetigkeit
 - vertragstypen-mischvertrag-router
-
 
 ## Quellen
 

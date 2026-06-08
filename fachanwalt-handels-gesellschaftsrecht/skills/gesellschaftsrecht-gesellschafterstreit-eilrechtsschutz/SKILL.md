@@ -1,42 +1,41 @@
 ---
 name: gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz
-description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Prüffeld für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkrete Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
 ---
 
 # Gesellschafterstreit Eilrechtsschutz
 
 ## Arbeitsbereich
 
-**Gesellschafterstreit Eilrechtsschutz** ordnet den Fall über die tragenden Prüffelder: Prüffeld für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Gesellschafterstreit Eilrechtsschutz** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Prüffeld für fachanwalt handels gesellschaftsrecht gesellschafterstreit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
-| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Prüffeld für fachanwalt handels gesellschaftsrecht handelsvertreterausgleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Prüfungslinie für fachanwalt handels gesellschaftsrecht gesellschafterstreit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Prüfungslinie für fachanwalt handels gesellschaftsrecht handelsvertreterausgleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` | Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`
 
-**Fokus:** Prüffeld für fachanwalt handels gesellschaftsrecht gesellschafterstreit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt handels gesellschaftsrecht gesellschafterstreit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -48,7 +47,7 @@ description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels 
 6. Wurde bei der AG Widerspruch zur Niederschrift erklärt (§ 245 Nr. 1 AktG)?
 7. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 8. Liegt ein wichtiger Grund für Ausschluss eines Mitgesellschafters vor (Treuepflichtverletzung, strafrechtliches Verhalten, Zerrüttung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -80,7 +79,6 @@ description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels 
 ## Prüfschema Beschlussanfechtungsklage GmbH
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -246,7 +244,6 @@ einer evident unangemessenen Unterbewertung führen.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -319,16 +316,15 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich`
 
-**Fokus:** Prüffeld für fachanwalt handels gesellschaftsrecht handelsvertreterausgleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+**Fokus:** Prüfungslinie für fachanwalt handels gesellschaftsrecht handelsvertreterausgleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüffeld für fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und ver` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und ver` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 ## Mandantenfragen beim Kaltstart
 
@@ -340,7 +336,7 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 6. Liegt ein Ausschlussgrund vor — Eigenkündigung ohne wichtigen Grund, Kündigung des Unternehmers aus schuldhaftem Verhalten des Handelsvertreters, Übernahme durch Dritten mit Vereinbarung?
 7. Handelt es sich ggf. um einen Vertragshändler oder Franchisenehmer (analoge Anwendung § 89b HGB)?
 8. Welche Sogwirkung hat die Marke des Unternehmers gehabt — stark oder schwach — relevant für Billigkeitskorrektur?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -403,7 +399,6 @@ Ausgleichsanspruch: EUR 60.000 zzgl. 19 % USt
 ## Prüfschema § 89b HGB
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -531,7 +526,6 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Beweisthema | Beweislast | Beweismittel |
@@ -613,7 +607,6 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Zweck
 
 Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertrag (SPA), Garantien, Kaufpreis-Anpassung.
@@ -655,7 +648,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 - Üblich-akzeptables Risiko
 - Beispiel: kleinere Marken-Klagen
-- Beispiel: routinemaessige Steuer-Veranlagungen
+- Beispiel: routinemäßige Steuer-Veranlagungen
 
 ## 4) Materialitaets-Schwellen
 
@@ -750,7 +743,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 ### Verzogenheit
 
-- Verjaehrung Garantien: 18-36 Monate
+- Verjährung Garantien: 18-36 Monate
 - Steuer-Garantien: 7 Jahre (Steuerverjaehrung)
 
 ## 9) Kaufpreis-Anpassung
@@ -773,7 +766,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 2. **Materialitaet nicht beziffert** — Garantie-Schwellen nicht greifbar
 3. **Knowledge-Qualifier ignoriert** — Verkaeufer entzieht sich Haftung
 4. **CP-Erfüllung nicht überwacht** — Closing verschoben
-5. **Verjaehrungs-Frist falsch verhandelt** — Garantie nicht greifbar
+5. **Verjährungs-Frist falsch verhandelt** — Garantie nicht greifbar
 
 ## 11) Reporting-Templates
 

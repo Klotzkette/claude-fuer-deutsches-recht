@@ -7,12 +7,12 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 
 ## Arbeitsbereich
 
-**Strafr Vermoegensabschoepfung** ordnet den Fall über die tragenden Prüffelder: Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Strafr Vermoegensabschoepfung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
-| `strafr-vermoegensabschoepfung-spezial` | Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster fuer Verteidiger und Drittbetroffene. |
+| `strafr-vermoegensabschoepfung-spezial` | Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster für Verteidiger und Drittbetroffene. |
 | `strafr-wirtschaftsstrafrecht-leitfaden` | Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Pruefraster Wirtschaftsstrafkammer. |
 | `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung` | Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und Verteidigungslinie. |
 | `strafrecht-spezial-188-stgb-anklage-und-strafbefehl` | Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB. Baut eine schnelle Verteidigungsakte mit Fristen, Einspruch, Akteneinsicht, § 199 StPO-Erwiderung, § 203 StPO-Eröffnungsangriff, Einstellungsanregung, Strafantrag/besonderes öffentliches Interesse nach § 194 StGB und einer Checkliste gegen überdehnte Politikerbeleidigungs-Vorwürfe. |
@@ -20,34 +20,30 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fachanwalt Strafrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `strafr-vermoegensabschoepfung-spezial`
 
-**Fokus:** Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster fuer Verteidiger und Drittbetroffene.
+**Fokus:** Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster für Verteidiger und Drittbetroffene.
 
 # StrafR: Vermoegensabschoepfung
 
 ## Spezialwissen: StrafR: Vermoegensabschoepfung
-- **Spezialgegenstand:** StrafR: Vermoegensabschoepfung / strafr vermoegensabschoepfung spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGH.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -75,7 +71,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -87,20 +83,16 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 # StrafR: Wirtschaftsstrafrecht
 
 ## Spezialwissen: StrafR: Wirtschaftsstrafrecht
-- **Spezialgegenstand:** StrafR: Wirtschaftsstrafrecht / strafr wirtschaftsstrafrecht leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, AktG.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
 
 ## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
 2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
 3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
 ## Pruefraster
 
@@ -128,7 +120,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
@@ -216,7 +208,7 @@ Es wird beantragt, die vollständige Einsatzdokumentation einschließlich Bodyca
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn bereits ein förmliches Dokument vorliegt: polizeiliche Anhörung, staatsanwaltschaftliche Abschlussverfügung, Strafbefehl, Anklageschrift, gerichtliche Verfügung nach § 201 StPO, Eröffnungsbeschluss oder Ladung. Ziel ist eine einfache, schnelle und trotzdem belastbare Verteidigung gegen die Hochstufung zur "Politikerbeleidigung".
+Anwendungsfall: bereits ein förmliches Dokument vorliegt: polizeiliche Anhörung, staatsanwaltschaftliche Abschlussverfügung, Strafbefehl, Anklageschrift, gerichtliche Verfügung nach § 201 StPO, Eröffnungsbeschluss oder Ladung. Ziel ist eine einfache, schnelle und trotzdem belastbare Verteidigung gegen die Hochstufung zur "Politikerbeleidigung".
 
 ## Eingangsscan
 
@@ -282,7 +274,7 @@ Bei Strafbefehl:
 
 ## Einsatz
 
-Dieses Fachmodul greift, wenn die materielle Verteidigung steht und nun in eine überzeugende Verfahrenshandlung übersetzt werden muss: Einstellungsanregung, Eröffnungs-Erwiderung, Einspruchsbegründung, Beweisantrag, Zeugenbefragung, § 257-StPO-Erklärung oder Plädoyer.
+Anwendungsfall: die materielle Verteidigung steht und nun in eine überzeugende Verfahrenshandlung übersetzt werden muss: Einstellungsanregung, Eröffnungs-Erwiderung, Einspruchsbegründung, Beweisantrag, Zeugenbefragung, § 257-StPO-Erklärung oder Plädoyer.
 
 ## Verteidigungsthese
 

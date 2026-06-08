@@ -6,11 +6,9 @@ description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475
 # Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB
 
 ## Fachkern: Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB
-- **Spezialgegenstand:** Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -74,7 +72,6 @@ Dauerhaften Bereitstellungspflichten für digitale Elemente nach § 475c BGB pr�
 - kaufrecht-updates-sicherheitsupdates-327f-475b
 - verbrauchsgueterkauf-digitales
 - kaufrecht-beweislast-verjaehrung-digitale-elemente
-
 
 ## Quellen
 

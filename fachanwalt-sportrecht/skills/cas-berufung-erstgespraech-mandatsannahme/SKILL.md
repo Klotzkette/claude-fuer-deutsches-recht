@@ -7,10 +7,10 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 
 ## Arbeitsbereich
 
-**CAS Berufung Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüffelder: Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**CAS Berufung Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüfungslinien: Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `cas-berufung-vorbereiten` | Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13 IPRG Art. 77 (Schweizer BGer). Prüfraster Statement of Appeal Appeal Brief Fristen-Check Verfahrenswahl Kosten-Abschaetzung. Output Berufungsschrift-Entwurf Verfahrens-Checkliste. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (Doping-Spezifisch) und verbandsstrafe-anfechten (Allgemein). |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
@@ -18,12 +18,12 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Sportrecht (Fachanwaltsbereich) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: WADC Art. 17 Verfolgungsverjährung 10 Jahre, CAS-Anrufung 21 Tage, DFB-RVO 7-Tage-Berufung, FAO § 5 36 Monate Praxiszeit.
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `cas-berufung-vorbereiten`
 
@@ -43,7 +43,7 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 8. Welche finanziellen Mittel stehen für den Kostenvorschuss (ab CHF 1000 Anfangsgebühr, Verfahrenskosten bis CHF 30000+) zur Verfügung?
 
 ---
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -103,7 +103,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Grundsatzentscheidung angestrebt | Advisory Opinion CAS als Alternative |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
 
 ## Schriftsatzbausteine
 
@@ -383,7 +382,7 @@ Stand 05/2026. **Strukturwandel:** EuGH RFC Seraing 01.08.2025 (C-600/23) — Mi
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Sport- und Sponsoringrecht:
+Standard-Fragenraster für Sport- und Sponsoringrecht:
 
 - Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
@@ -396,15 +395,15 @@ Standard-Fragenraster fuer Sport- und Sponsoringrecht:
 - Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
 - GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
 - Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
+- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
 - Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
 
-### 4. Streitwert und Gebuehrenvereinbarung
+### 4. Streitwert und Gebührenvereinbarung
 
 Standard-Streitwerte im Bereich Sport- und Sponsoringrecht:
 
@@ -418,23 +417,23 @@ Standard-Streitwerte im Bereich Sport- und Sponsoringrecht:
 Drei Weichen am Ende des Erstgespraechs:
 
 - **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
+- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
+2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
 4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
 5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Sport- und Sponsoringrecht.
+- BORA, BRAO, FAO für Fachanwaltschaft Sport- und Sponsoringrecht.
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- BGB, HGB, WADA-Code, NADA-Code, Verbands-Statuten, DIS-/CAS-Schiedsordnung (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+- BGB, HGB, WADA-Code, NADA-Code, Verbands-Statuten, DIS-/CAS-Schiedsordnung (für fachliche Erstpruefung).
+- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
 
 ## Typische Fehler im Erstgespraech
 
@@ -457,14 +456,13 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
 
 Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Sport- und Sponsoringrecht). Handlungs-Sequenz:
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
+1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
 3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
 4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
@@ -474,7 +472,7 @@ Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsf
 Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
 
 1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
+2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
 3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
 
 ### Konstellation C: Interessenkonflikt-Naehe
@@ -516,9 +514,9 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
+- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
 
 ## Aktuelle Rechtsprechung Erstgespraech Sportrecht
 

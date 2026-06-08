@@ -1,28 +1,28 @@
 ---
 name: wenn-prognose
-description: "Wenn Prognose im Plugin Fortbestehensprognose: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Wenn Prognose im Plugin Fortbestehensprognose im Fortbestehensprognose: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Wenn Prognose
 
 ## Arbeitsbereich
 
-**Wenn Prognose** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Wenn Prognose** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `wenn-prognose-negativ-naechste-schritte` | Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Überschuldung drei Wochen bei Zahlungsunfähigkeit. Zahlungsverbot § 15b InsO. Prüfung der drohenden Zahlungsunfähigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Prüfung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Fortbestehensprognose (§ 19 InsO) klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
 - Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `wenn-prognose-negativ-naechste-schritte`
 
@@ -176,7 +176,6 @@ Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt ein
 - Status-Eintrag im Sanierungsbausteine-Tracker: "Prüfung negativ — Eskalation eingeleitet".
 - Ende dieses Plugin-Workflows; Fortführung im Plugin `insolvenzrecht` durch Insolvenzanwalt.
 
-
 ## Aktuelle Leitentscheidungen — Negative Prognose und Handlungspflichten (Stand Mai 2026)
 
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden; Amtsniederlegung "auf der Flucht" schützt nicht. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
@@ -193,7 +192,7 @@ Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt ein
 1. **Insolvenzanwalt sofort einschalten!** Frist § 15a InsO laeuft ab heute: 6 Wochen (Ueberschuldung), 3 Wochen (ZU). Sofort-Kalender-Alarm.
 2. **Zahlungen einfrieren?** § 15b InsO: keine Zahlungen die Masse schmälern; Masselohn und Betriebskosten OK; Gesellschafterrueckzahlungen VERBOTEN.
 3. **StaRUG-Option pruefen:** Drohende ZU § 18 InsO? Dann StaRUG-Restrukturierungsplan als Alternative zum Insolvenzantrag.
-4. **Dokumentation sichern:** Alle Unterlagen fuer Insolvenzantrag vorbereiten: Verzeichnisse, Bilanzen, Glaeubigerliste, Antrag-Vorläufer.
+4. **Dokumentation sichern:** Alle Unterlagen für Insolvenzantrag vorbereiten: Verzeichnisse, Bilanzen, Glaeubigerliste, Antrag-Vorläufer.
 
 ## Quellenregel
 

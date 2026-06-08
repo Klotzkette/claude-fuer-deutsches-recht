@@ -80,9 +80,13 @@ def discover_mapping() -> dict[str, list[str]]:
     overview = TESTAKTEN_DIR / "README.md"
     if overview.exists():
         for line in overview.read_text(encoding="utf-8").splitlines():
-            m = re.match(r"\| \[`([^/]+)/`\]\(\./\1/\) \|.*\| (.*) \|$", line)
+            m = re.match(r"\| \[`([^/]+)/`\]\(\./\1/\) \|", line)
             if m:
-                add_mapping(mapping, plugin_names, m.group(1), m.group(2))
+                # Die zentrale Testakten-Tabelle hat im Lauf der Releases
+                # verschiedene Spaltenzuschnitte bekommen. Darum nicht auf
+                # eine bestimmte Plugin-Spalte verlassen, sondern die ganze
+                # Zeile nach Plugin-Backticks durchsuchen.
+                add_mapping(mapping, plugin_names, m.group(1), line)
     return {p: sorted(v) for p, v in mapping.items()}
 
 

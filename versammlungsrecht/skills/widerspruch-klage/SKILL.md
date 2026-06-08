@@ -1,28 +1,28 @@
 ---
 name: widerspruch-klage
-description: "Widerspruch Klage im Versammlungsrecht: fachlicher Arbeitsgang mit Prüffeldwahl, Norm-/Quellencheck, Risikoampel und verwertbarem Output."
+description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Widerspruch Klage
 
 ## Arbeitsbereich
 
-**Widerspruch Klage** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt beim sachtragenden Prüffeld und endet mit einem verwertbaren Arbeitsergebnis.
+**Widerspruch Klage** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
 
-## Prüffelder
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `widerspruch-klage-eilrechtsschutz` | Routet Widerspruch, Anfechtungsklage, § 80 Abs. 5 VwGO und § 123 VwGO bei versammlungsrechtlichen Bescheiden. |
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Versammlungsrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO §§ 80, 123 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `widerspruch-klage-eilrechtsschutz`
 
@@ -58,7 +58,6 @@ Output: Rechtswegschema, Fristenplan, Eilantrag und Anlagenliste.
 - Sind Frist, Bekanntgabe und Eil- oder Spontanfall sauber getrennt?
 - Werden Grundrechtsposition und praktische Sicherheitsbelange zusammen gedacht?
 - Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
-
 
 ## Quellen- und Aktualitätsregel
 - Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.

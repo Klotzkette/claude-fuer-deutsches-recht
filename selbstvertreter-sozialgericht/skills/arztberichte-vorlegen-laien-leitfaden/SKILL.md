@@ -13,7 +13,7 @@ description: "Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was
 
 ## Worum geht es?
 
-Die meisten SG-Verfahren entscheiden sich an der medizinischen Frage. Ob Sie Pflegegrad 3 bekommen, EM-Rente, GdB 50 — alles haengt von Aerzten ab. Diese Skill zeigt, wie Sie aerztliche Belege gezielt fuer Ihre Sache nutzen.
+Die meisten SG-Verfahren entscheiden sich an der medizinischen Frage. Ob Sie Pflegegrad 3 bekommen, EM-Rente, GdB 50 — alles haengt von Aerzten ab. Diese Skill zeigt, wie Sie aerztliche Belege gezielt für Ihre Sache nutzen.
 
 ## In einfacher Sprache
 
@@ -29,7 +29,7 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 
 - **Befundbericht**: Aerztlicher Bericht ueber Untersuchung und Ergebnis.
 - **Attest**: Schriftliche aerztliche Bescheinigung.
-- **ICD-Code**: Diagnose-Code (z.B. F33.2 fuer Depression).
+- **ICD-Code**: Diagnose-Code (z.B. F33.2 für Depression).
 - **AU-Bescheinigung**: Arbeitsunfaehigkeits-Bescheinigung.
 - **Reha-Entlassungsbericht**: Bericht nach Reha-Aufenthalt.
 
@@ -39,12 +39,12 @@ In vielen Verfahren entscheidet, was die Aerzte sagen. Sie brauchen gute Atteste
 - **§ 60 SGB I** — Mitwirkungspflicht (Belege beibringen).
 - **§ 25 SGB X** — Akteneinsicht.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Aerzte brauchen Sie?
 
 - **Hausarzt** als Generalist
-- **Facharzt** fuer Ihre Hauptdiagnose (Orthopaedie, Psychiatrie, Innere etc.)
+- **Facharzt** für Ihre Hauptdiagnose (Orthopaedie, Psychiatrie, Innere etc.)
 - **Krankenhaus / Klinik**: Entlassungsberichte
 - **Reha-Klinik**: Entlassungsbericht
 - **Spezialambulanzen** (z.B. Schmerzklinik)
@@ -89,7 +89,7 @@ Im Pflegestreit zusaetzlich:
 ### Schritt 4 — Atteste einreichen
 
 - Original aufheben.
-- Kopie an Behoerde / Gericht.
+- Kopie an Behörde / Gericht.
 - Bei Klage: als Anlage K[n] mit klarer Bezeichnung.
 
 ### Schritt 5 — Mehrere Atteste sind besser
@@ -116,7 +116,7 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 - Beim Hausarzt freundlich bleiben, kurze Bitte.
 - Wenn keine Reaktion: das Gericht kann den Arzt zur Befundauskunft auffordern (§ 103 SGG).
-- Sie geben dafuer Adresse und Schweigepflichtsentbindung.
+- Sie geben dafür Adresse und Schweigepflichtsentbindung.
 
 ## Worauf Sie besonders achten muessen
 
@@ -145,7 +145,6 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern, koennen aber Honorar verlangen.
-
 
 ## Qualitäts-Hardening
 

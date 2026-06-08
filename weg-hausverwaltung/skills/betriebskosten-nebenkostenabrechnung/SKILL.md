@@ -12,11 +12,8 @@ description: "WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt un
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Betriebskosten und Nebenkosten in der WEG-Verwaltung
-- **Spezialgegenstand:** Betriebskosten und Nebenkosten in der WEG-Verwaltung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 Stand: 05/2026.
 
@@ -116,7 +113,6 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html ; CO2KostAufG: https://www.gesetze-im-internet.de/co2kostaufg/ .
-
 
 ## Qualitäts-Hardening
 

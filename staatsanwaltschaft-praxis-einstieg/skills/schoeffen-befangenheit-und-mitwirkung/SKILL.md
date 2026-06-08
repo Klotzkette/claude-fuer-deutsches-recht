@@ -6,15 +6,12 @@ description: "Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für
 # Schöffen: Befangenheit, Ausfall und Mitwirkung
 
 ## Fachkern: Schöffen: Befangenheit, Ausfall und Mitwirkung
-- **Spezialgegenstand:** Schöffen: Befangenheit, Ausfall und Mitwirkung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Schöffen: Befangenheit, Ausfall und Mitwirkung** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** Schöffenbank, Besetzung, Beratungsgeheimnis, Ergänzungsschöffen und Protokoll
 
@@ -40,6 +37,18 @@ Dieser Abschnitt bearbeitet **Fachkern: Schöffen: Befangenheit, Ausfall und Mit
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 24, 26 StPO (Ablehnung)
+- § 31 StPO (Schöffen)
+- § 338 Nr. 3 StPO (absoluter Revisionsgrund)
+- BGHSt 21, 334 (objektiver Maßstab)
+- §§ 31-45 GVG (Schöffen)
+- § 76 GVG (Mitwirkung)
+- BVerfGE 14, 56
 ## Output
 
 Erzeuge je nach Auftrag Vermerk, Ermittlungsauftrag, Verfügung, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein.

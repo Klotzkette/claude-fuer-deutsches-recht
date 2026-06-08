@@ -5,6 +5,21 @@ description: "Plant die Reparatur eines Anlagenpakets nach gerichtlichem Hinweis
 
 # Nachreichung, Berichtigung und gerichtlicher Hinweis
 
+## Normenanker
+
+Arbeitsfokus: **Nachreichung, Berichtigung und gerichtlicher Hinweis**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 520 Abs. 3 ZPO` — Berufungsbegründung.
+- `§ 529 Abs. 1 ZPO` — Tatsachengrundlage Berufung.
+- `§ 531 Abs. 2 ZPO` — neue Angriffs- und Verteidigungsmittel.
+- `§ 522 ZPO` — Berufungszurückweisung.
+- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
+- `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
+- `§ 139 ZPO` — gerichtlicher Hinweis.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill ist die Feuerwehr, wenn das Paket schon draußen ist. Er hält Nummern stabil, korrigiert transparent und vermeidet, dass aus einer kleinen Anlagenpanne ein prozessuales Glaubwürdigkeitsproblem wird.

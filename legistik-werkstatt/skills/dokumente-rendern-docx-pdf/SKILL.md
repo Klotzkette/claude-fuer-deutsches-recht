@@ -5,6 +5,24 @@ description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinung
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout
 
+## Normenanker
+
+Arbeitsfokus: **Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
+- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
+- `§ 45 GGO` — Beteiligung.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Wann verwenden
 
 Dieser Skill wird **am Ende** des Legistik-Workflows aufgerufen, wenn aus den strukturierten Markdown-Bausteinen der vorgelagerten Skills (Auftrag, Normentext, Begründung, Synopse) ein **lieferfähiges Dokument** im offiziellen Erscheinungsbild erstellt werden soll.
@@ -125,7 +143,6 @@ Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffic
 ## Zentrale Normen und Standards
 
 HdR — GGO — Art. 76-78 GG — GO-BT oder Landtags-GO — Landesverfassung und Verkündungsrecht — LegalDocML.de/eNorm soweit gefordert — PDF/A-Standard ISO 19005 nur bei konkreter Archivvorgabe
-
 
 ## Qualitäts-Hardening
 

@@ -1,35 +1,21 @@
 ---
 name: posteingang-ausgang-sekretariats-tagesbrief
-description: "Posteingang Ausgang Sekretariats Tagesbrief im Plugin Kanzlei Allgemein: prüft konkret Postein- und Postausgangsbuch führen, Erzeugt morgens den Tagesbrief der Kanzlei mit allen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte im Kanzlei Allgemein: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Posteingang Ausgang Sekretariats Tagesbrief
+# Posteingang und Postausgang
 
 ## Arbeitsbereich
 
-**Posteingang Ausgang Sekretariats Tagesbrief** ordnet den Fall über die tragenden Prüffelder: Postein- und Postausgangsbuch führen, Erzeugt morgens den Tagesbrief der Kanzlei mit allen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `posteingang-ausgang` | Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte. |
-| `sekretariats-tagesbrief` | Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat. |
+Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kanzlei Allgemein klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `posteingang-ausgang`
-
-**Fokus:** Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte.
-
-# Posteingang und Postausgang
-
 
 ## Triage zu Beginn
 1. Handelt es sich um einen Eingang (Fristbeginn pruefen) oder einen Ausgang (Versandnachweis sichern)?
@@ -42,7 +28,7 @@ description: "Posteingang Ausgang Sekretariats Tagesbrief im Plugin Kanzlei Allg
 
 ## Zentrale Normen
 - §§ 187-188 BGB i.V.m. § 222 ZPO — Fristbeginn bei Zustellung
-- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion fuer Postsendungen ab 01.01.2025
+- Art. 7 PostModG — Vier-Tages-Zustellungsfiktion für Postsendungen ab 01.01.2025
 - § 173 ZPO — beA-Zustellungszeitpunkt: Eingang im Empfangspostfach
 - § 51 BRAO — Haftung bei fehlerhafter oder fehlender Postbuchdokumentation
 
@@ -61,7 +47,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  art: urteil # urteil / beschluss / verfügung / mandantenbrief / behörden-bescheid / sonstiges
  mandat-az: 2026/0042
  betreff: Klage gg. ABC GmbH
- zustaendigkeit: RA Mueller
+ zuständigkeit: RA Mueller
  fristfolge: berufungsfrist
  fristtermin: 2026-06-20
  aktion: an-fristenbuch
@@ -139,144 +125,3 @@ Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und 
 - Aktualisierte Logbücher.
 - Tagesbrief-Einträge.
 - Verbindungen zu Akte Fristenbuch und Honorar-Tracker.
-
-## 2. `sekretariats-tagesbrief`
-
-**Fokus:** Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat.
-
-# Sekretariats-Tagesbrief
-
-
-## Triage zu Beginn
-1. Fuer welchen Tag und welche Kanzlei wird der Tagesbrief erstellt?
-2. Welche Fristen (heute, morgen, diese Woche) sind aus dem Fristenbuch zu uebernaehmen?
-3. Gibt es besondere Eingaenge vom Vortag (Klageschriften, Urteile, Bescheide), die besondere Aufmerksamkeit erfordern?
-4. Sind Geburtstage, Feiertage oder Abwesenheiten zu beachten, die die Tagesplanung beeinflussen?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 53 BRAO — Vertretungspflicht bei Verhinderung des Anwalts
-- § 51 BRAO — Haftung fuer Organisationspflichtverletzungen im Sekretariat
-- § 517 ZPO — Berufungsfrist (Notfrist): muss im Tagesbrief an erster Stelle erscheinen
-- § 222 ZPO — Fristberechnung: korrekte Berechnung als Grundlage des Tagesbriefs
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Morgens den Tag strukturieren. Fünf Minuten Lesezeit; danach klare Prioritaeten.
-
-## Aufbau
-
-```
-Tagesbrief Kanzlei XYZ
-Datum: Donnerstag, 21. Mai 2026
-Verfasst von: Sekretariat ...
-Empfänger: alle Anwälte und Sekretariat
-
-==========================================
-1. NOTFRISTEN HEUTE
-==========================================
-
-Az 2025/0234 — Berufungsfrist heute 24:00 Uhr (Notfrist)
- Mandant Schmidt GmbH
- Berufung gegen Urteil LG München vom 21.04.2026 (Zustellung 21.04.2026)
- Status: Entwurf fertig — qeS-Signatur und beA-Versand bis spaetestens 17:00 Uhr
- Verantwortlich: RA Mueller
-
-==========================================
-2. VORFRISTEN IN DEN NAECHSTEN SIEBEN TAGEN
-==========================================
-
-Az 2026/0042 — Berufungsbegründungsfrist 28.05.2026 (Vorfrist heute)
-Az 2026/0089 — Klagefrist 02.06.2026 (Vorfrist 26.05.2026)
-Az 2026/0103 — Einspruchsfrist Sozialleistungsbescheid 30.05.2026
-
-==========================================
-3. POSTEINGANG VOM VORTAG
-==========================================
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- zur Akte und Prüfung durch RA Mueller bis (Datum)
-
-PE-2026-04221 — Mandant Schmidt — Rückfrage zur Berufung
- Antwort durch RA Mueller bis heute Mittag
-
-PE-2026-04222 — Steuerberater des Mandanten Mueller GmbH
- Belege zur Außenprüfung Az 2026/0067
- zur Akte
-
-==========================================
-4. TERMINE HEUTE
-==========================================
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-14:00 — Mandantengespraech Frau Schulz Az 2026/0091 (RA Mueller)
-16:30 — Telefonkonferenz Gegenseite Kanzlei XYZ (Az 2026/0042)
-
-==========================================
-5. TERMINE NAECHSTE WOCHE
-==========================================
-
-23.05.2026 10:00 — SG München Az ... (RA Schulz)
-27.05.2026 14:00 — Schlussbesprechung BP (RA Mueller; Steuerberater Wagner)
-28.05.2026 11:00 — Notartermin Beurkundung GmbH (RA Schmidt)
-
-==========================================
-6. RUECKRUFE / WIEDERVORLAGEN
-==========================================
-
-Az 2026/0017 — Wiedervorlage seit drei Monaten ruhend — Klaerung mit RA Mueller
-Mandant Schaefer Rückrufwunsch seit 19.05.2026
-
-==========================================
-7. HEUTE GEBURTSTAG
-==========================================
-
-Hans Mueller (Mueller GmbH) — Glückwunsch-Mail vorbereitet zur Freigabe
-Dr. Schulz (Kollege) — Karte gestern verschickt
-
-==========================================
-8. HONORARRUECKSTAENDE UEBER 60 TAGEN
-==========================================
-
-Az 2026/0017 — Rechnung 2026/00098 vom 12.03.2026 über 3.200 EUR
- Letzte Mahnung 28.04.2026 — Stufe 2 erreicht — Entscheidung Klage durch RA Mueller
-
-Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
- Stufe 3 — Inkasso oder Klage
-
-==========================================
-9. NACHRICHTEN UND HINWEISE
-==========================================
-
-- beA-Stoerung gemeldet für 19.05.2026 von 08:00 bis 11:30 — eventuell relevant für Fristen
-- Kammer-Rundschreiben zur Justizmodernisierung 2026 eingegangen — RA Mueller zur Information
-```
-
-## Erstellung
-
-1. **Datenquellen** zusammenführen:
- - Fristenbuch (`fristenbuch-fuehren`)
- - Posteingang (`posteingang-ausgang`)
- - Termine (Kalendersystem)
- - Honorar-Tracker (`mahnwesen-honorar`)
- - Geburtstagsverteiler (`geburtstage-feiertage`)
- - Aktenbestand (`aktenbestand-pflege`)
-2. **Filterung** auf relevant für heute und nächste sieben Tage.
-3. **Erstellung** als Markdown plus PDF zur Verteilung.
-4. **Versand** als interne E-Mail oder zentral im Kanzleisystem.
-
-## Sicherheit
-
-- Tagesbrief enthält Mandantenname und Mandatsdetails — Verteilung nur an Kanzleipersonal mit Mandatsgeheimnis-Pflicht.
-- Keine externe Cloud-Speicherung ohne AVV.
-
-## Ausgabe
-
-- `tagesbrief-<datum>.md` und PDF.
-- Einträge für Erinnerungen im Kalendersystem.
-- Tagesbrief-Archiv unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/tagesbriefe/`.

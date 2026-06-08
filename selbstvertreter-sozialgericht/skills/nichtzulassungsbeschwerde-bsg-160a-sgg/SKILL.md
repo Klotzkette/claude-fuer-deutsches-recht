@@ -37,7 +37,7 @@ Das LSG hat Sie nicht zum BSG gelassen. Sie koennen das selbst angreifen. Das ne
 - **§ 160a SGG** — Nichtzulassungsbeschwerde.
 - **§ 73 Abs. 4 SGG** — Anwaltszwang.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anwalt sofort suchen
 
@@ -98,7 +98,6 @@ BSG lasst Revision zu. Verfahren wird als Revisions-Verfahren fortgesetzt.
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 160a SGG aktuell. Sehr enges Verfahren.
-
 
 ## Qualitäts-Hardening
 

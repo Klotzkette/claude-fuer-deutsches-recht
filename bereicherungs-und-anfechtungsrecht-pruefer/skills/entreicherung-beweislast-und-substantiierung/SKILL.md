@@ -7,7 +7,7 @@ description: "Bei § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden mu
 
 ## Einsatzbereich
 
-Dieses Fachmodul greift, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+Anwendungsfall: wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
 
 ## Triage — zuerst klären
 
@@ -93,7 +93,6 @@ Fehlt eine Stufe, lautet der Output nicht "Entreicherung greift", sondern "Entre
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
 
 ## Qualitäts-Hardening
 

@@ -1,53 +1,142 @@
 ---
 name: mahnverfahren-beweislast-darlegungslast
-description: "Mahnverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin Forderungsmanagement Klagewerkstatt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+description: "Beweislast und Darlegungslast in Mahnverfahren und Klage: Klaeger traegt Darlegungs- und Beweislast für anspruchsbegruendende Tatsachen. Substantiierungspflicht § 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: Beweisaufgabe je Sachverhaltspunkt."
 ---
 
-# Mahnverfahren: Beweislast, Darlegungslast und Substantiierung
+# Beweislast und Darlegungslast
 
-## Fachkern: Mahnverfahren: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Mahnverfahren: Beweislast, Darlegungslast und Substantiierung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB Anspruch/Fälligkeit/Verzug, ZPO Mahn-/Klageverfahren, HGB kaufmännische Belege, Inkassorecht, Verjährung und Zuständigkeit.
-- **Entscheidende Weiche:** Nur klare, fällige, beweisbare Forderungen weitergeben; Vertrag, Leistung, Rechnung, Mahnung, Einwendungen, Verjährung und Kosten getrennt prüfen.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. Erfolgskritisch für Klage und Verteidigung.
 
+## Grundregeln
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+| Regel | Inhalt | Norm |
+|---|---|---|
+| Beibringungsgrundsatz | Parteien tragen Tatsachen vor | § 282 ZPO |
+| Wahrheitspflicht | Parteien muessen wahr sein | § 138 Abs. 1 ZPO |
+| Substantiierungspflicht | konkreter Tatsachenvortrag | § 138 Abs. 2 ZPO |
+| Geststaendnisfiktion | nicht bestrittene Tatsache gilt zugegeben | § 138 Abs. 3 ZPO |
+| Bestreiten mit Nichtwissen | nur ueber Vorgaenge der Gegenseite | § 138 Abs. 4 ZPO |
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Verteilung der Beweislast
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mahnverfahren** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+**Grundsatz** (BGH IX ZR 12/86): Jede Partei traegt die Beweislast für die Tatsachen, aus denen sich die für sie guenstige Rechtsfolge ergibt.
 
-## Materielle Weichen Mahnverfahren (§§ 688 ff. ZPO)
-- **Anwendungsbereich (§ 688 ZPO):** Bezifferte Geldforderungen in Euro; ausgeschlossen sind unbezifferte Forderungen, Verbraucher-Darlehen mit Zinssatz über 12% pa, Verbraucherkredite bei sittenwidrigen Vereinbarungen.
-- **Antragstellung (§ 690 ZPO):** Online unter www.online-mahnantrag.de oder Formular; zentrales Mahngericht jedes Bundeslandes (z. B. AG Hagen für NRW, AG Stuttgart für BW). Anwaltszwang besteht nicht.
-- **Inhalt des Mahnantrags (§ 690 ZPO):** Parteien (Antragsteller, Antragsgegner mit Anschrift), Anspruchsgrund mit Datum und Bezugsfall (z. B. "Rechnung vom 15.03.2025 Nr. 2025-001"), Hauptforderung, Zinsen, Mahn-/Inkassokosten, Erklärung dass keine Gegenleistung mehr offen.
-- **Schwellenwert:** Keine - jede Geldforderung darf im Mahnverfahren betrieben werden, auch Klein- und Großforderungen.
-- **Mahnbescheid (§ 692 ZPO):** Wird vom Mahngericht erlassen und an den Antragsgegner zugestellt. Schuldnerbelehrung über Widerspruchsfrist.
-- **Widerspruch (§ 694 ZPO):** Innerhalb von zwei Wochen ab Zustellung. Widerspruch muss nicht begründet werden. Folge: Übergang ins streitige Verfahren bei AG/LG (je nach Streitwert), Antragsteller muss binnen zwei Wochen Anspruch begründen (§ 696 Abs. 1 ZPO).
-- **Vollstreckungsbescheid (§ 699 ZPO):** Bei fehlendem Widerspruch und Antrag (frühestens 14 Tage nach Mahnbescheidzustellung). Wirkt als Vollstreckungstitel.
-- **Einspruch gegen Vollstreckungsbescheid (§ 700 ZPO):** Innerhalb von zwei Wochen ab Zustellung. Führt zum Übergang ins streitige Verfahren. Vollstreckungsbescheid bleibt aber vorläufig vollstreckbar (§ 700 Abs. 1 S. 2 ZPO).
-- **Verjährungshemmung (§ 204 Abs. 1 Nr. 3 BGB):** Mahnverfahren hemmt die Verjährung mit Eingang des Antrags beim Gericht (auf alle Forderungspositionen, die im Antrag bezeichnet sind).
-- **Praktiker-Tipp:** Bei rechtskräftigem Vollstreckungsbescheid Verjährung 30 Jahre (§ 197 Abs. 1 Nr. 4 BGB). Mahnverfahren also auch sinnvoll, um Verjährung zu vermeiden, wenn streitige Klage noch nicht reif ist - aber Achtung: Mahnverfahren wird zur Klage, wenn Widerspruch eingelegt.
+### Beim Klaeger (anspruchsbegruendende Tatsachen)
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+| Forderungstyp | Klaeger beweist |
+|---|---|
+| Kaufpreisanspruch § 433 BGB | Vertragsschluss, Lieferung, Faelligkeit |
+| Werklohnanspruch § 631 BGB | Vertrag, Abnahme, Hoehe Werklohn |
+| Mietzinsanspruch § 535 BGB | Mietvertrag, Hoehe Miete |
+| Darlehensrueckforderung § 488 BGB | Darlehensvertrag, Auszahlung, Faelligkeit |
+| Schadensersatz § 280 BGB | Vertragsverletzung, Verschulden, Schaden, Kausalitaet |
+| Bereicherungsanspruch § 812 BGB | Leistung, ohne Rechtsgrund, Hoehe |
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+### Beim Beklagten (rechtshindernde, rechtsvernichtende, rechtshemmende Tatsachen)
+
+| Einwendung | Beklagter beweist |
+|---|---|
+| Erfuellung § 362 BGB | Zahlung mit Belegen |
+| Aufrechnung § 387 BGB | Gegenforderung, Aufrechnungslage, Erklaerung |
+| Stundung | Stundungsvereinbarung |
+| Erlass § 397 BGB | Erlassvertrag |
+| Verjährung § 214 BGB | Verjährungsdaten, fehlende Hemmung |
+| Schlechtleistung § 280 BGB | Mangel, Frist, Schaden |
+| AGB-Unwirksamkeit | Vereinbarung, Inhaltswidrigkeit § 305 ff. BGB |
+| Sittenwidrigkeit § 138 BGB | sittenwidrige Umstaende |
+
+### Beweislastumkehr / Beweislasterleichterung
+
+| Konstellation | Folge |
+|---|---|
+| Verbrauchsgueterkauf § 477 BGB | Mangel zur Zeit Gefahruebergang vermutet (12 Monate) |
+| Arzthaftung Dokumentationsfehler § 630h BGB | Beweislastumkehr bei groben Behandlungsfehlern |
+| Anscheinsbeweis | typischer Geschehensablauf |
+| Substantiierter Sachvortrag der Klagepartei | sekundaere Darlegungslast Bekl. |
+
+## Sekundaere Darlegungslast (BGH-Doktrin)
+
+Wenn Klaeger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte naehere Kenntnis hat, trifft den Beklagten eine **sekundaere Darlegungslast** (konkrete Darlegung, ggf. Belege).
+
+**Beispiele:**
+- Arbeitnehmer klagt Vergueetung → AG legt Stundenaufzeichnung vor.
+- Verbraucher klagt gegen Bank → Bank legt Vertragsformulare vor.
+- Klage gegen Konzern → Konzerngesellschaft legt Berechnungen offen.
+
+## Substantiierungspflicht – Grad
+
+| Anforderung | Beispiel |
+|---|---|
+| Schluessigkeit | "Verkauf Maschine X am 15.04.2024 für 12.000 EUR, geliefert 20.04., Rechnung 22.04." |
+| Erheblichkeit | reicht aus, wenn schluessig zur Begruendung des Anspruchs |
+| Bestreiten konkret | "Vertragsschluss bestritten, weil ich nie unterschrieb" |
+| Bestreiten ins Blaue hinein | unzulaessig |
+| Pauschales Bestreiten | unzureichend (BGH NJW 1995, 1432) |
+
+## Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO
+
+**Zulaessig** nur ueber Tatsachen,
+1. die nicht eigene Handlungen der Partei betreffen UND
+2. nicht Gegenstand eigener Wahrnehmung der Partei waren.
+
+**Folgen** falsches Bestreiten mit Nichtwissen: Geststaendnisfiktion § 138 Abs. 3 ZPO.
+
+## Beweismittel im Zivilprozess
+
+| Beweismittel | Norm |
+|---|---|
+| Urkundsbeweis | §§ 415-444 ZPO |
+| Zeugenbeweis | §§ 373-401 ZPO |
+| Sachverstaendigenbeweis | §§ 402-414 ZPO |
+| Augenscheinsbeweis | §§ 371-372a ZPO |
+| Parteivernehmung | §§ 445-455 ZPO |
+
+## Praesentation Klagebegruendung – Beispiel
+
+```
+Tatbestand:
+1. Klaegerin und Beklagte schlossen am 15.04.2024 einen Werkvertrag
+   ueber [Bauleistung] zum Festpreis 28.456,80 EUR (Anlage K1).
+   Beweis: Vertragsurkunde Anlage K1.
+2. Klaegerin lieferte das Gewerk vollstaendig am 30.04.2024
+   und nahm es am 02.05.2024 ab (Anlage K2 Abnahmeprotokoll).
+   Beweis: Abnahmeprotokoll Anlage K2; Zeuge Hr. Schulz, c/o Klaegerin.
+3. Klaegerin stellte die Schlussrechnung Nr. R-2024-115 vom
+   05.05.2024 ueber 28.456,80 EUR (Anlage K3) zu mit Posttagebuch
+   Anlage K3a.
+4. Beklagte zahlte trotz Mahnungen vom 10.06., 25.06. und 12.07.2024
+   (Anlagen K4-K6) nicht.
+
+Rechtliche Wuerdigung:
+Klaegerin hat aus § 631 Abs. 1 BGB Anspruch auf Werklohn ...
+```
+
+## Beweisaufgaben-Matrix
+
+Bei Aufnahme eines Falles erstellen:
+| Tatsache | beweispflichtig | Beweismittel |
+|---|---|---|
+| Vertragsschluss 15.04.24 | Klaeger | Vertrag K1, Zeuge X |
+| Lieferung 30.04.24 | Klaeger | Lieferschein K2 |
+| Abnahme | Klaeger | Abnahmeprotokoll K3 |
+| Faelligkeit | Klaeger | § 641 BGB i.V.m. Abnahme K3 |
+| Verzug | Klaeger | Mahnung K4 mit Zugang |
+| Hoehe Schaden Inkassokosten | Klaeger | Anwaltsrechnung K6 |
+| Erfuellung durch Bekl. | Beklagter | Kontoauszug |
+| Verjährung | Beklagter | Datum Forderungsbeginn |
+
+## Typische Fehler
+
+- Klagebegruendung pauschal "Beklagte schuldet noch 5.000 EUR".
+- Beweisangebot vergessen, dann § 273 ZPO Hinweis.
+- Bestreiten mit Nichtwissen, obwohl eigene Tat im Konzern.
+- Sekundaere Darlegungslast nicht ausgenutzt.
+- Substantiierung erst in Berufung → § 530, § 531 ZPO Praeklusion.
+
+## Quellen
+- ZPO § 138 Wahrheitspflicht [gesetze-im-internet.de/zpo/__138.html](https://www.gesetze-im-internet.de/zpo/__138.html)
+- ZPO § 282 Vortrag [gesetze-im-internet.de/zpo/__282.html](https://www.gesetze-im-internet.de/zpo/__282.html)
+- ZPO § 286 Beweiswuerdigung [gesetze-im-internet.de/zpo/__286.html](https://www.gesetze-im-internet.de/zpo/__286.html)
+- BGB § 477 Beweislast Verbrauchsguterkauf [gesetze-im-internet.de/bgb/__477.html](https://www.gesetze-im-internet.de/bgb/__477.html)
+- BGB § 630h Beweislast Arzt [gesetze-im-internet.de/bgb/__630h.html](https://www.gesetze-im-internet.de/bgb/__630h.html)
+- BGH IX ZR 12/86 Beweislastregel [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

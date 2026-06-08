@@ -1,9 +1,37 @@
 ---
 name: paywallfreie-rechtsprechungsbelege
-description: "Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output."
+description: "Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zitierweise: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
 # Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate
+
+## Arbeitsbereich
+
+Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 51 UrhG` — Zitatrecht.
+- `§ 63 UrhG` — Quellenangabe.
+- `§ 2 Abs. 1 Nr. 1 UrhG` — Sprachwerke.
+- `§ 97 UrhG` — Unterlassung/Schadensersatz bei Rechtsverletzung.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht im Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Substantiierung im Schriftsatz.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Kontext, nicht als Zitierfreibrief.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: keine prozessualen — Aktualitäts-Heuristik: Zitate ≤ 12 Monate alt für aktuelle Lage, Leitentscheidungen wann immer einschlägig.
+- Tragende Normen verifizieren: BVerfG, BGH, BAG, BSG, BFG, BVerwG, EuGH, OLG-Zitierregeln (BGHZ, BVerfGE, NJW, ZIP, NZG, NJW-RR), § 1 GVG, ZPO/StPO/VwGO-Berichtspflichten, OSCOLA/Bluebook nur am Rande — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verfasser (Anwalt, Wissenschaftler, Richter), Adressat (Gericht, Behörde, Mandant, Peer-Review), Verlage (C.H.Beck, Nomos, Otto Schmidt).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schriftsatz, Beschluss, Aufsatz, Festschrift-Beitrag, Hausarbeit, Dissertation, Habilitation, Klausur — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `zitierweise-deutsches-recht`. Kontext des Plugins: Deutsche juristische Hauszitierweise v4.1: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

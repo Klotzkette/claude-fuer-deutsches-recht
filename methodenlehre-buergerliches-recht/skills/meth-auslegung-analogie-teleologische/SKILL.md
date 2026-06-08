@@ -7,10 +7,10 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 
 ## Arbeitsbereich
 
-**Meth Auslegung Analogie Teleologische** ordnet den Fall über die tragenden Prüffelder: Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Meth Auslegung Analogie Teleologische** ordnet den Fall über die tragenden Prüfungslinien: Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `meth-auslegung-vertrag-leitfaden` | Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden. |
 | `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht. |
@@ -20,12 +20,12 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Methodenlehre Buergerliches Recht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `meth-auslegung-vertrag-leitfaden`
 
@@ -40,7 +40,6 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Die Vertragsauslegung ist das tägliche Handwerk zivilrechtlicher Praxis. Dieses Skill bietet einen vollständigen sequenziellen Leitfaden, der von der subjektiven zur objektiven und ergänzenden Auslegung führt und dabei alle methodisch gebotenen Zwischenschritte sichert.
 
@@ -131,7 +130,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 ## Worum geht es?
 
 Analogie und teleologische Reduktion sind die zentralen Werkzeuge der Rechtsfortbildung. Sie greifen, wo die Auslegung im engeren Sinne endet, also jenseits oder gegen den moeglichen Wortsinn (siehe Skill `wortlaut-grammatikalische-auslegung`).
@@ -184,7 +182,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 - **§ 181 BGB (Insichgeschaeft)** — Wortlaut erfasst auch Faelle, in denen der Vertretene durch das Insichgeschaeft nur Vorteile erlangt. Hier reduziert die Rechtsprechung den Anwendungsbereich teleologisch.
 - **§ 932 BGB (gutglaeubiger Erwerb)** — Der Wortlaut erfasst auch das ueber-uebergeber-Erwerbsverhaeltnis; bei bestimmten Konstellationen wird teleologisch reduziert.
-- **Verjaehrungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjaehrungseinrede bewirkt.
+- **Verjährungsnormen bei rechtsmissbraeuchlicher Berufung** — § 242 BGB als methodisches Korrektiv, das funktional teleologische Reduktion einer Verjährungseinrede bewirkt.
 
 **Verbot der Analogie:**
 
@@ -195,7 +193,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten Privater sind moeglich, soweit die Voraussetzungen erfuellt sind.
 
-## Schritt-fuer-Schritt
+## Schritt-für-Schritt
 
 **Fuer die Analogie:**
 
@@ -243,7 +241,6 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 
 Stand: Mai 2026.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -265,7 +262,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Juristische Methode ist kein neutrales Werkzeug. Methodenwahl kann Ergebnisse steuern, und ehrliche Rechtsanwendung verlangt die Offenlegung dieser Steuerungsfunktion. Dieses Skill hilft, versteckte Ideologie in juristischer Argumentation zu erkennen, Scheinneutralität zu entlarven und methodische Ehrlichkeit zu fordern und zu praktizieren.
 
@@ -356,7 +352,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-
 Juristische Argumentation ist dann methodisch redlich, wenn die verwendeten Auslegungsmethoden kohärent und begründbar sind. "Methodenakrobatik" bezeichnet das opportunistische Wechseln zwischen Methoden, um ein gewünschtes Ergebnis zu erzielen. Dieses Skill trainiert die Fähigkeit, solche Praktiken zu erkennen, methodisch einzuordnen und ihnen argumentativ entgegenzutreten.
 
 ## Mandantenfall
@@ -446,7 +441,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
 
 Dieses Skill leitet durch die methodisch strukturierte Gewichtungsarbeit bei kollidierenden Interessen im Zivilrecht. Es macht Abwägungsentscheidungen transparent, nachvollziehbar und angreifbar. Wer Gewichtungen nicht offenlegt, riskiert nicht nur argumentative Angriffsflächen, sondern auch revisorische Fehler.
 

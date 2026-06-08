@@ -78,17 +78,17 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klaegerin festgesetzt. Der Wert betraegt nach den Angaben der Klaegerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
 
-### Beispiel 4 – Beweisangebote des Arbeitnehmers fuer bessere Note
+### Beispiel 4 – Beweisangebote des Arbeitnehmers für bessere Note
 
-Bei dem Begehren einer Note besser als befriedigend kommen folgende Beweisangebote in Betracht: zustaendige Zwischenzeugnisse mit guter oder sehr guter Bewertung, Beurteilungsbeleg aus Jahresgespraechen, Boni und Praemien im Zeitraum, ausgezeichnete Performancereports, schriftliche Lob-E-Mails von Vorgesetzten, Zeugenaussagen unmittelbarer Vorgesetzter, Kundenfeedback in dokumentierter Form.
+Bei dem Begehren einer Note besser als befriedigend kommen folgende Beweisangebote in Betracht: zuständige Zwischenzeugnisse mit guter oder sehr guter Bewertung, Beurteilungsbeleg aus Jahresgespraechen, Boni und Praemien im Zeitraum, ausgezeichnete Performancereports, schriftliche Lob-E-Mails von Vorgesetzten, Zeugenaussagen unmittelbarer Vorgesetzter, Kundenfeedback in dokumentierter Form.
 
 ### Beispiel 5 – Verwirkung als Risiko
 
-Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, ohne plausiblen Grund fuer die Verzoegerung, kann der Anspruch nach den Grundsaetzen der Verwirkung untergehen, auch wenn die Verjaehrungsfrist nicht abgelaufen ist. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisuebergabe stellen.
+Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, ohne plausiblen Grund für die Verzoegerung, kann der Anspruch nach den Grundsaetzen der Verwirkung untergehen, auch wenn die Verjährungsfrist nicht abgelaufen ist. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisuebergabe stellen.
 
 ## Ausgabeformat
 
-Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalyse (Hoch, Mittel, Niedrig), einen Vorschlag fuer das aussergerichtliche Berichtigungsverlangen mit konkreten Ersatzformulierungen, einen ausformulierten Klageantrag fuer die als klagbar identifizierten Punkte, eine Streitwertschaetzung in Abhaengigkeit vom Monatsbruttogehalt und eine Verfahrensempfehlung (sofortige Klage, Berichtigungsverlangen zuerst, kombinierte Klage mit weiteren Anspruechen).
+Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalyse (Hoch, Mittel, Niedrig), einen Vorschlag für das aussergerichtliche Berichtigungsverlangen mit konkreten Ersatzformulierungen, einen ausformulierten Klageantrag für die als klagbar identifizierten Punkte, eine Streitwertschaetzung in Abhaengigkeit vom Monatsbruttogehalt und eine Verfahrensempfehlung (sofortige Klage, Berichtigungsverlangen zuerst, kombinierte Klage mit weiteren Anspruechen).
 
 ## Rechtliche Einordnung und Normen
 

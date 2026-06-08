@@ -19,14 +19,14 @@ Verfahrenssprache ist Deutsch (§ 184 GVG). Wenn Sie nicht ausreichend Deutsch k
 
 - **Verfahrenssprache**: Sprache, in der das Verfahren stattfindet (Deutsch).
 - **Dolmetscher**: Person, die zwischen Verfahrenssprache und einer anderen Sprache uebersetzt.
-- **Uebersetzer**: Person fuer schriftliche Uebersetzungen.
+- **Uebersetzer**: Person für schriftliche Uebersetzungen.
 
 ## Rechtsgrundlagen
 
 - **§ 184 GVG** — Verfahrenssprache Deutsch.
 - **§ 185 GVG** — Beizug Dolmetscher.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pruefen, ob Bedarf
 
@@ -45,7 +45,7 @@ Aktenzeichen: [AZ]
 
 In der Sache [Klaeger] ./. [Sie]
 beantrage ich gemaess § 185 GVG die
-Hinzuziehung eines Dolmetschers fuer die
+Hinzuziehung eines Dolmetschers für die
 Sprache [Sprache] zum Termin am [Datum].
 
 Begruendung:
@@ -92,7 +92,7 @@ Hinweis: Der Zeuge spricht nur Tuerkisch;
 Dolmetscher erforderlich.
 ```
 
-Gericht stellt Dolmetscher fuer Zeugenvernehmung bereit.
+Gericht stellt Dolmetscher für Zeugenvernehmung bereit.
 
 ### Schritt 8 — Bei Sprach-Schwierigkeiten ohne Antrag
 
@@ -102,7 +102,7 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 
 - **Vor Termin Antrag stellen**.
 - **Sprach-Niveau realistisch einschaetzen**.
-- **Beglaubigte Uebersetzungen** fuer Urkunden bei Bedarf.
+- **Beglaubigte Uebersetzungen** für Urkunden bei Bedarf.
 - **Recht auf faires Verfahren** (Art. 6 EMRK).
 
 ## Typische Fehler
@@ -121,7 +121,6 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG unveraendert.
-
 
 ## Qualitäts-Hardening
 

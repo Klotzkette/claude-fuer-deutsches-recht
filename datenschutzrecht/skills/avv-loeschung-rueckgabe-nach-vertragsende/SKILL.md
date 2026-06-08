@@ -42,7 +42,7 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
 4. **Aufbewahrungsausnahmen.**
  - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
  - § 50 BDSG: bis Zweckerreichung beendet.
- - § 195 BGB i.V.m. § 199 BGB: Verjaehrungsablauf abwarten.
+ - § 195 BGB i.V.m. § 199 BGB: Verjährungsablauf abwarten.
  - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
 
 5. **Nachweis.**
@@ -56,13 +56,13 @@ Klausel zu Loeschung und Rueckgabe:
 
 > "§ X Beendigung der Verarbeitung
 >
-> (1) Nach Beendigung der Erbringung der Verarbeitungsleistungen entscheidet der Verantwortliche innerhalb von dreissig (30) Kalendertagen, ob die personenbezogenen Daten zurueckgegeben oder geloescht werden sollen. Der Verantwortliche kann fuer verschiedene Datenbestaende unterschiedliche Optionen waehlen.
+> (1) Nach Beendigung der Erbringung der Verarbeitungsleistungen entscheidet der Verantwortliche innerhalb von dreissig (30) Kalendertagen, ob die personenbezogenen Daten zurueckgegeben oder geloescht werden sollen. Der Verantwortliche kann für verschiedene Datenbestaende unterschiedliche Optionen waehlen.
 >
 > (2) Bei Wahl der Rueckgabe uebergibt der Auftragsverarbeiter die personenbezogenen Daten innerhalb von dreissig (30) Kalendertagen in einem strukturierten, gaengigen und maschinenlesbaren Format an einen vom Verantwortlichen benannten Empfaenger. Die Uebertragung erfolgt verschluesselt nach dem Stand der Technik.
 >
 > (3) Bei Wahl der Loeschung loescht der Auftragsverarbeiter die personenbezogenen Daten innerhalb von dreissig (30) Kalendertagen vollstaendig und unwiederbringlich. Backups werden in der naechsten regulaeren Backup-Rotation, spaetestens jedoch innerhalb von neunzig (90) Kalendertagen, ueberschrieben oder geloescht. Die Loeschung erfolgt nach DIN 66399 mindestens nach Schutzklasse 2.
 >
-> (4) Soweit Unionsrecht oder Recht eines Mitgliedstaats die weitere Speicherung der personenbezogenen Daten vorschreibt (insbesondere § 257 HGB, § 147 AO), bleibt der Auftragsverarbeiter berechtigt, die betroffenen Datensaetze fuer die gesetzliche Aufbewahrungsdauer in einem zugriffsbeschraenkten, ausschliesslich der Erfuellung der gesetzlichen Pflicht dienenden Bereich vorzuhalten. Der Auftragsverarbeiter dokumentiert Datenart, Rechtsgrundlage und Aufbewahrungsdauer und loescht die Daten unverzueglich nach Ablauf der Aufbewahrungspflicht.
+> (4) Soweit Unionsrecht oder Recht eines Mitgliedstaats die weitere Speicherung der personenbezogenen Daten vorschreibt (insbesondere § 257 HGB, § 147 AO), bleibt der Auftragsverarbeiter berechtigt, die betroffenen Datensaetze für die gesetzliche Aufbewahrungsdauer in einem zugriffsbeschraenkten, ausschliesslich der Erfuellung der gesetzlichen Pflicht dienenden Bereich vorzuhalten. Der Auftragsverarbeiter dokumentiert Datenart, Rechtsgrundlage und Aufbewahrungsdauer und loescht die Daten unverzueglich nach Ablauf der Aufbewahrungspflicht.
 >
 > (5) Der Auftragsverarbeiter dokumentiert die Loeschung oder Rueckgabe in einem schriftlichen Protokoll, das dem Verantwortlichen innerhalb von zehn (10) Kalendertagen nach Abschluss der Massnahme vorzulegen ist. Das Protokoll enthaelt Datum, Datenarten, Mengenangaben, Loeschmethode und die verantwortliche Person.
 >
@@ -90,7 +90,6 @@ Klausel zu Loeschung und Rueckgabe:
 - DIN 66399 – Vernichtung von Datentraegern.
 - NIST SP 800-88 Rev. 1 – Guidelines for Media Sanitization.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

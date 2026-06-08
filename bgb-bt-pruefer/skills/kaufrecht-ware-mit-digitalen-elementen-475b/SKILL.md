@@ -6,11 +6,9 @@ description: "Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB:
 # Kaufrecht: Ware mit digitalen Elementen § 475b BGB
 
 ## Fachkern: Kaufrecht: Ware mit digitalen Elementen § 475b BGB
-- **Spezialgegenstand:** Kaufrecht: Ware mit digitalen Elementen § 475b BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
 
 ## Zweck
 
@@ -75,7 +73,6 @@ Kaufrechtliche Besonderheiten für Ware mit digitalen Elementen nach § 475b BGB
 - kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c
 - verbrauchsgueterkauf-digitales
 - workflow-livequellen-rechtsstand
-
 
 ## Quellen
 

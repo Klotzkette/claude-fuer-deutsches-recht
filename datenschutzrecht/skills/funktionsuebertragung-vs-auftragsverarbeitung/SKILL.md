@@ -42,20 +42,20 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
 
  | Konstellation | Einordnung | Vertragstyp |
  |---|---|---|
- | Steuerberater erstellt Buchhaltung fuer Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
+ | Steuerberater erstellt Buchhaltung für Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
  | Rechtsanwalt vertritt Mandant | Funktionsuebertragung | Mandatsvertrag |
  | Wirtschaftspruefer prueft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
  | Inkassodienstleister treibt Forderungen ein | Funktionsuebertragung (typisch) | Inkassovertrag |
  | Arzt behandelt Patient | Funktionsuebertragung | Behandlungsvertrag § 630a BGB |
  | Externe IT betreut Kanzlei-IT mit Datenzugang | regelmaessig Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
  | Externes Schreibbuero schreibt Diktate | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
- | Cloud-Speicher fuer Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
+ | Cloud-Speicher für Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
 
 4. **§ 203 Abs. 3 StGB beachten (nur bei Auftragsverarbeitung erforderlich).**
  - Mitwirkende Personen muessen zur Verschwiegenheit verpflichtet sein.
  - Berufstraeger muss "im erforderlichen Umfang" offenbaren duerfen.
  - Schriftliche Verpflichtung der mitwirkenden Personen ratsam.
- - § 11 BORA fuer Rechtsanwaelte; entsprechende Regeln fuer Steuerberater und Aerzte.
+ - § 11 BORA für Rechtsanwaelte; entsprechende Regeln für Steuerberater und Aerzte.
 
 5. **Datenfluss-Vertrag bei Funktionsuebertragung.**
  - Kein AVV erforderlich (Dritter ist eigener Verantwortlicher).
@@ -92,7 +92,7 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - Externe IT oder Schreibbuero ohne AVV beschaeftigt – § 203 StGB-Strafbarkeitsrisiko.
 - Keine Verpflichtung mitwirkender Personen nach § 203 Abs. 3 StGB.
 - Informationspflichten Art. 13/14 DSGVO nicht beruecksichtigt.
-- Cloud-Speicher fuer Mandantenakten ohne AVV oder ohne § 203-Klausel.
+- Cloud-Speicher für Mandantenakten ohne AVV oder ohne § 203-Klausel.
 
 ## Querverweise
 
@@ -108,7 +108,6 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - § 57 Abs. 1 StBerG; § 43 Abs. 1 WPO.
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021), edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
-
 
 ## Qualitäts-Hardening
 

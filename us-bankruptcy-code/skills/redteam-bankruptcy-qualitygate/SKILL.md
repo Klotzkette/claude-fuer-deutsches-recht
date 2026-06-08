@@ -6,15 +6,12 @@ description: "Prueft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß
 # Bankruptcy Red-Team Qualitygate
 
 ## Fachkern: Bankruptcy Red-Team Qualitygate
-- **Spezialgegenstand:** Bankruptcy Red-Team Qualitygate wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Zweck
 
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
+Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
 
 Dieser Skill macht aus dem Thema **Bankruptcy Red-Team Qualitygate** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -23,7 +20,6 @@ Dieser Skill macht aus dem Thema **Bankruptcy Red-Team Qualitygate** eine belast
 - 11 U.S.C. Title 11
 - U.S. Courts official forms/rules
 - Local Rules live prüfen
-
 
 Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
 
@@ -34,20 +30,34 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 - Deadlines/fees/forms verified?
 - Is local counsel required?
 
-
 ## Workflow
 
 1. Output against chapter route prüfen.
 2. Stay and deadline red-team.
 3. Sources and uncertainty markieren.
 
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 KWG` — Bankgeschaefte.
+- `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
+- `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
+- `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
+- `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.
+- `Art. 28 DORA` — IKT-Drittparteienrisiko.
+- `§ 675f BGB` — Zahlungsdiensterahmenvertrag.
+- `§ 765 BGB` — Bürgschaft.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Output
 
 - Red-team report
 - Correction list
 - US-counsel escalation note
-
 
 ## Tiefencheck für die Akte
 

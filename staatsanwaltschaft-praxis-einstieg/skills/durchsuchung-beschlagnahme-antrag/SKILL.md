@@ -6,15 +6,12 @@ description: "Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwä
 # Durchsuchung und Beschlagnahme
 
 ## Fachkern: Durchsuchung und Beschlagnahme
-- **Spezialgegenstand:** Durchsuchung und Beschlagnahme wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
 
 ## Einsatz
 
-Dieser Abschnitt bearbeitet **Fachkern: Durchsuchung und Beschlagnahme** im Bereich **Staatsanwaltschaft Praxis-Einstieg**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
+Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 **Fokus:** richterlichen Beschluss, Gefahr im Verzug, Verhältnismäßigkeit und Dokumentation sauber vorbereiten
 
@@ -34,13 +31,26 @@ Dieser Abschnitt bearbeitet **Fachkern: Durchsuchung und Beschlagnahme** im Bere
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-
 ## Spezielle Leitplanken
 
 - Keine echten Aktengeheimnisse oder personenbezogenen Daten in ungeprüfte Systeme eingeben.
 - Entlastende Umstände aktiv mitdenken; die Staatsanwaltschaft ist nicht Parteivertreterin.
 - Bei Grundrechtseingriffen Verhältnismäßigkeit und Richtervorbehalt zuerst prüfen.
 
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 102 StPO (Durchsuchung beim Verdächtigen)
+- § 103 StPO (Durchsuchung bei Nichtverdächtigen)
+- § 105 Abs. 1 StPO (Richtervorbehalt; Gefahr im Verzug)
+- BVerfGE 103, 142 (Gefahr im Verzug – enge Auslegung)
+- BVerfGE 96, 44 (Verhältnismäßigkeit)
+- § 94 StPO (Sicherstellung, Beschlagnahme)
+- § 98 Abs. 1 StPO (Richtervorbehalt)
+- § 97 StPO (Beschlagnahmeverbote)
+- BVerfGE 113, 29 (Anwaltskanzleien)
 ## Output
 
 Erzeuge je nach Auftrag: Verfügung, Ermittlungsauftrag, Vermerk, Anklagebaustein, Strafbefehlsantrag, Sitzungsnotiz oder Plädoyerbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.

@@ -24,29 +24,29 @@ Eine **Einrede** ist Ihr eigenes Recht, das die Klage abwehrt, selbst wenn der K
 
 ## Rechtsgrundlagen
 
-- **§ 214 BGB** — Verjaehrungs-Einrede.
+- **§ 214 BGB** — Verjährungs-Einrede.
 - **§§ 387 ff. BGB** — Aufrechnung.
 - **§ 273 BGB** — Zurueckbehaltungsrecht.
 - **§ 320 BGB** — Einrede des nicht-erfuellten Vertrages.
 - **§ 311b BGB** — Formmangel.
-- **§ 196 BGB** — Verbraucher-Verjaehrung.
+- **§ 196 BGB** — Verbraucher-Verjährung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Welche Einreden kommen in Betracht?
 
-- **Verjaehrung** (haeufigste, immer pruefen).
+- **Verjährung** (haeufigste, immer pruefen).
 - **Aufrechnung**.
 - **Zurueckbehaltungsrecht**.
 - **Einrede des nicht-erfuellten Vertrages** (§ 320 BGB) — synallagmatischer Vertrag.
 - **Stundung / Verzicht** auf Forderung.
 
-### Schritt 2 — Verjaehrungs-Einrede
+### Schritt 2 — Verjährungs-Einrede
 
-Pruefen Sie Verjaehrung (Skill `verjaehrungsfrist-pruefen-195-bgb`). Wenn Anspruch verjaehrt:
+Pruefen Sie Verjährung (Skill `verjaehrungsfrist-pruefen-195-bgb`). Wenn Anspruch verjaehrt:
 
 ```
-Einrede der Verjaehrung
+Einrede der Verjährung
 
 Der geltend gemachte Anspruch ist verjaehrt.
 
@@ -55,11 +55,11 @@ Die Forderung ist am 31.12.2024 verjaehrt
 gemaess § 199 BGB). Die Klage wurde erst am
 1.5.2026 eingereicht.
 
-Der Beklagte erhebt die Einrede der Verjaehrung
+Der Beklagte erhebt die Einrede der Verjährung
 gemaess § 214 BGB.
 ```
 
-Wirkung: Klage wird abgewiesen (sofern Verjaehrung tatsaechlich abgelaufen ist).
+Wirkung: Klage wird abgewiesen (sofern Verjährung tatsaechlich abgelaufen ist).
 
 ### Schritt 3 — Aufrechnung
 
@@ -71,7 +71,7 @@ Aufrechnung
 Der Beklagte erklaert die Aufrechnung mit
 einer Gegenforderung in Hoehe von 800 EUR
 aus [Anspruchsgrundlage, z. B. Mietminderung
-fuer Mangel].
+für Mangel].
 
 [Tatsachen zur Gegenforderung]
 
@@ -136,7 +136,7 @@ Eigener Abschnitt in der Klageerwiderung:
 ```
 III. Einreden
 
-1. Verjaehrung.
+1. Verjährung.
  [Begruendung]
 
 2. Hilfsweise: Aufrechnung mit Forderung in Hoehe
@@ -147,11 +147,11 @@ III. Einreden
  [Begruendung]
 ```
 
-Rangfolge: Erst Hauptangriff (Verjaehrung, weil sie Klage komplett zu Fall bringt), dann Aufrechnung (Teilreduktion), dann Zurueckbehaltung (Zug-um-Zug).
+Rangfolge: Erst Hauptangriff (Verjährung, weil sie Klage komplett zu Fall bringt), dann Aufrechnung (Teilreduktion), dann Zurueckbehaltung (Zug-um-Zug).
 
-### Schritt 8 — Fristen fuer Einreden
+### Schritt 8 — Fristen für Einreden
 
-- **Verjaehrungs-Einrede**: Im Klageerwiderungs-Schriftsatz (oder spaeter, aber § 296 ZPO drohend).
+- **Verjährungs-Einrede**: Im Klageerwiderungs-Schriftsatz (oder spaeter, aber § 296 ZPO drohend).
 - **Aufrechnung**: Auch spaeter moeglich, aber besser frueh.
 - **Zurueckbehaltungs-Recht**: Frueh.
 
@@ -159,19 +159,19 @@ Rangfolge: Erst Hauptangriff (Verjaehrung, weil sie Klage komplett zu Fall bring
 
 - **Einreden nicht von Amts wegen**: Gericht wartet auf Ihre Erklaerung.
 - **Praeklusion § 296 ZPO** moeglich, wenn zu spaet.
-- **Verjaehrung pruefen IMMER** — Standard-Check.
+- **Verjährung pruefen IMMER** — Standard-Check.
 - **Aufrechnungs-Erklaerung** kann (anders als reine prozessuale Einrede) auch materielles Wirkungsregime ausloesen.
 
 ## Typische Fehler
 
-- "Verjaehrung sieht das Gericht selbst." → Nein, Einrede muss erhoben werden.
+- "Verjährung sieht das Gericht selbst." → Nein, Einrede muss erhoben werden.
 - "Aufrechnung erklaere ich im Termin." → Frueh erklaeren, sonst Praeklusion.
 - "Zurueckbehaltungsrecht ohne konkrete Gegenleistung." → Klare Bezeichnung der Gegenleistung erforderlich.
 
 ## Querverweise
 
 - `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrung pruefen.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
 - `widerklage-33-zpo` — Eigene Forderung als Widerklage.
 - `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
 

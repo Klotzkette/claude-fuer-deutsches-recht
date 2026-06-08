@@ -1,47 +1,29 @@
 ---
 name: bietergemeinschaft-vergabekartellrecht-bka
-description: "Bietergemeinschaft Vergabekartellrecht BKA im Kartellrecht (Marktabgrenzung): prüft konkret Bietergemeinschaft Vergabekartellrecht, BKartA DG Competition FTC DOJ Routing, Settlement in Kartellverfahren, Organhaftung und Kartellrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bietergemeinschaft Vergabekartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Bietergemeinschaft Vergabekartellrecht BKA
+# Bietergemeinschaft Vergabekartellrecht
 
 ## Arbeitsbereich
 
-**Bietergemeinschaft Vergabekartellrecht BKA** ordnet den Fall über die tragenden Prüffelder: Bietergemeinschaft Vergabekartellrecht, BKartA DG Competition FTC DOJ Routing, Settlement in Kartellverfahren. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `bietergemeinschaft-vergabekartellrecht` | Bietergemeinschaft Vergabekartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `bka-dgcomp-ftc-doj-routing` | BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen. |
-| `cartel-settlement-procedure` | Settlement in Kartellverfahren: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen. |
-| `competition-board-liability` | Organhaftung und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen. |
-| `competition-compliance-investigation` | Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen. |
+Bietergemeinschaft Vergabekartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Kartellrecht — Marktabgrenzung klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: FKVO Art. 4 Anmeldepflicht vor Vollzug, GWB § 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen § 35 GWB (50/17,5 Mio. EUR).
 - Tragende Normen verifizieren: GWB §§ 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004), Bekanntmachung Kommission Marktabgrenzung 2024 (C/2024/1645), Leitlinien horizontale/vertikale Zusammenarbeit, HMG-Index — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `bietergemeinschaft-vergabekartellrecht`
-
-**Fokus:** Bietergemeinschaft Vergabekartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA.
-
-# Bietergemeinschaft Vergabekartellrecht
 
 ## Fachkern: Bietergemeinschaft Vergabekartellrecht
-- **Spezialgegenstand:** Bietergemeinschaft Vergabekartellrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-
 ## Einsatz
-Dieser Abschnitt bearbeitet **Fachkern: Bietergemeinschaft Vergabekartellrecht** im Bereich **Kartellrecht — Marktabgrenzung und Wettbewerb**. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 **Fachlicher Fokus:** Kartellrecht deutsch/europäisch: Kartellverbot, Missbrauch, Fusionskontrolle, Private Enforcement, Compliance und Digital Markets.
 
@@ -72,202 +54,31 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk
 ## Qualitätsgate
 Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
 
-## 2. `bka-dgcomp-ftc-doj-routing`
-
-**Fokus:** BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen.
-
-# BKartA DG Competition FTC DOJ Routing
-
-## Fachkern: BKartA DG Competition FTC DOJ Routing
-- **Spezialgegenstand:** BKartA DG Competition FTC DOJ Routing. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: BKartA DG Competition FTC DOJ Routing** im Bereich **Kartellrecht Global Competition Law**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** GWB, Art. 101/102 AEUV, FKVO, VO 1/2003, Vertikal-GVO, DMA, Sherman Act, Clayton Act, FTC Act und lokale Regeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Mehrjurisdiktionsfällen lokale Counsel-Fragen ausdrücklich ausgeben.
-- Behördenpraxis und Formulare live prüfen.
-- Keine nicht verifizierten Bußgeld- oder Rechtsprechungszitate.
-
-## Output
-
-Erzeuge je nach Auftrag: Jurisdiktionsmatrix, Verfahrensplan, Behördenstrategie, Memo, Dawn-Raid-Plan, Fusionskontrollcheck oder Schriftsatzbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 3. `cartel-settlement-procedure`
-
-**Fokus:** Settlement in Kartellverfahren: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen.
-
-# Settlement in Kartellverfahren
-
-## Fachkern: Settlement in Kartellverfahren
-- **Spezialgegenstand:** Settlement in Kartellverfahren. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Settlement in Kartellverfahren** im Bereich **Kartellrecht Global Competition Law**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** GWB, Art. 101/102 AEUV, FKVO, VO 1/2003, Vertikal-GVO, DMA, Sherman Act, Clayton Act, FTC Act und lokale Regeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Mehrjurisdiktionsfällen lokale Counsel-Fragen ausdrücklich ausgeben.
-- Behördenpraxis und Formulare live prüfen.
-- Keine nicht verifizierten Bußgeld- oder Rechtsprechungszitate.
-
-## Output
-
-Erzeuge je nach Auftrag: Jurisdiktionsmatrix, Verfahrensplan, Behördenstrategie, Memo, Dawn-Raid-Plan, Fusionskontrollcheck oder Schriftsatzbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 4. `competition-board-liability`
-
-**Fokus:** Organhaftung und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen.
-
-# Organhaftung und Kartellrecht
-
-## Fachkern: Organhaftung und Kartellrecht
-- **Spezialgegenstand:** Organhaftung und Kartellrecht. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Organhaftung und Kartellrecht** im Bereich **Kartellrecht Global Competition Law**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** GWB, Art. 101/102 AEUV, FKVO, VO 1/2003, Vertikal-GVO, DMA, Sherman Act, Clayton Act, FTC Act und lokale Regeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Mehrjurisdiktionsfällen lokale Counsel-Fragen ausdrücklich ausgeben.
-- Behördenpraxis und Formulare live prüfen.
-- Keine nicht verifizierten Bußgeld- oder Rechtsprechungszitate.
-
-## Output
-
-Erzeuge je nach Auftrag: Jurisdiktionsmatrix, Verfahrensplan, Behördenstrategie, Memo, Dawn-Raid-Plan, Fusionskontrollcheck oder Schriftsatzbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 5. `competition-compliance-investigation`
-
-**Fokus:** Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen.
-
-# Interne Kartelluntersuchung
-
-## Fachkern: Interne Kartelluntersuchung
-- **Spezialgegenstand:** Interne Kartelluntersuchung. Die Prüfung setzt bei der konkreten Sachfrage an und endet mit einem verwertbaren Arbeitsergebnis.
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Einsatz
-
-Dieser Abschnitt bearbeitet **Fachkern: Interne Kartelluntersuchung** im Bereich **Kartellrecht Global Competition Law**. Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** GWB, Art. 101/102 AEUV, FKVO, VO 1/2003, Vertikal-GVO, DMA, Sherman Act, Clayton Act, FTC Act und lokale Regeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Mehrjurisdiktionsfällen lokale Counsel-Fragen ausdrücklich ausgeben.
-- Behördenpraxis und Formulare live prüfen.
-- Keine nicht verifizierten Bußgeld- oder Rechtsprechungszitate.
-
-## Output
-
-Erzeuge je nach Auftrag: Jurisdiktionsmatrix, Verfahrensplan, Behördenstrategie, Memo, Dawn-Raid-Plan, Fusionskontrollcheck oder Schriftsatzbaustein. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 101 AEUV (Kartellverbot)
+- Art. 102 AEUV (Marktbeherrschung)
+- § 1 GWB (Kartellverbot national)
+- §§ 18-21 GWB (Marktbeherrschung, Behinderungsverbot)
+- § 19 GWB (Missbrauchsverbot)
+- § 19a GWB (Plattformregulierung)
+- §§ 32, 33 GWB (Abstellungsverfügung, Schadensersatz)
+- §§ 81, 81a GWB (Bußgeld)
+- VO 1/2003 EG (Durchsetzung 101/102 AEUV)
+- FKVO (EG) 139/2004 (Fusionskontrolle)
+
+### Leitentscheidungen
+
+- EuGH C-413/14 P (Intel, Treuerabatte)
+- BGH KZR 47/14 (Schienenkartell, passing-on)
+- BGH KZR 39/19 (Facebook, Marktmissbrauch DSGVO)
+- EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
+- BGH KRB 1/22 (Bußgeldbemessung Konzernhaftung)
+
+### Anwendung im Skill
+
+- Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
+- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
+- § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.

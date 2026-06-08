@@ -28,7 +28,7 @@ Wenn Sie das Verfahren verloren haben, kann die Gegenseite gegen Sie vollstrecke
 - **§ 850 ff. ZPO** — Pfaendungs-Freigrenzen Lohn.
 - **§ 811 ZPO** — Unpfaendbare Sachen (Haushalts-Gegenstaende).
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Pflichtschuldigkeit pruefen
 
@@ -67,7 +67,7 @@ Mit freundlichen Gruessen
 §§ 850 ff. ZPO: Lohn ist bis zur Pfaendungs-Freigrenze unpfaendbar.
 
 - Grundfreibetrag (Stand 05/2026 ca. 1.500 EUR netto — aktuelle Tabelle verifizieren).
-- Erhoehungen fuer unterhaltsberechtigte Personen.
+- Erhoehungen für unterhaltsberechtigte Personen.
 
 Tabelle § 850c ZPO regelmaessig aktualisiert; ueber justiz.de verfuegbar.
 
@@ -82,7 +82,7 @@ Antrag bei Ihrer Bank — meist binnen 24 Stunden umgewandelt.
 Gerichtsvollzieher darf bestimmte Gegenstaende nicht pfaenden:
 
 - Einrichtungs-Gegenstaende des taeglichen Lebens.
-- Werkzeug fuer Erwerb.
+- Werkzeug für Erwerb.
 - Kleidung.
 - Bettzeug.
 
@@ -102,7 +102,7 @@ gemaess § 765a ZPO.
 Begruendung:
 
 Die Vollstreckung der [konkrete Massnahme]
-wuerde fuer mich eine sittenwidrige Haerte
+wuerde für mich eine sittenwidrige Haerte
 bedeuten, weil [Begruendung — z. B. schwere
 Krankheit, Behinderung, drohende Obdachlosigkeit].
 
@@ -129,7 +129,7 @@ VOLLSTRECKUNGS-GEGENKLAGE
 gemaess § 767 ZPO und beantrage:
 
 Die Zwangsvollstreckung aus dem Urteil
-[AZ] vom [Datum] wird fuer unzulaessig erklaert.
+[AZ] vom [Datum] wird für unzulaessig erklaert.
 
 Begruendung:
 
@@ -162,7 +162,7 @@ Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§
 
 - `urteil-rechtskraft-705-zpo` — Urteil.
 - `berufung-amtsgericht-511-zpo` — Berufung pruefen.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH fuer Vollstreckungs-Gegenklage.
+- `prozesskostenhilfe-pkh-114-zpo` — PKH für Vollstreckungs-Gegenklage.
 - `zwangsvollstreckung-querverweis-substitutionsagent` — Substitutionsagent.
 
 ## Quellen und Aktualitaet

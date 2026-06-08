@@ -5,6 +5,24 @@ description: "Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftung
 
 # Überforderung, Verhinderung und Abgabe
 
+## Normenanker
+
+Arbeitsfokus: **Überforderung, Verhinderung und Abgabe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Betreuungsvoraussetzungen.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Betreuerauswahl.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — Anhörung.
+- `§ 280 FamFG` — Gutachten.
+- `§ 5 BtOG` — Beratung.
+- `§ 8 BtOG` — Betreuungsvermeidung.
+
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ## Zweck
 
 Dieser Skill schützt die betreute Person und den Betreuer, wenn die Betreuung zu groß wird. Nicht jede Betreuung muss heroisch durchgehalten werden. Manchmal ist der beste Schutz: Aufgaben begrenzen, Hilfe holen oder geordnet abgeben.

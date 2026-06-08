@@ -1,35 +1,23 @@
 ---
 name: vollrelation-langfassung-vorlaeufige
-description: "Vollrelation Langfassung Vorlaeufige im Plugin Urteilsbauer Relationsmacher: prüft konkret Vollständige Relation im Schulstandard für, Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§, Zulässigkeit der Zivilklage systematisch prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer im Urteilsbauer Relationsmacher: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Vollrelation Langfassung Vorlaeufige
+# Vollrelation Langfassung - Schulstandard für Prüfung
 
 ## Arbeitsbereich
 
-**Vollrelation Langfassung Vorlaeufige** ordnet den Fall über die tragenden Prüffelder: Vollständige Relation im Schulstandard für, Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§, Zulässigkeit der Zivilklage systematisch prüfen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `vollrelation-langfassung` | Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer. |
-| `vorlaeufige-vollstreckbarkeit` | Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen. |
-| `zulaessigkeit-pruefen` | Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (sachliche Zuständigkeit), §§ 1 ff. GKG (Streitwert). Prüfraster: Rechtsweg, internationale Zuständigkeit, örtliche und sachliche Zuständigkeit, Partei-/Prozessfähigkeit, Rechtsschutzbedürfnis, besondere Verfahrensarten. Output Zulässigkeits-Prüfungsschema. Abgrenzung: Meritorische Prüfung siehe anspruchsgrundlagen-prüfen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin. |
+Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
 
-## 1. `vollrelation-langfassung`
-
-**Fokus:** Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer.
-
-# Vollrelation Langfassung - Schulstandard für Prüfung
+## Spezialwissen
 
 **Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill schreibt eine ausformulierte Vollrelation auf Prüfungsstandard. Genau deswegen ist die Verwendung als eingereichte Klausur- oder Hausarbeitsleistung im juristischen Vorbereitungsdienst eine Prüfungstaeuschung (Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbare Vorschriften der Länder). Folge: Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubt und sinnvoll: Erst selbst schreiben dann mit dieser Vollrelation abgleichen und Schwaechen finden.
 
@@ -134,7 +122,6 @@ Fragenkatalog am Ende:
 
 Markdown mit klaren Hierarchien (## A Sachbericht ## B Auslegung ...). Bei DOCX-Render-Wunsch kann das Ergebnis mit dem Skill `dokumente-rendern-urteil-docx` als Relations-Dokument im Schul-Layout ausgegeben werden (separater Modus --typ relation).
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -142,182 +129,3 @@ Markdown mit klaren Hierarchien (## A Sachbericht ## B Auslegung ...). Bei DOCX-
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-## 2. `vorlaeufige-vollstreckbarkeit`
-
-**Fokus:** Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen.
-
-# Vorläufige Vollstreckbarkeit
-
-
-## Triage zu Beginn
-
-1. Welcher Entscheidungstyp liegt vor — Endurteil, Versäumnisurteil, Anerkenntnisurteil, Beschluss?
-2. Wie hoch ist der Verurteilungsbetrag — bis 1.500 EUR (§ 708 Nr. 11 ZPO) oder darüber (§ 709 ZPO)?
-3. Ist Berufung statthaft (Beschwer > 600 EUR) — wenn nein: § 713 ZPO (ohne Sicherheit)?
-4. Hat die unterlegene Partei einen Schutzantrag nach § 711 ZPO gestellt?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 708 ZPO — Vollstreckbarkeit ohne Sicherheitsleistung (Nr. 1-11 Aufzählung)
- - Nr. 2: Versäumnisurteil
- - Nr. 4: Anerkenntnisurteil
- - Nr. 11: Endurteile bis 1.500 EUR
-- § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent (Regel)
-- § 711 ZPO — Schutzantrag der unterliegenden Partei
-- § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
-- § 719 ZPO — Einstellung der Vollstreckung bei Berufung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-für-Schritt-Entscheidungsbaum
-
-```
-Entscheidungstyp?
-├── Versäumnisurteil → § 708 Nr. 2 ZPO (ohne Sicherheit)
-├── Anerkenntnisurteil → § 708 Nr. 4 ZPO (ohne Sicherheit)
-├── Endurteil bis 1.500 EUR → § 708 Nr. 11 ZPO (ohne Sicherheit)
-└── Endurteil über 1.500 EUR:
- ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
- │ └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
- └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
-```
-
-## Output-Template
-
-**Adressat:** Urteil → Tenor (Ziff. 3) — Tonfall: formal-amtlich
-
-```
-## Vorläufige Vollstreckbarkeit
-
-**Standardfall § 709 ZPO:**
-"Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn
-Prozent des jeweils zu vollstreckenden Betrages."
-
-**Bei § 713 ZPO (keine Berufung):**
-"Das Urteil ist ohne Sicherheitsleistung vorläufig vollstreckbar."
-
-**Bei Schutzantrag § 711 ZPO:**
-"Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von
-einhundertzehn Prozent des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht die
-Klägerin vor der Vollstreckung Sicherheit in gleicher Höhe leistet."
-```
-
-## Standardregelung
-
-Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 110 von hundert (110 Prozent) des jeweils zu vollstreckenden Betrages.
-
-## Wann andere Regelung
-
-- Paragraf 708 Nr. 1 ZPO - urkundliche Mahnsachen
-- Paragraf 708 Nr. 2 ZPO - Versäumnisurteile - ohne Sicherheit
-- Paragraf 708 Nr. 4 ZPO - Anerkenntnisurteile
-- Paragraf 708 Nr. 11 ZPO - bestimmte Endurteile bis 1500 EUR (Repo-Konvention Punkt)
-- Paragraf 711 ZPO - Schutzantrag der unterliegenden Partei (Sicherheitsleistung wegen unverhältnismaessigen Schadens)
-- Paragraf 713 ZPO - Beschwer unter 600 EUR und keine Berufung - ohne Sicherheit
-- Paragraf 719 ZPO - Aufhebung bei Berufung
-
-## Formulierung
-
-- "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
-- "Das Urteil ist vorläufig vollstreckbar."
-- Bei Schutzantrag: "Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 von hundert des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht der Kläger Sicherheit in Höhe des jeweils zu vollstreckenden Betrages leistet."
-
-
----
-
-<!-- AUDIT 27.05.2026 -->
-## Audit-Hinweis (27.05.2026)
-
-Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.
-
-## 3. `zulaessigkeit-pruefen`
-
-**Fokus:** Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (sachliche Zuständigkeit), §§ 1 ff. GKG (Streitwert). Prüfraster: Rechtsweg, internationale Zuständigkeit, örtliche und sachliche Zuständigkeit, Partei-/Prozessfähigkeit, Rechtsschutzbedürfnis, besondere Verfahrensarten. Output Zulässigkeits-Prüfungsschema. Abgrenzung: Meritorische Prüfung siehe anspruchsgrundlagen-prüfen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin.
-
-# Zulässigkeit der Zivilklage
-
-Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
-
-## Triage zu Beginn
-
-1. Liegt internationaler Bezug vor — ist EuGVVO (Brüssel Ia, VO Nr. 1215/2012) anwendbar?
-2. Was ist der Streitwert — sachliche Zuständigkeit AG (bis 10.000 EUR, § 23 Nr. 1 GVG n. F. für Neufälle seit 01.01.2026) oder LG (über 10.000 EUR, § 71 GVG)? Übergangsfälle live prüfen.
-3. Ist der Kläger Verbraucher — besonderer Gerichtsstand nach Art. 17 ff. EuGVVO?
-4. Gibt es eine ausschließliche Gerichtsstandsvereinbarung (§ 38 ZPO, Art. 25 EuGVVO)?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 13 GVG — ordentlicher Rechtsweg
-- § 23 Nr. 1 GVG — sachliche Zuständigkeit AG (bis 10.000 EUR in der aktuellen Fassung für Neufälle seit 01.01.2026)
-- § 71 Abs. 1 GVG — sachliche Zuständigkeit LG (regelmäßig über 10.000 EUR, Sonderzuständigkeiten prüfen)
-- § 12 ZPO — allgemeiner Gerichtsstand (Wohnsitz)
-- § 29 ZPO — besonderer Gerichtsstand Erfüllungsort
-- § 38 ZPO — Gerichtsstandsvereinbarung (B2B)
-- Art. 4, 7, 17 EuGVVO (VO Nr. 1215/2012) — internationale Zuständigkeit
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-für-Schritt-Workflow
-
-1. **Rechtsweg (§ 13 GVG):** Ist die ordentliche Gerichtsbarkeit eröffnet (kein Arbeits-, Verwaltungs- oder Sozialrecht)?
-2. **Internationale Zuständigkeit:** Auslandsbezug → EuGVVO oder nationales IPR-Zuständigkeitsrecht.
-3. **Örtliche Zuständigkeit (§§ 12 ff. ZPO):** Allgemeiner oder besonderer Gerichtsstand?
-4. **Sachliche Zuständigkeit (§§ 23, 71 GVG):** Streitwert bestimmen → AG oder LG?
-5. **Partei- und Prozessfähigkeit (§§ 50, 51 ZPO):** Beide Parteien rechtsfähig und prozessfähig?
-6. **Anwaltszwang (§ 78 ZPO):** Vor LG und höheren Gerichten zwingend.
-7. **Rechtsschutzbedürfnis:** Allgemeines Feststellungsinteresse (§ 256 ZPO) — nur bei Feststellungsklage.
-
-## Output-Template
-
-**Adressat:** Entscheidungsgründe → Abschnitt Zulässigkeit — Tonfall: sachlich-juristisch
-
-```
-## I. Zulässigkeit
-
-Die Klage ist zulässig.
-
-**Rechtsweg:** Der ordentliche Rechtsweg nach § 13 GVG ist eröffnet. [Alternativ: Verwiesen nach § 281 ZPO.]
-
-**Sachliche Zuständigkeit:** Das Amtsgericht [ORT] ist sachlich zuständig nach § 23 Nr. 1 GVG,
-da der Streitwert [BETRAG] EUR beträgt und damit die aktuelle Grenze von 10.000 EUR nicht überschreitet; Übergangsfälle und Sonderzuständigkeiten sind gesondert geprüft.
-
-**Örtliche Zuständigkeit:** Das Amtsgericht [ORT] ist örtlich zuständig nach § 29 ZPO
-(Erfüllungsort [ORT]).
-
-**Partei- und Prozessfähigkeit:** Beide Parteien sind partei- und prozessfähig nach §§ 50, 51 ZPO.
-```
-
-## Pruefpunkte
-
-1. **Rechtsweg** Paragraf 13 GVG, Verweisung Paragraf 17 GVG
-2. **Internationale Zuständigkeit** EuGVVO Brüssel Ia (Verordnung Nr. 1215 2012), Luganer Übereinkommen, autonomes Recht (Paragraf 12 ff ZPO entsprechend)
-3. **Örtliche Zuständigkeit** Paragrafen 12 ff ZPO (allgemeine), Paragrafen 21 ff ZPO (besondere), Paragraf 24 ZPO (ausschließliche)
-4. **Sachliche Zuständigkeit** § 23 GVG (AG bis 10.000 EUR in der aktuellen Fassung für Neufälle), § 71 GVG (LG darüber); Alt- und Übergangsfälle gesondert prüfen.
-5. **Streitwert** Paragraf 3 ZPO, Paragraf 1 GKG, Anlage 1 zum GKG
-6. **Partei- und Prozessfähigkeit** Paragraf 50 ff ZPO
-7. **Vertretung** Paragraf 51 ZPO, Paragraf 78 ZPO (Anwaltszwang)
-8. **Streitgenossenschaft** Paragraf 59 ff ZPO
-9. **Rechtsschutzbedürfnis**
-10. **Anhaengigkeit / Rechtshaengigkeit** Paragraf 261 ZPO, Verbot anderweitiger Rechtshaengigkeit
-
-## Sonderfälle
-
-- Verbraucherklage in B2C-Sachen: Artikel 17 ff Brüssel Ia
-- Arrest / einstweilige Verfügung: Paragrafen 916 ff, 935 ff ZPO
-- Familiensachen: FamFG
-- Mahnverfahren: Paragrafen 688 ff ZPO
-
-## Ausgabe
-
-Tabelle: Pruefpunkt / Norm / Ergebnis / Begründung.

@@ -7,10 +7,10 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 ## Arbeitsbereich
 
-**Kontaminierter Baugrund Orientierung VOB** ordnet den Fall über die tragenden Prüffelder: Kontaminierter Baugrund, Orientierungs-Skill Bau- und Architektenrecht, VOB/B-Schiedsgutachten und Schlichtung als Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Kontaminierter Baugrund Orientierung VOB** ordnet den Fall über die tragenden Prüfungslinien: Kontaminierter Baugrund, Orientierungs-Skill Bau- und Architektenrecht, VOB/B-Schiedsgutachten und Schlichtung als Alternative zum. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg` | Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung. |
 | `fachanwalt-bau-architektenrecht-orientierung` | Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill. |
@@ -19,12 +19,12 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Plugin Fachanwalt für Bau- und Architektenrecht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg`
 
@@ -42,7 +42,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 6. Wurde die Untere Bodenschutzbehörde (UWB) bereits informiert? Besteht behördliche Anordnung nach § 9 BBodSchG?
 7. Wer ist der zivilrechtliche Auftragnehmer — Generalunternehmer, Nachunternehmer, Bauherr in Eigenregie?
 8. Bestehen Versicherungen (Bauherren-Haftpflicht, Umwelthaftpflicht § 1 UmweltHG, Betriebshaftpflicht)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -70,7 +70,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
-| BVerwG | 7 C 36.04 | 16.03.2006 | Sanierungspflicht § 4 BBodSchG — Zustandsstoererhaftung des Eigentuemers besteht auch ohne eigenes Verschulden; Verhaeltnismaessigkeit der Behoerden-Anordnung | bverwg.de |
+| BVerwG | 7 C 36.04 | 16.03.2006 | Sanierungspflicht § 4 BBodSchG — Zustandsstoererhaftung des Eigentuemers besteht auch ohne eigenes Verschulden; Verhaeltnismaessigkeit der Behörden-Anordnung | bverwg.de |
 | BVerfG | 1 BvR 242/91 | 16.02.2000 | Zustandshaftung Grundstueckseigentuemer — verfassungsrechtliche Grenze bei Unverhaeltnismaessigkeit ueberbordender Kosten gegenueber Verkehrswert | bundesverfassungsgericht.de |
 | BGH | VII ZR 175/13 | 27.03.2014 | Baugrundrisiko traegt grundsaetzlich der Besteller (Beistellungspflicht § 645 BGB); Aufklaerungspflichten gemildert bei nicht-erkennbaren Risiken | dejure.org/2014,5860 |
 | BGH (V. Zivilsenat, st. Rspr.) | Aufklaerungspflicht zu Altlasten | — | Schadensersatz bei verschwiegener Altlast bei Grundstueckskauf, c.i.c. § 311 Abs. 2 BGB; konkrete Aktenzeichen vor Ausgabe per dejure.org verifizieren | dejure.org / BGH-Datenbank |
@@ -126,7 +126,6 @@ Pflichten des Bauunternehmers:
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Bejahung |
 |---------|-----------|------|--------------------------|
@@ -191,7 +190,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Standard — Bodenkontamination beim Aushub entdeckt | Sofortmassnahmen-Checkliste und Schriftverkehr-Bausteine unten |
 | Variante A — Auftraggeber kannte Kontamination | GewaeHrleistungs-Ausschluss pruefen; § 444 BGB analog |
 | Variante B — Auftragnehmer hat Kontamination verursacht | Haftung nach § 4 BBodSchG; Schadensersatzklage vorbereiten |
-| Variante C — Behoerdenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug pruefen |
+| Variante C — Behördenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug pruefen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -272,7 +271,6 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Beweislast
 
@@ -598,7 +596,7 @@ Stand: 05/2026. SOBau 2020. § 18 VOB/B unverändert. BGH-Linien stabil. Bei VOB
 4. **Mangelerscheinungen**: Beschreibung, Lichtbilder, SV-Gutachten? Kausalität zu Werk des AN?
 5. **Mängelrechte**: Nacherfüllung noch möglich oder Frist abgelaufen? Selbstvornahme, Minderung, Rücktritt, Schadensersatz?
 6. **Verjährung**: Fristlauf seit Abnahme — 5 Jahre BGB / 4 Jahre VOB/B?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -629,7 +627,6 @@ Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit A
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -777,7 +774,6 @@ Mit freundlichen Grüßen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Quellenregel
 

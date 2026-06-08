@@ -29,22 +29,22 @@ description: "Klausel-Fachmodul für Haftung Indirekte Schaeden: prüft, redline
 5. **Spezialfokus Indirekte Schaeden (entgangener Gewinn, Folgeschaeden):**
  - **Begriffsklarstellung deutsche Rechtslage:** Die im US-Recht uebliche Unterscheidung "direct vs. indirect/consequential damages" ist im deutschen Recht nicht codifiziert. Massstab ist § 252 BGB (entgangener Gewinn als Schadensbestandteil) und § 254 BGB (Mitverschulden, Vorhersehbarkeitsbegrenzung).
  - **§ 252 BGB:** Entgangener Gewinn ist gesetzlicher Schadenbestandteil; Ausschluss in AGB ist immer eine Reduktion gesetzlicher Anspruechen und damit pruefpflichtig nach §§ 307 ff. BGB.
- - **Adaequanztheorie + Schutzzweckzusammenhang:** Auch ohne AGB-Klausel haftet der Schaedige nur fuer adaequat-kausale Schaeden im Schutzbereich der verletzten Norm. Diese Begrenzung muss nicht in AGB festgeschrieben werden.
+ - **Adaequanztheorie + Schutzzweckzusammenhang:** Auch ohne AGB-Klausel haftet der Schaedige nur für adaequat-kausale Schaeden im Schutzbereich der verletzten Norm. Diese Begrenzung muss nicht in AGB festgeschrieben werden.
  - **Begrenzung auf "vertragstypisch vorhersehbaren Schaden":** Im B2B-Verkehr regelmaessig zulaessige Beschraenkung bei Kardinalpflichten (BGH, ständige Rechtsprechung). "Hadley v. Baxendale"-Linie aus US-Recht funktional aehnlich, aber in Deutschland ueber § 280 i.V.m. § 249 BGB Schutzzweck.
  - **Unzulaessige Klauseln:**
- - "Wir haften nicht fuer entgangenen Gewinn" - im B2C immer unwirksam, weil zu pauschal.
- - "Keine Haftung fuer Folgeschaeden" - ohne Definition intransparent (§ 307 Abs. 1 S. 2 BGB).
+ - "Wir haften nicht für entgangenen Gewinn" - im B2C immer unwirksam, weil zu pauschal.
+ - "Keine Haftung für Folgeschaeden" - ohne Definition intransparent (§ 307 Abs. 1 S. 2 BGB).
  - "Haftung beschraenkt auf Direktschaeden" - Begriff "Direktschaden" ist im deutschen Recht nicht klar definiert; Klausel intransparent.
  - **Zulaessige Klauseln im B2B:**
  - Begrenzung auf "vertragstypisch vorhersehbaren Schaden" bei leichter Fahrlaessigkeit.
- - Ausschluss fuer "atypische Folgeschaeden, die der Anbieter nicht vernuenftigerweise vorhersehen konnte" mit Definition.
+ - Ausschluss für "atypische Folgeschaeden, die der Anbieter nicht vernuenftigerweise vorhersehen konnte" mit Definition.
  - **Praxis-Tipp:** Aus US-Vertraegen importierte "consequential damages exclusions" muessen ins deutsche Recht "uebersetzt" werden; reine Uebersetzung "Folgeschaeden" ist gefaehrlich, weil unbestimmt.
 6. **Rechtsfolge:** Unwirksamkeit; volle Haftung nach §§ 280, 249, 252 BGB.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
 ### Mustertext B2B
 
-> Der Anbieter haftet bei leichter Fahrlaessigkeit nur fuer den vertragstypisch vorhersehbaren Schaden. Vertragstypisch vorhersehbar ist insbesondere ein Schaden, mit dem der Anbieter bei Vertragsschluss aufgrund der ihm bekannten Umstaende rechnen musste. Entgangener Gewinn des Kunden wird ersetzt, soweit er nach den Umstaenden des Einzelfalls vorhersehbar war (§ 252 BGB).
+> Der Anbieter haftet bei leichter Fahrlaessigkeit nur für den vertragstypisch vorhersehbaren Schaden. Vertragstypisch vorhersehbar ist insbesondere ein Schaden, mit dem der Anbieter bei Vertragsschluss aufgrund der ihm bekannten Umstaende rechnen musste. Entgangener Gewinn des Kunden wird ersetzt, soweit er nach den Umstaenden des Einzelfalls vorhersehbar war (§ 252 BGB).
 
 ## Output
 

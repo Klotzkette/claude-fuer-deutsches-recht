@@ -7,10 +7,10 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 
 ## Arbeitsbereich
 
-**Substantiiertes Bestreiten Zerlegen** ordnet den Fall über die tragenden Prüffelder: Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
+**Substantiiertes Bestreiten Zerlegen** ordnet den Fall über die tragenden Prüfungslinien: Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
+## Prüfungslinien
 
-| Prüffeld | Fokus |
+| Prüfungslinie | Fokus |
 | --- | --- |
 | `substantiiertes-bestreiten-138-iv-zpo` | Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen. |
 | `tatbestand-zerlegen-anspruchspruefung-laien` | Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren. |
@@ -18,12 +18,12 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Selbstvertreter Amtsgericht klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: die im Fachgebiet einschlägigen Verfahrens-, materiellen und Anmeldefristen vorab markieren und nicht aus Modellwissen finalisieren (insbesondere Widerspruch 1 Monat, Klage 1 Monat, Verjährung §§ 195, 199 BGB / spezialgesetzlich).
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
+## Prüfungslinien im Detail
 
 ## 1. `substantiiertes-bestreiten-138-iv-zpo`
 
@@ -54,7 +54,7 @@ Sie koennen nicht einfach sagen "stimmt nicht" zu allem in der Klage. § 138 II 
 - **§ 138 IV ZPO** — Mit Nichtwissen bestreiten bei nicht-eigener Wahrnehmung.
 - **§ 286 ZPO** — Freie Beweiswuerdigung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Klaeger-Tatsachen sortieren
 
@@ -210,7 +210,7 @@ Jede Anspruchsnorm hat **Tatbestandsmerkmale** — das sind die Voraussetzungen,
 - **§ 286 BGB** — Verzug.
 - **§ 812 BGB** — Bereicherung.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Norm im Gesetzbuch nachschlagen
 
@@ -305,7 +305,7 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 ## Worauf Sie besonders achten muessen
 
 - **Jedes Merkmal zaehlt** — auch das "kleinste" Merkmal kann den Prozess kippen.
-- **Beweismittel pro Merkmal** — nicht nur ein Beweis fuer alles.
+- **Beweismittel pro Merkmal** — nicht nur ein Beweis für alles.
 - **Beweislast pruefen**: Wer beweist?
 - **Indizien sammeln**: Bei schlechter Beweis-Lage Hilfstatsachen sammeln.
 
@@ -326,7 +326,6 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
-
 
 ## Qualitäts-Hardening
 
@@ -364,7 +363,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **§ 139 ZPO** — Hinweispflicht.
 - **§ 141 ZPO** — Persoenliches Erscheinen.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — 2 Wochen vor Termin
 
@@ -390,7 +389,7 @@ Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet d
 - **Klage-Akten** (alle Schriftsaetze).
 - **Originale der Urkunden**.
 - **Stichwort-Notizen** der eigenen Argumente.
-- **Anfangs-Vorschlag fuer Vergleich** (falls eroeffnet).
+- **Anfangs-Vorschlag für Vergleich** (falls eroeffnet).
 - **Schreibmaterial**.
 
 ### Schritt 5 — Schluessel-Argumente vorbereiten
@@ -435,9 +434,9 @@ Vor Termin entscheiden:
 
 Bei Vergleich im Termin: nicht spontan entscheiden, sondern auf vorbereitete Spielraeume zurueckgreifen. Skill `vergleich-richtervorschlag-278-ii-zpo`.
 
-### Schritt 8 — Bei persoenlichem Erscheinen (§ 141 ZPO)
+### Schritt 8 — Bei persönlichem Erscheinen (§ 141 ZPO)
 
-Wenn Gericht persoenliches Erscheinen anordnet:
+Wenn Gericht persönliches Erscheinen anordnet:
 
 - Sie muessen selbst kommen.
 - Sie werden ggf. informatorisch befragt.
@@ -457,7 +456,7 @@ Wenn Gericht persoenliches Erscheinen anordnet:
 
 ## Worauf Sie besonders achten muessen
 
-- **Anwesenheit pflichtschuldig** bei persoenlichem Erscheinen.
+- **Anwesenheit pflichtschuldig** bei persönlichem Erscheinen.
 - **Originale dabei**.
 - **Eigene Schriftsaetze kennen**: Sie muessen wissen, was Sie geschrieben haben.
 - **Vergleichs-Spielraum** vorab definieren.
@@ -479,7 +478,6 @@ Wenn Gericht persoenliches Erscheinen anordnet:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
 
 ## Qualitäts-Hardening
 

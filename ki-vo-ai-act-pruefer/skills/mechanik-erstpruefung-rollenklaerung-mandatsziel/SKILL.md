@@ -1,0 +1,66 @@
+---
+name: mechanik-erstpruefung-rollenklaerung-mandatsziel
+description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im EU KI-VO (AI Act): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt? 5."
+---
+
+# Mechanik: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Spezialwissen: Mechanik: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** KI, VO, EU, GPAI, Art. 43, CE, DB.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **KI-VO-Mechanik** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Mechanik der KI-VO-Erstprüfung
+1. **Liegt ein KI-System vor (Art. 3 Nr. 1 KI-VO)?** Maschinengestütztes System, das mit unterschiedlicher Autonomiestufe konzipiert ist; konventionelle Software ohne lernende Komponente fällt nicht darunter.
+2. **Territorialer Anwendungsbereich (Art. 2 KI-VO)?** Anbieter, deren System in der EU in Verkehr gebracht/in Betrieb genommen wird; Betreiber in der EU; Anbieter/Betreiber außerhalb der EU, deren Output in der EU genutzt wird.
+3. **Sachlicher Ausschluss (Art. 2 Abs. 3-12 KI-VO)?** Z. B. Verteidigung/nationale Sicherheit, ausschließliche Forschung, freie Software für persönliche Zwecke.
+4. **Rolle bestimmen (Art. 3 Nr. 3-8)?** Anbieter, Betreiber, Importeur, Händler — entscheidet das gesamte Pflichtenprofil.
+5. **Risikoklasse (Art. 5, 6, 50)?** Verbotene Praktiken / Hochrisiko / Begrenztes Risiko / Minimal.
+6. **GPAI-Schicht (Art. 51 ff.)?** Wenn ein Modell mit allgemeinem Verwendungszweck zugrunde liegt, eigener Pflichtenkanon.
+
+## Geltungsstaffelung
+- **Art. 5 Verbote**: gilt ab **02.02.2025**.
+- **GPAI-Pflichten (Art. 51-55)** und **Governance (Art. 57 ff.)**: gilt ab **02.08.2025**.
+- **Anhang III Hochrisiko** und allgemeine Pflichten: gilt ab **02.08.2026**.
+- **Hochrisiko unter Anhang I (Sicherheitsbauteile bestehender Produktrichtlinien)**: gilt ab **02.08.2027**.
+
+## Mandatsziel präzisieren
+- **Compliance-Roadmap** für Anbieter: typischerweise 6-18 Monate je nach Risikoklasse.
+- **Konformitätsbewertung**: bei Hochrisiko vor Inverkehrbringen; bei substantieller Änderung neu (Art. 43 Abs. 4).
+- **EU-Datenbank Registrierung** (Art. 49) für Hochrisiko-Anbieter; öffentliche Liste durch Kommission.
+- **Vertretung** (Art. 22): Anbieter aus Drittstaaten brauchen Bevollmächtigten in der Union.
+
+## Sanktionsrahmen (Art. 99 KI-VO)
+- **Verbotene Praktiken Art. 5**: bis **35 Mio. EUR oder 7 % weltweiter Jahresumsatz** (höherer Betrag).
+- **Hochrisiko / GPAI-Pflichten**: bis **15 Mio. EUR oder 3 %**.
+- **Falsche / unvollständige Informationen**: bis **7,5 Mio. EUR oder 1 %**.
+- Geldbußen für KMU und Start-ups gedeckelt nach Maßgabe Art. 99 Abs. 6 (jeweils niedrigerer Betrag).
+
+## Trade-off
+Frühe Klassifizierung als "kein KI-System" oder "minimales Risiko" spart Aufwand, kann aber bei späterer Aufsichtsfeststellung doppelte Kosten und Marktausschluss verursachen. Empfehlung: konservative Klassifizierung mit dokumentierter Begründung statt einer Selbsteinschätzung "nicht erfasst".
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

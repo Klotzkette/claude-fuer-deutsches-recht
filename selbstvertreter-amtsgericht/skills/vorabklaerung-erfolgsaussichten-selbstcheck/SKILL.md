@@ -20,7 +20,7 @@ Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Ner
 
 - **Anspruchsgrundlage**: Die rechtliche Norm, die einen Anspruch traegt (z. B. § 280 BGB Schadensersatz, § 433 BGB Kaufpreis).
 - **Beweislast**: Wer im Prozess die Tatsachen beweisen muss, die seinen Anspruch tragen.
-- **Verjaehrung**: Zeitlicher Ablauf, nach dem ein Anspruch zwar weiter besteht, aber der Schuldner die Erfuellung verweigern darf.
+- **Verjährung**: Zeitlicher Ablauf, nach dem ein Anspruch zwar weiter besteht, aber der Schuldner die Erfuellung verweigern darf.
 - **Kostenrisiko**: Risiko, im Fall der Niederlage die Gerichts- und Anwaltskosten der Gegenseite zu tragen.
 
 ## Rechtsgrundlagen
@@ -28,10 +28,10 @@ Klage ist die schaerfste Form der Konfliktloesung. Sie kostet Geld, Zeit und Ner
 - **§ 91 ZPO** — Kostenfolge: Verlierer traegt die Kosten.
 - **§ 91a ZPO** — Bei Erledigung Kostenentscheidung nach billigem Ermessen.
 - **§ 138 ZPO** — Wahrheitspflicht.
-- **§ 195 BGB** — Regel-Verjaehrung 3 Jahre.
-- **§ 286 BGB** — Verzug erforderlich fuer Verzugsschaden.
+- **§ 195 BGB** — Regel-Verjährung 3 Jahre.
+- **§ 286 BGB** — Verzug erforderlich für Verzugsschaden.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Anspruchsgrundlage benennen
 
@@ -64,16 +64,16 @@ Pruefen Sie **jedes** Merkmal: Koennen Sie es beweisen? Mit was?
 
 Skill `beweismittel-vorab-sammeln-checkliste`, `beweislast-grundregel-wer-was`.
 
-### Schritt 4 — Verjaehrung pruefen
+### Schritt 4 — Verjährung pruefen
 
-Forderung verjaehrt? Skill `verjaehrungsfrist-pruefen-195-bgb`. Bei Verjaehrung: Anspruch besteht zwar, aber Schuldner kann verweigern (= klage faktisch sinnlos).
+Forderung verjaehrt? Skill `verjaehrungsfrist-pruefen-195-bgb`. Bei Verjährung: Anspruch besteht zwar, aber Schuldner kann verweigern (= klage faktisch sinnlos).
 
 ### Schritt 5 — Kostenrisiko durchrechnen
 
 Bei Streitwert 3.000 EUR:
 
-- Gerichtskosten 3,0 Gebuehren x ca. 100 EUR = ca. 300 EUR.
-- Anwaltsgebuehr Gegenseite (wenn die einen Anwalt nimmt): 2,5 Gebuehren x ca. 200 EUR + Auslagen + MwSt = ca. 700 EUR.
+- Gerichtskosten 3,0 Gebühren x ca. 100 EUR = ca. 300 EUR.
+- Anwaltsgebuehr Gegenseite (wenn die einen Anwalt nimmt): 2,5 Gebühren x ca. 200 EUR + Auslagen + MwSt = ca. 700 EUR.
 - Sachverstaendiger ggf. 500-3.000 EUR.
 
 Im Niederlagefall zahlen Sie also schnell mehr als 1.000 EUR. Skill `kostenrisiko-streitwert-berechnen-gkg`.
@@ -82,7 +82,7 @@ Im Niederlagefall zahlen Sie also schnell mehr als 1.000 EUR. Skill `kostenrisik
 
 Selbst wenn Sie gewinnen: Bekommen Sie das Geld? Bei Insolvenz/Vermoegenslosigkeit haben Sie zwar einen Titel, aber nichts zu vollstrecken. Hinweise auf schlechte Bonitaet:
 
-- Gegenseite ist privat insolvent (Schufa, oeffentliches Schuldnerverzeichnis).
+- Gegenseite ist privat insolvent (Schufa, öffentliches Schuldnerverzeichnis).
 - Wiederholt ausstehende Forderungen anderer Glaeubiger.
 - Gewerbe abgemeldet.
 
@@ -101,7 +101,7 @@ Beantworten Sie:
 
 - Kann ich die Tatsachen beweisen? Ja/Nein/Teilweise.
 - Habe ich eine klare Anspruchsgrundlage? Ja/Nein.
-- Ist die Verjaehrung noch offen? Ja/Nein.
+- Ist die Verjährung noch offen? Ja/Nein.
 - Ist die Gegenseite voraussichtlich liquide? Ja/Nein/Unklar.
 - Lohnt sich der Aufwand im Verhaeltnis zum Streitwert? Ja/Nein.
 
@@ -123,7 +123,7 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 ## Querverweise
 
 - `anspruchsgrundlage-finden-laienhilfe` — Was ist meine Anspruchsgrundlage?
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjaehrungs-Check.
+- `verjaehrungsfrist-pruefen-195-bgb` — Verjährungs-Check.
 - `aussergerichtliche-mahnung-286-bgb` — Mahnung vor Klage.
 - `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als Alternative.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
@@ -133,7 +133,6 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
-
 
 ## Qualitäts-Hardening
 

@@ -1,40 +1,21 @@
 ---
 name: auslandreise-auftrag-cloud-ordner-digital
-description: "Auslandreise Auftrag Cloud Ordner Digital im Solo-Selbstständigen-Praxis: prüft konkret Solo-Selbstständige. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
 ---
 
-# Auslandreise Auftrag Cloud Ordner Digital
+# Internationales und Auslandskunden: Prüft reisekosten
 
 ## Arbeitsbereich
 
-**Auslandreise Auftrag Cloud Ordner Digital** ordnet den Fall über die tragenden Prüffelder: Solo-Selbstständige. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
-## Prüffelder
-
-| Prüffeld | Fokus |
-| --- | --- |
-| `solo-auslandreise-auftrag` | Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-cloud-ordner-und-dateinamen` | Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-digital-nomad-risiko` | Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-entscheidungsvermerk` | Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-gewerbesteuer-freibetrag-und-messbetrag` | Solo-Selbstständige: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-krisenampel` | Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-kunde-aus-drittland` | Solo-Selbstständige: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-kunde-aus-eu` | Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Die Prüfung konzentriert sich auf diese Prüfungslinie und trennt Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
-- Rolle und Ziel im Solo-Selbstständigen-Praxis klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp ist gefragt (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Eilantrag, Stellungnahme)? Welches der oben gelisteten Prüffelder trägt die Akte wirklich?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
 - Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-## Prüffelder im Detail
-
-## 1. `solo-auslandreise-auftrag`
-
-**Fokus:** Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Internationales und Auslandskunden: Prüft reisekosten
 
 ## Einsatz
 
@@ -60,212 +41,31 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 - Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
 
-## 2. `solo-cloud-ordner-und-dateinamen`
-
-**Fokus:** Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Büro Alltag und Tools: Baut eine belastbare ordner- und dateinamenlogik für kunden
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tools**. Schwerpunkt: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 3. `solo-digital-nomad-risiko`
-
-**Fokus:** Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Internationales und Auslandskunden: Prüft gewöhnlichen aufenthalt
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und Auslandskunden**. Schwerpunkt: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 4. `solo-entscheidungsvermerk`
-
-**Fokus:** Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Dokumente und Kommunikation: Dokumentiert warum kleinunternehmer
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommunikation**. Schwerpunkt: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 5. `solo-gewerbesteuer-freibetrag-und-messbetrag`
-
-**Fokus:** Solo-Selbstständige: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Steuern und Buchhaltung: Erklärt gewerbesteuerlogik für einzelunternehmen und gemeindehebesatz
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltung**. Schwerpunkt: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 6. `solo-krisenampel`
-
-**Fokus:** Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Pricing Liquidität und Wachstum: Erkennt warnzeichen: steuerlücke
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität und Wachstum**. Schwerpunkt: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 7. `solo-kunde-aus-drittland`
-
-**Fokus:** Solo-Selbstständige: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Internationales und Auslandskunden: Ordnet rechnung
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und Auslandskunden**. Schwerpunkt: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
-
-## 8. `solo-kunde-aus-eu`
-
-**Fokus:** Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
-
-# Internationales und Auslandskunden: Prüft umsatzsteuer
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und Auslandskunden**. Schwerpunkt: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
-
-## Ergebnis
-
-- Kurzdiagnose in normalem Deutsch
-- To-do-Liste mit Fristen und Belegen
-- Risiko-/Geldfolge-Ampel
-- konkreter Textbaustein oder Dokumentenplan
-
-## Quellen- und Qualitätsregeln
-
-- Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
-- Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- §§ 1, 2 BRAO (Rechtsanwaltsberuf, Unabhängigkeit)
+- § 3 BRAO (Vertretung in Rechtsangelegenheiten)
+- §§ 43, 43a BRAO (Allgemeine Berufspflichten)
+- § 49b BRAO (Vergütungsabsprachen)
+- § 51 BRAO (Berufshaftpflicht)
+- § 59f BRAO (Berufsausübungsgesellschaften)
+- §§ 1-4 RVG, RVG-VV Nr. 2300-2503 (Vergütung)
+- §§ 7-7e UStG (Kleinunternehmer)
+- §§ 4 Abs. 3, 4 EStG, § 16 EStG (Gewinnermittlung, Veräußerung)
+- DSGVO Art. 6, 28 (Mandantendaten, AV-Verträge)
+
+### Leitentscheidungen
+
+- BGH IX ZR 23/14 (Anwaltshaftung Drittwirkung)
+- BVerfG 1 BvR 1474/12 (Anwaltswerbung)
+- BGH AnwSt (R) 5/19 (Anwaltsberufsgericht)
+- BFH VIII R 27/17 (Freiberufler-Gewinnermittlung)
+- EuGH C-431/20 (Anwaltsgeheimnis)
+
+### Anwendung im Skill
+
+- Berufshaftpflicht § 51 BRAO als Existenzschutz, nicht als Pflichtuebung behandeln; Hoechstsumme an Mandatsstruktur anpassen.
+- RVG-Vergueterungsvereinbarung § 3a BRAO schriftlich; bei Verbrauchern strenge Formvorgaben.
+- Kleinunternehmerregelung § 19 UStG strategisch waehlen; Vorsteuerverzicht beim Praxisstart oft nachteilig.

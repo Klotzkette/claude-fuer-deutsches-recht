@@ -52,7 +52,7 @@ Bei elektronischen Postfaechern, technischen Datenformaten, IT-Schnittstellen: i
 
 ## Pruefstation 6 - Subsidiaritaet Art. 5 EUV
 
-Auch wenn die EU zustaendig waere - hat sie tatsächlich Recht gesetzt? Wenn nicht, kann der Mitgliedstaat regeln, soweit keine Sperrwirkung.
+Auch wenn die EU zuständig waere - hat sie tatsächlich Recht gesetzt? Wenn nicht, kann der Mitgliedstaat regeln, soweit keine Sperrwirkung.
 
 ## Pruefstation 7 - Vorlagepflicht Art. 267 AEUV
 

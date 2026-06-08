@@ -51,7 +51,7 @@ Prüfe EU-Bezug, Ausgaben in der EU, Inverkehrbringen, Betrieb und sachliche Aus
 ## Schritt 3 — Rollen
 
 Skills:
-- `persoenlicher-anwendungsbereich-rollen-art-3`
+- `persönlicher-anwendungsbereich-rollen-art-3`
 - `rolle-anbieter-pruefen-art-3-nr-3`
 - `rolle-betreiber-pruefen-art-3-nr-4`
 - bei Zweckänderung: `anbieter-werden-art-25`
@@ -143,7 +143,7 @@ Das Enddokument muss enthalten:
 1. triage-ki-vo-vorpruefung / allgemein
 2. liegt-ki-system-vor-art-3-nr-1
 3. territorialer-anwendungsbereich-art-2
-4. persoenlicher-anwendungsbereich-rollen-art-3
+4. persönlicher-anwendungsbereich-rollen-art-3
 5. risikoklassen-uebersicht-und-triage
 6. hochrisiko-art-6-abs-2-anhang-iii (wenn Zwecknaehe)
 7. rueckausnahme-art-6-abs-3 (bei Anhang-III-Treffer)
@@ -155,7 +155,6 @@ Das Enddokument muss enthalten:
 ## Quellen- und Aktualitätshinweis
 
 Stand: 05/2026. Maßgeblich sind Art. 2, 3, 5, 6, 25, 26, 27, 40, 50, 51 bis 56 und Anhang III KI-VO. Keine Rechtsberatung.
-
 
 ## Qualitäts-Hardening
 

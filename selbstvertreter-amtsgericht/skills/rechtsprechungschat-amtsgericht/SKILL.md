@@ -88,7 +88,6 @@ Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 - Bei aktueller oder streitiger Rechtsprechung immer Aktualitätsprüfung empfehlen.
 - Selbstvertreter nicht mit zehn Entscheidungen erschlagen; lieber eine tragende Entscheidung sauber erklären.
 
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

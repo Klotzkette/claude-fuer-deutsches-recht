@@ -13,23 +13,23 @@ description: "Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt
 
 ## Worum geht es?
 
-Im Termin oder im schriftlichen Verfahren kann ein Vergleich vorgeschlagen werden. Das bedeutet: Sie und die Behoerde einigen sich. Diese Skill zeigt, was ein Vergleich ist und worauf Sie achten muessen.
+Im Termin oder im schriftlichen Verfahren kann ein Vergleich vorgeschlagen werden. Das bedeutet: Sie und die Behörde einigen sich. Diese Skill zeigt, was ein Vergleich ist und worauf Sie achten muessen.
 
 ## In einfacher Sprache
 
-Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Seiten geben nach. Sie bekommen etwas, die Behoerde gibt etwas. Wir helfen Ihnen zu entscheiden.
+Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Seiten geben nach. Sie bekommen etwas, die Behörde gibt etwas. Wir helfen Ihnen zu entscheiden.
 
 ## Wann brauchen Sie diese Skill?
 
 - Im Termin schlaegt das Gericht einen Vergleich vor.
-- Die Behoerde macht ein Angebot.
+- Die Behörde macht ein Angebot.
 - Sie ueberlegen, ob Sie es annehmen sollen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Vergleich**: Einigung beider Seiten.
 - **Teilvergleich**: Einigung nur ueber Teil-Aspekte.
-- **Anerkenntnis**: Behoerde gibt vollstaendig nach.
+- **Anerkenntnis**: Behörde gibt vollstaendig nach.
 - **Widerruf**: In manchen Faellen koennen Sie Vergleich widerrufen.
 - **Vergleichsangebot**: Konkreter Vorschlag.
 
@@ -39,7 +39,7 @@ Statt zu kaempfen, koennen Sie sich auch einigen. Das heisst Vergleich. Beide Se
 - **§ 101 Abs. 1 SGG** — Materieller Vergleichsschluss.
 - **§ 101 Abs. 2 SGG** — Bedenkzeit / Widerruf.
 
-## Schritt-fuer-Schritt-Anleitung
+## Schritt-für-Schritt-Anleitung
 
 ### Schritt 1 — Vergleichsvorschlag verstehen
 
@@ -93,7 +93,7 @@ Manchmal mit Widerrufsfrist. Wenn Sie sich dann anders entscheiden: rechtzeitig 
 
 Im Vergleich wird die Kostenregel geregelt:
 
-- "Die Beklagte traegt die ausserhalb des Verfahrens entstandenen Kosten" → gut fuer Sie
+- "Die Beklagte traegt die ausserhalb des Verfahrens entstandenen Kosten" → gut für Sie
 - "Jeder traegt eigene Kosten" → neutral
 - "Klaeger traegt Kosten" → eher schlecht; pruefen
 
@@ -122,7 +122,6 @@ Im Vergleich wird die Kostenregel geregelt:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 101 SGG aktuell.
-
 
 ## Qualitäts-Hardening
 
